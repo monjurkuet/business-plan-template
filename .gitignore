@@ -1,0 +1,29 @@
+# Editor / IDE Settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+~*
+
+# Sensitive data — NEVER commit credentials
+.env
+.env.*
+credentials/
+secrets/
+*.key
+*.pem
+
+# Generated/export files
+*.pdf
+*.xlsx
+*.pptx
+# (Re-export from .md source if needed — keep source of truth in markdown)
