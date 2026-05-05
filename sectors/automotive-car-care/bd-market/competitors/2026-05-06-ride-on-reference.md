@@ -100,3 +100,13 @@
 4. **Missing service center** — guarantees without a physical location feel hollow
 5. **Product range needs expansion** — hybrid parts, more accessories, bundles
 6. **Content strategy works** — Bengali doctor/testimonial reels are effective and should be scaled
+
+---
+
+## Threat Level: N/A (Reference Brand)
+
+This is the inspiration brand, not a direct competitor. Included for analysis of strengths to build on and weaknesses to address.
+
+---
+
+*Last updated: 2026-05-06*
