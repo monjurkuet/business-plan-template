@@ -1,0 +1,18 @@
+# State files (regenerated each run)
+_system/state/
+
+# Evidence cache (regenerated)
+data/evidence/
+
+# Query memory (regenerated + large)
+data/query_memory.json
+
+# Temp files
+*.tmp
+*.bak
+__pycache__/
+*.pyc
+.DS_Store
+
+# Environment (contains API keys)
+_system/config/cron.env

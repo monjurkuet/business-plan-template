@@ -1,3 +1,11 @@
+---
+sector: automotive-car-care
+last_verified: 2026-05-06
+freshness: fresh
+confidence: 0.5
+evidence_ids: []
+---
+
 # Competitor: Parts Choice
 
 ## Metadata

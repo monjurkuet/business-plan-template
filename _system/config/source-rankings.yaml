@@ -1,0 +1,113 @@
+# Source domain trust weights for confidence scoring
+# Higher weight = more trustworthy. Range 0.0-1.0
+
+source_weights:
+  gov_bd:
+    description: "Bangladesh government domains"
+    domains:
+      - gov.bd
+      - btrc.gov.bd
+      - nbr.gov.bd
+      - commerce.gov.bd
+      - bida.gov.bd
+      - bangladeshbank.org.bd
+      - moedu.gov.bd
+      - mot.gov.bd
+    weight: 0.95
+
+  international_org:
+    description: "International organizations and development banks"
+    domains:
+      - worldbank.org
+      - adb.org
+      - imf.org
+      - un.org
+      - wto.org
+    weight: 0.92
+
+  official_company:
+    description: "Official company websites"
+    domains:
+      - "*.com"
+      - "*.bd"
+      - "*.co"
+    weight: 0.82
+
+  research_firm:
+    description: "Professional research and consulting firms"
+    domains:
+      - statista.com
+      - lightcastle.com.bd
+      - lankabd.com
+      - pwc.com
+      - ey.com
+      - kpmg.com
+      - deloitte.com
+      - mckinsey.com
+      - bcg.com
+      - basis.org.bd
+    weight: 0.88
+
+  bd_news:
+    description: "Bangladesh news outlets"
+    domains:
+      - thedailystar.net
+      - dhakatribune.com
+      - bdnews24.com
+      - newagebd.net
+      - thebusinessstandard.com
+      - tbsnews.net
+      - dhakapost.com
+    weight: 0.73
+
+  global_news:
+    description: "International news covering Bangladesh"
+    domains:
+      - reuters.com
+      - bloomberg.com
+      - ft.com
+      - bbc.com
+      - scmp.com
+    weight: 0.76
+
+  industry_publication:
+    description: "Industry-specific publications"
+    domains:
+      - textiletoday.com.bd
+      - chainalysis.com
+      - coindesk.com
+      - cointelegraph.com
+      - counterpointresearch.com
+      - idc.com
+    weight: 0.78
+
+  linkedin:
+    domains:
+      - linkedin.com
+    weight: 0.68
+
+  facebook:
+    domains:
+      - facebook.com
+      - m.facebook.com
+    weight: 0.64
+
+  marketplace:
+    description: "Classifieds and marketplace platforms"
+    domains:
+      - bikroy.com
+      - daraz.com.bd
+      - chaldal.com
+      - ekhanei.com
+    weight: 0.49
+
+  reddit_forum:
+    description: "Discussion forums"
+    domains:
+      - reddit.com
+      - quora.com
+    weight: 0.42
+
+  unknown:
+    description: "Unrecognized domains - default weight"
+    weight: 0.35

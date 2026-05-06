@@ -1,0 +1,35 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Sector Index",
+  "description": "Per-sector health and completeness tracking",
+  "type": "object",
+  "required": ["sector", "status", "priority_score", "health_score"],
+  "properties": {
+    "sector": {"type": "string"},
+    "display_name": {"type": "string"},
+    "status": {"type": "string", "enum": ["active", "archived", "paused"]},
+    "priority_score": {"type": "number", "minimum": 0, "maximum": 1},
+    "health_score": {"type": "number", "minimum": 0, "maximum": 1},
+    "files_expected": {"type": "integer"},
+    "files_present": {"type": "integer"},
+    "competitor_target": {"type": "integer"},
+    "competitor_present": {"type": "integer"},
+    "stale_claim_count": {"type": "integer"},
+    "unverified_handle_count": {"type": "integer"},
+    "coverage": {
+      "type": "object",
+      "properties": {
+        "competitors": {"type": "number", "minimum": 0, "maximum": 1},
+        "pricing": {"type": "number", "minimum": 0, "maximum": 1},
+        "compliance": {"type": "number", "minimum": 0, "maximum": 1},
+        "sentiment": {"type": "number", "minimum": 0, "maximum": 1},
+        "seasonality": {"type": "number", "minimum": 0, "maximum": 1},
+        "supply_chain": {"type": "number", "minimum": 0, "maximum": 1},
+        "policy": {"type": "number", "minimum": 0, "maximum": 1}
+      }
+    },
+    "last_full_review_at": {"type": "string", "format": "date-time"},
+    "last_search_run_at": {"type": "string", "format": "date-time"},
+    "last_content_update_at": {"type": "string", "format": "date-time"}
+  }
+}

@@ -1,0 +1,66 @@
+# Confidence scoring formula weights
+# confidence = sum(weight * component_score)
+
+scoring_formula:
+  source_quality:
+    weight: 0.30
+    description: "Trustworthiness of the source domain (from source-rankings.yaml)"
+    range: [0.0, 1.0]
+
+  recency:
+    weight: 0.20
+    description: "How recent the data is relative to freshness policy"
+    range: [0.0, 1.0]
+    calculation: "1.0 - min(age_days / stale_after_days, 1.0)"
+
+  cross_source_consistency:
+    weight: 0.20
+    description: "Whether multiple sources agree on the same fact"
+    range: [0.0, 1.0]
+    rules:
+      single_source: 0.50
+      two_sources_agree: 0.80
+      three_plus_agree: 1.00
+      sources_disagree: 0.30
+
+  extraction_certainty:
+    weight: 0.15
+    description: "How certain the LLM was in extracting this fact"
+    range: [0.0, 1.0]
+
+  entity_match_precision:
+    weight: 0.10
+    description: "How precisely the source refers to the target entity"
+    range: [0.0, 1.0]
+    rules:
+      exact_name_match: 1.00
+      partial_name_match: 0.70
+      context_inferred: 0.40
+      vague_reference: 0.20
+
+  query_historical_success:
+    weight: 0.05
+    description: "How well this query template has performed historically"
+    range: [0.0, 1.0]
+
+# Confidence thresholds
+thresholds:
+  high: 0.75
+  medium: 0.50
+  low: 0.25
+  unverified: 0.00
+
+# Actions by confidence level
+actions:
+  high:
+    - include in reports
+    - use for strategy decisions
+  medium:
+    - include with caveat
+    - prioritize for re-verification
+  low:
+    - flag for review
+    - schedule targeted search
+  unverified:
+    - exclude from reports
+    - urgent verification needed

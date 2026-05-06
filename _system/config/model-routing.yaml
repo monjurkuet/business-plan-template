@@ -1,0 +1,54 @@
+# LLM model routing for the review pipeline
+# All models use the OpenAI-compatible API at OPENPAI_BASE_URL
+
+api:
+  base_url: "https://llm.datasolved.org/v1"
+  auth_env: "OPENPAI_API_KEY"
+
+review_models:
+  deep_analysis:
+    model: "deepseek-ai/deepseek-v4-pro"
+    temperature: 0.2
+    max_tokens: 12000
+    role: "Strategic depth — sector-by-sector gaps, regulatory implications, search plan prioritization"
+    output_format:
+      - repo_critical_issues
+      - sector_priorities
+      - search_hypotheses
+      - high_value_missing_angles
+      - recommended_actions
+
+  breadth_scan:
+    model: "gemini-2.5-flash-lite"
+    temperature: 0.1
+    max_tokens: 6000
+    role: "Structure audit — missing files, heading compliance, broken references, stale dates"
+    output_format:
+      - missing_files
+      - heading_violations
+      - broken_references
+      - stale_dates
+      - duplicate_candidates
+
+  trend_gap:
+    model: "gemini-3.1-flash-lite-preview"
+    temperature: 0.3
+    max_tokens: 6000
+    role: "Emerging trends — cross-sector links, government weak signals, future data gaps"
+    output_format:
+      - emerging_trends
+      - cross_sector_links
+      - policy_weak_signals
+      - future_gap_predictions
+      - recommended_search_angles
+
+  synthesis:
+    model: "gpt-5.4"
+    temperature: 0.1
+    max_tokens: 10000
+    role: "Synthesis — merge all reviews into prioritized execution plan"
+    output_format:
+      - ranked_action_plan
+      - content_update_instructions
+      - confidence_thresholds
+      - search_plan

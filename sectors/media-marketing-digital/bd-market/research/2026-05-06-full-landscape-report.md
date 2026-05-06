@@ -1,3 +1,11 @@
+---
+sector: media-marketing-digital
+last_verified: 2026-05-06
+freshness: critical
+confidence: 0.2
+evidence_ids: []
+---
+
      1|     1|     1|# Bangladesh Media, Marketing & Digital Agencies — Full Research Report
      2|     2|     2|
      3|     3|     3|## Date: 2026-05-06

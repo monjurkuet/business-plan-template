@@ -1,0 +1,980 @@
+[
+  {
+    "path": "sectors/high-roi-niches/bd-market/strategy-canvas.md",
+    "size_bytes": 2238,
+    "last_modified": "2026-05-06T06:38:58.596260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/high-roi-niches/bd-market/regulatory.md",
+    "size_bytes": 1213,
+    "last_modified": "2026-05-06T06:28:49.864369+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/high-roi-niches/bd-market/seasonality.md",
+    "size_bytes": 1613,
+    "last_modified": "2026-05-06T06:33:48.076314+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/high-roi-niches/bd-market/go-to-market.md",
+    "size_bytes": 2731,
+    "last_modified": "2026-05-06T06:38:58.596260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/high-roi-niches/bd-market/README.md",
+    "size_bytes": 3847,
+    "last_modified": "2026-05-06T06:38:58.596260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/high-roi-niches/bd-market/risk-register.md",
+    "size_bytes": 2966,
+    "last_modified": "2026-05-06T06:38:58.596260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/high-roi-niches/bd-market/sentiment-analysis.md",
+    "size_bytes": 1285,
+    "last_modified": "2026-05-06T06:33:42.108315+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/high-roi-niches/bd-market/pricing-guide.md",
+    "size_bytes": 1202,
+    "last_modified": "2026-05-06T06:31:44.520336+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/high-roi-niches/bd-market/competitors/2026-05-06-pet-club-bd.md",
+    "size_bytes": 908,
+    "last_modified": "2026-05-06T06:38:58.596260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/high-roi-niches/bd-market/competitors/2026-05-06-walton-smart-home.md",
+    "size_bytes": 959,
+    "last_modified": "2026-05-06T06:38:58.596260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/high-roi-niches/bd-market/competitors/2026-05-06-shikho.md",
+    "size_bytes": 909,
+    "last_modified": "2026-05-06T06:38:58.596260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/high-roi-niches/bd-market/competitors/2026-05-06-foodpanda-bd.md",
+    "size_bytes": 980,
+    "last_modified": "2026-05-06T06:38:58.596260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/high-roi-niches/bd-market/competitors/2026-05-06-pathao-food.md",
+    "size_bytes": 918,
+    "last_modified": "2026-05-06T06:38:58.596260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/high-roi-niches/bd-market/competitors/2026-05-06-bd-freelancer-community.md",
+    "size_bytes": 1064,
+    "last_modified": "2026-05-06T06:38:58.596260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/high-roi-niches/bd-market/competitors/2026-05-06-10-minute-school.md",
+    "size_bytes": 981,
+    "last_modified": "2026-05-06T06:38:58.596260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/high-roi-niches/bd-market/research/2026-05-06-full-landscape-report.md",
+    "size_bytes": 13094,
+    "last_modified": "2026-05-06T06:38:58.596260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/crypto-bitcoin/bd-market/strategy-canvas.md",
+    "size_bytes": 1821,
+    "last_modified": "2026-05-06T06:38:58.648260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/crypto-bitcoin/bd-market/regulatory.md",
+    "size_bytes": 1168,
+    "last_modified": "2026-05-06T06:28:48.384369+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/crypto-bitcoin/bd-market/seasonality.md",
+    "size_bytes": 1613,
+    "last_modified": "2026-05-06T06:33:46.576314+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/crypto-bitcoin/bd-market/go-to-market.md",
+    "size_bytes": 2674,
+    "last_modified": "2026-05-06T06:38:58.648260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/crypto-bitcoin/bd-market/README.md",
+    "size_bytes": 3479,
+    "last_modified": "2026-05-06T06:38:58.648260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/crypto-bitcoin/bd-market/risk-register.md",
+    "size_bytes": 1850,
+    "last_modified": "2026-05-06T06:38:58.648260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/crypto-bitcoin/bd-market/sentiment-analysis.md",
+    "size_bytes": 1293,
+    "last_modified": "2026-05-06T06:33:40.620315+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/crypto-bitcoin/bd-market/pricing-guide.md",
+    "size_bytes": 1181,
+    "last_modified": "2026-05-06T06:31:42.992337+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/crypto-bitcoin/bd-market/competitors/2026-05-06-local-p2p-otc.md",
+    "size_bytes": 1004,
+    "last_modified": "2026-05-06T06:38:58.648260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/crypto-bitcoin/bd-market/competitors/2026-05-06-blockchain-dev-shops.md",
+    "size_bytes": 1072,
+    "last_modified": "2026-05-06T06:38:58.648260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/crypto-bitcoin/bd-market/competitors/2026-05-06-crypto-education.md",
+    "size_bytes": 1132,
+    "last_modified": "2026-05-06T06:38:58.648260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/crypto-bitcoin/bd-market/competitors/2026-05-06-binance-bd.md",
+    "size_bytes": 1327,
+    "last_modified": "2026-05-06T06:38:58.648260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/crypto-bitcoin/bd-market/research/2026-05-06-full-landscape-report.md",
+    "size_bytes": 8011,
+    "last_modified": "2026-05-06T06:38:58.648260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/jewellery/bd-market/strategy-canvas.md",
+    "size_bytes": 1440,
+    "last_modified": "2026-05-06T06:38:58.648260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/jewellery/bd-market/regulatory.md",
+    "size_bytes": 1050,
+    "last_modified": "2026-05-06T06:28:50.600368+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/jewellery/bd-market/seasonality.md",
+    "size_bytes": 1601,
+    "last_modified": "2026-05-06T06:33:48.832314+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/jewellery/bd-market/go-to-market.md",
+    "size_bytes": 1572,
+    "last_modified": "2026-05-06T06:38:58.652260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/jewellery/bd-market/README.md",
+    "size_bytes": 3445,
+    "last_modified": "2026-05-06T06:38:58.652260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/jewellery/bd-market/risk-register.md",
+    "size_bytes": 1346,
+    "last_modified": "2026-05-06T06:38:58.652260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/jewellery/bd-market/sentiment-analysis.md",
+    "size_bytes": 1257,
+    "last_modified": "2026-05-06T06:33:42.864315+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/jewellery/bd-market/pricing-guide.md",
+    "size_bytes": 1197,
+    "last_modified": "2026-05-06T06:31:45.276336+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/jewellery/bd-market/competitors/2026-05-06-prioti-jewellers.md",
+    "size_bytes": 803,
+    "last_modified": "2026-05-06T06:38:58.652260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/jewellery/bd-market/competitors/2026-05-06-ditmela.md",
+    "size_bytes": 790,
+    "last_modified": "2026-05-06T06:38:58.652260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/jewellery/bd-market/competitors/2026-05-06-anjalee-swar.md",
+    "size_bytes": 814,
+    "last_modified": "2026-05-06T06:38:58.652260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/jewellery/bd-market/competitors/2026-05-06-jewel-fashion.md",
+    "size_bytes": 840,
+    "last_modified": "2026-05-06T06:38:58.652260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/jewellery/bd-market/competitors/2026-05-06-zereze.md",
+    "size_bytes": 759,
+    "last_modified": "2026-05-06T06:38:58.652260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/jewellery/bd-market/competitors/2026-05-06-aarong-jewellery.md",
+    "size_bytes": 838,
+    "last_modified": "2026-05-06T06:38:58.652260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/jewellery/bd-market/research/2026-05-06-full-landscape-report.md",
+    "size_bytes": 7317,
+    "last_modified": "2026-05-06T06:38:58.652260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/travel-tourism/bd-market/strategy-canvas.md",
+    "size_bytes": 1505,
+    "last_modified": "2026-05-06T06:38:58.652260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/travel-tourism/bd-market/regulatory.md",
+    "size_bytes": 1174,
+    "last_modified": "2026-05-06T06:28:52.068368+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/travel-tourism/bd-market/seasonality.md",
+    "size_bytes": 1613,
+    "last_modified": "2026-05-06T06:33:50.320313+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/travel-tourism/bd-market/go-to-market.md",
+    "size_bytes": 2008,
+    "last_modified": "2026-05-06T06:38:58.652260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/travel-tourism/bd-market/README.md",
+    "size_bytes": 2479,
+    "last_modified": "2026-05-06T06:38:58.652260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/travel-tourism/bd-market/risk-register.md",
+    "size_bytes": 1709,
+    "last_modified": "2026-05-06T06:38:58.652260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/travel-tourism/bd-market/sentiment-analysis.md",
+    "size_bytes": 1285,
+    "last_modified": "2026-05-06T06:33:44.340314+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/travel-tourism/bd-market/pricing-guide.md",
+    "size_bytes": 1219,
+    "last_modified": "2026-05-06T06:31:46.820336+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/travel-tourism/bd-market/competitors/2026-05-06-sharetrip.md",
+    "size_bytes": 975,
+    "last_modified": "2026-05-06T06:38:58.652260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/travel-tourism/bd-market/competitors/2026-05-06-zakia-travels.md",
+    "size_bytes": 853,
+    "last_modified": "2026-05-06T06:38:58.652260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/travel-tourism/bd-market/competitors/2026-05-06-gozayaan.md",
+    "size_bytes": 934,
+    "last_modified": "2026-05-06T06:38:58.652260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/travel-tourism/bd-market/competitors/2026-05-06-obokash.md",
+    "size_bytes": 945,
+    "last_modified": "2026-05-06T06:38:58.656260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/travel-tourism/bd-market/competitors/2026-05-06-flight-expert.md",
+    "size_bytes": 879,
+    "last_modified": "2026-05-06T06:38:58.656260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/travel-tourism/bd-market/competitors/2026-05-06-discovery-bangladesh.md",
+    "size_bytes": 918,
+    "last_modified": "2026-05-06T06:38:58.656260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/travel-tourism/bd-market/competitors/2026-05-06-the-travel-earth.md",
+    "size_bytes": 884,
+    "last_modified": "2026-05-06T06:38:58.656260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/travel-tourism/bd-market/research/2026-05-06-full-landscape-report.md",
+    "size_bytes": 5693,
+    "last_modified": "2026-05-06T06:38:58.656260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/automotive-car-care/bd-market/strategy-canvas.md",
+    "size_bytes": 2834,
+    "last_modified": "2026-05-06T06:38:58.656260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/automotive-car-care/bd-market/regulatory.md",
+    "size_bytes": 995,
+    "last_modified": "2026-05-06T06:28:47.052369+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/automotive-car-care/bd-market/seasonality.md",
+    "size_bytes": 1623,
+    "last_modified": "2026-05-06T06:33:45.096314+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/automotive-car-care/bd-market/go-to-market.md",
+    "size_bytes": 3674,
+    "last_modified": "2026-05-06T06:38:58.656260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/automotive-car-care/bd-market/README.md",
+    "size_bytes": 5361,
+    "last_modified": "2026-05-06T06:38:58.656260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/automotive-car-care/bd-market/risk-register.md",
+    "size_bytes": 3887,
+    "last_modified": "2026-05-06T06:38:58.656260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/automotive-car-care/bd-market/sentiment-analysis.md",
+    "size_bytes": 1275,
+    "last_modified": "2026-05-06T06:33:39.144315+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/automotive-car-care/bd-market/pricing-guide.md",
+    "size_bytes": 1188,
+    "last_modified": "2026-05-06T06:31:41.440337+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-irfan-imports.md",
+    "size_bytes": 2814,
+    "last_modified": "2026-05-06T06:38:58.656260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-parts-choice.md",
+    "size_bytes": 2813,
+    "last_modified": "2026-05-06T06:38:58.656260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-auto-mania.md",
+    "size_bytes": 759,
+    "last_modified": "2026-05-06T06:38:58.672260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-garirbazar.md",
+    "size_bytes": 971,
+    "last_modified": "2026-05-06T06:38:58.672260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-mitsubishi-rangs.md",
+    "size_bytes": 2735,
+    "last_modified": "2026-05-06T06:38:58.672260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-romel-car-house.md",
+    "size_bytes": 3120,
+    "last_modified": "2026-05-06T06:38:58.672260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-jda-oil-bangladesh.md",
+    "size_bytes": 2848,
+    "last_modified": "2026-05-06T06:38:58.672260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-shell-ranks-petroleum.md",
+    "size_bytes": 3443,
+    "last_modified": "2026-05-06T06:38:58.672260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-ride-on-reference.md",
+    "size_bytes": 4331,
+    "last_modified": "2026-05-06T06:38:58.672260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-car-expert-bd.md",
+    "size_bytes": 3045,
+    "last_modified": "2026-05-06T06:38:58.672260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-naspro-auto-detailing.md",
+    "size_bytes": 730,
+    "last_modified": "2026-05-06T06:38:58.672260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-car-care-bd.md",
+    "size_bytes": 3033,
+    "last_modified": "2026-05-06T06:38:58.672260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/automotive-car-care/bd-market/research/2026-05-06-full-landscape-report.md",
+    "size_bytes": 11303,
+    "last_modified": "2026-05-06T06:38:58.672260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/electronics-gadgets/bd-market/strategy-canvas.md",
+    "size_bytes": 1618,
+    "last_modified": "2026-05-06T06:38:58.676260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/electronics-gadgets/bd-market/regulatory.md",
+    "size_bytes": 1120,
+    "last_modified": "2026-05-06T06:28:49.128369+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/electronics-gadgets/bd-market/seasonality.md",
+    "size_bytes": 1623,
+    "last_modified": "2026-05-06T06:33:47.336314+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/electronics-gadgets/bd-market/go-to-market.md",
+    "size_bytes": 2240,
+    "last_modified": "2026-05-06T06:38:58.676260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/electronics-gadgets/bd-market/README.md",
+    "size_bytes": 4064,
+    "last_modified": "2026-05-06T06:38:58.676260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/electronics-gadgets/bd-market/risk-register.md",
+    "size_bytes": 1863,
+    "last_modified": "2026-05-06T06:38:58.676260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/electronics-gadgets/bd-market/sentiment-analysis.md",
+    "size_bytes": 1307,
+    "last_modified": "2026-05-06T06:33:41.368315+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/electronics-gadgets/bd-market/pricing-guide.md",
+    "size_bytes": 1198,
+    "last_modified": "2026-05-06T06:31:43.760337+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-ryans-computers.md",
+    "size_bytes": 1015,
+    "last_modified": "2026-05-06T06:38:58.676260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-star-tech.md",
+    "size_bytes": 1039,
+    "last_modified": "2026-05-06T06:38:58.676260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-pickaboo.md",
+    "size_bytes": 1017,
+    "last_modified": "2026-05-06T06:38:58.676260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-iphone-market-bd.md",
+    "size_bytes": 1082,
+    "last_modified": "2026-05-06T06:38:58.676260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-gadget-and-gear.md",
+    "size_bytes": 1062,
+    "last_modified": "2026-05-06T06:38:58.676260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-gadget-monkey.md",
+    "size_bytes": 996,
+    "last_modified": "2026-05-06T06:38:58.676260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-daraz.md",
+    "size_bytes": 1049,
+    "last_modified": "2026-05-06T06:38:58.676260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/electronics-gadgets/bd-market/research/2026-05-06-full-landscape-report.md",
+    "size_bytes": 8180,
+    "last_modified": "2026-05-06T06:38:58.676260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/clothing-fashion/bd-market/strategy-canvas.md",
+    "size_bytes": 2016,
+    "last_modified": "2026-05-06T06:38:58.676260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/clothing-fashion/bd-market/regulatory.md",
+    "size_bytes": 1104,
+    "last_modified": "2026-05-06T06:28:47.648369+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/clothing-fashion/bd-market/seasonality.md",
+    "size_bytes": 1617,
+    "last_modified": "2026-05-06T06:33:45.836314+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/clothing-fashion/bd-market/go-to-market.md",
+    "size_bytes": 3104,
+    "last_modified": "2026-05-06T06:38:58.676260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/clothing-fashion/bd-market/README.md",
+    "size_bytes": 4269,
+    "last_modified": "2026-05-06T06:38:58.676260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/clothing-fashion/bd-market/risk-register.md",
+    "size_bytes": 2429,
+    "last_modified": "2026-05-06T06:38:58.676260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/clothing-fashion/bd-market/sentiment-analysis.md",
+    "size_bytes": 1265,
+    "last_modified": "2026-05-06T06:33:39.884315+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/clothing-fashion/bd-market/pricing-guide.md",
+    "size_bytes": 1208,
+    "last_modified": "2026-05-06T06:31:42.204337+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-lubnan.md",
+    "size_bytes": 950,
+    "last_modified": "2026-05-06T06:38:58.676260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-aarong.md",
+    "size_bytes": 1568,
+    "last_modified": "2026-05-06T06:38:58.676260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-labh.md",
+    "size_bytes": 1004,
+    "last_modified": "2026-05-06T06:38:58.680260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-sadakalo.md",
+    "size_bytes": 982,
+    "last_modified": "2026-05-06T06:38:58.680260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-yellow.md",
+    "size_bytes": 967,
+    "last_modified": "2026-05-06T06:38:58.680260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-dorjee.md",
+    "size_bytes": 907,
+    "last_modified": "2026-05-06T06:38:58.680260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-sailor.md",
+    "size_bytes": 945,
+    "last_modified": "2026-05-06T06:38:58.680260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-ecstasy.md",
+    "size_bytes": 1490,
+    "last_modified": "2026-05-06T06:38:58.680260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/clothing-fashion/bd-market/research/2026-05-06-full-landscape-report.md",
+    "size_bytes": 10478,
+    "last_modified": "2026-05-06T06:38:58.680260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/media-marketing-digital/bd-market/strategy-canvas.md",
+    "size_bytes": 1449,
+    "last_modified": "2026-05-06T06:38:58.680260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/media-marketing-digital/bd-market/regulatory.md",
+    "size_bytes": 1128,
+    "last_modified": "2026-05-06T06:28:51.336369+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/media-marketing-digital/bd-market/seasonality.md",
+    "size_bytes": 1632,
+    "last_modified": "2026-05-06T06:33:49.568313+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/media-marketing-digital/bd-market/go-to-market.md",
+    "size_bytes": 2275,
+    "last_modified": "2026-05-06T06:38:58.680260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/media-marketing-digital/bd-market/README.md",
+    "size_bytes": 4228,
+    "last_modified": "2026-05-06T06:38:58.680260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/media-marketing-digital/bd-market/risk-register.md",
+    "size_bytes": 1738,
+    "last_modified": "2026-05-06T06:38:58.680260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/media-marketing-digital/bd-market/sentiment-analysis.md",
+    "size_bytes": 1316,
+    "last_modified": "2026-05-06T06:33:43.604315+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/media-marketing-digital/bd-market/pricing-guide.md",
+    "size_bytes": 1249,
+    "last_modified": "2026-05-06T06:31:46.056336+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/media-marketing-digital/bd-market/competitors/2026-05-06-webasha.md",
+    "size_bytes": 972,
+    "last_modified": "2026-05-06T06:38:58.680260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/media-marketing-digital/bd-market/competitors/2026-05-06-tracker10.md",
+    "size_bytes": 970,
+    "last_modified": "2026-05-06T06:38:58.680260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/media-marketing-digital/bd-market/competitors/2026-05-06-shikho.md",
+    "size_bytes": 1457,
+    "last_modified": "2026-05-06T06:38:58.680260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/media-marketing-digital/bd-market/competitors/2026-05-06-popupads.md",
+    "size_bytes": 953,
+    "last_modified": "2026-05-06T06:38:58.680260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/media-marketing-digital/bd-market/competitors/2026-05-06-bongo.md",
+    "size_bytes": 876,
+    "last_modified": "2026-05-06T06:38:58.680260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/media-marketing-digital/bd-market/competitors/2026-05-06-bytecraft.md",
+    "size_bytes": 958,
+    "last_modified": "2026-05-06T06:38:58.684260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/media-marketing-digital/bd-market/competitors/2026-05-06-flyste.md",
+    "size_bytes": 963,
+    "last_modified": "2026-05-06T06:38:58.684260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/media-marketing-digital/bd-market/research/2026-05-06-full-landscape-report.md",
+    "size_bytes": 8097,
+    "last_modified": "2026-05-06T06:38:58.684260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "_templates/05-go-to-market/go-to-market.md",
+    "size_bytes": 1705,
+    "last_modified": "2026-05-05T20:03:49.882941+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "_templates/05-go-to-market/README.md",
+    "size_bytes": 217,
+    "last_modified": "2026-05-05T20:39:58.778560+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "_templates/06-risk-register/README.md",
+    "size_bytes": 245,
+    "last_modified": "2026-05-05T20:40:13.558557+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "_templates/06-risk-register/risk-register.md",
+    "size_bytes": 1505,
+    "last_modified": "2026-05-05T20:04:56.574929+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "_templates/04-financial-model/financial-model.md",
+    "size_bytes": 2273,
+    "last_modified": "2026-05-05T20:02:49.850951+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "_templates/04-financial-model/README.md",
+    "size_bytes": 235,
+    "last_modified": "2026-05-05T20:39:44.102562+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "_templates/02-competitor-analysis/README.md",
+    "size_bytes": 287,
+    "last_modified": "2026-05-05T20:36:22.974598+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "_templates/02-competitor-analysis/competitor-analysis.md",
+    "size_bytes": 2048,
+    "last_modified": "2026-05-05T20:01:00.230969+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "_templates/01-idea-brief/idea-brief.md",
+    "size_bytes": 2055,
+    "last_modified": "2026-05-05T20:00:03.846979+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "_templates/01-idea-brief/README.md",
+    "size_bytes": 237,
+    "last_modified": "2026-05-05T20:35:46.622604+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "_templates/03-strategy-canvas/strategy-canvas.md",
+    "size_bytes": 1970,
+    "last_modified": "2026-05-05T20:02:04.778958+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "_templates/03-strategy-canvas/README.md",
+    "size_bytes": 263,
+    "last_modified": "2026-05-05T20:38:47.230572+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "_guides/facebook-handle-verification.md",
+    "size_bytes": 6296,
+    "last_modified": "2026-05-06T03:09:51.318455+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "_guides/research-methodology.md",
+    "size_bytes": 4690,
+    "last_modified": "2026-05-05T20:32:17.722641+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "_system/prompts/extract_facts.md",
+    "size_bytes": 1245,
+    "last_modified": "2026-05-06T05:55:40.340716+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "_system/prompts/review_trends.md",
+    "size_bytes": 1583,
+    "last_modified": "2026-05-06T05:55:38.844716+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "_system/prompts/review_structure.md",
+    "size_bytes": 1345,
+    "last_modified": "2026-05-06T05:55:38.080716+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "_system/prompts/review_system.md",
+    "size_bytes": 1786,
+    "last_modified": "2026-05-06T05:55:37.296717+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "_system/prompts/synthesis.md",
+    "size_bytes": 1739,
+    "last_modified": "2026-05-06T05:55:39.608716+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "_system/config/freshness-policy.yaml",
+    "size_bytes": 1392,
+    "last_modified": "2026-05-06T05:49:29.232781+00:00",
+    "extension": ".yaml"
+  },
+  {
+    "path": "_system/config/source-rankings.yaml",
+    "size_bytes": 2269,
+    "last_modified": "2026-05-06T05:49:28.488781+00:00",
+    "extension": ".yaml"
+  },
+  {
+    "path": "_system/config/sectors.yaml",
+    "size_bytes": 4086,
+    "last_modified": "2026-05-06T05:48:00.436796+00:00",
+    "extension": ".yaml"
+  },
+  {
+    "path": "_system/config/model-routing.yaml",
+    "size_bytes": 1550,
+    "last_modified": "2026-05-06T05:49:30.748780+00:00",
+    "extension": ".yaml"
+  },
+  {
+    "path": "_system/config/scoring-rules.yaml",
+    "size_bytes": 1635,
+    "last_modified": "2026-05-06T05:49:29.992781+00:00",
+    "extension": ".yaml"
+  },
+  {
+    "path": "_system/config/search-taxonomy.yaml",
+    "size_bytes": 3859,
+    "last_modified": "2026-05-06T05:48:01.192796+00:00",
+    "extension": ".yaml"
+  },
+  {
+    "path": "_system/schemas/sector-index.schema.json",
+    "size_bytes": 1602,
+    "last_modified": "2026-05-06T05:51:20.400760+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "_system/schemas/evidence.schema.json",
+    "size_bytes": 1706,
+    "last_modified": "2026-05-06T05:51:21.136760+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "_system/schemas/competitor.schema.json",
+    "size_bytes": 3202,
+    "last_modified": "2026-05-06T05:51:19.628760+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "_system/schemas/pricing-observation.schema.json",
+    "size_bytes": 872,
+    "last_modified": "2026-05-06T05:51:21.880759+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "_system/state/file_inventory.json",
+    "size_bytes": 36884,
+    "last_modified": "2026-05-06T06:08:31.776581+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "_system/state/validation_results.json",
+    "size_bytes": 22698,
+    "last_modified": "2026-05-06T06:09:31.920571+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "_system/state/audit_results.json",
+    "size_bytes": 8862,
+    "last_modified": "2026-05-06T06:08:31.776581+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "_system/state/freshness_queue.json",
+    "size_bytes": 164,
+    "last_modified": "2026-05-06T06:09:21.436572+00:00",
+    "extension": ".json"
+  }
+]

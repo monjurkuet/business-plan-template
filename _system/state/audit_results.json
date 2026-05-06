@@ -1,0 +1,225 @@
+{
+  "generated_at": "2026-05-06T07:09:25.870887+00:00",
+  "total_files": 163,
+  "sectors_audited": 8,
+  "all_missing_files": [],
+  "all_stale_references": [
+    "automotive-car-care: 2024",
+    "automotive-car-care: 2023",
+    "clothing-fashion: 2024",
+    "clothing-fashion: 2023",
+    "crypto-bitcoin: 2024",
+    "electronics-gadgets: 2024",
+    "electronics-gadgets: 2023",
+    "high-roi-niches: 2024",
+    "high-roi-niches: 2023",
+    "jewellery: 2024",
+    "jewellery: 2023",
+    "media-marketing-digital: 2024",
+    "media-marketing-digital: 2023",
+    "travel-tourism: 2024",
+    "travel-tourism: 2023"
+  ],
+  "all_frontmatter_missing": [],
+  "sector_audits": [
+    {
+      "sector": "automotive-car-care",
+      "present_files": [
+        "README.md",
+        "go-to-market.md",
+        "risk-register.md",
+        "strategy-canvas.md",
+        "regulatory.md",
+        "pricing-guide.md",
+        "sentiment-analysis.md",
+        "seasonality.md",
+        "research/2026-05-06-full-landscape-report.md"
+      ],
+      "missing_files": [],
+      "stale_references": [
+        "2024",
+        "2023"
+      ],
+      "frontmatter_missing": [],
+      "competitor_count": 12,
+      "competitor_target": 12,
+      "files_expected": 9,
+      "files_present": 9,
+      "health_score": 1.0
+    },
+    {
+      "sector": "clothing-fashion",
+      "present_files": [
+        "README.md",
+        "go-to-market.md",
+        "risk-register.md",
+        "strategy-canvas.md",
+        "regulatory.md",
+        "pricing-guide.md",
+        "sentiment-analysis.md",
+        "seasonality.md",
+        "research/2026-05-06-full-landscape-report.md"
+      ],
+      "missing_files": [],
+      "stale_references": [
+        "2024",
+        "2023"
+      ],
+      "frontmatter_missing": [],
+      "competitor_count": 8,
+      "competitor_target": 12,
+      "files_expected": 9,
+      "files_present": 9,
+      "health_score": 0.9
+    },
+    {
+      "sector": "crypto-bitcoin",
+      "present_files": [
+        "README.md",
+        "go-to-market.md",
+        "risk-register.md",
+        "strategy-canvas.md",
+        "regulatory.md",
+        "pricing-guide.md",
+        "sentiment-analysis.md",
+        "seasonality.md",
+        "research/2026-05-06-full-landscape-report.md"
+      ],
+      "missing_files": [],
+      "stale_references": [
+        "2024"
+      ],
+      "frontmatter_missing": [],
+      "competitor_count": 4,
+      "competitor_target": 12,
+      "files_expected": 9,
+      "files_present": 9,
+      "health_score": 0.8
+    },
+    {
+      "sector": "electronics-gadgets",
+      "present_files": [
+        "README.md",
+        "go-to-market.md",
+        "risk-register.md",
+        "strategy-canvas.md",
+        "regulatory.md",
+        "pricing-guide.md",
+        "sentiment-analysis.md",
+        "seasonality.md",
+        "research/2026-05-06-full-landscape-report.md"
+      ],
+      "missing_files": [],
+      "stale_references": [
+        "2024",
+        "2023"
+      ],
+      "frontmatter_missing": [],
+      "competitor_count": 7,
+      "competitor_target": 12,
+      "files_expected": 9,
+      "files_present": 9,
+      "health_score": 0.875
+    },
+    {
+      "sector": "high-roi-niches",
+      "present_files": [
+        "README.md",
+        "go-to-market.md",
+        "risk-register.md",
+        "strategy-canvas.md",
+        "regulatory.md",
+        "pricing-guide.md",
+        "sentiment-analysis.md",
+        "seasonality.md",
+        "research/2026-05-06-full-landscape-report.md"
+      ],
+      "missing_files": [],
+      "stale_references": [
+        "2024",
+        "2023"
+      ],
+      "frontmatter_missing": [],
+      "competitor_count": 7,
+      "competitor_target": 10,
+      "files_expected": 9,
+      "files_present": 9,
+      "health_score": 0.91
+    },
+    {
+      "sector": "jewellery",
+      "present_files": [
+        "README.md",
+        "go-to-market.md",
+        "risk-register.md",
+        "strategy-canvas.md",
+        "regulatory.md",
+        "pricing-guide.md",
+        "sentiment-analysis.md",
+        "seasonality.md",
+        "research/2026-05-06-full-landscape-report.md"
+      ],
+      "missing_files": [],
+      "stale_references": [
+        "2024",
+        "2023"
+      ],
+      "frontmatter_missing": [],
+      "competitor_count": 6,
+      "competitor_target": 10,
+      "files_expected": 9,
+      "files_present": 9,
+      "health_score": 0.88
+    },
+    {
+      "sector": "media-marketing-digital",
+      "present_files": [
+        "README.md",
+        "go-to-market.md",
+        "risk-register.md",
+        "strategy-canvas.md",
+        "regulatory.md",
+        "pricing-guide.md",
+        "sentiment-analysis.md",
+        "seasonality.md",
+        "research/2026-05-06-full-landscape-report.md"
+      ],
+      "missing_files": [],
+      "stale_references": [
+        "2024",
+        "2023"
+      ],
+      "frontmatter_missing": [],
+      "competitor_count": 7,
+      "competitor_target": 10,
+      "files_expected": 9,
+      "files_present": 9,
+      "health_score": 0.91
+    },
+    {
+      "sector": "travel-tourism",
+      "present_files": [
+        "README.md",
+        "go-to-market.md",
+        "risk-register.md",
+        "strategy-canvas.md",
+        "regulatory.md",
+        "pricing-guide.md",
+        "sentiment-analysis.md",
+        "seasonality.md",
+        "research/2026-05-06-full-landscape-report.md"
+      ],
+      "missing_files": [],
+      "stale_references": [
+        "2024",
+        "2023"
+      ],
+      "frontmatter_missing": [],
+      "competitor_count": 7,
+      "competitor_target": 12,
+      "files_expected": 9,
+      "files_present": 9,
+      "health_score": 0.875
+    }
+  ]
+}

@@ -1,3 +1,11 @@
+---
+sector: crypto-bitcoin
+last_verified: 2026-05-06
+freshness: critical
+confidence: 0.2
+evidence_ids: []
+---
+
      1|     1|# Crypto & Bitcoin — Bangladesh Market
      2|     2|
      3|     3|## Market Overview

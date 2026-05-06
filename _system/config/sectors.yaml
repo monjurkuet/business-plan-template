@@ -1,0 +1,94 @@
+# Sector definitions for BD Business Plan Research System
+# Each sector defines keywords for search queries and metadata
+
+sectors:
+  automotive-car-care:
+    display_name: "Automotive & Car Care"
+    status: active
+    priority_weight: 0.6
+    keywords:
+      en: ["car care Bangladesh", "auto detailing Dhaka", "car wash Bangladesh", "automotive service BD"]
+      bn: ["গাড়ি যত্ন বাংলাদেশ", "কার ওয়াশ ঢাকা"]
+    competitor_target: 12
+    subsegments: ["detailing", "car wash", "ceramic coating", "PPF", "accessories"]
+    policy_sensitivity: low
+
+  clothing-fashion:
+    display_name: "Clothing & Fashion"
+    status: active
+    priority_weight: 0.7
+    keywords:
+      en: ["clothing Bangladesh", "fashion brand Dhaka", "boutique Bangladesh", "garments retail BD"]
+      bn: ["ফ্যাশন বাংলাদেশ", "পোশাক ঢাকা"]
+    competitor_target: 12
+    subsegments: ["boutique", "fast fashion", "social commerce", "ethnic wear", "western wear"]
+    policy_sensitivity: low
+
+  crypto-bitcoin:
+    display_name: "Crypto & Bitcoin"
+    status: active
+    priority_weight: 0.95
+    keywords:
+      en: ["crypto Bangladesh", "bitcoin BD", "P2P crypto Dhaka", "cryptocurrency trading Bangladesh"]
+      bn: ["ক্রিপ্টোকারেন্সি বাংলাদেশ", "বিটকয়েন ট্রেডিং"]
+    competitor_target: 12
+    subsegments: ["P2P exchange", "OTC desk", "wallet", "education", "payment gateway"]
+    policy_sensitivity: critical
+    freshness_override:
+      policy: 3
+      pricing: 2
+
+  electronics-gadgets:
+    display_name: "Electronics & Gadgets"
+    status: active
+    priority_weight: 0.7
+    keywords:
+      en: ["electronics Bangladesh", "gadget shop Dhaka", "smartphone BD", "laptop price Bangladesh"]
+      bn: ["ইলেকট্রনিক্স বাংলাদেশ", "মোবাইল দাম ঢাকা"]
+    competitor_target: 12
+    subsegments: ["smartphone", "laptop", "accessories", "home appliance", "gaming"]
+    policy_sensitivity: medium
+
+  high-roi-niches:
+    display_name: "High ROI Niches"
+    status: active
+    priority_weight: 0.65
+    keywords:
+      en: ["pet care Bangladesh", "creator economy BD", "home bakery Dhaka", "niche business Bangladesh"]
+      bn: ["পেট কেয়ার বাংলাদেশ", "ক্রিয়েটর ইকোনমি"]
+    competitor_target: 10
+    subsegments: ["pet care", "creator economy", "home bakery", "specialty food", "fitness"]
+    policy_sensitivity: low
+
+  jewellery:
+    display_name: "Jewellery"
+    status: active
+    priority_weight: 0.7
+    keywords:
+      en: ["jewellery Bangladesh", "gold jewellery Dhaka", "diamond BD", "ornament shop Bangladesh"]
+      bn: ["গহনা বাংলাদেশ", "স্বর্ণালংকার ঢাকা"]
+    competitor_target: 10
+    subsegments: ["gold", "diamond", "silver", "fashion jewellery", "traditional"]
+    policy_sensitivity: medium
+
+  media-marketing-digital:
+    display_name: "Media, Marketing & Digital"
+    status: active
+    priority_weight: 0.65
+    keywords:
+      en: ["digital marketing Bangladesh", "ad agency Dhaka", "social media BD", "content marketing Bangladesh"]
+      bn: ["ডিজিটাল মার্কেটিং বাংলাদেশ", "এড এজেন্সি ঢাকা"]
+    competitor_target: 10
+    subsegments: ["agency", "freelance", "influencer marketing", "SEO/SEM", "content production"]
+    policy_sensitivity: low
+
+  travel-tourism:
+    display_name: "Travel & Tourism"
+    status: active
+    priority_weight: 0.75
+    keywords:
+      en: ["travel agency Bangladesh", "tourism Dhaka", "tour operator BD", "visa service Bangladesh"]
+      bn: ["ট্রাভেল এজেন্সি বাংলাদেশ", "পর্যটন ঢাকা"]
+    competitor_target: 12
+    subsegments: ["tour operator", "visa service", "hotel booking", "domestic tourism", "airline ticketing"]
+    policy_sensitivity: medium

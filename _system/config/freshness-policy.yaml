@@ -1,0 +1,56 @@
+# Data freshness thresholds
+# stale_after_days: data older than this is flagged for re-verification
+# critical_stale_after_days: data older than this is high-priority for refresh
+
+default:
+  stale_after_days: 90
+  critical_stale_after_days: 180
+
+categories:
+  pricing:
+    stale_after_days: 14
+    critical_stale_after_days: 30
+  policy:
+    stale_after_days: 7
+    critical_stale_after_days: 21
+  facebook_handle:
+    stale_after_days: 60
+    critical_stale_after_days: 90
+  competitor_core_profile:
+    stale_after_days: 45
+    critical_stale_after_days: 90
+  sentiment:
+    stale_after_days: 21
+    critical_stale_after_days: 42
+  seasonality:
+    stale_after_days: 180
+    critical_stale_after_days: 365
+  supply_chain:
+    stale_after_days: 60
+    critical_stale_after_days: 120
+  funding:
+    stale_after_days: 30
+    critical_stale_after_days: 60
+  demographics:
+    stale_after_days: 180
+    critical_stale_after_days: 365
+  technology_adoption:
+    stale_after_days: 90
+    critical_stale_after_days: 180
+
+sector_overrides:
+  crypto-bitcoin:
+    policy:
+      stale_after_days: 3
+      critical_stale_after_days: 7
+    pricing:
+      stale_after_days: 2
+      critical_stale_after_days: 7
+  electronics-gadgets:
+    pricing:
+      stale_after_days: 7
+      critical_stale_after_days: 14
+  clothing-fashion:
+    pricing:
+      stale_after_days: 14
+      critical_stale_after_days: 30

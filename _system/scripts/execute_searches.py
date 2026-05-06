@@ -1,0 +1,209 @@
+#!/usr/bin/env python3
+"""execute_searches.py — Execute prioritized search queries via search.datasolved.org.
+
+Reads the freshness queue and search taxonomy to generate and execute
+search queries for stale/missing data.
+"""
+
+import sys
+import json
+import logging
+import uuid
+import time
+from pathlib import Path
+from datetime import datetime, timezone
+
+REPO_ROOT = Path(__file__).resolve().parent.parent.parent
+sys.path.insert(0, str(REPO_ROOT / "_system"))
+
+from lib.config_loader import (
+    get_sector_configs, get_search_taxonomy, now_iso, REPO_ROOT, DATA_DIR
+)
+from lib.search_client import search_text, search_news
+
+log = logging.getLogger("execute_searches")
+
+import os
+MAX_QUERIES_PER_RUN = int(os.environ.get("MAX_QUERIES_PER_RUN", "120"))
+DELAY_SECONDS = 1.0  # Between queries
+
+
+def generate_queries(freshness_queue: list, sector_configs: dict, taxonomy: dict) -> list[dict]:
+    """Generate search queries from freshness queue + taxonomy."""
+    queries = []
+    seen = set()
+
+    for item in freshness_queue:
+        sector = item.get("sector", "")
+        category = item.get("category", "default")
+        priority = item.get("priority", "P2")
+        sconf = sector_configs.get(sector, {})
+        keywords = sconf.get("keywords", {})
+        en_kws = keywords.get("en", [sector.replace("-", " ")])
+        bn_kws = keywords.get("bn", [])
+
+        # Determine which query families are relevant
+        family_map = {
+            "pricing": "pricing",
+            "policy": "policy_tracker",
+            "competitor_core_profile": "competitor_discovery",
+            "facebook_handle": "competitor_discovery",
+            "sentiment": "sentiment",
+            "seasonality": "seasonality",
+            "supply_chain": "supply_chain",
+            "funding": "investment_deal_flow",
+            "demographics": "demographics_personas",
+            "technology_adoption": "technology_adoption",
+            "default": "competitor_discovery",
+        }
+
+        family_name = family_map.get(category, "competitor_discovery")
+        family = taxonomy.get(family_name, {})
+        templates = family.get("templates", [])
+
+        for kw in en_kws[:2]:  # Top 2 keywords per sector
+            for template in templates[:3]:  # Top 3 templates per family
+                query_str = template.format(
+                    sector_keywords=kw,
+                    sector_keywords_bn=bn_kws[0] if bn_kws else kw,
+                    competitor_name="",
+                    service_name=kw,
+                    product=kw,
+                )
+                # Deduplicate
+                qkey = f"{sector}:{family_name}:{query_str}"
+                if qkey in seen:
+                    continue
+                seen.add(qkey)
+
+                queries.append({
+                    "query": query_str,
+                    "sector": sector,
+                    "family": family_name,
+                    "priority": priority,
+                    "category": category,
+                    "expected_yield": "high" if priority == "P0" else "medium" if priority == "P1" else "low",
+                })
+
+    # Sort by priority
+    p_order = {"P0": 0, "P1": 1, "P2": 2}
+    queries.sort(key=lambda x: p_order.get(x["priority"], 9))
+
+    # Cap at max
+    return queries[:MAX_QUERIES_PER_RUN]
+
+
+def execute_queries(queries: list[dict]) -> list[dict]:
+    """Execute search queries and return evidence items."""
+    evidence = []
+    total = len(queries)
+
+    for i, q in enumerate(queries):
+        if i > 0:
+            time.sleep(DELAY_SECONDS)
+
+        log.info(f"[{i+1}/{total}] {q['query'][:80]}...")
+
+        # Search text
+        text_results = search_text(q["query"], max_results=8)
+        
+        # Also search news for high-priority queries
+        news_results = []
+        if q["priority"] == "P0":
+            time.sleep(0.5)
+            news_results = search_news(q["query"], max_results=5)
+
+        all_results = text_results + news_results
+
+        for r in all_results:
+            eid = str(uuid.uuid4())[:12]
+            source_url = r.get("href", r.get("url", ""))
+            source_domain = ""
+            if source_url:
+                try:
+                    from urllib.parse import urlparse
+                    source_domain = urlparse(source_url).netloc
+                except Exception:
+                    pass
+
+            evidence.append({
+                "evidence_id": eid,
+                "sector": q["sector"],
+                "entity_type": q["category"],
+                "entity_slug": "",
+                "query": q["query"],
+                "query_family": q["family"],
+                "query_score_prior": 0.5,
+                "search_provider": "search.datasolved.org",
+                "retrieved_at": now_iso(),
+                "source_url": source_url,
+                "source_domain": source_domain,
+                "source_type": "unknown",
+                "title": r.get("title", ""),
+                "snippet": r.get("body", r.get("snippet", "")),
+                "extracted_facts": [],
+                "source_quality_score": 0.0,
+                "recency_score": 0.0,
+                "consistency_score": 0.0,
+                "confidence_score": 0.0,
+            })
+
+    return evidence
+
+
+def main():
+    import os
+    logging.basicConfig(level=logging.INFO, format="%(name)s %(levelname)s: %(message)s")
+
+    state_dir = REPO_ROOT / "_system" / "state"
+    fq_path = state_dir / "freshness_queue.json"
+
+    if not fq_path.exists():
+        log.error("freshness_queue.json not found. Run evaluate_freshness.py first.")
+        return
+
+    fq = json.loads(fq_path.read_text())
+    queue = fq.get("queue", [])
+
+    sector_configs = get_sector_configs()
+    taxonomy = get_search_taxonomy()
+
+    # Generate queries
+    queries = generate_queries(queue, sector_configs, taxonomy)
+    log.info(f"Generated {len(queries)} queries from {len(queue)} queue items")
+
+    if not queries:
+        log.info("No queries to execute. All data is fresh!")
+        return
+
+    # Execute
+    evidence = execute_queries(queries)
+
+    # Save evidence
+    evidence_dir = DATA_DIR / "evidence"
+    evidence_dir.mkdir(parents=True, exist_ok=True)
+    run_id = datetime.now(timezone.utc).strftime("%Y%m%d-%H%M%S")
+    evidence_path = evidence_dir / f"{run_id}.json"
+    evidence_path.write_text(json.dumps(evidence, indent=2, ensure_ascii=False, default=str))
+
+    # Also save search plan
+    search_plan_path = state_dir / "search_plan.json"
+    search_plan_path.write_text(json.dumps({
+        "run_id": run_id,
+        "generated_at": now_iso(),
+        "total_queries": len(queries),
+        "total_evidence": len(evidence),
+        "queries": queries,
+    }, indent=2, default=str))
+
+    log.info(f"\n=== SEARCH EXECUTION SUMMARY ===")
+    log.info(f"Queries executed: {len(queries)}")
+    log.info(f"Evidence items collected: {len(evidence)}")
+    log.info(f"Evidence saved to: {evidence_path}")
+    log.info(f"Search plan saved to: {search_plan_path}")
+
+    return evidence
+
+
+if __name__ == "__main__":
+    main()

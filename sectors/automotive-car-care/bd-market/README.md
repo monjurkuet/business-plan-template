@@ -1,3 +1,11 @@
+---
+sector: automotive-car-care
+last_verified: 2026-05-06
+freshness: critical
+confidence: 0.2
+evidence_ids: []
+---
+
      1|     1|# Automotive & Car Care — Bangladesh Market
      2|     2|
      3|     3|## Market Overview

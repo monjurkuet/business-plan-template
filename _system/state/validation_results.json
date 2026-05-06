@@ -1,0 +1,106 @@
+{
+  "generated_at": "2026-05-06T07:11:06.693468+00:00",
+  "summary": {
+    "files_checked": 130,
+    "violations": 19,
+    "warnings": 0
+  },
+  "violations": [
+    {
+      "file": "sectors/automotive-car-care/bd-market/README.md",
+      "type": "heading_violation",
+      "detail": "First heading is H2, expected H1"
+    },
+    {
+      "file": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-mitsubishi-rangs.md",
+      "type": "heading_violation",
+      "detail": "First heading is H3, expected H1"
+    },
+    {
+      "file": "sectors/automotive-car-care/bd-market/research/2026-05-06-full-landscape-report.md",
+      "type": "heading_violation",
+      "detail": "First heading is H2, expected H1"
+    },
+    {
+      "file": "sectors/clothing-fashion/bd-market/README.md",
+      "type": "heading_violation",
+      "detail": "First heading is H2, expected H1"
+    },
+    {
+      "file": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-aarong.md",
+      "type": "heading_violation",
+      "detail": "First heading is H3, expected H1"
+    },
+    {
+      "file": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-ecstasy.md",
+      "type": "heading_violation",
+      "detail": "First heading is H3, expected H1"
+    },
+    {
+      "file": "sectors/clothing-fashion/bd-market/research/2026-05-06-full-landscape-report.md",
+      "type": "heading_violation",
+      "detail": "First heading is H2, expected H1"
+    },
+    {
+      "file": "sectors/crypto-bitcoin/bd-market/README.md",
+      "type": "heading_violation",
+      "detail": "First heading is H2, expected H1"
+    },
+    {
+      "file": "sectors/crypto-bitcoin/bd-market/research/2026-05-06-full-landscape-report.md",
+      "type": "heading_violation",
+      "detail": "First heading is H2, expected H1"
+    },
+    {
+      "file": "sectors/electronics-gadgets/bd-market/README.md",
+      "type": "heading_violation",
+      "detail": "First heading is H2, expected H1"
+    },
+    {
+      "file": "sectors/electronics-gadgets/bd-market/research/2026-05-06-full-landscape-report.md",
+      "type": "heading_violation",
+      "detail": "First heading is H2, expected H1"
+    },
+    {
+      "file": "sectors/high-roi-niches/bd-market/README.md",
+      "type": "heading_violation",
+      "detail": "First heading is H2, expected H1"
+    },
+    {
+      "file": "sectors/high-roi-niches/bd-market/research/2026-05-06-full-landscape-report.md",
+      "type": "heading_violation",
+      "detail": "First heading is H2, expected H1"
+    },
+    {
+      "file": "sectors/jewellery/bd-market/README.md",
+      "type": "heading_violation",
+      "detail": "First heading is H2, expected H1"
+    },
+    {
+      "file": "sectors/jewellery/bd-market/research/2026-05-06-full-landscape-report.md",
+      "type": "heading_violation",
+      "detail": "First heading is H2, expected H1"
+    },
+    {
+      "file": "sectors/media-marketing-digital/bd-market/README.md",
+      "type": "heading_violation",
+      "detail": "First heading is H2, expected H1"
+    },
+    {
+      "file": "sectors/media-marketing-digital/bd-market/research/2026-05-06-full-landscape-report.md",
+      "type": "heading_violation",
+      "detail": "First heading is H2, expected H1"
+    },
+    {
+      "file": "sectors/travel-tourism/bd-market/README.md",
+      "type": "heading_violation",
+      "detail": "First heading is H2, expected H1"
+    },
+    {
+      "file": "sectors/travel-tourism/bd-market/research/2026-05-06-full-landscape-report.md",
+      "type": "heading_violation",
+      "detail": "First heading is H2, expected H1"
+    }
+  ],
+  "warnings": []
+}

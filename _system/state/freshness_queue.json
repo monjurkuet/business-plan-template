@@ -1,0 +1,10 @@
+{
+  "generated_at": "2026-05-06T07:09:58.295287+00:00",
+  "summary": {
+    "fresh": 72,
+    "stale": 0,
+    "critical": 0,
+    "approaching_stale": 0
+  },
+  "queue": []
+}

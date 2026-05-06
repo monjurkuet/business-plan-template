@@ -1,3 +1,11 @@
+---
+sector: crypto-bitcoin
+last_verified: 2026-05-06
+freshness: fresh
+confidence: 0.5
+evidence_ids: []
+---
+
      1|# Competitor: Binance (BD users)
      2|
      3|## Metadata

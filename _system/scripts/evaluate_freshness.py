@@ -1,0 +1,159 @@
+#!/usr/bin/env python3
+"""evaluate_freshness.py — Apply freshness policy to produce a stale update queue.
+
+Reads audit_results.json and applies _system/config/freshness-policy.yaml
+to determine which data items need re-verification and with what priority.
+"""
+
+import sys
+import json
+import logging
+from pathlib import Path
+from datetime import datetime, timezone
+
+REPO_ROOT = Path(__file__).resolve().parent.parent.parent
+sys.path.insert(0, str(REPO_ROOT / "_system"))
+
+from lib.config_loader import get_freshness_policy, now_iso
+
+log = logging.getLogger("evaluate_freshness")
+
+# Category detection from file path/name
+CATEGORY_PATTERNS = {
+    "pricing": ["pricing", "price", "cost", "rate"],
+    "policy": ["regulatory", "compliance", "license", "permit", "gov", "circular", "tax"],
+    "competitor_core_profile": ["competitor", "landscape", "profile"],
+    "facebook_handle": ["handle", "facebook"],
+    "sentiment": ["sentiment", "review"],
+    "seasonality": ["seasonal", "season", "eid"],
+    "supply_chain": ["supply", "supplier", "sourcing", "wholesale"],
+    "funding": ["funding", "investment", "raised", "vc"],
+    "demographics": ["demograph", "persona", "segment", "customer"],
+    "technology_adoption": ["technology", "digital", "app", "adoption"],
+}
+
+
+def detect_category(file_path: str) -> str:
+    """Detect data category from file path."""
+    lower = file_path.lower()
+    for cat, patterns in CATEGORY_PATTERNS.items():
+        for p in patterns:
+            if p in lower:
+                return cat
+    return "default"
+
+
+def get_freshness_thresholds(sector: str, category: str) -> dict:
+    """Get stale/critical thresholds for a sector+category."""
+    policy = get_freshness_policy(sector)
+    if category in policy:
+        return {
+            "stale_after_days": policy[category].get("stale_after_days", 90),
+            "critical_stale_after_days": policy[category].get("critical_stale_after_days", 180),
+        }
+    return {
+        "stale_after_days": policy.get("stale_after_days", 90) if isinstance(policy, dict) and "stale_after_days" in policy else 90,
+        "critical_stale_after_days": policy.get("critical_stale_after_days", 180) if isinstance(policy, dict) and "critical_stale_after_days" in policy else 180,
+    }
+
+
+def classify_freshness(age_days: int, stale_after: int, critical_after: int) -> tuple:
+    """Classify freshness and priority based on age vs thresholds."""
+    if age_days >= critical_after:
+        return "critical", "P0"
+    elif age_days >= stale_after:
+        return "stale", "P1"
+    elif age_days >= stale_after * 0.75:
+        return "approaching_stale", "P2"
+    else:
+        return "fresh", None
+
+
+def main():
+    logging.basicConfig(level=logging.INFO, format="%(name)s %(levelname)s: %(message)s")
+
+    state_dir = REPO_ROOT / "_system" / "state"
+    audit_path = state_dir / "audit_results.json"
+
+    if not audit_path.exists():
+        log.error("audit_results.json not found. Run audit_repo.py first.")
+        return
+
+    audit = json.loads(audit_path.read_text())
+    now = datetime.now(timezone.utc)
+
+    queue = []
+    summary = {"fresh": 0, "stale": 0, "critical": 0, "approaching_stale": 0}
+
+    for sa in audit.get("sector_audits", []):
+        sector = sa["sector"]
+        # Process each present file
+        for fname in sa.get("present_files", []):
+            rel_path = f"sectors/{sector}/bd-market/{fname}"
+            full_path = REPO_ROOT / rel_path
+
+            if not full_path.exists():
+                continue
+
+            # Get file modification time
+            mtime = datetime.fromtimestamp(full_path.stat().st_mtime, tz=timezone.utc)
+            age_days = (now - mtime).days
+            category = detect_category(fname)
+            thresholds = get_freshness_thresholds(sector, category)
+            freshness, priority = classify_freshness(
+                age_days, thresholds["stale_after_days"], thresholds["critical_stale_after_days"])
+
+            summary[freshness] = summary.get(freshness, 0) + 1
+
+            if priority:
+                queue.append({
+                    "path": rel_path,
+                    "sector": sector,
+                    "category": category,
+                    "age_days": age_days,
+                    "stale_type": freshness,
+                    "priority": priority,
+                    "stale_after_days": thresholds["stale_after_days"],
+                    "critical_after_days": thresholds["critical_stale_after_days"],
+                })
+
+        # Also add missing files as P0
+        for mf in sa.get("missing_files", []):
+            queue.append({
+                "path": f"sectors/{sector}/bd-market/{mf}",
+                "sector": sector,
+                "category": detect_category(mf),
+                "age_days": 9999,
+                "stale_type": "missing",
+                "priority": "P0",
+                "stale_after_days": 0,
+                "critical_after_days": 0,
+            })
+            summary["critical"] = summary.get("critical", 0) + 1
+
+    # Sort by priority
+    priority_order = {"P0": 0, "P1": 1, "P2": 2}
+    queue.sort(key=lambda x: priority_order.get(x["priority"], 9))
+
+    result = {
+        "generated_at": now_iso(),
+        "summary": summary,
+        "queue": queue,
+    }
+
+    output_path = state_dir / "freshness_queue.json"
+    output_path.write_text(json.dumps(result, indent=2, default=str))
+
+    log.info(f"\n=== FRESHNESS EVALUATION ===")
+    log.info(f"Fresh: {summary.get('fresh', 0)}")
+    log.info(f"Approaching stale: {summary.get('approaching_stale', 0)}")
+    log.info(f"Stale: {summary.get('stale', 0)}")
+    log.info(f"Critical: {summary.get('critical', 0)}")
+    log.info(f"Queue size: {len(queue)}")
+    log.info(f"Results saved to {output_path}")
+
+    return result
+
+
+if __name__ == "__main__":
+    main()

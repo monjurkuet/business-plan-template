@@ -1,3 +1,11 @@
+---
+sector: high-roi-niches
+last_verified: 2026-05-06
+freshness: fresh
+confidence: 0.5
+evidence_ids: []
+---
+
 # Strategy Canvas — Bangladesh High-ROI Niche Markets
 
 ## Date: 2026-05-06

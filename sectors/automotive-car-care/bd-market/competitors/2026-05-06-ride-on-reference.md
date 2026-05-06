@@ -1,3 +1,11 @@
+---
+sector: automotive-car-care
+last_verified: 2026-05-06
+freshness: fresh
+confidence: 0.5
+evidence_ids: []
+---
+
 # Competitor: Ride On (Reference / Inspiration)
 
 > This is the inspiration brand, not a direct competitor. Included for analysis of what they do well and where they can be improved upon.

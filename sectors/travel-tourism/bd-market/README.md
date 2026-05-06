@@ -1,3 +1,11 @@
+---
+sector: travel-tourism
+last_verified: 2026-05-06
+freshness: critical
+confidence: 0.2
+evidence_ids: []
+---
+
      1|# Travel & Tourism — Bangladesh Market
      2|
      3|## Market Overview

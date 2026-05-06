@@ -1,0 +1,103 @@
+# Search query families with cadence and templates
+# Used by build_search_plan.py to generate prioritized search queries
+
+query_families:
+  competitor_discovery:
+    description: "Find new competitors and verify existing ones"
+    cadence_hours: 24
+    templates:
+      - '"{sector_keywords}" Bangladesh top companies'
+      - '"{sector_keywords}" Dhaka Facebook'
+      - 'site:facebook.com "{sector_keywords}" Bangladesh'
+      - 'site:linkedin.com/company "{sector_keywords}" Bangladesh'
+      - '"{sector_keywords}" Bangladesh market leaders 2026'
+
+  pricing:
+    description: "Track competitor pricing and offers"
+    cadence_hours: 12
+    templates:
+      - '"{competitor_name}" price Bangladesh'
+      - 'site:facebook.com "{competitor_name}" offer price'
+      - '"{sector_keywords}" Bangladesh price list'
+      - '"{service_name}" BDT Dhaka'
+      - '"{product}" Bangladesh price 2026'
+
+  compliance:
+    description: "Regulatory requirements and licenses"
+    cadence_hours: 24
+    templates:
+      - '"{sector_keywords}" license Bangladesh'
+      - '"{sector_keywords}" permit Bangladesh gov.bd'
+      - '"{sector_keywords}" tax Bangladesh'
+      - '"{sector_keywords}" import duty Bangladesh'
+      - 'site:gov.bd "{sector_keywords}" circular'
+
+  sentiment:
+    description: "Customer reviews and satisfaction signals"
+    cadence_hours: 24
+    templates:
+      - '"{competitor_name}" review Bangladesh'
+      - 'site:facebook.com "{competitor_name}" reviews'
+      - '"{sector_keywords}" customer complaints Bangladesh'
+      - '"{competitor_name}" scam OR problem Bangladesh'
+
+  seasonality:
+    description: "Seasonal demand patterns"
+    cadence_hours: 168
+    templates:
+      - '"{sector_keywords}" Eid sales Bangladesh'
+      - '"{sector_keywords}" seasonal demand Bangladesh'
+      - '"{sector_keywords}" winter demand Dhaka'
+      - '"{sector_keywords}" wedding season Bangladesh'
+
+  policy_tracker:
+    description: "Government policy and regulatory changes"
+    cadence_hours: 6  # more frequent for policy
+    templates:
+      - '"{sector_keywords}" regulation Bangladesh 2026'
+      - '"{sector_keywords}" policy Bangladesh 2026'
+      - 'site:gov.bd "{sector_keywords}" circular'
+      - 'site:nbr.gov.bd "{sector_keywords}" customs VAT'
+      - 'site:bida.gov.bd "{sector_keywords}"'
+
+  supply_chain:
+    description: "Supply chain and sourcing intelligence"
+    cadence_hours: 72
+    templates:
+      - '"{sector_keywords}" supplier Bangladesh'
+      - '"{sector_keywords}" importer Bangladesh'
+      - '"{sector_keywords}" wholesale Dhaka'
+      - '"{sector_keywords}" distributor Bangladesh'
+
+  investment_deal_flow:
+    description: "Funding, acquisitions, partnerships"
+    cadence_hours: 24
+    templates:
+      - '"{sector_keywords}" funding Bangladesh'
+      - '"{sector_keywords}" investment Bangladesh 2026'
+      - '"{competitor_name}" raised funding'
+      - '"{sector_keywords}" startup Bangladesh'
+
+  bengali_sources:
+    description: "Bengali-language market data"
+    cadence_hours: 72
+    templates:
+      - '"বাংলাদেশ {sector_keywords_bn} বাজার ২০২৬"'
+      - '"{sector_keywords_bn} ঢাকা দাম"'
+      - '"বাংলাদেশ সরকার {sector_keywords_bn} নীতি"'
+
+  demographics_personas:
+    description: "Customer segmentation and demographics"
+    cadence_hours: 168
+    templates:
+      - '"{sector_keywords}" customer segment Bangladesh'
+      - '"{sector_keywords}" target market Dhaka'
+      - '"{sector_keywords}" youth women middle income Bangladesh'
+
+  technology_adoption:
+    description: "Digital adoption and tech trends"
+    cadence_hours: 168
+    templates:
+      - '"{sector_keywords}" digital adoption Bangladesh'
+      - '"{sector_keywords}" app usage Bangladesh'
+      - '"{sector_keywords}" online penetration Bangladesh 2026'
