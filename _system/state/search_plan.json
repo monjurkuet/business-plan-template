@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-05-06T15:54:53.639393+00:00",
+  "generated_at": "2026-05-06T16:23:37.867951+00:00",
   "models_used": [
-    "gpt-5.4-mini",
     "gemini-2.5-flash-lite",
-    "deepseek-ai/deepseek-v4-pro"
+    "deepseek-ai/deepseek-v4-pro",
+    "gpt-5.4"
   ],
   "reviews": [
     {
-      "model": "gpt-5.4-mini",
-      "error": "HTTP Error 404: Not Found",
-      "gaps": [],
-      "recommendations": []
-    },
-    {
       "model": "gemini-2.5-flash-lite",
-      "error": "HTTP Error 404: Not Found",
+      "error": "HTTP Error 401: Unauthorized",
       "gaps": [],
       "recommendations": []
     },
     {
       "model": "deepseek-ai/deepseek-v4-pro",
-      "error": "HTTP Error 404: Not Found",
+      "error": "HTTP Error 401: Unauthorized",
+      "gaps": [],
+      "recommendations": []
+    },
+    {
+      "model": "gpt-5.4",
+      "error": "HTTP Error 401: Unauthorized",
       "gaps": [],
       "recommendations": []
     }
@@ -76,7 +76,7 @@
       "source_model": "freshness_policy"
     },
     {
-      "query": "\"\" price Bangladesh",
+      "query": "\"crypto Bangladesh\" price Bangladesh",
       "sector": "crypto-bitcoin",
       "family": "pricing",
       "priority": "P0",
@@ -84,7 +84,7 @@
       "source_model": "freshness_policy"
     },
     {
-      "query": "site:facebook.com \"\" offer price",
+      "query": "site:facebook.com \"crypto Bangladesh\" offer price",
       "sector": "crypto-bitcoin",
       "family": "pricing",
       "priority": "P0",
@@ -108,7 +108,7 @@
       "source_model": "freshness_policy"
     },
     {
-      "query": "\"\" review Bangladesh",
+      "query": "\"crypto Bangladesh\" review Bangladesh",
       "sector": "crypto-bitcoin",
       "family": "sentiment",
       "priority": "P0",
@@ -116,7 +116,7 @@
       "source_model": "freshness_policy"
     },
     {
-      "query": "site:facebook.com \"\" reviews",
+      "query": "site:facebook.com \"crypto Bangladesh\" reviews",
       "sector": "crypto-bitcoin",
       "family": "sentiment",
       "priority": "P0",
@@ -252,7 +252,7 @@
       "source_model": "freshness_policy"
     },
     {
-      "query": "\"\" price Bangladesh",
+      "query": "\"car care Bangladesh\" price Bangladesh",
       "sector": "automotive-car-care",
       "family": "pricing",
       "priority": "P1",
@@ -260,7 +260,7 @@
       "source_model": "freshness_policy"
     },
     {
-      "query": "site:facebook.com \"\" offer price",
+      "query": "site:facebook.com \"car care Bangladesh\" offer price",
       "sector": "automotive-car-care",
       "family": "pricing",
       "priority": "P1",
@@ -268,7 +268,7 @@
       "source_model": "freshness_policy"
     },
     {
-      "query": "\"\" review Bangladesh",
+      "query": "\"car care Bangladesh\" review Bangladesh",
       "sector": "automotive-car-care",
       "family": "sentiment",
       "priority": "P1",
@@ -276,7 +276,7 @@
       "source_model": "freshness_policy"
     },
     {
-      "query": "site:facebook.com \"\" reviews",
+      "query": "site:facebook.com \"car care Bangladesh\" reviews",
       "sector": "automotive-car-care",
       "family": "sentiment",
       "priority": "P1",
@@ -332,7 +332,7 @@
       "source_model": "freshness_policy"
     },
     {
-      "query": "\"\" price Bangladesh",
+      "query": "\"clothing Bangladesh\" price Bangladesh",
       "sector": "clothing-fashion",
       "family": "pricing",
       "priority": "P1",
@@ -340,7 +340,7 @@
       "source_model": "freshness_policy"
     },
     {
-      "query": "site:facebook.com \"\" offer price",
+      "query": "site:facebook.com \"clothing Bangladesh\" offer price",
       "sector": "clothing-fashion",
       "family": "pricing",
       "priority": "P1",
@@ -348,7 +348,7 @@
       "source_model": "freshness_policy"
     },
     {
-      "query": "\"\" review Bangladesh",
+      "query": "\"clothing Bangladesh\" review Bangladesh",
       "sector": "clothing-fashion",
       "family": "sentiment",
       "priority": "P1",
@@ -356,7 +356,7 @@
       "source_model": "freshness_policy"
     },
     {
-      "query": "site:facebook.com \"\" reviews",
+      "query": "site:facebook.com \"clothing Bangladesh\" reviews",
       "sector": "clothing-fashion",
       "family": "sentiment",
       "priority": "P1",
@@ -412,7 +412,7 @@
       "source_model": "freshness_policy"
     },
     {
-      "query": "\"\" price Bangladesh",
+      "query": "\"electronics Bangladesh\" price Bangladesh",
       "sector": "electronics-gadgets",
       "family": "pricing",
       "priority": "P1",
@@ -420,7 +420,7 @@
       "source_model": "freshness_policy"
     },
     {
-      "query": "site:facebook.com \"\" offer price",
+      "query": "site:facebook.com \"electronics Bangladesh\" offer price",
       "sector": "electronics-gadgets",
       "family": "pricing",
       "priority": "P1",
@@ -428,7 +428,7 @@
       "source_model": "freshness_policy"
     },
     {
-      "query": "\"\" review Bangladesh",
+      "query": "\"electronics Bangladesh\" review Bangladesh",
       "sector": "electronics-gadgets",
       "family": "sentiment",
       "priority": "P1",
@@ -436,7 +436,7 @@
       "source_model": "freshness_policy"
     },
     {
-      "query": "site:facebook.com \"\" reviews",
+      "query": "site:facebook.com \"electronics Bangladesh\" reviews",
       "sector": "electronics-gadgets",
       "family": "sentiment",
       "priority": "P1",
@@ -492,7 +492,7 @@
       "source_model": "freshness_policy"
     },
     {
-      "query": "\"\" price Bangladesh",
+      "query": "\"pet care Bangladesh\" price Bangladesh",
       "sector": "high-roi-niches",
       "family": "pricing",
       "priority": "P1",
@@ -500,7 +500,7 @@
       "source_model": "freshness_policy"
     },
     {
-      "query": "site:facebook.com \"\" offer price",
+      "query": "site:facebook.com \"pet care Bangladesh\" offer price",
       "sector": "high-roi-niches",
       "family": "pricing",
       "priority": "P1",

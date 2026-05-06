@@ -38,7 +38,7 @@ def search_images(query: str, max_results: int = 10, region: str = "bd-bn", **kw
 def _search(endpoint: str, query: str, max_results: int, region: str, **kwargs) -> list[dict]:
     """Core search function."""
     params = {
-        "q": query,
+        "query": query,
         "max_results": max_results,
         "region": region,
     }

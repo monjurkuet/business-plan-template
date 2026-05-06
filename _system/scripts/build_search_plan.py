@@ -16,7 +16,7 @@ from datetime import datetime, timezone
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 sys.path.insert(0, str(REPO_ROOT / "_system"))
 
-from lib.config_loader import now_iso, DATA_DIR, get_sector_configs, get_search_taxonomy
+from lib.config_loader import load_config, now_iso, DATA_DIR, get_sector_configs, get_search_taxonomy
 from lib.llm_client import call_llm_json, load_prompt
 
 log = logging.getLogger("build_search_plan")
@@ -181,15 +181,20 @@ def synthesize_plans(reviews: list[dict], freshness_queue: list,
         family = taxonomy.get(family_name, {})
         templates = family.get("templates", ["{sector_keywords} Bangladesh 2026"])
         
+        bn_kws = keywords.get("bn", en_kws)
         for kw in en_kws[:1]:
             for tmpl in templates[:2]:
                 query_str = tmpl.format(
                     sector_keywords=kw,
-                    sector_keywords_bn=kw,
-                    competitor_name="",
+                    sector_keywords_bn=bn_kws[0] if bn_kws else kw,
+                    competitor_name=kw,
                     service_name=kw,
                     product=kw,
-                )
+                ).strip()
+                if not query_str or '""' in query_str or query_str.count('"') % 2 != 0:
+                    continue
+                if '{' in query_str or '}' in query_str:
+                    continue
                 queries.append({
                     "query": query_str,
                     "sector": sector,

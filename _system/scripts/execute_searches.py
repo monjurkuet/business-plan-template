@@ -71,10 +71,14 @@ def generate_queries(freshness_queue: list, sector_configs: dict, taxonomy: dict
                 query_str = template.format(
                     sector_keywords=kw,
                     sector_keywords_bn=bn_kws[0] if bn_kws else kw,
-                    competitor_name="",
+                    competitor_name=kw,
                     service_name=kw,
                     product=kw,
-                )
+                ).strip()
+                if not query_str or '""' in query_str or query_str.count('"') % 2 != 0:
+                    continue
+                if '{' in query_str or '}' in query_str:
+                    continue
                 # Deduplicate
                 qkey = f"{sector}:{family_name}:{query_str}"
                 if qkey in seen:
@@ -110,13 +114,25 @@ def execute_queries(queries: list[dict]) -> list[dict]:
         log.info(f"[{i+1}/{total}] {q['query'][:80]}...")
 
         # Search text
-        text_results = search_text(q["query"], max_results=8)
+        try:
+            text_results = search_text(q["query"], max_results=MAX_TEXT_RESULTS, timeout=SEARCH_TIMEOUT_SECONDS)
+        except Exception as ex:
+            log.warning(f"Text search failed for {q['query'][:60]!r}: {ex}")
+            if HEADLESS_FAIL_FAST:
+                text_results = []
+            else:
+                raise
         
         # Also search news for high-priority queries
         news_results = []
         if q["priority"] == "P0":
-            time.sleep(0.5)
-            news_results = search_news(q["query"], max_results=5)
+            time.sleep(0.25)
+            try:
+                news_results = search_news(q["query"], max_results=MAX_NEWS_RESULTS, timeout=SEARCH_TIMEOUT_SECONDS)
+            except Exception as ex:
+                log.warning(f"News search failed for {q['query'][:60]!r}: {ex}")
+                if not HEADLESS_FAIL_FAST:
+                    raise
 
         all_results = text_results + news_results
 

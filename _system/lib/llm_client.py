@@ -10,8 +10,8 @@ from pathlib import Path
 log = logging.getLogger("llm_client")
 
 # Defaults from environment
-DEFAULT_BASE_URL = os.environ.get("OPENPAI_BASE_URL", "https://llm.datasolved.org/v1")
-DEFAULT_API_KEY = os.environ.get("OPENPAI_API_KEY", "")
+DEFAULT_BASE_URL = os.environ.get("OPENPAI_BASE_URL") or os.environ.get("LLM_API_BASE") or "https://llm.datasolved.org/v1"
+DEFAULT_API_KEY = os.environ.get("OPENPAI_API_KEY") or os.environ.get("LLM_API_KEY") or ""
 DEFAULT_TIMEOUT_SECONDS = int(os.environ.get("LLM_REQUEST_TIMEOUT_SECONDS", "90"))
 
 
