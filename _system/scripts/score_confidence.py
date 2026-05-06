@@ -114,7 +114,14 @@ def compute_confidence(evidence: dict, all_evidence: list,
     # Extraction certainty (average of fact confidences)
     facts = evidence.get("extracted_facts", [])
     if facts:
-        fact_confs = [f.get("confidence", 0.5) for f in facts if isinstance(f, dict)]
+        fact_confs = []
+        for f in facts:
+            if isinstance(f, dict):
+                conf = f.get("confidence", 0.5)
+                try:
+                    fact_confs.append(float(conf))
+                except (TypeError, ValueError):
+                    fact_confs.append(0.5)
         extraction_certainty = sum(fact_confs) / len(fact_confs) if fact_confs else 0.5
     else:
         extraction_certainty = 0.3

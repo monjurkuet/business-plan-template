@@ -607,8 +607,8 @@
   },
   {
     "path": "sectors/clothing-fashion/bd-market/README.md",
-    "size_bytes": 3554,
-    "last_modified": "2026-05-06T15:59:22.814375+00:00",
+    "size_bytes": 4509,
+    "last_modified": "2026-05-06T16:34:32.314003+00:00",
     "extension": ".md"
   },
   {
@@ -781,14 +781,20 @@
   },
   {
     "path": "data/query_memory.json",
-    "size_bytes": 3789,
-    "last_modified": "2026-05-06T16:15:35.162204+00:00",
+    "size_bytes": 7554,
+    "last_modified": "2026-05-06T16:34:32.542003+00:00",
     "extension": ".json"
   },
   {
     "path": "data/evidence/20260506-160340.json",
     "size_bytes": 2,
     "last_modified": "2026-05-06T16:03:40.678328+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/evidence/20260506-162648.json",
+    "size_bytes": 41070,
+    "last_modified": "2026-05-06T16:31:43.322032+00:00",
     "extension": ".json"
   },
   {
@@ -804,9 +810,21 @@
     "extension": ".json"
   },
   {
+    "path": "data/evidence/20260506-163253.json",
+    "size_bytes": 23096,
+    "last_modified": "2026-05-06T16:33:01.382019+00:00",
+    "extension": ".json"
+  },
+  {
     "path": "data/evidence/20260506-161244.json",
     "size_bytes": 52307,
     "last_modified": "2026-05-06T16:12:49.722232+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/evidence/20260506-162329.json",
+    "size_bytes": 86242,
+    "last_modified": "2026-05-06T16:23:36.802119+00:00",
     "extension": ".json"
   },
   {
@@ -895,8 +913,8 @@
   },
   {
     "path": "_system/prompts/extract_facts.md",
-    "size_bytes": 1245,
-    "last_modified": "2026-05-06T05:55:40.340716+00:00",
+    "size_bytes": 1998,
+    "last_modified": "2026-05-06T16:52:19.685816+00:00",
     "extension": ".md"
   },
   {
@@ -985,38 +1003,38 @@
   },
   {
     "path": "_system/state/file_inventory.json",
-    "size_bytes": 31313,
-    "last_modified": "2026-05-06T16:14:15.090216+00:00",
+    "size_bytes": 31812,
+    "last_modified": "2026-05-06T16:31:44.654032+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/validation_results.json",
     "size_bytes": 179,
-    "last_modified": "2026-05-06T16:15:35.038204+00:00",
+    "last_modified": "2026-05-06T16:34:32.330003+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/audit_results.json",
     "size_bytes": 5650,
-    "last_modified": "2026-05-06T16:14:15.090216+00:00",
+    "last_modified": "2026-05-06T16:31:44.654032+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/last_pipeline_run.json",
-    "size_bytes": 424,
-    "last_modified": "2026-05-06T16:15:35.170204+00:00",
+    "size_bytes": 421,
+    "last_modified": "2026-05-06T16:34:32.554003+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/freshness_queue.json",
     "size_bytes": 26066,
-    "last_modified": "2026-05-06T16:14:15.146216+00:00",
+    "last_modified": "2026-05-06T16:31:44.714032+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/search_plan.json",
-    "size_bytes": 17114,
-    "last_modified": "2026-05-06T16:16:36.690194+00:00",
+    "size_bytes": 40452,
+    "last_modified": "2026-05-06T16:34:32.238003+00:00",
     "extension": ".json"
   }
 ]

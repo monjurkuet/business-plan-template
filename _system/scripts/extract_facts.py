@@ -30,14 +30,17 @@ def build_extraction_prompt(evidence_batch: list[dict]) -> str:
     items = []
     for e in evidence_batch:
         items.append(f"""---
+Evidence ID: {e.get('evidence_id', 'N/A')}
+Search Plan ID: {e.get('search_plan_id', 'N/A')}
 Query: {e.get('query', 'N/A')}
 Sector: {e.get('sector', 'N/A')}
 Entity Type: {e.get('entity_type', 'N/A')}
+Entity Slug: {e.get('entity_slug', 'N/A')}
 Source: {e.get('source_domain', 'N/A')}
 Title: {e.get('title', 'N/A')}
 Snippet: {e.get('snippet', 'N/A')[:500]}
 ---""")
-    
+
     return prompt + "\n\n## Search Results to Process\n\n" + "\n".join(items)
 
 
@@ -48,22 +51,50 @@ def extract_batch(evidence_batch: list[dict], model: str = "gemini-2.5-flash-lit
 
     user_content = build_extraction_prompt(evidence_batch)
     messages = [
-        {"role": "system", "content": "Extract structured facts from the search results. Return JSON with 'items' array, each having 'evidence_id' and 'extracted_facts' array."},
+        {"role": "system", "content": "Extract structured facts from the search results. Return strict JSON with an 'items' array. Each item must include 'evidence_id' and an 'extracted_facts' array. If no facts are found for an evidence item, return an empty array for that item."},
         {"role": "user", "content": user_content},
     ]
 
+    def _normalize_items(payload: dict) -> list[dict]:
+        """Normalize several possible LLM response shapes into batch items."""
+        items = payload.get("items")
+        if isinstance(items, list):
+            return [item for item in items if isinstance(item, dict)]
+
+        if isinstance(payload.get("extracted_facts"), list) and len(evidence_batch) == 1:
+            return [{
+                "evidence_id": evidence_batch[0].get("evidence_id", ""),
+                "search_plan_id": evidence_batch[0].get("search_plan_id"),
+                "extracted_facts": payload.get("extracted_facts", []),
+            }]
+
+        if isinstance(payload.get("facts"), list) and len(evidence_batch) == 1:
+            return [{
+                "evidence_id": evidence_batch[0].get("evidence_id", ""),
+                "search_plan_id": evidence_batch[0].get("search_plan_id"),
+                "extracted_facts": payload.get("facts", []),
+            }]
+
+        return []
+
     try:
         result = call_llm_json(messages, model=model, temperature=0.1, max_tokens=4000)
-        items = result.get("items", [])
-        
-        # Map back to evidence
+        items = _normalize_items(result)
+
+        # Map back to evidence and preserve the requested batch order.
+        by_id = {item.get("evidence_id"): item for item in items if item.get("evidence_id")}
         for e in evidence_batch:
             eid = e.get("evidence_id", "")
-            for item in items:
-                if item.get("evidence_id") == eid:
-                    e["extracted_facts"] = item.get("extracted_facts", [])
-                    break
-        
+            item = by_id.get(eid)
+            if not item:
+                continue
+
+            facts = item.get("extracted_facts", [])
+            e["extracted_facts"] = facts if isinstance(facts, list) else []
+
+            if item.get("search_plan_id") is not None:
+                e["search_plan_id"] = item.get("search_plan_id")
+
         return evidence_batch
     except Exception as ex:
         log.warning(f"LLM extraction failed for batch: {ex}")

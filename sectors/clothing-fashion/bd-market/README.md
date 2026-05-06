@@ -1,9 +1,9 @@
 ---
 sector: clothing-fashion
 last_verified: 2026-05-06
-freshness: critical
-confidence: 0.2
-evidence_ids: []
+freshness: fresh
+confidence: 0.743
+evidence_ids: ['c388d13a-5e3', 'c599d830-0a3', 'd6d585cd-0ff', 'be769b7a-897', '5745ef69-49b', '5f14344c-f4f', 'b5d86570-e33', 'a07ef11f-c51', '8cee4010-133', '19954264-9cd', 'adf01dff-6ec', 'ab33d7a7-f25', 'cc7214c3-78b', 'e6865143-360', 'd4bac4a2-c71']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -80,3 +80,23 @@ evidence_ids: []
 - **Saree Market**: Bangladesh saree market top 10 locations & prices (Feb 2026)
 - **Luxury Goods**: Market expected to grow 2025F-2030 as middle class expands
 - **Consumer Spending**: ৳24,083 Bn by end 2026 (Trading Economics forecast)
+
+## Auto-Updated Data (2026-05-06)
+
+| Fact | Source | Confidence |
+|------|--------|------------|
+| 26.5% | search | 1.00 |
+| 53.5% | search | 0.90 |
+| IEEPA tariffs | search | 0.80 |
+| 16.5% MFN base rate + 10% Section 122 | search | 1.00 |
+| LDC graduation | search | 1.00 |
+| 2026 | search | 1.00 |
+| Beyond the Stereotype: Rethinking Bangladesh's Textile Industry | search | 1.00 |
+| ethical and sustainable apparel production | search | 1.00 |
+| low-cost | search | 1.00 |
+| unsustainable reliance on low pay and poor working conditions | search | 1.00 |
+| LDC graduation | search | 1.00 |
+| 2026 | search | 1.00 |
+| 39B | search | 1.00 |
+| second-largest garment | search | 1.00 |
+| duty-free | search | 1.00 |

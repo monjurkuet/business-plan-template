@@ -1,0 +1,602 @@
+[
+  {
+    "evidence_id": "c388d13a-5e3",
+    "sector": "clothing-fashion",
+    "entity_type": "policy",
+    "entity_slug": "",
+    "query": "\"clothing Bangladesh\" regulation Bangladesh 2026",
+    "query_family": "policy_tracker",
+    "query_score_prior": 0.5,
+    "search_provider": "search.datasolved.org",
+    "retrieved_at": "2026-05-06T16:32:25.709149+00:00",
+    "source_url": "https://www.tariffstool.com/tariffs-on-clothing-from-bangladesh",
+    "source_domain": "www.tariffstool.com",
+    "source_type": "unknown",
+    "title": "Clothing from Bangladesh — 26.5% Tariff (2026)",
+    "snippet": "1 day ago ·Bangladeshis the world's second-largestclothingexporter (after China) and was among the biggest beneficiaries of the SCOTUS ruling that struck down IEEPA tariffs. The total tariff dropped from approximately 53.5% to 26.5%. The current rate structure: 16.5% MFN base rate + 10% Section 122 = 26.5%.",
+    "extracted_facts": [
+      {
+        "field": "tariff_rate",
+        "value": "26.5%",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "tariff_rate",
+        "value": "53.5%",
+        "unit": null,
+        "confidence": 0.9
+      },
+      {
+        "field": "regulation_name",
+        "value": "IEEPA tariffs",
+        "unit": null,
+        "confidence": 0.8
+      },
+      {
+        "field": "tariff_rate",
+        "value": "16.5% MFN base rate + 10% Section 122",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.739
+  },
+  {
+    "evidence_id": "c599d830-0a3",
+    "sector": "clothing-fashion",
+    "entity_type": "policy",
+    "entity_slug": "",
+    "query": "\"clothing Bangladesh\" regulation Bangladesh 2026",
+    "query_family": "policy_tracker",
+    "query_score_prior": 0.5,
+    "search_provider": "search.datasolved.org",
+    "retrieved_at": "2026-05-06T16:32:25.709219+00:00",
+    "source_url": "https://repository.unescap.org/bitstream/handle/20.500.12870/6457/ESCAP-2023-PB-Overcoming-challenges-Bangladesh-textile-garment-sector.pdf?sequence=5",
+    "source_domain": "repository.unescap.org",
+    "source_type": "unknown",
+    "title": "Overcoming Challenges in Bangladesh's Textile & Garment Sector",
+    "snippet": "Despite the growth of its RMG sector, one of the most pressing issues is the country’s impending LDC graduation in2026.",
+    "extracted_facts": [
+      {
+        "field": "policy_event",
+        "value": "LDC graduation",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "policy_event_date",
+        "value": "2026",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
+  },
+  {
+    "evidence_id": "d6d585cd-0ff",
+    "sector": "clothing-fashion",
+    "entity_type": "policy",
+    "entity_slug": "",
+    "query": "\"clothing Bangladesh\" regulation Bangladesh 2026",
+    "query_family": "policy_tracker",
+    "query_score_prior": 0.5,
+    "search_provider": "search.datasolved.org",
+    "retrieved_at": "2026-05-06T16:32:25.709236+00:00",
+    "source_url": "https://www.prnewswire.com/news-releases/bangladeshs-garments-revolution-new-report-challenges-global-fashion-to-rethink-outdated-narratives-302451340.html",
+    "source_domain": "www.prnewswire.com",
+    "source_type": "unknown",
+    "title": "Bangladesh's Garments Revolution: New Report Challenges ...",
+    "snippet": "May 12, 2025 ·The report, Beyond the Stereotype: RethinkingBangladesh'sTextileIndustry, highlightsBangladesh'semergence as a leader in ethical and sustainableapparelproduction.",
+    "extracted_facts": [
+      {
+        "field": "report_title",
+        "value": "Beyond the Stereotype: Rethinking Bangladesh's Textile Industry",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "production_type",
+        "value": "ethical and sustainable apparel production",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
+  },
+  {
+    "evidence_id": "be769b7a-897",
+    "sector": "clothing-fashion",
+    "entity_type": "policy",
+    "entity_slug": "",
+    "query": "\"clothing Bangladesh\" regulation Bangladesh 2026",
+    "query_family": "policy_tracker",
+    "query_score_prior": 0.5,
+    "search_provider": "search.datasolved.org",
+    "retrieved_at": "2026-05-06T16:32:25.709254+00:00",
+    "source_url": "https://www.economicsobservatory.com/whats-happening-in-bangladeshs-garment-industry",
+    "source_domain": "www.economicsobservatory.com",
+    "source_type": "unknown",
+    "title": "What’s happening in Bangladesh’s garment industry?",
+    "snippet": "Mar 26, 2025 ·Bangladeshis well-known for its low-cost production of textiles andclothing, with much of the country’s recent development resting on rapid growth in thegarmentindustry. But behind this progress is an unsustainable reliance on low pay and poor working conditions, particularly for women.",
+    "extracted_facts": [
+      {
+        "field": "production_cost",
+        "value": "low-cost",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "labor_practice",
+        "value": "unsustainable reliance on low pay and poor working conditions",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
+  },
+  {
+    "evidence_id": "5745ef69-49b",
+    "sector": "clothing-fashion",
+    "entity_type": "policy",
+    "entity_slug": "",
+    "query": "\"clothing Bangladesh\" regulation Bangladesh 2026",
+    "query_family": "policy_tracker",
+    "query_score_prior": 0.5,
+    "search_provider": "search.datasolved.org",
+    "retrieved_at": "2026-05-06T16:32:25.709270+00:00",
+    "source_url": "https://www.adb.org/sites/default/files/publication/964316/adb-brief-293-expanding-diversifying-exports-bangladesh.pdf",
+    "source_domain": "www.adb.org",
+    "source_type": "unknown",
+    "title": "Expanding and Diversifying Exports in Bangladesh",
+    "snippet": "In the context ofBangladesh’supcoming LDC graduation in2026and the current economic challenges, there is a growing realization that policy reforms to enhance export competitiveness might receive stronger domestic support than in the past.",
+    "extracted_facts": [
+      {
+        "field": "policy_event",
+        "value": "LDC graduation",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "policy_event_date",
+        "value": "2026",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
+  },
+  {
+    "evidence_id": "5f14344c-f4f",
+    "sector": "clothing-fashion",
+    "entity_type": "policy",
+    "entity_slug": "",
+    "query": "\"clothing Bangladesh\" policy Bangladesh 2026",
+    "query_family": "policy_tracker",
+    "query_score_prior": 0.5,
+    "search_provider": "search.datasolved.org",
+    "retrieved_at": "2026-05-06T16:32:31.103567+00:00",
+    "source_url": "https://www.forbes.com/sites/brookerobertsislam/2026/04/23/bangladeshs-39b-garment-industry-faces-next-test-moving-beyond-low-cost-manufacturing/",
+    "source_domain": "www.forbes.com",
+    "source_type": "unknown",
+    "title": "Bangladesh’s $39B Garment Industry Faces Next Test: Moving ...",
+    "snippet": "Apr 23,2026·Four decades ago,Bangladesh’sgarmentindustry consisted of small sewing workshops assembling pre-cut garments from Korea. Today,Bangladeshis the world’s second-largestgarment...",
+    "extracted_facts": [
+      {
+        "field": "industry_size",
+        "value": "39B",
+        "unit": "USD",
+        "confidence": 1.0
+      },
+      {
+        "field": "country_rank",
+        "value": "second-largest garment",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
+  },
+  {
+    "evidence_id": "b5d86570-e33",
+    "sector": "clothing-fashion",
+    "entity_type": "policy",
+    "entity_slug": "",
+    "query": "\"clothing Bangladesh\" policy Bangladesh 2026",
+    "query_family": "policy_tracker",
+    "query_score_prior": 0.5,
+    "search_provider": "search.datasolved.org",
+    "retrieved_at": "2026-05-06T16:32:31.103602+00:00",
+    "source_url": "https://www.reuters.com/world/asia-pacific/bangladesh-election-offers-hope-garment-sector-battered-by-tariffs-unrest-2026-02-11/",
+    "source_domain": "www.reuters.com",
+    "source_type": "unknown",
+    "title": "Bangladesh election offers hope to garment sector battered by ...",
+    "snippet": "Feb 11,2026·Under the deal, the United States will set up a system allowing a certain volume ofBangladeshitextileandapparelexports to enter duty‑free. The size of the zero‑tariff quota will be...",
+    "extracted_facts": [
+      {
+        "field": "trade_agreement",
+        "value": "duty-free",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "trade_agreement_detail",
+        "value": "zero-tariff quota",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
+  },
+  {
+    "evidence_id": "a07ef11f-c51",
+    "sector": "clothing-fashion",
+    "entity_type": "policy",
+    "entity_slug": "",
+    "query": "\"clothing Bangladesh\" policy Bangladesh 2026",
+    "query_family": "policy_tracker",
+    "query_score_prior": 0.5,
+    "search_provider": "search.datasolved.org",
+    "retrieved_at": "2026-05-06T16:32:31.103616+00:00",
+    "source_url": "https://www.tariffstool.com/tariffs-on-clothing-from-bangladesh",
+    "source_domain": "www.tariffstool.com",
+    "source_type": "unknown",
+    "title": "Clothing from Bangladesh — 26.5% Tariff (2026)",
+    "snippet": "1 day ago ·Bangladesh'sprimary competitive advantage is its extremely low labor costs — among the lowest in Asia — which make it the most cost-effective option for basic, high-volumegarmentseven with the 26.5% tariff.",
+    "extracted_facts": [
+      {
+        "field": "competitive_advantage",
+        "value": "extremely low labor costs",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "tariff_rate",
+        "value": "26.5%",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
+  },
+  {
+    "evidence_id": "8cee4010-133",
+    "sector": "clothing-fashion",
+    "entity_type": "policy",
+    "entity_slug": "",
+    "query": "\"clothing Bangladesh\" policy Bangladesh 2026",
+    "query_family": "policy_tracker",
+    "query_score_prior": 0.5,
+    "search_provider": "search.datasolved.org",
+    "retrieved_at": "2026-05-06T16:32:31.103625+00:00",
+    "source_url": "https://repository.unescap.org/bitstream/handle/20.500.12870/6457/ESCAP-2023-PB-Overcoming-challenges-Bangladesh-textile-garment-sector.pdf?sequence=5",
+    "source_domain": "repository.unescap.org",
+    "source_type": "unknown",
+    "title": "Overcoming Challenges in Bangladesh's Textile & Garment Sector",
+    "snippet": "Bangladesh’seconomic growth has revolved around its thriving textile andapparelindustry, known as the RMG (ready-madegarments).Bangladeshhas harnessed its abundant and cost-effective labor force, securing sourcing orders from globalapparelbrands including GAP, H&M, Uniqlo, and Zara.",
+    "extracted_facts": [
+      {
+        "field": "labor_force_characteristic",
+        "value": "abundant and cost-effective",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "major_client",
+        "value": "GAP, H&M, Uniqlo, and Zara",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
+  },
+  {
+    "evidence_id": "19954264-9cd",
+    "sector": "clothing-fashion",
+    "entity_type": "policy",
+    "entity_slug": "",
+    "query": "\"clothing Bangladesh\" policy Bangladesh 2026",
+    "query_family": "policy_tracker",
+    "query_score_prior": 0.5,
+    "search_provider": "search.datasolved.org",
+    "retrieved_at": "2026-05-06T16:32:31.103635+00:00",
+    "source_url": "https://www.prnewswire.com/news-releases/bangladeshs-garments-revolution-new-report-challenges-global-fashion-to-rethink-outdated-narratives-302451340.html",
+    "source_domain": "www.prnewswire.com",
+    "source_type": "unknown",
+    "title": "Bangladesh's Garments Revolution: New Report Challenges ...",
+    "snippet": "May 12, 2025 ·The report, Beyond the Stereotype: RethinkingBangladesh'sTextile Industry, highlightsBangladesh'semergence as a leader in ethical and sustainableapparelproduction.",
+    "extracted_facts": [
+      {
+        "field": "report_title",
+        "value": "Beyond the Stereotype: Rethinking Bangladesh's Textile Industry",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "production_type",
+        "value": "ethical and sustainable apparel production",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
+  },
+  {
+    "evidence_id": "adf01dff-6ec",
+    "sector": "clothing-fashion",
+    "entity_type": "policy",
+    "entity_slug": "",
+    "query": "\"clothing Bangladesh\" policy Bangladesh 2026",
+    "query_family": "policy_tracker",
+    "query_score_prior": 0.5,
+    "search_provider": "search.datasolved.org",
+    "retrieved_at": "2026-05-06T16:32:31.103648+00:00",
+    "source_url": "https://www.yahoo.com/news/bangladesh-tap-china-5-billion-051739781.html",
+    "source_domain": "www.yahoo.com",
+    "source_type": "unknown",
+    "title": "Bangladesh to Tap China for $5 Billion Loan to Boost Economy",
+    "snippet": "(Bloomberg) --Bangladeshis in talks with China for a loan of about $5 billion to bolster the natio...",
+    "extracted_facts": [
+      {
+        "field": "funding_amount",
+        "value": "5 billion",
+        "unit": "USD",
+        "confidence": 0.9
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.735
+  },
+  {
+    "evidence_id": "87c18d95-fd3",
+    "sector": "clothing-fashion",
+    "entity_type": "policy",
+    "entity_slug": "",
+    "query": "\"clothing Bangladesh\" policy Bangladesh 2026",
+    "query_family": "policy_tracker",
+    "query_score_prior": 0.5,
+    "search_provider": "search.datasolved.org",
+    "retrieved_at": "2026-05-06T16:32:31.103660+00:00",
+    "source_url": "https://finance.yahoo.com/news/4-fashion-supply-chain-trends-103414357.html",
+    "source_domain": "finance.yahoo.com",
+    "source_type": "unknown",
+    "title": "4 fashion supply chain trends to watch in 2026",
+    "snippet": "Trade war uncertainties and unpredictable tariffs will challenge apparel companies and retailers in2026, impacting sourcing management, operational...",
+    "extracted_facts": [],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 0.5,
+    "confidence_score": 0.545
+  },
+  {
+    "evidence_id": "ab33d7a7-f25",
+    "sector": "clothing-fashion",
+    "entity_type": "policy",
+    "entity_slug": "",
+    "query": "\"clothing Bangladesh\" policy Bangladesh 2026",
+    "query_family": "policy_tracker",
+    "query_score_prior": 0.5,
+    "search_provider": "search.datasolved.org",
+    "retrieved_at": "2026-05-06T16:32:31.103672+00:00",
+    "source_url": "https://www.yahoo.com/news/experts-warn-disturbing-factory-conditions-110054006.html",
+    "source_domain": "www.yahoo.com",
+    "source_type": "unknown",
+    "title": "Experts warn of disturbing factory conditions still happening years after...",
+    "snippet": "Twelve years have passed since the Rana Plaza building collapse inBangladeshkilled 1,138 people...",
+    "extracted_facts": [
+      {
+        "field": "employee_count",
+        "value": "1138",
+        "unit": "people",
+        "confidence": 0.9
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.735
+  },
+  {
+    "evidence_id": "cc7214c3-78b",
+    "sector": "clothing-fashion",
+    "entity_type": "policy",
+    "entity_slug": "",
+    "query": "\"fashion brand Dhaka\" regulation Bangladesh 2026",
+    "query_family": "policy_tracker",
+    "query_score_prior": 0.5,
+    "search_provider": "search.datasolved.org",
+    "retrieved_at": "2026-05-06T16:32:41.427470+00:00",
+    "source_url": "https://www.dhakatribune.com/bangladesh/409462/the-price-puzzle-in-bangladesh’s-booming-online",
+    "source_domain": "www.dhakatribune.com",
+    "source_type": "unknown",
+    "title": "The price puzzle in Bangladesh’s booming online market",
+    "snippet": "1 day ago ·The issue of “same product, different price” inBangladesh’s online fashion market reflects deeper economic and structural challenges. Rapid market expansion, weakregulation, information asymmetry and complex supply chains have all contributed to this lack of transparency.",
+    "extracted_facts": [
+      {
+        "field": "regulation_name",
+        "value": "weak regulation",
+        "unit": null,
+        "confidence": 0.7
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.705
+  },
+  {
+    "evidence_id": "e6865143-360",
+    "sector": "clothing-fashion",
+    "entity_type": "policy",
+    "entity_slug": "",
+    "query": "\"fashion brand Dhaka\" regulation Bangladesh 2026",
+    "query_family": "policy_tracker",
+    "query_score_prior": 0.5,
+    "search_provider": "search.datasolved.org",
+    "retrieved_at": "2026-05-06T16:32:41.427508+00:00",
+    "source_url": "https://www.facebook.com/100076131758497/",
+    "source_domain": "www.facebook.com",
+    "source_type": "unknown",
+    "title": "Roja Fashion Brand | Dhaka - Facebook",
+    "snippet": "RojaFashionBrand,Dhaka,Bangladesh. 11,177 likes · 2,963 talking about this. & online shop",
+    "extracted_facts": [
+      {
+        "field": "facebook_handle",
+        "value": "RojaFashionBrand",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "employee_count",
+        "value": "2963",
+        "unit": "people",
+        "confidence": 0.9
+      },
+      {
+        "field": "facebook_likes",
+        "value": "11777",
+        "unit": "likes",
+        "confidence": 0.9
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.74
+  },
+  {
+    "evidence_id": "ca92c187-cbc",
+    "sector": "clothing-fashion",
+    "entity_type": "policy",
+    "entity_slug": "",
+    "query": "\"fashion brand Dhaka\" regulation Bangladesh 2026",
+    "query_family": "policy_tracker",
+    "query_score_prior": 0.5,
+    "search_provider": "search.datasolved.org",
+    "retrieved_at": "2026-05-06T16:32:41.427523+00:00",
+    "source_url": "https://catseye.com.bd/",
+    "source_domain": "catseye.com.bd",
+    "source_type": "unknown",
+    "title": "Cats Eye is the Pioneer Lifestyle Brand for unique style ...",
+    "snippet": "Cats Eye is the Pioneer LifestyleBrandfor unique style & shopping content, starting from trend-settingfashionlovers and their followers inBangladesh.",
+    "extracted_facts": [],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 0.5,
+    "confidence_score": 0.545
+  },
+  {
+    "evidence_id": "d4bac4a2-c71",
+    "sector": "clothing-fashion",
+    "entity_type": "policy",
+    "entity_slug": "",
+    "query": "\"fashion brand Dhaka\" regulation Bangladesh 2026",
+    "query_family": "policy_tracker",
+    "query_score_prior": 0.5,
+    "search_provider": "search.datasolved.org",
+    "retrieved_at": "2026-05-06T16:32:41.427549+00:00",
+    "source_url": "https://www.bppa.gov.bd/",
+    "source_domain": "www.bppa.gov.bd",
+    "source_type": "unknown",
+    "title": "BPPA | Bangladesh Public Procurement Authority",
+    "snippet": "Apr 5,2026·BPPA is the national authority responsible for public procurement policy,regulations, and e-GP systems to ensure transparent and efficient procurement inBangladesh.",
+    "extracted_facts": [
+      {
+        "field": "regulation_name",
+        "value": "public procurement policy",
+        "unit": null,
+        "confidence": 0.9
+      },
+      {
+        "field": "regulation_name",
+        "value": "regulations",
+        "unit": null,
+        "confidence": 0.9
+      },
+      {
+        "field": "regulation_name",
+        "value": "e-GP systems",
+        "unit": null,
+        "confidence": 0.9
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.735
+  },
+  {
+    "evidence_id": "78ba8c58-3f6",
+    "sector": "clothing-fashion",
+    "entity_type": "policy",
+    "entity_slug": "",
+    "query": "\"fashion brand Dhaka\" regulation Bangladesh 2026",
+    "query_family": "policy_tracker",
+    "query_score_prior": 0.5,
+    "search_provider": "search.datasolved.org",
+    "retrieved_at": "2026-05-06T16:32:41.427562+00:00",
+    "source_url": "https://poshgarments.com/clothing-brands-in-bangladesh/",
+    "source_domain": "poshgarments.com",
+    "source_type": "unknown",
+    "title": "Top 20 Clothing Brands in Bangladesh - Posh Garments Ltd.",
+    "snippet": "Mar 25, 2024 ·Discover the top 20clothingbrandsinBangladesh, showcasing diverse styles and quality craftsmanship, reflecting the nation's richfashionlandscape.",
+    "extracted_facts": [],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 0.5,
+    "confidence_score": 0.545
+  },
+  {
+    "evidence_id": "810d7a0a-308",
+    "sector": "clothing-fashion",
+    "entity_type": "policy",
+    "entity_slug": "",
+    "query": "\"fashion brand Dhaka\" policy Bangladesh 2026",
+    "query_family": "policy_tracker",
+    "query_score_prior": 0.5,
+    "search_provider": "search.datasolved.org",
+    "retrieved_at": "2026-05-06T16:32:47.471257+00:00",
+    "source_url": "https://www.yahoo.com/news/articles/international-accord-climate-proof-193708665.html",
+    "source_domain": "www.yahoo.com",
+    "source_type": "unknown",
+    "title": "Is the International Accord Climate-Proof?",
+    "snippet": "Extreme heat, exacerbated by climate breakdown, is turning into a full-blown health and safety crisis. A raft of trade unions, civil society and academic...",
+    "extracted_facts": [],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 0.5,
+    "confidence_score": 0.545
+  }
+]
