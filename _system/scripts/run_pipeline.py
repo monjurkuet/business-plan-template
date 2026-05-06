@@ -18,7 +18,7 @@ from datetime import datetime, timezone
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 sys.path.insert(0, str(REPO_ROOT / "_system"))
 
-from lib.config_loader import now_iso, REPO_ROOT as _RR
+from lib.config_loader import now_iso
 
 log = logging.getLogger("run_pipeline")
 

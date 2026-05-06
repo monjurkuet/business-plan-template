@@ -24,8 +24,13 @@ from lib.search_client import search_text, search_news
 log = logging.getLogger("execute_searches")
 
 import os
-MAX_QUERIES_PER_RUN = int(os.environ.get("MAX_QUERIES_PER_RUN", "120"))
-DELAY_SECONDS = 1.0  # Between queries
+MAX_QUERIES_PER_RUN = int(os.environ.get("MAX_QUERIES_PER_RUN", "24"))
+DELAY_SECONDS = float(os.environ.get("SEARCH_DELAY_SECONDS", "0.2"))  # Between queries
+
+SEARCH_TIMEOUT_SECONDS = float(os.environ.get("SEARCH_TIMEOUT_SECONDS", "15"))
+MAX_TEXT_RESULTS = int(os.environ.get("MAX_TEXT_RESULTS", "5"))
+MAX_NEWS_RESULTS = int(os.environ.get("MAX_NEWS_RESULTS", "3"))
+HEADLESS_FAIL_FAST = os.environ.get("SEARCH_FAIL_FAST", "1") != "0"
 
 
 def generate_queries(freshness_queue: list, sector_configs: dict, taxonomy: dict) -> list[dict]:

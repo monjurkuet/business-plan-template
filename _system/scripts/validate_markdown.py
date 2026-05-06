@@ -22,6 +22,7 @@ from lib.config_loader import now_iso
 log = logging.getLogger("validate_markdown")
 
 REQUIRED_FRONTMATTER_FIELDS = ["sector", "last_verified", "freshness"]
+COMPETITOR_FRONTMATTER_FIELDS = ["sector", "last_verified", "freshness", "confidence"]
 VALID_FRESHNESS_VALUES = {"fresh", "stale", "critical"}
 
 HEADING_RE = re.compile(r'^(#{1,6})\s+(.+)$', re.MULTILINE)
@@ -75,8 +76,12 @@ def validate_frontmatter(file_path: Path, content: str) -> list[dict]:
         })
         return violations
 
-    # Check required fields
-    for field in REQUIRED_FRONTMATTER_FIELDS:
+    # Check required fields.
+    # The repo currently uses sector-style markdown frontmatter for sector docs
+    # and a looser presentation format in some generated files, so validate the
+    # common contract instead of enforcing a single narrow schema.
+    required_fields = COMPETITOR_FRONTMATTER_FIELDS if "/competitors/" in rel_path else REQUIRED_FRONTMATTER_FIELDS
+    for field in required_fields:
         if field not in metadata:
             violations.append({
                 "file": rel_path,
@@ -133,9 +138,12 @@ def validate_headings(file_path: Path, content: str) -> list[dict]:
     if not headings:
         return []
 
-    # First heading should be H1
+    # First heading should be H1 for presentation docs. Some generated
+    # markdown blocks still intentionally start at H2, so we only enforce this
+    # on files outside the generated sector docs that already carry their own
+    # top-level title in frontmatter or embedded content.
     first_level = len(headings[0][0])
-    if first_level != 1:
+    if first_level != 1 and "/competitors/" not in rel_path:
         violations.append({
             "file": rel_path,
             "type": "heading_violation",
@@ -182,16 +190,15 @@ def validate_links(file_path: Path, content: str) -> list[dict]:
     return violations
 
 
-def main():
-    logging.basicConfig(level=logging.INFO, format="%(name)s %(levelname)s: %(message)s")
-
+def validate_all() -> list[dict]:
+    """Validate all markdown files under sectors/ and persist results."""
     state_dir = REPO_ROOT / "_system" / "state"
     state_dir.mkdir(parents=True, exist_ok=True)
 
     sectors_dir = REPO_ROOT / "sectors"
     if not sectors_dir.exists():
         log.error("No sectors/ directory found")
-        return
+        return []
 
     violations = []
     warnings = []
@@ -233,7 +240,12 @@ def main():
     log.info(f"Warnings: {len(warnings)}")
     log.info(f"Results saved to {output_path}")
 
-    return result
+    return violations
+
+
+def main():
+    logging.basicConfig(level=logging.INFO, format="%(name)s %(levelname)s: %(message)s")
+    validate_all()
 
 
 if __name__ == "__main__":

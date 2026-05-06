@@ -87,6 +87,8 @@ def main():
 
     for sa in audit.get("sector_audits", []):
         sector = sa["sector"]
+        stale_years = sorted(sa.get("stale_references", []))
+
         # Process each present file
         for fname in sa.get("present_files", []):
             rel_path = f"sectors/{sector}/bd-market/{fname}"
@@ -115,7 +117,23 @@ def main():
                     "priority": priority,
                     "stale_after_days": thresholds["stale_after_days"],
                     "critical_after_days": thresholds["critical_stale_after_days"],
+                    "reason": f"File age {age_days}d exceeds freshness threshold for {category}",
                 })
+
+            if stale_years:
+                stale_priority = "P0" if category == "policy" or sector == "crypto-bitcoin" else "P1"
+                queue.append({
+                    "path": rel_path,
+                    "sector": sector,
+                    "category": category,
+                    "age_days": age_days,
+                    "stale_type": "stale_reference",
+                    "priority": stale_priority,
+                    "stale_after_days": thresholds["stale_after_days"],
+                    "critical_after_days": thresholds["critical_stale_after_days"],
+                    "reason": f"Contains stale year references: {', '.join(stale_years)}",
+                })
+                summary["stale"] = summary.get("stale", 0) + 1
 
         # Also add missing files as P0
         for mf in sa.get("missing_files", []):
@@ -128,6 +146,7 @@ def main():
                 "priority": "P0",
                 "stale_after_days": 0,
                 "critical_after_days": 0,
+                "reason": "Required file is missing",
             })
             summary["critical"] = summary.get("critical", 0) + 1
 

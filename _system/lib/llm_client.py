@@ -12,6 +12,7 @@ log = logging.getLogger("llm_client")
 # Defaults from environment
 DEFAULT_BASE_URL = os.environ.get("OPENPAI_BASE_URL", "https://llm.datasolved.org/v1")
 DEFAULT_API_KEY = os.environ.get("OPENPAI_API_KEY", "")
+DEFAULT_TIMEOUT_SECONDS = int(os.environ.get("LLM_REQUEST_TIMEOUT_SECONDS", "90"))
 
 
 def call_llm(
@@ -22,6 +23,7 @@ def call_llm(
     base_url: str = None,
     api_key: str = None,
     response_format: dict = None,
+    timeout: int = None,
 ) -> dict:
     """Call the OpenAI-compatible chat completions API.
     
@@ -29,6 +31,7 @@ def call_llm(
     """
     base_url = base_url or DEFAULT_BASE_URL
     api_key = api_key or DEFAULT_API_KEY
+    timeout = DEFAULT_TIMEOUT_SECONDS if timeout is None else timeout
     
     url = f"{base_url}/chat/completions"
     
@@ -56,7 +59,7 @@ def call_llm(
     log.info(f"Calling {model} ({len(json.dumps(body))} bytes input)")
     
     try:
-        with urllib.request.urlopen(req, timeout=300) as resp:
+        with urllib.request.urlopen(req, timeout=timeout) as resp:
             data = json.loads(resp.read().decode())
         
         content = data["choices"][0]["message"]["content"]

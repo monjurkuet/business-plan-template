@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T13:19:20.230614+00:00",
+  "generated_at": "2026-05-06T15:54:53.639393+00:00",
   "models_used": [
     "gpt-5.4-mini",
     "gemini-2.5-flash-lite",
@@ -25,6 +25,487 @@
       "recommendations": []
     }
   ],
-  "total_queries": 0,
-  "queries": []
+  "total_queries": 60,
+  "queries": [
+    {
+      "query": "\"car care Bangladesh\" regulation Bangladesh 2026",
+      "sector": "automotive-car-care",
+      "family": "policy_tracker",
+      "priority": "P0",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"car care Bangladesh\" policy Bangladesh 2026",
+      "sector": "automotive-car-care",
+      "family": "policy_tracker",
+      "priority": "P0",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"clothing Bangladesh\" regulation Bangladesh 2026",
+      "sector": "clothing-fashion",
+      "family": "policy_tracker",
+      "priority": "P0",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"clothing Bangladesh\" policy Bangladesh 2026",
+      "sector": "clothing-fashion",
+      "family": "policy_tracker",
+      "priority": "P0",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"crypto Bangladesh\" Bangladesh top companies",
+      "sector": "crypto-bitcoin",
+      "family": "competitor_discovery",
+      "priority": "P0",
+      "reason": "Contains stale year references: 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"crypto Bangladesh\" Dhaka Facebook",
+      "sector": "crypto-bitcoin",
+      "family": "competitor_discovery",
+      "priority": "P0",
+      "reason": "Contains stale year references: 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"\" price Bangladesh",
+      "sector": "crypto-bitcoin",
+      "family": "pricing",
+      "priority": "P0",
+      "reason": "Contains stale year references: 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "site:facebook.com \"\" offer price",
+      "sector": "crypto-bitcoin",
+      "family": "pricing",
+      "priority": "P0",
+      "reason": "Contains stale year references: 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"crypto Bangladesh\" regulation Bangladesh 2026",
+      "sector": "crypto-bitcoin",
+      "family": "policy_tracker",
+      "priority": "P0",
+      "reason": "Contains stale year references: 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"crypto Bangladesh\" policy Bangladesh 2026",
+      "sector": "crypto-bitcoin",
+      "family": "policy_tracker",
+      "priority": "P0",
+      "reason": "Contains stale year references: 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"\" review Bangladesh",
+      "sector": "crypto-bitcoin",
+      "family": "sentiment",
+      "priority": "P0",
+      "reason": "Contains stale year references: 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "site:facebook.com \"\" reviews",
+      "sector": "crypto-bitcoin",
+      "family": "sentiment",
+      "priority": "P0",
+      "reason": "Contains stale year references: 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"crypto Bangladesh\" Eid sales Bangladesh",
+      "sector": "crypto-bitcoin",
+      "family": "seasonality",
+      "priority": "P0",
+      "reason": "Contains stale year references: 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"crypto Bangladesh\" seasonal demand Bangladesh",
+      "sector": "crypto-bitcoin",
+      "family": "seasonality",
+      "priority": "P0",
+      "reason": "Contains stale year references: 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"crypto Bangladesh\" Bangladesh top companies",
+      "sector": "crypto-bitcoin",
+      "family": "competitor_discovery",
+      "priority": "P0",
+      "reason": "Contains stale year references: 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"crypto Bangladesh\" Dhaka Facebook",
+      "sector": "crypto-bitcoin",
+      "family": "competitor_discovery",
+      "priority": "P0",
+      "reason": "Contains stale year references: 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"electronics Bangladesh\" regulation Bangladesh 2026",
+      "sector": "electronics-gadgets",
+      "family": "policy_tracker",
+      "priority": "P0",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"electronics Bangladesh\" policy Bangladesh 2026",
+      "sector": "electronics-gadgets",
+      "family": "policy_tracker",
+      "priority": "P0",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"pet care Bangladesh\" regulation Bangladesh 2026",
+      "sector": "high-roi-niches",
+      "family": "policy_tracker",
+      "priority": "P0",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"pet care Bangladesh\" policy Bangladesh 2026",
+      "sector": "high-roi-niches",
+      "family": "policy_tracker",
+      "priority": "P0",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"jewellery Bangladesh\" regulation Bangladesh 2026",
+      "sector": "jewellery",
+      "family": "policy_tracker",
+      "priority": "P0",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"jewellery Bangladesh\" policy Bangladesh 2026",
+      "sector": "jewellery",
+      "family": "policy_tracker",
+      "priority": "P0",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"digital marketing Bangladesh\" regulation Bangladesh 2026",
+      "sector": "media-marketing-digital",
+      "family": "policy_tracker",
+      "priority": "P0",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"digital marketing Bangladesh\" policy Bangladesh 2026",
+      "sector": "media-marketing-digital",
+      "family": "policy_tracker",
+      "priority": "P0",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"travel agency Bangladesh\" regulation Bangladesh 2026",
+      "sector": "travel-tourism",
+      "family": "policy_tracker",
+      "priority": "P0",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"travel agency Bangladesh\" policy Bangladesh 2026",
+      "sector": "travel-tourism",
+      "family": "policy_tracker",
+      "priority": "P0",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"car care Bangladesh\" Bangladesh top companies",
+      "sector": "automotive-car-care",
+      "family": "competitor_discovery",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"car care Bangladesh\" Dhaka Facebook",
+      "sector": "automotive-car-care",
+      "family": "competitor_discovery",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"\" price Bangladesh",
+      "sector": "automotive-car-care",
+      "family": "pricing",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "site:facebook.com \"\" offer price",
+      "sector": "automotive-car-care",
+      "family": "pricing",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"\" review Bangladesh",
+      "sector": "automotive-car-care",
+      "family": "sentiment",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "site:facebook.com \"\" reviews",
+      "sector": "automotive-car-care",
+      "family": "sentiment",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"car care Bangladesh\" Eid sales Bangladesh",
+      "sector": "automotive-car-care",
+      "family": "seasonality",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"car care Bangladesh\" seasonal demand Bangladesh",
+      "sector": "automotive-car-care",
+      "family": "seasonality",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"car care Bangladesh\" Bangladesh top companies",
+      "sector": "automotive-car-care",
+      "family": "competitor_discovery",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"car care Bangladesh\" Dhaka Facebook",
+      "sector": "automotive-car-care",
+      "family": "competitor_discovery",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"clothing Bangladesh\" Bangladesh top companies",
+      "sector": "clothing-fashion",
+      "family": "competitor_discovery",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"clothing Bangladesh\" Dhaka Facebook",
+      "sector": "clothing-fashion",
+      "family": "competitor_discovery",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"\" price Bangladesh",
+      "sector": "clothing-fashion",
+      "family": "pricing",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "site:facebook.com \"\" offer price",
+      "sector": "clothing-fashion",
+      "family": "pricing",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"\" review Bangladesh",
+      "sector": "clothing-fashion",
+      "family": "sentiment",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "site:facebook.com \"\" reviews",
+      "sector": "clothing-fashion",
+      "family": "sentiment",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"clothing Bangladesh\" Eid sales Bangladesh",
+      "sector": "clothing-fashion",
+      "family": "seasonality",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"clothing Bangladesh\" seasonal demand Bangladesh",
+      "sector": "clothing-fashion",
+      "family": "seasonality",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"clothing Bangladesh\" Bangladesh top companies",
+      "sector": "clothing-fashion",
+      "family": "competitor_discovery",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"clothing Bangladesh\" Dhaka Facebook",
+      "sector": "clothing-fashion",
+      "family": "competitor_discovery",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"electronics Bangladesh\" Bangladesh top companies",
+      "sector": "electronics-gadgets",
+      "family": "competitor_discovery",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"electronics Bangladesh\" Dhaka Facebook",
+      "sector": "electronics-gadgets",
+      "family": "competitor_discovery",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"\" price Bangladesh",
+      "sector": "electronics-gadgets",
+      "family": "pricing",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "site:facebook.com \"\" offer price",
+      "sector": "electronics-gadgets",
+      "family": "pricing",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"\" review Bangladesh",
+      "sector": "electronics-gadgets",
+      "family": "sentiment",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "site:facebook.com \"\" reviews",
+      "sector": "electronics-gadgets",
+      "family": "sentiment",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"electronics Bangladesh\" Eid sales Bangladesh",
+      "sector": "electronics-gadgets",
+      "family": "seasonality",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"electronics Bangladesh\" seasonal demand Bangladesh",
+      "sector": "electronics-gadgets",
+      "family": "seasonality",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"electronics Bangladesh\" Bangladesh top companies",
+      "sector": "electronics-gadgets",
+      "family": "competitor_discovery",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"electronics Bangladesh\" Dhaka Facebook",
+      "sector": "electronics-gadgets",
+      "family": "competitor_discovery",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"pet care Bangladesh\" Bangladesh top companies",
+      "sector": "high-roi-niches",
+      "family": "competitor_discovery",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"pet care Bangladesh\" Dhaka Facebook",
+      "sector": "high-roi-niches",
+      "family": "competitor_discovery",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"\" price Bangladesh",
+      "sector": "high-roi-niches",
+      "family": "pricing",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "site:facebook.com \"\" offer price",
+      "sector": "high-roi-niches",
+      "family": "pricing",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    }
+  ]
 }

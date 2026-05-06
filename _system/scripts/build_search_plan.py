@@ -9,20 +9,20 @@ import sys
 import json
 import logging
 import os
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from datetime import datetime, timezone
 
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 sys.path.insert(0, str(REPO_ROOT / "_system"))
 
-from lib.config_loader import (
-    now_iso, DATA_DIR, get_sector_configs, get_search_taxonomy, REPO_ROOT as _RR
-)
-from lib.llm_client import call_llm_json, call_llm_text, load_prompt
+from lib.config_loader import now_iso, DATA_DIR, get_sector_configs, get_search_taxonomy
+from lib.llm_client import call_llm_json, load_prompt
 
 log = logging.getLogger("build_search_plan")
 
 MAX_QUERIES = int(os.environ.get("MAX_SEARCH_QUERIES", "60"))
+REVIEW_TIMEOUT_SECONDS = int(os.environ.get("SEARCH_PLAN_REVIEW_TIMEOUT_SECONDS", "90"))
 
 
 def load_repo_summary() -> dict:
@@ -74,7 +74,13 @@ def review_with_model(model: str, context: str) -> dict:
         {"role": "user", "content": context[:12000]},  # Cap context size
     ]
     try:
-        return call_llm_json(messages, model=model, temperature=0.2, max_tokens=3000)
+        return call_llm_json(
+            messages,
+            model=model,
+            temperature=0.2,
+            max_tokens=3000,
+            timeout=REVIEW_TIMEOUT_SECONDS,
+        )
     except Exception as ex:
         log.warning(f"Review failed with {model}: {ex}")
         return {"model": model, "error": str(ex), "gaps": [], "recommendations": []}
@@ -213,13 +219,27 @@ def main():
     log.info(f"Built review context ({len(context)} chars)")
 
     # Multi-LLM review
-    models = ["gpt-5.4-mini", "gemini-2.5-flash-lite", "deepseek-ai/deepseek-v4-pro"]
+    routing = load_config("model-routing").get("review_models", {})
+    models = [
+        routing.get("breadth_scan", {}).get("model", "gemini-2.5-flash-lite"),
+        routing.get("deep_analysis", {}).get("model", "deepseek-ai/deepseek-v4-pro"),
+        routing.get("synthesis", {}).get("model", "gpt-5.4"),
+    ]
+    models = list(dict.fromkeys(models))
     reviews = []
-    for model in models:
-        log.info(f"Reviewing with {model}...")
-        review = review_with_model(model, context)
-        review["model"] = model
-        reviews.append(review)
+    with ThreadPoolExecutor(max_workers=len(models)) as pool:
+        futures = {pool.submit(review_with_model, model, context): model for model in models}
+        for future in as_completed(futures):
+            model = futures[future]
+            log.info(f"Reviewing with {model}...")
+            try:
+                review = future.result(timeout=REVIEW_TIMEOUT_SECONDS + 5)
+            except Exception as ex:
+                log.warning(f"Review future failed with {model}: {ex}")
+                review = {"model": model, "error": str(ex), "gaps": [], "recommendations": []}
+            review["model"] = model
+            reviews.append(review)
+    reviews.sort(key=lambda r: models.index(r.get("model", models[0])) if r.get("model") in models else len(models))
 
     # Synthesize
     sector_configs = get_sector_configs()

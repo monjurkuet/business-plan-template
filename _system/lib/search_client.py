@@ -4,7 +4,6 @@ import json
 import time
 import logging
 from pathlib import Path
-from datetime import datetime, timezone
 
 import urllib.request
 import urllib.parse
