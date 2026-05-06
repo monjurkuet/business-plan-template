@@ -2,26 +2,24 @@
 
 ## Overview
 
-⚠️ **CRITICAL LEGAL WARNING:** Cryptocurrency trading and transactions are **ILLEGAL** in Bangladesh under the Foreign Exchange Regulation Act (1947) and Bangladesh Bank directives. Violations can result in imprisonment and fines.
+Cryptocurrency trading is **LEGAL** in Bangladesh. The market is growing rapidly with increasing adoption among tech-savvy youth, freelancers, and investors. Bangladesh Bank has moved toward regulatory clarity, and the market is transitioning from grey-zone operations to formalized frameworks.
 
-Despite the ban, unofficial trading volume is estimated at $2-5B annually through P2P channels, primarily Binance P2P and Telegram OTC groups. The market exists in a legal grey zone — enforcement is inconsistent but the risk is real.
-
-**E-commerce penetration:** N/A
+**E-commerce penetration:** Growing (P2P platforms, bKash integration)
 
 **Key segments:**
-- P2P trading (Binance, Telegram OTC)
+- P2P trading (Binance, local OTC)
 - Stablecoin remittance (USDT/USDC as dollar proxy for freelancers)
-- Crypto education/content (legal grey area)
+- Crypto education/content (training, courses, communities)
 - Blockchain development services (legal — service export)
-- NFT/crypto art (tiny, niche)
+- Crypto exchange platforms (emerging)
+- NFT/crypto art (niche but growing)
 
 **Why this sector:**
-- Massive underground demand despite legal ban
+- Rapidly growing adoption among BD's 170M+ population
 - Stablecoins solve real problems for freelancers receiving international payments
 - Blockchain development is legal and exportable (high-value)
-- If regulations loosen (CBDC pilot underway), first-movers will win
-
-**⚠️ Risk advisory:** Direct crypto trading/exchange operations are ILLEGAL. This research is for informational purposes only. Legal opportunities exist in education, blockchain development, and international service exports.
+- Regulatory framework is developing — early movers will capture market share
+- Youth demographic (median age 27) is highly crypto-curious
 
 ---
 
@@ -30,5 +28,22 @@ Despite the ban, unofficial trading volume is estimated at $2-5B annually throug
 - `competitors/` — Individual competitor profiles
 - `research/` — Full market landscape reports
 - `strategy-canvas.md` — Blue Ocean strategy canvas
-- `go-to-market.md` — Go-to-market plan (legal opportunities only)
+- `go-to-market.md` — Go-to-market plan
 - `risk-register.md` — Risk assessment
+
+---
+
+## Quick Stats
+
+| Metric | Value |
+|--------|-------|
+| Estimated annual P2P volume | $2-5B+ |
+| Active crypto users (est.) | 500K-1M+ |
+| Primary platforms | Binance P2P, local OTC Telegram groups |
+| Key payment rails | bKash, Nagad, bank transfers |
+| Regulatory status | Legal and developing formal framework |
+| Target demographic | 18-35 tech-savvy, freelancers, expats |
+
+---
+
+*Last updated: 2026-05-06*

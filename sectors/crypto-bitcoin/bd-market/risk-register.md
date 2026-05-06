@@ -1,27 +1,28 @@
-# Risk Register — Bangladesh Bitcoin & Crypto
+# Risk Register — Bangladesh Crypto Business
 
-## Date: 2026-05-06
-
----
-
-## Risk Assessment
-
-| # | Risk | Likelihood | Impact | Score | Mitigation | Status |
-|---|------|-----------|--------|-------|------------|--------|
-| 1 | Government crackdown on crypto content | Medium | High | 🔴 Critical | Keep content educational and factual. No trading advice. No promotion of illegal activities. Legal review of content. | Active |
-| 2 | Regulatory change makes business model illegal | Low | High | 🔴 High | Stay diversified across education + dev services. Dev services are fully legal regardless. | Monitor |
-| 3 | Scam association damages credibility | Medium | Medium | 🟡 Medium | Strict no-scam policy. Flag scams publicly. Build trust through transparency and accuracy. | Active |
-| 4 | Crypto bear market shrinks audience | High | Medium | 🟡 Medium | Audience is cyclical. Use bear market to build dev services (counter-cyclical). Content is evergreen (blockchain education ≠ trading tips). | Accept |
-| 5 | International blockchain dev competition | High | Medium | 🟡 Medium | Compete on cost + quality. BD developers at $15-30/hr vs US $100-200/hr. | Active |
+**Date:** 2026-05-06
 
 ---
 
-## Kill Criteria
+## Risk Matrix
 
-- **Government warning/cease-and-desist received** → Immediately pause crypto content, pivot to pure blockchain dev
-- **YouTube/FB channel banned** → Switch to website + email + Telegram
-- **<5 course enrollments in first 90 days** → Re-evaluate pricing/content
-- **No blockchain dev clients in 6 months** → Market access problem, pivot team to general software dev
+| # | Risk | Likelihood | Impact | Rating | Mitigation | Status |
+|---|------|-----------|--------|--------|------------|--------|
+| 1 | Regulatory changes affect business model | Medium | High | 🔴 High | Diversify across education + dev + advisory. Stay compliant with evolving regulations. | Active |
+| 2 | Platform dependency (Binance, bKash) | Medium | Medium | 🟡 Medium | Build own community channels. Multi-platform distribution. | Monitor |
+| 3 | Market volatility reduces user engagement | Low | Medium | 🟡 Medium | Focus on education and dev services (revenue not dependent on price action). | Monitor |
+| 4 | Security breach / scam in community | Medium | High | 🔴 High | Implement verification, escrow services, community reporting. Never handle user funds directly. | Active |
+| 5 | Competition from established global players | High | Medium | 🟡 Medium | Differentiate with local knowledge, Bengali content, BD-specific compliance guidance. | Active |
+| 6 | Payment processor restrictions | Medium | Medium | 🟡 Medium | Diversify payment rails (bKash + Nagad + bank). Build relationships with fintech partners. | Monitor |
+
+---
+
+## Contingency Plans
+
+- **Regulatory tightening** → Pivot fully to education and blockchain dev services (both remain legal regardless)
+- **Platform banned/blocked** → Migrate community to website + email + Telegram + Signal
+- **Revenue decline in trading segment** → Increase focus on advisory and enterprise blockchain consulting
+- **Security incident** → Full transparency with community, improve verification systems, partner with security firms
 
 ---
 

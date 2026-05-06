@@ -1,41 +1,44 @@
-# Strategy Canvas — Bangladesh Bitcoin & Crypto
+# Strategy Canvas — Bangladesh Crypto Market
 
-## Date: 2026-05-06
-
----
-
-## Positioning Map (Legal Opportunities Only)
-
-| Factor | Crypto Education | Blockchain Dev | P2P Trading (ILLEGAL) | **Our Target** |
-|--------|-----------------|----------------|----------------------|---------------|
-| Legal safety | 8 | 10 | 1 | **9** |
-| Revenue potential | 6 | 8 | 9 | **7** |
-| Capital requirement | 2 | 4 | 6 | **3** |
-| Scalability | 7 | 6 | 8 | **7** |
-| First-mover advantage | 6 | 5 | 3 | **7** |
-| Regulatory risk | 3 | 1 | 10 | **2** |
+**Date:** 2026-05-06
 
 ---
 
-## ERRC Grid
+## Competing Factors (Scored 1-10)
+
+| Factor | Crypto Education | Blockchain Dev | P2P Trading | **Our Target** |
+|--------|-----------------|---------------|-------------|----------------|
+| Trust/credibility | 4 | 6 | 5 | 9 |
+| Regulatory compliance | 7 | 9 | 5 | 8 |
+| User experience | 3 | 5 | 6 | 9 |
+| Community size | 6 | 3 | 8 | 9 |
+| Content quality | 4 | 4 | 2 | 9 |
+| Revenue potential | 5 | 9 | 7 | 9 |
+| Scalability | 5 | 4 | 7 | 8 |
+| Local payment integration | 2 | 1 | 9 | 9 |
+| Advisory services | 2 | 3 | 1 | 8 |
+
+---
+
+## Eliminate-Reduce-Raise-Create (ERRC)
 
 ### Eliminate
-- Direct trading/exchange operations (ILLEGAL — non-negotiable)
-- Token/ICO launching (high regulatory risk)
+- **Pure hype/FOMO content** — the market is saturated with shill content; don't add to it
+- **Unregulated exchange operations** — compliance-first approach builds long-term trust
 
 ### Reduce
-- Pure speculation content (attracts wrong audience, regulatory attention)
-- Dependency on any single revenue stream
+- **P2P trading reliance** — reduce dependency on informal channels by building compliant alternatives
+- **Generic crypto news** — everyone covers Bitcoin price; differentiate with BD-specific analysis
 
 ### Raise
-- Education quality and credibility (scam-free, factual, Bengali-first)
-- Blockchain development capacity (train more BD developers)
-- International client portfolio (diversify beyond BD market)
+- **Educational depth** — structured courses, certification, not just YouTube tutorials
+- **Regulatory clarity** — be the go-to source for understanding BD's evolving crypto regulations
+- **Professional advisory** — HNWI and business crypto advisory is virtually non-existent in BD
 
 ### Create
-- "Crypto Academy BD" — trusted Bengali-language education platform
-- Blockchain dev talent pipeline (training → placement → revenue share)
-- Regulatory readiness position (build brand now, launch products when legal)
+- **BD-first stablecoin remittance** — solve the freelancer payment pain point with UX on top of existing P2P rails
+- **Integrated platform** — education + advisory + community + tools in one ecosystem
+- **Verified crypto practitioner network** — certified professionals who can advise locally
 
 ---
 
