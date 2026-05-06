@@ -955,32 +955,32 @@
   },
   {
     "path": "_system/state/file_inventory.json",
-    "size_bytes": 30346,
-    "last_modified": "2026-05-06T07:09:25.891941+00:00",
+    "size_bytes": 30511,
+    "last_modified": "2026-05-06T13:18:11.128064+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/validation_results.json",
     "size_bytes": 3606,
-    "last_modified": "2026-05-06T07:11:06.691923+00:00",
+    "last_modified": "2026-05-06T13:18:11.332064+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/audit_results.json",
     "size_bytes": 5650,
-    "last_modified": "2026-05-06T07:09:25.891941+00:00",
+    "last_modified": "2026-05-06T13:18:11.128064+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/last_pipeline_run.json",
-    "size_bytes": 419,
-    "last_modified": "2026-05-06T07:11:19.183921+00:00",
+    "size_bytes": 427,
+    "last_modified": "2026-05-06T13:18:11.876064+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/freshness_queue.json",
     "size_bytes": 170,
-    "last_modified": "2026-05-06T07:09:58.291935+00:00",
+    "last_modified": "2026-05-06T13:18:11.276064+00:00",
     "extension": ".json"
   }
 ]

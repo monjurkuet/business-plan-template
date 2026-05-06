@@ -110,6 +110,18 @@ def call_llm_json(
         return {"raw_response": content, "parse_error": True}
 
 
+def call_llm_text(
+    messages: list[dict],
+    model: str = "gpt-5.4",
+    temperature: float = 0.1,
+    max_tokens: int = 8000,
+    **kwargs,
+) -> str:
+    """Call LLM and return raw text content."""
+    result = call_llm(messages, model, temperature, max_tokens, **kwargs)
+    return result["content"]
+
+
 def load_prompt(name: str) -> str:
     """Load a prompt template from _system/prompts/."""
     prompt_dir = Path(__file__).resolve().parent.parent / "prompts"
