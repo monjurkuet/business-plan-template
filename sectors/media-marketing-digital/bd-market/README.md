@@ -1,32 +1,38 @@
-# Media, Marketing & Digital Agencies — Bangladesh Market
+# Media, Marketing & Digital — Bangladesh Market
 
-## Overview
+## Market Overview
 
-Bangladesh's advertising and digital services market is worth $500M-1B (2024 est.), with the digital segment growing at 25%+ CAGR. Traditional agencies are struggling to adapt while nimble, social-native agencies are thriving.
+| Metric | Value | Source |
+|--------|-------|--------|
+| Digital Marketing Market | ~$200–300M USD | Basis/ADAB ~$250M; Statista ~$220M |
+| Total Ad Market | ~$500M USD | Digital share ~50% and growing |
+| CAGR | 15–18% | Basis estimates 16% CAGR |
 
-**E-commerce penetration:** N/A — this is a services sector. But every e-commerce brand needs marketing services, creating a flywheel.
+## Government Policy & Regulation
 
-**Key segments:**
-- Social media management (largest demand)
-- Performance marketing / FB & Google ads (highest ROI focus)
-- Video production / content creation (Reels/short-form is king)
-- Creative/brand strategy (premium segment)
-- Influencer marketing (fastest-growing)
-- Web/app development (complementary service)
+- **BTRC Digital Advertising Guidelines**
+- **Digital Security Act 2023** — content regulation
+- **National ICT Policy 2018**
+- VAT on digital advertising: **15%** (contested by industry)
+- **Data Protection Act** draft pending
 
-**Why this sector:**
-- Every business in Bangladesh now needs a digital presence — demand is universal
-- Low barrier to entry (laptop + skills = agency)
-- Recurring revenue model (monthly retainers)
-- AI tools are making production faster and cheaper — margins are increasing
-- BD brands are shifting budget from TV to digital — market is growing 25%+
+## Top Players
 
----
+1. **WebAble Digital** — ~$5–8M revenue, largest independent digital agency
+2. **IQ Inc / Intellext** — ~$4–6M, major digital marketing firm
+3. **Fountainhead / MediaCom Bangladesh** — ~$3–5M, multinational-affiliated media buying
 
-## Directory Contents
+## Key Trends
 
-- `competitors/` — Individual competitor profiles
-- `research/` — Full market landscape reports
-- `strategy-canvas.md` — Blue Ocean strategy canvas
-- `go-to-market.md` — Go-to-market plan for new entrant
-- `risk-register.md` — Risk assessment
+- Digital ad spend surpassed traditional (TV, print) in 2023–24
+- Social media (Facebook 50M+ users, Instagram growing) dominates ad spend
+- Influencer marketing growing rapidly (especially lifestyle, food, tech)
+- Programmatic advertising still nascent but emerging
+- Video content production demand surging
+
+## Sources
+
+- BASIS (Bangladesh Association of Software & Information Services) 2024
+- ADAB (Advertising Agencies Association of Bangladesh)
+- Statista Digital Advertising Bangladesh 2024
+- The Daily Star, "Digital ad spend surpasses traditional," 2024

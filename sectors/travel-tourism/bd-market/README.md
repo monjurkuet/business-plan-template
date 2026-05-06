@@ -1,30 +1,37 @@
-# Travel & Tourism Sector — Bangladesh Market
+# Travel & Tourism — Bangladesh Market
 
-## Overview
+## Market Overview
 
-Bangladesh's travel and tourism market is worth $4-5B (including Hajj/Umrah at ~$2B+), growing at 12-15% CAGR. Domestic tourism is surging post-COVID, and Hajj/Umrah provides a massive, stable revenue base.
+| Metric | Value | Source |
+|--------|-------|--------|
+| GDP Contribution | ~$10.7B USD | WTTC Economic Impact Report 2024 |
+| Direct Market | ~$4.5B USD | Bangladesh Parjatan Corporation |
+| CAGR | 7.5–8% | WTTC 7.6% annual growth 2024–2034 |
 
-**E-commerce penetration:** ~20-25% for flights, <10% for hotels and tours.
+## Government Policy & Regulation
 
-**Key segments:**
-- Hajj/Umrah pilgrimage (~$2B+/year, stable, high trust required)
-- Domestic tourism (Cox's Bazar, Sylhet, Bandarban — surging)
-- International flight booking (commoditized, margin pressure)
-- Corporate travel (recovering post-COVID)
-- Adventure/boutique tours (emerging, high margin)
+- **Tourism Master Plan 2023** — comprehensive development framework
+- **Visa-on-arrival** for 52 countries
+- **5-year tax holiday** for tourism infrastructure investments
+- Parjatan Corporation development projects ongoing
+- Special tourism zones being developed (Cox's Bazar, Sundarbans)
 
-**Why this sector:**
-- Hajj/Umrah alone is a $2B+ annual market with guaranteed demand
-- Domestic tourism is booming — new hotels, resorts, experiences every month
-- Visa processing is a high-margin service with low competition
-- Travel content → affiliate monetization is underexploited
+## Top Players (Travel Services)
 
----
+1. **GoZayaan** — ~$25–35M revenue, leading online travel platform
+2. **ShareTrip** — ~$15–25M revenue, second-largest OTA
+3. **Unique Hotel & Resorts Ltd** — ~$20–30M, operator of Pan Pacific Sonargaon
 
-## Directory Contents
+## Key Trends
 
-- `competitors/` — Individual competitor profiles
-- `research/` — Full market landscape reports
-- `strategy-canvas.md` — Blue Ocean strategy canvas
-- `go-to-market.md` — Go-to-market plan for new entrant
-- `risk-register.md` — Risk assessment
+- Domestic tourism booming post-COVID (Cox's Bazar, Sylhet, Bandarban)
+- Online travel agencies (OTA) disrupting traditional travel agents
+- Air ticket digitalization → 60%+ bookings now online
+- Hotel booking platforms growing (GoZayaan, ShareTrip, Booking.com)
+- Inbound tourism constrained by infrastructure and perception issues
+
+## Sources
+
+- WTTC Economic Impact Report 2024
+- Bangladesh Parjatan Corporation
+- The Business Standard, "Tourism sector contribution to GDP rises," 2024

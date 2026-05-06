@@ -1,23 +1,38 @@
-# Automotive — Car Care Sector (Bangladesh)
+# Automotive & Car Care — Bangladesh Market
 
-## Overview
+## Market Overview
 
-The Bangladesh car care market covers engine oil/lubricants, car detailing products, car accessories, and reconditioned car import/pre-order services. The market is Facebook-dominated — most brands have no meaningful web presence and rely entirely on Facebook Pages for sales and marketing.
+| Metric | Value | Source |
+|--------|-------|--------|
+| Market Size (Car Care) | ~$150–200M USD | Subset of ~$900M auto aftermarket (LightCastle 2023) |
+| Total Auto Aftermarket | ~$900M USD | LightCastle Partners 2023 |
+| CAGR | 8–10% | LightCastle 9.3%; driven by 10%+ annual vehicle registration growth (BRTA) |
+| Vehicle Parc | ~6M (incl. motorcycles) | BRTA Annual Report 2024 |
 
-**Key insight:** No single brand combines all three pillars (car care products + reconditioned car import + aftercare guarantees). This is the primary opportunity gap.
+## Government Policy & Regulation
 
-## Market Segments
+- **BRTA** mandatory vehicle fitness certification
+- Import duty on reconditioned cars: **45–200%** (slab based on engine CC)
+- **Bangladesh Automobile Policy 2022** — encouraging local assembly/CKD
+- 15% VAT on auto services
+- Ban on importing vehicles older than 5 years
+- Vehicle registration growing **12% annually** in Dhaka (The Business Standard 2024)
 
-1. **Reconditioned Car Import & Sales** — Japanese car pre-order, auction sheet verification, import logistics
-2. **Engine Oil & Lubricants** — Japanese brands (JDA), global brands (Shell, Mobil, Castrol), local distributors
-3. **Car Detailing & Service** — Car wash, polishing, ceramic coating, interior cleaning
-4. **Hybrid/EV Parts** — Hybrid batteries, brake boosters (niche but growing fast)
-5. **Car Accessories** — Perfumes, massage cushions, cleaning tools, microfiber products
+## Top Players (Aftermarket)
 
-## Why Bangladesh
+1. **Navana Limited** — largest auto dealer + service chain, Toyota distributor (~$25–35M aftermarket)
+2. **Aarong Automotive / Garirbazar** — online & offline auto parts retail (~$30–40M)
+3. **Ford Bangladesh (Executive Motors)** — aftermarket service + sales (~$15–25M)
 
-- ~500K registered private cars, growing ~10% annually
-- Reconditioned Japanese cars dominate new purchases
-- Facebook is the primary commerce platform (not Google, not e-commerce marketplaces)
-- Hybrid vehicle adoption accelerating (Prius, Aqua, CHR — all need specialized products)
-- Low product awareness = high education content opportunity
+## Key Trends
+
+- Rising middle class → more car ownership → more car care demand
+- Digital-first auto service platforms emerging (e.g., Garirbazar, AutoBhai)
+- Shift from unorganized workshops to branded service centers
+- Growing demand for ceramic coating, PPF, and premium detailing
+
+## Sources
+
+- LightCastle Partners, "Bangladesh Auto Aftermarket," 2023
+- BRTA Annual Report 2024
+- The Business Standard, "Car ownership grows 12% in Dhaka," 2024

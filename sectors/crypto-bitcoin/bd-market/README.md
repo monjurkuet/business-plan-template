@@ -1,49 +1,42 @@
-# Bitcoin & Cryptocurrency Sector — Bangladesh Market
+# Crypto & Bitcoin — Bangladesh Market
 
-## Overview
+## Market Overview
 
-Cryptocurrency trading is **LEGAL** in Bangladesh. The market is growing rapidly with increasing adoption among tech-savvy youth, freelancers, and investors. Bangladesh Bank has moved toward regulatory clarity, and the market is transitioning from grey-zone operations to formalized frameworks.
+| Metric | Value | Source |
+|--------|-------|--------|
+| P2P Trading Volume (est.) | ~$1–2B USD annually | Chainalysis; local estimates |
+| Global Adoption Rank | Top 30 | Chainalysis Global Crypto Adoption Index 2024 |
+| CAGR | ~20–25% | Based on P2P volume growth trends |
 
-**E-commerce penetration:** Growing (P2P platforms, bKash integration)
+## Legal Status
 
-**Key segments:**
-- P2P trading (Binance, local OTC)
-- Stablecoin remittance (USDT/USDC as dollar proxy for freelancers)
-- Crypto education/content (training, courses, communities)
-- Blockchain development services (legal — service export)
-- Crypto exchange platforms (emerging)
-- NFT/crypto art (niche but growing)
+**Crypto trading is LEGAL in Bangladesh.** Bangladesh Bank has issued advisory cautions about the risks of cryptocurrency but has NOT prohibited trading. Some banks may restrict crypto-linked transactions at their discretion, but there is no legal prohibition on buying, selling, or holding cryptocurrency.
 
-**Why this sector:**
-- Rapidly growing adoption among BD's 170M+ population
-- Stablecoins solve real problems for freelancers receiving international payments
-- Blockchain development is legal and exportable (high-value)
-- Regulatory framework is developing — early movers will capture market share
-- Youth demographic (median age 27) is highly crypto-curious
+## Government Policy & Regulation
 
----
+- Bangladesh Bank: advisory caution on crypto risks (not a ban)
+- No specific crypto licensing framework yet
+- **Data Protection Act** draft may impact crypto platforms
+- Bangladesh Bank exploring CBDC (central bank digital currency)
+- Tax treatment of crypto gains: under existing capital gains rules
 
-## Directory Contents
+## Top Platforms
 
-- `competitors/` — Individual competitor profiles
-- `research/` — Full market landscape reports
-- `strategy-canvas.md` — Blue Ocean strategy canvas
-- `go-to-market.md` — Go-to-market plan
-- `risk-register.md` — Risk assessment
+1. **Binance** — dominant P2P platform in Bangladesh
+2. **Paxful** — second-largest P2P exchange
+3. **Remitano** — growing P2P presence
+4. **LocalBitcoins** — legacy (winding down globally)
 
----
+## Key Trends
 
-## Quick Stats
+- P2P trading via Binance is the primary on/off ramp
+- USDT (Tether) most traded stablecoin for BD users
+- Crypto used for remittances and cross-border payments
+- DeFi awareness growing among tech-savvy youth
+- NFT interest minimal but emerging
 
-| Metric | Value |
-|--------|-------|
-| Estimated annual P2P volume | $2-5B+ |
-| Active crypto users (est.) | 500K-1M+ |
-| Primary platforms | Binance P2P, local OTC Telegram groups |
-| Key payment rails | bKash, Nagad, bank transfers |
-| Regulatory status | Legal and developing formal framework |
-| Target demographic | 18-35 tech-savvy, freelancers, expats |
+## Sources
 
----
-
-*Last updated: 2026-05-06*
+- Chainalysis Global Crypto Adoption Index 2024
+- Bangladesh Bank advisory notices
+- Local media reports (The Daily Star, Dhaka Tribune)

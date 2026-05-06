@@ -1,29 +1,37 @@
-# iPhone, Electronics & Gadgets Sector — Bangladesh Market
+# Electronics & Gadgets — Bangladesh Market
 
-## Overview
+## Market Overview
 
-Bangladesh's electronics and gadgets market is worth $5-7B (2024 est., formal + grey market), growing at 10-12% CAGR. Electronics has the highest e-commerce penetration of any retail sector in Bangladesh (~25-30%).
+| Metric | Value | Source |
+|--------|-------|--------|
+| Market Size | ~$8–10B USD | Statista ~$9.2B; BTRC + Mobile Phone Importers Association |
+| CAGR | 12–14% | Statista 13.2% CAGR 2024–2028 |
 
-**Key segments:**
-- Smartphones (largest segment — iPhone grey market is massive)
-- IT/computer hardware (Star Tech, Ryans dominate)
-- Audio/TWS accessories (fastest-growing sub-segment)
-- Smart home/IoT products (emerging)
-- Used/refurbished phones (huge but unorganized)
+## Government Policy & Regulation
 
-**Why this sector:**
-- Highest e-commerce penetration of any BD retail sector
-- iPhone grey market is 60%+ of all iPhones in BD — massive import opportunity
-- Accessories have 60-80% margins
-- Tech review content → affiliate monetization is underexploited
-- Refurbished phone market is huge but has no trusted brand
+- **National Mobile Phone Manufacturing Policy 2022** — pushing local assembly
+- Import duty on fully built phones: **20–25%**
+- VAT reduction for locally assembled devices
+- **BSTI certification** mandatory for electronics
+- **BTRC type-approval** required for telecom devices
 
----
+## Top Players
 
-## Directory Contents
+1. **Walton** — ~$800M–1B revenue, local manufacturer (electronics, AC, fridge, phones)
+2. **Samsung Bangladesh** — ~$300–400M, market leader in smartphones (~28% share)
+3. **Transsion (Tecno/Infinix/Itel)** — ~$250–350M, combined brand revenue (~20% share)
 
-- `competitors/` — Individual competitor profiles
-- `research/` — Full market landscape reports
-- `strategy-canvas.md` — Blue Ocean strategy canvas
-- `go-to-market.md` — Go-to-market plan for new entrant
-- `risk-register.md` — Risk assessment
+## Key Trends
+
+- Local phone assembly crossed **50% market share** in 2024 (The Daily Star)
+- Walton leading "Made in Bangladesh" electronics push
+- iPhone resale market significant (no Apple Store in BD)
+- E-commerce driving 30%+ of electronics sales
+- Smart TV and home appliance demand surging
+
+## Sources
+
+- BTRC Annual Report 2024
+- Bangladesh Mobile Phone Importers Association
+- Statista Consumer Electronics Bangladesh 2024
+- The Daily Star, "Local phone assembly crosses 50% market share," 2024
