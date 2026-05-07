@@ -1,31 +1,31 @@
 {
   "queries": {
     "\"car care Bangladesh\" regulation Bangladesh 2026": {
-      "score": 0.3675,
-      "hits": 25,
+      "score": 0.3491,
+      "hits": 30,
       "high_conf_hits": 0,
       "total_facts": 0,
       "sectors": [
         "automotive-car-care"
       ],
       "first_seen": "2026-05-06T16:12:50.913499+00:00",
-      "last_seen": "2026-05-06T22:30:32.094920+00:00",
-      "decayed_at": "2026-05-06T22:30:32.094836+00:00"
+      "last_seen": "2026-05-07T01:33:49.818438+00:00",
+      "decayed_at": "2026-05-07T01:33:49.818309+00:00"
     },
     "\"car care Bangladesh\" policy Bangladesh 2026": {
-      "score": 0.3675,
-      "hits": 22,
+      "score": 0.3491,
+      "hits": 27,
       "high_conf_hits": 0,
       "total_facts": 0,
       "sectors": [
         "automotive-car-care"
       ],
       "first_seen": "2026-05-06T16:12:50.913627+00:00",
-      "last_seen": "2026-05-06T22:30:32.094939+00:00",
-      "decayed_at": "2026-05-06T22:30:32.094864+00:00"
+      "last_seen": "2026-05-07T01:33:49.818454+00:00",
+      "decayed_at": "2026-05-07T01:33:49.818369+00:00"
     },
     "site:gov.bd \"car care Bangladesh\" circular": {
-      "score": 0.3675,
+      "score": 0.3491,
       "hits": 10,
       "high_conf_hits": 0,
       "total_facts": 0,
@@ -34,10 +34,10 @@
       ],
       "first_seen": "2026-05-06T16:12:50.913652+00:00",
       "last_seen": "2026-05-06T19:26:56.941242+00:00",
-      "decayed_at": "2026-05-06T22:30:32.094866+00:00"
+      "decayed_at": "2026-05-07T01:33:49.818373+00:00"
     },
     "\"auto detailing Dhaka\" regulation Bangladesh 2026": {
-      "score": 0.3675,
+      "score": 0.3491,
       "hits": 10,
       "high_conf_hits": 0,
       "total_facts": 0,
@@ -46,46 +46,46 @@
       ],
       "first_seen": "2026-05-06T16:12:50.913667+00:00",
       "last_seen": "2026-05-06T16:15:35.169051+00:00",
-      "decayed_at": "2026-05-06T22:30:32.094869+00:00"
+      "decayed_at": "2026-05-07T01:33:49.818376+00:00"
     },
     "\"auto detailing Dhaka\" policy Bangladesh 2026": {
-      "score": 0.3675,
-      "hits": 20,
+      "score": 0.3491,
+      "hits": 25,
       "high_conf_hits": 0,
       "total_facts": 0,
       "sectors": [
         "automotive-car-care"
       ],
       "first_seen": "2026-05-06T16:12:50.913680+00:00",
-      "last_seen": "2026-05-06T22:30:32.094950+00:00",
-      "decayed_at": "2026-05-06T22:30:32.094871+00:00"
+      "last_seen": "2026-05-07T01:33:49.818466+00:00",
+      "decayed_at": "2026-05-07T01:33:49.818379+00:00"
     },
     "\"clothing Bangladesh\" regulation Bangladesh 2026": {
-      "score": 0.7285,
-      "hits": 42,
+      "score": 0.6921,
+      "hits": 47,
       "high_conf_hits": 4,
       "total_facts": 12,
       "sectors": [
         "clothing-fashion"
       ],
       "first_seen": "2026-05-06T16:12:50.913693+00:00",
-      "last_seen": "2026-05-06T22:30:32.094966+00:00",
-      "decayed_at": "2026-05-06T22:30:32.094873+00:00"
+      "last_seen": "2026-05-07T01:33:49.818477+00:00",
+      "decayed_at": "2026-05-07T01:33:49.818382+00:00"
     },
     "\"clothing Bangladesh\" policy Bangladesh 2026": {
-      "score": 0.8187,
-      "hits": 37,
+      "score": 0.7778,
+      "hits": 42,
       "high_conf_hits": 5,
       "total_facts": 12,
       "sectors": [
         "clothing-fashion"
       ],
       "first_seen": "2026-05-06T16:12:50.913710+00:00",
-      "last_seen": "2026-05-06T22:30:32.094977+00:00",
-      "decayed_at": "2026-05-06T22:30:32.094874+00:00"
+      "last_seen": "2026-05-07T01:33:49.818488+00:00",
+      "decayed_at": "2026-05-07T01:33:49.818385+00:00"
     },
     "\"fashion brand Dhaka\" regulation Bangladesh 2026": {
-      "score": 0.3675,
+      "score": 0.3491,
       "hits": 30,
       "high_conf_hits": 0,
       "total_facts": 7,
@@ -94,9 +94,21 @@
       ],
       "first_seen": "2026-05-06T16:12:50.913733+00:00",
       "last_seen": "2026-05-06T22:30:32.094988+00:00",
-      "decayed_at": "2026-05-06T22:30:32.094878+00:00"
+      "decayed_at": "2026-05-07T01:33:49.818390+00:00"
     },
     "\"fashion brand Dhaka\" policy Bangladesh 2026": {
+      "score": 0.3491,
+      "hits": 31,
+      "high_conf_hits": 0,
+      "total_facts": 0,
+      "sectors": [
+        "clothing-fashion"
+      ],
+      "first_seen": "2026-05-06T16:12:50.913746+00:00",
+      "last_seen": "2026-05-07T01:33:49.818513+00:00",
+      "decayed_at": "2026-05-07T01:33:49.818392+00:00"
+    },
+    "site:gov.bd \"clothing Bangladesh\" circular": {
       "score": 0.3675,
       "hits": 25,
       "high_conf_hits": 0,
@@ -104,48 +116,36 @@
       "sectors": [
         "clothing-fashion"
       ],
-      "first_seen": "2026-05-06T16:12:50.913746+00:00",
-      "last_seen": "2026-05-06T22:30:32.094990+00:00",
-      "decayed_at": "2026-05-06T22:30:32.094881+00:00"
-    },
-    "site:gov.bd \"clothing Bangladesh\" circular": {
-      "score": 0.3868,
-      "hits": 20,
-      "high_conf_hits": 0,
-      "total_facts": 0,
-      "sectors": [
-        "clothing-fashion"
-      ],
       "first_seen": "2026-05-06T16:15:35.169064+00:00",
-      "last_seen": "2026-05-06T19:26:56.941288+00:00",
-      "decayed_at": "2026-05-06T22:30:32.094882+00:00"
+      "last_seen": "2026-05-07T01:33:49.818500+00:00",
+      "decayed_at": "2026-05-07T01:33:49.818395+00:00"
     },
     "\"crypto Bangladesh\" Bangladesh top companies": {
-      "score": 0.4072,
-      "hits": 16,
+      "score": 0.3868,
+      "hits": 19,
       "high_conf_hits": 0,
       "total_facts": 0,
       "sectors": [
         "crypto-bitcoin"
       ],
       "first_seen": "2026-05-06T16:23:38.142111+00:00",
-      "last_seen": "2026-05-06T22:30:32.095008+00:00",
-      "decayed_at": "2026-05-06T22:30:32.094884+00:00"
+      "last_seen": "2026-05-07T01:33:49.818520+00:00",
+      "decayed_at": "2026-05-07T01:33:49.818397+00:00"
     },
     "\"crypto Bangladesh\" Dhaka Facebook": {
-      "score": 0.4072,
-      "hits": 15,
+      "score": 0.3868,
+      "hits": 20,
       "high_conf_hits": 0,
       "total_facts": 0,
       "sectors": [
         "crypto-bitcoin"
       ],
       "first_seen": "2026-05-06T16:23:38.142133+00:00",
-      "last_seen": "2026-05-06T22:30:32.095019+00:00",
-      "decayed_at": "2026-05-06T22:30:32.094886+00:00"
+      "last_seen": "2026-05-07T01:33:49.818531+00:00",
+      "decayed_at": "2026-05-07T01:33:49.818399+00:00"
     },
     "site:facebook.com \"crypto Bangladesh\" Bangladesh": {
-      "score": 0.4072,
+      "score": 0.3868,
       "hits": 10,
       "high_conf_hits": 0,
       "total_facts": 0,
@@ -154,46 +154,46 @@
       ],
       "first_seen": "2026-05-06T16:23:38.142146+00:00",
       "last_seen": "2026-05-06T19:26:56.941321+00:00",
-      "decayed_at": "2026-05-06T22:30:32.094888+00:00"
+      "decayed_at": "2026-05-07T01:33:49.818400+00:00"
     },
     "\"bitcoin BD\" Bangladesh top companies": {
-      "score": 0.4072,
-      "hits": 10,
+      "score": 0.3868,
+      "hits": 15,
       "high_conf_hits": 0,
       "total_facts": 0,
       "sectors": [
         "crypto-bitcoin"
       ],
       "first_seen": "2026-05-06T16:23:38.142164+00:00",
-      "last_seen": "2026-05-06T22:30:32.095030+00:00",
-      "decayed_at": "2026-05-06T22:30:32.094890+00:00"
+      "last_seen": "2026-05-07T01:33:49.818541+00:00",
+      "decayed_at": "2026-05-07T01:33:49.818402+00:00"
     },
     "site:facebook.com \"bitcoin BD\" Bangladesh": {
-      "score": 0.4072,
-      "hits": 10,
+      "score": 0.3868,
+      "hits": 15,
       "high_conf_hits": 0,
       "total_facts": 0,
       "sectors": [
         "crypto-bitcoin"
       ],
       "first_seen": "2026-05-06T16:23:38.142179+00:00",
-      "last_seen": "2026-05-06T22:30:32.095144+00:00",
-      "decayed_at": "2026-05-06T22:30:32.094892+00:00"
+      "last_seen": "2026-05-07T01:33:49.818552+00:00",
+      "decayed_at": "2026-05-07T01:33:49.818404+00:00"
     },
     "\"crypto Bangladesh\" price Bangladesh": {
-      "score": 0.4072,
-      "hits": 8,
+      "score": 0.3868,
+      "hits": 16,
       "high_conf_hits": 0,
       "total_facts": 0,
       "sectors": [
         "crypto-bitcoin"
       ],
       "first_seen": "2026-05-06T16:23:38.142192+00:00",
-      "last_seen": "2026-05-06T22:30:32.095151+00:00",
-      "decayed_at": "2026-05-06T22:30:32.094893+00:00"
+      "last_seen": "2026-05-07T01:33:49.818570+00:00",
+      "decayed_at": "2026-05-07T01:33:49.818406+00:00"
     },
     "site:facebook.com \"crypto Bangladesh\" offer price": {
-      "score": 0.4072,
+      "score": 0.3868,
       "hits": 10,
       "high_conf_hits": 0,
       "total_facts": 0,
@@ -202,22 +202,22 @@
       ],
       "first_seen": "2026-05-06T16:23:38.142205+00:00",
       "last_seen": "2026-05-06T19:26:56.941333+00:00",
-      "decayed_at": "2026-05-06T22:30:32.094895+00:00"
+      "decayed_at": "2026-05-07T01:33:49.818408+00:00"
     },
     "\"crypto Bangladesh\" Bangladesh price list": {
-      "score": 0.4072,
-      "hits": 6,
+      "score": 0.3868,
+      "hits": 14,
       "high_conf_hits": 0,
       "total_facts": 0,
       "sectors": [
         "crypto-bitcoin"
       ],
       "first_seen": "2026-05-06T16:23:38.142218+00:00",
-      "last_seen": "2026-05-06T22:30:32.095158+00:00",
-      "decayed_at": "2026-05-06T22:30:32.094897+00:00"
+      "last_seen": "2026-05-07T01:33:49.818588+00:00",
+      "decayed_at": "2026-05-07T01:33:49.818410+00:00"
     },
     "\"bitcoin BD\" price Bangladesh": {
-      "score": 0.4072,
+      "score": 0.3868,
       "hits": 15,
       "high_conf_hits": 0,
       "total_facts": 0,
@@ -226,21 +226,33 @@
       ],
       "first_seen": "2026-05-06T16:23:38.142226+00:00",
       "last_seen": "2026-05-06T22:30:32.095169+00:00",
-      "decayed_at": "2026-05-06T22:30:32.094899+00:00"
+      "decayed_at": "2026-05-07T01:33:49.818412+00:00"
     },
     "site:facebook.com \"bitcoin BD\" offer price": {
-      "score": 0.4072,
-      "hits": 10,
+      "score": 0.3868,
+      "hits": 15,
       "high_conf_hits": 0,
       "total_facts": 0,
       "sectors": [
         "crypto-bitcoin"
       ],
       "first_seen": "2026-05-06T16:23:38.142241+00:00",
-      "last_seen": "2026-05-06T19:26:56.941355+00:00",
-      "decayed_at": "2026-05-06T22:30:32.094901+00:00"
+      "last_seen": "2026-05-07T01:33:49.818599+00:00",
+      "decayed_at": "2026-05-07T01:33:49.818413+00:00"
     },
     "\"bitcoin BD\" Bangladesh price list": {
+      "score": 0.4512,
+      "hits": 10,
+      "high_conf_hits": 0,
+      "total_facts": 0,
+      "sectors": [
+        "crypto-bitcoin"
+      ],
+      "first_seen": "2026-05-06T19:26:56.941357+00:00",
+      "last_seen": "2026-05-07T01:33:49.818610+00:00",
+      "decayed_at": "2026-05-07T01:33:49.818417+00:00"
+    },
+    "\"bitcoin BD\" Dhaka Facebook": {
       "score": 0.475,
       "hits": 5,
       "high_conf_hits": 0,
@@ -248,21 +260,10 @@
       "sectors": [
         "crypto-bitcoin"
       ],
-      "first_seen": "2026-05-06T19:26:56.941357+00:00",
-      "last_seen": "2026-05-06T19:26:56.941373+00:00",
-      "decayed_at": "2026-05-06T22:30:32.094902+00:00"
-    },
-    "\"bitcoin BD\" Dhaka Facebook": {
-      "score": 0.5,
-      "hits": 5,
-      "high_conf_hits": 0,
-      "total_facts": 0,
-      "sectors": [
-        "crypto-bitcoin"
-      ],
       "first_seen": "2026-05-06T22:30:32.095032+00:00",
-      "last_seen": "2026-05-06T22:30:32.095051+00:00"
+      "last_seen": "2026-05-06T22:30:32.095051+00:00",
+      "decayed_at": "2026-05-07T01:33:49.818419+00:00"
     }
   },
-  "updated_at": "2026-05-06T22:30:32.095179+00:00"
+  "updated_at": "2026-05-07T01:33:49.818618+00:00"
 }
