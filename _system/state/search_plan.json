@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T09:05:00.406965+00:00",
+  "generated_at": "2026-05-07T12:48:34.048085+00:00",
   "models_used": [
     "gemini-2.5-flash-lite",
     "deepseek-ai/deepseek-v4-pro",
@@ -7,22 +7,452 @@
   ],
   "reviews": [
     {
-      "model": "gemini-2.5-flash-lite",
-      "error": "HTTP Error 404: Not Found",
-      "gaps": [],
-      "recommendations": []
+      "repo_critical_issues": [
+        {
+          "issue": "Significant number of P0 and P1 files contain stale year references (2023, 2024). This indicates a lack of regular updates and potentially outdated information, especially for policy and pricing data which are time-sensitive.",
+          "severity": "critical",
+          "affected_sectors": [
+            "automotive-car-care",
+            "clothing-fashion",
+            "crypto-bitcoin",
+            "electronics-gadgets",
+            "high-roi-niches",
+            "jewellery",
+            "media-marketing-digital",
+            "travel-tourism"
+          ]
+        },
+        {
+          "issue": "Lack of explicit mention of BDT values in pricing data. Without BDT values, pricing information is not actionable for the Bangladesh market.",
+          "severity": "high",
+          "affected_sectors": []
+        },
+        {
+          "issue": "No clear indication of whether competitor financial data is sourced or estimated. This impacts the reliability and actionability of competitor analysis.",
+          "severity": "high",
+          "affected_sectors": []
+        },
+        {
+          "issue": "Absence of verified and functional Facebook handles for competitors. Social media presence is a key indicator of market engagement and customer reach.",
+          "severity": "medium",
+          "affected_sectors": []
+        },
+        {
+          "issue": "No explicit mention of cross-sector trends. Identifying and analyzing cross-sector trends can reveal new opportunities and competitive dynamics.",
+          "severity": "medium",
+          "affected_sectors": []
+        }
+      ],
+      "sector_priorities": [
+        {
+          "sector": "crypto-bitcoin",
+          "priority": 10,
+          "reason": "Highest number of P0 stale year references, indicating critical need for immediate updates. Crypto is a rapidly evolving sector where current data is paramount. The prompt also specifically mentions crypto is legal, so ensuring accurate, up-to-date policy and market data is crucial."
+        },
+        {
+          "sector": "automotive-car-care",
+          "priority": 8,
+          "reason": "Significant number of P0 and P1 stale year references across default, policy, pricing, sentiment, and competitor profiles. This sector likely has evolving regulations and consumer preferences."
+        },
+        {
+          "sector": "clothing-fashion",
+          "priority": 7,
+          "reason": "High number of P0 and P1 stale year references, similar to automotive. Fashion is trend-driven and requires up-to-date market and competitor information."
+        },
+        {
+          "sector": "electronics-gadgets",
+          "priority": 6,
+          "reason": "P0 stale year references in policy, indicating potential outdated regulations that could impact market entry or operations."
+        },
+        {
+          "sector": "travel-tourism",
+          "priority": 5,
+          "reason": "P0 stale year references in policy, suggesting potential outdated regulations affecting the sector."
+        }
+      ],
+      "search_hypotheses": [
+        {
+          "sector": "crypto-bitcoin",
+          "hypothesis": "Regulatory frameworks and market sentiment for cryptocurrency trading in Bangladesh have evolved significantly since 2024, impacting investment and adoption rates.",
+          "suggested_queries": [
+            "Bangladesh crypto regulations 2025",
+            "Bangladesh crypto market trends 2025",
+            "Bitcoin adoption Bangladesh 2025",
+            "Central Bank of Bangladesh digital currency policy",
+            "Crypto exchange compliance Bangladesh"
+          ],
+          "confidence": 0.9
+        },
+        {
+          "sector": "automotive-car-care",
+          "hypothesis": "New government policies or economic shifts in 2025 have impacted the demand for car care services and the competitive landscape in Bangladesh.",
+          "suggested_queries": [
+            "Bangladesh automotive policy 2025",
+            "Car import regulations Bangladesh 2025",
+            "Used car market Bangladesh trends",
+            "Automotive service center regulations Bangladesh",
+            "Consumer spending on car maintenance Bangladesh"
+          ],
+          "confidence": 0.8
+        },
+        {
+          "sector": "clothing-fashion",
+          "hypothesis": "Emerging sustainable fashion trends and e-commerce growth are reshaping the clothing and fashion market in Bangladesh.",
+          "suggested_queries": [
+            "Sustainable fashion Bangladesh market",
+            "E-commerce fashion Bangladesh 2025",
+            "Bangladesh textile export policy 2025",
+            "Local fashion designer market Bangladesh",
+            "Online clothing retail Bangladesh trends"
+          ],
+          "confidence": 0.85
+        },
+        {
+          "sector": "electronics-gadgets",
+          "hypothesis": "Changes in import duties or consumer electronics policies in 2025 are affecting the availability and pricing of gadgets in Bangladesh.",
+          "suggested_queries": [
+            "Bangladesh electronics import policy 2025",
+            "Consumer electronics market Bangladesh trends",
+            "Mobile phone market Bangladesh 2025",
+            "Government incentives electronics manufacturing Bangladesh"
+          ],
+          "confidence": 0.75
+        }
+      ],
+      "high_value_missing_angles": [
+        "Detailed breakdown of competitor financials with clear sourcing (audited vs. estimated).",
+        "Up-to-date regulatory landscape for 2025-2026 across all key sectors, including specific government circulars and references.",
+        "Actionable pricing data in BDT for products and services within each sector.",
+        "Verified and functional social media presence (e.g., Facebook handles) for key competitors.",
+        "Analysis of cross-sector trends and their impact on individual sectors (e.g., how digital marketing impacts retail, or how e-commerce impacts travel).",
+        "Consumer behavior insights and purchasing power data for Bangladesh.",
+        "Supply chain and logistics considerations specific to Bangladesh for each sector.",
+        "Impact of economic indicators (inflation, GDP growth, exchange rates) on sector performance."
+      ],
+      "recommended_actions": [
+        {
+          "action": "Prioritize updating all files flagged with P0 stale year references, focusing on policy, pricing, and competitor data. This is critical for data accuracy and relevance.",
+          "priority": "P0",
+          "effort": "high"
+        },
+        {
+          "action": "Implement a systematic process for regularly updating all repository content, especially time-sensitive data like policy, pricing, and market trends. Aim for quarterly reviews.",
+          "priority": "P0",
+          "effort": "high"
+        },
+        {
+          "action": "Mandate the inclusion of BDT values for all pricing data and clearly indicate the source and nature (estimated vs. actual) of competitor financial information.",
+          "priority": "P1",
+          "effort": "medium"
+        },
+        {
+          "action": "Develop a standardized template for competitor profiles that includes fields for verified social media links and financial data sourcing.",
+          "priority": "P2",
+          "effort": "low"
+        },
+        {
+          "action": "Initiate research to identify and document cross-sector trends relevant to the Bangladesh business environment.",
+          "priority": "P2",
+          "effort": "medium"
+        }
+      ],
+      "model": "gemini-2.5-flash-lite"
     },
     {
       "model": "deepseek-ai/deepseek-v4-pro",
-      "error": "HTTP Error 404: Not Found",
+      "error": "The read operation timed out",
       "gaps": [],
       "recommendations": []
     },
     {
-      "model": "gpt-5.4",
-      "error": "HTTP Error 404: Not Found",
-      "gaps": [],
-      "recommendations": []
+      "repo_critical_issues": [
+        {
+          "issue": "Policy/regulatory files across multiple sectors contain stale 2023-2024 references, creating high risk that licensing, tax, import, consumer protection, and platform compliance guidance is no longer current for 2025-2026.",
+          "severity": "critical",
+          "affected_sectors": [
+            "automotive-car-care",
+            "clothing-fashion",
+            "crypto-bitcoin",
+            "electronics-gadgets",
+            "high-roi-niches",
+            "jewellery",
+            "media-marketing-digital",
+            "travel-tourism"
+          ]
+        },
+        {
+          "issue": "Crypto sector appears repeatedly stale across default, pricing, policy, sentiment, seasonality, and competitor profile layers, suggesting systemic decay rather than an isolated file issue. This likely affects strategic reliability of the entire sector pack.",
+          "severity": "critical",
+          "affected_sectors": [
+            "crypto-bitcoin"
+          ]
+        },
+        {
+          "issue": "Freshness queue is concentrated in core analytical layers (default, pricing, sentiment, seasonality, competitor profiles), meaning even non-policy conclusions may be anchored to outdated market conditions.",
+          "severity": "high",
+          "affected_sectors": [
+            "automotive-car-care",
+            "clothing-fashion",
+            "crypto-bitcoin"
+          ]
+        },
+        {
+          "issue": "Only 16 high-confidence evidence items against 83 extracted facts indicates a weak source-confidence ratio, increasing the chance that competitor financials, pricing, and operational claims are estimate-heavy or insufficiently cited.",
+          "severity": "high",
+          "affected_sectors": [
+            "repo-wide"
+          ]
+        },
+        {
+          "issue": "No explicit confirmation is provided that competitor pricing is stored with current BDT-denominated values and effective dates; stale pricing files strongly suggest pricing comparables may not be actionable for GTM decisions.",
+          "severity": "high",
+          "affected_sectors": [
+            "automotive-car-care",
+            "clothing-fashion",
+            "crypto-bitcoin"
+          ]
+        },
+        {
+          "issue": "No evidence in the current state confirms that Facebook handles/pages were recently verified for existence, activity, and authenticity, leaving a likely gap in channel validation and competitor digital presence mapping.",
+          "severity": "medium",
+          "affected_sectors": [
+            "repo-wide"
+          ]
+        },
+        {
+          "issue": "Likely missing or outdated citation of Bangladesh government circulars, regulator notices, customs/tax instructions, and sector-specific compliance references; this reduces defensibility of strategy outputs.",
+          "severity": "high",
+          "affected_sectors": [
+            "repo-wide"
+          ]
+        },
+        {
+          "issue": "Duplicate freshness queue entries for the same sector/layer imply workflow noise or deduplication gaps, which can distort prioritization and waste review effort.",
+          "severity": "medium",
+          "affected_sectors": [
+            "automotive-car-care",
+            "clothing-fashion",
+            "crypto-bitcoin"
+          ]
+        },
+        {
+          "issue": "Cross-sector trend coverage is likely underdeveloped: import dependence, FX pressure, VAT/customs shifts, social-commerce reliance, and election/post-election demand volatility are not evidenced in the repository state summary.",
+          "severity": "medium",
+          "affected_sectors": [
+            "repo-wide"
+          ]
+        }
+      ],
+      "sector_priorities": [
+        {
+          "sector": "crypto-bitcoin",
+          "priority": 10,
+          "reason": "Highest concentration of stale files across nearly every analytical layer. Because the sector is fast-moving, 2024 references materially reduce trust in pricing, sentiment, seasonality, and competitor profiles. Also requires careful regulatory updating without incorrectly labeling crypto trading as illegal in Bangladesh."
+        },
+        {
+          "sector": "automotive-car-care",
+          "priority": 9,
+          "reason": "Both policy and multiple market-analysis layers are stale. This sector is sensitive to import duties, FX pass-through, spare parts sourcing, ride-share fleet demand, and premium vs mass-market service pricing, so outdated data directly hurts commercial usefulness."
+        },
+        {
+          "sector": "clothing-fashion",
+          "priority": 8,
+          "reason": "Policy plus core market, pricing, sentiment, seasonality, and competitor layers are stale. Fashion in Bangladesh changes rapidly with Eid, wedding, winter, and online campaign cycles, making stale seasonality and pricing especially damaging."
+        },
+        {
+          "sector": "electronics-gadgets",
+          "priority": 7,
+          "reason": "Policy staleness alone is significant because the sector depends on import rules, tax treatment, warranty obligations, and channel enforcement. Even without broader file evidence, regulatory freshness is commercially critical."
+        },
+        {
+          "sector": "travel-tourism",
+          "priority": 6,
+          "reason": "Policy outdatedness matters due to visa dynamics, airline pricing volatility, hospitality taxation, and domestic tourism shifts. Actionability degrades quickly when regulatory and seasonal assumptions age."
+        },
+        {
+          "sector": "media-marketing-digital",
+          "priority": 6,
+          "reason": "Policy files likely need updates on advertising disclosure, digital taxation, platform dependency, and agency-service economics. This sector also benefits heavily from current social platform verification."
+        },
+        {
+          "sector": "jewellery",
+          "priority": 5,
+          "reason": "Policy refresh is important given gold pricing linkage, hallmarking, import/tax issues, and trust-sensitive retail behavior, though fewer stale analytical layers are explicitly reported."
+        },
+        {
+          "sector": "high-roi-niches",
+          "priority": 5,
+          "reason": "As a meta-sector, stale policy assumptions can contaminate downstream opportunity ranking across multiple niches."
+        }
+      ],
+      "search_hypotheses": [
+        {
+          "sector": "crypto-bitcoin",
+          "hypothesis": "The current repository likely understates 2025 market structure changes in Bangladesh crypto participation, remittance-adjacent use cases, and peer-to-peer/on-ramp behavior because files are still anchored to 2024.",
+          "suggested_queries": [
+            "site:bb.org.bd crypto circular Bangladesh 2025",
+            "site:btrc.gov.bd virtual asset Bangladesh 2025",
+            "Bangladesh crypto trading P2P 2025 Facebook Telegram exchange",
+            "Bangladesh crypto OTC rates BDT USDT 2025",
+            "Bangladesh crypto tax treatment 2025 circular"
+          ],
+          "confidence": 0.83
+        },
+        {
+          "sector": "crypto-bitcoin",
+          "hypothesis": "Competitor and pricing files may rely on generic global exchange references instead of Bangladesh-relevant BDT rails, local communities, and trust mechanisms.",
+          "suggested_queries": [
+            "Bangladesh USDT buy sell BDT 2025",
+            "Bangladesh crypto community Facebook group Binance P2P 2025",
+            "Bangladesh crypto exchange alternative local payment methods 2025",
+            "BDT USDT spread Bangladesh P2P 2025"
+          ],
+          "confidence": 0.78
+        },
+        {
+          "sector": "automotive-car-care",
+          "hypothesis": "The market has likely shifted toward service bundles, ceramic coating, doorstep wash/detailing, and fleet maintenance offers, but stale files may still reflect pre-2025 pricing and demand assumptions.",
+          "suggested_queries": [
+            "Bangladesh car wash detailing price Dhaka 2025",
+            "Bangladesh ceramic coating price BDT 2025",
+            "Dhaka car care Facebook page detailing 2025",
+            "Bangladesh ride share fleet car maintenance service 2025",
+            "NBR Bangladesh motor parts duty VAT 2025"
+          ],
+          "confidence": 0.8
+        },
+        {
+          "sector": "automotive-car-care",
+          "hypothesis": "Competitor profiles may be missing import-cost pass-through and premiumization trends driven by FX pressure and parts scarcity.",
+          "suggested_queries": [
+            "Bangladesh spare parts price increase 2025 car care",
+            "Bangladesh auto aftermarket import duty 2025",
+            "Dhaka detailing studio premium package BDT 2025"
+          ],
+          "confidence": 0.72
+        },
+        {
+          "sector": "clothing-fashion",
+          "hypothesis": "Seasonality and pricing files likely undercapture 2025 campaign windows around Eid, Pohela Boishakh, wedding season, winterwear, and TikTok/Facebook-led social commerce demand.",
+          "suggested_queries": [
+            "Bangladesh fashion brand Eid collection price 2025",
+            "Dhaka boutique Facebook shop dress price BDT 2025",
+            "Bangladesh clothing brand online sale trend 2025",
+            "Pohela Boishakh fashion Bangladesh 2025 pricing",
+            "Bangladesh apparel social commerce Facebook page verification 2025"
+          ],
+          "confidence": 0.85
+        },
+        {
+          "sector": "clothing-fashion",
+          "hypothesis": "Repository competitor coverage may skew toward known brands while missing high-growth Instagram/Facebook-native sellers with strong engagement but limited formal web presence.",
+          "suggested_queries": [
+            "site:facebook.com Bangladesh boutique page Dhaka verified 2025",
+            "Bangladesh fashion Instagram store cash on delivery 2025",
+            "Bangladesh clothing live selling Facebook 2025"
+          ],
+          "confidence": 0.81
+        },
+        {
+          "sector": "electronics-gadgets",
+          "hypothesis": "Policy docs likely need updates on import rules, warranty expectations, unofficial vs official channels, and smartphone/laptop pricing reset after 2024.",
+          "suggested_queries": [
+            "Bangladesh electronics import duty VAT 2025",
+            "Bangladesh smartphone official unofficial price 2025",
+            "consumer rights warranty electronics Bangladesh 2025",
+            "BTRC mobile device registration policy 2025 Bangladesh"
+          ],
+          "confidence": 0.74
+        },
+        {
+          "sector": "travel-tourism",
+          "hypothesis": "Domestic travel demand and outbound package economics likely changed materially in 2025 due to airfare volatility, visa friction, and social-media-led destination demand.",
+          "suggested_queries": [
+            "Bangladesh tour package price Cox's Bazar 2025",
+            "Bangladesh outbound visa travel agency trends 2025",
+            "Dhaka travel agency Facebook page verified 2025",
+            "Bangladesh airline fare trend 2025 domestic tourism"
+          ],
+          "confidence": 0.69
+        }
+      ],
+      "high_value_missing_angles": [
+        "2025-2026 regulator-by-regulator compliance matrix for each sector, citing Bangladesh Bank, NBR, BTRC, Ministry circulars, consumer rights, BSTI, and trade-license implications where relevant",
+        "Evidence quality scoring at the fact level: sourced, estimated, inferred, or outdated",
+        "Competitor financial confidence labeling distinguishing audited figures, management claims, media estimates, and analyst extrapolations",
+        "Current BDT pricing tables with date stamps, geographic scope, and source URLs/screenshots",
+        "Facebook/Instagram/TikTok channel verification status for each competitor, including page authenticity, posting recency, engagement, and contact consistency",
+        "Cross-sector import/FX sensitivity mapping to explain price inflation and margin compression",
+        "Seasonality normalization around Eid, Ramadan, Pohela Boishakh, winter, school admissions, wedding season, and tourism peaks",
+        "Social-commerce vs website-commerce split by sector, especially for fashion, electronics, car care, and travel",
+        "Government circular citation index so every policy claim traces to a primary source",
+        "Bangladesh-specific payment and logistics constraints: COD reliance, bKash/Nagad adoption, district delivery limitations, and return-friction economics",
+        "Urban concentration analysis for Dhaka vs Chattogram vs Sylhet vs secondary cities",
+        "Trust and authenticity markers: warranty, return policy, official dealership status, hallmarking, certifications, and business registration visibility"
+      ],
+      "recommended_actions": [
+        {
+          "action": "Run a repo-wide regulatory refresh sprint focused on 2025-2026 references, replacing stale year mentions and attaching primary-source citations to every policy file.",
+          "priority": "P0",
+          "effort": "high"
+        },
+        {
+          "action": "Rebuild the crypto-bitcoin sector from policy through pricing and sentiment, explicitly aligning analysis to Bangladesh market realities while avoiding incorrect assumptions that crypto trading is illegal.",
+          "priority": "P0",
+          "effort": "high"
+        },
+        {
+          "action": "Refresh automotive-car-care and clothing-fashion pricing files with current BDT values, date stamps, package tiers, and city-specific variance.",
+          "priority": "P0",
+          "effort": "medium"
+        },
+        {
+          "action": "Add a confidence field to all competitor financials and operational claims: primary sourced, secondary sourced, estimated, or unverified.",
+          "priority": "P0",
+          "effort": "medium"
+        },
+        {
+          "action": "Create a primary-source evidence checklist requiring government circulars/regulator notices for all policy assertions before a sector can be marked healthy.",
+          "priority": "P0",
+          "effort": "medium"
+        },
+        {
+          "action": "Audit and deduplicate the freshness queue so repeated sector/layer flags do not distort prioritization.",
+          "priority": "P1",
+          "effort": "low"
+        },
+        {
+          "action": "Perform a social-channel verification pass on all major competitors, especially Facebook pages, and store verified handles plus last active dates in the data layer.",
+          "priority": "P1",
+          "effort": "medium"
+        },
+        {
+          "action": "Introduce sector-level 'last validated' metadata for policy, pricing, competitor, sentiment, and seasonality components separately.",
+          "priority": "P1",
+          "effort": "medium"
+        },
+        {
+          "action": "Add a cross-sector trends memo covering FX, import duties, VAT, social commerce dependence, and demand seasonality to avoid repeating macro context in each sector.",
+          "priority": "P1",
+          "effort": "medium"
+        },
+        {
+          "action": "Set minimum evidence thresholds, for example no landscape report completion unless high-confidence evidence exceeds a defined ratio of total extracted facts.",
+          "priority": "P1",
+          "effort": "medium"
+        },
+        {
+          "action": "Backfill competitor profiles with actionable fields: official website, verified Facebook page, phone/WhatsApp, pricing anchor, service geography, and trust markers.",
+          "priority": "P2",
+          "effort": "high"
+        },
+        {
+          "action": "Standardize seasonality sections around Bangladesh commercial calendars so sectors can be compared consistently.",
+          "priority": "P2",
+          "effort": "medium"
+        }
+      ],
+      "model": "gpt-5.4"
     }
   ],
   "total_queries": 60,

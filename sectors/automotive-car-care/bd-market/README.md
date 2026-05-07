@@ -1,9 +1,9 @@
 ---
 sector: automotive-car-care
-last_verified: 2026-05-06
-freshness: critical
-confidence: 0.2
-evidence_ids: []
+last_verified: 2026-05-07
+freshness: fresh
+confidence: 0.72
+evidence_ids: ['6a759209-3c8', '831931b3-ecb', '1f3f422d-a85', 'fe4b64df-4da', '6adab387-a89', '24c971ec-7a7', 'a57412f9-93e', 'bdbd0ea0-2c7', '1354fd82-9a1', '19335465-482', 'ca9b65a1-385', '3f74da73-cc5']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -97,3 +97,22 @@ evidence_ids: []
 - **Fuel 2026**: April 2026 prices unchanged 3rd consecutive month — govt absorbing import costs via subsidies
 - **Middle Class**: 44 consecutive months wage growth < inflation — purchasing power eroding (Oct 2025)
 - **Consumer Spending**: ৳24,083 Bn by end 2026 (Trading Economics forecast)
+
+## Auto-Updated Data (2026-05-07)
+
+| Fact | Source | Confidence |
+|------|--------|------------|
+| money laundering regulations | search | 0.80 |
+| International Health Regulations (IHR) | search | 0.80 |
+| public procurement policy, regulations | search | 0.80 |
+| regulatory intelligence | search | 0.70 |
+| Privacy Policy | search | 0.70 |
+| Terms & Conditions | search | 0.70 |
+| car insurance | search | 0.80 |
+| international best practice | search | 0.70 |
+| July National Charter (Constitutional Amendment) Implementation Order, 2025 | search | 0.80 |
+| 2026-02-12 | search | 0.80 |
+| KA-32, 4 Jagannathpur, Saudi Masjid Road, Dhaka 1229, Bangladesh | search | 0.90 |
+| Dhaka | search | 0.90 |
+| 2026-04-29 | search | 0.80 |
+| Bangladesh | search | 0.90 |

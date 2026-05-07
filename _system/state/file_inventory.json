@@ -781,8 +781,8 @@
   },
   {
     "path": "data/query_memory.json",
-    "size_bytes": 8286,
-    "last_modified": "2026-05-07T06:00:20.448767+00:00",
+    "size_bytes": 8278,
+    "last_modified": "2026-05-07T09:05:00.684181+00:00",
     "extension": ".json"
   },
   {
@@ -849,6 +849,12 @@
     "path": "data/evidence/20260506-162329.json",
     "size_bytes": 86242,
     "last_modified": "2026-05-06T16:23:36.802119+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/evidence/20260507-090449.json",
+    "size_bytes": 80570,
+    "last_modified": "2026-05-07T09:04:59.340181+00:00",
     "extension": ".json"
   },
   {
@@ -1027,38 +1033,38 @@
   },
   {
     "path": "_system/state/file_inventory.json",
-    "size_bytes": 32476,
-    "last_modified": "2026-05-07T05:58:12.024784+00:00",
+    "size_bytes": 32642,
+    "last_modified": "2026-05-07T09:02:42.540188+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/validation_results.json",
     "size_bytes": 179,
-    "last_modified": "2026-05-07T06:00:20.264768+00:00",
+    "last_modified": "2026-05-07T09:05:00.508181+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/audit_results.json",
     "size_bytes": 5650,
-    "last_modified": "2026-05-07T05:58:12.024784+00:00",
+    "last_modified": "2026-05-07T09:02:42.540188+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/last_pipeline_run.json",
     "size_bytes": 421,
-    "last_modified": "2026-05-07T06:00:20.460768+00:00",
+    "last_modified": "2026-05-07T09:05:00.692181+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/freshness_queue.json",
     "size_bytes": 26066,
-    "last_modified": "2026-05-07T05:58:12.156784+00:00",
+    "last_modified": "2026-05-07T09:02:42.612188+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/search_plan.json",
     "size_bytes": 17105,
-    "last_modified": "2026-05-07T06:00:20.136768+00:00",
+    "last_modified": "2026-05-07T09:05:00.404181+00:00",
     "extension": ".json"
   }
 ]

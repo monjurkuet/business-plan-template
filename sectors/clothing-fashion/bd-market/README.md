@@ -1,9 +1,9 @@
 ---
 sector: clothing-fashion
-last_verified: 2026-05-06
+last_verified: 2026-05-07
 freshness: fresh
-confidence: 0.743
-evidence_ids: ['c388d13a-5e3', 'c599d830-0a3', 'd6d585cd-0ff', 'be769b7a-897', '5745ef69-49b', '5f14344c-f4f', 'b5d86570-e33', 'a07ef11f-c51', '8cee4010-133', '19954264-9cd', 'adf01dff-6ec', 'ab33d7a7-f25', 'cc7214c3-78b', 'e6865143-360', 'd4bac4a2-c71']
+confidence: 0.733
+evidence_ids: ['c319d44d-456', 'f6a7973b-f33', '4eb4fdcb-432', 'ccf1b3ba-f5a', '15feedf6-fa3', 'd843532a-747', 'cd35eaa0-fc1', '5c95030b-4ae', '26dd2c44-81b', '2d41e145-3ac', 'e36d1e80-c76', '902e8f12-b2d', '74ae17f2-6eb', '21897f02-96e', '9ec94078-4e3', 'cc447bd4-a5c', '0ca2a812-cd7', 'd12d2c0d-7ae', '5710fac7-3bf', '7249119d-d35']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -81,22 +81,23 @@ evidence_ids: ['c388d13a-5e3', 'c599d830-0a3', 'd6d585cd-0ff', 'be769b7a-897', '
 - **Luxury Goods**: Market expected to grow 2025F-2030 as middle class expands
 - **Consumer Spending**: ৳24,083 Bn by end 2026 (Trading Economics forecast)
 
-## Auto-Updated Data (2026-05-06)
+
+## Auto-Updated Data (2026-05-07)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 26.5% | search | 1.00 |
-| 53.5% | search | 0.90 |
-| IEEPA tariffs | search | 0.80 |
-| 16.5% MFN base rate + 10% Section 122 | search | 1.00 |
-| LDC graduation | search | 1.00 |
+| 2026-03-13 | search | 0.80 |
+| 20 million | search | 0.90 |
+| 81% | search | 0.90 |
+| 20% | search | 0.90 |
+| 160 | search | 0.90 |
+| 1,138 | search | 0.90 |
+| 814 million | search | 0.90 |
+| 2026 | search | 0.90 |
+| 2026 | search | 0.90 |
+| 5 | search | 0.90 |
 | 2026 | search | 1.00 |
-| Beyond the Stereotype: Rethinking Bangladesh's Textile Industry | search | 1.00 |
-| ethical and sustainable apparel production | search | 1.00 |
-| low-cost | search | 1.00 |
-| unsustainable reliance on low pay and poor working conditions | search | 1.00 |
-| LDC graduation | search | 1.00 |
-| 2026 | search | 1.00 |
-| 39B | search | 1.00 |
-| second-largest garment | search | 1.00 |
-| duty-free | search | 1.00 |
+| 2013-04-24 | search | 0.90 |
+| 1138 | search | 0.90 |
+| Helaclothingbangladeshlimited | search | 1.00 |
+| Plot No. 53,54,66,67, KEPZ, North Patenga. Potenga,Chittagong. | search | 1.00 |
