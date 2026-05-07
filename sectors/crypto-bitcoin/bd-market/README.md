@@ -1,9 +1,9 @@
 ---
 sector: crypto-bitcoin
-last_verified: 2026-05-06
-freshness: critical
-confidence: 0.2
-evidence_ids: []
+last_verified: 2026-05-08
+freshness: fresh
+confidence: 0.736
+evidence_ids: ['37a33c5a-c00', '6a2726a2-316', 'c9401fd8-47a', '36145ee7-de5', '2ac957bc-9c7', '5de6bf1c-1d1', 'e5a882ab-df5', 'bf80f0eb-506', '67b9f2c9-f48', 'b2068450-2cc', '5d8ae7dc-261', '19e545fb-1c6', 'a7bf469d-5a5', 'ecb861c9-413', '717bd9ae-ee2', '8f6a353d-833', '68bd3bd9-e83', 'cc71acfc-66f', '0bd0b4d3-e85']
 ---
 
 # Crypto & Bitcoin — Bangladesh Market
@@ -70,3 +70,23 @@ evidence_ids: []
 - **Crypto Adoption Bd**: Bangladesh cryptocurrency adoption ranking calculated based on 2025 data — significant user base estimated
 - **Trading Legal**: Crypto trading is LEGAL in Bangladesh (permanent fact)
 - **Fintech Mfs**: 100M+ MFS users — bridge to crypto adoption potential
+
+## Auto-Updated Data (2026-05-08)
+
+| Fact | Source | Confidence |
+|------|--------|------------|
+| Requires account with a cryptocurrency exchange or trading platform to trade cry | search | 0.70 |
+| bKash or Nagad for direct fiat withdrawals | search | 0.80 |
+| P2P Trading | search | 0.80 |
+| Banned | search | 0.90 |
+| money laundering and foreign exchange laws | search | 0.80 |
+| severe penalties | search | 0.80 |
+| arrest | search | 0.70 |
+| frozen accounts | search | 0.70 |
+| prison | search | 0.70 |
+| Banned | search | 0.90 |
+| risks of money laundering, terrorist financing, financial instability, and past  | search | 0.80 |
+| Telegram | search | 0.80 |
+| TikTok | search | 0.80 |
+| Crypto Bangladesh | search | 0.90 |
+| বাংলাদেশের ট্রেডারদের জন্য একটি বিশ্বস্ত কমিউনিটি, যেখানে প্রতিদিন শেয়ার করা হয | search | 0.90 |

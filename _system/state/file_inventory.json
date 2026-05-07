@@ -781,8 +781,8 @@
   },
   {
     "path": "data/query_memory.json",
-    "size_bytes": 8273,
-    "last_modified": "2026-05-07T16:14:28.122803+00:00",
+    "size_bytes": 8284,
+    "last_modified": "2026-05-07T18:58:45.754275+00:00",
     "extension": ".json"
   },
   {
@@ -849,6 +849,12 @@
     "path": "data/evidence/20260507-155240.json",
     "size_bytes": 94203,
     "last_modified": "2026-05-07T15:52:49.894871+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/evidence/20260507-185743.json",
+    "size_bytes": 104119,
+    "last_modified": "2026-05-07T18:58:41.914275+00:00",
     "extension": ".json"
   },
   {
@@ -1009,8 +1015,8 @@
   },
   {
     "path": "_system/config/model-routing.yaml",
-    "size_bytes": 1960,
-    "last_modified": "2026-05-07T16:10:35.198812+00:00",
+    "size_bytes": 1987,
+    "last_modified": "2026-05-07T20:56:01.209902+00:00",
     "extension": ".yaml"
   },
   {
@@ -1051,38 +1057,38 @@
   },
   {
     "path": "_system/state/file_inventory.json",
-    "size_bytes": 33141,
-    "last_modified": "2026-05-07T16:11:06.918810+00:00",
+    "size_bytes": 33308,
+    "last_modified": "2026-05-07T18:55:37.754284+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/validation_results.json",
     "size_bytes": 179,
-    "last_modified": "2026-05-07T16:14:27.990803+00:00",
+    "last_modified": "2026-05-07T18:58:45.622275+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/audit_results.json",
     "size_bytes": 5650,
-    "last_modified": "2026-05-07T16:11:06.918810+00:00",
+    "last_modified": "2026-05-07T18:55:37.754284+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/last_pipeline_run.json",
     "size_bytes": 421,
-    "last_modified": "2026-05-07T16:14:28.130803+00:00",
+    "last_modified": "2026-05-07T18:58:45.762275+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/freshness_queue.json",
     "size_bytes": 26066,
-    "last_modified": "2026-05-07T16:11:06.978810+00:00",
+    "last_modified": "2026-05-07T18:55:37.870284+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/search_plan.json",
     "size_bytes": 17065,
-    "last_modified": "2026-05-07T16:14:27.894803+00:00",
+    "last_modified": "2026-05-07T18:58:45.534275+00:00",
     "extension": ".json"
   }
 ]

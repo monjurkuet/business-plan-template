@@ -10,12 +10,58 @@ from pathlib import Path
 
 log = logging.getLogger("llm_client")
 
-# Defaults from environment
-DEFAULT_BASE_URL = os.environ.get("OPENPAI_BASE_URL") or os.environ.get("LLM_API_BASE") or "https://llm.datasolved.org/v1"
-DEFAULT_API_KEY = os.environ.get("OPENPAI_API_KEY") or os.environ.get("LLM_API_KEY") or ""
-DEFAULT_TIMEOUT_SECONDS = int(os.environ.get("LLM_REQUEST_TIMEOUT_SECONDS", "90"))
-DEFAULT_REQUEST_RETRIES = int(os.environ.get("LLM_REQUEST_RETRIES", "2"))
-DEFAULT_BACKOFF_SECONDS = float(os.environ.get("LLM_RETRY_BACKOFF_SECONDS", "1.5"))
+REPO_ROOT = Path(__file__).resolve().parent.parent.parent
+CRON_ENV_PATH = REPO_ROOT / "_system" / "config" / "cron.env"
+
+
+def _load_env_file(path: Path = CRON_ENV_PATH) -> dict[str, str]:
+    """Load a simple KEY=VALUE env file if it exists."""
+    values: dict[str, str] = {}
+    if not path.exists():
+        return values
+
+    try:
+        for raw in path.read_text().splitlines():
+            line = raw.strip()
+            if not line or line.startswith("#") or "=" not in line:
+                continue
+            key, value = line.split("=", 1)
+            key = key.strip()
+            value = value.strip().strip('"').strip("'")
+            if key:
+                values[key] = value
+    except Exception as ex:
+        log.warning(f"Failed to load {path}: {ex}")
+    return values
+
+
+_ENV_FILE_VALUES = _load_env_file()
+
+
+def _env_value(*names: str, default: str = "") -> str:
+    for name in names:
+        value = os.environ.get(name)
+        if value:
+            return value
+    for name in names:
+        value = _ENV_FILE_VALUES.get(name)
+        if value:
+            return value
+    return default
+
+
+# Defaults from environment or _system/config/cron.env
+DEFAULT_BASE_URL = _env_value("OPENPAI_BASE_URL", "LLM_API_BASE", default="https://llm.datasolved.org/v1")
+DEFAULT_API_KEY = _env_value("OPENPAI_API_KEY", "LLM_API_KEY", default="")
+DEFAULT_TIMEOUT_SECONDS = int(_env_value("LLM_REQUEST_TIMEOUT_SECONDS", default="90"))
+DEFAULT_REQUEST_RETRIES = int(_env_value("LLM_REQUEST_RETRIES", default="2"))
+DEFAULT_BACKOFF_SECONDS = float(_env_value("LLM_RETRY_BACKOFF_SECONDS", default="1.5"))
+DEFAULT_SKIP_MODELS_PREFLIGHT = _env_value("LLM_SKIP_MODELS_PREFLIGHT", default="0") in {"1", "true", "True", "yes", "on"}
+_MODELS_PREFLIGHT_SUPPORTED: bool | None = None
+_MODELS_PREFLIGHT_FAILED_ONCE = False
+
+# Some providers expose canonical model names under different aliases. Keep this
+# mapping conservative and easy to override via LLM_MODEL_ALIAS_MAP_JSON.
 
 # Known alias normalizations. Keep these conservative: only map variants that
 # are known to behave like the same model on compatible providers.
@@ -87,6 +133,49 @@ def _model_candidates(model: str) -> list[str]:
     return [c for i, c in enumerate(candidates) if c and c not in candidates[:i]]
 
 
+def _should_skip_models_preflight(base_url: str | None = None) -> bool:
+    """Return True when /models should not be probed for this endpoint."""
+    if DEFAULT_SKIP_MODELS_PREFLIGHT:
+        return True
+    if _env_value("LLM_SKIP_MODELS_PREFLIGHT", default="0") in {"1", "true", "True", "yes", "on"}:
+        return True
+    return _env_value("LLM_DISABLE_MODELS_PREFLIGHT", default="0") in {"1", "true", "True", "yes", "on"}
+
+
+def _probe_models_endpoint(base_url: str, api_key: str, timeout: int) -> bool:
+    """Return True if /models appears to be supported for this endpoint."""
+    global _MODELS_PREFLIGHT_SUPPORTED, _MODELS_PREFLIGHT_FAILED_ONCE
+
+    if _MODELS_PREFLIGHT_SUPPORTED is False:
+        return False
+    if _MODELS_PREFLIGHT_SUPPORTED is True:
+        return True
+    if _should_skip_models_preflight(base_url):
+        _MODELS_PREFLIGHT_SUPPORTED = False
+        return False
+    if _MODELS_PREFLIGHT_FAILED_ONCE:
+        return False
+
+    url = f"{base_url}/models"
+    headers = {"Authorization": f"Bearer {api_key}"} if api_key else {}
+    req = urllib.request.Request(url, headers=headers)
+    try:
+        with _urlopen_with_retry(req, timeout=timeout, retries=1) as resp:
+            resp.read()
+        _MODELS_PREFLIGHT_SUPPORTED = True
+        return True
+    except urllib.error.HTTPError as e:
+        if e.code == 404:
+            log.info("/models preflight not supported by this endpoint; disabling future probes")
+            _MODELS_PREFLIGHT_SUPPORTED = False
+            _MODELS_PREFLIGHT_FAILED_ONCE = True
+            return False
+        raise
+    except Exception:
+        _MODELS_PREFLIGHT_FAILED_ONCE = True
+        return False
+
+
 def _urlopen_with_retry(req, timeout: int, retries: int = DEFAULT_REQUEST_RETRIES, backoff_seconds: float = DEFAULT_BACKOFF_SECONDS):
     """Open a URL with bounded retries for transient transport/server failures."""
     last_ex = None
@@ -137,6 +226,9 @@ def call_llm(
         "Content-Type": "application/json",
         "Authorization": f"Bearer {api_key}",
     }
+
+    # Avoid /models probing on endpoints that don't support it.
+    _probe_models_endpoint(base_url, api_key, min(10, timeout))
 
     candidates = _model_candidates(model)
     last_ex = None

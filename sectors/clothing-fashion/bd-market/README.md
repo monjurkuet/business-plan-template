@@ -1,9 +1,9 @@
 ---
 sector: clothing-fashion
-last_verified: 2026-05-07
+last_verified: 2026-05-08
 freshness: fresh
-confidence: 0.733
-evidence_ids: ['c319d44d-456', 'f6a7973b-f33', '4eb4fdcb-432', 'ccf1b3ba-f5a', '15feedf6-fa3', 'd843532a-747', 'cd35eaa0-fc1', '5c95030b-4ae', '26dd2c44-81b', '2d41e145-3ac', 'e36d1e80-c76', '902e8f12-b2d', '74ae17f2-6eb', '21897f02-96e', '9ec94078-4e3', 'cc447bd4-a5c', '0ca2a812-cd7', 'd12d2c0d-7ae', '5710fac7-3bf', '7249119d-d35']
+confidence: 0.731
+evidence_ids: ['5eba1e39-f0d', '4c067252-6ec', '60bfed1f-55a', '619b3223-32d', 'ec5d2569-c8c', 'f08d026f-24b', 'ec22a889-d8e', '8da71e2e-0ba', '07fd196c-a60', 'c144301c-31c', 'fba7eb97-6d7', '771165f1-1bd', 'be8bfebf-8ac', 'd4df3680-a51', 'd4b40216-96e', 'd3652991-10f', '383944d0-bbf', '18d7c75c-0bc', 'f79bb97b-a66', 'b80b7f70-782']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -82,22 +82,23 @@ evidence_ids: ['c319d44d-456', 'f6a7973b-f33', '4eb4fdcb-432', 'ccf1b3ba-f5a', '
 - **Consumer Spending**: ৳24,083 Bn by end 2026 (Trading Economics forecast)
 
 
-## Auto-Updated Data (2026-05-07)
+
+## Auto-Updated Data (2026-05-08)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 2026-03-13 | search | 0.80 |
-| 20 million | search | 0.90 |
-| 81% | search | 0.90 |
-| 20% | search | 0.90 |
-| 160 | search | 0.90 |
-| 1,138 | search | 0.90 |
-| 814 million | search | 0.90 |
-| 2026 | search | 0.90 |
-| 2026 | search | 0.90 |
-| 5 | search | 0.90 |
+| 2026-03-13 | search | 1.00 |
+| 20 | search | 1.00 |
+| 20000000 | search | 1.00 |
+| 81 | search | 1.00 |
+| second-largest | search | 0.80 |
+| 2026-02-11 | search | 1.00 |
 | 2026 | search | 1.00 |
-| 2013-04-24 | search | 0.90 |
-| 1138 | search | 0.90 |
-| Helaclothingbangladeshlimited | search | 1.00 |
-| Plot No. 53,54,66,67, KEPZ, North Patenga. Potenga,Chittagong. | search | 1.00 |
+| 2029 | search | 1.00 |
+| 2026 | search | 1.00 |
+| Beyond the Stereotype: RethinkingBangladesh's Textile Industry | search | 0.90 |
+| leader in ethical and sustainable apparel production | search | 0.80 |
+| upcoming LDC graduation in2026and the current economic challenges | search | 0.80 |
+| 5 | search | 0.90 |
+| 2026 | search | 0.90 |
+| Trade war uncertainties and unpredictable tariffs will challenge apparel compani | search | 0.80 |

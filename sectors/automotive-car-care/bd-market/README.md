@@ -1,9 +1,9 @@
 ---
 sector: automotive-car-care
-last_verified: 2026-05-07
+last_verified: 2026-05-08
 freshness: fresh
-confidence: 0.72
-evidence_ids: ['6a759209-3c8', '831931b3-ecb', '1f3f422d-a85', 'fe4b64df-4da', '6adab387-a89', '24c971ec-7a7', 'a57412f9-93e', 'bdbd0ea0-2c7', '1354fd82-9a1', '19335465-482', 'ca9b65a1-385', '3f74da73-cc5']
+confidence: 0.732
+evidence_ids: ['52dcced2-15b', '5beeac13-914', 'f571c248-393', '7f6ec5e0-d7c', '0f983400-e6b', '94dc277e-cc0', 'da431ed7-40b', 'b191ad48-8ba', '4cefa5eb-522', '176c9db8-3dd', '841e1c58-321', '24b0f132-7cc', '1d275cd9-825', 'd8e35e7e-bc7']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -98,21 +98,23 @@ evidence_ids: ['6a759209-3c8', '831931b3-ecb', '1f3f422d-a85', 'fe4b64df-4da', '
 - **Middle Class**: 44 consecutive months wage growth < inflation — purchasing power eroding (Oct 2025)
 - **Consumer Spending**: ৳24,083 Bn by end 2026 (Trading Economics forecast)
 
-## Auto-Updated Data (2026-05-07)
+
+## Auto-Updated Data (2026-05-08)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| money laundering regulations | search | 0.80 |
-| International Health Regulations (IHR) | search | 0.80 |
-| public procurement policy, regulations | search | 0.80 |
-| regulatory intelligence | search | 0.70 |
-| Privacy Policy | search | 0.70 |
-| Terms & Conditions | search | 0.70 |
-| car insurance | search | 0.80 |
-| international best practice | search | 0.70 |
-| July National Charter (Constitutional Amendment) Implementation Order, 2025 | search | 0.80 |
-| 2026-02-12 | search | 0.80 |
-| KA-32, 4 Jagannathpur, Saudi Masjid Road, Dhaka 1229, Bangladesh | search | 0.90 |
-| Dhaka | search | 0.90 |
-| 2026-04-29 | search | 0.80 |
-| Bangladesh | search | 0.90 |
+| Engine CC tax in Bangladesh | search | 0.90 |
+| 2026-02-02 | search | 0.90 |
+| 1500cc to 2500cc cars | search | 0.90 |
+| The Automobile Association of Bangladesh | search | 0.90 |
+| international best practice in all these car-related fields of activity | search | 0.70 |
+| Car Import Rules | search | 0.90 |
+| 2025-07-10 | search | 0.90 |
+| new and used car regulations | search | 0.90 |
+| pass BSTI and BRTA safety tests | search | 0.90 |
+| emission checks | search | 0.80 |
+| noise limits | search | 0.80 |
+| Car Import Regulations | search | 0.90 |
+| cars that meet certain standards are imported | search | 0.80 |
+| all taxes and duties are paid | search | 0.80 |
+| Advance tax for the owners of private motor car | search | 0.90 |

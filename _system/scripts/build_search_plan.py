@@ -9,6 +9,8 @@ import sys
 import json
 import logging
 import os
+import urllib.error
+import urllib.request
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from datetime import datetime, timezone
@@ -17,9 +19,9 @@ REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 sys.path.insert(0, str(REPO_ROOT / "_system"))
 
 from lib.config_loader import load_config, now_iso, DATA_DIR, get_sector_configs, get_search_taxonomy
-from lib.llm_client import call_llm, call_llm_json, load_prompt
+from lib.llm_client import call_llm, call_llm_json, load_prompt, DEFAULT_BASE_URL, DEFAULT_API_KEY
 
-LLM_MODELS_ENDPOINT = os.environ.get("OPENPAI_BASE_URL") or os.environ.get("LLM_API_BASE") or "https://llm.datasolved.org/v1"
+LLM_MODELS_ENDPOINT = DEFAULT_BASE_URL
 
 MODEL_FALLBACKS = {
     "breadth_scan": ["gemini-2.5-flash-lite", "gemini-2.5-flash", "gpt-5.4-mini"],
@@ -31,18 +33,23 @@ MODEL_FALLBACKS = {
 
 def list_available_models() -> set[str]:
     """Fetch the current model inventory from the LLM endpoint."""
-    import urllib.request
-    import urllib.error
-
+    if os.environ.get("LLM_SKIP_MODELS_PREFLIGHT", "").lower() in {"1", "true", "yes", "on"}:
+        return set()
     url = f"{LLM_MODELS_ENDPOINT}/models"
-    req = urllib.request.Request(url, headers={"Authorization": f"Bearer {os.environ.get('OPENPAI_API_KEY', os.environ.get('LLM_API_KEY', ''))}"})
+    headers = {"Authorization": f"Bearer {DEFAULT_API_KEY}"} if DEFAULT_API_KEY else {}
+    req = urllib.request.Request(url, headers=headers)
     try:
         with urllib.request.urlopen(req, timeout=20) as resp:
-            payload = json.loads(resp.read().decode())
-        return {m.get("id") for m in payload.get("data", []) if isinstance(m, dict) and m.get("id")}
-    except Exception as ex:
-        log.warning(f"Model preflight skipped ({ex}); falling back to configured models")
+            data = json.loads(resp.read().decode())
+        return {m.get("id", "") for m in data.get("data", []) if m.get("id")}
+    except urllib.error.HTTPError as e:
+        if e.code == 404:
+            log.info("/models preflight is unsupported here; skipping inventory lookup")
+            return set()
         return set()
+    except Exception:
+        return set()
+
 
 
 def resolve_review_models(routing: dict) -> list[str]:
