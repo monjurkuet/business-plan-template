@@ -17,7 +17,50 @@ REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 sys.path.insert(0, str(REPO_ROOT / "_system"))
 
 from lib.config_loader import load_config, now_iso, DATA_DIR, get_sector_configs, get_search_taxonomy
-from lib.llm_client import call_llm_json, load_prompt
+from lib.llm_client import call_llm, call_llm_json, load_prompt
+
+LLM_MODELS_ENDPOINT = os.environ.get("OPENPAI_BASE_URL") or os.environ.get("LLM_API_BASE") or "https://llm.datasolved.org/v1"
+
+MODEL_FALLBACKS = {
+    "breadth_scan": ["gemini-2.5-flash-lite", "gemini-2.5-flash", "gpt-5.4-mini"],
+    "deep_analysis": ["deepseek-ai/deepseek-v4-pro", "deepseek-ai/deepseek-r1-distill-qwen-32b", "gpt-5.4-mini"],
+    "synthesis": ["gpt-5.4", "gpt-5.5", "gpt-5.4-mini"],
+    "trend_gap": ["gemini-3.1-flash-lite-preview", "gemini-3-flash-preview", "gemini-2.5-flash"],
+}
+
+
+def list_available_models() -> set[str]:
+    """Fetch the current model inventory from the LLM endpoint."""
+    import urllib.request
+    import urllib.error
+
+    url = f"{LLM_MODELS_ENDPOINT}/models"
+    req = urllib.request.Request(url, headers={"Authorization": f"Bearer {os.environ.get('OPENPAI_API_KEY', os.environ.get('LLM_API_KEY', ''))}"})
+    try:
+        with urllib.request.urlopen(req, timeout=20) as resp:
+            payload = json.loads(resp.read().decode())
+        return {m.get("id") for m in payload.get("data", []) if isinstance(m, dict) and m.get("id")}
+    except Exception as ex:
+        log.warning(f"Model preflight skipped ({ex}); falling back to configured models")
+        return set()
+
+
+def resolve_review_models(routing: dict) -> list[str]:
+    """Resolve review models against the provider and fall back to known-good aliases."""
+    available = list_available_models()
+    resolved = []
+    for key, default in (("breadth_scan", "gemini-2.5-flash"), ("deep_analysis", "gpt-5.4-mini"), ("synthesis", "gpt-5.4")):
+        cfg = routing.get(key, {})
+        configured = cfg.get("model", default)
+        config_fallbacks = cfg.get("fallback_models", []) if isinstance(cfg.get("fallback_models", []), list) else []
+        candidates = [configured] + [m for m in config_fallbacks + MODEL_FALLBACKS.get(key, []) if m != configured]
+        pick = next((m for m in candidates if not available or m in available), candidates[0])
+        if available and pick not in available:
+            log.warning(f"No available model match for {key}; using configured value {pick}")
+        elif pick != configured:
+            log.warning(f"{configured} not available; falling back to {pick} for {key}")
+        resolved.append(pick)
+    return resolved
 
 log = logging.getLogger("build_search_plan")
 
@@ -82,6 +125,23 @@ def review_with_model(model: str, context: str) -> dict:
             timeout=REVIEW_TIMEOUT_SECONDS,
         )
     except Exception as ex:
+        msg = str(ex)
+        if "404" in msg and model in MODEL_FALLBACKS:
+            for fallback in MODEL_FALLBACKS[model]:
+                if fallback == model:
+                    continue
+                log.warning(f"Review failed with {model}: {ex}; retrying with fallback {fallback}")
+                try:
+                    return call_llm_json(
+                        messages,
+                        model=fallback,
+                        temperature=0.2,
+                        max_tokens=3000,
+                        timeout=REVIEW_TIMEOUT_SECONDS,
+                    )
+                except Exception as fallback_ex:
+                    log.warning(f"Fallback review failed with {fallback}: {fallback_ex}")
+                    continue
         log.warning(f"Review failed with {model}: {ex}")
         return {"model": model, "error": str(ex), "gaps": [], "recommendations": []}
 
@@ -225,11 +285,7 @@ def main():
 
     # Multi-LLM review
     routing = load_config("model-routing").get("review_models", {})
-    models = [
-        routing.get("breadth_scan", {}).get("model", "gemini-2.5-flash-lite"),
-        routing.get("deep_analysis", {}).get("model", "deepseek-ai/deepseek-v4-pro"),
-        routing.get("synthesis", {}).get("model", "gpt-5.4"),
-    ]
+    models = resolve_review_models(routing)
     models = list(dict.fromkeys(models))
     reviews = []
     with ThreadPoolExecutor(max_workers=len(models)) as pool:

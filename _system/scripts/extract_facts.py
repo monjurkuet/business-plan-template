@@ -17,6 +17,28 @@ sys.path.insert(0, str(REPO_ROOT / "_system"))
 from lib.config_loader import now_iso, DATA_DIR
 from lib.llm_client import call_llm_json, load_prompt
 
+MODEL_FALLBACKS = [
+    "gemini-2.5-flash-lite",
+    "gemini-2.5-flash",
+    "gpt-5.4-mini",
+]
+
+
+def _call_llm_json_with_fallback(messages: list[dict], model: str, temperature: float, max_tokens: int) -> dict:
+    candidates = [model] + [m for m in MODEL_FALLBACKS if m != model]
+    last_ex = None
+    for candidate in candidates:
+        try:
+            return call_llm_json(messages, model=candidate, temperature=temperature, max_tokens=max_tokens)
+        except Exception as ex:
+            last_ex = ex
+            if "404" not in str(ex):
+                raise
+            log.warning(f"Model {candidate} returned 404; trying next fallback")
+    if last_ex:
+        raise last_ex
+    raise RuntimeError("No LLM model candidates available")
+
 log = logging.getLogger("extract_facts")
 
 # Limit per run to control costs
@@ -78,7 +100,7 @@ def extract_batch(evidence_batch: list[dict], model: str = "gemini-2.5-flash-lit
         return []
 
     try:
-        result = call_llm_json(messages, model=model, temperature=0.1, max_tokens=4000)
+        result = _call_llm_json_with_fallback(messages, model=model, temperature=0.1, max_tokens=4000)
         items = _normalize_items(result)
 
         # Map back to evidence and preserve the requested batch order.

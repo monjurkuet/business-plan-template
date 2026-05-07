@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-05-07T15:52:50.944615+00:00",
+  "generated_at": "2026-05-07T18:58:45.534553+00:00",
   "models_used": [
-    "gemini-2.5-flash-lite",
-    "deepseek-ai/deepseek-v4-pro",
+    "gemini-2.5-flash",
+    "gpt-5.4-mini",
     "gpt-5.4"
   ],
   "reviews": [
     {
-      "model": "gemini-2.5-flash-lite",
+      "model": "gemini-2.5-flash",
       "error": "HTTP Error 404: Not Found",
       "gaps": [],
       "recommendations": []
     },
     {
-      "model": "deepseek-ai/deepseek-v4-pro",
+      "model": "gpt-5.4-mini",
       "error": "HTTP Error 404: Not Found",
       "gaps": [],
       "recommendations": []

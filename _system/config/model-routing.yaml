@@ -7,7 +7,11 @@ api:
 
 review_models:
   deep_analysis:
-    model: "deepseek-ai/deepseek-v4-pro"
+    model: "gpt-5.4-mini"
+    fallback_models:
+      - "deepseek-ai/deepseek-v4-pro"
+      - "deepseek-ai/deepseek-r1-distill-qwen-32b"
+      - "gpt-5.4-mini"
     temperature: 0.2
     max_tokens: 12000
     role: "Strategic depth — sector-by-sector gaps, regulatory implications, search plan prioritization"
@@ -19,7 +23,11 @@ review_models:
       - recommended_actions
 
   breadth_scan:
-    model: "gemini-2.5-flash-lite"
+    model: "gemini-2.5-flash"
+    fallback_models:
+      - "gemini-2.5-flash-lite"
+      - "gemini-2.5-flash"
+      - "gpt-5.4-mini"
     temperature: 0.1
     max_tokens: 6000
     role: "Structure audit — missing files, heading compliance, broken references, stale dates"
@@ -31,7 +39,11 @@ review_models:
       - duplicate_candidates
 
   trend_gap:
-    model: "gemini-3.1-flash-lite-preview"
+    model: "gemini-3-flash-preview"
+    fallback_models:
+      - "gemini-3.1-flash-lite-preview"
+      - "gemini-3-flash-preview"
+      - "gemini-2.5-flash"
     temperature: 0.3
     max_tokens: 6000
     role: "Emerging trends — cross-sector links, government weak signals, future data gaps"
@@ -44,6 +56,10 @@ review_models:
 
   synthesis:
     model: "gpt-5.4"
+    fallback_models:
+      - "gpt-5.4"
+      - "gpt-5.5"
+      - "gpt-5.4-mini"
     temperature: 0.1
     max_tokens: 10000
     role: "Synthesis — merge all reviews into prioritized execution plan"

@@ -1,5 +1,35 @@
 # Changelog
 
+## 2026-05-07 18:58 UTC
+
+**Repo Audit**: 181 files across 0 sectors
+**Freshness Queue**: 72 items (P0: 16, P1: 56, P2: 0)
+**Searches Executed**: 60 queries
+**Evidence Collected**: 109 items, 0 facts extracted
+**Confidence**: 0 high (>=0.75), avg 0.55
+
+### Sector Breakdown
+- **automotive-car-care**: 21 evidence, 0 facts, avg conf 0.55
+- **clothing-fashion**: 30 evidence, 0 facts, avg conf 0.55
+- **crypto-bitcoin**: 58 evidence, 0 facts, avg conf 0.55
+
+---
+
+## 2026-05-07 16:14 UTC
+
+**Repo Audit**: 180 files across 0 sectors
+**Freshness Queue**: 72 items (P0: 16, P1: 56, P2: 0)
+**Searches Executed**: 60 queries
+**Evidence Collected**: 102 items, 0 facts extracted
+**Confidence**: 0 high (>=0.75), avg 0.55
+
+### Sector Breakdown
+- **automotive-car-care**: 18 evidence, 0 facts, avg conf 0.55
+- **clothing-fashion**: 27 evidence, 0 facts, avg conf 0.55
+- **crypto-bitcoin**: 57 evidence, 0 facts, avg conf 0.55
+
+---
+
 ## 2026-05-07 15:52 UTC
 
 **Repo Audit**: 179 files across 0 sectors
