@@ -385,8 +385,8 @@
   },
   {
     "path": "sectors/automotive-car-care/bd-market/README.md",
-    "size_bytes": 4527,
-    "last_modified": "2026-05-06T15:59:22.810375+00:00",
+    "size_bytes": 5481,
+    "last_modified": "2026-05-07T12:48:34.131458+00:00",
     "extension": ".md"
   },
   {
@@ -607,8 +607,8 @@
   },
   {
     "path": "sectors/clothing-fashion/bd-market/README.md",
-    "size_bytes": 4509,
-    "last_modified": "2026-05-06T16:34:32.314003+00:00",
+    "size_bytes": 4449,
+    "last_modified": "2026-05-07T12:48:34.135458+00:00",
     "extension": ".md"
   },
   {
@@ -781,8 +781,8 @@
   },
   {
     "path": "data/query_memory.json",
-    "size_bytes": 8278,
-    "last_modified": "2026-05-07T09:05:00.684181+00:00",
+    "size_bytes": 8286,
+    "last_modified": "2026-05-07T12:48:34.279458+00:00",
     "extension": ".json"
   },
   {
@@ -801,6 +801,12 @@
     "path": "data/evidence/20260506-192646.json",
     "size_bytes": 75778,
     "last_modified": "2026-05-06T19:26:55.364193+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/evidence/20260507-124611.json",
+    "size_bytes": 104748,
+    "last_modified": "2026-05-07T12:47:03.207467+00:00",
     "extension": ".json"
   },
   {
@@ -1033,38 +1039,38 @@
   },
   {
     "path": "_system/state/file_inventory.json",
-    "size_bytes": 32642,
-    "last_modified": "2026-05-07T09:02:42.540188+00:00",
+    "size_bytes": 32808,
+    "last_modified": "2026-05-07T12:43:37.875479+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/validation_results.json",
     "size_bytes": 179,
-    "last_modified": "2026-05-07T09:05:00.508181+00:00",
+    "last_modified": "2026-05-07T12:43:38.023479+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/audit_results.json",
     "size_bytes": 5650,
-    "last_modified": "2026-05-07T09:02:42.540188+00:00",
+    "last_modified": "2026-05-07T12:43:37.875479+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/last_pipeline_run.json",
-    "size_bytes": 421,
-    "last_modified": "2026-05-07T09:05:00.692181+00:00",
+    "size_bytes": 425,
+    "last_modified": "2026-05-07T12:48:34.287458+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/freshness_queue.json",
     "size_bytes": 26066,
-    "last_modified": "2026-05-07T09:02:42.612188+00:00",
+    "last_modified": "2026-05-07T12:43:37.951478+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/search_plan.json",
-    "size_bytes": 17105,
-    "last_modified": "2026-05-07T09:05:00.404181+00:00",
+    "size_bytes": 40500,
+    "last_modified": "2026-05-07T12:48:34.043458+00:00",
     "extension": ".json"
   }
 ]
