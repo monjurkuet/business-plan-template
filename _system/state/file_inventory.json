@@ -121,8 +121,8 @@
   },
   {
     "path": "sectors/crypto-bitcoin/bd-market/README.md",
-    "size_bytes": 2771,
-    "last_modified": "2026-05-06T15:59:22.806375+00:00",
+    "size_bytes": 4045,
+    "last_modified": "2026-05-07T22:11:03.905660+00:00",
     "extension": ".md"
   },
   {
@@ -385,8 +385,8 @@
   },
   {
     "path": "sectors/automotive-car-care/bd-market/README.md",
-    "size_bytes": 5481,
-    "last_modified": "2026-05-07T12:48:34.131458+00:00",
+    "size_bytes": 5587,
+    "last_modified": "2026-05-07T22:11:03.901660+00:00",
     "extension": ".md"
   },
   {
@@ -607,8 +607,8 @@
   },
   {
     "path": "sectors/clothing-fashion/bd-market/README.md",
-    "size_bytes": 4449,
-    "last_modified": "2026-05-07T12:48:34.135458+00:00",
+    "size_bytes": 4609,
+    "last_modified": "2026-05-07T22:11:03.905660+00:00",
     "extension": ".md"
   },
   {
@@ -781,8 +781,8 @@
   },
   {
     "path": "data/query_memory.json",
-    "size_bytes": 8284,
-    "last_modified": "2026-05-07T18:58:45.754275+00:00",
+    "size_bytes": 8280,
+    "last_modified": "2026-05-07T22:11:04.053660+00:00",
     "extension": ".json"
   },
   {
@@ -837,6 +837,12 @@
     "path": "data/evidence/20260506-161529.json",
     "size_bytes": 29806,
     "last_modified": "2026-05-06T16:15:33.830204+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/evidence/20260507-220716.json",
+    "size_bytes": 117277,
+    "last_modified": "2026-05-07T22:07:56.829669+00:00",
     "extension": ".json"
   },
   {
@@ -1057,38 +1063,38 @@
   },
   {
     "path": "_system/state/file_inventory.json",
-    "size_bytes": 33308,
-    "last_modified": "2026-05-07T18:55:37.754284+00:00",
+    "size_bytes": 33475,
+    "last_modified": "2026-05-07T22:05:16.841679+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/validation_results.json",
     "size_bytes": 179,
-    "last_modified": "2026-05-07T18:58:45.622275+00:00",
+    "last_modified": "2026-05-07T22:11:03.929660+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/audit_results.json",
     "size_bytes": 5650,
-    "last_modified": "2026-05-07T18:55:37.754284+00:00",
+    "last_modified": "2026-05-07T22:05:16.841679+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/last_pipeline_run.json",
     "size_bytes": 421,
-    "last_modified": "2026-05-07T18:58:45.762275+00:00",
+    "last_modified": "2026-05-07T22:11:04.065660+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/freshness_queue.json",
     "size_bytes": 26066,
-    "last_modified": "2026-05-07T18:55:37.870284+00:00",
+    "last_modified": "2026-05-07T22:05:16.901679+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/search_plan.json",
-    "size_bytes": 17065,
-    "last_modified": "2026-05-07T18:58:45.534275+00:00",
+    "size_bytes": 39998,
+    "last_modified": "2026-05-07T22:11:01.749660+00:00",
     "extension": ".json"
   }
 ]
