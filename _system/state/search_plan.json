@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T12:37:46.736292+00:00",
+  "generated_at": "2026-05-12T00:06:14.392673+00:00",
   "models_used": [
     "gemini-2.5-flash-lite",
     "deepseek-ai/deepseek-v4-pro",
@@ -8,19 +8,19 @@
   "reviews": [
     {
       "model": "gemini-2.5-flash-lite",
-      "error": "HTTP Error 404: Not Found",
+      "error": "HTTP Error 308: Permanent Redirect",
       "gaps": [],
       "recommendations": []
     },
     {
       "model": "deepseek-ai/deepseek-v4-pro",
-      "error": "HTTP Error 404: Not Found",
+      "error": "HTTP Error 308: Permanent Redirect",
       "gaps": [],
       "recommendations": []
     },
     {
       "model": "gpt-5.4",
-      "error": "HTTP Error 404: Not Found",
+      "error": "HTTP Error 308: Permanent Redirect",
       "gaps": [],
       "recommendations": []
     }
