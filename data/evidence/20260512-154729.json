@@ -14,11 +14,18 @@
     "source_type": "unknown",
     "title": "Automotive industry in Bangladesh - Wikipedia",
     "snippet": "4 days ago -The automotive industry in Bangladesh is the third largest in South Asia. Bangladesh has a few large car plants which assemble passenger cars from Mitsubishi and Toyota, as well as commercial vehicles from Hino and Tata. Motorcycles, auto rickshaws and the locally designed Mishuk three-wheeler ...",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "industry_ranking",
+        "value": "third largest in South Asia",
+        "unit": null,
+        "confidence": 0.8
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.72
   },
   {
     "evidence_id": "0ee07030-383",
@@ -35,11 +42,36 @@
     "source_type": "unknown",
     "title": "AutoCarCare|Bangladesh",
     "snippet": "AutoCarCareis the best automobile air conditioner company inBangladesh.AutoCarCare. Shop-10, 54 Inner Circular Road, Purana Paltan Scout Market +880-2-9330878.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "company_name",
+        "value": "AutoCarCare",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "business_type",
+        "value": "automobile air conditioner company",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "address",
+        "value": "Shop-10, 54 Inner Circular Road, Purana Paltan Scout Market",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "phone_number",
+        "value": "+880-2-9330878",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "5688e755-48f",
@@ -56,11 +88,24 @@
     "source_type": "unknown",
     "title": "Engine CC Tax in Bangladesh 2026 – 1500cc to 2500cc ...",
     "snippet": "In Bangladesh, engine cc tax isn’t ... dream car becomes either affordable or a yearly headache. The difference between 1500cc, 2000cc, and 2500cc can easily add lakhs of taka over a few years. This blog is your no-nonsense, pro-level guide to engine cc tax in Bangladesh 2026 – written ...",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "regulation_name",
+        "value": "engine cc tax",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "regulation_year",
+        "value": "2026",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "96401306-e14",
@@ -77,11 +122,24 @@
     "source_type": "unknown",
     "title": "AA Bangladesh – The Automobile Association of Bangladesh",
     "snippet": "AAB aids in the adoption and implementation of international best practice in all these car-related fields of activity, and in respect of motorsport, will ensure opportunity for the citizens of Bangladesh, both nationally and on the international stage.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "organization_name",
+        "value": "The Automobile Association of Bangladesh",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "organization_acronym",
+        "value": "AAB",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "c8a877a4-3f6",
@@ -98,11 +156,18 @@
     "source_type": "unknown",
     "title": "Car Import Regulations in Bangladesh",
     "snippet": "Bangladesh government wants to ensure that only cars that meet certain standards are imported and that all taxes and duties are paid. Every Japanese car importer in Bangladesh should be familiar with the following regulations for car import:",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "regulation_type",
+        "value": "car import regulations",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "c86f33ec-2e9",
@@ -119,11 +184,24 @@
     "source_type": "unknown",
     "title": "AutoCarCare|BangladeshBusiness Directory | Find Local...",
     "snippet": "Find, List and share your Local businesses information and products based inBangladeshwith us!Our Address. 54, Inner Circular Road, Purana Paltan Scout Market, Dhaka,Bangladesh. GPS.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "company_name",
+        "value": "AutoCarCare",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "address",
+        "value": "54, Inner Circular Road, Purana Paltan Scout Market, Dhaka,Bangladesh",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "4708bc49-a40",
@@ -140,11 +218,30 @@
     "source_type": "unknown",
     "title": "Tj MaxxCarAir Freshener | TikTok",
     "snippet": "Premium Japanese Perfume andCarCareProducts. Discover CARALL, a luxury brand for perfumes andcarcaresolutions. Enhance your vehicle's ambiance with our quality air fresheners.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "product_type",
+        "value": "CarCareProducts",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "brand_name",
+        "value": "CARALL",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "product_category",
+        "value": "perfumes and car care solutions",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "6ad2803e-0a4",
@@ -161,11 +258,24 @@
     "source_type": "unknown",
     "title": "Bangladesh Labor (Amendment) Bill, 2026 Passed in Parliament",
     "snippet": "Apr 10,2026·The ‘BangladeshLabor (Amendment) Bill,2026’ has been unanimously passed in the Parliament with the aim of resolving the long-standing instability in the country’s industrial sector and consolidating the rights of workers.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "regulation_name",
+        "value": "Bangladesh Labor (Amendment) Bill, 2026",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "regulation_year",
+        "value": "2026",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "f4881fcb-bdc",
@@ -182,11 +292,24 @@
     "source_type": "unknown",
     "title": "Catholic health centers treat measles outbreak in Bangladesh",
     "snippet": "4 days ago ·A father, who has been in the hospital with his measles-free son for five days, holds his child at the Children's Hospital in Dhaka,Bangladesh, May 8,2026. Catholic Charity CaritasBangladeshand church-run health centers are building awareness among the rural people while the country grapples with a deadly outbreak of measles that has left more than 336 children dead since mid-March. (OSV ...",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "organization_name",
+        "value": "Caritas Bangladesh",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "event",
+        "value": "measles outbreak",
+        "unit": null,
+        "confidence": 0.8
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.735
   },
   {
     "evidence_id": "6c9868c8-723",
@@ -203,11 +326,42 @@
     "source_type": "unknown",
     "title": "PRI: Bangladesh's trade policy urgently needs reform",
     "snippet": "1 day ago ·The Center for Trade and ProtectionPolicyResearch ofPolicyResearch (CTPPR)Institute ofBangladesh(PRI) organized a roundtable discussion titled “TradePolicy, Industrial Protection, Investment Impacts, and Consumer Welfare”. Chowdhury Ashik Mahmud Bin Harun,...",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "organization_name",
+        "value": "Center for Trade and Protection Policy Research",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "organization_acronym",
+        "value": "CTPPR",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "organization_name",
+        "value": "Institute of Bangladesh",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "organization_acronym",
+        "value": "PRI",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "policy_area",
+        "value": "Trade Policy, Industrial Protection, Investment Impacts, and Consumer Welfare",
+        "unit": null,
+        "confidence": 0.8
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.744
   },
   {
     "evidence_id": "5e094026-d06",
@@ -371,11 +525,30 @@
     "source_type": "unknown",
     "title": "AA Bangladesh – The Automobile Association of Bangladesh",
     "snippet": "The Automobile Association of Bangladesh (AAB), established in 1953 and headquartered in Dhaka, is the sole national organisation representing car owners in Bangladesh. ... Copyright © 2026 The Automobile Association of Bangladesh.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "organization_name",
+        "value": "The Automobile Association of Bangladesh",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "establishment_date",
+        "value": "1953",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "headquarters_location",
+        "value": "Dhaka",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "8e03b103-adc",
@@ -392,11 +565,42 @@
     "source_type": "unknown",
     "title": "Auto Glam | Dhaka | Facebook",
     "snippet": "Auto Glam, Dhaka, Bangladesh. 10,701 likes · 42 talking about this · 55 were here. Auto Glam is a highly professional vehicle detailing company driven by a passion for perfection. We use some of the...",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "organization_name",
+        "value": "Auto Glam",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "location",
+        "value": "Dhaka, Bangladesh",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "facebook_likes",
+        "value": "10,701",
+        "unit": "likes",
+        "confidence": 1.0
+      },
+      {
+        "field": "facebook_talking_about",
+        "value": "42",
+        "unit": "people",
+        "confidence": 1.0
+      },
+      {
+        "field": "facebook_check_ins",
+        "value": "55",
+        "unit": "people",
+        "confidence": 1.0
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "1ae86f74-140",
@@ -413,11 +617,30 @@
     "source_type": "unknown",
     "title": "NASPRO Auto Detailing - Welcome To The Number 1 Car Wash In Bangladesh.",
     "snippet": "Gulshan Centre Point, House 26, Road 90, Parking Level 3, Dhaka 1212. ... Welcome to the number 1 Car wash in Bangladesh.Welcome to the number 1 Car wash in Bangladesh. Close ... Your car is more than just a vehicle—it’s your companion to life’s daily journey. ... Detailing isn’t just about looking good – it is for preserving your vehicle for the long run.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "organization_name",
+        "value": "NASPRO Auto Detailing",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "address",
+        "value": "Gulshan Centre Point, House 26, Road 90, Parking Level 3, Dhaka 1212",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "service_description",
+        "value": "Number 1 Car wash in Bangladesh",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "e780d315-b1c",
@@ -434,11 +657,30 @@
     "source_type": "unknown",
     "title": "19th Dhaka Auto Series 2026 kicks off, showcasing Bangladesh’s expanding automotive landscape",
     "snippet": "3 weeks ago -19th edition of the Dhaka Auto Series of Exhibitions 2026kicked off on 23 April, 2026at the International Convention City Bashundhara (ICCB) Special guests present at the inauguration included MA Kamal Billah, additional secretary, Ministry ...",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "event_name",
+        "value": "19th Dhaka Auto Series of Exhibitions 2026",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "event_date",
+        "value": "2026-04-23",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "event_location",
+        "value": "International Convention City Bashundhara (ICCB)",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "e3a5d995-8ea",
@@ -455,11 +697,24 @@
     "source_type": "unknown",
     "title": "BPPA | Bangladesh Public Procurement Authority",
     "snippet": "BPPA is the national authority responsible for public procurement policy, regulations, and e-GP systems to ensure transparent and efficient procurement in Bangladesh.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "organization_name",
+        "value": "BPPA | Bangladesh Public Procurement Authority",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "regulation_area",
+        "value": "public procurement policy, regulations, and e-GP systems",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "6dd383ff-390",
@@ -476,11 +731,36 @@
     "source_type": "unknown",
     "title": "NASPRO Auto Detailing - Welcome To The Number 1 Car Wash In Bangladesh.",
     "snippet": "Gulshan Centre Point, House 26, Road 90, Parking Level 3, Dhaka 1212. ... Welcome to the number 1 Car wash in Bangladesh.Welcome to the number 1 Car wash in Bangladesh. Close ... Your car is more than just a vehicle—it’s your companion to life’s daily journey. ... Detailing isn’t just about looking good – it is for preserving your vehicle for the long run.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "business_name",
+        "value": "NASPRO Auto Detailing",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "address",
+        "value": "Gulshan Centre Point, House 26, Road 90, Parking Level 3, Dhaka 1212",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "service_offered",
+        "value": "Car Wash",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "service_offered",
+        "value": "Auto Detailing",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "332e80ea-88d",
@@ -497,11 +777,42 @@
     "source_type": "unknown",
     "title": "Alpha Car Detailing BD | Dhaka",
     "snippet": "Alpha Car Detailing BD, Dhaka, Bangladesh. 2,807 likes · 35 talking about this. Alpha Car Detailing BD provides the best Car Detailing Service at customer's doorstep in Bangladesh.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "business_name",
+        "value": "Alpha Car Detailing BD",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "location",
+        "value": "Dhaka, Bangladesh",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "facebook_likes",
+        "value": 2807,
+        "unit": "people",
+        "confidence": 1.0
+      },
+      {
+        "field": "facebook_talking_about",
+        "value": 35,
+        "unit": "people",
+        "confidence": 1.0
+      },
+      {
+        "field": "service_offered",
+        "value": "Car Detailing Service",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "33c6c073-ec1",
@@ -518,11 +829,54 @@
     "source_type": "unknown",
     "title": "Car Wash & Car Cleaning Services in Dhaka Bangladesh | Car Wash BD",
     "snippet": "Car wash Bangladesh brings you the best car wash services. ... Car Wash BD is a brand that is set to revolutionize the way people think about car care. It’s a one-of-a-kind mechanized automobile cleaning concept in which vehicles are pampered with cutting-edge technology such as high-pressure cleaning machines, spray injection and extraction machines, high-powered vacuums, steam cleaners, and so on providing your required service at required locations.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "business_name",
+        "value": "Car Wash BD",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "service_offered",
+        "value": "car wash services",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "service_offered",
+        "value": "car cleaning services",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "technology_used",
+        "value": "high-pressure cleaning machines",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "technology_used",
+        "value": "spray injection and extraction machines",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "technology_used",
+        "value": "high-powered vacuums",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "technology_used",
+        "value": "steam cleaners",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "671a088a-bb3",
@@ -539,11 +893,48 @@
     "source_type": "unknown",
     "title": "Best Car Detailing (Wash & Polish) Service in BD | Sheba.xyz",
     "snippet": "Looking for the best car detailing service near you? Sheba.xyz offers auto exterior-interior wash, claying, polishing and waxing services in BD. Book now.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "platform_name",
+        "value": "Sheba.xyz",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "service_offered",
+        "value": "car detailing service",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "service_offered",
+        "value": "auto exterior-interior wash",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "service_offered",
+        "value": "claying",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "service_offered",
+        "value": "polishing",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "service_offered",
+        "value": "waxing services",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "fd3f3c78-66f",
@@ -560,11 +951,24 @@
     "source_type": "unknown",
     "title": "doe.dhaka",
     "snippet": "Circulars / Policies · Guard file · Circulars/Policies · Agreements · Agreement Structure · APMS · Ministry Portals · Directorate portal · Divisional Portal · Upazila Portals · Call 333 · Call Centres · Help Desk · Talk to Doctor · Md. Iliyas Mahmud ·",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "organization_name",
+        "value": "Directorate of Environment (DOE), Dhaka",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "document_type",
+        "value": "Circulars / Policies",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "5ca42dfd-f05",
@@ -581,11 +985,24 @@
     "source_type": "unknown",
     "title": "Dhaka",
     "snippet": "Law/Circular/Policies/Guidelines · Income Tax Return Forms (Various) Citizen Charter · Tax Deduction at Source Information Guide · Tax Paid Code · Training List · Details of Training · Training Related Suggestion · Contact · Others Offices · Directorate ·",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "organization_name",
+        "value": "Taxes Zone 1, Dhaka",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "document_type",
+        "value": "Law/Circular/Policies/Guidelines",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "9f380684-6e7",
@@ -602,11 +1019,24 @@
     "source_type": "unknown",
     "title": "dls.dhaka",
     "snippet": "Circulars / Policies · Guard file · Training List · Details of Training · Training Related Suggestion · Contact · Upazila Offices Inspection · Union Offices Inspection · Project Inspection · E-Services · Nothi · Bangladesh Forms · Sebakunjo · Online Application ·",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "organization_name",
+        "value": "Department of Livestock Services (DLS), Dhaka",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "document_type",
+        "value": "Circulars / Policies",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "517536c8-e27",
@@ -623,11 +1053,24 @@
     "source_type": "unknown",
     "title": "BRTA, DHAKA METRO-2 CIRCLE",
     "snippet": "Circulars / Policies · Training List · Details of Training · Training Related Suggestion · Contact · Upazila Offices Inspection · Union Offices Inspection · Project Inspection · E-Services · Nothi · Bangladesh Forms · Sebakunjo · Online Application ·",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "organization_name",
+        "value": "BRTA, Dhaka Metro-2 Circle",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "document_type",
+        "value": "Circulars / Policies",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "9556e230-c42",
@@ -686,11 +1129,30 @@
     "source_type": "unknown",
     "title": "10 Reasons to Invest inBangladeshApparel Industry",
     "snippet": "After China,Bangladeshexports the second-highest volume of readymadeclothing(RMG). RMG contributes to over 81% of the company’s export revenue. The textile and apparel sector accounts forBangladesh’s GDP of 20%. The industry directly employs about 20 million people.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "employee_count",
+        "value": "20 million",
+        "unit": "people",
+        "confidence": 0.9
+      },
+      {
+        "field": "gdp_contribution",
+        "value": "20%",
+        "unit": null,
+        "confidence": 0.9
+      },
+      {
+        "field": "export_revenue_contribution",
+        "value": "81%",
+        "unit": null,
+        "confidence": 0.9
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.735
   },
   {
     "evidence_id": "70dc1f21-6df",
@@ -770,11 +1232,18 @@
     "source_type": "unknown",
     "title": "Experts warn of disturbing factory conditions still happening years after...",
     "snippet": "Twelve years have passed since the Rana Plaza building collapse inBangladeshkilled 1,138 people...",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "fatalities_rana_plaza_collapse",
+        "value": "1,138",
+        "unit": "people",
+        "confidence": 0.9
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.735
   },
   {
     "evidence_id": "3bfca169-f0c",
@@ -833,11 +1302,30 @@
     "source_type": "unknown",
     "title": "10 Reasons to Invest inBangladeshApparel Industry",
     "snippet": "After China,Bangladeshexports the second-highest volume of readymadeclothing(RMG). RMG contributes to over 81% of the company’s export revenue. The textile and apparel sector accounts forBangladesh’s GDP of 20%. The industry directly employs about 20 million people.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "employee_count",
+        "value": "20 million",
+        "unit": "people",
+        "confidence": 0.9
+      },
+      {
+        "field": "gdp_contribution",
+        "value": "20%",
+        "unit": null,
+        "confidence": 0.9
+      },
+      {
+        "field": "export_revenue_contribution",
+        "value": "81%",
+        "unit": null,
+        "confidence": 0.9
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.735
   },
   {
     "evidence_id": "9e13f325-400",
@@ -875,11 +1363,24 @@
     "source_type": "unknown",
     "title": "The Garments Industry inBangladesh: An In-Depth Look at... | Medium",
     "snippet": "Bangladeshis currently the world’s second-largest exporter of ready-madeclothing, with an annual export value of almost $30 billion.Bangladesh’s export earnings reached a new high of USD 52.08 billion in FY22 overcoming concerns related to COVID on a global scale.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "annual_export_value",
+        "value": "30",
+        "unit": "billion USD",
+        "confidence": 0.9
+      },
+      {
+        "field": "export_earnings",
+        "value": "52.08",
+        "unit": "billion USD",
+        "confidence": 0.9
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.735
   },
   {
     "evidence_id": "9e800094-ddb",
@@ -917,11 +1418,18 @@
     "source_type": "unknown",
     "title": "Bangladesh to Tap China for $5 Billion Loan to Boost Economy",
     "snippet": "(Bloomberg) --Bangladeshis in talks with China for a loan of about $5 billion to bolster the natio...",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "loan_amount",
+        "value": "5",
+        "unit": "billion USD",
+        "confidence": 0.9
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.735
   },
   {
     "evidence_id": "c0b37a15-79b",
@@ -959,11 +1467,18 @@
     "source_type": "unknown",
     "title": "Experts warn of disturbing factory conditions still happening years after...",
     "snippet": "Twelve years have passed since the Rana Plaza building collapse inBangladeshkilled 1,138 people...",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "fatalities",
+        "value": "1138",
+        "unit": "people",
+        "confidence": 0.9
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.735
   },
   {
     "evidence_id": "8ddde93b-d4f",
@@ -980,11 +1495,18 @@
     "source_type": "unknown",
     "title": "Bangladesh Investment Development Authority",
     "snippet": "Up to 0.3% to 3% cash incentives on textile exports, depending on the product type and market(Applicable until 31 Dec 2026, FEPD Circular No.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "cash_incentive_end_date",
+        "value": "2026-12-31",
+        "unit": null,
+        "confidence": 0.9
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.735
   },
   {
     "evidence_id": "85b43aa6-a04",
@@ -1043,11 +1565,24 @@
     "source_type": "unknown",
     "title": "Circular Fashion Industries Ltd - Exporter Database",
     "snippet": "April 2, 2026 -Babies' garments and clothing accessories, knitted or crocheted · Published: Jul 29, 2025 · Updated: Apr 08, 2026 · Views: 27271 ·Office: Level-4, House-21, Road-Sonargaon Janapath, Sector-13, Uttaara, Dhaka-1230 Bangladesh, Uttara Model, Dhaka.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "publication_date",
+        "value": "2025-07-29",
+        "unit": null,
+        "confidence": 0.9
+      },
+      {
+        "field": "update_date",
+        "value": "2026-04-08",
+        "unit": null,
+        "confidence": 0.9
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.735
   },
   {
     "evidence_id": "091e4629-2de",
@@ -1064,11 +1599,24 @@
     "source_type": "unknown",
     "title": "Investbangladesh",
     "snippet": "Bangladesh is a global hub for textiles and apparel manufacturing and is currently the second-largest exporter of ready-made garments (RMG) worldwide. In 2024, the sector recorded USD 38.48 billion in export earnings, with knitwear contributing ...",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "export_earnings",
+        "value": "38.48",
+        "unit": "USD billion",
+        "confidence": 1.0
+      },
+      {
+        "field": "export_earnings_year",
+        "value": "2024",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "102da3db-2c6",
@@ -1085,11 +1633,18 @@
     "source_type": "unknown",
     "title": "Md.Rokon Uddin - Founder & CEO - RTS APPARELS LTD. | LinkedIn",
     "snippet": "Dhaka,Bangladesh. 500+ connections. Join to connect.House # 237 (5th Floor), Lane # 03, Baridhara DOHS,Dhaka-1206,Bangladesh.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "address",
+        "value": "House # 237 (5th Floor), Lane # 03, Baridhara DOHS,Dhaka-1206,Bangladesh",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "3918e4b1-f7f",
@@ -1127,11 +1682,24 @@
     "source_type": "unknown",
     "title": "The great textile race: Bangladesh's 2025 reckoning & 2026 ...",
     "snippet": "Dec 13, 2025 ·The Strategic Bridge: Six Immediate Actions Entropy or Evolution?Bangladesh’s textile sector has already proved its resilience, holding $39.4 billion in exports through political upheaval, banking stress, and chronic infrastructure gaps. But resilience alone cannot carry 2025’s structural shocks or win2026’s market battles.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "export_earnings",
+        "value": "39.4",
+        "unit": "billion",
+        "confidence": 1.0
+      },
+      {
+        "field": "export_earnings_year",
+        "value": "2025",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "b410d905-aee",
@@ -1211,11 +1779,18 @@
     "source_type": "unknown",
     "title": "CPD | A Leading Civil Society Think Tank",
     "snippet": "Apr 28,2026·CPD’s Recommendations for the National Budget FY2026-27BangladeshEconomy: Trends, Challenges, andPolicyPriorities for the Newly Elected Government New Government’s Economic and Social Sector relatedPolicyand Administrative Decisions: 180 Days and Beyond Interim Government’s Energy & Power Sector Master Plan (EPSMP):2026-2050 – CPD’s Quick Reaction State of theBangladesh...",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "fiscal_year",
+        "value": "2026-27",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "3c3241d4-f96",
@@ -1253,11 +1828,18 @@
     "source_type": "unknown",
     "title": "Best Crypto Exchanges in Bangladesh for 2026 - Datawallet",
     "snippet": "Mar 26, 2026 ·We tested the bestcryptoexchanges inBangladeshfor BDT P2P liquidity, bKash and Nagad support, low fees, and overall platform reliability for 2026.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "year",
+        "value": "2026",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "a35aa5e9-6cb",
@@ -1274,11 +1856,18 @@
     "source_type": "unknown",
     "title": "Best Crypto Exchanges in Bangladesh for May 2026",
     "snippet": "Apr 9, 2026 ·Compare the bestcryptoexchanges inBangladesh. Compare the fees, supported coins, leverage, and safety of the best places to buycryptoinBangladesh.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "regulation_name",
+        "value": "crypto exchanges",
+        "unit": null,
+        "confidence": 0.8
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.72
   },
   {
     "evidence_id": "60d29b5a-90f",
@@ -1295,11 +1884,18 @@
     "source_type": "unknown",
     "title": "5 Best Crypto Exchanges To Buy Bitcoin in Bangladesh (2026)",
     "snippet": "Apr 8, 2026 ·Best exchanges to buy, sell, and trade Bitcoin inBangladesh. Find and filter the 5 bestcryptoexchanges by payment method, fees, and security.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "regulation_name",
+        "value": "crypto exchanges",
+        "unit": null,
+        "confidence": 0.8
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.72
   },
   {
     "evidence_id": "019b9d20-75c",
@@ -1316,11 +1912,24 @@
     "source_type": "unknown",
     "title": "Best Crypto Exchanges in Bangladesh – Buy & Trade Bitcoin ...",
     "snippet": "Apr 20, 2026 ·Discover thetopcryptoexchanges inBangladesh. Learn how to buy, sell, and trade Bitcoin and altcoins using trusted platforms with support for BDT and local payment methods.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "regulation_name",
+        "value": "crypto exchanges",
+        "unit": null,
+        "confidence": 0.8
+      },
+      {
+        "field": "payment_method",
+        "value": "BDT",
+        "unit": null,
+        "confidence": 0.7
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.712
   },
   {
     "evidence_id": "2a421b00-f09",
@@ -1337,11 +1946,24 @@
     "source_type": "unknown",
     "title": "Bangladesh cryptocurrency adoption ranking in 2025 despite a ...",
     "snippet": "Sep 23, 2025 ·Bangladeshhosts over 3millioncryptousers despite a total ban, ranking it 35th globally. The article explains the stats, stablecoin remittance use, regulatory gaps, regional context, and future outlook.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "regulation_name",
+        "value": "cryptocurrency adoption",
+        "unit": null,
+        "confidence": 0.8
+      },
+      {
+        "field": "employee_count",
+        "value": "3 million",
+        "unit": "users",
+        "confidence": 0.9
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.728
   },
   {
     "evidence_id": "b46cd3d9-844",
@@ -1358,11 +1980,18 @@
     "source_type": "unknown",
     "title": "CryptoRegulations InBangladeshIn 2025",
     "snippet": "Why did Bangladesh bancrypto?Bangladeshbanned crypto primarily due to risks of money laundering, terrorist financing, financial instability, and past Ponzi schemes (like MTFE), making monitoring anonymous transactions difficult. Is there a crypto tax in Bangladesh?",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "regulation_name",
+        "value": "crypto ban",
+        "unit": null,
+        "confidence": 0.9
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.735
   },
   {
     "evidence_id": "77d7b1e4-655",
@@ -1379,11 +2008,24 @@
     "source_type": "unknown",
     "title": "Viral Linik TelegramBangladesh| TikTok",
     "snippet": "Discover the best Telegram links for Bangladesh! Join exclusive groups and stay updated on all the latest trends and content.Explore Day 29 of the Smart Money Concept for crypto enthusiasts! Join us for expert tips and insights on trading. #creatorsearchinsights #crypto#bangladesh.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "social_media_platform",
+        "value": "Telegram",
+        "unit": null,
+        "confidence": 0.8
+      },
+      {
+        "field": "social_media_platform",
+        "value": "TikTok",
+        "unit": null,
+        "confidence": 0.8
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.72
   },
   {
     "evidence_id": "58f8b409-c79",
@@ -1400,11 +2042,24 @@
     "source_type": "unknown",
     "title": "Telegram: View @shlling",
     "snippet": "CRYPTOBANGLADESH. 3 members. View in Telegram.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "social_media_platform",
+        "value": "Telegram",
+        "unit": null,
+        "confidence": 0.9
+      },
+      {
+        "field": "employee_count",
+        "value": "3",
+        "unit": "members",
+        "confidence": 0.9
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.735
   },
   {
     "evidence_id": "def97c8c-b79",
@@ -1568,11 +2223,18 @@
     "source_type": "unknown",
     "title": "BDBITCOIN(@bd_bitcoin) / Twitter",
     "snippet": "BDBITCOINRetweeted. Sui Daily. @SuiDailyTK.@bd_bitcoin. · Apr 4. I just made an NFT with AI on.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "twitter_handle",
+        "value": "@bd_bitcoin",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "66f70e8c-08f",
@@ -1589,11 +2251,18 @@
     "source_type": "unknown",
     "title": "BitcoinEarning Tutorial Bangla (বিটকয়েন) : বিট কয়েন...",
     "snippet": "A complete Bangla tutorial aboutBitcoinearning inBD. EarnBitcoinfrom Today.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "language",
+        "value": "Bangla",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "6ca80db2-372",
@@ -1631,11 +2300,36 @@
     "source_type": "unknown",
     "title": "BITCOIN BANGLADESH (বিটকয়েন বাংলাদেশ) | Facebook",
     "snippet": "Crypto CurrencyBangladeshBD7.9K members Join Binance User OfBangladesh46K members Join Imran Vhai Crypto",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "facebook_group_member_count",
+        "value": "7.9K",
+        "unit": "members",
+        "confidence": 0.9
+      },
+      {
+        "field": "facebook_group_name",
+        "value": "BITCOIN BANGLADESH (বিটকয়েন বাংলাদেশ)",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "facebook_group_member_count",
+        "value": "46K",
+        "unit": "members",
+        "confidence": 0.9
+      },
+      {
+        "field": "facebook_group_name",
+        "value": "Binance User Of Bangladesh",
+        "unit": null,
+        "confidence": 0.9
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.739
   },
   {
     "evidence_id": "36b985e8-e75",
@@ -1652,11 +2346,24 @@
     "source_type": "unknown",
     "title": "Bitcoin BD - Facebook",
     "snippet": "Jan 2, 2018 ·understanding ofBitcoin, cryptocurrencies alike or to share your experiences or advice in trading such markets, as well as for programmers to collaborate on ideas to better connect blockchain related ideas to improve the world we live in. Binance community ofBangladeshMD Rehan MahmudJun 1, 2025",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "facebook_group_name",
+        "value": "Bitcoin BD",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "facebook_group_creation_date",
+        "value": "2018-01-02",
+        "unit": null,
+        "confidence": 0.9
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.742
   },
   {
     "evidence_id": "7f01aae7-eb5",
@@ -1673,11 +2380,18 @@
     "source_type": "unknown",
     "title": "Bitcoin BD Group - Facebook",
     "snippet": "BitcoinBDis theBangladeshiGroup where people Share there idea about Bitcoin ant that group also help earn bitcoin to there member. We personally guide people How they earn bitcoin fromBangladesh.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "facebook_group_name",
+        "value": "Bitcoin BD Group",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "8c00a6c3-161",
