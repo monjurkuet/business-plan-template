@@ -781,8 +781,8 @@
   },
   {
     "path": "data/query_memory.json",
-    "size_bytes": 8681,
-    "last_modified": "2026-05-17T12:44:08.486603+00:00",
+    "size_bytes": 8989,
+    "last_modified": "2026-05-18T10:22:15.168249+00:00",
     "extension": ".json"
   },
   {
@@ -927,6 +927,12 @@
     "path": "data/evidence/20260510-025045.json",
     "size_bytes": 103666,
     "last_modified": "2026-05-10T02:51:44.113445+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/evidence/20260518-102212.json",
+    "size_bytes": 119095,
+    "last_modified": "2026-05-18T10:22:14.752249+00:00",
     "extension": ".json"
   },
   {
@@ -1177,38 +1183,38 @@
   },
   {
     "path": "_system/state/file_inventory.json",
-    "size_bytes": 36645,
-    "last_modified": "2026-05-17T12:42:17.402609+00:00",
+    "size_bytes": 36979,
+    "last_modified": "2026-05-18T13:23:30.468156+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/validation_results.json",
     "size_bytes": 179,
-    "last_modified": "2026-05-17T12:44:08.322603+00:00",
+    "last_modified": "2026-05-18T13:23:30.668156+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/audit_results.json",
     "size_bytes": 5650,
-    "last_modified": "2026-05-17T12:42:17.402609+00:00",
+    "last_modified": "2026-05-18T13:23:30.472156+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/last_pipeline_run.json",
     "size_bytes": 421,
-    "last_modified": "2026-05-17T12:44:08.494603+00:00",
+    "last_modified": "2026-05-18T10:22:15.176249+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/freshness_queue.json",
-    "size_bytes": 34800,
-    "last_modified": "2026-05-17T12:42:17.498609+00:00",
+    "size_bytes": 34803,
+    "last_modified": "2026-05-18T13:23:30.588156+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/search_plan.json",
     "size_bytes": 17214,
-    "last_modified": "2026-05-17T12:44:08.214603+00:00",
+    "last_modified": "2026-05-18T10:22:14.904249+00:00",
     "extension": ".json"
   }
 ]
