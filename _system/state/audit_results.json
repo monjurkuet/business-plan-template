@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-05-17T12:42:17.403238+00:00",
-  "total_files": 201,
+  "generated_at": "2026-05-18T10:20:15.774160+00:00",
+  "total_files": 202,
   "sectors_audited": 8,
   "all_missing_files": [],
   "all_stale_references": [
-    "automotive-car-care: 2024",
     "automotive-car-care: 2023",
-    "clothing-fashion: 2024",
+    "automotive-car-care: 2024",
     "clothing-fashion: 2023",
+    "clothing-fashion: 2024",
     "crypto-bitcoin: 2024",
-    "electronics-gadgets: 2024",
     "electronics-gadgets: 2023",
-    "high-roi-niches: 2024",
+    "electronics-gadgets: 2024",
     "high-roi-niches: 2023",
-    "jewellery: 2024",
+    "high-roi-niches: 2024",
     "jewellery: 2023",
-    "media-marketing-digital: 2024",
+    "jewellery: 2024",
     "media-marketing-digital: 2023",
-    "travel-tourism: 2024",
-    "travel-tourism: 2023"
+    "media-marketing-digital: 2024",
+    "travel-tourism: 2023",
+    "travel-tourism: 2024"
   ],
   "all_frontmatter_missing": [],
   "sector_audits": [
@@ -37,8 +37,8 @@
       ],
       "missing_files": [],
       "stale_references": [
-        "2024",
-        "2023"
+        "2023",
+        "2024"
       ],
       "frontmatter_missing": [],
       "competitor_count": 12,
@@ -62,8 +62,8 @@
       ],
       "missing_files": [],
       "stale_references": [
-        "2024",
-        "2023"
+        "2023",
+        "2024"
       ],
       "frontmatter_missing": [],
       "competitor_count": 8,
@@ -111,8 +111,8 @@
       ],
       "missing_files": [],
       "stale_references": [
-        "2024",
-        "2023"
+        "2023",
+        "2024"
       ],
       "frontmatter_missing": [],
       "competitor_count": 7,
@@ -136,8 +136,8 @@
       ],
       "missing_files": [],
       "stale_references": [
-        "2024",
-        "2023"
+        "2023",
+        "2024"
       ],
       "frontmatter_missing": [],
       "competitor_count": 7,
@@ -161,8 +161,8 @@
       ],
       "missing_files": [],
       "stale_references": [
-        "2024",
-        "2023"
+        "2023",
+        "2024"
       ],
       "frontmatter_missing": [],
       "competitor_count": 6,
@@ -186,8 +186,8 @@
       ],
       "missing_files": [],
       "stale_references": [
-        "2024",
-        "2023"
+        "2023",
+        "2024"
       ],
       "frontmatter_missing": [],
       "competitor_count": 7,
@@ -211,8 +211,8 @@
       ],
       "missing_files": [],
       "stale_references": [
-        "2024",
-        "2023"
+        "2023",
+        "2024"
       ],
       "frontmatter_missing": [],
       "competitor_count": 7,

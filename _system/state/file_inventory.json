@@ -782,7 +782,7 @@
   {
     "path": "data/query_memory.json",
     "size_bytes": 8681,
-    "last_modified": "2026-05-12T15:47:29.857963+00:00",
+    "last_modified": "2026-05-17T12:44:08.486603+00:00",
     "extension": ".json"
   },
   {
@@ -963,6 +963,12 @@
     "path": "data/evidence/20260508-224043.json",
     "size_bytes": 101518,
     "last_modified": "2026-05-08T22:41:45.091582+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/evidence/20260517-124405.json",
+    "size_bytes": 114031,
+    "last_modified": "2026-05-17T12:44:08.066603+00:00",
     "extension": ".json"
   },
   {
@@ -1171,38 +1177,38 @@
   },
   {
     "path": "_system/state/file_inventory.json",
-    "size_bytes": 36478,
-    "last_modified": "2026-05-12T15:44:49.689981+00:00",
+    "size_bytes": 36645,
+    "last_modified": "2026-05-17T12:42:17.402609+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/validation_results.json",
     "size_bytes": 179,
-    "last_modified": "2026-05-12T15:47:29.721963+00:00",
+    "last_modified": "2026-05-17T12:44:08.322603+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/audit_results.json",
     "size_bytes": 5650,
-    "last_modified": "2026-05-12T15:44:49.689981+00:00",
+    "last_modified": "2026-05-17T12:42:17.402609+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/last_pipeline_run.json",
     "size_bytes": 421,
-    "last_modified": "2026-05-12T15:47:29.865963+00:00",
+    "last_modified": "2026-05-17T12:44:08.494603+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/freshness_queue.json",
-    "size_bytes": 30377,
-    "last_modified": "2026-05-12T15:44:49.749981+00:00",
+    "size_bytes": 34800,
+    "last_modified": "2026-05-17T12:42:17.498609+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/search_plan.json",
-    "size_bytes": 17132,
-    "last_modified": "2026-05-12T15:47:29.625963+00:00",
+    "size_bytes": 17214,
+    "last_modified": "2026-05-17T12:44:08.214603+00:00",
     "extension": ".json"
   }
 ]
