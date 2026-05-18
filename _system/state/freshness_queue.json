@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T19:41:36.502997+00:00",
+  "generated_at": "2026-05-18T22:44:17.690541+00:00",
   "summary": {
     "fresh": 48,
     "stale": 81,
@@ -33,7 +33,7 @@
       "path": "sectors/crypto-bitcoin/bd-market/README.md",
       "sector": "crypto-bitcoin",
       "category": "default",
-      "age_days": 10,
+      "age_days": 11,
       "stale_type": "stale_reference",
       "priority": "P0",
       "stale_after_days": 90,
@@ -220,7 +220,7 @@
       "path": "sectors/automotive-car-care/bd-market/README.md",
       "sector": "automotive-car-care",
       "category": "default",
-      "age_days": 10,
+      "age_days": 11,
       "stale_type": "stale_reference",
       "priority": "P1",
       "stale_after_days": 90,
@@ -319,7 +319,7 @@
       "path": "sectors/clothing-fashion/bd-market/README.md",
       "sector": "clothing-fashion",
       "category": "default",
-      "age_days": 10,
+      "age_days": 11,
       "stale_type": "stale_reference",
       "priority": "P1",
       "stale_after_days": 90,
