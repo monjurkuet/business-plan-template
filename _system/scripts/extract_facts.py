@@ -19,7 +19,7 @@ from lib.llm_client import call_llm_json, load_prompt
 
 MODEL_FALLBACKS = [
     "gemini-2.5-flash-lite",
-    "gemini-2.5-flash",
+    "gemini-2.5-flash-lite",
     "gpt-5.4-mini",
 ]
 
