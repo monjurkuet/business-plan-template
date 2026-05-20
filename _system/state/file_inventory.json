@@ -781,8 +781,8 @@
   },
   {
     "path": "data/query_memory.json",
-    "size_bytes": 9047,
-    "last_modified": "2026-05-18T22:46:21.023571+00:00",
+    "size_bytes": 9037,
+    "last_modified": "2026-05-19T01:49:18.612276+00:00",
     "extension": ".json"
   },
   {
@@ -1008,6 +1008,12 @@
     "extension": ".json"
   },
   {
+    "path": "data/evidence/20260519-014915.json",
+    "size_bytes": 111589,
+    "last_modified": "2026-05-19T01:49:18.160276+00:00",
+    "extension": ".json"
+  },
+  {
     "path": "data/evidence/20260506-162329.json",
     "size_bytes": 86242,
     "last_modified": "2026-05-06T16:23:36.802119+00:00",
@@ -1195,38 +1201,38 @@
   },
   {
     "path": "_system/state/file_inventory.json",
-    "size_bytes": 37146,
-    "last_modified": "2026-05-18T22:44:17.567596+00:00",
+    "size_bytes": 37313,
+    "last_modified": "2026-05-19T01:47:13.476316+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/validation_results.json",
     "size_bytes": 179,
-    "last_modified": "2026-05-18T22:46:20.851571+00:00",
+    "last_modified": "2026-05-19T01:49:18.428276+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/audit_results.json",
     "size_bytes": 5650,
-    "last_modified": "2026-05-18T22:44:17.567596+00:00",
+    "last_modified": "2026-05-19T01:47:13.480316+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/last_pipeline_run.json",
     "size_bytes": 421,
-    "last_modified": "2026-05-18T22:46:21.031571+00:00",
+    "last_modified": "2026-05-19T01:49:18.624276+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/freshness_queue.json",
     "size_bytes": 34803,
-    "last_modified": "2026-05-18T22:44:17.687596+00:00",
+    "last_modified": "2026-05-19T01:47:13.632316+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/search_plan.json",
     "size_bytes": 17214,
-    "last_modified": "2026-05-18T22:46:20.735571+00:00",
+    "last_modified": "2026-05-19T01:49:18.324276+00:00",
     "extension": ".json"
   }
 ]
