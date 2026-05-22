@@ -781,8 +781,8 @@
   },
   {
     "path": "data/query_memory.json",
-    "size_bytes": 9051,
-    "last_modified": "2026-05-22T16:52:55.114770+00:00",
+    "size_bytes": 9053,
+    "last_modified": "2026-05-22T20:17:31.953558+00:00",
     "extension": ".json"
   },
   {
@@ -861,6 +861,12 @@
     "path": "data/evidence/20260507-161347.json",
     "size_bytes": 103073,
     "last_modified": "2026-05-07T16:14:24.302803+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/evidence/20260522-201731.json",
+    "size_bytes": 99525,
+    "last_modified": "2026-05-22T20:17:31.557558+00:00",
     "extension": ".json"
   },
   {
@@ -1219,38 +1225,38 @@
   },
   {
     "path": "_system/state/file_inventory.json",
-    "size_bytes": 37814,
-    "last_modified": "2026-05-22T16:51:00.838783+00:00",
+    "size_bytes": 37981,
+    "last_modified": "2026-05-22T20:15:34.213569+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/validation_results.json",
     "size_bytes": 179,
-    "last_modified": "2026-05-22T16:52:54.958770+00:00",
+    "last_modified": "2026-05-22T20:17:31.801558+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/audit_results.json",
     "size_bytes": 5650,
-    "last_modified": "2026-05-22T16:51:00.850783+00:00",
+    "last_modified": "2026-05-22T20:15:34.237569+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/last_pipeline_run.json",
     "size_bytes": 421,
-    "last_modified": "2026-05-22T16:52:55.122770+00:00",
+    "last_modified": "2026-05-22T20:17:31.957558+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/freshness_queue.json",
     "size_bytes": 37682,
-    "last_modified": "2026-05-22T16:51:00.950783+00:00",
+    "last_modified": "2026-05-22T20:15:34.317569+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/search_plan.json",
     "size_bytes": 17274,
-    "last_modified": "2026-05-22T16:52:54.870770+00:00",
+    "last_modified": "2026-05-22T20:17:31.697558+00:00",
     "extension": ".json"
   }
 ]
