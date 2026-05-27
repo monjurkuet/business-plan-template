@@ -781,8 +781,8 @@
   },
   {
     "path": "data/query_memory.json",
-    "size_bytes": 8761,
-    "last_modified": "2026-05-26T23:40:55.419543+00:00",
+    "size_bytes": 6456,
+    "last_modified": "2026-05-27T19:48:43.978534+00:00",
     "extension": ".json"
   },
   {
@@ -879,6 +879,12 @@
     "path": "data/evidence/20260523-151616.json",
     "size_bytes": 116483,
     "last_modified": "2026-05-23T15:16:19.178710+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/evidence/20260527-194840.json",
+    "size_bytes": 116904,
+    "last_modified": "2026-05-27T19:48:43.274534+00:00",
     "extension": ".json"
   },
   {
@@ -1279,38 +1285,38 @@
   },
   {
     "path": "_system/state/file_inventory.json",
-    "size_bytes": 39481,
-    "last_modified": "2026-05-26T23:38:46.907555+00:00",
+    "size_bytes": 39648,
+    "last_modified": "2026-05-27T19:46:49.226564+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/validation_results.json",
     "size_bytes": 179,
-    "last_modified": "2026-05-26T23:40:55.239543+00:00",
+    "last_modified": "2026-05-27T19:48:43.774534+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/audit_results.json",
     "size_bytes": 5650,
-    "last_modified": "2026-05-26T23:38:46.911555+00:00",
+    "last_modified": "2026-05-27T19:46:49.226564+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/last_pipeline_run.json",
     "size_bytes": 421,
-    "last_modified": "2026-05-26T23:40:55.423543+00:00",
+    "last_modified": "2026-05-27T19:48:43.986533+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/freshness_queue.json",
-    "size_bytes": 37682,
-    "last_modified": "2026-05-26T23:38:47.015555+00:00",
+    "size_bytes": 37608,
+    "last_modified": "2026-05-27T19:46:49.362564+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/search_plan.json",
-    "size_bytes": 17274,
-    "last_modified": "2026-05-26T23:40:55.135543+00:00",
+    "size_bytes": 17472,
+    "last_modified": "2026-05-27T19:48:43.478534+00:00",
     "extension": ".json"
   }
 ]
