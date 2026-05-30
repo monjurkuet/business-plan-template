@@ -1,5 +1,50 @@
 # Changelog
 
+## 2026-05-30 11:41 UTC
+
+**Repo Audit**: 229 files across 0 sectors
+**Freshness Queue**: 104 items (P0: 28, P1: 76, P2: 0)
+**Searches Executed**: 60 queries
+**Evidence Collected**: 116 items, 0 facts extracted
+**Confidence**: 0 high (>=0.75), avg 0.55
+
+### Sector Breakdown
+- **automotive-car-care**: 30 evidence, 0 facts, avg conf 0.55
+- **clothing-fashion**: 25 evidence, 0 facts, avg conf 0.55
+- **crypto-bitcoin**: 61 evidence, 0 facts, avg conf 0.55
+
+---
+
+## 2026-05-29 04:00 UTC
+
+**Repo Audit**: 228 files across 0 sectors
+**Freshness Queue**: 104 items (P0: 28, P1: 76, P2: 0)
+**Searches Executed**: 60 queries
+**Evidence Collected**: 105 items, 0 facts extracted
+**Confidence**: 0 high (>=0.75), avg 0.55
+
+### Sector Breakdown
+- **automotive-car-care**: 18 evidence, 0 facts, avg conf 0.55
+- **clothing-fashion**: 23 evidence, 0 facts, avg conf 0.55
+- **crypto-bitcoin**: 64 evidence, 0 facts, avg conf 0.55
+
+---
+
+## 2026-05-29 00:57 UTC
+
+**Repo Audit**: 227 files across 0 sectors
+**Freshness Queue**: 104 items (P0: 28, P1: 76, P2: 0)
+**Searches Executed**: 60 queries
+**Evidence Collected**: 110 items, 0 facts extracted
+**Confidence**: 0 high (>=0.75), avg 0.55
+
+### Sector Breakdown
+- **automotive-car-care**: 20 evidence, 0 facts, avg conf 0.55
+- **clothing-fashion**: 24 evidence, 0 facts, avg conf 0.55
+- **crypto-bitcoin**: 66 evidence, 0 facts, avg conf 0.55
+
+---
+
 ## 2026-05-28 21:54 UTC
 
 **Repo Audit**: 226 files across 0 sectors
