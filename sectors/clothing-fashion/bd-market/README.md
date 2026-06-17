@@ -1,9 +1,9 @@
 ---
 sector: clothing-fashion
-last_verified: 2026-05-08
+last_verified: 2026-06-17
 freshness: fresh
-confidence: 0.731
-evidence_ids: ['5eba1e39-f0d', '4c067252-6ec', '60bfed1f-55a', '619b3223-32d', 'ec5d2569-c8c', 'f08d026f-24b', 'ec22a889-d8e', '8da71e2e-0ba', '07fd196c-a60', 'c144301c-31c', 'fba7eb97-6d7', '771165f1-1bd', 'be8bfebf-8ac', 'd4df3680-a51', 'd4b40216-96e', 'd3652991-10f', '383944d0-bbf', '18d7c75c-0bc', 'f79bb97b-a66', 'b80b7f70-782']
+confidence: 0.746
+evidence_ids: ['b67f5fc1-a99', 'a00231c3-42c', '00cc09e1-1af', '861dd39b-222', '25dc69e9-a83', '7b7accfe-62a', '7b23834b-317', '4d4912a7-726', 'b611aaf0-f35', '02d3dcfa-815', '149afa49-eac', '80d0b5d1-b90', '848e7b12-f5f', '7e8bf6c5-093', '7f311843-694', '4f905c3d-385', '66a285b5-bcf', '32abd390-670']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -83,22 +83,23 @@ evidence_ids: ['5eba1e39-f0d', '4c067252-6ec', '60bfed1f-55a', '619b3223-32d', '
 
 
 
-## Auto-Updated Data (2026-05-08)
+
+## Auto-Updated Data (2026-06-17)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 2026-03-13 | search | 1.00 |
-| 20 | search | 1.00 |
-| 20000000 | search | 1.00 |
-| 81 | search | 1.00 |
-| second-largest | search | 0.80 |
-| 2026-02-11 | search | 1.00 |
-| 2026 | search | 1.00 |
-| 2029 | search | 1.00 |
-| 2026 | search | 1.00 |
-| Beyond the Stereotype: RethinkingBangladesh's Textile Industry | search | 0.90 |
-| leader in ethical and sustainable apparel production | search | 0.80 |
-| upcoming LDC graduation in2026and the current economic challenges | search | 0.80 |
-| 5 | search | 0.90 |
-| 2026 | search | 0.90 |
-| Trade war uncertainties and unpredictable tariffs will challenge apparel compani | search | 0.80 |
+| Tyzo | search | 1.00 |
+| 1200 | search | 1.00 |
+| Starting from 1200 BDT | search | 1.00 |
+| Mbrella | search | 1.00 |
+| Mondol Group | search | 1.00 |
+| JamaKapor | search | 1.00 |
+| Sailor | search | 1.00 |
+| Epyllion Group | search | 1.00 |
+| nominal prices edged up | search | 0.90 |
+| 100 | search | 0.80 |
+| 300 - 1000 | search | 0.80 |
+| up to 3000 | search | 0.80 |
+| 1,490 | search | 0.90 |
+| Top Ten Mart Ltd. | search | 1.00 |
+| Bangladesh | search | 1.00 |

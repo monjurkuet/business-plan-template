@@ -1,9 +1,9 @@
 ---
 sector: automotive-car-care
-last_verified: 2026-05-08
+last_verified: 2026-06-17
 freshness: fresh
-confidence: 0.732
-evidence_ids: ['52dcced2-15b', '5beeac13-914', 'f571c248-393', '7f6ec5e0-d7c', '0f983400-e6b', '94dc277e-cc0', 'da431ed7-40b', 'b191ad48-8ba', '4cefa5eb-522', '176c9db8-3dd', '841e1c58-321', '24b0f132-7cc', '1d275cd9-825', 'd8e35e7e-bc7']
+confidence: 0.74
+evidence_ids: ['85b3d8e2-5ac', 'bc51348e-f31', '396f7c46-be4', 'f29b7703-616', 'a4c3106a-73c', 'c4e86d44-8f3', '221467a2-089', '9a841cec-506', '65c9fea6-73f', '56681d87-f83', '84047296-293', 'e3ec4bdc-c46', '09232268-009', 'fd382549-a6d', 'd98222e3-265', '421a1762-18e', 'bf216a21-9d7', 'd8fd47c9-a88', 'd4562c5f-546', '4f96aa11-565']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -99,22 +99,23 @@ evidence_ids: ['52dcced2-15b', '5beeac13-914', 'f571c248-393', '7f6ec5e0-d7c', '
 - **Consumer Spending**: ৳24,083 Bn by end 2026 (Trading Economics forecast)
 
 
-## Auto-Updated Data (2026-05-08)
+
+## Auto-Updated Data (2026-06-17)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Engine CC tax in Bangladesh | search | 0.90 |
-| 2026-02-02 | search | 0.90 |
-| 1500cc to 2500cc cars | search | 0.90 |
-| The Automobile Association of Bangladesh | search | 0.90 |
-| international best practice in all these car-related fields of activity | search | 0.70 |
-| Car Import Rules | search | 0.90 |
-| 2025-07-10 | search | 0.90 |
-| new and used car regulations | search | 0.90 |
-| pass BSTI and BRTA safety tests | search | 0.90 |
-| emission checks | search | 0.80 |
-| noise limits | search | 0.80 |
-| Car Import Regulations | search | 0.90 |
-| cars that meet certain standards are imported | search | 0.80 |
-| all taxes and duties are paid | search | 0.80 |
-| Advance tax for the owners of private motor car | search | 0.90 |
+| Current Price in Bangladesh | search | 0.70 |
+| Estimated Price of Recondition and Used Car | search | 0.70 |
+| brand new Cars price in Bangladesh | search | 0.70 |
+| low price in Bangladesh | search | 0.70 |
+| car prices in Bangladesh | search | 0.70 |
+| low purchase cost | search | 0.70 |
+| ৳ 1-285000 | search | 0.80 |
+| 320 | search | 1.00 |
+| 500 | search | 1.00 |
+| 550 | search | 1.00 |
+| Meguiars | search | 1.00 |
+| Gyeon Quartz | search | 1.00 |
+| KA-32, 4 Jagannathpur, Saudi Masjid Road, Dhaka 1229, Bangladesh | search | 1.00 |
+| 11-50 | search | 1.00 |
+| JFP Branch - Jamuna Future Park, Basement 1 (B1), Kuril, Vatara, Dhaka - 1229; H | search | 1.00 |

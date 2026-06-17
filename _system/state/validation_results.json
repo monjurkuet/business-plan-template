@@ -1,10 +1,16 @@
 {
-  "generated_at": "2026-06-16T22:56:15.935013+00:00",
+  "generated_at": "2026-06-17T05:07:36.074372+00:00",
   "summary": {
     "files_checked": 130,
-    "violations": 0,
+    "violations": 1,
     "warnings": 0
   },
-  "violations": [],
+  "violations": [
+    {
+      "file": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-sailor.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    }
+  ],
   "warnings": []
 }

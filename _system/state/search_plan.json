@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T22:56:15.843581+00:00",
+  "generated_at": "2026-06-17T05:07:33.778548+00:00",
   "models_used": [
     "gemini-2.5-flash-lite",
     "deepseek-ai/deepseek-v4-pro",
@@ -7,20 +7,445 @@
   ],
   "reviews": [
     {
-      "model": "gemini-2.5-flash-lite",
-      "error": "HTTP Error 308: Permanent Redirect",
-      "gaps": [],
-      "recommendations": []
+      "repo_critical_issues": [
+        {
+          "issue": "Significant portion of the repository (pricing, policy, and default files) contains stale year references (2023, 2024) and exceeds freshness thresholds. This directly impacts the accuracy and actionability of the research, especially for regulatory and market analysis.",
+          "severity": "critical",
+          "affected_sectors": [
+            "automotive-car-care",
+            "clothing-fashion",
+            "crypto-bitcoin",
+            "electronics-gadgets",
+            "high-roi-niches",
+            "jewellery"
+          ]
+        },
+        {
+          "issue": "Lack of explicit sourcing for competitor financial data. It's unclear if these are estimates or backed by verifiable reports, which is crucial for assessing the reliability of competitive analysis.",
+          "severity": "high",
+          "affected_sectors": [
+            "automotive-car-care",
+            "clothing-fashion",
+            "crypto-bitcoin",
+            "electronics-gadgets",
+            "high-roi-niches",
+            "jewellery"
+          ]
+        },
+        {
+          "issue": "Absence of BDT values in pricing data. Pricing information is not actionable for the Bangladesh market without local currency representation.",
+          "severity": "high",
+          "affected_sectors": [
+            "automotive-car-care",
+            "clothing-fashion",
+            "crypto-bitcoin",
+            "electronics-gadgets",
+            "high-roi-niches",
+            "jewellery"
+          ]
+        },
+        {
+          "issue": "No mention or verification of Facebook handles for competitors. Social media presence is a key engagement channel, and unverified or non-functional handles reduce the repository's utility for GTM strategies.",
+          "severity": "medium",
+          "affected_sectors": [
+            "automotive-car-care",
+            "clothing-fashion",
+            "crypto-bitcoin",
+            "electronics-gadgets",
+            "high-roi-niches",
+            "jewellery"
+          ]
+        }
+      ],
+      "sector_priorities": [
+        {
+          "sector": "crypto-bitcoin",
+          "priority": 10,
+          "reason": "High number of P0 freshness issues across multiple file types (default, pricing, policy, sentiment, seasonality, competitor_core_profile) and stale year references. This sector is volatile and requires up-to-date information. Also, the critical note about crypto trading being legal needs to be consistently applied and verified."
+        },
+        {
+          "sector": "automotive-car-care",
+          "priority": 9,
+          "reason": "Multiple P0 freshness issues for pricing and policy, with stale year references. This sector has significant regulatory and pricing components that are outdated."
+        },
+        {
+          "sector": "clothing-fashion",
+          "priority": 8,
+          "reason": "Multiple P0 freshness issues for pricing and policy, with stale year references. Fashion is trend-driven, making outdated information particularly detrimental."
+        },
+        {
+          "sector": "electronics-gadgets",
+          "priority": 7,
+          "reason": "Multiple P0 freshness issues for pricing and policy, with stale year references. Technology evolves rapidly, requiring current data."
+        },
+        {
+          "sector": "jewellery",
+          "priority": 6,
+          "reason": "P0 freshness issues for pricing and policy. While less volatile than tech or fashion, pricing and regulatory updates are still crucial."
+        },
+        {
+          "sector": "high-roi-niches",
+          "priority": 5,
+          "reason": "P0 freshness issues for pricing and policy, with stale year references. This sector is broad, and outdated information could lead to misinformed investment or strategy decisions."
+        }
+      ],
+      "search_hypotheses": [
+        {
+          "sector": "crypto-bitcoin",
+          "hypothesis": "Regulatory landscape and market sentiment for cryptocurrency trading in Bangladesh have evolved significantly since 2024, impacting adoption and investment. There may be new government circulars or central bank directives that need to be incorporated.",
+          "suggested_queries": [
+            "Bangladesh cryptocurrency regulations 2025",
+            "Bangladesh Bank circular crypto 2025",
+            "Crypto trading volume Bangladesh 2025",
+            "Bitcoin adoption rate Bangladesh 2025",
+            "Bangladesh fintech policy cryptocurrency"
+          ],
+          "confidence": 0.9
+        },
+        {
+          "sector": "automotive-car-care",
+          "hypothesis": "New government policies or import duties related to automotive parts and services have been introduced in 2025, affecting pricing and market entry strategies.",
+          "suggested_queries": [
+            "Bangladesh automotive import duty 2025",
+            "Bangladesh vehicle maintenance regulations 2025",
+            "New car care policies Bangladesh",
+            "BDT pricing automotive parts Bangladesh"
+          ],
+          "confidence": 0.85
+        },
+        {
+          "sector": "clothing-fashion",
+          "hypothesis": "Emerging consumer preferences and sustainable fashion trends are influencing the Bangladeshi clothing market, requiring updated competitor analysis and GTM strategies.",
+          "suggested_queries": [
+            "Sustainable fashion Bangladesh trends 2025",
+            "Bangladeshi apparel market consumer behavior 2025",
+            "E-commerce fashion Bangladesh growth",
+            "Pricing benchmarks clothing Bangladesh BDT"
+          ],
+          "confidence": 0.8
+        },
+        {
+          "sector": "electronics-gadgets",
+          "hypothesis": "The adoption of new electronic gadgets and smart devices in Bangladesh is accelerating, driven by increased disposable income and digital infrastructure, necessitating updated market size and pricing data.",
+          "suggested_queries": [
+            "Consumer electronics market Bangladesh 2025",
+            "Smart device penetration Bangladesh",
+            "Gadget pricing trends Bangladesh BDT",
+            "Bangladesh e-commerce electronics report"
+          ],
+          "confidence": 0.8
+        }
+      ],
+      "high_value_missing_angles": [
+        "Detailed breakdown of competitor financials with verifiable sources (audited reports, official filings).",
+        "Up-to-date regulatory landscape for 2025-2026, including specific government circulars, acts, and their implications for each sector.",
+        "Comprehensive pricing data in BDT for key products/services within each sector, including price ranges, average prices, and factors influencing pricing.",
+        "Verified and functional social media handles (especially Facebook) for all listed competitors, linked to their official pages.",
+        "Cross-sector analysis of digital payment adoption and its impact on e-commerce and service delivery across various industries in Bangladesh.",
+        "Analysis of government initiatives and incentives supporting specific sectors (e.g., tech, manufacturing, exports) and their impact on market dynamics.",
+        "Consumer sentiment analysis beyond basic mentions, including qualitative insights into purchasing drivers, brand perception, and unmet needs.",
+        "Detailed go-to-market strategies for emerging niches or sectors not yet fully covered, including distribution channels, marketing tactics, and customer acquisition costs."
+      ],
+      "recommended_actions": [
+        {
+          "action": "Initiate a comprehensive data refresh for all sectors, prioritizing pricing, policy, and default files. Focus on updating year references to 2025-2026 and verifying data freshness.",
+          "priority": "P0",
+          "effort": "high"
+        },
+        {
+          "action": "Implement a rigorous sourcing policy for all financial data, competitor profiles, and market statistics. Mandate the inclusion of direct links to original sources or clear citations.",
+          "priority": "P1",
+          "effort": "medium"
+        },
+        {
+          "action": "Develop and integrate a standardized template for pricing data that explicitly requires BDT values, along with currency conversion notes if applicable.",
+          "priority": "P1",
+          "effort": "medium"
+        },
+        {
+          "action": "Conduct a systematic audit of competitor social media presence, verifying all listed handles and updating them with functional links. Flag any missing or non-functional profiles.",
+          "priority": "P2",
+          "effort": "low"
+        },
+        {
+          "action": "Develop a structured approach to identifying and documenting cross-sector trends, particularly those related to digital transformation, regulatory changes, and consumer behavior shifts.",
+          "priority": "P2",
+          "effort": "medium"
+        },
+        {
+          "action": "Create a dedicated section or process for tracking and citing government circulars and official references relevant to each sector.",
+          "priority": "P1",
+          "effort": "medium"
+        }
+      ],
+      "model": "gemini-2.5-flash-lite"
     },
     {
-      "model": "deepseek-ai/deepseek-v4-pro",
-      "error": "HTTP Error 308: Permanent Redirect",
-      "gaps": [],
-      "recommendations": []
+      "repo_critical_issues": [
+        {
+          "issue": "Systemic staleness across all pricing and policy files — 41-day age exceeds freshness threshold for rapidly changing Bangladesh regulatory and market conditions",
+          "severity": "critical",
+          "affected_sectors": [
+            "automotive-car-care",
+            "clothing-fashion",
+            "crypto-bitcoin",
+            "electronics-gadgets",
+            "high-roi-niches",
+            "jewellery"
+          ]
+        },
+        {
+          "issue": "Stale year references (2023, 2024) in policy documents — Bangladesh regulatory landscape has shifted significantly with new circulars, tax policies, and import duties for 2025-2026",
+          "severity": "critical",
+          "affected_sectors": [
+            "automotive-car-care",
+            "clothing-fashion",
+            "crypto-bitcoin",
+            "electronics-gadgets",
+            "high-roi-niches"
+          ]
+        },
+        {
+          "issue": "Crypto sector has pervasive 2024 references across ALL file types (default, pricing, policy, sentiment, seasonality, competitor profiles) — this sector evolves monthly, 2024 data is dangerously outdated",
+          "severity": "critical",
+          "affected_sectors": [
+            "crypto-bitcoin"
+          ]
+        },
+        {
+          "issue": "Only 31 of 118 evidence items are high confidence — 73% of extracted facts lack strong source verification, creating reliability risk for strategic decisions",
+          "severity": "high",
+          "affected_sectors": [
+            "all"
+          ]
+        },
+        {
+          "issue": "No evidence of Facebook handle verification or functional status checks — competitor social presence data may be stale or invalid",
+          "severity": "high",
+          "affected_sectors": [
+            "all"
+          ]
+        },
+        {
+          "issue": "Missing government circular references — policy files flagged as stale likely lack citations to recent NBR, Bangladesh Bank, or Ministry of Commerce circulars",
+          "severity": "high",
+          "affected_sectors": [
+            "automotive-car-care",
+            "clothing-fashion",
+            "electronics-gadgets",
+            "high-roi-niches",
+            "jewellery"
+          ]
+        },
+        {
+          "issue": "Pricing data freshness gap — BDT values may not reflect current exchange rates, inflation adjustments, or recent market shifts",
+          "severity": "high",
+          "affected_sectors": [
+            "automotive-car-care",
+            "clothing-fashion",
+            "crypto-bitcoin",
+            "electronics-gadgets",
+            "high-roi-niches",
+            "jewellery"
+          ]
+        },
+        {
+          "issue": "No cross-sector trend analysis evident — sectors like crypto, electronics, and high-ROI niches likely share overlapping consumer demographics and payment infrastructure trends",
+          "severity": "medium",
+          "affected_sectors": [
+            "crypto-bitcoin",
+            "electronics-gadgets",
+            "high-roi-niches"
+          ]
+        },
+        {
+          "issue": "Competitor financials may be estimates without source attribution — 82 total extracted facts across 118 evidence items suggests thin data density",
+          "severity": "medium",
+          "affected_sectors": [
+            "all"
+          ]
+        }
+      ],
+      "sector_priorities": [
+        {
+          "sector": "crypto-bitcoin",
+          "priority": 10,
+          "reason": "Highest risk — pervasive 2024 staleness across ALL file types, sector evolves monthly, regulatory clarity emerging in 2025, high-value opportunity if data is current"
+        },
+        {
+          "sector": "clothing-fashion",
+          "priority": 9,
+          "reason": "Bangladesh's largest export sector, rapidly shifting RMG compliance requirements (EU GSP+, Accord updates), pricing and policy files critically stale"
+        },
+        {
+          "sector": "electronics-gadgets",
+          "priority": 8,
+          "reason": "Import-dependent sector highly sensitive to 2025 duty changes and currency fluctuations, policy staleness creates significant blind spots"
+        },
+        {
+          "sector": "high-roi-niches",
+          "priority": 7,
+          "reason": "Aggregator sector — if underlying data is stale, niche recommendations may be based on outdated assumptions, compounding risk"
+        },
+        {
+          "sector": "automotive-car-care",
+          "priority": 6,
+          "reason": "Growing domestic market with new import policies for EV and hybrid vehicles in 2025, stale policy data misses these shifts"
+        },
+        {
+          "sector": "jewellery",
+          "priority": 5,
+          "reason": "Gold price volatility and new hallmarking regulations make stale pricing and policy data particularly risky"
+        }
+      ],
+      "search_hypotheses": [
+        {
+          "sector": "crypto-bitcoin",
+          "hypothesis": "Bangladesh Bank has issued new 2025 circulars clarifying crypto trading legality and taxation framework",
+          "suggested_queries": [
+            "Bangladesh Bank crypto currency circular 2025",
+            "বাংলাদেশ ব্যাংক ক্রিপ্টোকারেন্সি নির্দেশিকা ২০২৫",
+            "Bangladesh crypto tax policy 2025 2026",
+            "BFIU crypto transaction monitoring Bangladesh 2025"
+          ],
+          "confidence": 0.85
+        },
+        {
+          "sector": "crypto-bitcoin",
+          "hypothesis": "P2P crypto trading volumes in Bangladesh have shifted significantly since 2024, with new dominant platforms emerging",
+          "suggested_queries": [
+            "Bangladesh P2P crypto trading volume 2025",
+            "Binance P2P Bangladesh user growth 2025",
+            "OKX Paxful Bangladesh market share 2025",
+            "বাংলাদেশে ক্রিপ্টো লেনদেনের পরিমাণ ২০২৫"
+          ],
+          "confidence": 0.9
+        },
+        {
+          "sector": "clothing-fashion",
+          "hypothesis": "EU GSP+ compliance requirements have been updated for 2025-2026, affecting Bangladesh RMG export conditions",
+          "suggested_queries": [
+            "EU GSP+ Bangladesh RMG requirements 2025 2026",
+            "Bangladesh garment factory compliance update 2025",
+            "Accord on Fire and Building Safety Bangladesh renewal 2025",
+            "BGMEA export policy changes 2025"
+          ],
+          "confidence": 0.8
+        },
+        {
+          "sector": "electronics-gadgets",
+          "hypothesis": "Import duties on electronics and gadgets were revised in the 2025-2026 Bangladesh national budget",
+          "suggested_queries": [
+            "Bangladesh budget 2025 2026 electronics import duty",
+            "NBR customs tariff electronics Bangladesh 2025",
+            "mobile phone import tax Bangladesh 2025 update",
+            "laptop desktop import duty Bangladesh latest"
+          ],
+          "confidence": 0.9
+        },
+        {
+          "sector": "automotive-car-care",
+          "hypothesis": "New EV and hybrid vehicle import policies in 2025 are reshaping the automotive aftermarket and car care market",
+          "suggested_queries": [
+            "Bangladesh EV import policy 2025 2026",
+            "hybrid car tax Bangladesh 2025 update",
+            "automotive aftermarket Bangladesh growth 2025",
+            "car care products import Bangladesh duty 2025"
+          ],
+          "confidence": 0.75
+        },
+        {
+          "sector": "jewellery",
+          "hypothesis": "Bangladesh Bank gold import policy and hallmarking regulations have been updated for 2025",
+          "suggested_queries": [
+            "Bangladesh Bank gold import policy 2025",
+            "jewellery hallmarking mandatory Bangladesh 2025",
+            "gold price Bangladesh BDT 2025 per bhori",
+            "Bajus jewellery association Bangladesh policy update 2025"
+          ],
+          "confidence": 0.8
+        },
+        {
+          "sector": "high-roi-niches",
+          "hypothesis": "Cross-sector digital payment adoption (bKash, Nagad, Upay) is enabling new high-ROI niche opportunities in 2025",
+          "suggested_queries": [
+            "bKash merchant adoption Bangladesh 2025 statistics",
+            "Nagad digital payment growth Bangladesh 2025",
+            "Bangladesh e-commerce niche growth sectors 2025",
+            "high margin online business Bangladesh 2025"
+          ],
+          "confidence": 0.7
+        }
+      ],
+      "high_value_missing_angles": [
+        "Cross-sector digital payment infrastructure analysis — bKash/Nagad/Upay penetration rates and how they enable market access across all sectors",
+        "2025-2026 national budget impact analysis — import duty changes, VAT adjustments, and corporate tax revisions affecting all sectors",
+        "Bangladesh Bank foreign exchange policy updates — LC opening rules, USD liquidity, and remittance impacts on import-dependent sectors",
+        "Social commerce ecosystem mapping — Facebook Shop, TikTok Shop, and Instagram commerce adoption rates and competitor presence verification",
+        "Consumer purchasing power trends — inflation-adjusted disposable income data for 2025 affecting pricing strategies across sectors",
+        "Logistics and last-mile delivery cost evolution — impact of fuel price changes on e-commerce unit economics",
+        "Climate and seasonality risk factors — flooding, heat waves, and their impact on supply chains and consumer behavior by sector",
+        "Labor market and minimum wage updates — RMG sector wage board decisions and spillover effects on other sectors",
+        "China+1 sourcing trend impact — how Bangladesh is benefiting from supply chain diversification and which sectors are gaining",
+        "Digital marketing cost benchmarks — Facebook/Google ad CPM and CPC in Bangladesh market for 2025"
+      ],
+      "recommended_actions": [
+        {
+          "action": "Immediate full refresh of crypto-bitcoin sector — all files (pricing, policy, sentiment, seasonality, competitor profiles) with 2025 data and verified sources",
+          "priority": "P0",
+          "effort": "high"
+        },
+        {
+          "action": "Update all policy files across 6 stale sectors with 2025-2026 regulatory references, citing specific NBR, Bangladesh Bank, and Ministry circulars by number",
+          "priority": "P0",
+          "effort": "high"
+        },
+        {
+          "action": "Refresh all pricing files with current BDT values, exchange rate basis, and date-stamped source attribution",
+          "priority": "P0",
+          "effort": "medium"
+        },
+        {
+          "action": "Verify and update all competitor Facebook/social handles — check functional status, follower counts, and last post dates",
+          "priority": "P1",
+          "effort": "medium"
+        },
+        {
+          "action": "Upgrade evidence confidence — target 70%+ high-confidence ratio by adding primary source citations (government circulars, financial statements, verified market reports)",
+          "priority": "P1",
+          "effort": "high"
+        },
+        {
+          "action": "Add cross-sector trend analysis layer — identify overlapping consumer demographics, payment infrastructure, and regulatory patterns across crypto, electronics, and high-ROI niches",
+          "priority": "P1",
+          "effort": "medium"
+        },
+        {
+          "action": "Add competitor financial source attribution — distinguish between verified financials, estimated ranges, and unverified claims in all competitor profiles",
+          "priority": "P1",
+          "effort": "medium"
+        },
+        {
+          "action": "Create 2025-2026 national budget impact summary and link to all affected sector policy files",
+          "priority": "P2",
+          "effort": "medium"
+        },
+        {
+          "action": "Add digital payment infrastructure penetration data as a cross-cutting data layer available to all sectors",
+          "priority": "P2",
+          "effort": "low"
+        },
+        {
+          "action": "Implement automated freshness monitoring with sector-specific thresholds (crypto: 7 days, pricing: 30 days, policy: aligned to government budget cycle)",
+          "priority": "P2",
+          "effort": "high"
+        }
+      ],
+      "model": "deepseek-ai/deepseek-v4-pro"
     },
     {
       "model": "gpt-5.4",
-      "error": "HTTP Error 308: Permanent Redirect",
+      "error": "HTTP Error 401: Unauthorized",
       "gaps": [],
       "recommendations": []
     }
