@@ -2,8 +2,8 @@
 sector: automotive-car-care
 last_verified: 2026-06-17
 freshness: fresh
-confidence: 0.74
-evidence_ids: ['85b3d8e2-5ac', 'bc51348e-f31', '396f7c46-be4', 'f29b7703-616', 'a4c3106a-73c', 'c4e86d44-8f3', '221467a2-089', '9a841cec-506', '65c9fea6-73f', '56681d87-f83', '84047296-293', 'e3ec4bdc-c46', '09232268-009', 'fd382549-a6d', 'd98222e3-265', '421a1762-18e', 'bf216a21-9d7', 'd8fd47c9-a88', 'd4562c5f-546', '4f96aa11-565']
+confidence: 0.742
+evidence_ids: ['05f8b05c-a12', '08906161-920', '1cbac9fc-47c', '07ebe5a9-378', '6ad870c0-0c2', 'f9267004-29a', '08fa4845-9ed', '60877e7d-5e9', 'a2e6c15d-deb', '14de1e1b-8a9', '110d15f9-405', '5458d331-207', 'fa68b2e9-324', 'aa3cad2a-77b', '9cf67020-8b3', '62acbee2-349', '5543ed09-08b', '0d81fae0-9e2', '607da3e8-700', 'c49006d9-002']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -100,22 +100,23 @@ evidence_ids: ['85b3d8e2-5ac', 'bc51348e-f31', '396f7c46-be4', 'f29b7703-616', '
 
 
 
+
 ## Auto-Updated Data (2026-06-17)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Current Price in Bangladesh | search | 0.70 |
-| Estimated Price of Recondition and Used Car | search | 0.70 |
-| brand new Cars price in Bangladesh | search | 0.70 |
-| low price in Bangladesh | search | 0.70 |
-| car prices in Bangladesh | search | 0.70 |
-| low purchase cost | search | 0.70 |
-| ৳ 1-285000 | search | 0.80 |
-| 320 | search | 1.00 |
-| 500 | search | 1.00 |
-| 550 | search | 1.00 |
-| Meguiars | search | 1.00 |
-| Gyeon Quartz | search | 1.00 |
-| KA-32, 4 Jagannathpur, Saudi Masjid Road, Dhaka 1229, Bangladesh | search | 1.00 |
+| 127 | search | 1.00 |
+| 115.00 | search | 1.00 |
+| 0.94 | search | 1.00 |
+| 1261.7 | search | 1.00 |
+| 154956.5 | search | 1.00 |
+| 349.2 | search | 1.00 |
+| 42886.3 | search | 1.00 |
+| 127 | search | 1.00 |
+| NASPRO Auto Detailing | search | 1.00 |
+| Dhaka, Bangladesh | search | 1.00 |
 | 11-50 | search | 1.00 |
-| JFP Branch - Jamuna Future Park, Basement 1 (B1), Kuril, Vatara, Dhaka - 1229; H | search | 1.00 |
+| Underground Auto Detailing | search | 1.00 |
+| Dhaka | search | 1.00 |
+| 260 | search | 1.00 |
+| 1 | search | 1.00 |

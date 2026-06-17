@@ -109,7 +109,7 @@ def inject_evidence_into_readme(existing: str, sector: str, evidence_items: list
     update_section += "|------|--------|------------|\n"
     
     for f in facts[:15]:  # Top 15 facts
-        fact_text = f.get("fact", f.get("value", str(f)))[:80]
+        fact_text = str(f.get("fact", f.get("value", f)))[:80]
         source = f.get("source_domain", "search")
         conf = f.get("confidence", 0.5)
         update_section += f"| {fact_text} | {source} | {conf:.2f} |\n"
