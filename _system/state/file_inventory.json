@@ -781,8 +781,8 @@
   },
   {
     "path": "data/query_memory.json",
-    "size_bytes": 15508,
-    "last_modified": "2026-06-17T17:36:39.657504+00:00",
+    "size_bytes": 15520,
+    "last_modified": "2026-06-17T20:39:14.970721+00:00",
     "extension": ".json"
   },
   {
@@ -1053,6 +1053,12 @@
     "path": "data/evidence/20260509-075403.json",
     "size_bytes": 89306,
     "last_modified": "2026-05-09T07:55:10.079097+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/evidence/20260617-203914.json",
+    "size_bytes": 118304,
+    "last_modified": "2026-06-17T20:39:14.514709+00:00",
     "extension": ".json"
   },
   {
@@ -1393,38 +1399,38 @@
   },
   {
     "path": "_system/state/file_inventory.json",
-    "size_bytes": 42651,
-    "last_modified": "2026-06-17T17:32:12.117574+00:00",
+    "size_bytes": 42817,
+    "last_modified": "2026-06-17T20:37:22.131963+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/validation_results.json",
     "size_bytes": 363,
-    "last_modified": "2026-06-17T17:36:39.521498+00:00",
+    "last_modified": "2026-06-17T20:39:14.778716+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/audit_results.json",
     "size_bytes": 5650,
-    "last_modified": "2026-06-17T17:32:12.117574+00:00",
+    "last_modified": "2026-06-17T20:37:22.131963+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/last_pipeline_run.json",
     "size_bytes": 421,
-    "last_modified": "2026-06-17T17:36:39.665504+00:00",
+    "last_modified": "2026-06-17T20:39:14.978721+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/freshness_queue.json",
     "size_bytes": 41092,
-    "last_modified": "2026-06-17T17:32:12.185578+00:00",
+    "last_modified": "2026-06-17T20:37:22.243966+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/search_plan.json",
     "size_bytes": 17571,
-    "last_modified": "2026-06-17T17:36:39.433494+00:00",
+    "last_modified": "2026-06-17T20:39:14.670713+00:00",
     "extension": ".json"
   }
 ]
