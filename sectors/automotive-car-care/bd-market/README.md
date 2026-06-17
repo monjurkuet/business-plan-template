@@ -2,8 +2,8 @@
 sector: automotive-car-care
 last_verified: 2026-06-17
 freshness: fresh
-confidence: 0.742
-evidence_ids: ['05f8b05c-a12', '08906161-920', '1cbac9fc-47c', '07ebe5a9-378', '6ad870c0-0c2', 'f9267004-29a', '08fa4845-9ed', '60877e7d-5e9', 'a2e6c15d-deb', '14de1e1b-8a9', '110d15f9-405', '5458d331-207', 'fa68b2e9-324', 'aa3cad2a-77b', '9cf67020-8b3', '62acbee2-349', '5543ed09-08b', '0d81fae0-9e2', '607da3e8-700', 'c49006d9-002']
+confidence: 0.74
+evidence_ids: ['a16e674e-dc6', 'cb525226-025', '16721fa2-7de', '227afe68-e68', '96449bc2-cab', 'e501c993-452', '27809a05-78e', 'f9f2b1c4-38d', '6108d5e6-9a3', '132c0bfe-9a3', '2f0d7519-780', '65db1d57-2eb', '00c72cc9-7e7', 'f2d78c24-784', '92817395-cf7', 'd5829629-603', '90bfd2f0-550', 'a65c64c1-1e6', 'b9a5b2b2-9a4', 'aa4a50f0-c77']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -101,22 +101,23 @@ evidence_ids: ['05f8b05c-a12', '08906161-920', '1cbac9fc-47c', '07ebe5a9-378', '
 
 
 
+
 ## Auto-Updated Data (2026-06-17)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
+| Car Care Products | search | 1.00 |
+| 1-285000 | search | 0.90 |
+| Car Care | search | 1.00 |
+| Dhaka, Bangladesh | search | 1.00 |
 | 127 | search | 1.00 |
-| 115.00 | search | 1.00 |
-| 0.94 | search | 1.00 |
-| 1261.7 | search | 1.00 |
-| 154956.5 | search | 1.00 |
-| 349.2 | search | 1.00 |
-| 42886.3 | search | 1.00 |
-| 127 | search | 1.00 |
+| Toyota cars | search | 1.00 |
+| 2026-2027 | search | 1.00 |
 | NASPRO Auto Detailing | search | 1.00 |
 | Dhaka, Bangladesh | search | 1.00 |
 | 11-50 | search | 1.00 |
-| Underground Auto Detailing | search | 1.00 |
-| Dhaka | search | 1.00 |
-| 260 | search | 1.00 |
-| 1 | search | 1.00 |
+| 260 | search | 0.70 |
+| 1 | search | 0.70 |
+| 25 | search | 0.70 |
+| 2 | search | 0.70 |
+| KA-32, 4 Jagannathpur, Saudi Masjid Road,Dhaka1229, Bangladesh | search | 0.90 |

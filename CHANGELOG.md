@@ -1,5 +1,19 @@
 # Changelog
 
+## 2026-06-17 14:30 UTC
+
+**Repo Audit**: 236 files across 0 sectors
+**Freshness Queue**: 112 items (P0: 48, P1: 56, P2: 8)
+**Searches Executed**: 60 queries
+**Evidence Collected**: 102 items, 61 facts extracted
+**Confidence**: 29 high (>=0.75), avg 0.62
+
+### Sector Breakdown
+- **automotive-car-care**: 66 evidence, 52 facts, avg conf 0.63
+- **clothing-fashion**: 36 evidence, 9 facts, avg conf 0.60
+
+---
+
 ## 2026-06-17 11:22 UTC
 
 **Repo Audit**: 235 files across 0 sectors

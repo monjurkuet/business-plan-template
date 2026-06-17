@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-06-17
 freshness: fresh
-confidence: 0.746
-evidence_ids: ['b67f5fc1-a99', 'a00231c3-42c', '00cc09e1-1af', '861dd39b-222', '25dc69e9-a83', '7b7accfe-62a', '7b23834b-317', '4d4912a7-726', 'b611aaf0-f35', '02d3dcfa-815', '149afa49-eac', '80d0b5d1-b90', '848e7b12-f5f', '7e8bf6c5-093', '7f311843-694', '4f905c3d-385', '66a285b5-bcf', '32abd390-670']
+confidence: 0.75
+evidence_ids: ['e2fc5075-1ea', 'a2e9ef15-d0c', '0e9dd69c-0e4', 'a276c5dc-d0f', '9455029a-8e5', '9c904551-abd', 'f2ca26cd-279', 'b7e70b0b-cf5', '38e53a58-645']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -84,22 +84,17 @@ evidence_ids: ['b67f5fc1-a99', 'a00231c3-42c', '00cc09e1-1af', '861dd39b-222', '
 
 
 
+
 ## Auto-Updated Data (2026-06-17)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Tyzo | search | 1.00 |
 | 1200 | search | 1.00 |
-| Starting from 1200 BDT | search | 1.00 |
-| Mbrella | search | 1.00 |
-| Mondol Group | search | 1.00 |
-| JamaKapor | search | 1.00 |
-| Sailor | search | 1.00 |
-| Epyllion Group | search | 1.00 |
-| nominal prices edged up | search | 0.90 |
-| 100 | search | 0.80 |
-| 300 - 1000 | search | 0.80 |
-| up to 3000 | search | 0.80 |
-| 1,490 | search | 0.90 |
-| Top Ten Mart Ltd. | search | 1.00 |
+| Tyzo | search | 1.00 |
+| Twelve Clothing | search | 1.00 |
+| Easy Fashion Ltd. | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| across the country | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| Bangladesh | search | 1.00 |
 | Bangladesh | search | 1.00 |
