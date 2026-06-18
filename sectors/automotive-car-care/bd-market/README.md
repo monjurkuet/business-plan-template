@@ -1,9 +1,9 @@
 ---
 sector: automotive-car-care
-last_verified: 2026-06-18
+last_verified: 2026-06-19
 freshness: fresh
-confidence: 0.739
-evidence_ids: ['bd303f29-7f7', 'a5d8d176-1d1', '09dd4e89-65f', '20fa4eb7-3d5', 'cd5b1c50-2ed', 'c686ba0e-693', 'ab5200b4-f39', '8d1d13fb-354', 'dc694074-17f', 'f2a8ce46-9da', 'bd97095a-413', 'e8dab1d2-f57', '007c6775-358', '07a20d80-bec', '8d97f23c-1c1', '0d9aff86-c4b', '072b1932-8b8', '01f43108-f85', '863af83b-bf9', '84e3a2ea-6da']
+confidence: 0.743
+evidence_ids: ['7e890195-e0e', '2bbfc488-4d4', 'd09a4d16-9bc', '9aa1329d-a6c', '0b8d8566-a8d', 'dc3f1445-45b', '089ba714-332', '1d4c672f-28d', 'cacb464e-e7f', '2124ce09-ce4', 'dd9f5444-031', 'd5b76ae3-988', 'df85b46b-1f8', '4ce77812-5bd', '40dd5a6f-f87', '39bea200-08c', 'f482fcbe-93f', '9fe6cd6b-574', 'da8a703a-33e', '3d9bf566-b81']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -103,22 +103,23 @@ evidence_ids: ['bd303f29-7f7', 'a5d8d176-1d1', '09dd4e89-65f', '20fa4eb7-3d5', '
 
 
 
-## Auto-Updated Data (2026-06-18)
+
+## Auto-Updated Data (2026-06-19)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Current Price in Bangladesh | search | 0.70 |
-| Estimated Price of Recondition and Used Car | search | 0.70 |
+| Current Price in Bangladesh | search | 0.80 |
 | Brand New Cars price in Bangladesh | search | 0.80 |
-| low price | search | 0.80 |
+| low price | search | 0.70 |
 | 1-285000 | search | 0.80 |
 | low purchase cost | search | 0.70 |
-| Microfiber Towel | search | 0.80 |
-| Scratch-free cleaning | search | 0.80 |
-| High absorbency | search | 0.80 |
-| Streak-free finish | search | 0.80 |
-| BD Auto Tips: Your Ultimate Guide to Smart and Safe Driving in Bangladesh | search | 0.70 |
-| Average prices of more than 40 products and services in Bangladesh | search | 0.80 |
-| Prices of restaurants, food, transportation, utilities and housing | search | 0.80 |
-| Sony TV | search | 0.90 |
-| 61,100 to 10,86,000 | search | 0.90 |
+| 2026-02-05 | search | 1.00 |
+| 320 | search | 1.00 |
+| 500 | search | 1.00 |
+| Underground Auto Detailing | search | 1.00 |
+| BR Auto Detailing | search | 1.00 |
+| 01978783590 | search | 1.00 |
+| CarProBangladesh, Drive Boosted, CarXBangladesh, Auto Mania, Continental Works,  | search | 1.00 |
+| The Garage Auto Detailing | search | 1.00 |
+| 01602-261789 | search | 1.00 |
+| NASPRO Auto Detailing | search | 1.00 |
