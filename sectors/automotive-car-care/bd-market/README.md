@@ -1,9 +1,9 @@
 ---
 sector: automotive-car-care
-last_verified: 2026-06-17
+last_verified: 2026-06-18
 freshness: fresh
-confidence: 0.74
-evidence_ids: ['a16e674e-dc6', 'cb525226-025', '16721fa2-7de', '227afe68-e68', '96449bc2-cab', 'e501c993-452', '27809a05-78e', 'f9f2b1c4-38d', '6108d5e6-9a3', '132c0bfe-9a3', '2f0d7519-780', '65db1d57-2eb', '00c72cc9-7e7', 'f2d78c24-784', '92817395-cf7', 'd5829629-603', '90bfd2f0-550', 'a65c64c1-1e6', 'b9a5b2b2-9a4', 'aa4a50f0-c77']
+confidence: 0.739
+evidence_ids: ['bd303f29-7f7', 'a5d8d176-1d1', '09dd4e89-65f', '20fa4eb7-3d5', 'cd5b1c50-2ed', 'c686ba0e-693', 'ab5200b4-f39', '8d1d13fb-354', 'dc694074-17f', 'f2a8ce46-9da', 'bd97095a-413', 'e8dab1d2-f57', '007c6775-358', '07a20d80-bec', '8d97f23c-1c1', '0d9aff86-c4b', '072b1932-8b8', '01f43108-f85', '863af83b-bf9', '84e3a2ea-6da']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -102,22 +102,23 @@ evidence_ids: ['a16e674e-dc6', 'cb525226-025', '16721fa2-7de', '227afe68-e68', '
 
 
 
-## Auto-Updated Data (2026-06-17)
+
+## Auto-Updated Data (2026-06-18)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Car Care Products | search | 1.00 |
-| 1-285000 | search | 0.90 |
-| Car Care | search | 1.00 |
-| Dhaka, Bangladesh | search | 1.00 |
-| 127 | search | 1.00 |
-| Toyota cars | search | 1.00 |
-| 2026-2027 | search | 1.00 |
-| NASPRO Auto Detailing | search | 1.00 |
-| Dhaka, Bangladesh | search | 1.00 |
-| 11-50 | search | 1.00 |
-| 260 | search | 0.70 |
-| 1 | search | 0.70 |
-| 25 | search | 0.70 |
-| 2 | search | 0.70 |
-| KA-32, 4 Jagannathpur, Saudi Masjid Road,Dhaka1229, Bangladesh | search | 0.90 |
+| Current Price in Bangladesh | search | 0.70 |
+| Estimated Price of Recondition and Used Car | search | 0.70 |
+| Brand New Cars price in Bangladesh | search | 0.80 |
+| low price | search | 0.80 |
+| 1-285000 | search | 0.80 |
+| low purchase cost | search | 0.70 |
+| Microfiber Towel | search | 0.80 |
+| Scratch-free cleaning | search | 0.80 |
+| High absorbency | search | 0.80 |
+| Streak-free finish | search | 0.80 |
+| BD Auto Tips: Your Ultimate Guide to Smart and Safe Driving in Bangladesh | search | 0.70 |
+| Average prices of more than 40 products and services in Bangladesh | search | 0.80 |
+| Prices of restaurants, food, transportation, utilities and housing | search | 0.80 |
+| Sony TV | search | 0.90 |
+| 61,100 to 10,86,000 | search | 0.90 |

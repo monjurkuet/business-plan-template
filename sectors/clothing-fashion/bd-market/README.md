@@ -1,9 +1,9 @@
 ---
 sector: clothing-fashion
-last_verified: 2026-06-17
+last_verified: 2026-06-18
 freshness: fresh
 confidence: 0.75
-evidence_ids: ['e2fc5075-1ea', 'a2e9ef15-d0c', '0e9dd69c-0e4', 'a276c5dc-d0f', '9455029a-8e5', '9c904551-abd', 'f2ca26cd-279', 'b7e70b0b-cf5', '38e53a58-645']
+evidence_ids: ['4d3051ac-fed', 'b68a6dfb-f84', 'bee8cf4c-caf']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -85,16 +85,12 @@ evidence_ids: ['e2fc5075-1ea', 'a2e9ef15-d0c', '0e9dd69c-0e4', 'a276c5dc-d0f', '
 
 
 
-## Auto-Updated Data (2026-06-17)
+
+## Auto-Updated Data (2026-06-18)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 1200 | search | 1.00 |
 | Tyzo | search | 1.00 |
 | Twelve Clothing | search | 1.00 |
-| Easy Fashion Ltd. | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| across the country | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| Bangladesh | search | 1.00 |
+| Sailor | search | 1.00 |
+| Epyllion Group | search | 1.00 |
