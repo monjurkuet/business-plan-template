@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T14:10:04.529811+00:00",
+  "generated_at": "2026-06-23T17:13:51.395500+00:00",
   "models_used": [
     "gemini-2.5-flash-lite",
     "deepseek-ai/deepseek-v4-pro",
@@ -496,7 +496,7 @@
       "sector": "automotive-car-care",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "File age 47d exceeds freshness threshold for competitor_core_profile",
+      "reason": "File age 48d exceeds freshness threshold for competitor_core_profile",
       "source_model": "freshness_policy"
     },
     {
@@ -504,7 +504,7 @@
       "sector": "automotive-car-care",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "File age 47d exceeds freshness threshold for competitor_core_profile",
+      "reason": "File age 48d exceeds freshness threshold for competitor_core_profile",
       "source_model": "freshness_policy"
     }
   ]
