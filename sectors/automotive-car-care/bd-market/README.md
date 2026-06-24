@@ -1,9 +1,9 @@
 ---
 sector: automotive-car-care
-last_verified: 2026-06-19
+last_verified: 2026-06-24
 freshness: fresh
-confidence: 0.743
-evidence_ids: ['7e890195-e0e', '2bbfc488-4d4', 'd09a4d16-9bc', '9aa1329d-a6c', '0b8d8566-a8d', 'dc3f1445-45b', '089ba714-332', '1d4c672f-28d', 'cacb464e-e7f', '2124ce09-ce4', 'dd9f5444-031', 'd5b76ae3-988', 'df85b46b-1f8', '4ce77812-5bd', '40dd5a6f-f87', '39bea200-08c', 'f482fcbe-93f', '9fe6cd6b-574', 'da8a703a-33e', '3d9bf566-b81']
+confidence: 0.744
+evidence_ids: ['4ca4248b-2b6', 'cb442b48-1a6', '02c6650d-3db', '94a3a5c5-71e', '7e6ec531-036', '59ccf632-045', '95125c50-a96', '870d048c-044', 'a97183dd-66d', '044eab99-22f', '28ad1c12-ff6', '3f304c12-9f6', '0fff5896-4ca', 'c2d1522c-862', '7e1c0774-eb8', 'a0b9b96d-90e', '3722fa3e-3cb', 'c7b54dc6-bbe', 'b3ed7581-089', '76f80734-583']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -104,22 +104,23 @@ evidence_ids: ['7e890195-e0e', '2bbfc488-4d4', 'd09a4d16-9bc', '9aa1329d-a6c', '
 
 
 
-## Auto-Updated Data (2026-06-19)
+
+## Auto-Updated Data (2026-06-24)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Current Price in Bangladesh | search | 0.80 |
-| Brand New Cars price in Bangladesh | search | 0.80 |
-| low price | search | 0.70 |
-| 1-285000 | search | 0.80 |
-| low purchase cost | search | 0.70 |
-| 2026-02-05 | search | 1.00 |
-| 320 | search | 1.00 |
-| 500 | search | 1.00 |
-| Underground Auto Detailing | search | 1.00 |
-| BR Auto Detailing | search | 1.00 |
-| 01978783590 | search | 1.00 |
-| CarProBangladesh, Drive Boosted, CarXBangladesh, Auto Mania, Continental Works,  | search | 1.00 |
-| The Garage Auto Detailing | search | 1.00 |
-| 01602-261789 | search | 1.00 |
-| NASPRO Auto Detailing | search | 1.00 |
+| @carcarebangladesh | search | 1.00 |
+| 27 | search | 1.00 |
+| 186 | search | 1.00 |
+| 8 | search | 1.00 |
+| Car Care | search | 1.00 |
+| Dhaka, Bangladesh | search | 1.00 |
+| 127 | search | 1.00 |
+| 115.00 | search | 1.00 |
+| 0.93 | search | 1.00 |
+| Car Care | search | 1.00 |
+| Dhaka, Bangladesh | search | 1.00 |
+| 127 | search | 1.00 |
+| Car Care BD | search | 1.00 |
+| Dhaka, Bangladesh | search | 1.00 |
+| +880 1849-614971 | search | 1.00 |

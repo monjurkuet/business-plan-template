@@ -1,9 +1,9 @@
 ---
 sector: clothing-fashion
-last_verified: 2026-06-19
+last_verified: 2026-06-24
 freshness: fresh
-confidence: 0.73
-evidence_ids: ['9403ee62-6a4', '772a5a45-770', 'd0c9f56e-705', '08fc5a75-655', '6969d510-074', '0281151d-f0f']
+confidence: 0.75
+evidence_ids: ['a26c5340-103', '646cfc5d-316', '78fc8637-fb9', '0e6461b7-e5e']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -87,14 +87,18 @@ evidence_ids: ['9403ee62-6a4', '772a5a45-770', 'd0c9f56e-705', '08fc5a75-655', '
 
 
 
-## Auto-Updated Data (2026-06-19)
+
+## Auto-Updated Data (2026-06-24)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 450 - 540 | search | 1.00 |
-| 53000+ | search | 1.00 |
-| 550+ | search | 1.00 |
-| 1200 | search | 0.90 |
-| 350 | search | 0.90 |
-| reasonable | search | 0.70 |
-| affordable | search | 0.70 |
+| 100 | search | 1.00 |
+| 300-1000 | search | 1.00 |
+| up to 3000 | search | 1.00 |
+| 161 | search | 1.00 |
+| 1490 | search | 1.00 |
+| 32 | search | 1.00 |
+| Sailor | search | 1.00 |
+| Epyllion Group | search | 1.00 |
+| sailor.clothing | search | 1.00 |
+| H&M | search | 1.00 |

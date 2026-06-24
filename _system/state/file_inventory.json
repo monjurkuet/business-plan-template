@@ -781,8 +781,8 @@
   },
   {
     "path": "data/query_memory.json",
-    "size_bytes": 12205,
-    "last_modified": "2026-06-24T02:28:18.594690+00:00",
+    "size_bytes": 11446,
+    "last_modified": "2026-06-24T05:33:32.316180+00:00",
     "extension": ".json"
   },
   {
@@ -927,6 +927,12 @@
     "path": "data/evidence/20260522-233558.json",
     "size_bytes": 87714,
     "last_modified": "2026-05-22T23:35:58.996382+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/evidence/20260624-053331.json",
+    "size_bytes": 83641,
+    "last_modified": "2026-06-24T05:33:31.888166+00:00",
     "extension": ".json"
   },
   {
@@ -1507,38 +1513,38 @@
   },
   {
     "path": "_system/state/file_inventory.json",
-    "size_bytes": 45811,
-    "last_modified": "2026-06-24T02:23:45.525272+00:00",
+    "size_bytes": 45977,
+    "last_modified": "2026-06-24T05:30:08.045736+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/validation_results.json",
     "size_bytes": 363,
-    "last_modified": "2026-06-24T02:28:18.446687+00:00",
+    "last_modified": "2026-06-24T05:33:32.172175+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/audit_results.json",
     "size_bytes": 5650,
-    "last_modified": "2026-06-24T02:23:45.525272+00:00",
+    "last_modified": "2026-06-24T05:30:08.045736+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/last_pipeline_run.json",
     "size_bytes": 421,
-    "last_modified": "2026-06-24T02:28:18.606690+00:00",
+    "last_modified": "2026-06-24T05:33:32.324180+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/freshness_queue.json",
     "size_bytes": 40996,
-    "last_modified": "2026-06-24T02:23:45.593274+00:00",
+    "last_modified": "2026-06-24T05:30:08.113738+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/search_plan.json",
     "size_bytes": 17623,
-    "last_modified": "2026-06-24T02:28:18.346685+00:00",
+    "last_modified": "2026-06-24T05:33:32.056172+00:00",
     "extension": ".json"
   }
 ]
