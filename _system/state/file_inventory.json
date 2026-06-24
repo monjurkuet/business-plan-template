@@ -781,8 +781,8 @@
   },
   {
     "path": "data/query_memory.json",
-    "size_bytes": 11449,
-    "last_modified": "2026-06-24T08:41:27.808452+00:00",
+    "size_bytes": 11063,
+    "last_modified": "2026-06-24T11:45:07.118849+00:00",
     "extension": ".json"
   },
   {
@@ -1029,6 +1029,12 @@
     "path": "data/evidence/20260522-201731.json",
     "size_bytes": 99525,
     "last_modified": "2026-05-22T20:17:31.557558+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/evidence/20260624-114504.json",
+    "size_bytes": 54706,
+    "last_modified": "2026-06-24T11:45:06.754840+00:00",
     "extension": ".json"
   },
   {
@@ -1519,38 +1525,38 @@
   },
   {
     "path": "_system/state/file_inventory.json",
-    "size_bytes": 46143,
-    "last_modified": "2026-06-24T08:34:39.304336+00:00",
+    "size_bytes": 46309,
+    "last_modified": "2026-06-24T11:42:40.187067+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/validation_results.json",
     "size_bytes": 363,
-    "last_modified": "2026-06-24T08:41:27.672444+00:00",
+    "last_modified": "2026-06-24T11:45:06.970845+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/audit_results.json",
     "size_bytes": 5650,
-    "last_modified": "2026-06-24T08:34:39.304336+00:00",
+    "last_modified": "2026-06-24T11:42:40.187067+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/last_pipeline_run.json",
     "size_bytes": 421,
-    "last_modified": "2026-06-24T08:41:27.812453+00:00",
+    "last_modified": "2026-06-24T11:45:07.126850+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/freshness_queue.json",
     "size_bytes": 40996,
-    "last_modified": "2026-06-24T08:34:41.488461+00:00",
+    "last_modified": "2026-06-24T11:42:40.255068+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/search_plan.json",
-    "size_bytes": 21373,
-    "last_modified": "2026-06-24T08:41:25.500316+00:00",
+    "size_bytes": 17623,
+    "last_modified": "2026-06-24T11:45:06.878843+00:00",
     "extension": ".json"
   }
 ]
