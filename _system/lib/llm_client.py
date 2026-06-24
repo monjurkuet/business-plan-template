@@ -1,17 +1,80 @@
-"""OpenAI-compatible LLM client using the Datasolved endpoint."""
+"""OpenAI-compatible LLM client using the Datasolved or local gateway endpoint.
 
+Handles 308 redirects (Python's urllib doesn't by default), strips SSE
+streaming artifacts (data: [DONE]) from local gateway responses, and
+normalizes model names across providers.
+"""
+
+import io
 import json
 import logging
 import os
 import time
 import urllib.error
+import urllib.parse
 import urllib.request
+import re
 from pathlib import Path
+from http.client import HTTPResponse
 
 log = logging.getLogger("llm_client")
 
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 CRON_ENV_PATH = REPO_ROOT / "_system" / "config" / "cron.env"
+
+
+# ---------------------------------------------------------------------------
+# Custom redirect handler to support HTTP 308 (Permanent Redirect, preserve
+# method).  Python 3.11's urllib HTTPRedirectHandler handles 301/302/303/307
+# but NOT 308, causing HTTPError on gateway routers that issue 308 to
+# re-route POST traffic.
+# ---------------------------------------------------------------------------
+class _HTTP308RedirectHandler(urllib.request.HTTPRedirectHandler):
+    """Follow HTTP 308 (Permanent Redirect) preserving POST method.
+
+    Python 3.11's HTTPRedirectHandler doesn't handle 308 — when aliased
+    via ``http_error_308 = http_error_307`` the downstream
+    ``redirect_request()`` rejects it because 308 is not in its allowed
+    code list.  We provide an explicit handler here.
+    """
+
+    def http_error_308(self, req, fp, code, msg, headers):
+        if fp:
+            fp.read()
+            fp.close()
+        newurl = headers.get('Location')
+        if newurl is None:
+            raise urllib.error.HTTPError(req.full_url, code, msg, headers, fp)
+        # Resolve relative Location headers against the original URL
+        newurl = urllib.parse.urljoin(req.full_url, newurl)
+        # Preserve POST method + data for 308 permanent redirect
+        new = urllib.request.Request(
+            newurl,
+            data=req.data,
+            headers=req.headers,
+            origin_req_host=getattr(req, 'origin_req_host', None),
+            unverifiable=True,
+            method=req.get_method(),
+        )
+        return self.parent.open(new, timeout=req.timeout)
+
+
+# Install at module import time so ALL urllib.request.urlopen() calls in this
+# process benefit (including calls from other scripts that import llm_client).
+urllib.request.install_opener(urllib.request.build_opener(_HTTP308RedirectHandler))
+
+
+# ---------------------------------------------------------------------------
+# Some local gateways append SSE streaming artifacts (``data: [DONE]``) to
+# the response body even when streaming is not requested.  Strip trailing
+# SSE tokens before JSON parsing so these endpoints work transparently.
+# ---------------------------------------------------------------------------
+_STREAMING_ARTIFACT_RE = re.compile(r'[\n\r]*data:\s*\[DONE\]\s*$', re.MULTILINE)
+
+
+def _strip_streaming_artifacts(raw: str) -> str:
+    """Remove trailing SSE streaming tokens (``data: [DONE]`` etc)."""
+    return _STREAMING_ARTIFACT_RE.sub('', raw.strip()).strip()
 
 
 def _load_env_file(path: Path = CRON_ENV_PATH) -> dict[str, str]:
@@ -77,6 +140,8 @@ DEFAULT_MODEL_ALIASES = {
     "gemini-2.5-flash-lite-preview": "gemini-2.5-flash-lite",
     "gemini-3.1-flash-lite": "gemini-3.1-flash-lite-preview",
     "deepseek/deepseek-v4-pro": "deepseek-ai/deepseek-v4-pro",
+    "mistral/mistral-large-latest": "mistral/mistral-large-latest",
+    "mistralai/mistral-large": "mistral/mistral-large-latest",
 }
 
 RETRYABLE_HTTP_STATUS_CODES = {429, 500, 502, 503, 504}
@@ -254,7 +319,10 @@ def call_llm(
 
         try:
             with _urlopen_with_retry(req, timeout=timeout) as resp:
-                data = json.loads(resp.read().decode())
+                raw_body = resp.read().decode()
+            # Strip trailing SSE streaming artifacts (local gateways)
+            raw_body = _strip_streaming_artifacts(raw_body)
+            data = json.loads(raw_body)
 
             content = data["choices"][0]["message"]["content"]
             usage = data.get("usage", {})

@@ -19,6 +19,26 @@ ENDPOINTS = {
 
 log = logging.getLogger("search_client")
 
+# Install 308 redirect handler (idempotent)
+
+class _SearchHTTP308Handler(urllib.request.HTTPRedirectHandler):
+    def http_error_308(self, req, fp, code, msg, headers):
+        if fp:
+            fp.read()
+            fp.close()
+        newurl = headers.get('Location')
+        if newurl is None:
+            raise urllib.error.HTTPError(req.full_url, code, msg, headers, fp)
+        newurl = urllib.parse.urljoin(req.full_url, newurl)
+        new = urllib.request.Request(
+            newurl, data=req.data, headers=req.headers,
+            origin_req_host=getattr(req, 'origin_req_host', None),
+            unverifiable=True, method=req.get_method(),
+        )
+        return self.parent.open(new, timeout=req.timeout)
+
+urllib.request.install_opener(urllib.request.build_opener(_SearchHTTP308Handler))
+
 
 def search_text(query: str, max_results: int = 15, region: str = "bd-bn", **kwargs) -> list[dict]:
     """Search DuckDuckGo via the datasolved API — text results."""

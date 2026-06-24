@@ -2,8 +2,8 @@
 sector: automotive-car-care
 last_verified: 2026-06-24
 freshness: fresh
-confidence: 0.744
-evidence_ids: ['4ca4248b-2b6', 'cb442b48-1a6', '02c6650d-3db', '94a3a5c5-71e', '7e6ec531-036', '59ccf632-045', '95125c50-a96', '870d048c-044', 'a97183dd-66d', '044eab99-22f', '28ad1c12-ff6', '3f304c12-9f6', '0fff5896-4ca', 'c2d1522c-862', '7e1c0774-eb8', 'a0b9b96d-90e', '3722fa3e-3cb', 'c7b54dc6-bbe', 'b3ed7581-089', '76f80734-583']
+confidence: 0.745
+evidence_ids: ['342d8833-0b0', '7b187a04-323', '398bca6f-3f9', 'f11124da-72a', '4d9a9444-5d4', '5671990e-34a', 'b69b8a5f-244', 'c2906a01-b9b', '1bc22c81-09e', '16820ad6-d0e', 'e689b0fb-ccd', 'efaea55a-dcc', 'f08bf566-8fe', '412df818-ffd', '7e476ea5-f41', '6614b8d7-81e', 'f5d75ad1-99f', 'ceb3619e-2eb', '77fc5863-4f8', '0aead655-53b']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -105,22 +105,23 @@ evidence_ids: ['4ca4248b-2b6', 'cb442b48-1a6', '02c6650d-3db', '94a3a5c5-71e', '
 
 
 
+
 ## Auto-Updated Data (2026-06-24)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| @carcarebangladesh | search | 1.00 |
-| 27 | search | 1.00 |
-| 186 | search | 1.00 |
-| 8 | search | 1.00 |
-| Car Care | search | 1.00 |
-| Dhaka, Bangladesh | search | 1.00 |
-| 127 | search | 1.00 |
-| 115.00 | search | 1.00 |
-| 0.93 | search | 1.00 |
-| Car Care | search | 1.00 |
-| Dhaka, Bangladesh | search | 1.00 |
-| 127 | search | 1.00 |
-| Car Care BD | search | 1.00 |
-| Dhaka, Bangladesh | search | 1.00 |
-| +880 1849-614971 | search | 1.00 |
+| Dashboard Wax Spray (GS-90Car) | search | 0.95 |
+| 850.00 | search | 0.95 |
+| 799.00 | search | 0.95 |
+| Direct import of car gadgets and accessories | search | 0.90 |
+| Hotshot Automotive | search | 0.95 |
+| Online car parts and accessories shop | search | 0.95 |
+| ['automotive parts', 'car accessories', 'auto spare parts', 'lubricants'] | search | 0.90 |
+| CARALL | search | 0.95 |
+| Car air fresheners | search | 0.90 |
+| My Romance Car Air Freshner | search | 0.90 |
+| Available at CarCare Bangladesh | search | 0.90 |
+| My Romance Car Air Freshner | search | 0.95 |
+| CarCareBangladesh | search | 0.95 |
+| Scratch-free cleaning – Ultra-soft fibers prevent swirl marks and scratches | search | 0.90 |
+| High absorbency – Holds more water and dries surfaces faster | search | 0.90 |

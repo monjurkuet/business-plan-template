@@ -26,7 +26,7 @@ LLM_MODELS_ENDPOINT = DEFAULT_BASE_URL
 MODEL_FALLBACKS = {
     "breadth_scan": ["gemini-2.5-flash-lite", "gpt-5.4-mini"],
     "deep_analysis": ["deepseek-ai/deepseek-v4-pro", "deepseek-ai/deepseek-r1-distill-qwen-32b", "gpt-5.4-mini"],
-    "synthesis": ["gpt-5.4", "gpt-5.5", "gpt-5.4-mini"],
+    "synthesis": ["mistral/mistral-large-latest", "gpt-5.4", "gpt-5.5", "gpt-5.4-mini"],
     "trend_gap": ["gemini-3.1-flash-lite-preview", "gemini-3-flash-preview", "gemini-2.5-flash-lite"],
 }
 
@@ -56,7 +56,7 @@ def resolve_review_models(routing: dict) -> list[str]:
     """Resolve review models against the provider and fall back to known-good aliases."""
     available = list_available_models()
     resolved = []
-    for key, default in (("breadth_scan", "gemini-2.5-flash-lite"), ("deep_analysis", "gpt-5.4-mini"), ("synthesis", "gpt-5.4")):
+    for key, default in (("breadth_scan", "gemini-2.5-flash-lite"), ("deep_analysis", "gpt-5.4-mini"), ("synthesis", "mistral/mistral-large-latest")):
         cfg = routing.get(key, {})
         configured = cfg.get("model", default)
         config_fallbacks = cfg.get("fallback_models", []) if isinstance(cfg.get("fallback_models", []), list) else []
@@ -133,7 +133,7 @@ def review_with_model(model: str, context: str) -> dict:
         )
     except Exception as ex:
         msg = str(ex)
-        if "404" in msg and model in MODEL_FALLBACKS:
+        if ("404" in msg or "308" in msg) and model in MODEL_FALLBACKS:
             for fallback in MODEL_FALLBACKS[model]:
                 if fallback == model:
                     continue

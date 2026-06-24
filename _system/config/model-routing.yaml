@@ -55,8 +55,9 @@ review_models:
       - recommended_search_angles
 
   synthesis:
-    model: "gpt-5.4"
+    model: "mistral/mistral-large-latest"
     fallback_models:
+      - "mistral/mistral-large-latest"
       - "gpt-5.4"
       - "gpt-5.5"
       - "gpt-5.4-mini"

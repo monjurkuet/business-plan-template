@@ -18,9 +18,10 @@ from lib.config_loader import now_iso, DATA_DIR
 from lib.llm_client import call_llm_json, load_prompt
 
 MODEL_FALLBACKS = [
-    "gemini-2.5-flash-lite",
-    "gemini-2.5-flash-lite",
+    "mistral/mistral-large-latest",
+    "mistral/mistral-large-latest",
     "gpt-5.4-mini",
+    "gemini-2.5-flash-lite",
 ]
 
 
@@ -32,9 +33,10 @@ def _call_llm_json_with_fallback(messages: list[dict], model: str, temperature: 
             return call_llm_json(messages, model=candidate, temperature=temperature, max_tokens=max_tokens)
         except Exception as ex:
             last_ex = ex
-            if "404" not in str(ex):
+            msg = str(ex)
+            if "404" not in msg and "308" not in msg:
                 raise
-            log.warning(f"Model {candidate} returned 404; trying next fallback")
+            log.warning(f"Model {candidate} returned error ({type(ex).__name__}); trying next fallback")
     if last_ex:
         raise last_ex
     raise RuntimeError("No LLM model candidates available")
@@ -66,7 +68,7 @@ Snippet: {e.get('snippet', 'N/A')[:500]}
     return prompt + "\n\n## Search Results to Process\n\n" + "\n".join(items)
 
 
-def extract_batch(evidence_batch: list[dict], model: str = "gemini-2.5-flash-lite") -> list[dict]:
+def extract_batch(evidence_batch: list[dict], model: str = "mistral/mistral-large-latest") -> list[dict]:
     """Extract facts from a batch of evidence items using LLM."""
     if not evidence_batch:
         return []
