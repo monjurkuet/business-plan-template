@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-06-24
 freshness: fresh
-confidence: 0.744
-evidence_ids: ['2d900dd0-48a', '0203b0eb-7f8', '3a0bdefb-703', '837e2940-fb7', '37e59663-3cb', '3279064c-5a4', 'c50bc2b6-c93', '1a2188de-087', '3a6299f9-98b', '224e23e8-ead', '59419ccd-1d9', '37dce46a-782']
+confidence: 0.749
+evidence_ids: ['ebb57241-8fc', '9b79d0fd-7ae', '43aa2533-a4c', 'f850805c-b33', '151ab66f-b31', '79f4bb4c-c41']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -89,22 +89,23 @@ evidence_ids: ['2d900dd0-48a', '0203b0eb-7f8', '3a0bdefb-703', '837e2940-fb7', '
 
 
 
+
 ## Auto-Updated Data (2026-06-24)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| modern Bangladeshi clothing brand offering stylish, comfortable, and affordable  | search | 1.00 |
-| fast delivery, reliable service across Bangladesh | search | 1.00 |
-| Sailor | search | 1.00 |
-| one of the best fashion retail brands in Bangladesh | search | 1.00 |
-| trendy menswear, womenswear, kidswear, lifestyle essentials | search | 1.00 |
-| Epyllion Group | search | 1.00 |
-| sailor.clothing | search | 1.00 |
+| Tyzo | search | 1.00 |
+| clothing-fashion | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| Twelve Clothing | search | 1.00 |
+| clothing-fashion | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| menswear, womenswear, kidswear, panjabi, kurti, gowns, t-shirts, polos | search | 1.00 |
 | JamaKapor | search | 1.00 |
-| Bangladesh's largest online fashion store | search | 1.00 |
-| clothes, dresses, shoes for men, women & kids | search | 1.00 |
-| best prices in home delivery | search | 1.00 |
-| Gentle Park | search | 1.00 |
-| stylish clothing, accessories for men and women | search | 1.00 |
-| quality fashion delivered across Bangladesh | search | 1.00 |
-| 350 | search | 0.95 |
+| clothing-fashion | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| Bangladesh's largest online fashion store | search | 0.90 |
+| Sailor | search | 1.00 |
+| clothing-fashion | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| menswear, womenswear, kidswear, lifestyle essentials | search | 1.00 |

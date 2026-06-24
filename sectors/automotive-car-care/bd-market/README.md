@@ -3,7 +3,7 @@ sector: automotive-car-care
 last_verified: 2026-06-24
 freshness: fresh
 confidence: 0.745
-evidence_ids: ['342d8833-0b0', '7b187a04-323', '398bca6f-3f9', 'f11124da-72a', '4d9a9444-5d4', '5671990e-34a', 'b69b8a5f-244', 'c2906a01-b9b', '1bc22c81-09e', '16820ad6-d0e', 'e689b0fb-ccd', 'efaea55a-dcc', 'f08bf566-8fe', '412df818-ffd', '7e476ea5-f41', '6614b8d7-81e', 'f5d75ad1-99f', 'ceb3619e-2eb', '77fc5863-4f8', '0aead655-53b']
+evidence_ids: ['76c4665c-352', 'a77ccad4-a9a', 'b2bf7d55-ee3', '1f3521de-b2a', '5402508f-63e', '34de3eeb-770', '794f19c0-6a6', 'b0036117-64b', '011a2b2f-e5a', '168db6f9-116', '4c77ca6f-b1e', '33900c0b-e58', 'fdd32acf-249', '7a47c749-395', '4cb7b331-f5a', '4d6bcec7-273', '54d1d0db-42e', '440c9475-49d', 'd3de0a0d-e50', 'c6ce3b77-2d2']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -106,22 +106,23 @@ evidence_ids: ['342d8833-0b0', '7b187a04-323', '398bca6f-3f9', 'f11124da-72a', '
 
 
 
+
 ## Auto-Updated Data (2026-06-24)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Dashboard Wax Spray (GS-90Car) | search | 0.95 |
-| 850.00 | search | 0.95 |
-| 799.00 | search | 0.95 |
-| Direct import of car gadgets and accessories | search | 0.90 |
-| Hotshot Automotive | search | 0.95 |
-| Online car parts and accessories shop | search | 0.95 |
-| ['automotive parts', 'car accessories', 'auto spare parts', 'lubricants'] | search | 0.90 |
-| CARALL | search | 0.95 |
-| Car air fresheners | search | 0.90 |
-| My Romance Car Air Freshner | search | 0.90 |
-| Available at CarCare Bangladesh | search | 0.90 |
-| My Romance Car Air Freshner | search | 0.95 |
-| CarCareBangladesh | search | 0.95 |
-| Scratch-free cleaning – Ultra-soft fibers prevent swirl marks and scratches | search | 0.90 |
-| High absorbency – Holds more water and dries surfaces faster | search | 0.90 |
+| Gasoline (Petrol), Diesel, LPG, Kerosene, Heating Oil | search | 0.90 |
+| BDT | search | 1.00 |
+| Litre, Barrel, Gallon | search | 0.90 |
+| restaurants, food, transportation, utilities, housing | search | 0.90 |
+| UndergroundAuto Detailing | search | 0.95 |
+| Dhaka | search | 1.00 |
+| car detailing, car wash | search | 0.90 |
+| BR Auto Detailing | search | 0.95 |
+| Dhaka | search | 1.00 |
+| car wash, detailing | search | 0.90 |
+| 01978783590 | search | 0.95 |
+| ['CarProBangladesh', 'Drive Boosted', 'CarXBangladesh', 'Auto Mania', 'Continent | search | 0.95 |
+| Dhaka | search | 1.00 |
+| auto detailing | search | 0.90 |
+| The Garage Auto Detailing | search | 1.00 |
