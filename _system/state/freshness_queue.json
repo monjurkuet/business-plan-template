@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T08:34:39.399416+00:00",
+  "generated_at": "2026-06-24T11:42:40.257495+00:00",
   "summary": {
     "fresh": 32,
     "stale": 80,
@@ -539,7 +539,7 @@
       "path": "sectors/automotive-car-care/bd-market/README.md",
       "sector": "automotive-car-care",
       "category": "default",
-      "age_days": 5,
+      "age_days": 0,
       "stale_type": "stale_reference",
       "priority": "P1",
       "stale_after_days": 90,
@@ -638,7 +638,7 @@
       "path": "sectors/clothing-fashion/bd-market/README.md",
       "sector": "clothing-fashion",
       "category": "default",
-      "age_days": 5,
+      "age_days": 0,
       "stale_type": "stale_reference",
       "priority": "P1",
       "stale_after_days": 90,

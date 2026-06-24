@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T08:41:25.504617+00:00",
+  "generated_at": "2026-06-24T11:45:06.885120+00:00",
   "models_used": [
     "gemini-2.5-flash-lite",
     "deepseek-ai/deepseek-v4-pro",
@@ -7,108 +7,20 @@
   ],
   "reviews": [
     {
-      "repo_critical_issues": [
-        {
-          "issue": "Systemic data staleness across core sectors (49 days old); pricing and policy data are no longer reliable for 2025-2026 decision-making.",
-          "severity": "critical",
-          "affected_sectors": [
-            "automotive-car-care",
-            "clothing-fashion",
-            "crypto-bitcoin",
-            "electronics-gadgets",
-            "high-roi-niches"
-          ]
-        },
-        {
-          "issue": "Legacy year references (2023-2024) in policy documents indicate failure to account for recent Bangladesh Bank circulars or NBR budget updates.",
-          "severity": "high",
-          "affected_sectors": [
-            "automotive-car-care",
-            "clothing-fashion",
-            "crypto-bitcoin",
-            "electronics-gadgets"
-          ]
-        },
-        {
-          "issue": "Lack of verified BDT-denominated pricing data; reliance on stale snapshots prevents accurate margin analysis.",
-          "severity": "high",
-          "affected_sectors": [
-            "all"
-          ]
-        }
-      ],
-      "sector_priorities": [
-        {
-          "sector": "crypto-bitcoin",
-          "priority": 10,
-          "reason": "High volatility and regulatory sensitivity require immediate update to reflect 2025 legal status and current exchange liquidity in BD."
-        },
-        {
-          "sector": "electronics-gadgets",
-          "priority": 8,
-          "reason": "High import dependency makes this sector extremely sensitive to recent currency fluctuations and duty changes."
-        },
-        {
-          "sector": "automotive-car-care",
-          "priority": 6,
-          "reason": "Consumer sentiment is shifting due to fuel price adjustments; current data is outdated for trend forecasting."
-        }
-      ],
-      "search_hypotheses": [
-        {
-          "sector": "crypto-bitcoin",
-          "hypothesis": "Local crypto trading platforms are pivoting to P2P models to bypass traditional banking friction while remaining compliant with current BD legal frameworks.",
-          "suggested_queries": [
-            "Bangladesh Bank crypto regulation 2025",
-            "P2P crypto exchange volume Bangladesh",
-            "legal status of digital asset trading Bangladesh 2025"
-          ],
-          "confidence": 0.85
-        },
-        {
-          "sector": "electronics-gadgets",
-          "hypothesis": "Rising import duties are forcing a shift from premium global brands to mid-tier Chinese/local assembly alternatives.",
-          "suggested_queries": [
-            "Bangladesh electronics import duty 2025",
-            "market share of local electronics brands BD",
-            "consumer electronics price index Bangladesh 2025"
-          ],
-          "confidence": 0.75
-        }
-      ],
-      "high_value_missing_angles": [
-        "Impact of the 2025-2026 National Budget on sector-specific import duties.",
-        "Cross-sector analysis of digital payment adoption (bKash/Nagad/Rocket) as a proxy for consumer purchasing power.",
-        "Verification of Facebook business page activity levels (last post date) to validate 'active' competitor status."
-      ],
-      "recommended_actions": [
-        {
-          "action": "Execute a bulk refresh of all /pricing and /policy files; replace 2023/2024 references with 2025-2026 data.",
-          "priority": "P0",
-          "effort": "high"
-        },
-        {
-          "action": "Implement a 'Last Verified' metadata tag in JSON data layers to track data decay automatically.",
-          "priority": "P1",
-          "effort": "medium"
-        },
-        {
-          "action": "Cross-reference crypto-bitcoin policy with the latest Bangladesh Bank circulars to ensure legal compliance documentation is current.",
-          "priority": "P0",
-          "effort": "medium"
-        }
-      ],
-      "model": "gemini-2.5-flash-lite"
+      "model": "gemini-2.5-flash-lite",
+      "error": "HTTP Error 308: Permanent Redirect",
+      "gaps": [],
+      "recommendations": []
     },
     {
       "model": "deepseek-ai/deepseek-v4-pro",
-      "error": "The read operation timed out",
+      "error": "HTTP Error 308: Permanent Redirect",
       "gaps": [],
       "recommendations": []
     },
     {
       "model": "gpt-5.4",
-      "error": "HTTP Error 401: Unauthorized",
+      "error": "HTTP Error 308: Permanent Redirect",
       "gaps": [],
       "recommendations": []
     }
