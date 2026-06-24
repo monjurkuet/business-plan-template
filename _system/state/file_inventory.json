@@ -385,8 +385,8 @@
   },
   {
     "path": "sectors/automotive-car-care/bd-market/README.md",
-    "size_bytes": 5745,
-    "last_modified": "2026-06-24T17:34:28.259720+00:00",
+    "size_bytes": 5626,
+    "last_modified": "2026-06-24T17:55:44.830579+00:00",
     "extension": ".md"
   },
   {
@@ -607,8 +607,8 @@
   },
   {
     "path": "sectors/clothing-fashion/bd-market/README.md",
-    "size_bytes": 4666,
-    "last_modified": "2026-06-24T17:34:28.259720+00:00",
+    "size_bytes": 4371,
+    "last_modified": "2026-06-24T17:55:44.830579+00:00",
     "extension": ".md"
   },
   {
@@ -667,8 +667,8 @@
   },
   {
     "path": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-sailor.md",
-    "size_bytes": 1190,
-    "last_modified": "2026-06-24T17:34:28.263720+00:00",
+    "size_bytes": 1191,
+    "last_modified": "2026-06-24T17:55:44.830579+00:00",
     "extension": ".md"
   },
   {
@@ -781,8 +781,8 @@
   },
   {
     "path": "data/query_memory.json",
-    "size_bytes": 12027,
-    "last_modified": "2026-06-24T17:35:30.509478+00:00",
+    "size_bytes": 12202,
+    "last_modified": "2026-06-24T17:55:44.982588+00:00",
     "extension": ".json"
   },
   {
@@ -1059,6 +1059,12 @@
     "path": "data/evidence/20260618-180345.json",
     "size_bytes": 105632,
     "last_modified": "2026-06-24T17:35:50.187299+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/evidence/20260624-175254.json",
+    "size_bytes": 134970,
+    "last_modified": "2026-06-24T17:55:10.644652+00:00",
     "extension": ".json"
   },
   {
@@ -1531,38 +1537,38 @@
   },
   {
     "path": "_system/state/file_inventory.json",
-    "size_bytes": 46475,
-    "last_modified": "2026-06-24T17:35:30.509478+00:00",
+    "size_bytes": 46641,
+    "last_modified": "2026-06-24T17:49:59.595116+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/validation_results.json",
     "size_bytes": 363,
-    "last_modified": "2026-06-24T17:35:30.509478+00:00",
+    "last_modified": "2026-06-24T17:55:44.846580+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/audit_results.json",
     "size_bytes": 5650,
-    "last_modified": "2026-06-24T17:35:30.505477+00:00",
+    "last_modified": "2026-06-24T17:49:59.595116+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/last_pipeline_run.json",
     "size_bytes": 421,
-    "last_modified": "2026-06-24T17:35:30.509478+00:00",
+    "last_modified": "2026-06-24T17:55:44.990588+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/freshness_queue.json",
     "size_bytes": 40996,
-    "last_modified": "2026-06-24T17:35:30.509478+00:00",
+    "last_modified": "2026-06-24T17:49:59.647119+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/search_plan.json",
-    "size_bytes": 17623,
-    "last_modified": "2026-06-24T17:35:30.509478+00:00",
+    "size_bytes": 23939,
+    "last_modified": "2026-06-24T17:55:44.758575+00:00",
     "extension": ".json"
   }
 ]
