@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-25T10:15:38.518966+00:00",
+  "generated_at": "2026-06-25T11:04:14.549599+00:00",
   "summary": {
-    "files_checked": 139,
-    "violations": 187,
+    "files_checked": 159,
+    "violations": 239,
     "warnings": 0
   },
   "violations": [
@@ -193,6 +193,266 @@
     },
     {
       "file": "sectors/automotive-car-care/bd-market/financial-model.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/README.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/README.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/competitors/bimelite.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/competitors/bimelite.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/competitors/bimelite.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/competitors/bimex.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/competitors/bimex.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/competitors/bimex.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/competitors/cadd-centre.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/competitors/cadd-centre.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/competitors/cadd-centre.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/competitors/engcad.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/competitors/engcad.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/competitors/engcad.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/competitors/engineering-services-usa.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/competitors/engineering-services-usa.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/competitors/engineering-services-usa.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/competitors/microdesk.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/competitors/microdesk.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/competitors/microdesk.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/competitors/pinnacle-infotech.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/competitors/pinnacle-infotech.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/competitors/pinnacle-infotech.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/competitors/silicon-valley-cad.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/competitors/silicon-valley-cad.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/competitors/silicon-valley-cad.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/competitors/tesla-outsourcing.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/competitors/tesla-outsourcing.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/competitors/tesla-outsourcing.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/competitors/truecadd.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/competitors/truecadd.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/competitors/truecadd.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/competitors/virtual-building-studio.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/competitors/virtual-building-studio.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/competitors/virtual-building-studio.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/competitors/xs-cad.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/competitors/xs-cad.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/competitors/xs-cad.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/financial-model.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/financial-model.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/go-to-market.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/go-to-market.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/pricing-guide.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/pricing-guide.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/regulatory.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/regulatory.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/risk-register.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/risk-register.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/sentiment-analysis.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/sentiment-analysis.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/strategy-canvas.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/bim-global-outreach/bd-market/strategy-canvas.md",
       "type": "missing_field",
       "detail": "Missing required field: freshness"
     },

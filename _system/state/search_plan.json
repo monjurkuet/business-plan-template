@@ -1,600 +1,488 @@
 {
-  "generated_at": "2026-06-25T10:15:38.099647+00:00",
-  "models_used": [
-    "gemini-2.5-flash-lite",
-    "deepseek-ai/deepseek-v4-pro",
-    "mistral/mistral-large-latest"
-  ],
-  "reviews": [
-    {
-      "repo_critical_issues": [
-        {
-          "issue": "Systemic data staleness across all core sectors; pricing and policy data are >50 days old, rendering them unreliable for 2025-2026 market analysis.",
-          "severity": "critical",
-          "affected_sectors": [
-            "automotive-car-care",
-            "clothing-fashion",
-            "crypto-bitcoin",
-            "electronics-gadgets",
-            "high-roi-niches"
-          ]
-        },
-        {
-          "issue": "Prevalence of 2023/2024 legacy references in policy documents, indicating a lack of alignment with current Bangladesh fiscal year (FY25) regulations.",
-          "severity": "high",
-          "affected_sectors": [
-            "crypto-bitcoin",
-            "automotive-car-care",
-            "clothing-fashion",
-            "electronics-gadgets"
-          ]
-        },
-        {
-          "issue": "Zero high-confidence evidence points; the repository currently lacks verified data sources, relying on unvalidated or outdated inputs.",
-          "severity": "critical",
-          "affected_sectors": [
-            "all"
-          ]
-        }
-      ],
-      "sector_priorities": [
-        {
-          "sector": "crypto-bitcoin",
-          "priority": 10,
-          "reason": "High regulatory sensitivity; requires immediate update to reflect current legal status and 2025 financial landscape to avoid misinformation."
-        },
-        {
-          "sector": "electronics-gadgets",
-          "priority": 8,
-          "reason": "High price volatility in the BD market; stale pricing data makes competitive analysis useless."
-        },
-        {
-          "sector": "automotive-car-care",
-          "priority": 6,
-          "reason": "Policy-heavy sector; requires updated import duty and tax references for 2025."
-        }
-      ],
-      "search_hypotheses": [
-        {
-          "sector": "crypto-bitcoin",
-          "hypothesis": "The legal framework for digital asset trading in Bangladesh has evolved to include specific tax reporting requirements for FY2025.",
-          "suggested_queries": [
-            "Bangladesh crypto trading legal status 2025",
-            "NBR Bangladesh digital asset tax circular 2025",
-            "Bangladesh Bank fintech policy 2025"
-          ],
-          "confidence": 0.85
-        },
-        {
-          "sector": "electronics-gadgets",
-          "hypothesis": "Recent import duty adjustments on consumer electronics have significantly shifted the pricing landscape for mid-range smartphones.",
-          "suggested_queries": [
-            "Bangladesh import duty electronics 2025",
-            "NBR smartphone tax structure 2025",
-            "Bangladesh electronics market price trends Q1 2025"
-          ],
-          "confidence": 0.75
-        }
-      ],
-      "high_value_missing_angles": [
-        "Integration of NBR (National Board of Revenue) circulars for 2025 in all policy files.",
-        "Verification of social media (Facebook) engagement metrics for top 5 competitors per sector.",
-        "Cross-sector analysis of inflationary impact on consumer discretionary spending in Bangladesh.",
-        "Direct BDT-denominated pricing tables with source-link verification."
-      ],
-      "recommended_actions": [
-        {
-          "action": "Mass update of all policy/pricing files to reflect FY25 data; purge 2023/2024 references.",
-          "priority": "P0",
-          "effort": "high"
-        },
-        {
-          "action": "Implement a 'Source Verification' field in the JSON data layer to track the origin of pricing data.",
-          "priority": "P1",
-          "effort": "medium"
-        },
-        {
-          "action": "Conduct a targeted audit of crypto-related policy documents to ensure alignment with legal status.",
-          "priority": "P0",
-          "effort": "medium"
-        }
-      ],
-      "model": "gemini-2.5-flash-lite"
-    },
-    {
-      "model": "deepseek-ai/deepseek-v4-pro",
-      "error": "The read operation timed out",
-      "gaps": [],
-      "recommendations": []
-    },
-    {
-      "model": "mistral/mistral-large-latest",
-      "error": "The read operation timed out",
-      "gaps": [],
-      "recommendations": []
-    }
-  ],
-  "total_queries": 60,
+  "run_id": "20260625-110222",
+  "generated_at": "2026-06-25T11:02:22.568923+00:00",
+  "total_queries": 48,
+  "total_evidence": 244,
   "queries": [
     {
       "query": "\"car care Bangladesh\" price Bangladesh",
       "sector": "automotive-car-care",
       "family": "pricing",
       "priority": "P0",
-      "reason": "File age 50d exceeds freshness threshold for pricing",
-      "source_model": "freshness_policy"
+      "category": "pricing",
+      "expected_yield": "high",
+      "_idx": 1,
+      "_total": 48
     },
     {
-      "query": "site:facebook.com \"car care Bangladesh\" offer price",
-      "sector": "automotive-car-care",
-      "family": "pricing",
-      "priority": "P0",
-      "reason": "File age 50d exceeds freshness threshold for pricing",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"car care Bangladesh\" regulation Bangladesh 2026",
-      "sector": "automotive-car-care",
+      "query": "\"BIM outsourcing USA\" regulation Bangladesh 2026",
+      "sector": "bim-global-outreach",
       "family": "policy_tracker",
       "priority": "P0",
-      "reason": "File age 50d exceeds freshness threshold for policy",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"car care Bangladesh\" policy Bangladesh 2026",
-      "sector": "automotive-car-care",
-      "family": "policy_tracker",
-      "priority": "P0",
-      "reason": "File age 50d exceeds freshness threshold for policy",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"car care Bangladesh\" review Bangladesh",
-      "sector": "automotive-car-care",
-      "family": "sentiment",
-      "priority": "P0",
-      "reason": "File age 50d exceeds freshness threshold for sentiment",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "site:facebook.com \"car care Bangladesh\" reviews",
-      "sector": "automotive-car-care",
-      "family": "sentiment",
-      "priority": "P0",
-      "reason": "File age 50d exceeds freshness threshold for sentiment",
-      "source_model": "freshness_policy"
+      "category": "policy",
+      "expected_yield": "high",
+      "_idx": 2,
+      "_total": 48
     },
     {
       "query": "\"clothing Bangladesh\" price Bangladesh",
       "sector": "clothing-fashion",
       "family": "pricing",
       "priority": "P0",
-      "reason": "File age 50d exceeds freshness threshold for pricing",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "site:facebook.com \"clothing Bangladesh\" offer price",
-      "sector": "clothing-fashion",
-      "family": "pricing",
-      "priority": "P0",
-      "reason": "File age 50d exceeds freshness threshold for pricing",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"clothing Bangladesh\" regulation Bangladesh 2026",
-      "sector": "clothing-fashion",
-      "family": "policy_tracker",
-      "priority": "P0",
-      "reason": "File age 50d exceeds freshness threshold for policy",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"clothing Bangladesh\" policy Bangladesh 2026",
-      "sector": "clothing-fashion",
-      "family": "policy_tracker",
-      "priority": "P0",
-      "reason": "File age 50d exceeds freshness threshold for policy",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"clothing Bangladesh\" review Bangladesh",
-      "sector": "clothing-fashion",
-      "family": "sentiment",
-      "priority": "P0",
-      "reason": "File age 50d exceeds freshness threshold for sentiment",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "site:facebook.com \"clothing Bangladesh\" reviews",
-      "sector": "clothing-fashion",
-      "family": "sentiment",
-      "priority": "P0",
-      "reason": "File age 50d exceeds freshness threshold for sentiment",
-      "source_model": "freshness_policy"
+      "category": "pricing",
+      "expected_yield": "high",
+      "_idx": 3,
+      "_total": 48
     },
     {
       "query": "\"crypto Bangladesh\" Bangladesh top companies",
       "sector": "crypto-bitcoin",
       "family": "competitor_discovery",
       "priority": "P0",
-      "reason": "Contains stale year references: 2023, 2024",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"crypto Bangladesh\" Dhaka Facebook",
-      "sector": "crypto-bitcoin",
-      "family": "competitor_discovery",
-      "priority": "P0",
-      "reason": "Contains stale year references: 2023, 2024",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"crypto Bangladesh\" price Bangladesh",
-      "sector": "crypto-bitcoin",
-      "family": "pricing",
-      "priority": "P0",
-      "reason": "File age 50d exceeds freshness threshold for pricing",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "site:facebook.com \"crypto Bangladesh\" offer price",
-      "sector": "crypto-bitcoin",
-      "family": "pricing",
-      "priority": "P0",
-      "reason": "File age 50d exceeds freshness threshold for pricing",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"crypto Bangladesh\" regulation Bangladesh 2026",
-      "sector": "crypto-bitcoin",
-      "family": "policy_tracker",
-      "priority": "P0",
-      "reason": "File age 50d exceeds freshness threshold for policy",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"crypto Bangladesh\" policy Bangladesh 2026",
-      "sector": "crypto-bitcoin",
-      "family": "policy_tracker",
-      "priority": "P0",
-      "reason": "File age 50d exceeds freshness threshold for policy",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"crypto Bangladesh\" review Bangladesh",
-      "sector": "crypto-bitcoin",
-      "family": "sentiment",
-      "priority": "P0",
-      "reason": "File age 50d exceeds freshness threshold for sentiment",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "site:facebook.com \"crypto Bangladesh\" reviews",
-      "sector": "crypto-bitcoin",
-      "family": "sentiment",
-      "priority": "P0",
-      "reason": "File age 50d exceeds freshness threshold for sentiment",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"crypto Bangladesh\" Eid sales Bangladesh",
-      "sector": "crypto-bitcoin",
-      "family": "seasonality",
-      "priority": "P0",
-      "reason": "Contains stale year references: 2023, 2024",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"crypto Bangladesh\" seasonal demand Bangladesh",
-      "sector": "crypto-bitcoin",
-      "family": "seasonality",
-      "priority": "P0",
-      "reason": "Contains stale year references: 2023, 2024",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"crypto Bangladesh\" Bangladesh top companies",
-      "sector": "crypto-bitcoin",
-      "family": "competitor_discovery",
-      "priority": "P0",
-      "reason": "Contains stale year references: 2023, 2024",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"crypto Bangladesh\" Dhaka Facebook",
-      "sector": "crypto-bitcoin",
-      "family": "competitor_discovery",
-      "priority": "P0",
-      "reason": "Contains stale year references: 2023, 2024",
-      "source_model": "freshness_policy"
+      "category": "default",
+      "expected_yield": "high",
+      "_idx": 4,
+      "_total": 48
     },
     {
       "query": "\"electronics Bangladesh\" price Bangladesh",
       "sector": "electronics-gadgets",
       "family": "pricing",
       "priority": "P0",
-      "reason": "File age 50d exceeds freshness threshold for pricing",
-      "source_model": "freshness_policy"
+      "category": "pricing",
+      "expected_yield": "high",
+      "_idx": 5,
+      "_total": 48
+    },
+    {
+      "query": "\"pet care Bangladesh\" price Bangladesh",
+      "sector": "high-roi-niches",
+      "family": "pricing",
+      "priority": "P0",
+      "category": "pricing",
+      "expected_yield": "high",
+      "_idx": 6,
+      "_total": 48
+    },
+    {
+      "query": "\"jewellery Bangladesh\" price Bangladesh",
+      "sector": "jewellery",
+      "family": "pricing",
+      "priority": "P0",
+      "category": "pricing",
+      "expected_yield": "high",
+      "_idx": 7,
+      "_total": 48
+    },
+    {
+      "query": "\"digital marketing Bangladesh\" price Bangladesh",
+      "sector": "media-marketing-digital",
+      "family": "pricing",
+      "priority": "P0",
+      "category": "pricing",
+      "expected_yield": "high",
+      "_idx": 8,
+      "_total": 48
+    },
+    {
+      "query": "\"travel agency Bangladesh\" price Bangladesh",
+      "sector": "travel-tourism",
+      "family": "pricing",
+      "priority": "P0",
+      "category": "pricing",
+      "expected_yield": "high",
+      "_idx": 9,
+      "_total": 48
+    },
+    {
+      "query": "site:facebook.com \"car care Bangladesh\" offer price",
+      "sector": "automotive-car-care",
+      "family": "pricing",
+      "priority": "P0",
+      "category": "pricing",
+      "expected_yield": "high",
+      "_idx": 10,
+      "_total": 48
+    },
+    {
+      "query": "\"BIM outsourcing USA\" policy Bangladesh 2026",
+      "sector": "bim-global-outreach",
+      "family": "policy_tracker",
+      "priority": "P0",
+      "category": "policy",
+      "expected_yield": "high",
+      "_idx": 11,
+      "_total": 48
+    },
+    {
+      "query": "site:facebook.com \"clothing Bangladesh\" offer price",
+      "sector": "clothing-fashion",
+      "family": "pricing",
+      "priority": "P0",
+      "category": "pricing",
+      "expected_yield": "high",
+      "_idx": 12,
+      "_total": 48
+    },
+    {
+      "query": "\"crypto Bangladesh\" Dhaka Facebook",
+      "sector": "crypto-bitcoin",
+      "family": "competitor_discovery",
+      "priority": "P0",
+      "category": "default",
+      "expected_yield": "high",
+      "_idx": 13,
+      "_total": 48
     },
     {
       "query": "site:facebook.com \"electronics Bangladesh\" offer price",
       "sector": "electronics-gadgets",
       "family": "pricing",
       "priority": "P0",
-      "reason": "File age 50d exceeds freshness threshold for pricing",
-      "source_model": "freshness_policy"
+      "category": "pricing",
+      "expected_yield": "high",
+      "_idx": 14,
+      "_total": 48
     },
     {
-      "query": "\"electronics Bangladesh\" regulation Bangladesh 2026",
-      "sector": "electronics-gadgets",
+      "query": "site:facebook.com \"pet care Bangladesh\" offer price",
+      "sector": "high-roi-niches",
+      "family": "pricing",
+      "priority": "P0",
+      "category": "pricing",
+      "expected_yield": "high",
+      "_idx": 15,
+      "_total": 48
+    },
+    {
+      "query": "site:facebook.com \"jewellery Bangladesh\" offer price",
+      "sector": "jewellery",
+      "family": "pricing",
+      "priority": "P0",
+      "category": "pricing",
+      "expected_yield": "high",
+      "_idx": 16,
+      "_total": 48
+    },
+    {
+      "query": "site:facebook.com \"digital marketing Bangladesh\" offer price",
+      "sector": "media-marketing-digital",
+      "family": "pricing",
+      "priority": "P0",
+      "category": "pricing",
+      "expected_yield": "high",
+      "_idx": 17,
+      "_total": 48
+    },
+    {
+      "query": "site:facebook.com \"travel agency Bangladesh\" offer price",
+      "sector": "travel-tourism",
+      "family": "pricing",
+      "priority": "P0",
+      "category": "pricing",
+      "expected_yield": "high",
+      "_idx": 18,
+      "_total": 48
+    },
+    {
+      "query": "\"car care Bangladesh\" Bangladesh price list",
+      "sector": "automotive-car-care",
+      "family": "pricing",
+      "priority": "P0",
+      "category": "pricing",
+      "expected_yield": "high",
+      "_idx": 19,
+      "_total": 48
+    },
+    {
+      "query": "site:gov.bd \"BIM outsourcing USA\" circular",
+      "sector": "bim-global-outreach",
       "family": "policy_tracker",
       "priority": "P0",
-      "reason": "File age 50d exceeds freshness threshold for policy",
-      "source_model": "freshness_policy"
+      "category": "policy",
+      "expected_yield": "high",
+      "_idx": 20,
+      "_total": 48
     },
     {
-      "query": "\"electronics Bangladesh\" policy Bangladesh 2026",
+      "query": "\"clothing Bangladesh\" Bangladesh price list",
+      "sector": "clothing-fashion",
+      "family": "pricing",
+      "priority": "P0",
+      "category": "pricing",
+      "expected_yield": "high",
+      "_idx": 21,
+      "_total": 48
+    },
+    {
+      "query": "site:facebook.com \"crypto Bangladesh\" Bangladesh",
+      "sector": "crypto-bitcoin",
+      "family": "competitor_discovery",
+      "priority": "P0",
+      "category": "default",
+      "expected_yield": "high",
+      "_idx": 22,
+      "_total": 48
+    },
+    {
+      "query": "\"electronics Bangladesh\" Bangladesh price list",
       "sector": "electronics-gadgets",
+      "family": "pricing",
+      "priority": "P0",
+      "category": "pricing",
+      "expected_yield": "high",
+      "_idx": 23,
+      "_total": 48
+    },
+    {
+      "query": "\"pet care Bangladesh\" Bangladesh price list",
+      "sector": "high-roi-niches",
+      "family": "pricing",
+      "priority": "P0",
+      "category": "pricing",
+      "expected_yield": "high",
+      "_idx": 24,
+      "_total": 48
+    },
+    {
+      "query": "\"jewellery Bangladesh\" Bangladesh price list",
+      "sector": "jewellery",
+      "family": "pricing",
+      "priority": "P0",
+      "category": "pricing",
+      "expected_yield": "high",
+      "_idx": 25,
+      "_total": 48
+    },
+    {
+      "query": "\"digital marketing Bangladesh\" Bangladesh price list",
+      "sector": "media-marketing-digital",
+      "family": "pricing",
+      "priority": "P0",
+      "category": "pricing",
+      "expected_yield": "high",
+      "_idx": 26,
+      "_total": 48
+    },
+    {
+      "query": "\"travel agency Bangladesh\" Bangladesh price list",
+      "sector": "travel-tourism",
+      "family": "pricing",
+      "priority": "P0",
+      "category": "pricing",
+      "expected_yield": "high",
+      "_idx": 27,
+      "_total": 48
+    },
+    {
+      "query": "\"auto detailing Dhaka\" price Bangladesh",
+      "sector": "automotive-car-care",
+      "family": "pricing",
+      "priority": "P0",
+      "category": "pricing",
+      "expected_yield": "high",
+      "_idx": 28,
+      "_total": 48
+    },
+    {
+      "query": "\"Revit modeling services\" regulation Bangladesh 2026",
+      "sector": "bim-global-outreach",
       "family": "policy_tracker",
       "priority": "P0",
-      "reason": "File age 50d exceeds freshness threshold for policy",
-      "source_model": "freshness_policy"
+      "category": "policy",
+      "expected_yield": "high",
+      "_idx": 29,
+      "_total": 48
     },
     {
-      "query": "\"electronics Bangladesh\" review Bangladesh",
-      "sector": "electronics-gadgets",
-      "family": "sentiment",
+      "query": "\"fashion brand Dhaka\" price Bangladesh",
+      "sector": "clothing-fashion",
+      "family": "pricing",
       "priority": "P0",
-      "reason": "File age 50d exceeds freshness threshold for sentiment",
-      "source_model": "freshness_policy"
+      "category": "pricing",
+      "expected_yield": "high",
+      "_idx": 30,
+      "_total": 48
     },
     {
-      "query": "site:facebook.com \"electronics Bangladesh\" reviews",
-      "sector": "electronics-gadgets",
-      "family": "sentiment",
+      "query": "\"bitcoin BD\" Bangladesh top companies",
+      "sector": "crypto-bitcoin",
+      "family": "competitor_discovery",
       "priority": "P0",
-      "reason": "File age 50d exceeds freshness threshold for sentiment",
-      "source_model": "freshness_policy"
+      "category": "default",
+      "expected_yield": "high",
+      "_idx": 31,
+      "_total": 48
     },
     {
-      "query": "\"car care Bangladesh\" Bangladesh top companies",
-      "sector": "automotive-car-care",
-      "family": "competitor_discovery",
-      "priority": "P1",
-      "reason": "Contains stale year references: 2023, 2024",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"car care Bangladesh\" Dhaka Facebook",
-      "sector": "automotive-car-care",
-      "family": "competitor_discovery",
-      "priority": "P1",
-      "reason": "Contains stale year references: 2023, 2024",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"car care Bangladesh\" Eid sales Bangladesh",
-      "sector": "automotive-car-care",
-      "family": "seasonality",
-      "priority": "P1",
-      "reason": "Contains stale year references: 2023, 2024",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"car care Bangladesh\" seasonal demand Bangladesh",
-      "sector": "automotive-car-care",
-      "family": "seasonality",
-      "priority": "P1",
-      "reason": "Contains stale year references: 2023, 2024",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"car care Bangladesh\" Bangladesh top companies",
-      "sector": "automotive-car-care",
-      "family": "competitor_discovery",
-      "priority": "P1",
-      "reason": "File age 49d exceeds freshness threshold for competitor_core_profile",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"car care Bangladesh\" Dhaka Facebook",
-      "sector": "automotive-car-care",
-      "family": "competitor_discovery",
-      "priority": "P1",
-      "reason": "File age 49d exceeds freshness threshold for competitor_core_profile",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"clothing Bangladesh\" Bangladesh top companies",
-      "sector": "clothing-fashion",
-      "family": "competitor_discovery",
-      "priority": "P1",
-      "reason": "Contains stale year references: 2023, 2024",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"clothing Bangladesh\" Dhaka Facebook",
-      "sector": "clothing-fashion",
-      "family": "competitor_discovery",
-      "priority": "P1",
-      "reason": "Contains stale year references: 2023, 2024",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"clothing Bangladesh\" Eid sales Bangladesh",
-      "sector": "clothing-fashion",
-      "family": "seasonality",
-      "priority": "P1",
-      "reason": "Contains stale year references: 2023, 2024",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"clothing Bangladesh\" seasonal demand Bangladesh",
-      "sector": "clothing-fashion",
-      "family": "seasonality",
-      "priority": "P1",
-      "reason": "Contains stale year references: 2023, 2024",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"clothing Bangladesh\" Bangladesh top companies",
-      "sector": "clothing-fashion",
-      "family": "competitor_discovery",
-      "priority": "P1",
-      "reason": "File age 49d exceeds freshness threshold for competitor_core_profile",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"clothing Bangladesh\" Dhaka Facebook",
-      "sector": "clothing-fashion",
-      "family": "competitor_discovery",
-      "priority": "P1",
-      "reason": "File age 49d exceeds freshness threshold for competitor_core_profile",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"electronics Bangladesh\" Bangladesh top companies",
+      "query": "\"gadget shop Dhaka\" price Bangladesh",
       "sector": "electronics-gadgets",
-      "family": "competitor_discovery",
-      "priority": "P1",
-      "reason": "Contains stale year references: 2023, 2024",
-      "source_model": "freshness_policy"
+      "family": "pricing",
+      "priority": "P0",
+      "category": "pricing",
+      "expected_yield": "high",
+      "_idx": 32,
+      "_total": 48
     },
     {
-      "query": "\"electronics Bangladesh\" Dhaka Facebook",
+      "query": "\"creator economy BD\" price Bangladesh",
+      "sector": "high-roi-niches",
+      "family": "pricing",
+      "priority": "P0",
+      "category": "pricing",
+      "expected_yield": "high",
+      "_idx": 33,
+      "_total": 48
+    },
+    {
+      "query": "\"gold jewellery Dhaka\" price Bangladesh",
+      "sector": "jewellery",
+      "family": "pricing",
+      "priority": "P0",
+      "category": "pricing",
+      "expected_yield": "high",
+      "_idx": 34,
+      "_total": 48
+    },
+    {
+      "query": "\"ad agency Dhaka\" price Bangladesh",
+      "sector": "media-marketing-digital",
+      "family": "pricing",
+      "priority": "P0",
+      "category": "pricing",
+      "expected_yield": "high",
+      "_idx": 35,
+      "_total": 48
+    },
+    {
+      "query": "\"tourism Dhaka\" price Bangladesh",
+      "sector": "travel-tourism",
+      "family": "pricing",
+      "priority": "P0",
+      "category": "pricing",
+      "expected_yield": "high",
+      "_idx": 36,
+      "_total": 48
+    },
+    {
+      "query": "site:facebook.com \"auto detailing Dhaka\" offer price",
+      "sector": "automotive-car-care",
+      "family": "pricing",
+      "priority": "P0",
+      "category": "pricing",
+      "expected_yield": "high",
+      "_idx": 37,
+      "_total": 48
+    },
+    {
+      "query": "\"Revit modeling services\" policy Bangladesh 2026",
+      "sector": "bim-global-outreach",
+      "family": "policy_tracker",
+      "priority": "P0",
+      "category": "policy",
+      "expected_yield": "high",
+      "_idx": 38,
+      "_total": 48
+    },
+    {
+      "query": "site:facebook.com \"fashion brand Dhaka\" offer price",
+      "sector": "clothing-fashion",
+      "family": "pricing",
+      "priority": "P0",
+      "category": "pricing",
+      "expected_yield": "high",
+      "_idx": 39,
+      "_total": 48
+    },
+    {
+      "query": "\"bitcoin BD\" Dhaka Facebook",
+      "sector": "crypto-bitcoin",
+      "family": "competitor_discovery",
+      "priority": "P0",
+      "category": "default",
+      "expected_yield": "high",
+      "_idx": 40,
+      "_total": 48
+    },
+    {
+      "query": "site:facebook.com \"gadget shop Dhaka\" offer price",
       "sector": "electronics-gadgets",
-      "family": "competitor_discovery",
-      "priority": "P1",
-      "reason": "Contains stale year references: 2023, 2024",
-      "source_model": "freshness_policy"
+      "family": "pricing",
+      "priority": "P0",
+      "category": "pricing",
+      "expected_yield": "high",
+      "_idx": 41,
+      "_total": 48
     },
     {
-      "query": "\"electronics Bangladesh\" Eid sales Bangladesh",
-      "sector": "electronics-gadgets",
-      "family": "seasonality",
-      "priority": "P1",
-      "reason": "Contains stale year references: 2023, 2024",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"electronics Bangladesh\" seasonal demand Bangladesh",
-      "sector": "electronics-gadgets",
-      "family": "seasonality",
-      "priority": "P1",
-      "reason": "Contains stale year references: 2023, 2024",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"electronics Bangladesh\" Bangladesh top companies",
-      "sector": "electronics-gadgets",
-      "family": "competitor_discovery",
-      "priority": "P1",
-      "reason": "File age 49d exceeds freshness threshold for competitor_core_profile",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"electronics Bangladesh\" Dhaka Facebook",
-      "sector": "electronics-gadgets",
-      "family": "competitor_discovery",
-      "priority": "P1",
-      "reason": "File age 49d exceeds freshness threshold for competitor_core_profile",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"pet care Bangladesh\" Bangladesh top companies",
+      "query": "site:facebook.com \"creator economy BD\" offer price",
       "sector": "high-roi-niches",
-      "family": "competitor_discovery",
-      "priority": "P1",
-      "reason": "Contains stale year references: 2023, 2024",
-      "source_model": "freshness_policy"
+      "family": "pricing",
+      "priority": "P0",
+      "category": "pricing",
+      "expected_yield": "high",
+      "_idx": 42,
+      "_total": 48
     },
     {
-      "query": "\"pet care Bangladesh\" Dhaka Facebook",
-      "sector": "high-roi-niches",
-      "family": "competitor_discovery",
-      "priority": "P1",
-      "reason": "Contains stale year references: 2023, 2024",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"pet care Bangladesh\" Eid sales Bangladesh",
-      "sector": "high-roi-niches",
-      "family": "seasonality",
-      "priority": "P1",
-      "reason": "Contains stale year references: 2023, 2024",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"pet care Bangladesh\" seasonal demand Bangladesh",
-      "sector": "high-roi-niches",
-      "family": "seasonality",
-      "priority": "P1",
-      "reason": "Contains stale year references: 2023, 2024",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"pet care Bangladesh\" Bangladesh top companies",
-      "sector": "high-roi-niches",
-      "family": "competitor_discovery",
-      "priority": "P1",
-      "reason": "File age 49d exceeds freshness threshold for competitor_core_profile",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"pet care Bangladesh\" Dhaka Facebook",
-      "sector": "high-roi-niches",
-      "family": "competitor_discovery",
-      "priority": "P1",
-      "reason": "File age 49d exceeds freshness threshold for competitor_core_profile",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"jewellery Bangladesh\" Bangladesh top companies",
+      "query": "site:facebook.com \"gold jewellery Dhaka\" offer price",
       "sector": "jewellery",
-      "family": "competitor_discovery",
-      "priority": "P1",
-      "reason": "Contains stale year references: 2023, 2024",
-      "source_model": "freshness_policy"
+      "family": "pricing",
+      "priority": "P0",
+      "category": "pricing",
+      "expected_yield": "high",
+      "_idx": 43,
+      "_total": 48
     },
     {
-      "query": "\"jewellery Bangladesh\" Dhaka Facebook",
-      "sector": "jewellery",
-      "family": "competitor_discovery",
-      "priority": "P1",
-      "reason": "Contains stale year references: 2023, 2024",
-      "source_model": "freshness_policy"
+      "query": "site:facebook.com \"ad agency Dhaka\" offer price",
+      "sector": "media-marketing-digital",
+      "family": "pricing",
+      "priority": "P0",
+      "category": "pricing",
+      "expected_yield": "high",
+      "_idx": 44,
+      "_total": 48
     },
     {
-      "query": "\"jewellery Bangladesh\" Eid sales Bangladesh",
-      "sector": "jewellery",
-      "family": "seasonality",
-      "priority": "P1",
-      "reason": "Contains stale year references: 2023, 2024",
-      "source_model": "freshness_policy"
+      "query": "site:facebook.com \"tourism Dhaka\" offer price",
+      "sector": "travel-tourism",
+      "family": "pricing",
+      "priority": "P0",
+      "category": "pricing",
+      "expected_yield": "high",
+      "_idx": 45,
+      "_total": 48
     },
     {
-      "query": "\"jewellery Bangladesh\" seasonal demand Bangladesh",
-      "sector": "jewellery",
-      "family": "seasonality",
-      "priority": "P1",
-      "reason": "Contains stale year references: 2023, 2024",
-      "source_model": "freshness_policy"
+      "query": "\"auto detailing Dhaka\" Bangladesh price list",
+      "sector": "automotive-car-care",
+      "family": "pricing",
+      "priority": "P0",
+      "category": "pricing",
+      "expected_yield": "high",
+      "_idx": 46,
+      "_total": 48
     },
     {
-      "query": "\"jewellery Bangladesh\" Bangladesh top companies",
-      "sector": "jewellery",
-      "family": "competitor_discovery",
-      "priority": "P1",
-      "reason": "File age 49d exceeds freshness threshold for competitor_core_profile",
-      "source_model": "freshness_policy"
+      "query": "site:gov.bd \"Revit modeling services\" circular",
+      "sector": "bim-global-outreach",
+      "family": "policy_tracker",
+      "priority": "P0",
+      "category": "policy",
+      "expected_yield": "high",
+      "_idx": 47,
+      "_total": 48
     },
     {
-      "query": "\"jewellery Bangladesh\" Dhaka Facebook",
-      "sector": "jewellery",
-      "family": "competitor_discovery",
-      "priority": "P1",
-      "reason": "File age 49d exceeds freshness threshold for competitor_core_profile",
-      "source_model": "freshness_policy"
+      "query": "\"fashion brand Dhaka\" Bangladesh price list",
+      "sector": "clothing-fashion",
+      "family": "pricing",
+      "priority": "P0",
+      "category": "pricing",
+      "expected_yield": "high",
+      "_idx": 48,
+      "_total": 48
     }
   ]
 }
