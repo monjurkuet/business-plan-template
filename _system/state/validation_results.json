@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-25T03:10:54.976099+00:00",
+  "generated_at": "2026-06-25T06:34:55.584771+00:00",
   "summary": {
-    "files_checked": 130,
-    "violations": 2,
+    "files_checked": 132,
+    "violations": 4,
     "warnings": 0
   },
   "violations": [
@@ -12,9 +12,19 @@
       "detail": "Missing required field: confidence"
     },
     {
+      "file": "sectors/automotive-car-care/bd-market/financial-model.md",
+      "type": "missing_frontmatter",
+      "detail": "No YAML frontmatter found"
+    },
+    {
       "file": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-sailor.md",
       "type": "missing_field",
       "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/crypto-bitcoin/bd-market/financial-model.md",
+      "type": "missing_frontmatter",
+      "detail": "No YAML frontmatter found"
     }
   ],
   "warnings": []
