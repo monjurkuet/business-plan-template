@@ -1,0 +1,86 @@
+---
+entity_type: competitor
+sector: bim-global-outreach
+entity_slug: microdesk
+last_verified_at: 2026-06-25T12:00:00Z
+freshness_status: fresh
+confidence_score: 0.75
+primary_sources:
+  - research_all_20260625
+---
+
+# Microdesk
+
+**Basic Info**
+| Data Point | Detail |
+|------------|--------|
+| Company | Microdesk |
+| HQ | Framingham, Massachusetts, USA |
+| Founded | 1999 |
+| Employees | 300+ |
+| Website | microdesk.com |
+| LinkedIn | /company/microdesk |
+| Target Markets | USA (primary), Canada, UK, Europe |
+| Core Services | BIM consulting, VDC, Autodesk partner/reseller, cloud solutions, digital twin |
+
+## Strengths
+1. **Autodesk Platinum Partner** — Top-tier Autodesk partnership gives exclusive access, discounts, and early product access
+2. **Consulting-led** — High-end BIM consulting and strategy, not just production drafting
+3. **US-based** — Onshore presence with deep understanding of US building codes and standards
+4. **Cloud & VDC** — Strong in cloud BIM, VDC, and digital twin implementations
+5. **Enterprise client base** — Serves top US AEC firms, government, and Fortune 500
+
+## Weaknesses
+1. **Premium pricing** — Significantly more expensive than offshored competitors ($100–175/hr) — not a cost play
+2. **Limited offshore delivery** — Primarily US staff, higher cost base compared to India/Philippines firms
+3. **Partner dependency** — Revenue and positioning tied to Autodesk ecosystem
+4. **Smaller team** — 300+ staff vs 1,500+ at Pinnacle, less pure production capacity
+5. **Less attractive for pure drafting** — Overkill for simple CAD/BIM production, positioned for high-value consulting
+
+## Pricing Signals
+- Est. $100–175/hr for BIM consulting
+- $60–90/hr for production BIM (US staff)
+- Software resale adds margin but clouds service pricing
+
+## Customer Segments
+- Large AEC firms (top 50 ENR)
+- Government/institutional
+- Enterprise facility owners
+
+## Products/Services
+- BIM Consulting & Strategy
+- VDC / Virtual Design & Construction
+- Autodesk Software Resale & Support
+- Cloud BIM & CDE Implementation
+- Digital Twin Consulting
+- Staff Augmentation
+
+## Operations
+- US-based with remote/hybrid workforce
+- Autodesk partner operations including licensing and support
+- Training and certification arm
+
+## Financial/Funding
+- Privately held
+- Est. $50–80M annual revenue (software resale + services)
+- No known outside funding
+
+## Market Position
+- Tier 1 US-based BIM consulting firm
+- Competes on expertise and Autodesk relationship, not on price
+- Go-to partner for firms adopting Autodesk cloud and BIM 360 platform
+
+## Sentiment/Reviews
+- Clutch: 4.6 stars, 20+ reviews
+- Positive: deep expertise, responsive, high-quality
+- Negative: expensive, long sales cycle, inconsistent offshore coordination
+
+## Compliance / Certifications
+- Autodesk Platinum Partner
+- ISO 19650 awareness
+- Government security clearances for some contracts
+
+## Technology Stack
+- Revit, AutoCAD, BIM 360, Autodesk Construction Cloud, Navisworks, Dynamo, Power BI
+
+*Last updated: 2026-06-25*

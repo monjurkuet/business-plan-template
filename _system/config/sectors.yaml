@@ -92,3 +92,14 @@ sectors:
     competitor_target: 12
     subsegments: ["tour operator", "visa service", "hotel booking", "domestic tourism", "airline ticketing"]
     policy_sensitivity: medium
+
+  bim-global-outreach:
+    display_name: "BIM Global Outreach"
+    status: active
+    priority_weight: 0.80
+    keywords:
+      en: ["BIM outsourcing USA", "Revit modeling services", "MEP coordination", "BIM consultant UK", "architectural BIM services", "scan to BIM", "construction documentation", "BIM production partner"]
+      bn: []
+    competitor_target: 12
+    subsegments: ["architectural BIM", "MEP coordination", "scan-to-BIM", "BIM consulting", "construction documentation", "visualization", "structural BIM"]
+    policy_sensitivity: low
