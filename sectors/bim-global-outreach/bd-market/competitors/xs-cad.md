@@ -1,12 +1,7 @@
 ---
-entity_type: competitor
 sector: bim-global-outreach
-entity_slug: xs-cad
-last_verified_at: 2026-06-25T12:00:00Z
-freshness_status: fresh
-confidence_score: 0.75
-primary_sources:
-  - research_all_20260625
+last_verified: 2026-06-25
+freshness: fresh
 ---
 
 # XS CAD
@@ -86,3 +81,8 @@ primary_sources:
 - Revit, Navisworks, BIM 360, AutoCAD, SketchUp, Dynamo, Solibri
 
 *Last updated: 2026-06-25*
+
+## Recent Findings (2026-06-25)
+
+- **www.powerkh.com** (conf: 0.74): Feb 25, 2025 ·Looking for reliableBIM outsourcingin theUSA? Discover top companies offering 2D to 3D CAD conversion, outsourcedBIMservices, andBIM4D modeling.
+

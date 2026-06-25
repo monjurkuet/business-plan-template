@@ -2,8 +2,8 @@
 sector: crypto-bitcoin
 last_verified: 2026-06-25
 freshness: fresh
-confidence: 0.741
-evidence_ids: ['a0474420-66c', '5b924e42-10c', '8ca63f4e-765', 'd643baa1-92b', 'eab2de74-b67', '5e6d7028-708', '705a00a9-843', '9479e485-5a9']
+confidence: 0.742
+evidence_ids: ['c9f5c810-c9b', '9973e10b-fea', '3ea7f8d2-f85', '74730a84-a61', '213e8e74-04b', '3b066f24-626', 'ac6062c3-07d', 'ce406c1a-e05']
 ---
 
 # Crypto & Bitcoin — Bangladesh Market
@@ -77,22 +77,23 @@ evidence_ids: ['a0474420-66c', '5b924e42-10c', '8ca63f4e-765', 'd643baa1-92b', '
 
 
 
+
 ## Auto-Updated Data (2026-06-25)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 36 | search | 0.95 |
-| ['Mineable', 'SafePaytm', 'Keystore'] | search | 0.95 |
-| Cryptocurrencies | search | 0.95 |
-| 32 | search | 0.95 |
-| {'name': 'Recursion FinTech Limited (RFTL)', 'offerings': ['secure financial tec | search | 0.95 |
-| {'name': 'Circle FinTech Ltd', 'offerings': ['payment solutions', 'financial ser | search | 0.95 |
-| ['thinkcrypt.io', 'Anchorblock Technology'] | search | 1.00 |
-| crypto mining | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| Top 46 | search | 1.00 |
-| 2025 | search | 1.00 |
-| Interactive Brokers | search | 1.00 |
-| Bangladesh | search | 1.00 |
+| ['BDT P2P', 'bKash', 'Nagad'] | search | 0.95 |
+| ['BDT P2P liquidity', 'low fees', 'platform reliability'] | search | 0.90 |
 | 2026 | search | 1.00 |
-| 100+ | search | 1.00 |
+| ['BDT', 'local payment methods'] | search | 0.90 |
+| ['buy', 'sell', 'trade Bitcoin and altcoins'] | search | 0.95 |
+| 2026 | search | 0.90 |
+| ['fees', 'supported coins', 'leverage', 'safety'] | search | 0.95 |
+| 2026 | search | 1.00 |
+| 3 million | search | 0.95 |
+| 35 | search | 0.95 |
+| total ban | search | 0.90 |
+| stablecoin remittance | search | 0.90 |
+| 2025 | search | 1.00 |
+| 775 | search | 0.95 |
+| IT | search | 1.00 |

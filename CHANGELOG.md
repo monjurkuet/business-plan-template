@@ -1,5 +1,26 @@
 # Changelog
 
+## 2026-06-25 14:16 UTC
+
+**Repo Audit**: 428 files across 0 sectors
+**Freshness Queue**: 120 items (P0: 50, P1: 70, P2: 0)
+**Searches Executed**: 60 queries
+**Evidence Collected**: 257 items, 121 facts extracted
+**Confidence**: 6 high (>=0.75), avg 0.58
+
+### Sector Breakdown
+- **automotive-car-care**: 36 evidence, 8 facts, avg conf 0.57
+- **bim-global-outreach**: 20 evidence, 29 facts, avg conf 0.64
+- **clothing-fashion**: 39 evidence, 0 facts, avg conf 0.55
+- **crypto-bitcoin**: 25 evidence, 25 facts, avg conf 0.61
+- **electronics-gadgets**: 31 evidence, 33 facts, avg conf 0.61
+- **high-roi-niches**: 26 evidence, 9 facts, avg conf 0.57
+- **jewellery**: 24 evidence, 13 facts, avg conf 0.59
+- **media-marketing-digital**: 29 evidence, 0 facts, avg conf 0.55
+- **travel-tourism**: 27 evidence, 4 facts, avg conf 0.56
+
+---
+
 ## 2026-06-25 12:40 UTC
 
 **Repo Audit**: 411 files across 0 sectors

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-25T12:40:55.669652+00:00",
+  "generated_at": "2026-06-25T14:16:21.334582+00:00",
   "summary": {
     "files_checked": 159,
-    "violations": 233,
+    "violations": 229,
     "warnings": 0
   },
   "violations": [
@@ -294,16 +294,6 @@
     {
       "file": "sectors/bim-global-outreach/bd-market/competitors/silicon-valley-cad.md",
       "type": "missing_field",
-      "detail": "Missing required field: last_verified"
-    },
-    {
-      "file": "sectors/bim-global-outreach/bd-market/competitors/silicon-valley-cad.md",
-      "type": "missing_field",
-      "detail": "Missing required field: freshness"
-    },
-    {
-      "file": "sectors/bim-global-outreach/bd-market/competitors/silicon-valley-cad.md",
-      "type": "missing_field",
       "detail": "Missing required field: confidence"
     },
     {
@@ -340,16 +330,6 @@
       "file": "sectors/bim-global-outreach/bd-market/competitors/virtual-building-studio.md",
       "type": "missing_field",
       "detail": "Missing required field: confidence"
-    },
-    {
-      "file": "sectors/bim-global-outreach/bd-market/competitors/xs-cad.md",
-      "type": "missing_field",
-      "detail": "Missing required field: last_verified"
-    },
-    {
-      "file": "sectors/bim-global-outreach/bd-market/competitors/xs-cad.md",
-      "type": "missing_field",
-      "detail": "Missing required field: freshness"
     },
     {
       "file": "sectors/bim-global-outreach/bd-market/competitors/xs-cad.md",

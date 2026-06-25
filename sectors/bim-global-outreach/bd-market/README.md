@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-06-25
 freshness: fresh
-confidence: 0.744
-evidence_ids: ['ea83e0e5-259', 'b775ec29-a44', 'e6cdf552-514', 'dbd587ea-036', '0247c720-8d9', '4e3dbe0f-96e']
+confidence: 0.741
+evidence_ids: ['826d15b8-833', '37542d14-0fd', 'c1bb1531-829', '188ce6b7-351', '5ea79366-220', 'dbd56e46-962', '0d4fb8cf-a4c', '47753d45-288', 'f0aebce3-319', '5943e132-643']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -101,22 +101,23 @@ evidence_ids: ['ea83e0e5-259', 'b775ec29-a44', 'e6cdf552-514', 'dbd587ea-036', '
 
 *Last updated: 2026-06-25*
 
+
 ## Auto-Updated Data (2026-06-25)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Foreign Exchange Regulation Act, 1947 | search | 0.95 |
-| Authorised Dealer (AD) licence from Bangladesh Bank | search | 0.95 |
-| Foreign exchange operations (buy, sell, deal in foreign currencies) | search | 0.95 |
-| Bangladesh Public Procurement Authority (BPPA) | search | 1.00 |
-| National authority responsible for public procurement policy, regulations, and e | search | 1.00 |
-| 2026-04-05 | search | 1.00 |
-| essential practice in the AEC industry in the United States | search | 0.95 |
-| access specialized expertise, reduce operational costs, handle BIM-related tasks | search | 0.90 |
-| 2025-03-13 | search | 0.95 |
-| cost advantages, access to specialised expertise, enhanced throughput for comple | search | 0.95 |
-| 2026–27 | search | 1.00 |
-| National Budget | search | 1.00 |
-| fiscal policy, revenue plans, development spending, economic impact | search | 0.90 |
-| frequent tax changes deter foreign investors | search | 0.95 |
-| 2026-27 | search | 1.00 |
+| 600 | search | 0.90 |
+| small residential | search | 0.95 |
+| 2026 | search | 0.90 |
+| California | search | 1.00 |
+| 2025 | search | 1.00 |
+| 2026-01-12 | search | 1.00 |
+| 2025-01-12 | search | 1.00 |
+| accurate, high-quality BIM models | search | 0.90 |
+| ['access specialized expertise', 'reduce operational costs', 'improve project tu | search | 0.95 |
+| ['challenges in seamless project execution'] | search | 0.90 |
+| BIM outsourcing USA, 3D BIM Modeling Services | search | 0.95 |
+| global | search | 0.90 |
+| BIM outsourcing in the United States | search | 0.95 |
+| 2025-03-13 | search | 0.90 |
+| architectural, engineering, and construction (AEC) | search | 0.95 |

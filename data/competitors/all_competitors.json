@@ -962,19 +962,15 @@
       "name": "cad",
       "sector": "bim-global-outreach",
       "frontmatter": {
-        "entity_type": "competitor",
         "sector": "bim-global-outreach",
-        "entity_slug": "silicon-valley-cad",
-        "last_verified_at": "2026-06-25T12:00:00Z",
-        "freshness_status": "fresh",
-        "confidence_score": "0.75",
-        "primary_sources": "- research_all_20260625"
+        "last_verified": "2026-06-25",
+        "freshness": "fresh"
       },
       "profile_category": "",
       "entity_slug": "silicon-valley-cad",
-      "last_verified_at": "2026-06-25T12:00:00Z",
-      "freshness_status": "fresh",
-      "confidence_score": 0.75,
+      "last_verified_at": "",
+      "freshness_status": "unknown",
+      "confidence_score": 0.0,
       "strengths": [
         "1. **Premium US-based** — All work done in USA by US staff, highest quality standards",
         "2. **California market expertise** — Deep knowledge of CA title 24, CALGreen, local building codes",
@@ -1152,19 +1148,15 @@
       "name": "cad",
       "sector": "bim-global-outreach",
       "frontmatter": {
-        "entity_type": "competitor",
         "sector": "bim-global-outreach",
-        "entity_slug": "xs-cad",
-        "last_verified_at": "2026-06-25T12:00:00Z",
-        "freshness_status": "fresh",
-        "confidence_score": "0.75",
-        "primary_sources": "- research_all_20260625"
+        "last_verified": "2026-06-25",
+        "freshness": "fresh"
       },
       "profile_category": "",
       "entity_slug": "xs-cad",
-      "last_verified_at": "2026-06-25T12:00:00Z",
-      "freshness_status": "fresh",
-      "confidence_score": 0.75,
+      "last_verified_at": "",
+      "freshness_status": "unknown",
+      "confidence_score": 0.0,
       "strengths": [
         "1. **Sector specialization** — Deep domain expertise in hospitality and healthcare BIM (Ritz-Carlton, Marriott, NHS projects)",
         "2. **UK heritage** — London HQ with India delivery, strong understanding of UK BIM standards and ISO 19650",

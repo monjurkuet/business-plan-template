@@ -2,8 +2,8 @@
 sector: electronics-gadgets
 last_verified: 2026-06-25
 freshness: fresh
-confidence: 0.739
-evidence_ids: ['1ab9a042-151', '560d2fde-d92', 'd811e780-38d', '29454b70-537', 'a3d4b7f9-fee']
+confidence: 0.743
+evidence_ids: ['aef4f742-b2c', '607a783d-83c', '51da75d2-911', '2b17baa9-e8c', '2d9ffe75-85c', '3d4679b7-5d3', 'ca3cb6b8-41b', '0e8d0fca-617', '2b414989-8ab', '9607086f-feb']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -84,18 +84,23 @@ evidence_ids: ['1ab9a042-151', '560d2fde-d92', 'd811e780-38d', '29454b70-537', '
 
 
 
+
 ## Auto-Updated Data (2026-06-25)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ['ACs', 'refrigerators', 'washing machines', 'smart TVs', 'ovens'] | search | 0.95 |
-| ['official warranty', 'EMI facilities', 'fast home delivery'] | search | 0.95 |
-| unbeatable prices | search | 0.90 |
-| consumer electronics online shopping platform | search | 0.95 |
-| premium quality products, original electronic appliances | search | 0.90 |
-| authorized multi-brand electronics retailer | search | 0.95 |
-| ['authentic products', 'official warranty', '0% EMI', '16 superstores nationwide | search | 0.95 |
-| electronic and electrical products | search | 0.90 |
-| ['premium electronics', 'smart TV', 'air conditions', 'home gadgets', 'lifestyle | search | 0.95 |
-| ['fast delivery', 'authentic products'] | search | 0.95 |
-| unbeatable prices | search | 0.90 |
+| TCL TV | search | 1.00 |
+| 25500-102900 | search | 1.00 |
+| ElectronicsBangladesh | search | 1.00 |
+| Express Delivery, official warranty | search | 1.00 |
+| Othoba.com | search | 1.00 |
+| lowest price, quality products, quick delivery, variety of electronics & gadgets | search | 1.00 |
+| GadgetBangladesh | search | 1.00 |
+| Gadgets & Premium Accessories | search | 1.00 |
+| Top brands, best prices, free shipping | search | 1.00 |
+| Offerong | search | 1.00 |
+| best prices, offers, and discounts on electronics | search | 1.00 |
+| BRANDS MEGA LTD | search | 1.00 |
+| 15.00 | search | 0.80 |
+| Navana Tower (Level-18) 45 Gulshan Avenue, Gulshan-1 Dhaka -1212, Bangladesh | search | 1.00 |
+| Electronics Bangladesh | search | 1.00 |

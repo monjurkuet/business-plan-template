@@ -2,8 +2,8 @@
 sector: jewellery
 last_verified: 2026-06-25
 freshness: fresh
-confidence: 0.75
-evidence_ids: ['42e20d8f-1b0', 'f46ebe7b-726', '4b758552-3c4', '938ba869-901']
+confidence: 0.739
+evidence_ids: ['c4e255c1-11e', 'ae573f8c-116', '2a5a4d07-ff3', '033aea5a-b20', '08477ede-502']
 ---
 
 # Jewellery — Bangladesh Market
@@ -74,13 +74,21 @@ evidence_ids: ['42e20d8f-1b0', 'f46ebe7b-726', '4b758552-3c4', '938ba869-901']
 
 
 
+
 ## Auto-Updated Data (2026-06-25)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| pearl necklaces | search | 1.00 |
-| Cox's Bazaar, Bangladesh | search | 1.00 |
-| ['pendant necklaces', 'statement necklaces', 'choker necklaces'] | search | 1.00 |
-| red gold | search | 1.00 |
-| ['verified suppliers', 'purity check', 'secure shopping', 'AR try-on', 'lifetime | search | 1.00 |
-| wedding jewellery | search | 1.00 |
+| 200 to 3000 | search | 0.95 |
+| fashion jewellery for daily and festive wear | search | 0.90 |
+| Gold prices in Bangladesh change frequently and impact all gold jewellers and or | search | 0.95 |
+| Al Amin Jewellers, Amin Jewellers, Apan Jewellers | search | 0.90 |
+| Diamond World Limited is the most trusted gold and diamond shop in Bangladesh an | search | 0.95 |
+| affordable price | search | 0.80 |
+| Al Amin Jewellers is a pioneer in online jewellery shopping in Bangladesh. | search | 0.95 |
+| best price when buying gold from customers | search | 0.90 |
+| any kind of jewelry item | search | 0.90 |
+| Gaurav Jewellers | search | 1.00 |
+| Grand Opening | search | 1.00 |
+| 2019-10-11 | search | 1.00 |
+| Jamuna Future Park, Level-2, Block-C, Shop No.36 | search | 1.00 |
