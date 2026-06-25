@@ -2,8 +2,8 @@
 sector: media-marketing-digital
 last_verified: 2026-06-25
 freshness: fresh
-confidence: 0.747
-evidence_ids: ['07c65e27-f3c', 'fae69a15-6d0', '916b8710-6d5', '75419a19-a3e', 'dfc47e73-380']
+confidence: 0.71
+evidence_ids: ['8d9804a5-54e', '60537e7d-e90']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market
@@ -85,22 +85,14 @@ evidence_ids: ['07c65e27-f3c', 'fae69a15-6d0', '916b8710-6d5', '75419a19-a3e', '
 
 
 
+
 ## Auto-Updated Data (2026-06-25)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| startups | search | 1.00 |
-| affordable digital marketing | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| ['Facebook Ads', 'Google Ads', 'SEO'] | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| 2026 | search | 1.00 |
-| Rajshahi Digital Hub | search | 1.00 |
-| affordable pricing | search | 1.00 |
-| Mobile Marketing Bangladesh | search | 1.00 |
-| mobile-first | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| Rajshahi | search | 1.00 |
-| Digital Marketing Specialist (Account Recovery Expert) | search | 0.95 |
-| ['Facebook Recovery', 'Gmail Recovery'] | search | 0.95 |
-| CyberAware BD | search | 0.95 |
+| digital multichannel marketing campaigns in Bangladesh at prices without rivalry | search | 1.00 |
+| payment per use | search | 1.00 |
+| bulk SMS, email, voice | search | 1.00 |
+| 207 | search | 1.00 |
+| Digital Marketing Services | search | 1.00 |
+| Bangladesh-based IT companies started to export software around two decades ago, | search | 1.00 |

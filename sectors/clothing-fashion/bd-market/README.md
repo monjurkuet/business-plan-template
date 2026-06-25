@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-06-25
 freshness: fresh
-confidence: 0.647
-evidence_ids: ['ac6666c5-2dc']
+confidence: 0.749
+evidence_ids: ['fc77dcd9-3f0', '412dbd01-a8c', 'a9e6a33b-072', '426c0bfd-d30']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -98,12 +98,18 @@ evidence_ids: ['ac6666c5-2dc']
 
 
 
+
 ## Auto-Updated Data (2026-06-25)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| online fashion store | search | 1.00 |
-| ['clothes', 'dresses', 'shoes'] | search | 1.00 |
-| ['men', 'women', 'kids'] | search | 1.00 |
-| home delivery | search | 1.00 |
-| best prices | search | 0.90 |
+| Tyzo is a modern Bangladeshi clothing brand offering stylish, comfortable, and a | search | 1.00 |
+| premium-quality outfits, perfect fits, fast delivery, reliable service | search | 1.00 |
+| Bangladesh's largest online fashion store | search | 1.00 |
+| clothes, dresses, shoes for men, women & kids | search | 1.00 |
+| best prices in home delivery | search | 0.90 |
+| Sailor is one of the best fashion retail brands in Bangladesh | search | 1.00 |
+| trendy menswear, womenswear, kidswear, lifestyle essentials | search | 1.00 |
+| Epyllion Group | search | 1.00 |
+| Always With You | search | 1.00 |
+| stylish clothing, accessories for men and women | search | 1.00 |

@@ -2,8 +2,8 @@
 sector: high-roi-niches
 last_verified: 2026-06-25
 freshness: fresh
-confidence: 0.736
-evidence_ids: ['b3527ca4-251', 'c661ceaf-b9e', 'c484db41-de5', 'a3809b9d-6b4']
+confidence: 0.738
+evidence_ids: ['092bcd97-d07', 'a7d9581d-cf1', '29ff822a-e7f']
 ---
 
 # High-ROI Niches — Bangladesh Market
@@ -83,16 +83,15 @@ This sector captures high-growth, high-margin niche opportunities in Bangladesh.
 
 
 
+
 ## Auto-Updated Data (2026-06-25)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Pet shop in Bangladesh offering quality pet products, food, toys, and accessorie | search | 0.90 |
-| top-notch customer service | search | 0.90 |
-| Daraz is the largest online pet shop in Bangladesh showcasing a wide range of pe | search | 0.95 |
-| pet supplies at the best prices | search | 0.80 |
-| home delivery available | search | 0.90 |
-| Pet Town BD is a pet care destination in Bangladesh offering premium-quality pet | search | 0.95 |
-| top-rated customer service | search | 0.90 |
-| Pet Lover BD offers high-quality pet supplies for dogs, cats, birds, and small a | search | 0.95 |
-| pet food, accessories, and care products | search | 0.90 |
+| HIT LIFE cat food | search | 0.90 |
+| grain-free cat food | search | 0.90 |
+| kitchen flavor | search | 0.80 |
+| online veterinary services | search | 1.00 |
+| free of charge | search | 1.00 |
+| Shokher Tola | search | 0.90 |
+| 80 | search | 0.90 |

@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-06-25
 freshness: fresh
-confidence: 0.741
-evidence_ids: ['826d15b8-833', '37542d14-0fd', 'c1bb1531-829', '188ce6b7-351', '5ea79366-220', 'dbd56e46-962', '0d4fb8cf-a4c', '47753d45-288', 'f0aebce3-319', '5943e132-643']
+confidence: 0.739
+evidence_ids: ['9e63db85-98a', 'bc3eebff-044', 'e56de4ac-4b8', 'f4977f7c-8c1', '1b74a9d0-93a', '3e511c72-7b3']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -102,22 +102,23 @@ evidence_ids: ['826d15b8-833', '37542d14-0fd', 'c1bb1531-829', '188ce6b7-351', '
 *Last updated: 2026-06-25*
 
 
+
 ## Auto-Updated Data (2026-06-25)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 600 | search | 0.90 |
-| small residential | search | 0.95 |
-| 2026 | search | 0.90 |
-| California | search | 1.00 |
-| 2025 | search | 1.00 |
-| 2026-01-12 | search | 1.00 |
-| 2025-01-12 | search | 1.00 |
-| accurate, high-quality BIM models | search | 0.90 |
-| ['access specialized expertise', 'reduce operational costs', 'improve project tu | search | 0.95 |
-| ['challenges in seamless project execution'] | search | 0.90 |
-| BIM outsourcing USA, 3D BIM Modeling Services | search | 0.95 |
-| global | search | 0.90 |
-| BIM outsourcing in the United States | search | 0.95 |
-| 2025-03-13 | search | 0.90 |
-| architectural, engineering, and construction (AEC) | search | 0.95 |
+| 2026-01-12 | search | 0.95 |
+| 2025-01-12 | search | 0.95 |
+| Scan to BIM outsourcing | search | 0.90 |
+| USA | search | 0.90 |
+| BIMBOSS | search | 0.95 |
+| BIM outsourcing consulting | search | 0.95 |
+| ['USA', 'UK', 'India'] | search | 0.90 |
+| ['contractors', 'engineering design firms', 'architects'] | search | 0.90 |
+| 2026-01-12 | search | 0.95 |
+| 2025-01-12 | search | 0.95 |
+| outsourcing guarantees accurate, high-quality BIM models customized to project r | search | 0.90 |
+| The United States has one of the largest and most competitive construction indus | search | 0.90 |
+| Building Information Modeling (BIM) outsourcing has become an essential practice | search | 0.95 |
+| access specialized expertise, reduce operational costs, improve efficiency | search | 0.90 |
+| 2025-03-13 | search | 0.95 |

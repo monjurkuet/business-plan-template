@@ -2,8 +2,8 @@
 sector: electronics-gadgets
 last_verified: 2026-06-25
 freshness: fresh
-confidence: 0.743
-evidence_ids: ['aef4f742-b2c', '607a783d-83c', '51da75d2-911', '2b17baa9-e8c', '2d9ffe75-85c', '3d4679b7-5d3', 'ca3cb6b8-41b', '0e8d0fca-617', '2b414989-8ab', '9607086f-feb']
+confidence: 0.741
+evidence_ids: ['574d70a6-1f6', '273507c9-fc3', '7b05baa1-c1c', 'cd3c9cb5-71f']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -85,22 +85,17 @@ evidence_ids: ['aef4f742-b2c', '607a783d-83c', '51da75d2-911', '2b17baa9-e8c', '
 
 
 
+
 ## Auto-Updated Data (2026-06-25)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| TCL TV | search | 1.00 |
-| 25500-102900 | search | 1.00 |
-| ElectronicsBangladesh | search | 1.00 |
-| Express Delivery, official warranty | search | 1.00 |
-| Othoba.com | search | 1.00 |
-| lowest price, quality products, quick delivery, variety of electronics & gadgets | search | 1.00 |
-| GadgetBangladesh | search | 1.00 |
-| Gadgets & Premium Accessories | search | 1.00 |
-| Top brands, best prices, free shipping | search | 1.00 |
-| Offerong | search | 1.00 |
-| best prices, offers, and discounts on electronics | search | 1.00 |
-| BRANDS MEGA LTD | search | 1.00 |
-| 15.00 | search | 0.80 |
-| Navana Tower (Level-18) 45 Gulshan Avenue, Gulshan-1 Dhaka -1212, Bangladesh | search | 1.00 |
-| Electronics Bangladesh | search | 1.00 |
+| home appliances, ACs, refrigerators, washing machines, smart TVs, ovens | search | 0.95 |
+| unbeatable prices | search | 0.90 |
+| official warranty, EMI facilities, fast home delivery | search | 0.95 |
+| consumer electronics online shopping platform | search | 0.95 |
+| premium quality products, Original Electronic Appliances | search | 0.95 |
+| one-stop shop for electronic and electrical products | search | 0.95 |
+| premium electronics, Smart TV, Air Conditions, home gadgets, lifestyle products | search | 0.95 |
+| unbeatable prices | search | 0.90 |
+| fast delivery, authentic products | search | 0.95 |

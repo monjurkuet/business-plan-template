@@ -2,8 +2,8 @@
 sector: travel-tourism
 last_verified: 2026-06-25
 freshness: fresh
-confidence: 0.699
-evidence_ids: ['147274b7-ef6', 'd68d0052-941']
+confidence: 0.733
+evidence_ids: ['d43c641c-5c0', '37ea2070-c4a', '08eb7a7b-b19']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -64,11 +64,13 @@ evidence_ids: ['147274b7-ef6', 'd68d0052-941']
 
 
 
+
 ## Auto-Updated Data (2026-06-25)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Affordable tour packages, air tickets, and visa support | search | 0.90 |
-| Travel Agency | search | 0.95 |
-| Amazing tour and travel packages at affordable price | search | 0.90 |
-| Travel Agency, Tour Operator | search | 0.95 |
+| 2017 | search | 1.00 |
+| IATA | search | 1.00 |
+| affordable prices | search | 0.90 |
+| affordable journey | search | 0.90 |
+| 1315 | search | 0.80 |

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-25T14:16:21.334582+00:00",
+  "generated_at": "2026-06-25T15:50:50.842375+00:00",
   "summary": {
     "files_checked": 159,
-    "violations": 229,
+    "violations": 227,
     "warnings": 0
   },
   "violations": [
@@ -495,16 +495,6 @@
       "file": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-sadakalo.md",
       "type": "missing_field",
       "detail": "Missing required field: confidence"
-    },
-    {
-      "file": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-sailor.md",
-      "type": "missing_field",
-      "detail": "Missing required field: last_verified"
-    },
-    {
-      "file": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-sailor.md",
-      "type": "missing_field",
-      "detail": "Missing required field: freshness"
     },
     {
       "file": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-sailor.md",
