@@ -1,9 +1,9 @@
 ---
 sector: electronics-gadgets
-last_verified: 2026-06-25
+last_verified: 2026-06-26
 freshness: fresh
 confidence: 0.741
-evidence_ids: ['574d70a6-1f6', '273507c9-fc3', '7b05baa1-c1c', 'cd3c9cb5-71f']
+evidence_ids: ['cb954b82-517', 'be7e38cd-2ea', 'c5ebb3e2-0c9', '361f54eb-391', '1e52313c-e6d']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -86,16 +86,19 @@ evidence_ids: ['574d70a6-1f6', '273507c9-fc3', '7b05baa1-c1c', 'cd3c9cb5-71f']
 
 
 
-## Auto-Updated Data (2026-06-25)
+
+## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
 | home appliances, ACs, refrigerators, washing machines, smart TVs, ovens | search | 0.95 |
-| unbeatable prices | search | 0.90 |
 | official warranty, EMI facilities, fast home delivery | search | 0.95 |
-| consumer electronics online shopping platform | search | 0.95 |
-| premium quality products, Original Electronic Appliances | search | 0.95 |
-| one-stop shop for electronic and electrical products | search | 0.95 |
-| premium electronics, Smart TV, Air Conditions, home gadgets, lifestyle products | search | 0.95 |
 | unbeatable prices | search | 0.90 |
-| fast delivery, authentic products | search | 0.95 |
+| consumer electronics online shopping platform | search | 0.95 |
+| premium quality products, original electronic appliances | search | 0.95 |
+| seamless online shopping experience | search | 0.90 |
+| authorized multi-brand electronics retailer | search | 0.95 |
+| authentic products, official warranty, 0% EMI, 16 superstores nationwide | search | 0.95 |
+| one-stop shop for electronic and electrical products | search | 0.95 |
+| premium electronics, smart TV, air conditions, home gadgets, lifestyle products | search | 0.95 |
+| fast delivery, authentic products, unbeatable prices | search | 0.95 |

@@ -1,9 +1,9 @@
 ---
 sector: crypto-bitcoin
-last_verified: 2026-06-25
+last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.74
-evidence_ids: ['ba795f24-a00', 'e344f3b8-1f9', '46fbd329-9f4']
+confidence: 0.742
+evidence_ids: ['9bb462c6-672', '8fa076eb-22f', '3fc9a1b7-6fc', '453a6e3d-9d4']
 ---
 
 # Crypto & Bitcoin — Bangladesh Market
@@ -79,17 +79,17 @@ evidence_ids: ['ba795f24-a00', 'e344f3b8-1f9', '46fbd329-9f4']
 
 
 
-## Auto-Updated Data (2026-06-25)
+
+## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| not legalized but not outright banned | search | 0.95 |
-| volatility warning issued | search | 0.90 |
-| Bangladesh Bank | search | 0.95 |
+| BDT P2P liquidity, bKash and Nagad support, low fees, platform reliability | search | 0.95 |
+| 2026-03-26 | search | 0.95 |
+| buy, sell, and trade Bitcoin and altcoins | search | 0.95 |
+| support for BDT and local payment methods | search | 0.95 |
+| 2026-06-04 | search | 0.95 |
+| 3000000 | search | 0.95 |
+| 35 | search | 0.95 |
 | banned | search | 0.95 |
-| money laundering, foreign exchange violations | search | 0.90 |
-| arrest, frozen accounts, prison | search | 0.90 |
-| Dhaka, Bangladesh | search | 0.95 |
-| cryptocurrency trading | search | 0.95 |
-| educational video | search | 0.90 |
-| TikTok | search | 1.00 |
+| 775 | search | 0.95 |

@@ -1488,6 +1488,12 @@
     "extension": ".json"
   },
   {
+    "path": "data/evidence/20260625-172247.json",
+    "size_bytes": 225846,
+    "last_modified": "2026-06-25T17:22:47.243062+00:00",
+    "extension": ".json"
+  },
+  {
     "path": "data/evidence/20260510-055540.json",
     "size_bytes": 94058,
     "last_modified": "2026-06-24T17:35:49.563241+00:00",
@@ -2545,20 +2551,20 @@
   },
   {
     "path": "_system/state/file_inventory.json",
-    "size_bytes": 76461,
-    "last_modified": "2026-06-25T15:48:06.805167+00:00",
+    "size_bytes": 76628,
+    "last_modified": "2026-06-25T17:22:07.357762+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/validation_results.json",
     "size_bytes": 42418,
-    "last_modified": "2026-06-25T15:50:50.838437+00:00",
+    "last_modified": "2026-06-25T17:22:07.609770+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/audit_results.json",
     "size_bytes": 6337,
-    "last_modified": "2026-06-25T15:48:06.825168+00:00",
+    "last_modified": "2026-06-25T17:22:07.357762+00:00",
     "extension": ".json"
   },
   {
@@ -2570,13 +2576,13 @@
   {
     "path": "_system/state/freshness_queue.json",
     "size_bytes": 43866,
-    "last_modified": "2026-06-25T15:48:07.021174+00:00",
+    "last_modified": "2026-06-25T17:22:07.521767+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/search_plan.json",
-    "size_bytes": 23596,
-    "last_modified": "2026-06-25T15:50:48.818372+00:00",
+    "size_bytes": 12920,
+    "last_modified": "2026-06-25T17:22:47.247062+00:00",
     "extension": ".json"
   }
 ]

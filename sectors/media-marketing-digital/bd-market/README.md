@@ -1,9 +1,9 @@
 ---
 sector: media-marketing-digital
-last_verified: 2026-06-25
+last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.71
-evidence_ids: ['8d9804a5-54e', '60537e7d-e90']
+confidence: 0.739
+evidence_ids: ['ce840070-03d', 'f947381a-0fe', '05d850c2-ba3']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market
@@ -86,13 +86,14 @@ evidence_ids: ['8d9804a5-54e', '60537e7d-e90']
 
 
 
-## Auto-Updated Data (2026-06-25)
+
+## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| digital multichannel marketing campaigns in Bangladesh at prices without rivalry | search | 1.00 |
-| payment per use | search | 1.00 |
-| bulk SMS, email, voice | search | 1.00 |
-| 207 | search | 1.00 |
-| Digital Marketing Services | search | 1.00 |
-| Bangladesh-based IT companies started to export software around two decades ago, | search | 1.00 |
+| Bulk SMS, Email Marketing, RCS, IVR, WhatsApp | search | 0.95 |
+| Pay-per-use | search | 0.90 |
+| Pay only for what you use | search | 0.90 |
+| ['GEEKY SOCIAL LTD.', 'OneLittleWeb', 'BrandViser', 'MonsterClaw LLC', 'Ecomclip | search | 0.95 |
+| 207 | search | 0.95 |
+| Bangladesh-based IT companies started exporting software around two decades ago, | search | 0.90 |

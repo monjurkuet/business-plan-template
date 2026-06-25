@@ -1,9 +1,9 @@
 ---
 sector: automotive-car-care
-last_verified: 2026-06-25
+last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.738
-evidence_ids: ['a01c7115-655', '9b8df45d-9e3', '2bee6240-df2', '5a38230a-fed']
+confidence: 0.7
+evidence_ids: ['a2acc5fc-810', '2de82ea0-08d']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -115,15 +115,15 @@ evidence_ids: ['a01c7115-655', '9b8df45d-9e3', '2bee6240-df2', '5a38230a-fed']
 
 
 
-## Auto-Updated Data (2026-06-25)
+
+## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| automobile air conditioner service | search | 0.90 |
-| best automobile air conditioner company in Bangladesh | search | 0.90 |
-| automotive parts, car accessories, auto spare parts, lubricants | search | 0.95 |
-| leading online car parts and accessories shop in Bangladesh | search | 0.95 |
-| FLIP PLATE, My Romance Car Air Freshner | search | 0.90 |
-| Home delivery all over Bangladesh | search | 0.90 |
-| Best Practices for Choosing Tires in Bangladesh | search | 0.95 |
-| 2025-01-02 | search | 0.95 |
+| car air freshener | search | 0.95 |
+| CarBase Bangladesh | search | 0.95 |
+| FLIP PLATE | search | 0.90 |
+| all over Bangladesh | search | 0.95 |
+| Car Care, Dhaka,Bangladesh | search | 0.90 |
+| Dhaka, Bangladesh | search | 0.95 |
+| 127 | search | 0.90 |

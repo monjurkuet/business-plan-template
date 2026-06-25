@@ -1,9 +1,9 @@
 ---
 sector: travel-tourism
-last_verified: 2026-06-25
+last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.733
-evidence_ids: ['d43c641c-5c0', '37ea2070-c4a', '08eb7a7b-b19']
+confidence: 0.743
+evidence_ids: ['b6dec211-b87', '1dc0f960-c2d', '1d5a09ab-8f0', 'c8e8cb57-43f']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -65,12 +65,18 @@ evidence_ids: ['d43c641c-5c0', '37ea2070-c4a', '08eb7a7b-b19']
 
 
 
-## Auto-Updated Data (2026-06-25)
+
+## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 2017 | search | 1.00 |
-| IATA | search | 1.00 |
-| affordable prices | search | 0.90 |
-| affordable journey | search | 0.90 |
-| 1315 | search | 0.80 |
+| Hotels, visa, tours, flight booking | search | 0.95 |
+| Travel Agency Bangladesh | search | 0.95 |
+| goFLY Limited | search | 0.95 |
+| IATA-certified | search | 0.95 |
+| 2017 | search | 0.95 |
+| Dhaka, Bangladesh | search | 0.95 |
+| Honest service, affordable prices, real support | search | 0.90 |
+| Air ticketing, visa processing, holiday packages, global tours | search | 0.95 |
+| Leisure, business, Hajj, study abroad travelers | search | 0.90 |
+| 1315 | search | 1.00 |

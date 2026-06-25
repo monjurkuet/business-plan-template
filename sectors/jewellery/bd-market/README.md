@@ -1,9 +1,9 @@
 ---
 sector: jewellery
-last_verified: 2026-06-25
+last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.747
-evidence_ids: ['44b19ad6-1f8', '29b7282e-193', 'c3b2c511-899', 'fc024c0a-3df', '04c16481-208']
+confidence: 0.739
+evidence_ids: ['553c59ba-fe7', '791312ea-9da', '4cc08d07-1f5']
 ---
 
 # Jewellery — Bangladesh Market
@@ -76,18 +76,13 @@ evidence_ids: ['44b19ad6-1f8', '29b7282e-193', 'c3b2c511-899', 'fc024c0a-3df', '
 
 
 
-## Auto-Updated Data (2026-06-25)
+
+## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 200-3000 | search | 1.00 |
-| daily and festive wear | search | 1.00 |
-| impacted on all gold jewellers in Bangladesh | search | 1.00 |
-| ['churi', 'chain', 'gold bracelet'] | search | 1.00 |
-| gold and diamond shop | search | 1.00 |
-| most trusted gold and diamond shop in Bangladesh | search | 0.90 |
-| affordable | search | 0.80 |
-| best price when buying gold from customers | search | 1.00 |
-| pioneer in online jewellery shop in Bangladesh | search | 1.00 |
-| 2019-10-11 | search | 1.00 |
-| Jamuna Future Park, Level-2, Block-C, Shop No.36 | search | 1.00 |
+| Love Pearl Necklace Gift Box Freshwater Pearl Jewelry | search | 0.90 |
+| pearl jewellery | search | 0.95 |
+| red gold | search | 0.95 |
+| Bangladesh | search | 0.95 |
+| wedding jewellery | search | 0.90 |

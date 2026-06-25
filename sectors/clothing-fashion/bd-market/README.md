@@ -1,9 +1,9 @@
 ---
 sector: clothing-fashion
-last_verified: 2026-06-25
+last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.749
-evidence_ids: ['fc77dcd9-3f0', '412dbd01-a8c', 'a9e6a33b-072', '426c0bfd-d30']
+confidence: 0.741
+evidence_ids: ['2aa7fb3f-497', '720d3318-924', 'd56e5001-114', '50aa68a9-46f', '7341205d-5f5']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -99,17 +99,23 @@ evidence_ids: ['fc77dcd9-3f0', '412dbd01-a8c', 'a9e6a33b-072', '426c0bfd-d30']
 
 
 
-## Auto-Updated Data (2026-06-25)
+
+## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Tyzo is a modern Bangladeshi clothing brand offering stylish, comfortable, and a | search | 1.00 |
-| premium-quality outfits, perfect fits, fast delivery, reliable service | search | 1.00 |
-| Bangladesh's largest online fashion store | search | 1.00 |
-| clothes, dresses, shoes for men, women & kids | search | 1.00 |
-| best prices in home delivery | search | 0.90 |
-| Sailor is one of the best fashion retail brands in Bangladesh | search | 1.00 |
-| trendy menswear, womenswear, kidswear, lifestyle essentials | search | 1.00 |
-| Epyllion Group | search | 1.00 |
-| Always With You | search | 1.00 |
-| stylish clothing, accessories for men and women | search | 1.00 |
+| ['best match', 'price', 'free shipping', 'fast delivery', 'free return'] | search | 0.95 |
+| Bangladesh | search | 0.95 |
+| baggy pants | search | 0.95 |
+| boys | search | 0.90 |
+| ['casual wear', 'comfortable daily wear', 'premium quality fabric', 'affordable  | search | 0.90 |
+| all over Bangladesh | search | 0.95 |
+| ['t-shirts', 'polo shirts', 'casual shirts', 'summer wear'] | search | 0.95 |
+| across Bangladesh | search | 0.95 |
+| Mom & Kids | search | 0.95 |
+| SiATEX Global | search | 0.95 |
+| trusted and reliable clothing manufacturer in Bangladesh | search | 0.95 |
+| best factory prices and highest-quality custom apparel | search | 0.90 |
+| luxury clothing | search | 0.95 |
+| Triple – Silent Luxury | search | 0.95 |
+| Black Aura – Black & Cream Polka Dot Luxury Pret 3-Piece | search | 0.95 |
