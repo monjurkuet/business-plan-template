@@ -1,19 +1,19 @@
 {
   "queries": {
     "\"auto detailing Dhaka\" policy Bangladesh 2026": {
-      "score": 0.4056,
-      "hits": 383,
+      "score": 0.3853,
+      "hits": 385,
       "high_conf_hits": 6,
       "total_facts": 45,
       "sectors": [
         "automotive-car-care"
       ],
       "first_seen": "2026-05-06T16:12:50.913680+00:00",
-      "last_seen": "2026-06-25T00:06:05.665046+00:00",
-      "decayed_at": "2026-06-25T00:06:05.664794+00:00"
+      "last_seen": "2026-06-25T03:10:55.114411+00:00",
+      "decayed_at": "2026-06-25T03:10:55.114133+00:00"
     },
     "\"clothing Bangladesh\" regulation Bangladesh 2026": {
-      "score": 0.0119,
+      "score": 0.0113,
       "hits": 387,
       "high_conf_hits": 6,
       "total_facts": 23,
@@ -22,10 +22,10 @@
       ],
       "first_seen": "2026-05-06T16:12:50.913693+00:00",
       "last_seen": "2026-06-17T05:07:36.276491+00:00",
-      "decayed_at": "2026-06-25T00:06:05.664830+00:00"
+      "decayed_at": "2026-06-25T03:10:55.114181+00:00"
     },
     "\"clothing Bangladesh\" policy Bangladesh 2026": {
-      "score": 0.0162,
+      "score": 0.0154,
       "hits": 400,
       "high_conf_hits": 9,
       "total_facts": 32,
@@ -34,10 +34,10 @@
       ],
       "first_seen": "2026-05-06T16:12:50.913710+00:00",
       "last_seen": "2026-06-17T05:07:36.276509+00:00",
-      "decayed_at": "2026-06-25T00:06:05.664833+00:00"
+      "decayed_at": "2026-06-25T03:10:55.114186+00:00"
     },
     "\"fashion brand Dhaka\" regulation Bangladesh 2026": {
-      "score": 0.0057,
+      "score": 0.0054,
       "hits": 290,
       "high_conf_hits": 1,
       "total_facts": 31,
@@ -46,10 +46,10 @@
       ],
       "first_seen": "2026-05-06T16:12:50.913733+00:00",
       "last_seen": "2026-06-17T05:07:36.276531+00:00",
-      "decayed_at": "2026-06-25T00:06:05.664836+00:00"
+      "decayed_at": "2026-06-25T03:10:55.114190+00:00"
     },
     "site:gov.bd \"clothing Bangladesh\" circular": {
-      "score": 0.0073,
+      "score": 0.0069,
       "hits": 263,
       "high_conf_hits": 2,
       "total_facts": 13,
@@ -58,10 +58,10 @@
       ],
       "first_seen": "2026-05-06T16:15:35.169064+00:00",
       "last_seen": "2026-06-17T05:07:36.276520+00:00",
-      "decayed_at": "2026-06-25T00:06:05.664839+00:00"
+      "decayed_at": "2026-06-25T03:10:55.114193+00:00"
     },
     "\"crypto Bangladesh\" Bangladesh top companies": {
-      "score": 0.0061,
+      "score": 0.0058,
       "hits": 383,
       "high_conf_hits": 1,
       "total_facts": 16,
@@ -70,10 +70,10 @@
       ],
       "first_seen": "2026-05-06T16:23:38.142111+00:00",
       "last_seen": "2026-05-30T19:58:50.469108+00:00",
-      "decayed_at": "2026-06-25T00:06:05.664841+00:00"
+      "decayed_at": "2026-06-25T03:10:55.114196+00:00"
     },
     "site:facebook.com \"crypto Bangladesh\" Bangladesh": {
-      "score": 0.017,
+      "score": 0.0162,
       "hits": 270,
       "high_conf_hits": 8,
       "total_facts": 18,
@@ -82,10 +82,10 @@
       ],
       "first_seen": "2026-05-06T16:23:38.142146+00:00",
       "last_seen": "2026-05-30T19:58:50.469145+00:00",
-      "decayed_at": "2026-06-25T00:06:05.664843+00:00"
+      "decayed_at": "2026-06-25T03:10:55.114201+00:00"
     },
     "\"bitcoin BD\" Bangladesh top companies": {
-      "score": 0.0133,
+      "score": 0.0126,
       "hits": 236,
       "high_conf_hits": 5,
       "total_facts": 14,
@@ -94,10 +94,10 @@
       ],
       "first_seen": "2026-05-06T16:23:38.142164+00:00",
       "last_seen": "2026-05-30T19:58:50.469163+00:00",
-      "decayed_at": "2026-06-25T00:06:05.664848+00:00"
+      "decayed_at": "2026-06-25T03:10:55.114207+00:00"
     },
     "\"crypto Bangladesh\" price Bangladesh": {
-      "score": 0.0089,
+      "score": 0.0085,
       "hits": 361,
       "high_conf_hits": 3,
       "total_facts": 4,
@@ -106,10 +106,10 @@
       ],
       "first_seen": "2026-05-06T16:23:38.142192+00:00",
       "last_seen": "2026-05-30T19:58:50.469229+00:00",
-      "decayed_at": "2026-06-25T00:06:05.664851+00:00"
+      "decayed_at": "2026-06-25T03:10:55.114211+00:00"
     },
     "\"bitcoin BD\" Dhaka Facebook": {
-      "score": 0.0135,
+      "score": 0.0128,
       "hits": 246,
       "high_conf_hits": 5,
       "total_facts": 18,
@@ -118,34 +118,34 @@
       ],
       "first_seen": "2026-05-06T22:30:32.095032+00:00",
       "last_seen": "2026-05-30T19:58:50.469181+00:00",
-      "decayed_at": "2026-06-25T00:06:05.664853+00:00"
+      "decayed_at": "2026-06-25T03:10:55.114214+00:00"
     },
     "\"car care Bangladesh\" regulation Bangladesh 2026": {
-      "score": 0.2251,
-      "hits": 164,
+      "score": 0.2138,
+      "hits": 169,
       "high_conf_hits": 5,
       "total_facts": 18,
       "sectors": [
         "automotive-car-care"
       ],
       "first_seen": "2026-05-26T23:40:55.419105+00:00",
-      "last_seen": "2026-06-25T00:06:05.665016+00:00",
-      "decayed_at": "2026-06-25T00:06:05.664856+00:00"
+      "last_seen": "2026-06-25T03:10:55.114381+00:00",
+      "decayed_at": "2026-06-25T03:10:55.114217+00:00"
     },
     "\"car care Bangladesh\" policy Bangladesh 2026": {
-      "score": 0.6294,
-      "hits": 202,
+      "score": 0.5979,
+      "hits": 207,
       "high_conf_hits": 20,
       "total_facts": 38,
       "sectors": [
         "automotive-car-care"
       ],
       "first_seen": "2026-05-26T23:40:55.419125+00:00",
-      "last_seen": "2026-06-25T00:06:05.665028+00:00",
-      "decayed_at": "2026-06-25T00:06:05.664858+00:00"
+      "last_seen": "2026-06-25T03:10:55.114393+00:00",
+      "decayed_at": "2026-06-25T03:10:55.114220+00:00"
     },
     "site:gov.bd \"car care Bangladesh\" circular": {
-      "score": 0.1002,
+      "score": 0.0952,
       "hits": 50,
       "high_conf_hits": 2,
       "total_facts": 2,
@@ -154,236 +154,236 @@
       ],
       "first_seen": "2026-05-26T23:40:55.419146+00:00",
       "last_seen": "2026-06-23T07:44:19.762353+00:00",
-      "decayed_at": "2026-06-25T00:06:05.664860+00:00"
+      "decayed_at": "2026-06-25T03:10:55.114223+00:00"
     },
     "\"auto detailing Dhaka\" regulation Bangladesh 2026": {
-      "score": 0.3452,
-      "hits": 169,
+      "score": 0.3279,
+      "hits": 174,
       "high_conf_hits": 8,
       "total_facts": 54,
       "sectors": [
         "automotive-car-care"
       ],
       "first_seen": "2026-05-26T23:40:55.419161+00:00",
-      "last_seen": "2026-06-25T00:06:05.665033+00:00",
-      "decayed_at": "2026-06-25T00:06:05.664862+00:00"
+      "last_seen": "2026-06-25T03:10:55.114404+00:00",
+      "decayed_at": "2026-06-25T03:10:55.114225+00:00"
     },
     "\"car care Bangladesh\" price Bangladesh": {
-      "score": 0.9173,
-      "hits": 218,
-      "high_conf_hits": 12,
-      "total_facts": 78,
+      "score": 1.0,
+      "hits": 226,
+      "high_conf_hits": 16,
+      "total_facts": 94,
       "sectors": [
         "automotive-car-care"
       ],
       "first_seen": "2026-06-16T22:56:16.106140+00:00",
-      "last_seen": "2026-06-25T00:06:05.664930+00:00",
-      "decayed_at": "2026-06-25T00:06:05.664865+00:00"
+      "last_seen": "2026-06-25T03:10:55.114301+00:00",
+      "decayed_at": "2026-06-25T03:10:55.114227+00:00"
     },
     "site:facebook.com \"car care Bangladesh\" offer price": {
-      "score": 0.5048,
-      "hits": 134,
+      "score": 0.4796,
+      "hits": 139,
       "high_conf_hits": 6,
       "total_facts": 49,
       "sectors": [
         "automotive-car-care"
       ],
       "first_seen": "2026-06-16T22:56:16.106171+00:00",
-      "last_seen": "2026-06-25T00:06:05.664944+00:00",
-      "decayed_at": "2026-06-25T00:06:05.664867+00:00"
+      "last_seen": "2026-06-25T03:10:55.114314+00:00",
+      "decayed_at": "2026-06-25T03:10:55.114229+00:00"
     },
     "\"car care Bangladesh\" Bangladesh price list": {
-      "score": 0.2696,
-      "hits": 193,
+      "score": 0.2561,
+      "hits": 198,
       "high_conf_hits": 5,
       "total_facts": 28,
       "sectors": [
         "automotive-car-care"
       ],
       "first_seen": "2026-06-16T22:56:16.106186+00:00",
-      "last_seen": "2026-06-25T00:06:05.664967+00:00",
-      "decayed_at": "2026-06-25T00:06:05.664869+00:00"
+      "last_seen": "2026-06-25T03:10:55.114325+00:00",
+      "decayed_at": "2026-06-25T03:10:55.114231+00:00"
     },
     "\"auto detailing Dhaka\" price Bangladesh": {
-      "score": 0.8201,
-      "hits": 119,
-      "high_conf_hits": 23,
-      "total_facts": 101,
+      "score": 1.0,
+      "hits": 124,
+      "high_conf_hits": 27,
+      "total_facts": 115,
       "sectors": [
         "automotive-car-care"
       ],
       "first_seen": "2026-06-16T22:56:16.106209+00:00",
-      "last_seen": "2026-06-25T00:06:05.664979+00:00",
-      "decayed_at": "2026-06-25T00:06:05.664871+00:00"
+      "last_seen": "2026-06-25T03:10:55.114344+00:00",
+      "decayed_at": "2026-06-25T03:10:55.114233+00:00"
     },
     "site:facebook.com \"auto detailing Dhaka\" offer price": {
-      "score": 0.4401,
-      "hits": 121,
-      "high_conf_hits": 10,
-      "total_facts": 42,
+      "score": 0.8181,
+      "hits": 126,
+      "high_conf_hits": 14,
+      "total_facts": 53,
       "sectors": [
         "automotive-car-care"
       ],
       "first_seen": "2026-06-16T22:56:16.106223+00:00",
-      "last_seen": "2026-06-25T00:06:05.664991+00:00",
-      "decayed_at": "2026-06-25T00:06:05.664873+00:00"
+      "last_seen": "2026-06-25T03:10:55.114357+00:00",
+      "decayed_at": "2026-06-25T03:10:55.114235+00:00"
     },
     "\"auto detailing Dhaka\" Bangladesh price list": {
-      "score": 0.7251,
-      "hits": 125,
-      "high_conf_hits": 16,
-      "total_facts": 62,
+      "score": 0.7888,
+      "hits": 130,
+      "high_conf_hits": 17,
+      "total_facts": 66,
       "sectors": [
         "automotive-car-care"
       ],
       "first_seen": "2026-06-16T22:56:16.106239+00:00",
-      "last_seen": "2026-06-25T00:06:05.665003+00:00",
-      "decayed_at": "2026-06-25T00:06:05.664875+00:00"
+      "last_seen": "2026-06-25T03:10:55.114370+00:00",
+      "decayed_at": "2026-06-25T03:10:55.114237+00:00"
     },
     "\"clothing Bangladesh\" price Bangladesh": {
-      "score": 0.95,
-      "hits": 204,
-      "high_conf_hits": 24,
-      "total_facts": 53,
+      "score": 1.0,
+      "hits": 209,
+      "high_conf_hits": 26,
+      "total_facts": 67,
       "sectors": [
         "clothing-fashion"
       ],
       "first_seen": "2026-06-16T22:56:16.106303+00:00",
-      "last_seen": "2026-06-25T00:06:05.665135+00:00",
-      "decayed_at": "2026-06-25T00:06:05.664877+00:00"
+      "last_seen": "2026-06-25T03:10:55.114484+00:00",
+      "decayed_at": "2026-06-25T03:10:55.114239+00:00"
     },
     "\"clothing Bangladesh\" Bangladesh price list": {
-      "score": 0.5278,
-      "hits": 214,
+      "score": 0.5014,
+      "hits": 222,
       "high_conf_hits": 8,
       "total_facts": 35,
       "sectors": [
         "clothing-fashion"
       ],
       "first_seen": "2026-06-16T22:56:16.106336+00:00",
-      "last_seen": "2026-06-25T00:06:05.665167+00:00",
-      "decayed_at": "2026-06-25T00:06:05.664879+00:00"
+      "last_seen": "2026-06-25T03:10:55.114513+00:00",
+      "decayed_at": "2026-06-25T03:10:55.114241+00:00"
     },
     "\"fashion brand Dhaka\" price Bangladesh": {
-      "score": 0.2204,
-      "hits": 174,
+      "score": 0.2094,
+      "hits": 182,
       "high_conf_hits": 5,
       "total_facts": 9,
       "sectors": [
         "clothing-fashion"
       ],
       "first_seen": "2026-06-16T22:56:16.106350+00:00",
-      "last_seen": "2026-06-25T00:06:05.665186+00:00",
-      "decayed_at": "2026-06-25T00:06:05.664881+00:00"
+      "last_seen": "2026-06-25T03:10:55.114531+00:00",
+      "decayed_at": "2026-06-25T03:10:55.114243+00:00"
     },
     "site:facebook.com \"fashion brand Dhaka\" offer price": {
-      "score": 0.1976,
-      "hits": 135,
+      "score": 0.1877,
+      "hits": 140,
       "high_conf_hits": 4,
       "total_facts": 28,
       "sectors": [
         "clothing-fashion"
       ],
       "first_seen": "2026-06-16T22:56:16.106369+00:00",
-      "last_seen": "2026-06-25T00:06:05.665198+00:00",
-      "decayed_at": "2026-06-25T00:06:05.664883+00:00"
+      "last_seen": "2026-06-25T03:10:55.114542+00:00",
+      "decayed_at": "2026-06-25T03:10:55.114245+00:00"
     },
     "\"car care Bangladesh\" review Bangladesh": {
-      "score": 0.944,
-      "hits": 179,
+      "score": 0.8968,
+      "hits": 183,
       "high_conf_hits": 15,
       "total_facts": 67,
       "sectors": [
         "automotive-car-care"
       ],
       "first_seen": "2026-06-17T08:14:02.662077+00:00",
-      "last_seen": "2026-06-25T00:06:05.665060+00:00",
-      "decayed_at": "2026-06-25T00:06:05.664885+00:00"
+      "last_seen": "2026-06-25T03:10:55.114422+00:00",
+      "decayed_at": "2026-06-25T03:10:55.114247+00:00"
     },
     "\"car care Bangladesh\" customer complaints Bangladesh": {
-      "score": 0.4818,
-      "hits": 105,
+      "score": 0.4577,
+      "hits": 107,
       "high_conf_hits": 8,
       "total_facts": 38,
       "sectors": [
         "automotive-car-care"
       ],
       "first_seen": "2026-06-17T08:14:02.662113+00:00",
-      "last_seen": "2026-06-25T00:06:05.665084+00:00",
-      "decayed_at": "2026-06-25T00:06:05.664887+00:00"
+      "last_seen": "2026-06-25T03:10:55.114439+00:00",
+      "decayed_at": "2026-06-25T03:10:55.114248+00:00"
     },
     "\"auto detailing Dhaka\" review Bangladesh": {
-      "score": 0.9233,
-      "hits": 103,
-      "high_conf_hits": 18,
-      "total_facts": 64,
+      "score": 0.9771,
+      "hits": 108,
+      "high_conf_hits": 19,
+      "total_facts": 81,
       "sectors": [
         "automotive-car-care"
       ],
       "first_seen": "2026-06-17T08:14:02.662127+00:00",
-      "last_seen": "2026-06-25T00:06:05.665096+00:00",
-      "decayed_at": "2026-06-25T00:06:05.664889+00:00"
+      "last_seen": "2026-06-25T03:10:55.114451+00:00",
+      "decayed_at": "2026-06-25T03:10:55.114250+00:00"
     },
     "site:facebook.com \"auto detailing Dhaka\" reviews": {
-      "score": 0.95,
-      "hits": 107,
+      "score": 0.9025,
+      "hits": 108,
       "high_conf_hits": 27,
       "total_facts": 90,
       "sectors": [
         "automotive-car-care"
       ],
       "first_seen": "2026-06-17T08:14:02.662135+00:00",
-      "last_seen": "2026-06-25T00:06:05.665111+00:00",
-      "decayed_at": "2026-06-25T00:06:05.664891+00:00"
+      "last_seen": "2026-06-25T03:10:55.114454+00:00",
+      "decayed_at": "2026-06-25T03:10:55.114252+00:00"
     },
     "\"auto detailing Dhaka\" customer complaints Bangladesh": {
-      "score": 0.8201,
-      "hits": 100,
-      "high_conf_hits": 22,
-      "total_facts": 52,
+      "score": 0.9791,
+      "hits": 105,
+      "high_conf_hits": 24,
+      "total_facts": 71,
       "sectors": [
         "automotive-car-care"
       ],
       "first_seen": "2026-06-17T08:14:02.662150+00:00",
-      "last_seen": "2026-06-25T00:06:05.665123+00:00",
-      "decayed_at": "2026-06-25T00:06:05.664893+00:00"
+      "last_seen": "2026-06-25T03:10:55.114471+00:00",
+      "decayed_at": "2026-06-25T03:10:55.114254+00:00"
     },
     "site:facebook.com \"car care Bangladesh\" reviews": {
-      "score": 0.4286,
-      "hits": 7,
+      "score": 0.4072,
+      "hits": 12,
       "high_conf_hits": 0,
       "total_facts": 4,
       "sectors": [
         "automotive-car-care"
       ],
       "first_seen": "2026-06-24T14:48:24.194849+00:00",
-      "last_seen": "2026-06-25T00:06:05.665072+00:00",
-      "decayed_at": "2026-06-25T00:06:05.664895+00:00"
+      "last_seen": "2026-06-25T03:10:55.114434+00:00",
+      "decayed_at": "2026-06-25T03:10:55.114256+00:00"
     },
     "site:facebook.com \"clothing Bangladesh\" offer price": {
-      "score": 0.6091,
-      "hits": 15,
+      "score": 0.5786,
+      "hits": 20,
       "high_conf_hits": 2,
       "total_facts": 11,
       "sectors": [
         "clothing-fashion"
       ],
       "first_seen": "2026-06-24T14:48:24.194901+00:00",
-      "last_seen": "2026-06-25T00:06:05.665147+00:00",
-      "decayed_at": "2026-06-25T00:06:05.664897+00:00"
+      "last_seen": "2026-06-25T03:10:55.114495+00:00",
+      "decayed_at": "2026-06-25T03:10:55.114258+00:00"
     },
     "\"fashion brand Dhaka\" Bangladesh price list": {
-      "score": 0.4286,
-      "hits": 21,
+      "score": 0.4072,
+      "hits": 29,
       "high_conf_hits": 0,
       "total_facts": 0,
       "sectors": [
         "clothing-fashion"
       ],
       "first_seen": "2026-06-24T14:48:24.194957+00:00",
-      "last_seen": "2026-06-25T00:06:05.665210+00:00",
-      "decayed_at": "2026-06-25T00:06:05.664899+00:00"
+      "last_seen": "2026-06-25T03:10:55.114560+00:00",
+      "decayed_at": "2026-06-25T03:10:55.114260+00:00"
     }
   },
-  "updated_at": "2026-06-25T00:06:05.665221+00:00"
+  "updated_at": "2026-06-25T03:10:55.114570+00:00"
 }
