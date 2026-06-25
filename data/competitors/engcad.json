@@ -1,0 +1,49 @@
+{
+  "doc_type": "competitor",
+  "slug": "engcad",
+  "name": "engcad",
+  "sector": "bim-global-outreach",
+  "frontmatter": {
+    "entity_type": "competitor",
+    "sector": "bim-global-outreach",
+    "entity_slug": "engcad",
+    "last_verified_at": "2026-06-25T12:00:00Z",
+    "freshness_status": "fresh",
+    "confidence_score": "0.75",
+    "primary_sources": "- research_all_20260625"
+  },
+  "profile_category": "",
+  "entity_slug": "engcad",
+  "last_verified_at": "2026-06-25T12:00:00Z",
+  "freshness_status": "fresh",
+  "confidence_score": 0.75,
+  "strengths": [
+    "1. **MEP specialization** — Pure focus on mechanical, electrical, plumbing, and fire protection BIM, deep expertise",
+    "2. **Australian market knowledge** — Strong presence in Australian MEP sector, understands local standards",
+    "3. **Clash detection focus** — Highly skilled in Navisworks clash detection and resolution workflows",
+    "4. **Cost effective** — Indian rates for specialist MEP coordination",
+    "5. **Dedicated MEP teams** — Engineers with mechanical background, not just CAD operators"
+  ],
+  "weaknesses": [
+    "1. **Narrow scope** — Limited architectural or structural capability, difficult for full BIM outsourcing",
+    "2. **Scale** — Small team limits capacity for multi-million-dollar MEP coordination projects",
+    "3. **Brand visibility** — Low global profile, mostly known in Australia/UK markets",
+    "4. **Website confusion** — EngCAD domain (.com.au) suggests Australia focus but delivery is India",
+    "5. **Limited technology breadth** — Less investment in automation, cloud BIM, digital twin"
+  ],
+  "threat_level": "",
+  "threat_overlap_score": null,
+  "pricing_signals": [],
+  "customer_segments": [
+    "MEP engineering consultancies",
+    "Mechanical contractors",
+    "Fire protection engineering firms",
+    "HVAC system designers"
+  ],
+  "operations_notes": "",
+  "financial_signals": "",
+  "sentiment_summary": "",
+  "compliance_notes": "",
+  "evidence_sources": [],
+  "file_path": "sectors/bim-global-outreach/bd-market/competitors/engcad.md"
+}

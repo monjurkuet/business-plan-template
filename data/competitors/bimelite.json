@@ -1,0 +1,49 @@
+{
+  "doc_type": "competitor",
+  "slug": "bimelite",
+  "name": "bimelite",
+  "sector": "bim-global-outreach",
+  "frontmatter": {
+    "entity_type": "competitor",
+    "sector": "bim-global-outreach",
+    "entity_slug": "bimelite",
+    "last_verified_at": "2026-06-25T12:00:00Z",
+    "freshness_status": "fresh",
+    "confidence_score": "0.75",
+    "primary_sources": "- research_all_20260625"
+  },
+  "profile_category": "",
+  "entity_slug": "bimelite",
+  "last_verified_at": "2026-06-25T12:00:00Z",
+  "freshness_status": "fresh",
+  "confidence_score": 0.75,
+  "strengths": [
+    "1. **MEP BIM depth** — Core strength in MEP coordination, mechanical/electrical/plumbing detailed modeling",
+    "2. **BIM consulting** — Offers strategic BIM implementation and standards development, not just production",
+    "3. **International project experience** — Delivered projects in UK (BIM Level 2), Middle East, and US",
+    "4. **Quality focus** — Strong QA processes, Navisworks clash detection, model auditing",
+    "5. **Mid-size agility** — Larger than boutique shops but smaller/faster than 1,000+ person firms"
+  ],
+  "weaknesses": [
+    "1. **Mumbai concentration** — Single delivery location creates risk and capacity ceiling",
+    "2. **Brand overlap** — Multiple names (BIM Elite, Hitech BIM) creates market confusion",
+    "3. **Modest scale** — 100–200 staff limits large enterprise contracts",
+    "4. **Marketing visibility** — Limited global brand presence, mostly referral-driven",
+    "5. **Narrow MEP focus** — Less capable for full architectural/structural BIM scope"
+  ],
+  "threat_level": "",
+  "threat_overlap_score": null,
+  "pricing_signals": [],
+  "customer_segments": [
+    "MEP engineering firms",
+    "Building services consultants",
+    "HVAC and plumbing contractors",
+    "General contractors needing MEP coordination"
+  ],
+  "operations_notes": "",
+  "financial_signals": "",
+  "sentiment_summary": "",
+  "compliance_notes": "",
+  "evidence_sources": [],
+  "file_path": "sectors/bim-global-outreach/bd-market/competitors/bimelite.md"
+}

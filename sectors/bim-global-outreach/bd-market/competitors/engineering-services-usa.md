@@ -1,12 +1,7 @@
 ---
-entity_type: competitor
 sector: bim-global-outreach
-entity_slug: engineering-services-usa
-last_verified_at: 2026-06-25T12:00:00Z
-freshness_status: fresh
-confidence_score: 0.75
-primary_sources:
-  - research_all_20260625
+last_verified: 2026-06-25
+freshness: fresh
 ---
 
 # Engineering Services USA / PinnSeries
@@ -85,3 +80,16 @@ primary_sources:
 - Revit (all disciplines), AutoCAD, Navisworks, Inventor, BIM 360, Dynamo
 
 *Last updated: 2026-06-25*
+
+## Recent Findings (2026-06-25)
+
+- **practiceguides.chambers.com** (conf: 0.74): Dec 9, 2025 ·Banks inBangladeshroutinely undertake several additional activities, each requiring separate regulatory consent. Foreign exchange operations – A bank must obtain a specific Authorised Dea
+
+- **www.bppa.gov.bd** (conf: 0.75): Apr 5,2026·BPPA is the national authority responsible for public procurement policy,regulations, and e-GP systems to ensure transparent and efficient procurement inBangladesh.
+
+- **www.bimprous.com** (conf: 0.74): Mar 13, 2025 ·Building Information Modeling (BIM)outsourcinghas become an essential practice in the architectural, engineering, and construction (AEC) industry in the United States. With the rapid ado
+
+- **mitchellstover.com** (conf: 0.74): Feb 19,2026·EngagingBim Outsourcing USAresources can unlock cost advantages, access to specialised expertise, and enhanced throughput for complex projects. By distributing work to experienced teams, f
+
+- **online-d11.thedailystar.net** (conf: 0.74): Jun 14,2026·Latest updates, analysis, and news on theBangladeshNational Budget2026–27 (FY27), including fiscalpolicy, revenue plans, development spending, and economic impact insights.
+

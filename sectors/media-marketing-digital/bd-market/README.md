@@ -2,8 +2,8 @@
 sector: media-marketing-digital
 last_verified: 2026-06-25
 freshness: fresh
-confidence: 0.7
-evidence_ids: ['c0f96cd1-325', 'd252f23d-69f']
+confidence: 0.747
+evidence_ids: ['07c65e27-f3c', 'fae69a15-6d0', '916b8710-6d5', '75419a19-a3e', 'dfc47e73-380']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market
@@ -84,12 +84,23 @@ evidence_ids: ['c0f96cd1-325', 'd252f23d-69f']
 
 
 
+
 ## Auto-Updated Data (2026-06-25)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Bulk SMS, Email Marketing, RCS, IVR, WhatsApp | search | 0.95 |
-| Pay-per-use | search | 0.90 |
-| You pay only for what you use | search | 0.90 |
-| 207 | search | 0.95 |
-| Digital Marketing Services | search | 0.95 |
+| startups | search | 1.00 |
+| affordable digital marketing | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| ['Facebook Ads', 'Google Ads', 'SEO'] | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| 2026 | search | 1.00 |
+| Rajshahi Digital Hub | search | 1.00 |
+| affordable pricing | search | 1.00 |
+| Mobile Marketing Bangladesh | search | 1.00 |
+| mobile-first | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| Rajshahi | search | 1.00 |
+| Digital Marketing Specialist (Account Recovery Expert) | search | 0.95 |
+| ['Facebook Recovery', 'Gmail Recovery'] | search | 0.95 |
+| CyberAware BD | search | 0.95 |

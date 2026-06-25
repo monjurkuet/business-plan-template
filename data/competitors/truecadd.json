@@ -1,0 +1,48 @@
+{
+  "doc_type": "competitor",
+  "slug": "truecadd",
+  "name": "truecadd",
+  "sector": "bim-global-outreach",
+  "frontmatter": {
+    "entity_type": "competitor",
+    "sector": "bim-global-outreach",
+    "entity_slug": "truecadd",
+    "last_verified_at": "2026-06-25T12:00:00Z",
+    "freshness_status": "fresh",
+    "confidence_score": "0.75",
+    "primary_sources": "- research_all_20260625"
+  },
+  "profile_category": "",
+  "entity_slug": "truecadd",
+  "last_verified_at": "2026-06-25T12:00:00Z",
+  "freshness_status": "fresh",
+  "confidence_score": 0.75,
+  "strengths": [
+    "1. **Scale & tenure** — 500+ employees, 25+ years in CAD/BIM outsourcing, established track record",
+    "2. **End-to-end offering** — CAD drafting through full BIM lifecycle, including scan-to-BIM and clash detection",
+    "3. **Cost advantage** — Competitive Indian pricing with consistent quality delivery",
+    "4. **Multi-sector** — Serves architecture, structural, MEP, civil, and industrial sectors",
+    "5. **Process maturity** — ISO-certified processes, project management rigor"
+  ],
+  "weaknesses": [
+    "1. **Commodity positioning** — Heavy on drafting/CAD heritage, less strategic BIM consulting brand",
+    "2. **Innovation gap** — Not known for leading-edge BIM technology or automation",
+    "3. **Client concentration** — Reliance on mid-market AEC firms, fewer tier-1 enterprise clients",
+    "4. **Brand awareness** — Less visible globally compared to Pinnacle or XS CAD",
+    "5. **Rigid engagement models** — Standardized delivery, less flexibility for boutique projects"
+  ],
+  "threat_level": "",
+  "threat_overlap_score": null,
+  "pricing_signals": [],
+  "customer_segments": [
+    "Mid-market AEC firms",
+    "Engineering consultancies",
+    "US/UK architecture practices"
+  ],
+  "operations_notes": "",
+  "financial_signals": "",
+  "sentiment_summary": "",
+  "compliance_notes": "",
+  "evidence_sources": [],
+  "file_path": "sectors/bim-global-outreach/bd-market/competitors/truecadd.md"
+}

@@ -1,0 +1,48 @@
+{
+  "doc_type": "competitor",
+  "slug": "silicon-valley-cad",
+  "name": "cad",
+  "sector": "bim-global-outreach",
+  "frontmatter": {
+    "entity_type": "competitor",
+    "sector": "bim-global-outreach",
+    "entity_slug": "silicon-valley-cad",
+    "last_verified_at": "2026-06-25T12:00:00Z",
+    "freshness_status": "fresh",
+    "confidence_score": "0.75",
+    "primary_sources": "- research_all_20260625"
+  },
+  "profile_category": "",
+  "entity_slug": "silicon-valley-cad",
+  "last_verified_at": "2026-06-25T12:00:00Z",
+  "freshness_status": "fresh",
+  "confidence_score": 0.75,
+  "strengths": [
+    "1. **Premium US-based** — All work done in USA by US staff, highest quality standards",
+    "2. **California market expertise** — Deep knowledge of CA title 24, CALGreen, local building codes",
+    "3. **Personal service** — Small team, direct principal involvement, white-glove account management",
+    "4. **Quick turnaround** — Onshore team means same-timezone responsiveness and rapid iterations",
+    "5. **High-end clients** — Works with top San Francisco/Silicon Valley architecture firms"
+  ],
+  "weaknesses": [
+    "1. **Very expensive** — Est. $125–200/hr, 5-10x more expensive than offshore alternatives",
+    "2. **Small team** — Limited capacity, cannot scale for large or multi-site projects",
+    "3. **Niche geographic** — Not suitable for firms outside US West Coast markets",
+    "4. **No offshore option** — Single location, no cost-tier options for clients",
+    "5. **Limited service breadth** — Pure BIM production, not consulting/strategy like Microdesk"
+  ],
+  "threat_level": "",
+  "threat_overlap_score": null,
+  "pricing_signals": [],
+  "customer_segments": [
+    "Boutique architecture firms in Bay Area",
+    "High-end residential and mixed-use developers",
+    "California-based contractors"
+  ],
+  "operations_notes": "",
+  "financial_signals": "",
+  "sentiment_summary": "",
+  "compliance_notes": "",
+  "evidence_sources": [],
+  "file_path": "sectors/bim-global-outreach/bd-market/competitors/silicon-valley-cad.md"
+}

@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-06-25
 freshness: fresh
-confidence: 0.741
-evidence_ids: ['5dd72828-9f4', '161c7579-090', '5b7c1251-ee9', 'cde76b48-09a', '30527f19-060', '6d7cec8b-7d9', '6dbcea65-a38', '93e5644e-fbc', 'c80f2b99-fa1']
+confidence: 0.647
+evidence_ids: ['ac6666c5-2dc']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -97,22 +97,13 @@ evidence_ids: ['5dd72828-9f4', '161c7579-090', '5b7c1251-ee9', 'cde76b48-09a', '
 
 
 
+
 ## Auto-Updated Data (2026-06-25)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 300 COTTON TERRY CLOTH CLEANING RAGS / SHOP TOWELS / 12X12- 25 DOZ. / WHOLESALE | search | 0.90 |
-| Bangladesh | search | 0.95 |
-| RD style women black dress warm size M Knitted | search | 0.90 |
-| Bangladesh | search | 0.95 |
-| Baggy Pants | search | 0.95 |
-| casual wear for boys, comfortable daily wear, premium quality fabric, affordable | search | 0.90 |
-| home delivery all over Bangladesh | search | 0.95 |
-| t-shirts, polo shirts, casual shirts, summer wear | search | 0.95 |
-| fast delivery across Bangladesh | search | 0.95 |
-| T-shirt Manufacturer | search | 0.95 |
-| Bangladesh | search | 0.95 |
-| trusted and reliable clothing manufacturers in Bangladesh | search | 0.90 |
-| best factory prices and the highest-quality custom apparel | search | 0.90 |
-| Women's Clothing | search | 0.95 |
-| Dhaka, Bangladesh | search | 0.95 |
+| online fashion store | search | 1.00 |
+| ['clothes', 'dresses', 'shoes'] | search | 1.00 |
+| ['men', 'women', 'kids'] | search | 1.00 |
+| home delivery | search | 1.00 |
+| best prices | search | 0.90 |

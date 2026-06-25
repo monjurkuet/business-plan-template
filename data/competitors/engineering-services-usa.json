@@ -1,0 +1,45 @@
+{
+  "doc_type": "competitor",
+  "slug": "engineering-services-usa",
+  "name": "usa",
+  "sector": "bim-global-outreach",
+  "frontmatter": {
+    "sector": "bim-global-outreach",
+    "last_verified": "2026-06-25",
+    "freshness": "fresh"
+  },
+  "profile_category": "",
+  "entity_slug": "engineering-services-usa",
+  "last_verified_at": "",
+  "freshness_status": "unknown",
+  "confidence_score": 0.0,
+  "strengths": [
+    "1. **Revit Family specialization** — Leading specialist in custom Revit Family content creation, a unique niche",
+    "2. **US HQ + India delivery** — Strong US account management with cost-effective India production",
+    "3. **Manufacturer relationships** — Works directly with building product manufacturers for BIM content creation",
+    "4. **CA support** — Offers construction administration support, not just design-phase BIM",
+    "5. **Flexible engagement** — Handles small, quick-turnaround family creation projects that larger firms avoid"
+  ],
+  "weaknesses": [
+    "1. **Niche scope** — Revit families are a small slice of total BIM spend, limits deal size",
+    "2. **Brand fragmentation** — Operates under multiple names (PinnSeries, ESUSA), unclear positioning",
+    "3. **Modest scale** — 100+ staff, cannot compete with large Indian outsourcing firms for full-project BIM",
+    "4. **Limited visibility** — Low marketing spend, mainly word-of-mouth in BIM content circles",
+    "5. **Commodity perception** — Revit families often viewed as low-value one-off purchases, not strategic partnership"
+  ],
+  "threat_level": "",
+  "threat_overlap_score": null,
+  "pricing_signals": [],
+  "customer_segments": [
+    "Building product manufacturers",
+    "Architecture firms needing custom Revit families",
+    "Spec writers and BIM libraries",
+    "General contractors needing CA support"
+  ],
+  "operations_notes": "",
+  "financial_signals": "",
+  "sentiment_summary": "",
+  "compliance_notes": "",
+  "evidence_sources": [],
+  "file_path": "sectors/bim-global-outreach/bd-market/competitors/engineering-services-usa.md"
+}

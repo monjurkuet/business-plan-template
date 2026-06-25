@@ -1,0 +1,49 @@
+{
+  "doc_type": "competitor",
+  "slug": "virtual-building-studio",
+  "name": "studio",
+  "sector": "bim-global-outreach",
+  "frontmatter": {
+    "entity_type": "competitor",
+    "sector": "bim-global-outreach",
+    "entity_slug": "virtual-building-studio",
+    "last_verified_at": "2026-06-25T12:00:00Z",
+    "freshness_status": "fresh",
+    "confidence_score": "0.75",
+    "primary_sources": "- research_all_20260625"
+  },
+  "profile_category": "",
+  "entity_slug": "virtual-building-studio",
+  "last_verified_at": "2026-06-25T12:00:00Z",
+  "freshness_status": "fresh",
+  "confidence_score": 0.75,
+  "strengths": [
+    "1. **VDC leadership** — Strong brand in Virtual Design & Construction, known for preconstruction BIM",
+    "2. **US-based expertise** — Experienced in US construction methods, contractual BIM requirements",
+    "3. **Integrated approach** — Bridges design and construction through VDC, not just design-side BIM",
+    "4. **Lean construction alignment** — Integrates BIM with lean construction and IPD methodology",
+    "5. **Collaborative culture** — Known for team integration and facilitating BIM kickoffs"
+  ],
+  "weaknesses": [
+    "1. **Small scale** — 30–60 people limits project capacity and geographic reach",
+    "2. **Premium pricing** — Est. $110–160/hr for VDC services",
+    "3. **No offshore option** — All US-based, no cost-tier flexibility",
+    "4. **Niche VDC focus** — Less appeal for firms wanting basic BIM production or drafting",
+    "5. **Brand niche** — VDC/BIM consulting not mass-market, limited client pool"
+  ],
+  "threat_level": "",
+  "threat_overlap_score": null,
+  "pricing_signals": [],
+  "customer_segments": [
+    "Large US general contractors",
+    "Construction management firms",
+    "Design-build teams",
+    "Owners representatives"
+  ],
+  "operations_notes": "",
+  "financial_signals": "",
+  "sentiment_summary": "",
+  "compliance_notes": "",
+  "evidence_sources": [],
+  "file_path": "sectors/bim-global-outreach/bd-market/competitors/virtual-building-studio.md"
+}

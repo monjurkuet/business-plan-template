@@ -1,5 +1,5 @@
 {
-  "total": 65,
+  "total": 77,
   "competitors": [
     {
       "doc_type": "competitor",
@@ -619,6 +619,581 @@
         "*TODO: Add verifiable sources*"
       ],
       "file_path": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-shell-ranks-petroleum.md"
+    },
+    {
+      "doc_type": "competitor",
+      "slug": "bimelite",
+      "name": "bimelite",
+      "sector": "bim-global-outreach",
+      "frontmatter": {
+        "entity_type": "competitor",
+        "sector": "bim-global-outreach",
+        "entity_slug": "bimelite",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.75",
+        "primary_sources": "- research_all_20260625"
+      },
+      "profile_category": "",
+      "entity_slug": "bimelite",
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.75,
+      "strengths": [
+        "1. **MEP BIM depth** — Core strength in MEP coordination, mechanical/electrical/plumbing detailed modeling",
+        "2. **BIM consulting** — Offers strategic BIM implementation and standards development, not just production",
+        "3. **International project experience** — Delivered projects in UK (BIM Level 2), Middle East, and US",
+        "4. **Quality focus** — Strong QA processes, Navisworks clash detection, model auditing",
+        "5. **Mid-size agility** — Larger than boutique shops but smaller/faster than 1,000+ person firms"
+      ],
+      "weaknesses": [
+        "1. **Mumbai concentration** — Single delivery location creates risk and capacity ceiling",
+        "2. **Brand overlap** — Multiple names (BIM Elite, Hitech BIM) creates market confusion",
+        "3. **Modest scale** — 100–200 staff limits large enterprise contracts",
+        "4. **Marketing visibility** — Limited global brand presence, mostly referral-driven",
+        "5. **Narrow MEP focus** — Less capable for full architectural/structural BIM scope"
+      ],
+      "threat_level": "",
+      "threat_overlap_score": null,
+      "pricing_signals": [],
+      "customer_segments": [
+        "MEP engineering firms",
+        "Building services consultants",
+        "HVAC and plumbing contractors",
+        "General contractors needing MEP coordination"
+      ],
+      "operations_notes": "",
+      "financial_signals": "",
+      "sentiment_summary": "",
+      "compliance_notes": "",
+      "evidence_sources": [],
+      "file_path": "sectors/bim-global-outreach/bd-market/competitors/bimelite.md"
+    },
+    {
+      "doc_type": "competitor",
+      "slug": "bimex",
+      "name": "bimex",
+      "sector": "bim-global-outreach",
+      "frontmatter": {
+        "entity_type": "competitor",
+        "sector": "bim-global-outreach",
+        "entity_slug": "bimex",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.75",
+        "primary_sources": "- research_all_20260625"
+      },
+      "profile_category": "",
+      "entity_slug": "bimex",
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.75,
+      "strengths": [
+        "1. **Cost competitive** — Vietnam rates significantly lower than India and Philippines, strong value proposition",
+        "2. **High English proficiency** — Vietnam's technical workforce has strong English skills, minimal accent barrier",
+        "3. **Growing BIM ecosystem** — Government push for BIM adoption in Vietnam creates trained talent pipeline",
+        "4. **Young, energetic workforce** — Average age ~28, quick to adopt new tools and workflows",
+        "5. **Cultural alignment** — Strong work ethic, low attrition compared to Indian BPO market"
+      ],
+      "weaknesses": [
+        "1. **Scale limitations** — 150+ staff, cannot compete with 500–1500 person Indian firms for large deals",
+        "2. **Brand awareness** — Little-known outside APAC, limited marketing budget",
+        "3. **Time zone** — UTC+7 limits real-time overlap with US Eastern time (12-hour difference)",
+        "4. **BIM maturity** — Vietnam's BIM industry still maturing, less experienced senior talent vs India/UK",
+        "5. **Political risk** — Vietnam's regulatory environment less stable for long-term outsourcing relationships"
+      ],
+      "threat_level": "",
+      "threat_overlap_score": null,
+      "pricing_signals": [],
+      "customer_segments": [
+        "Mid-market AEC firms seeking cost savings",
+        "Australian and Singaporean architecture practices",
+        "Cost-sensitive US contractors"
+      ],
+      "operations_notes": "",
+      "financial_signals": "",
+      "sentiment_summary": "",
+      "compliance_notes": "",
+      "evidence_sources": [],
+      "file_path": "sectors/bim-global-outreach/bd-market/competitors/bimex.md"
+    },
+    {
+      "doc_type": "competitor",
+      "slug": "cadd-centre",
+      "name": "centre",
+      "sector": "bim-global-outreach",
+      "frontmatter": {
+        "entity_type": "competitor",
+        "sector": "bim-global-outreach",
+        "entity_slug": "cadd-centre",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.75",
+        "primary_sources": "- research_all_20260625"
+      },
+      "profile_category": "",
+      "entity_slug": "cadd-centre",
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.75,
+      "strengths": [
+        "1. **Massive network** — 120+ franchise centers across India, 1,000+ trained engineers available",
+        "2. **Dual revenue model** — Both BIM services and training create talent pipeline and brand awareness",
+        "3. **Cost leadership** — Among the lowest-cost BIM/CAD outsourcing options in the market",
+        "4. **Geographic reach** — Centers in tier-2/3 Indian cities with lower labor costs",
+        "5. **Government ties** — Worked on many Indian government infrastructure projects"
+      ],
+      "weaknesses": [
+        "1. **Variable quality** — Franchise model leads to inconsistent quality across centers",
+        "2. **Process fragmentation** — Less centralized QA/QC compared to dedicated single-location firms",
+        "3. **Training-first brand** — Perception as training institute undermines services credibility",
+        "4. **Low-end positioning** — Typically gets lowest-complexity work, struggles with high-end BIM",
+        "5. **Management layers** — Franchise network adds coordination overhead for large projects"
+      ],
+      "threat_level": "",
+      "threat_overlap_score": null,
+      "pricing_signals": [],
+      "customer_segments": [
+        "Cost-sensitive small/mid AEC firms",
+        "Indian domestic construction",
+        "Firms needing basic CAD-to-BIM conversion",
+        "Engineering students (training side)"
+      ],
+      "operations_notes": "",
+      "financial_signals": "",
+      "sentiment_summary": "",
+      "compliance_notes": "",
+      "evidence_sources": [],
+      "file_path": "sectors/bim-global-outreach/bd-market/competitors/cadd-centre.md"
+    },
+    {
+      "doc_type": "competitor",
+      "slug": "engcad",
+      "name": "engcad",
+      "sector": "bim-global-outreach",
+      "frontmatter": {
+        "entity_type": "competitor",
+        "sector": "bim-global-outreach",
+        "entity_slug": "engcad",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.75",
+        "primary_sources": "- research_all_20260625"
+      },
+      "profile_category": "",
+      "entity_slug": "engcad",
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.75,
+      "strengths": [
+        "1. **MEP specialization** — Pure focus on mechanical, electrical, plumbing, and fire protection BIM, deep expertise",
+        "2. **Australian market knowledge** — Strong presence in Australian MEP sector, understands local standards",
+        "3. **Clash detection focus** — Highly skilled in Navisworks clash detection and resolution workflows",
+        "4. **Cost effective** — Indian rates for specialist MEP coordination",
+        "5. **Dedicated MEP teams** — Engineers with mechanical background, not just CAD operators"
+      ],
+      "weaknesses": [
+        "1. **Narrow scope** — Limited architectural or structural capability, difficult for full BIM outsourcing",
+        "2. **Scale** — Small team limits capacity for multi-million-dollar MEP coordination projects",
+        "3. **Brand visibility** — Low global profile, mostly known in Australia/UK markets",
+        "4. **Website confusion** — EngCAD domain (.com.au) suggests Australia focus but delivery is India",
+        "5. **Limited technology breadth** — Less investment in automation, cloud BIM, digital twin"
+      ],
+      "threat_level": "",
+      "threat_overlap_score": null,
+      "pricing_signals": [],
+      "customer_segments": [
+        "MEP engineering consultancies",
+        "Mechanical contractors",
+        "Fire protection engineering firms",
+        "HVAC system designers"
+      ],
+      "operations_notes": "",
+      "financial_signals": "",
+      "sentiment_summary": "",
+      "compliance_notes": "",
+      "evidence_sources": [],
+      "file_path": "sectors/bim-global-outreach/bd-market/competitors/engcad.md"
+    },
+    {
+      "doc_type": "competitor",
+      "slug": "engineering-services-usa",
+      "name": "usa",
+      "sector": "bim-global-outreach",
+      "frontmatter": {
+        "sector": "bim-global-outreach",
+        "last_verified": "2026-06-25",
+        "freshness": "fresh"
+      },
+      "profile_category": "",
+      "entity_slug": "engineering-services-usa",
+      "last_verified_at": "",
+      "freshness_status": "unknown",
+      "confidence_score": 0.0,
+      "strengths": [
+        "1. **Revit Family specialization** — Leading specialist in custom Revit Family content creation, a unique niche",
+        "2. **US HQ + India delivery** — Strong US account management with cost-effective India production",
+        "3. **Manufacturer relationships** — Works directly with building product manufacturers for BIM content creation",
+        "4. **CA support** — Offers construction administration support, not just design-phase BIM",
+        "5. **Flexible engagement** — Handles small, quick-turnaround family creation projects that larger firms avoid"
+      ],
+      "weaknesses": [
+        "1. **Niche scope** — Revit families are a small slice of total BIM spend, limits deal size",
+        "2. **Brand fragmentation** — Operates under multiple names (PinnSeries, ESUSA), unclear positioning",
+        "3. **Modest scale** — 100+ staff, cannot compete with large Indian outsourcing firms for full-project BIM",
+        "4. **Limited visibility** — Low marketing spend, mainly word-of-mouth in BIM content circles",
+        "5. **Commodity perception** — Revit families often viewed as low-value one-off purchases, not strategic partnership"
+      ],
+      "threat_level": "",
+      "threat_overlap_score": null,
+      "pricing_signals": [],
+      "customer_segments": [
+        "Building product manufacturers",
+        "Architecture firms needing custom Revit families",
+        "Spec writers and BIM libraries",
+        "General contractors needing CA support"
+      ],
+      "operations_notes": "",
+      "financial_signals": "",
+      "sentiment_summary": "",
+      "compliance_notes": "",
+      "evidence_sources": [],
+      "file_path": "sectors/bim-global-outreach/bd-market/competitors/engineering-services-usa.md"
+    },
+    {
+      "doc_type": "competitor",
+      "slug": "microdesk",
+      "name": "microdesk",
+      "sector": "bim-global-outreach",
+      "frontmatter": {
+        "entity_type": "competitor",
+        "sector": "bim-global-outreach",
+        "entity_slug": "microdesk",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.75",
+        "primary_sources": "- research_all_20260625"
+      },
+      "profile_category": "",
+      "entity_slug": "microdesk",
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.75,
+      "strengths": [
+        "1. **Autodesk Platinum Partner** — Top-tier Autodesk partnership gives exclusive access, discounts, and early product access",
+        "2. **Consulting-led** — High-end BIM consulting and strategy, not just production drafting",
+        "3. **US-based** — Onshore presence with deep understanding of US building codes and standards",
+        "4. **Cloud & VDC** — Strong in cloud BIM, VDC, and digital twin implementations",
+        "5. **Enterprise client base** — Serves top US AEC firms, government, and Fortune 500"
+      ],
+      "weaknesses": [
+        "1. **Premium pricing** — Significantly more expensive than offshored competitors ($100–175/hr) — not a cost play",
+        "2. **Limited offshore delivery** — Primarily US staff, higher cost base compared to India/Philippines firms",
+        "3. **Partner dependency** — Revenue and positioning tied to Autodesk ecosystem",
+        "4. **Smaller team** — 300+ staff vs 1,500+ at Pinnacle, less pure production capacity",
+        "5. **Less attractive for pure drafting** — Overkill for simple CAD/BIM production, positioned for high-value consulting"
+      ],
+      "threat_level": "",
+      "threat_overlap_score": null,
+      "pricing_signals": [],
+      "customer_segments": [
+        "Large AEC firms (top 50 ENR)",
+        "Government/institutional",
+        "Enterprise facility owners"
+      ],
+      "operations_notes": "",
+      "financial_signals": "",
+      "sentiment_summary": "",
+      "compliance_notes": "",
+      "evidence_sources": [],
+      "file_path": "sectors/bim-global-outreach/bd-market/competitors/microdesk.md"
+    },
+    {
+      "doc_type": "competitor",
+      "slug": "pinnacle-infotech",
+      "name": "infotech",
+      "sector": "bim-global-outreach",
+      "frontmatter": {
+        "entity_type": "competitor",
+        "sector": "bim-global-outreach",
+        "entity_slug": "pinnacle-infotech",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.80",
+        "primary_sources": "- research_all_20260625"
+      },
+      "profile_category": "",
+      "entity_slug": "pinnacle-infotech",
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.8,
+      "strengths": [
+        "1. **Scale** — 1,500+ employees, 2,600+ clients across 47 countries",
+        "2. **Longevity** — 30+ years in BIM outsourcijg, proven track record",
+        "3. **Full stack** — Architectural, structural, MEP, scan-to-BIM, BIM consulting, digital twin",
+        "4. **Global presence** — Offices in India, UK, USA, UAE, Germany, Singapore",
+        "5. **Brand recognition** — Well-known in AEC outsourcing space"
+      ],
+      "weaknesses": [
+        "1. **Premium pricing** — More expensive than generic Indian BIM providers",
+        "2. **Minimum engagement size** — Typically takes larger projects, less flexible for small firms",
+        "3. **Standardized processes** — Less flexible for custom workflows",
+        "4. **Sales-driven** — Transactional sales approach, less consultative",
+        "5. **Overhead** — Large org structure means slower responsiveness for small clients"
+      ],
+      "threat_level": "",
+      "threat_overlap_score": null,
+      "pricing_signals": [],
+      "customer_segments": [
+        "Large AEC firms and contractors (top of the market)",
+        "Multi-national project pipelines",
+        "Government/institutional projects"
+      ],
+      "operations_notes": "",
+      "financial_signals": "",
+      "sentiment_summary": "",
+      "compliance_notes": "",
+      "evidence_sources": [],
+      "file_path": "sectors/bim-global-outreach/bd-market/competitors/pinnacle-infotech.md"
+    },
+    {
+      "doc_type": "competitor",
+      "slug": "silicon-valley-cad",
+      "name": "cad",
+      "sector": "bim-global-outreach",
+      "frontmatter": {
+        "entity_type": "competitor",
+        "sector": "bim-global-outreach",
+        "entity_slug": "silicon-valley-cad",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.75",
+        "primary_sources": "- research_all_20260625"
+      },
+      "profile_category": "",
+      "entity_slug": "silicon-valley-cad",
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.75,
+      "strengths": [
+        "1. **Premium US-based** — All work done in USA by US staff, highest quality standards",
+        "2. **California market expertise** — Deep knowledge of CA title 24, CALGreen, local building codes",
+        "3. **Personal service** — Small team, direct principal involvement, white-glove account management",
+        "4. **Quick turnaround** — Onshore team means same-timezone responsiveness and rapid iterations",
+        "5. **High-end clients** — Works with top San Francisco/Silicon Valley architecture firms"
+      ],
+      "weaknesses": [
+        "1. **Very expensive** — Est. $125–200/hr, 5-10x more expensive than offshore alternatives",
+        "2. **Small team** — Limited capacity, cannot scale for large or multi-site projects",
+        "3. **Niche geographic** — Not suitable for firms outside US West Coast markets",
+        "4. **No offshore option** — Single location, no cost-tier options for clients",
+        "5. **Limited service breadth** — Pure BIM production, not consulting/strategy like Microdesk"
+      ],
+      "threat_level": "",
+      "threat_overlap_score": null,
+      "pricing_signals": [],
+      "customer_segments": [
+        "Boutique architecture firms in Bay Area",
+        "High-end residential and mixed-use developers",
+        "California-based contractors"
+      ],
+      "operations_notes": "",
+      "financial_signals": "",
+      "sentiment_summary": "",
+      "compliance_notes": "",
+      "evidence_sources": [],
+      "file_path": "sectors/bim-global-outreach/bd-market/competitors/silicon-valley-cad.md"
+    },
+    {
+      "doc_type": "competitor",
+      "slug": "tesla-outsourcing",
+      "name": "outsourcing",
+      "sector": "bim-global-outreach",
+      "frontmatter": {
+        "sector": "bim-global-outreach",
+        "last_verified": "2026-06-25",
+        "freshness": "fresh"
+      },
+      "profile_category": "",
+      "entity_slug": "tesla-outsourcing",
+      "last_verified_at": "",
+      "freshness_status": "unknown",
+      "confidence_score": 0.0,
+      "strengths": [
+        "1. **Scan-to-BIM expertise** — Known as a leading specialist in point cloud to BIM conversion, complex existing conditions modeling",
+        "2. **US-headquartered** — American management with India delivery, strong US market understanding",
+        "3. **Diverse project types** — Works on heritage, industrial, commercial, residential, and infrastructure projects",
+        "4. **Technology adoption** — Early adopters of Revit 202x features, point cloud processing tools",
+        "5. **Client communication** — Dedicated project managers, strong English proficiency"
+      ],
+      "weaknesses": [
+        "1. **Brand confusion** — Name similarity to Tesla Inc. creates search/credibility issues",
+        "2. **Narrow perceived scope** — Often seen as scan-to-BIM only, not full-service BIM provider",
+        "3. **Mid-market focus** — Fewer large enterprise clients compared to top-tier competitors",
+        "4. **Limited marketing** — Lower online visibility relative to service quality",
+        "5. **Geographic spread** — Single India delivery location limits redundancy"
+      ],
+      "threat_level": "",
+      "threat_overlap_score": null,
+      "pricing_signals": [],
+      "customer_segments": [
+        "Architectural firms needing as-built modeling",
+        "Facility owners and managers",
+        "Renovation/retrofit contractors",
+        "Heritage preservation projects"
+      ],
+      "operations_notes": "",
+      "financial_signals": "",
+      "sentiment_summary": "",
+      "compliance_notes": "",
+      "evidence_sources": [],
+      "file_path": "sectors/bim-global-outreach/bd-market/competitors/tesla-outsourcing.md"
+    },
+    {
+      "doc_type": "competitor",
+      "slug": "truecadd",
+      "name": "truecadd",
+      "sector": "bim-global-outreach",
+      "frontmatter": {
+        "entity_type": "competitor",
+        "sector": "bim-global-outreach",
+        "entity_slug": "truecadd",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.75",
+        "primary_sources": "- research_all_20260625"
+      },
+      "profile_category": "",
+      "entity_slug": "truecadd",
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.75,
+      "strengths": [
+        "1. **Scale & tenure** — 500+ employees, 25+ years in CAD/BIM outsourcing, established track record",
+        "2. **End-to-end offering** — CAD drafting through full BIM lifecycle, including scan-to-BIM and clash detection",
+        "3. **Cost advantage** — Competitive Indian pricing with consistent quality delivery",
+        "4. **Multi-sector** — Serves architecture, structural, MEP, civil, and industrial sectors",
+        "5. **Process maturity** — ISO-certified processes, project management rigor"
+      ],
+      "weaknesses": [
+        "1. **Commodity positioning** — Heavy on drafting/CAD heritage, less strategic BIM consulting brand",
+        "2. **Innovation gap** — Not known for leading-edge BIM technology or automation",
+        "3. **Client concentration** — Reliance on mid-market AEC firms, fewer tier-1 enterprise clients",
+        "4. **Brand awareness** — Less visible globally compared to Pinnacle or XS CAD",
+        "5. **Rigid engagement models** — Standardized delivery, less flexibility for boutique projects"
+      ],
+      "threat_level": "",
+      "threat_overlap_score": null,
+      "pricing_signals": [],
+      "customer_segments": [
+        "Mid-market AEC firms",
+        "Engineering consultancies",
+        "US/UK architecture practices"
+      ],
+      "operations_notes": "",
+      "financial_signals": "",
+      "sentiment_summary": "",
+      "compliance_notes": "",
+      "evidence_sources": [],
+      "file_path": "sectors/bim-global-outreach/bd-market/competitors/truecadd.md"
+    },
+    {
+      "doc_type": "competitor",
+      "slug": "virtual-building-studio",
+      "name": "studio",
+      "sector": "bim-global-outreach",
+      "frontmatter": {
+        "entity_type": "competitor",
+        "sector": "bim-global-outreach",
+        "entity_slug": "virtual-building-studio",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.75",
+        "primary_sources": "- research_all_20260625"
+      },
+      "profile_category": "",
+      "entity_slug": "virtual-building-studio",
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.75,
+      "strengths": [
+        "1. **VDC leadership** — Strong brand in Virtual Design & Construction, known for preconstruction BIM",
+        "2. **US-based expertise** — Experienced in US construction methods, contractual BIM requirements",
+        "3. **Integrated approach** — Bridges design and construction through VDC, not just design-side BIM",
+        "4. **Lean construction alignment** — Integrates BIM with lean construction and IPD methodology",
+        "5. **Collaborative culture** — Known for team integration and facilitating BIM kickoffs"
+      ],
+      "weaknesses": [
+        "1. **Small scale** — 30–60 people limits project capacity and geographic reach",
+        "2. **Premium pricing** — Est. $110–160/hr for VDC services",
+        "3. **No offshore option** — All US-based, no cost-tier flexibility",
+        "4. **Niche VDC focus** — Less appeal for firms wanting basic BIM production or drafting",
+        "5. **Brand niche** — VDC/BIM consulting not mass-market, limited client pool"
+      ],
+      "threat_level": "",
+      "threat_overlap_score": null,
+      "pricing_signals": [],
+      "customer_segments": [
+        "Large US general contractors",
+        "Construction management firms",
+        "Design-build teams",
+        "Owners representatives"
+      ],
+      "operations_notes": "",
+      "financial_signals": "",
+      "sentiment_summary": "",
+      "compliance_notes": "",
+      "evidence_sources": [],
+      "file_path": "sectors/bim-global-outreach/bd-market/competitors/virtual-building-studio.md"
+    },
+    {
+      "doc_type": "competitor",
+      "slug": "xs-cad",
+      "name": "cad",
+      "sector": "bim-global-outreach",
+      "frontmatter": {
+        "entity_type": "competitor",
+        "sector": "bim-global-outreach",
+        "entity_slug": "xs-cad",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.75",
+        "primary_sources": "- research_all_20260625"
+      },
+      "profile_category": "",
+      "entity_slug": "xs-cad",
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.75,
+      "strengths": [
+        "1. **Sector specialization** — Deep domain expertise in hospitality and healthcare BIM (Ritz-Carlton, Marriott, NHS projects)",
+        "2. **UK heritage** — London HQ with India delivery, strong understanding of UK BIM standards and ISO 19650",
+        "3. **Published thought leadership** — White papers, conferences, active in BIM community",
+        "4. **Design-led** — Works closely with architects, not just production outsourcing",
+        "5. **Quality reputation** — Known for high-quality, detailed BIM models with strong QA processes"
+      ],
+      "weaknesses": [
+        "1. **Premium pricing for Indian delivery** — Priced higher than typical Indian BIM providers",
+        "2. **Niche focus** — Limited appeal for firms outside hospitality/healthcare verticals",
+        "3. **Scale constraints** — 200+ staff limits capacity for very large enterprise deals",
+        "4. **Slow to adopt automation** — Less emphasis on Dynamo/scripting compared to tech-forward competitors",
+        "5. **Sales cycle** — Consultative, relationship-driven sales can be slower than transactional providers"
+      ],
+      "threat_level": "",
+      "threat_overlap_score": null,
+      "pricing_signals": [],
+      "customer_segments": [
+        "Hospitality architects and contractors",
+        "Healthcare AEC firms",
+        "High-end residential developers",
+        "Retail and leisure"
+      ],
+      "operations_notes": "",
+      "financial_signals": "",
+      "sentiment_summary": "",
+      "compliance_notes": "",
+      "evidence_sources": [],
+      "file_path": "sectors/bim-global-outreach/bd-market/competitors/xs-cad.md"
     },
     {
       "doc_type": "competitor",

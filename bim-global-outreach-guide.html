@@ -1,0 +1,773 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>iNCOMPLEX — BIM Global Outreach Strategy Guide</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,sans-serif;background:#f0f2f5;color:#1a1a2e;line-height:1.6}
+.header{background:linear-gradient(135deg,#0f0c29,#302b63,#24243e);color:#fff;padding:60px 20px;text-align:center}
+.header h1{font-size:2.8em;margin-bottom:8px;font-weight:800;letter-spacing:-0.5px}
+.header .subtitle{font-size:1.2em;opacity:.85;margin-bottom:4px}
+.header .tagline{font-size:.95em;opacity:.65;margin-top:12px;font-style:italic}
+.container{max-width:1100px;margin:0 auto;padding:20px}
+.section{margin:24px 0}
+.section-title{font-size:1.5em;font-weight:700;color:#302b63;padding:16px 0 8px;border-bottom:3px solid #302b63;margin-bottom:16px;display:flex;align-items:center;gap:10px}
+.section-title .num{background:#302b63;color:#fff;border-radius:50%;width:32px;height:32px;display:inline-flex;align-items:center;justify-content:center;font-size:.8em;flex-shrink:0}
+.card{background:#fff;border-radius:12px;padding:24px;margin-bottom:16px;box-shadow:0 1px 3px rgba(0,0,0,.08)}
+.card h3{font-size:1.15em;color:#24243e;margin-bottom:12px;padding-bottom:8px;border-bottom:1px solid #eee}
+.table-wrap{overflow-x:auto}
+table{width:100%;border-collapse:collapse;font-size:.92em}
+th,td{padding:10px 14px;text-align:left;border-bottom:1px solid #e8e8ee}
+th{background:#f8f9fc;font-weight:600;color:#302b63;position:sticky;top:0}
+tr:hover{background:#f5f6fa}
+.badge{display:inline-block;padding:2px 10px;border-radius:12px;font-size:.82em;font-weight:600}
+.badge-green{background:#d4edda;color:#155724}
+.badge-yellow{background:#fff3cd;color:#856404}
+.badge-red{background:#f8d7da;color:#721c24}
+.badge-blue{background:#d1ecf1;color:#0c5460}
+.metrics{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px;margin:16px 0}
+.metric{border:1px solid #e0e0e8;border-radius:10px;padding:16px;text-align:center;background:#fafbff}
+.metric .val{font-size:1.8em;font-weight:700;color:#302b63}
+.metric .label{font-size:.82em;color:#666;margin-top:4px}
+.metric .src{font-size:.72em;color:#999;margin-top:2px}
+.grid-2{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+@media(max-width:768px){.grid-2{grid-template-columns:1fr}}
+.list{padding-left:18px}
+.list li{margin-bottom:6px}
+.two-col{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+@media(max-width:768px){.two-col{grid-template-columns:1fr}}
+.compact-table td{font-size:.85em;padding:6px 10px}
+.tag{display:inline-block;padding:1px 8px;border-radius:6px;font-size:.78em;font-weight:600;margin:1px}
+.tag-us{background:#d1ecf1;color:#0c5460}
+.tag-uk{background:#d4edda;color:#155724}
+.tag-uae{background:#fff3cd;color:#856404}
+.tag-au{background:#e2d5f5;color:#5a2d82}
+.tag-ca{background:#fde8d0;color:#8b4513}
+.tag-sa{background:#f5d5d5;color:#8b0000}
+.tag-eu{background:#d5e8f5;color:#1a5276}
+.collapsible{cursor:pointer;user-select:none}
+.collapsible::after{content:' ▾';font-size:.8em;opacity:.5}
+.collapsible.active::after{content:' ▴'}
+.collapse-content{display:none;padding-top:12px}
+.collapse-content.show{display:block}
+.competitor-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+@media(max-width:768px){.competitor-grid{grid-template-columns:1fr}}
+.competitor-card{border:1px solid #e0e0e8;border-radius:10px;padding:16px;background:#fff;transition:box-shadow .15s}
+.competitor-card:hover{box-shadow:0 2px 8px rgba(0,0,0,.08)}
+.competitor-card h4{color:#24243e;font-size:1em;margin-bottom:4px}
+.competitor-card .hq{font-size:.78em;color:#888;margin-bottom:6px}
+.competitor-card .stat{font-size:.82em;margin-bottom:3px}
+.competitor-card .stat strong{color:#302b63}
+.ercr-grid{display:grid;grid-template-columns:1fr 1fr 1fr 1fr;gap:10px}
+@media(max-width:768px){.ercr-grid{grid-template-columns:1fr 1fr}}
+.ercr-box{border-radius:10px;padding:14px}
+.ercr-box h4{font-size:.9em;margin-bottom:6px}
+.ercr-box ul{padding-left:16px;font-size:.85em}
+.ercr-box li{margin-bottom:3px}
+.eliminate{background:#f8d7da;border:1px solid #f5c6cb}
+.reduce{background:#fff3cd;border:1px solid #ffeeba}
+.raise{background:#d4edda;border:1px solid #c3e6cb}
+.create{background:#d1ecf1;border:1px solid #bee5eb}
+.phase-timeline{margin:12px 0}
+.phase-item{padding:12px 16px;margin-bottom:8px;border-left:4px solid #302b63;background:#f8f9fc;border-radius:0 8px 8px 0}
+.phase-item h4{color:#302b63;margin-bottom:4px}
+.phase-item .meta{font-size:.82em;color:#888;margin-bottom:4px}
+.phase-item ul{padding-left:16px;font-size:.9em}
+.pain-point{padding:10px 14px;margin-bottom:6px;border-radius:8px;background:#fff8e6;border-left:4px solid #ffc107}
+.pain-point strong{color:#856404}
+.outreach-avoid{background:#fff5f5;padding:10px 14px;border-radius:8px;margin:6px 0;border-left:4px solid #e53e3e;font-size:.9em}
+.outreach-do{background:#f0fff4;padding:10px 14px;border-radius:8px;margin:6px 0;border-left:4px solid #38a169;font-size:.9em}
+.kill-box{background:#fef2f2;border:1px solid #fecaca;border-radius:10px;padding:16px;margin-bottom:16px}
+.kill-box h4{color:#991b1b;margin-bottom:6px}
+.kill-box ul{font-size:.9em;padding-left:16px}
+.pause-box{background:#fffbeb;border:1px solid #fde68a;border-radius:10px;padding:16px;margin-bottom:16px}
+.pause-box h4{color:#92400e;margin-bottom:6px}
+.pause-box ul{font-size:.9em;padding-left:16px}
+.rate-table td:first-child{font-weight:500}
+.lod-box{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+@media(max-width:768px){.lod-box{grid-template-columns:1fr}}
+.lod-item{padding:10px 14px;border-radius:8px;border:1px solid #e0e0e8;font-size:.88em}
+.lod-item strong{color:#302b63}
+.footer{text-align:center;padding:32px;color:#999;font-size:.85em;margin-top:40px;border-top:1px solid #e0e0e8}
+.table-fixed{max-height:400px;overflow-y:auto;border:1px solid #e0e0e8;border-radius:8px}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>iNCOMPLEX</h1>
+  <div class="subtitle">BIM Global Outreach Strategy Guide</div>
+  <div class="tagline">BIM Production Partner — Architecture &amp; Building Systems Specialists</div>
+  <div style="margin-top:20px;display:flex;gap:8px;justify-content:center;flex-wrap:wrap">
+    <span class="badge badge-blue">Global BIM Market $4.7–9.5B</span>
+    <span class="badge badge-green">12–15% CAGR</span>
+    <span class="badge badge-yellow">10 Target Countries</span>
+    <span class="badge badge-red">12 Competitors Analyzed</span>
+  </div>
+</div>
+
+<div class="container">
+
+<!-- 1. MARKET OVERVIEW -->
+<div class="section">
+  <div class="section-title"><span class="num">1</span> Market Overview</div>
+  <div class="card">
+    <div class="metrics">
+      <div class="metric"><div class="val">$4.7–9.5B</div><div class="label">Global BIM Market (2025)</div><div class="src">Multiple sources</div></div>
+      <div class="metric"><div class="val">$3.5B</div><div class="label">BIM Outsourcing (2024)</div><div class="src">Data Insights Market</div></div>
+      <div class="metric"><div class="val">$6.2B</div><div class="label">BIM Outsourcing (2033)</div><div class="src">7.2% CAGR</div></div>
+      <div class="metric"><div class="val">12–15%</div><div class="label">BIM Market CAGR</div><div class="src">2025–2034</div></div>
+      <div class="metric"><div class="val">$12T+</div><div class="label">Global Construction TAM</div><div class="src">McKinsey, WEF</div></div>
+      <div class="metric"><div class="val">60–80%</div><div class="label">BIM Adoption (Tier 1)</div><div class="src">Dodge Data &amp; Analytics</div></div>
+    </div>
+  </div>
+</div>
+
+<!-- 2. TARGET MARKETS -->
+<div class="section">
+  <div class="section-title"><span class="num">2</span> Target Markets</div>
+  <div class="grid-2">
+    <div class="card">
+      <h3>Tier 1 — Priority</h3>
+      <table>
+        <tr><th>Country</th><th>BIM Mandate</th><th>Key Hubs</th></tr>
+        <tr><td><span class="tag tag-us">USA</span></td><td>GSA-funded projects</td><td>NYC, Chicago, SF, Houston</td></tr>
+        <tr><td><span class="tag tag-uk">UK</span></td><td>Govt projects (2016)</td><td>London, Manchester, Birmingham</td></tr>
+        <tr><td><span class="tag tag-au">Australia</span></td><td>State-level adoption</td><td>Sydney, Melbourne, Brisbane</td></tr>
+        <tr><td><span class="tag tag-ca">Canada</span></td><td>Provincial adoption</td><td>Toronto, Vancouver, Calgary</td></tr>
+        <tr><td><span class="tag tag-uae">UAE</span></td><td>&gt;20 floors (2024)</td><td>Dubai, Abu Dhabi</td></tr>
+      </table>
+    </div>
+    <div class="card">
+      <h3>Tier 2 — Growth</h3>
+      <table>
+        <tr><th>Country</th><th>Key Driver</th><th>Key Hubs</th></tr>
+        <tr><td><span class="tag tag-sa">Saudi Arabia</span></td><td>NEOM, Vision 2030</td><td>Riyadh, Jeddah</td></tr>
+        <tr><td><span class="tag tag-eu">Germany</span></td><td>Steady adoption</td><td>Berlin, Frankfurt, Munich</td></tr>
+        <tr><td><span class="tag tag-eu">Netherlands</span></td><td>High adoption rate</td><td>Amsterdam, Rotterdam</td></tr>
+        <tr><td><span class="tag tag-eu">Singapore</span></td><td>Govt mandate (2015)</td><td>Singapore</td></tr>
+        <tr><td><span class="tag tag-uk">Ireland</span></td><td>Growing AEC sector</td><td>Dublin, Cork</td></tr>
+      </table>
+    </div>
+  </div>
+  <div class="card">
+    <h3>Target Industries (by Project Type)</h3>
+    <div style="display:flex;flex-wrap:wrap;gap:8px">
+      <span class="badge badge-blue">Healthcare Projects</span>
+      <span class="badge badge-blue">Commercial Towers</span>
+      <span class="badge badge-blue">Hospitality</span>
+      <span class="badge badge-blue">Industrial Facilities</span>
+      <span class="badge badge-blue">Airports</span>
+      <span class="badge badge-blue">Residential High-Rises</span>
+      <span class="badge badge-blue">Data Centers</span>
+      <span class="badge badge-blue">Retail Chains</span>
+      <span class="badge badge-blue">Warehouses</span>
+    </div>
+  </div>
+</div>
+
+<!-- 3. CORE SERVICES -->
+<div class="section">
+  <div class="section-title"><span class="num">3</span> Core Services</div>
+  <div class="grid-2">
+    <div class="card">
+      <h3>Architectural BIM</h3>
+      <ul class="list">
+        <li>BIM Modeling &amp; Revit Documentation</li>
+        <li>Construction Drawings</li>
+        <li>Shop Drawings</li>
+        <li>As-Built Modeling</li>
+        <li>BIM Coordination</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h3>MEP &amp; Building Systems</h3>
+      <ul class="list">
+        <li>HVAC Drawings &amp; Coordination</li>
+        <li>Plumbing Design &amp; Documentation</li>
+        <li>Fire Safety System Drawings</li>
+        <li>Electrical Drawings &amp; Layouts</li>
+        <li>MEP Clash Detection</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h3>Engineering &amp; Construction</h3>
+      <ul class="list">
+        <li>Civil Engineering Documentation</li>
+        <li>Structural Coordination</li>
+        <li>Construction Blueprints</li>
+        <li>Quantity Takeoff</li>
+        <li>Navisworks Coordination</li>
+        <li>Scan-to-BIM, LOD 300–400</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h3>Visualization</h3>
+      <ul class="list">
+        <li>BIM Visualization</li>
+        <li>Enscape/Lumion Support</li>
+        <li>Client Presentation Graphics</li>
+        <li>Architectural Rendering</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- 4. STRATEGY CANVAS -->
+<div class="section">
+  <div class="section-title"><span class="num">4</span> Strategy Canvas</div>
+  <div class="card">
+    <h3>Competing Factors Matrix</h3>
+    <div class="table-wrap">
+      <table>
+        <tr><th>Factor</th><th>Low-End BIM</th><th>iNCOMPLEX</th><th>Premium Firms</th></tr>
+        <tr><td>Price/Value Ratio</td><td>5 (Lowest cost)</td><td>7 (Competitive + quality)</td><td>3 (Premium pricing)</td></tr>
+        <tr><td>Architecture Expertise</td><td>3 (Drafting focus)</td><td>9 (Architectural background)</td><td>8 (Top-tier)</td></tr>
+        <tr><td>MEP Coordination</td><td>3 (Limited)</td><td>8 (Building systems specialist)</td><td>9 (Full scope)</td></tr>
+        <tr><td>Visualization Capability</td><td>2 (Rarely offered)</td><td>8 (Enscape/Lumion)</td><td>7 (Often separate)</td></tr>
+        <tr><td>Communication &amp; English</td><td>4 (Variable)</td><td>9 (International team)</td><td>9 (Native)</td></tr>
+        <tr><td>Turnaround Speed</td><td>8 (Fast, quality varies)</td><td>8 (Fast with quality)</td><td>5 (Schedule-dependent)</td></tr>
+        <tr><td>Flexible Scaling</td><td>9 (Elastic capacity)</td><td>9 (Elastic, no overhead)</td><td>3 (Internal teams)</td></tr>
+        <tr><td>Consultative Approach</td><td>2 (Transactional)</td><td>8 (Pain-point focused)</td><td>6 (Relationship sales)</td></tr>
+        <tr><td>BIM Production Quality</td><td>4 (Inconsistent)</td><td>8 (Structured LOD control)</td><td>9 (Best-in-class)</td></tr>
+        <tr><td>Western Standards Familiarity</td><td>3 (Variable)</td><td>8 (US/UK/EU/AU)</td><td>9 (Native)</td></tr>
+      </table>
+    </div>
+  </div>
+
+  <div class="card">
+    <h3>ERRC — Blue Ocean Actions</h3>
+    <div class="ercr-grid">
+      <div class="ercr-box eliminate">
+        <h4 style="color:#991b1b">ELIMINATE</h4>
+        <ul>
+          <li>Cheap BIM labor positioning</li>
+          <li>Cold outreach w/o pain targeting</li>
+          <li>One-size-fits-all pitches</li>
+        </ul>
+      </div>
+      <div class="ercr-box reduce">
+        <h4 style="color:#92400e">REDUCE</h4>
+        <ul>
+          <li>Generic "we provide BIM" messaging</li>
+          <li>Focus on hourly rates</li>
+          <li>Broad untargeted email blasts</li>
+        </ul>
+      </div>
+      <div class="ercr-box raise">
+        <h4 style="color:#155724">RAISE</h4>
+        <ul>
+          <li>Architecture + engineering expertise</li>
+          <li>Consultative outreach</li>
+          <li>Quality standards (LOD control)</li>
+          <li>English + Western code familiarity</li>
+        </ul>
+      </div>
+      <div class="ercr-box create">
+        <h4 style="color:#0c5460">CREATE</h4>
+        <ul>
+          <li>BIM Production Partner category</li>
+          <li>Pain-focused outreach scripts</li>
+          <li>Extended team positioning</li>
+          <li>MEP coordination specialization</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- 5. POSITIONING -->
+<div class="section">
+  <div class="section-title"><span class="num">5</span> Positioning &amp; Value Proposition</div>
+  <div class="card" style="background:linear-gradient(135deg,#f0f4ff,#e8ecf8)">
+    <h3>Positioning Statement</h3>
+    <blockquote style="font-size:1.1em;font-style:italic;padding:16px 20px;margin:10px 0;border-left:4px solid #302b63;background:rgba(255,255,255,.7);border-radius:4px">
+      "We help architecture, engineering, and construction firms scale BIM production, documentation, MEP coordination, and building system design without increasing internal staffing overhead."
+    </blockquote>
+  </div>
+  <div class="grid-2">
+    <div class="card">
+      <h3 style="color:#e53e3e">❌ Never Say</h3>
+      <div class="outreach-avoid">"Cheap outsourcing"</div>
+      <div class="outreach-avoid">"Low-cost drafting service"</div>
+      <div class="outreach-avoid">"Offshore labor"</div>
+    </div>
+    <div class="card">
+      <h3 style="color:#38a169">✅ Position As</h3>
+      <div class="outreach-do">"BIM Production Partner"</div>
+      <div class="outreach-do">"Remote Technical Delivery Team"</div>
+      <div class="outreach-do">"Scalable BIM Support Studio"</div>
+      <div class="outreach-do">"Extended BIM Coordination Team"</div>
+    </div>
+  </div>
+  <div class="card">
+    <h3>Key Differentiators</h3>
+    <div style="display:flex;flex-wrap:wrap;gap:8px">
+      <span class="badge badge-green">Architecture + BIM expertise</span>
+      <span class="badge badge-green">Visualization capability</span>
+      <span class="badge badge-green">Building engineering understanding</span>
+      <span class="badge badge-green">Flexible scaling</span>
+      <span class="badge badge-green">Faster turnaround</span>
+      <span class="badge badge-green">International communication</span>
+      <span class="badge badge-green">Cost efficiency + quality</span>
+    </div>
+  </div>
+</div>
+
+<!-- 6. OUTREACH ANGLE -->
+<div class="section">
+  <div class="section-title"><span class="num">6</span> Outreach Framework</div>
+  <div class="card">
+    <h3>Pain-Point Messaging</h3>
+    <div class="pain-point"><strong>Staffing Pressure:</strong> "We can't hire enough BIM/Revit staff fast enough"</div>
+    <div class="pain-point"><strong>Coordination Overload:</strong> "MEP clashes are killing our project timelines"</div>
+    <div class="pain-point"><strong>Documentation Overload:</strong> "We have 3 projects due and no bandwidth"</div>
+    <div class="pain-point"><strong>Fast-Track Deadlines:</strong> "We need LOD 400 models yesterday"</div>
+    <div class="pain-point"><strong>Margin Pressure:</strong> "Our margins are squeezed, we can't sacrifice quality"</div>
+  </div>
+  <div class="grid-2">
+    <div class="card">
+      <h3>Best Outreach Angle</h3>
+      <div class="outreach-do" style="font-size:.95em">
+        "We help overloaded architecture and construction teams handle BIM production and MEP coordination during high-volume project phases."
+      </div>
+      <div class="outreach-avoid" style="margin-top:12px;font-size:.9em">
+        Instead of: "We provide BIM services."
+      </div>
+    </div>
+    <div class="card">
+      <h3>Primary Channels</h3>
+      <ul class="list">
+        <li><strong>LinkedIn</strong> — Connection + InMail, 20% acceptance target</li>
+        <li><strong>Email</strong> — Drip campaigns (30% open, 5% reply)</li>
+        <li><strong>Clutch</strong> — Project inquiries from active buyers</li>
+        <li><strong>Upwork Enterprise</strong> — Enterprise accounts</li>
+        <li><strong>Construction Directories</strong> — Targeted lead gen</li>
+        <li><strong>BIM Forums</strong> — Reddit r/Revit, BIM 360 Community</li>
+      </ul>
+    </div>
+  </div>
+  <div class="card">
+    <h3>Target ICP</h3>
+    <div class="grid-2">
+      <div>
+        <h4>Company Profile</h4>
+        <ul class="list">
+          <li>20–500 employees</li>
+          <li>Architecture, Construction, Design-Build, MEP Consulting</li>
+          <li>Large enough to outsource, small enough to respond</li>
+          <li>Often overloaded with project work</li>
+        </ul>
+      </div>
+      <div>
+        <h4>Decision Makers</h4>
+        <div style="display:flex;flex-wrap:wrap;gap:4px">
+          <span class="badge badge-blue">BIM Manager</span>
+          <span class="badge badge-blue">VDC Manager</span>
+          <span class="badge badge-blue">Design Manager</span>
+          <span class="badge badge-blue">Construction PM</span>
+          <span class="badge badge-blue">Senior Architect</span>
+          <span class="badge badge-blue">Technical Director</span>
+          <span class="badge badge-blue">Engineering Manager</span>
+          <span class="badge badge-blue">Operations Director</span>
+          <span class="badge badge-blue">MEP Lead</span>
+          <span class="badge badge-blue">Digital Delivery Lead</span>
+        </div>
+      </div>
+    </div>
+    <div style="margin-top:12px">
+      <h4>Buying Signals — Prioritize</h4>
+      <div style="display:flex;flex-wrap:wrap;gap:4px">
+        <span class="badge badge-green">✅ Hiring BIM/Revit staff</span>
+        <span class="badge badge-green">✅ Recently won large projects</span>
+        <span class="badge badge-green">✅ Handle fast-track projects</span>
+        <span class="badge badge-green">✅ Team expansion</span>
+        <span class="badge badge-green">✅ Need MEP coordination</span>
+        <span class="badge badge-green">✅ Complex buildings</span>
+        <span class="badge badge-green">✅ Active construction pipeline</span>
+        <span class="badge badge-green">✅ Use Revit/BIM publicly</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- 7. PRICING -->
+<div class="section">
+  <div class="section-title"><span class="num">7</span> Pricing Guide</div>
+  <div class="card">
+    <h3>Rate Positioning</h3>
+    <p style="margin-bottom:12px;font-size:.92em;color:#555">Target <strong>$60–100/hr</strong> sweet spot — competitive with Eastern Europe, positioned as architecture-MEP specialist. Avoid race-to-bottom vs India/Philippines.</p>
+    <div class="table-wrap">
+      <table class="rate-table">
+        <tr><th>Service</th><th>India/PH</th><th>Eastern Europe</th><th style="background:#e8ecf8;font-weight:700">iNCOMPLEX Target</th></tr>
+        <tr><td>Architectural BIM Modeling</td><td>$15–25</td><td>$30–50</td><td style="background:#f0f4ff">$50–80</td></tr>
+        <tr><td>MEP Coordination &amp; Clash Detection</td><td>$20–30</td><td>$40–60</td><td style="background:#f0f4ff">$65–100</td></tr>
+        <tr><td>Scan-to-BIM</td><td>$20–35</td><td>$45–65</td><td style="background:#f0f4ff">$70–110</td></tr>
+        <tr><td>BIM Visualization (Enscape/Lumion)</td><td>$25–40</td><td>$50–70</td><td style="background:#f0f4ff">$75–120</td></tr>
+        <tr><td>BIM Management/Consulting</td><td>$30–50</td><td>$60–90</td><td style="background:#f0f4ff">$100–150</td></tr>
+        <tr><td>Revit Family Creation</td><td>$15–25</td><td>$30–45</td><td style="background:#f0f4ff">$50–70</td></tr>
+      </table>
+    </div>
+  </div>
+  <div class="card">
+    <h3>Pricing Models</h3>
+    <div class="grid-2">
+      <div class="metric"><div class="val" style="font-size:1.4em">Hourly</div><div class="label">Short-term, initial relationships — low friction</div></div>
+      <div class="metric"><div class="val" style="font-size:1.4em">Fixed Fee</div><div class="label">Well-scoped deliverables — clients prefer predictability</div></div>
+      <div class="metric"><div class="val" style="font-size:1.4em">Monthly Retainer</div><div class="label">Ongoing production — predictable revenue</div></div>
+      <div class="metric"><div class="val" style="font-size:1.4em">Value-Based</div><div class="label">Large/complex projects — higher margin</div></div>
+    </div>
+  </div>
+</div>
+
+<!-- 8. REGULATORY & COMPLIANCE -->
+<div class="section">
+  <div class="section-title"><span class="num">8</span> Regulatory &amp; Compliance</div>
+  <div class="card">
+    <h3>BIM Mandates by Country</h3>
+    <div class="table-wrap table-fixed">
+      <table>
+        <tr><th>Country</th><th>Mandate Status</th><th>Key Standard</th></tr>
+        <tr><td>United Kingdom</td><td>BIM Level 2 mandated on govt projects (2016)</td><td>ISO 19650 (was PAS 1192)</td></tr>
+        <tr><td>Singapore</td><td>Mandated for buildings &gt;20k sqm (2015)</td><td>BCA BIM Guide, CORENET</td></tr>
+        <tr><td>USA (GSA)</td><td>Required on GSA-funded projects</td><td>GSA BIM Guide, NBIMS-US</td></tr>
+        <tr><td>UAE (Dubai)</td><td>Mandated &gt;40 floors (2014), &gt;20 floors (2024)</td><td>DM BIM Guide, ISO 19650</td></tr>
+        <tr><td>Saudi Arabia</td><td>NEOM / Vision 2030 projects</td><td>NEOM BIM Framework</td></tr>
+        <tr><td>Australia</td><td>State-level (NSW, QLD, VIC active)</td><td>ISO 19650 adoption</td></tr>
+        <tr><td>Canada</td><td>Provincial adoption growing</td><td>ISO 19650 adoption</td></tr>
+        <tr><td>Germany</td><td>No federal mandate, public projects request</td><td>VDI 2552</td></tr>
+        <tr><td>Netherlands</td><td>Strong adoption (not mandated)</td><td>RGD BIM Norm</td></tr>
+        <tr><td>Ireland</td><td>Growing, encouraged on public works</td><td>ISO 19650-aligned</td></tr>
+      </table>
+    </div>
+  </div>
+  <div class="grid-2">
+    <div class="card">
+      <h3>Quality Standards (LOD)</h3>
+      <div class="lod-box">
+        <div class="lod-item"><strong>LOD 300</strong> — Design Development. Accurate quantities, 100mm precision</div>
+        <div class="lod-item"><strong>LOD 350</strong> — Construction Docs. System interface models</div>
+        <div class="lod-item"><strong>LOD 400</strong> — Fabrication/Assembly. Shop-ready, 6mm precision</div>
+        <div class="lod-item"><strong>Clash Detection</strong> — Zero hard clashes at milestone reviews</div>
+      </div>
+    </div>
+    <div class="card">
+      <h3>Data Protection</h3>
+      <ul class="list">
+        <li>Standard NDA, data segregation per client</li>
+        <li>GDPR compliance for EU clients</li>
+        <li>Client owns all deliverables</li>
+        <li>BIM 360 enterprise security, MFA</li>
+        <li>Screen defense contracts (ITAR)</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- 9. FINANCIAL MODEL -->
+<div class="section">
+  <div class="section-title"><span class="num">9</span> Financial Model</div>
+  <div class="card">
+    <h3>Revenue Ramp — 12 Month Projection</h3>
+    <div class="table-wrap">
+      <table>
+        <tr><th>Phase</th><th>Timeline</th><th>Monthly Revenue</th><th>Team Size</th><th>Margin</th></tr>
+        <tr><td>Foundation</td><td>Months 1–3</td><td>$5,000–10,000</td><td>1 team (3 people)</td><td>50–60%</td></tr>
+        <tr><td>Growth</td><td>Months 4–6</td><td>$25,000–50,000</td><td>3 teams (9 people)</td><td>55–65%</td></tr>
+        <tr><td>Scale</td><td>Months 7–12</td><td>$75,000–125,000</td><td>5–7 teams (15–21 people)</td><td>60–70%</td></tr>
+      </table>
+    </div>
+    <h3 style="margin-top:16px">Revenue Channels (Scale Phase)</h3>
+    <div class="metrics" style="grid-template-columns:repeat(3,1fr)">
+      <div class="metric"><div class="val" style="font-size:1.2em">$45K/mo</div><div class="label">Hourly BIM (3 teams × 200h × $75)</div></div>
+      <div class="metric"><div class="val" style="font-size:1.2em">$30–45K/mo</div><div class="label">Fixed-Fee Projects (2–3 × $15K avg)</div></div>
+      <div class="metric"><div class="val" style="font-size:1.2em">$15–25K/mo</div><div class="label">Retainer Clients (3–5 × $5K)</div></div>
+    </div>
+    <h3 style="margin-top:16px">Cost Structure (Scale Phase)</h3>
+    <div class="grid-2">
+      <div class="card" style="padding:14px;margin:0">
+        <div><strong>Team salaries</strong> (3 teams × 3 people) — $18,000–24,000</div>
+        <div style="margin-top:6px"><strong>Software</strong> (Revit, Navisworks, etc.) — $2,000–4,000</div>
+        <div style="margin-top:6px"><strong>Sales &amp; Marketing</strong> (LinkedIn Sales Nav, email) — $1,000–2,000</div>
+        <div style="margin-top:6px"><strong>Admin &amp; Overhead</strong> — $1,500–3,000</div>
+        <div style="margin-top:10px;border-top:2px solid #302b63;padding-top:8px;font-weight:700">Total Cost: $22,500–33,000/mo</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- 10. GO-TO-MARKET -->
+<div class="section">
+  <div class="section-title"><span class="num">10</span> Go-to-Market Plan</div>
+  <div class="phase-timeline">
+    <div class="phase-item">
+      <h4>Phase 1: Foundation</h4>
+      <div class="meta">Months 1–2 | Goal: Build outreach infrastructure</div>
+      <ul>
+        <li>LinkedIn Profiles Optimization</li>
+        <li>CRM Setup (HubSpot recommended)</li>
+        <li>500+ qualified leads from LinkedIn Sales Nav, Clutch, directories</li>
+        <li>3 outreach script variants (US, UK, UAE)</li>
+        <li>Portfolio/website with BIM case studies, LOD examples</li>
+        <li>Upwork Enterprise profile setup</li>
+      </ul>
+    </div>
+    <div class="phase-item" style="border-left-color:#4a4a8a">
+      <h4>Phase 2: Outbound Pilot</h4>
+      <div class="meta">Months 2–4 | Goal: 50 outreaches/week, consultative messaging</div>
+      <ul>
+        <li>LinkedIn Connection + InMail (20% acceptance, 5% response target)</li>
+        <li>Email Drip Campaign via Lemlist/Mailshake (30% open, 5% reply)</li>
+        <li>Clutch outreach for active project inquiries</li>
+        <li>Referral program from existing network</li>
+      </ul>
+    </div>
+    <div class="phase-item" style="border-left-color:#6a6aaa">
+      <h4>Phase 3: Scaling</h4>
+      <div class="meta">Months 4–6 | Goal: 200 outreaches/week, consistent pipeline</div>
+      <ul>
+        <li>LinkedIn automation (Dux-Soup/LinkedHelper) — 50+ conversations/mo</li>
+        <li>Email at scale — 20+ qualified meetings/mo</li>
+        <li>BIM forums &amp; communities (Reddit r/Revit, BIM 360 Community)</li>
+        <li>LinkedIn Live / YouTube webinars — 100+ views per asset</li>
+      </ul>
+    </div>
+    <div class="phase-item" style="border-left-color:#8a8aca">
+      <h4>Phase 4: Optimization</h4>
+      <div class="meta">Months 6+ | Goal: Predictable revenue, 70%+ repeat/referral</div>
+      <ul>
+        <li>Refine ICP based on highest-converting segments</li>
+        <li>Build case studies from successful engagements</li>
+        <li>Automate lead scoring in CRM</li>
+        <li>Expand to Tier 2 markets (Saudi Arabia, Germany, Singapore)</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- 11. RISK REGISTER -->
+<div class="section">
+  <div class="section-title"><span class="num">11</span> Risk Register</div>
+  <div class="card">
+    <div class="table-wrap table-fixed">
+      <table>
+        <tr><th>#</th><th>Risk</th><th>L</th><th>I</th><th>Mitigation</th></tr>
+        <tr><td>1</td><td>Low cold outreach response (0.5–2% typical)</td><td><span class="badge badge-red">H</span></td><td><span class="badge badge-red">H</span></td><td>A/B test messaging, refine ICP, multi-channel</td></tr>
+        <tr><td>2</td><td>Price competition from India/Philippines</td><td><span class="badge badge-red">H</span></td><td><span class="badge badge-yellow">M</span></td><td>Differentiate on architecture + English; avoid race-to-bottom</td></tr>
+        <tr><td>3</td><td>Quality inconsistency in BIM deliverables</td><td><span class="badge badge-yellow">M</span></td><td><span class="badge badge-red">C</span></td><td>LOD standards per project, QA/QC checklist, BIM manager per client</td></tr>
+        <tr><td>4</td><td>Client IP/NDA concerns (Western firms)</td><td><span class="badge badge-yellow">M</span></td><td><span class="badge badge-red">H</span></td><td>Standard NDA, data security protocols, ISO 27001 alignment</td></tr>
+        <tr><td>5</td><td>Timezone coordination friction</td><td><span class="badge badge-yellow">M</span></td><td><span class="badge badge-yellow">M</span></td><td>4-hour overlap window, async tools (BIM 360, Teams)</td></tr>
+        <tr><td>6</td><td>US/UK building code unfamiliarity</td><td><span class="badge badge-yellow">M</span></td><td><span class="badge badge-red">H</span></td><td>Code consultant for first 3 projects, third-party review</td></tr>
+        <tr><td>7</td><td>Over-reliance on single market (US)</td><td><span class="badge badge-yellow">M</span></td><td><span class="badge badge-yellow">M</span></td><td>UK/Australia/UAE channels in parallel</td></tr>
+        <tr><td>8</td><td>Software licensing costs (Autodesk)</td><td><span class="badge badge-yellow">M</span></td><td><span class="badge badge-green">L</span></td><td>Start with Revit LT, pass costs to client projects</td></tr>
+        <tr><td>9</td><td>Burnout from fast-turnaround projects</td><td><span class="badge badge-yellow">M</span></td><td><span class="badge badge-red">H</span></td><td>80% capacity cap, 2–3 week buffer, never overcommit</td></tr>
+        <tr><td>10</td><td>Payment delays (30–90 day terms)</td><td><span class="badge badge-red">H</span></td><td><span class="badge badge-yellow">M</span></td><td>50% upfront new clients, Net 15–30 terms</td></tr>
+      </table>
+    </div>
+    <p style="font-size:.85em;color:#888;margin-top:8px">L = Likelihood, I = Impact (H=High, M=Medium, L=Low, C=Critical)</p>
+  </div>
+  <div class="grid-2">
+    <div class="kill-box">
+      <h4>🛑 Kill Criteria</h4>
+      <ul>
+        <li>3 consecutive months without a closed deal</li>
+        <li>Avg deal size below $1,000/month</li>
+        <li>2+ quality complaints from clients</li>
+        <li>Cash flow gap exceeding 3 months</li>
+      </ul>
+    </div>
+    <div class="pause-box">
+      <h4>⚠️ Pause Signals</h4>
+      <ul>
+        <li>Response rate below 0.5% for 2 months → refine ICP + messaging</li>
+        <li>Quality issues on 3+ projects → pause new signups, fix QA</li>
+        <li>Timezone friction on 3 projects → revise staffing model</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- 12. SENTIMENT -->
+<div class="section">
+  <div class="section-title"><span class="num">12</span> Sentiment by Target Market</div>
+  <div class="card">
+    <div class="table-wrap">
+      <table>
+        <tr><th>Segment</th><th>Sentiment</th><th>Key Driver</th></tr>
+        <tr><td>US Architecture Firms</td><td><span class="badge badge-yellow">🟡 Cautious</span></td><td>Staffing shortages, tight margins, quality concerns</td></tr>
+        <tr><td>UK Architecture Firms</td><td><span class="badge badge-green">🟢 Receptive</span></td><td>Strong BIM mandate, experienced with outsourcing</td></tr>
+        <tr><td>UAE Design-Build</td><td><span class="badge badge-green">🟢 Very Receptive</span></td><td>High volume, fast-track, accustomed to intl teams</td></tr>
+        <tr><td>Australian Construction</td><td><span class="badge badge-yellow">🟡 Cautious</span></td><td>Growing BIM, prefer local but flexible</td></tr>
+        <tr><td>Canadian Architecture</td><td><span class="badge badge-yellow">🟡 Moderate</span></td><td>Similar to US, slightly more open</td></tr>
+        <tr><td>MEP Consultants (Global)</td><td><span class="badge badge-green">🟢 Receptive</span></td><td>MEP talent shortage, high coordination demands</td></tr>
+      </table>
+    </div>
+    <h3 style="margin-top:16px">Channel Effectiveness</h3>
+    <div class="grid-2">
+      <div class="metric"><div class="val" style="font-size:1.2em">🟢 High</div><div class="label">Email (pain-point focused)</div><div class="src">Best consultative channel</div></div>
+      <div class="metric"><div class="val" style="font-size:1.2em">🟡 Medium</div><div class="label">LinkedIn InMail</div><div class="src">Needs personalized follow-up</div></div>
+      <div class="metric"><div class="val" style="font-size:1.2em">🟡 Med-High</div><div class="label">Clutch / Upwork Enterprise</div><div class="src">Buyers actively looking</div></div>
+      <div class="metric"><div class="val" style="font-size:1.2em">🔴 Low</div><div class="label">BIM Forums / Reddit</div><div class="src">Brand building only</div></div>
+    </div>
+  </div>
+</div>
+
+<!-- 13. COMPETITOR ANALYSIS -->
+<div class="section">
+  <div class="section-title"><span class="num">13</span> Competitor Landscape</div>
+  <div class="card">
+    <h3>12 Global BIM Outsourcing Firms</h3>
+    <div class="competitor-grid">
+      <div class="competitor-card">
+        <h4>Pinnacle Infotech</h4>
+        <div class="hq">📍 Midnapore, India | 1993 | 1,500+ emp</div>
+        <div class="stat"><strong>Strength:</strong> Scale — 2,600+ clients, 47 countries, full stack BIM</div>
+        <div class="stat"><strong>Gap:</strong> Premium pricing, less flexible for small firms, transactional sales</div>
+        <div class="stat"><span class="tag tag-uae">Est. $25–45/hr</span></div>
+      </div>
+      <div class="competitor-card">
+        <h4>TrueCADD</h4>
+        <div class="hq">📍 Ahmedabad, India | 500+ emp</div>
+        <div class="stat"><strong>Strength:</strong> 25+ years CAD/BIM outsourcing, strong US/UK client base</div>
+        <div class="stat"><strong>Gap:</strong> CAD-centric (not architecture-led), mid-market pricing</div>
+        <div class="stat"><span class="tag tag-uae">Est. $20–40/hr</span></div>
+      </div>
+      <div class="competitor-card">
+        <h4>Microdesk</h4>
+        <div class="hq">📍 USA | 300+ emp</div>
+        <div class="stat"><strong>Strength:</strong> Autodesk Platinum Partner, BIM consulting + cloud/VDC</div>
+        <div class="stat"><strong>Gap:</strong> Premium pricing ($100–200/hr), consulting-focused, less production</div>
+        <div class="stat"><span class="tag tag-us">Est. $100–200/hr</span></div>
+      </div>
+      <div class="competitor-card">
+        <h4>XS CAD</h4>
+        <div class="hq">📍 UK / India delivery | 200+ emp</div>
+        <div class="stat"><strong>Strength:</strong> Hospitality/healthcare BIM specialist, UK standards expertise</div>
+        <div class="stat"><strong>Gap:</strong> Niche-focused, less MEP capability, mid-range rates</div>
+        <div class="stat"><span class="tag tag-uk">Est. $30–50/hr</span></div>
+      </div>
+
+      <div class="competitor-card">
+        <h4>Tesla Outsourcing Services</h4>
+        <div class="hq">📍 US / India delivery | 250+ emp</div>
+        <div class="stat"><strong>Strength:</strong> Scan-to-BIM specialist, strong US project base</div>
+        <div class="stat"><strong>Gap:</strong> Narrow service scope (scan-to-BIM heavy), less full-stack</div>
+        <div class="stat"><span class="tag tag-us">Est. $25–45/hr</span></div>
+      </div>
+      <div class="competitor-card">
+        <h4>BIMEX Engineering</h4>
+        <div class="hq">📍 Vietnam | 150+ emp</div>
+        <div class="stat"><strong>Strength:</strong> Competitive rates, emerging quality, growing Western client base</div>
+        <div class="stat"><strong>Gap:</strong> Smaller team, less brand recognition, limited MEP depth</div>
+        <div class="stat"><span class="tag tag-uae">Est. $18–35/hr</span></div>
+      </div>
+      <div class="competitor-card">
+        <h4>Silicon Valley CAD</h4>
+        <div class="hq">📍 USA | 50–100 emp</div>
+        <div class="stat"><strong>Strength:</strong> US-based, high-end BIM, premium quality</div>
+        <div class="stat"><strong>Gap:</strong> Small team, expensive ($100–150/hr), limited scaling</div>
+        <div class="stat"><span class="tag tag-us">Est. $100–150/hr</span></div>
+      </div>
+      <div class="competitor-card">
+        <h4>EngCAD / MEP CAD Services</h4>
+        <div class="hq">📍 India | 50–150 emp</div>
+        <div class="stat"><strong>Strength:</strong> MEP coordination specialists, strong clash detection</div>
+        <div class="stat"><strong>Gap:</strong> Limited architectural BIM capability, MEP-only scope</div>
+        <div class="stat"><span class="tag tag-uae">Est. $20–35/hr</span></div>
+      </div>
+
+      <div class="competitor-card">
+        <h4>Virtual Building Studio</h4>
+        <div class="hq">📍 USA | 30–60 emp</div>
+        <div class="stat"><strong>Strength:</strong> VDC consulting, construction tech integration</div>
+        <div class="stat"><strong>Gap:</strong> Consulting-focused, small team, premium pricing</div>
+        <div class="stat"><span class="tag tag-us">Est. $90–150/hr</span></div>
+      </div>
+      <div class="competitor-card">
+        <h4>CADD Centre</h4>
+        <div class="hq">📍 India (franchise network) | 1,000+</div>
+        <div class="stat"><strong>Strength:</strong> Largest India network, training + services, broad reach</div>
+        <div class="stat"><strong>Gap:</strong> Variable quality across franchises, low-cost perception</div>
+        <div class="stat"><span class="tag tag-uae">Est. $15–25/hr</span></div>
+      </div>
+      <div class="competitor-card">
+        <h4>BIM Elite / Hitech BIM</h4>
+        <div class="hq">📍 Mumbai, India | 100–200 emp</div>
+        <div class="stat"><strong>Strength:</strong> MEP-focused BIM consulting, ISO certified</div>
+        <div class="stat"><strong>Gap:</strong> India-only presence, limited architectural BIM, mid-range</div>
+        <div class="stat"><span class="tag tag-uae">Est. $22–38/hr</span></div>
+      </div>
+      <div class="competitor-card">
+        <h4>Engineering Services USA</h4>
+        <div class="hq">📍 US / India | 100+ emp</div>
+        <div class="stat"><strong>Strength:</strong> Revit family creation, CA support, US hours overlap</div>
+        <div class="stat"><strong>Gap:</strong> Narrow focus (families, CA support), limited full-project BIM</div>
+        <div class="stat"><span class="tag tag-us">Est. $30–50/hr</span></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- 14. CRM FIELDS -->
+<div class="section">
+  <div class="section-title"><span class="num">14</span> CRM Data Schema</div>
+  <div class="card">
+    <div class="table-wrap">
+      <table>
+        <tr><th>Field</th><th>Purpose</th></tr>
+        <tr><td>Company Name</td><td>Identification</td></tr>
+        <tr><td>Website</td><td>Research</td></tr>
+        <tr><td>Country</td><td>Localization (US/UK/UAE/AU/CA/etc.)</td></tr>
+        <tr><td>Industry Type</td><td>Segmentation (Architecture/Construction/MEP)</td></tr>
+        <tr><td>Employee Count</td><td>Qualification (target 20–500)</td></tr>
+        <tr><td>Decision Maker Name</td><td>Personalization</td></tr>
+        <tr><td>Role/Position</td><td>Relevance (BIM Manager, VDC Manager, etc.)</td></tr>
+        <tr><td>LinkedIn URL</td><td>Outreach channel</td></tr>
+        <tr><td>Email</td><td>Direct contact</td></tr>
+        <tr><td>Uses BIM/Revit?</td><td>Qualification</td></tr>
+        <tr><td>Hiring BIM Staff?</td><td>Buying signal</td></tr>
+        <tr><td>Project Type</td><td>Customized pitch (healthcare/commercial/residential)</td></tr>
+        <tr><td>Outreach Status</td><td>CRM tracking</td></tr>
+      </table>
+    </div>
+  </div>
+</div>
+
+<!-- 15. KEY ASSUMPTIONS & FINAL NOTE -->
+<div class="section">
+  <div class="section-title"><span class="num">15</span> Key Assumptions &amp; Strategy Notes</div>
+  <div class="grid-2">
+    <div class="card">
+      <h3>Key Assumptions</h3>
+      <ol class="list">
+        <li>Target firms (20–500 emp) are overloaded enough to outsource</li>
+        <li>Architecture + MEP expertise is a genuine differentiator</li>
+        <li>US/UK/EU firms will trust BD-based team at comparable quality</li>
+        <li>$50–150/hr rates achievable with consultative positioning</li>
+        <li>Consultative outreach outperforms transaction-based pitching</li>
+      </ol>
+    </div>
+    <div class="card">
+      <h3>Final Internal Note</h3>
+      <p style="font-size:.92em;color:#555;font-style:italic;padding:8px">
+        Mass outreach works best when messaging is personalized, pain points are identified, and outreach feels consultative rather than sales-heavy.
+      </p>
+      <p style="font-size:.9em;color:#555;margin-top:8px">
+        <strong>The goal is not to "sell BIM."</strong><br>
+        The goal is to solve: staffing pressure, coordination problems, documentation overload, and project delivery bottlenecks.
+      </p>
+    </div>
+  </div>
+</div>
+
+</div>
+
+<div class="footer">
+  <p>iNCOMPLEX — BIM Global Outreach Strategy Guide</p>
+  <p>Generated: June 25, 2026 | Source: business-plan-template | Commit: c221c20</p>
+</div>
+
+</body>
+</html>

@@ -1,5 +1,5 @@
 {
-  "total": 8,
+  "total": 9,
   "entries": [
     {
       "doc_type": "sentiment_analysis",
@@ -43,6 +43,19 @@
       ],
       "has_data": true,
       "file_path": "sectors/automotive-car-care/bd-market/sentiment-analysis.md"
+    },
+    {
+      "doc_type": "sentiment_analysis",
+      "sector": "bim-global-outreach",
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.0,
+      "overall_sentiment": "",
+      "positive_themes": [],
+      "negative_themes": [],
+      "review_volume": [],
+      "has_data": false,
+      "file_path": "sectors/bim-global-outreach/bd-market/sentiment-analysis.md"
     },
     {
       "doc_type": "sentiment_analysis",

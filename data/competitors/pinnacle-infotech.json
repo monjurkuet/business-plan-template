@@ -1,0 +1,48 @@
+{
+  "doc_type": "competitor",
+  "slug": "pinnacle-infotech",
+  "name": "infotech",
+  "sector": "bim-global-outreach",
+  "frontmatter": {
+    "entity_type": "competitor",
+    "sector": "bim-global-outreach",
+    "entity_slug": "pinnacle-infotech",
+    "last_verified_at": "2026-06-25T12:00:00Z",
+    "freshness_status": "fresh",
+    "confidence_score": "0.80",
+    "primary_sources": "- research_all_20260625"
+  },
+  "profile_category": "",
+  "entity_slug": "pinnacle-infotech",
+  "last_verified_at": "2026-06-25T12:00:00Z",
+  "freshness_status": "fresh",
+  "confidence_score": 0.8,
+  "strengths": [
+    "1. **Scale** — 1,500+ employees, 2,600+ clients across 47 countries",
+    "2. **Longevity** — 30+ years in BIM outsourcijg, proven track record",
+    "3. **Full stack** — Architectural, structural, MEP, scan-to-BIM, BIM consulting, digital twin",
+    "4. **Global presence** — Offices in India, UK, USA, UAE, Germany, Singapore",
+    "5. **Brand recognition** — Well-known in AEC outsourcing space"
+  ],
+  "weaknesses": [
+    "1. **Premium pricing** — More expensive than generic Indian BIM providers",
+    "2. **Minimum engagement size** — Typically takes larger projects, less flexible for small firms",
+    "3. **Standardized processes** — Less flexible for custom workflows",
+    "4. **Sales-driven** — Transactional sales approach, less consultative",
+    "5. **Overhead** — Large org structure means slower responsiveness for small clients"
+  ],
+  "threat_level": "",
+  "threat_overlap_score": null,
+  "pricing_signals": [],
+  "customer_segments": [
+    "Large AEC firms and contractors (top of the market)",
+    "Multi-national project pipelines",
+    "Government/institutional projects"
+  ],
+  "operations_notes": "",
+  "financial_signals": "",
+  "sentiment_summary": "",
+  "compliance_notes": "",
+  "evidence_sources": [],
+  "file_path": "sectors/bim-global-outreach/bd-market/competitors/pinnacle-infotech.md"
+}

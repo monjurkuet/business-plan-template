@@ -1,0 +1,49 @@
+{
+  "doc_type": "competitor",
+  "slug": "xs-cad",
+  "name": "cad",
+  "sector": "bim-global-outreach",
+  "frontmatter": {
+    "entity_type": "competitor",
+    "sector": "bim-global-outreach",
+    "entity_slug": "xs-cad",
+    "last_verified_at": "2026-06-25T12:00:00Z",
+    "freshness_status": "fresh",
+    "confidence_score": "0.75",
+    "primary_sources": "- research_all_20260625"
+  },
+  "profile_category": "",
+  "entity_slug": "xs-cad",
+  "last_verified_at": "2026-06-25T12:00:00Z",
+  "freshness_status": "fresh",
+  "confidence_score": 0.75,
+  "strengths": [
+    "1. **Sector specialization** — Deep domain expertise in hospitality and healthcare BIM (Ritz-Carlton, Marriott, NHS projects)",
+    "2. **UK heritage** — London HQ with India delivery, strong understanding of UK BIM standards and ISO 19650",
+    "3. **Published thought leadership** — White papers, conferences, active in BIM community",
+    "4. **Design-led** — Works closely with architects, not just production outsourcing",
+    "5. **Quality reputation** — Known for high-quality, detailed BIM models with strong QA processes"
+  ],
+  "weaknesses": [
+    "1. **Premium pricing for Indian delivery** — Priced higher than typical Indian BIM providers",
+    "2. **Niche focus** — Limited appeal for firms outside hospitality/healthcare verticals",
+    "3. **Scale constraints** — 200+ staff limits capacity for very large enterprise deals",
+    "4. **Slow to adopt automation** — Less emphasis on Dynamo/scripting compared to tech-forward competitors",
+    "5. **Sales cycle** — Consultative, relationship-driven sales can be slower than transactional providers"
+  ],
+  "threat_level": "",
+  "threat_overlap_score": null,
+  "pricing_signals": [],
+  "customer_segments": [
+    "Hospitality architects and contractors",
+    "Healthcare AEC firms",
+    "High-end residential developers",
+    "Retail and leisure"
+  ],
+  "operations_notes": "",
+  "financial_signals": "",
+  "sentiment_summary": "",
+  "compliance_notes": "",
+  "evidence_sources": [],
+  "file_path": "sectors/bim-global-outreach/bd-market/competitors/xs-cad.md"
+}

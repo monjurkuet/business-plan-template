@@ -1,5 +1,5 @@
 {
-  "total": 8,
+  "total": 9,
   "entries": [
     {
       "doc_type": "pricing_guide",
@@ -11,6 +11,17 @@
       "total_entries": 0,
       "has_data": false,
       "file_path": "sectors/automotive-car-care/bd-market/pricing-guide.md"
+    },
+    {
+      "doc_type": "pricing_guide",
+      "sector": "bim-global-outreach",
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.0,
+      "pricing_entries": [],
+      "total_entries": 0,
+      "has_data": false,
+      "file_path": "sectors/bim-global-outreach/bd-market/pricing-guide.md"
     },
     {
       "doc_type": "pricing_guide",

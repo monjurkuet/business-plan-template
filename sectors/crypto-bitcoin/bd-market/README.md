@@ -2,8 +2,8 @@
 sector: crypto-bitcoin
 last_verified: 2026-06-25
 freshness: fresh
-confidence: 0.739
-evidence_ids: ['86e6d577-f65', 'a37a1e10-e13', 'f70f4354-5ff', 'e70f36a2-70e']
+confidence: 0.741
+evidence_ids: ['a0474420-66c', '5b924e42-10c', '8ca63f4e-765', 'd643baa1-92b', 'eab2de74-b67', '5e6d7028-708', '705a00a9-843', '9479e485-5a9']
 ---
 
 # Crypto & Bitcoin — Bangladesh Market
@@ -76,16 +76,23 @@ evidence_ids: ['86e6d577-f65', 'a37a1e10-e13', 'f70f4354-5ff', 'e70f36a2-70e']
 
 
 
+
 ## Auto-Updated Data (2026-06-25)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Tezos and other popular cryptocurrencies can be bought and sold in Bangladesh | search | 0.90 |
-| crypto exchange | search | 0.95 |
-| ['SanzidTech', 'cryptohossain', 'Invest2.Profit', 'EarningRashu', 'Johire786'] | search | 0.95 |
-| 2026-06 | search | 0.90 |
-| not legalized but not outright banned | search | 0.95 |
-| Bangladesh Bank warns about crypto's volatility and urges caution | search | 0.90 |
-| Bangladesh Bank | search | 0.95 |
-| cryptocurrency trading account | search | 0.95 |
-| open a Bangladesh cryptocurrency trading account with a Bangladesh cryptocurrenc | search | 0.90 |
+| 36 | search | 0.95 |
+| ['Mineable', 'SafePaytm', 'Keystore'] | search | 0.95 |
+| Cryptocurrencies | search | 0.95 |
+| 32 | search | 0.95 |
+| {'name': 'Recursion FinTech Limited (RFTL)', 'offerings': ['secure financial tec | search | 0.95 |
+| {'name': 'Circle FinTech Ltd', 'offerings': ['payment solutions', 'financial ser | search | 0.95 |
+| ['thinkcrypt.io', 'Anchorblock Technology'] | search | 1.00 |
+| crypto mining | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| Top 46 | search | 1.00 |
+| 2025 | search | 1.00 |
+| Interactive Brokers | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| 2026 | search | 1.00 |
+| 100+ | search | 1.00 |

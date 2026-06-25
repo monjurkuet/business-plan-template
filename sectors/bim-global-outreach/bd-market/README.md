@@ -1,8 +1,9 @@
 ---
 sector: bim-global-outreach
-entity_type: sector_index
-last_verified_at: 2026-06-25T12:00:00Z
-freshness_status: fresh
+last_verified: 2026-06-25
+freshness: fresh
+confidence: 0.744
+evidence_ids: ['ea83e0e5-259', 'b775ec29-a44', 'e6cdf552-514', 'dbd587ea-036', '0247c720-8d9', '4e3dbe0f-96e']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -99,3 +100,23 @@ freshness_status: fresh
 - ✅ "Scalable BIM Support Studio"
 
 *Last updated: 2026-06-25*
+
+## Auto-Updated Data (2026-06-25)
+
+| Fact | Source | Confidence |
+|------|--------|------------|
+| Foreign Exchange Regulation Act, 1947 | search | 0.95 |
+| Authorised Dealer (AD) licence from Bangladesh Bank | search | 0.95 |
+| Foreign exchange operations (buy, sell, deal in foreign currencies) | search | 0.95 |
+| Bangladesh Public Procurement Authority (BPPA) | search | 1.00 |
+| National authority responsible for public procurement policy, regulations, and e | search | 1.00 |
+| 2026-04-05 | search | 1.00 |
+| essential practice in the AEC industry in the United States | search | 0.95 |
+| access specialized expertise, reduce operational costs, handle BIM-related tasks | search | 0.90 |
+| 2025-03-13 | search | 0.95 |
+| cost advantages, access to specialised expertise, enhanced throughput for comple | search | 0.95 |
+| 2026–27 | search | 1.00 |
+| National Budget | search | 1.00 |
+| fiscal policy, revenue plans, development spending, economic impact | search | 0.90 |
+| frequent tax changes deter foreign investors | search | 0.95 |
+| 2026-27 | search | 1.00 |

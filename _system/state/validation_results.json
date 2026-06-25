@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-25T11:04:14.549599+00:00",
+  "generated_at": "2026-06-25T12:40:55.669652+00:00",
   "summary": {
     "files_checked": 159,
-    "violations": 239,
+    "violations": 233,
     "warnings": 0
   },
   "violations": [
@@ -197,16 +197,6 @@
       "detail": "Missing required field: freshness"
     },
     {
-      "file": "sectors/bim-global-outreach/bd-market/README.md",
-      "type": "missing_field",
-      "detail": "Missing required field: last_verified"
-    },
-    {
-      "file": "sectors/bim-global-outreach/bd-market/README.md",
-      "type": "missing_field",
-      "detail": "Missing required field: freshness"
-    },
-    {
       "file": "sectors/bim-global-outreach/bd-market/competitors/bimelite.md",
       "type": "missing_field",
       "detail": "Missing required field: last_verified"
@@ -269,16 +259,6 @@
     {
       "file": "sectors/bim-global-outreach/bd-market/competitors/engineering-services-usa.md",
       "type": "missing_field",
-      "detail": "Missing required field: last_verified"
-    },
-    {
-      "file": "sectors/bim-global-outreach/bd-market/competitors/engineering-services-usa.md",
-      "type": "missing_field",
-      "detail": "Missing required field: freshness"
-    },
-    {
-      "file": "sectors/bim-global-outreach/bd-market/competitors/engineering-services-usa.md",
-      "type": "missing_field",
       "detail": "Missing required field: confidence"
     },
     {
@@ -325,16 +305,6 @@
       "file": "sectors/bim-global-outreach/bd-market/competitors/silicon-valley-cad.md",
       "type": "missing_field",
       "detail": "Missing required field: confidence"
-    },
-    {
-      "file": "sectors/bim-global-outreach/bd-market/competitors/tesla-outsourcing.md",
-      "type": "missing_field",
-      "detail": "Missing required field: last_verified"
-    },
-    {
-      "file": "sectors/bim-global-outreach/bd-market/competitors/tesla-outsourcing.md",
-      "type": "missing_field",
-      "detail": "Missing required field: freshness"
     },
     {
       "file": "sectors/bim-global-outreach/bd-market/competitors/tesla-outsourcing.md",

@@ -2,8 +2,8 @@
 sector: high-roi-niches
 last_verified: 2026-06-25
 freshness: fresh
-confidence: 0.696
-evidence_ids: ['3ce290fc-76d', '0d6dc36f-33f']
+confidence: 0.745
+evidence_ids: ['c36c555f-ee5', '6e1c3c27-757', 'f17cbdda-06b', '09337a66-0f8']
 ---
 
 # High-ROI Niches — Bangladesh Market
@@ -81,16 +81,18 @@ This sector captures high-growth, high-margin niche opportunities in Bangladesh.
 
 
 
+
 ## Auto-Updated Data (2026-06-25)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| free of charge | search | 0.95 |
-| online veterinary services | search | 0.95 |
-| PetCareBangladesh | search | 0.90 |
-| MH Imran | search | 0.90 |
-| Managing Director | search | 0.90 |
-| Agrovet Bio Solutions | search | 0.80 |
-| Sifat Ara Khanam | search | 0.80 |
-| Consultant | search | 0.80 |
-| Bangladesh Veterinary and Pet Care Network (BVPN) | search | 0.90 |
+| HIT LIFE cat food | search | 0.90 |
+| grain-free | search | 0.90 |
+| pet care Bangladesh | search | 1.00 |
+| NEXGEN PET CARE | search | 1.00 |
+| Chapai Nawabganj District | search | 1.00 |
+| PetCare Bangladesh | search | 1.00 |
+| 34 | search | 1.00 |
+| Your Trusted Partner in Pet Care. Buy. Sell. Care. Everything Your Pet Needs! | search | 1.00 |
+| ['ROYALCANIN', 'ALPO', 'FRISKIES', 'PEDIGREE', 'ME-O', 'WHISKAS'] | search | 0.95 |
+| ['abroad', 'domestic'] | search | 0.90 |

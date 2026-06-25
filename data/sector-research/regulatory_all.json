@@ -1,5 +1,5 @@
 {
-  "total": 8,
+  "total": 9,
   "entries": [
     {
       "doc_type": "regulatory",
@@ -52,6 +52,19 @@
       ],
       "has_data": true,
       "file_path": "sectors/automotive-car-care/bd-market/regulatory.md"
+    },
+    {
+      "doc_type": "regulatory",
+      "sector": "bim-global-outreach",
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.0,
+      "legal_status": "",
+      "registration_requirements": [],
+      "sector_specific_requirements": [],
+      "regulatory_bodies": [],
+      "has_data": false,
+      "file_path": "sectors/bim-global-outreach/bd-market/regulatory.md"
     },
     {
       "doc_type": "regulatory",

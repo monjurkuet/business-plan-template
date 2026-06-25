@@ -2,8 +2,8 @@
 sector: electronics-gadgets
 last_verified: 2026-06-25
 freshness: fresh
-confidence: 0.733
-evidence_ids: ['e285b5ec-da1', '0889ea35-4ca', '319761f1-519', 'f9a6baf5-d2a', '9e928cfc-98c', '0f8e90a5-212', '1380869d-3ad']
+confidence: 0.739
+evidence_ids: ['1ab9a042-151', '560d2fde-d92', 'd811e780-38d', '29454b70-537', 'a3d4b7f9-fee']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -83,22 +83,19 @@ evidence_ids: ['e285b5ec-da1', '0889ea35-4ca', '319761f1-519', 'f9a6baf5-d2a', '
 
 
 
+
 ## Auto-Updated Data (2026-06-25)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 25500 - 102900 | search | 0.95 |
-| TCL TV | search | 0.95 |
-| Express Delivery, official warranty | search | 0.90 |
-| Kitchen appliances | search | 0.90 |
-| fast delivery, secure payments, hassle-free return policy | search | 0.85 |
-| Gadgets & Premium Accessories | search | 0.90 |
-| Free Shipping | search | 0.90 |
-| 15.00 | search | 0.70 |
-| 30% | search | 0.95 |
-| AC sale | search | 0.90 |
-| Official Warranty | search | 0.95 |
-| Easy EMI Facility | search | 0.95 |
-| Fast Delivery | search | 0.95 |
-| Official Warranty | search | 0.95 |
-| Easy EMI Facility | search | 0.95 |
+| ['ACs', 'refrigerators', 'washing machines', 'smart TVs', 'ovens'] | search | 0.95 |
+| ['official warranty', 'EMI facilities', 'fast home delivery'] | search | 0.95 |
+| unbeatable prices | search | 0.90 |
+| consumer electronics online shopping platform | search | 0.95 |
+| premium quality products, original electronic appliances | search | 0.90 |
+| authorized multi-brand electronics retailer | search | 0.95 |
+| ['authentic products', 'official warranty', '0% EMI', '16 superstores nationwide | search | 0.95 |
+| electronic and electrical products | search | 0.90 |
+| ['premium electronics', 'smart TV', 'air conditions', 'home gadgets', 'lifestyle | search | 0.95 |
+| ['fast delivery', 'authentic products'] | search | 0.95 |
+| unbeatable prices | search | 0.90 |
