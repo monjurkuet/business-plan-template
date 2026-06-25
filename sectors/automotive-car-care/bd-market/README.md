@@ -2,8 +2,8 @@
 sector: automotive-car-care
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.7
-evidence_ids: ['a2acc5fc-810', '2de82ea0-08d']
+confidence: 0.706
+evidence_ids: ['00a4bc20-8d2', '47dcf8ad-81d']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -116,14 +116,21 @@ evidence_ids: ['a2acc5fc-810', '2de82ea0-08d']
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| car air freshener | search | 0.95 |
-| CarBase Bangladesh | search | 0.95 |
-| FLIP PLATE | search | 0.90 |
-| all over Bangladesh | search | 0.95 |
-| Car Care, Dhaka,Bangladesh | search | 0.90 |
-| Dhaka, Bangladesh | search | 0.95 |
-| 127 | search | 0.90 |
+| Gasoline (Petrol) | search | 0.95 |
+| Diesel | search | 0.95 |
+| LPG | search | 0.95 |
+| Kerosene | search | 0.95 |
+| Heating Oil | search | 0.95 |
+| BDT | search | 0.95 |
+| Litre | search | 0.95 |
+| Barrel | search | 0.95 |
+| Gallon | search | 0.95 |
+| 115.00 | search | 1.00 |
+| 0.93 | search | 1.00 |
+| 2026-06-22 | search | 1.00 |
+| 1.40 | search | 1.00 |

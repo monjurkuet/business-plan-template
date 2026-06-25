@@ -2,8 +2,8 @@
 sector: travel-tourism
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.74
-evidence_ids: ['48991728-056', 'e37ed04f-7f4', '05173923-ef5', '8bcb3aed-d3e']
+confidence: 0.737
+evidence_ids: ['9685009e-2a1', '6e8fccda-26e', '81fced9e-f16', '453dbc34-84c']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -67,14 +67,18 @@ evidence_ids: ['48991728-056', 'e37ed04f-7f4', '05173923-ef5', '8bcb3aed-d3e']
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| tour packages, air tickets, visa support | search | 1.00 |
+| affordable tour packages | search | 0.95 |
+| air tickets | search | 0.95 |
+| visa support | search | 0.95 |
+| amazing tour and travel packages | search | 0.90 |
 | affordable | search | 0.90 |
-| affordable | search | 0.90 |
-| study abroad, visa services, cheap air tickets | search | 1.00 |
-| cheap | search | 0.90 |
-| cheap airline tickets, online hotel booking, air & travel portal development | search | 1.00 |
-| cheap | search | 0.90 |
+| cheap air tickets | search | 0.95 |
+| study abroad | search | 0.95 |
+| visa services | search | 0.95 |
+| Provides cheap airline tickets, online hotel booking, air & travel portal develo | search | 0.90 |
+| cheap | search | 0.80 |

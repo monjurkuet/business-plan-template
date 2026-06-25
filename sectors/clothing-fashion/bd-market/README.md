@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.743
-evidence_ids: ['2209e3ff-72c', 'd0ed6c11-c09', '494804d1-ad5', '4d33c863-856']
+confidence: 0.7
+evidence_ids: ['65f9983d-1eb', '4cee379a-eb1']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -101,14 +101,15 @@ evidence_ids: ['2209e3ff-72c', 'd0ed6c11-c09', '494804d1-ad5', '4d33c863-856']
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| baggy pants | search | 1.00 |
-| affordable | search | 0.90 |
-| all over Bangladesh | search | 1.00 |
-| ['free shipping', 'fast delivery', 'free return'] | search | 1.00 |
-| best factory prices and the highest-quality custom apparel | search | 0.90 |
-| 90 | search | 0.95 |
-| 30 | search | 0.95 |
+| two-piece outfits | search | 0.90 |
+| women's fashion | search | 0.90 |
+| western clothing | search | 0.90 |
+| 2026-04-20 | search | 1.00 |
+| jacket | search | 1.00 |
+| competitive | search | 0.80 |
+| 2025 | search | 1.00 |

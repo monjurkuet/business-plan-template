@@ -2,8 +2,8 @@
 sector: crypto-bitcoin
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.735
-evidence_ids: ['c4038d4c-392', '74054f24-ddc', '158875d0-0b5', 'dc952c31-f46', 'b58f14c8-2bf', '4a522b49-258']
+confidence: 0.741
+evidence_ids: ['3a54b78c-4f9', '35d78ac6-03b', '02ee1480-166', '6b596394-9d2', '7bcb04e9-097']
 ---
 
 # Crypto & Bitcoin — Bangladesh Market
@@ -81,22 +81,23 @@ evidence_ids: ['c4038d4c-392', '74054f24-ddc', '158875d0-0b5', 'dc952c31-f46', '
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| BDT | search | 0.90 |
-| ['bKash', 'Nagad'] | search | 0.90 |
-| 2026 | search | 0.90 |
-| BDT | search | 0.90 |
-| 2026 | search | 0.90 |
-| 2026-06 | search | 0.90 |
-| 3000000 | search | 0.90 |
-| 35 | search | 0.90 |
-| ban | search | 0.90 |
-| 2025 | search | 0.90 |
-| 775 | search | 0.90 |
-| 2026 | search | 0.90 |
-| strict restrictions | search | 0.95 |
-| continues through global platforms that accept BDT deposits | search | 0.90 |
-| 2026-01-30 | search | 0.90 |
+| Tezos available for purchase | search | 0.90 |
+| Bangladesh | search | 1.00 |
+| crypto trading platforms | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| Bangladesh cryptocurrency trading account | search | 0.90 |
+| not legalized, no outright ban | search | 0.90 |
+| volatility warning, proceed with caution | search | 0.90 |
+| Bangladesh Bank | search | 1.00 |
+| banned (Bitcoin trading) | search | 0.90 |
+| arrest, frozen accounts, prison | search | 0.90 |
+| money laundering and foreign exchange laws | search | 0.90 |
+| TikTok video about cryptocurrency in Dhaka, Bangladesh | search | 0.90 |
+| ['cryptocurrency', 'digital currency', 'blockchain', 'cryptoBangladesh', 'crypto | search | 0.95 |
+| Dhaka, Bangladesh | search | 0.95 |
+| TikTok | search | 1.00 |

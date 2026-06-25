@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.738
-evidence_ids: ['7412e6ee-00a', '4476d3d6-876', 'cd894bbe-d4d', '565de141-7e4', '7d237477-993']
+confidence: 0.706
+evidence_ids: ['677df219-c12', 'edee8d4b-211']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -105,22 +105,12 @@ evidence_ids: ['7412e6ee-00a', '4476d3d6-876', 'cd894bbe-d4d', '565de141-7e4', '
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Bangladesh Public Procurement Authority (BPPA) | search | 0.95 |
-| public procurement policy, regulations, e-GP systems | search | 0.90 |
-| ensure transparent and efficient procurement in Bangladesh | search | 0.90 |
-| 2026-04-05 | search | 0.90 |
-| Foreign Exchange Regulation Act, 1947 | search | 0.95 |
-| Authorised Dealer (AD) licence from Bangladesh Bank for foreign exchange operati | search | 0.90 |
-| 2025-12-09 | search | 0.90 |
-| banking activities requiring separate regulatory consent in Bangladesh | search | 0.90 |
-| BIM outsourcing | search | 0.95 |
-| 2D to 3D CAD conversion, outsourced BIM services, BIM 4D modeling | search | 0.90 |
-| USA | search | 0.95 |
-| 2025-02-25 | search | 0.90 |
-| $30,000–$80,000 | search | 0.95 |
-| Take-off and Estimation services | search | 0.90 |
-| Fixed pricing | search | 0.90 |
+| 35 | search | 0.95 |
+| 2025 | search | 0.95 |
+| 2026-01-12 | search | 1.00 |
+| 2025-01-12 | search | 1.00 |
