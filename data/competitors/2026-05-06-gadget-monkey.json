@@ -1,29 +1,50 @@
 {
+  "doc_type": "competitor",
   "slug": "2026-05-06-gadget-monkey",
   "name": "gadget-monkey",
   "sector": "electronics-gadgets",
   "frontmatter": {
+    "entity_type": "competitor",
     "sector": "electronics-gadgets",
-    "last_verified": "2026-05-06",
-    "freshness": "fresh",
-    "confidence": "0.5",
-    "evidence_ids": "[]"
+    "entity_slug": "2026-05-06-gadget-monkey",
+    "last_verified_at": "2026-06-25T12:00:00Z",
+    "freshness_status": "fresh",
+    "confidence_score": "0.50",
+    "primary_sources": "- []"
   },
   "profile_category": "",
   "entity_slug": "2026-05-06-gadget-monkey",
-  "last_verified_at": "",
-  "freshness_status": "unknown",
-  "confidence_score": 0.0,
-  "strengths": [],
-  "weaknesses": [],
+  "last_verified_at": "2026-06-25T12:00:00Z",
+  "freshness_status": "fresh",
+  "confidence_score": 0.5,
+  "strengths": [
+    "1. Accessories focus with trendy product selection.",
+    "2. Good social media marketing with affordable pricing.",
+    "3. Growing community of young tech enthusiasts."
+  ],
+  "weaknesses": [
+    "1. Low margins on commodity accessories.",
+    "2. Easy to copy product selection.",
+    "3. No brand loyalty — buyers compare on price.",
+    "4. Daraz sells the same items cheaper."
+  ],
   "threat_level": "",
   "threat_overlap_score": null,
-  "pricing_signals": [],
+  "pricing_signals": [
+    {
+      "item": "*TODO*",
+      "value": "*Research needed*",
+      "date": "2026-06",
+      "source": ""
+    }
+  ],
   "customer_segments": [],
-  "operations_notes": "",
-  "financial_signals": "",
-  "sentiment_summary": "",
-  "compliance_notes": "",
-  "evidence_sources": [],
+  "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+  "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+  "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+  "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+  "evidence_sources": [
+    "*TODO: Add verifiable sources*"
+  ],
   "file_path": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-gadget-monkey.md"
 }

@@ -1,0 +1,52 @@
+{
+  "doc_type": "regulatory",
+  "sector": "automotive-car-care",
+  "last_verified_at": "",
+  "freshness_status": "unknown",
+  "confidence_score": 0.0,
+  "legal_status": "### Business Registration\n- Trade license from City Corporation/Upazila Parishad\n- TIN certificate from NBR\n- VAT registration (if annual turnover > BDT 3 million)\n\n### Sector-Specific Requirements\n- Environmental clearance for chemical-based detailing (if applicable)\n- Fire safety certificate for w",
+  "registration_requirements": [
+    "Trade license from City Corporation/Upazila Parishad",
+    "TIN certificate from NBR",
+    "VAT registration (if annual turnover > BDT 3 million)",
+    "Environmental clearance for chemical-based detailing (if applicable)",
+    "Fire safety certificate for workshops",
+    "BSTI compliance for imported automotive chemicals",
+    "Bangladesh Road Transport Authority (BRTA)",
+    "Department of Environment (DoE)",
+    "Bangladesh Standards and Testing Institution (BSTI)",
+    "*Awaiting data — pipeline will populate*",
+    "[ ] Trade license",
+    "[ ] TIN certificate",
+    "[ ] VAT registration (if applicable)",
+    "[ ] Fire safety certificate",
+    "[ ] Environmental clearance (if applicable)"
+  ],
+  "sector_specific_requirements": [
+    "Environmental clearance for chemical-based detailing (if applicable)",
+    "Fire safety certificate for workshops",
+    "BSTI compliance for imported automotive chemicals",
+    "Bangladesh Road Transport Authority (BRTA)",
+    "Department of Environment (DoE)",
+    "Bangladesh Standards and Testing Institution (BSTI)",
+    "*Awaiting data — pipeline will populate*",
+    "[ ] Trade license",
+    "[ ] TIN certificate",
+    "[ ] VAT registration (if applicable)",
+    "[ ] Fire safety certificate",
+    "[ ] Environmental clearance (if applicable)"
+  ],
+  "regulatory_bodies": [
+    "Bangladesh Road Transport Authority (BRTA)",
+    "Department of Environment (DoE)",
+    "Bangladesh Standards and Testing Institution (BSTI)",
+    "*Awaiting data — pipeline will populate*",
+    "[ ] Trade license",
+    "[ ] TIN certificate",
+    "[ ] VAT registration (if applicable)",
+    "[ ] Fire safety certificate",
+    "[ ] Environmental clearance (if applicable)"
+  ],
+  "has_data": true,
+  "file_path": "sectors/automotive-car-care/bd-market/regulatory.md"
+}

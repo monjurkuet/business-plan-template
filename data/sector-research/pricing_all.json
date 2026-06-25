@@ -1,0 +1,93 @@
+{
+  "total": 8,
+  "entries": [
+    {
+      "doc_type": "pricing_guide",
+      "sector": "automotive-car-care",
+      "last_verified_at": "",
+      "freshness_status": "unknown",
+      "confidence_score": 0.0,
+      "pricing_entries": [],
+      "total_entries": 0,
+      "has_data": false,
+      "file_path": "sectors/automotive-car-care/bd-market/pricing-guide.md"
+    },
+    {
+      "doc_type": "pricing_guide",
+      "sector": "clothing-fashion",
+      "last_verified_at": "",
+      "freshness_status": "unknown",
+      "confidence_score": 0.0,
+      "pricing_entries": [],
+      "total_entries": 0,
+      "has_data": false,
+      "file_path": "sectors/clothing-fashion/bd-market/pricing-guide.md"
+    },
+    {
+      "doc_type": "pricing_guide",
+      "sector": "crypto-bitcoin",
+      "last_verified_at": "",
+      "freshness_status": "unknown",
+      "confidence_score": 0.0,
+      "pricing_entries": [],
+      "total_entries": 0,
+      "has_data": false,
+      "file_path": "sectors/crypto-bitcoin/bd-market/pricing-guide.md"
+    },
+    {
+      "doc_type": "pricing_guide",
+      "sector": "electronics-gadgets",
+      "last_verified_at": "",
+      "freshness_status": "unknown",
+      "confidence_score": 0.0,
+      "pricing_entries": [],
+      "total_entries": 0,
+      "has_data": false,
+      "file_path": "sectors/electronics-gadgets/bd-market/pricing-guide.md"
+    },
+    {
+      "doc_type": "pricing_guide",
+      "sector": "high-roi-niches",
+      "last_verified_at": "",
+      "freshness_status": "unknown",
+      "confidence_score": 0.0,
+      "pricing_entries": [],
+      "total_entries": 0,
+      "has_data": false,
+      "file_path": "sectors/high-roi-niches/bd-market/pricing-guide.md"
+    },
+    {
+      "doc_type": "pricing_guide",
+      "sector": "jewellery",
+      "last_verified_at": "",
+      "freshness_status": "unknown",
+      "confidence_score": 0.0,
+      "pricing_entries": [],
+      "total_entries": 0,
+      "has_data": false,
+      "file_path": "sectors/jewellery/bd-market/pricing-guide.md"
+    },
+    {
+      "doc_type": "pricing_guide",
+      "sector": "media-marketing-digital",
+      "last_verified_at": "",
+      "freshness_status": "unknown",
+      "confidence_score": 0.0,
+      "pricing_entries": [],
+      "total_entries": 0,
+      "has_data": false,
+      "file_path": "sectors/media-marketing-digital/bd-market/pricing-guide.md"
+    },
+    {
+      "doc_type": "pricing_guide",
+      "sector": "travel-tourism",
+      "last_verified_at": "",
+      "freshness_status": "unknown",
+      "confidence_score": 0.0,
+      "pricing_entries": [],
+      "total_entries": 0,
+      "has_data": false,
+      "file_path": "sectors/travel-tourism/bd-market/pricing-guide.md"
+    }
+  ]
+}

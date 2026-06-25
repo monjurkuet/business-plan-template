@@ -1,3 +1,9 @@
+---
+sector: automotive-car-care
+entity_type: financial_model
+last_verified_at: 2026-05-06T12:00:00Z
+freshness_status: fresh
+---
 # Financial Model — Automotive & Car Care (Bangladesh)
 
 > Build this from the bottom up. Start with unit economics, then scale. Don't forecast more than 3 years — anything beyond that is fiction.

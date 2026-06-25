@@ -2,8 +2,8 @@
 sector: electronics-gadgets
 last_verified: 2026-06-25
 freshness: fresh
-confidence: 0.739
-evidence_ids: ['9251e14a-46c', '7bb54a4e-c14', 'd9b2af9e-433', '282c1248-7db']
+confidence: 0.733
+evidence_ids: ['e285b5ec-da1', '0889ea35-4ca', '319761f1-519', 'f9a6baf5-d2a', '9e928cfc-98c', '0f8e90a5-212', '1380869d-3ad']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -82,19 +82,23 @@ evidence_ids: ['9251e14a-46c', '7bb54a4e-c14', 'd9b2af9e-433', '282c1248-7db']
 
 
 
+
 ## Auto-Updated Data (2026-06-25)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| unbeatable prices | search | 0.80 |
-| ['ACs', 'refrigerators', 'washing machines', 'smart TVs', 'ovens'] | search | 0.95 |
-| ['official warranty', 'EMI facilities', 'fast home delivery'] | search | 0.95 |
-| authorized multi-brand electronics retailer | search | 0.95 |
-| ['official warranty', '0% EMI'] | search | 0.95 |
-| 16 | search | 0.95 |
-| consumer electronics online shopping platform | search | 0.95 |
-| premium quality products | search | 0.90 |
-| best price | search | 0.90 |
-| 2026 | search | 0.95 |
-| ['air conditioners', 'smart TVs', 'refrigerators', 'home and kitchen appliances' | search | 0.95 |
-| ['official warranty'] | search | 0.95 |
+| 25500 - 102900 | search | 0.95 |
+| TCL TV | search | 0.95 |
+| Express Delivery, official warranty | search | 0.90 |
+| Kitchen appliances | search | 0.90 |
+| fast delivery, secure payments, hassle-free return policy | search | 0.85 |
+| Gadgets & Premium Accessories | search | 0.90 |
+| Free Shipping | search | 0.90 |
+| 15.00 | search | 0.70 |
+| 30% | search | 0.95 |
+| AC sale | search | 0.90 |
+| Official Warranty | search | 0.95 |
+| Easy EMI Facility | search | 0.95 |
+| Fast Delivery | search | 0.95 |
+| Official Warranty | search | 0.95 |
+| Easy EMI Facility | search | 0.95 |

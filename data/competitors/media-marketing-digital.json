@@ -3,206 +3,351 @@
   "total": 7,
   "competitors": [
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-bongo",
       "name": "bongo",
       "sector": "media-marketing-digital",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "media-marketing-digital",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-bongo",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-bongo",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Largest Bangladesh OTT platform.",
+        "2. Original content production.",
+        "3. Massive user base.",
+        "4. Ad + subscription revenue model."
+      ],
+      "weaknesses": [
+        "1. High content costs.",
+        "2. Competing with free YouTube/Facebook content.",
+        "3. Low subscription conversion rate.",
+        "4. Burn rate is high."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/media-marketing-digital/bd-market/competitors/2026-05-06-bongo.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-bytecraft",
       "name": "bytecraft",
       "sector": "media-marketing-digital",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "media-marketing-digital",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-bytecraft",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-bytecraft",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Animation and motion graphics niche.",
+        "2. Export-quality work attracting international clients.",
+        "3. High-value deliverables."
+      ],
+      "weaknesses": [
+        "1. Talent retention (animators leave for better pay abroad).",
+        "2. Project-based revenue.",
+        "3. BD market for premium animation is small.",
+        "4. Limited domestic demand."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/media-marketing-digital/bd-market/competitors/2026-05-06-bytecraft.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-flyste",
       "name": "flyste",
       "sector": "media-marketing-digital",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "media-marketing-digital",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-flyste",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-flyste",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Creative storytelling focus.",
+        "2. Video production capability.",
+        "3. Strong portfolio with recognizable brand campaigns.",
+        "4. Brand-building expertise."
+      ],
+      "weaknesses": [
+        "1. Small team limits capacity.",
+        "2. Project-based revenue (no recurring retainers).",
+        "3. Slow sales cycle for premium creative work.",
+        "4. High overhead for production quality."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/media-marketing-digital/bd-market/competitors/2026-05-06-flyste.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-popupads",
       "name": "popupads",
       "sector": "media-marketing-digital",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "media-marketing-digital",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-popupads",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-popupads",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Facebook/Google ads specialist.",
+        "2. ROI-focused with measurable results.",
+        "3. E-commerce client base growing fast.",
+        "4. Data-driven approach."
+      ],
+      "weaknesses": [
+        "1. Platform-dependent — FB/Google policy changes are existential risk.",
+        "2. Limited creative capability (needs to partner).",
+        "3. Client churn when ROI dips."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/media-marketing-digital/bd-market/competitors/2026-05-06-popupads.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-shikho",
       "name": "shikho",
       "sector": "media-marketing-digital",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "media-marketing-digital",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-shikho",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-shikho",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. *TODO: Research strengths*"
+      ],
+      "weaknesses": [
+        "1. *TODO: Research weaknesses*"
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/media-marketing-digital/bd-market/competitors/2026-05-06-shikho.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-tracker10",
       "name": "tracker10",
       "sector": "media-marketing-digital",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "media-marketing-digital",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-tracker10",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-tracker10",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. High-quality video production.",
+        "2. TVC + digital content.",
+        "3. Strong creative team with industry awards.",
+        "4. Established in Dhaka ad scene."
+      ],
+      "weaknesses": [
+        "1. High overhead (equipment, studio, team).",
+        "2. Project-based revenue is lumpy.",
+        "3. Slow cash flow (90-day payment terms common).",
+        "4. Not adapting to short-form fast enough."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/media-marketing-digital/bd-market/competitors/2026-05-06-tracker10.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-webasha",
       "name": "webasha",
       "sector": "media-marketing-digital",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "media-marketing-digital",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-webasha",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-webasha",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Full-service digital marketing (SEO, social, ads).",
+        "2. Growing client base across SMEs.",
+        "3. Established brand in BD digital marketing space."
+      ],
+      "weaknesses": [
+        "1. Crowded market with no clear differentiation.",
+        "2. Price war with freelancers.",
+        "3. Service quality inconsistency across clients.",
+        "4. Low retention rates."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/media-marketing-digital/bd-market/competitors/2026-05-06-webasha.md"
     }
   ]

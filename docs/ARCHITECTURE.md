@@ -61,10 +61,12 @@ business-plan-template/
 │   │   ├── run_pipeline.py          # Orchestrator — runs full pipeline
 │   │   ├── audit_repo.py            # File inventory & structural gaps
 │   │   ├── evaluate_freshness.py    # Apply freshness policy → stale queue
-│   │   ├── execute_searches.py      # Execute queries, save raw evidence
+│   │   ├── execute_searches.py      # Execute queries (parallel, 8 workers), save raw evidence
 │   │   ├── extract_facts.py         # LLM: extract structured facts
 │   │   ├── score_confidence.py      # Compute confidence scores
 │   │   ├── build_search_plan.py     # Multi-LLM review → search plan
+│   │   ├── migrate_to_12section.py  # One-shot tool: old-format → 12-section competitor profiles
+│   │   ├── generate_sidecars.py     # Extract markdown → JSON sidecars (competitors, pricing, sentiment, regulatory)
 │   │   ├── update_sector_docs.py    # LLM: regenerate sector markdown
 │   │   ├── archive_stale.py         # Move critical-stale files to _archive/
 │   │   ├── validate_markdown.py     # Validate frontmatter & headings
@@ -104,15 +106,23 @@ business-plan-template/
 │   ├── media-marketing-digital/
 │   └── travel-tourism/
 │
-├── data/
+├── data/                            # Structured data artifacts
 │   ├── evidence/                    # ~100+ timestamped raw evidence JSON files
 │   │   └── YYYYMMDD-HHMMSS.json
+│   ├── competitors/                 # JSON sidecars: aggregate, per-sector, per-competitor
+│   │   ├── all_competitors.json     # 65 competitors across 8 sectors
+│   │   ├── crypto-bitcoin.json      # Per-sector index
+│   │   ├── YYYY-MM-DD-slug.json     # Per-competitor sidecar
+│   │   └── ...
+│   ├── sector-research/             # JSON sidecars for pricing, sentiment, regulatory
+│   │   ├── pricing_all.json         # 8 sector pricing guides
+│   │   ├── sentiment_all.json       # 8 sector sentiment analyses
+│   │   └── regulatory_all.json      # 8 sector regulatory docs
 │   ├── query_memory.json            # Learning loop state
-│   ├── competitors/                 # (empty — reserved)
-│   ├── compliance/                  # (empty — reserved)
-│   ├── pricing/                     # (empty — reserved)
-│   ├── sentiment/                   # (empty — reserved)
-│   └── sector-index/                # (empty — reserved)
+│   ├── compliance/                  # (reserved)
+│   ├── pricing/                     # (reserved)
+│   ├── sentiment/                   # (reserved)
+│   └── sector-index/                # (reserved)
 │
 ├── _templates/                      # 6 reusable business-plan templates
 │   ├── 01-idea-brief/
@@ -215,16 +225,21 @@ PHASE 3 — PLAN, UPDATE & ARCHIVE
         → Copies those files to _archive/sectors/{sector}/{timestamp}/
         → Preserves originals for the upcoming refresh
 
-PHASE 4 — COMMIT & LEARN
-  ├── 10. generate_changelog.py
+PHASE 4 — SIDECARS & COMMIT & LEARN
+  ├── 10. generate_sidecars.py
+  │      → Extracts markdown → JSON sidecars for competitors, pricing, sentiment, regulatory
+  │      → Saves to data/competitors/ and data/sector-research/
+  │      → Fast (<1s), no network/LLM calls needed
+  │
+  ├── 11. generate_changelog.py
   │      → Reads state from audit, freshness, search_plan, evidence
   │      → Appends human-readable entry to CHANGELOG.md
   │
-  ├── 11. git commit + push
+  ├── 12. git commit + push
   │      → run_pipeline.py stages all changes with "auto: pipeline run {timestamp}"
   │      → Pushes to origin/main
   │
-  └── 12. update_query_memory.py
+  └── 13. update_query_memory.py
          → Reads latest evidence (with scores)
          → Updates data/query_memory.json with per-query success metrics
          → Applies 0.95 decay factor to historical scores

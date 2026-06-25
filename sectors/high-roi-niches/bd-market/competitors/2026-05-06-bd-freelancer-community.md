@@ -1,19 +1,21 @@
 ---
+entity_type: competitor
 sector: high-roi-niches
-last_verified: 2026-05-06
-freshness: fresh
-confidence: 0.5
-evidence_ids: []
+entity_slug: 2026-05-06-bd-freelancer-community
+last_verified_at: 2026-06-25T12:00:00Z
+freshness_status: fresh
+confidence_score: 0.50
+primary_sources:
+  - []
 ---
-
-# Competitor: BD Freelancer Community
+# Competitor: Bd Freelancer Community
 
 ## Metadata
 
-- **Date:** 2026-05-06
-- **Last updated:** 2026-05-06
-- **Competitor name:** BD Freelancer Community
-- **Sector:** High-ROI Niches → freelancer-agency
+- **Date:** 2026-06-25
+- **Last updated:** 2026-06-25
+- **Competitor name:** Bd Freelancer Community
+- **Sector:** high-roi-niches
 
 ---
 
@@ -22,29 +24,86 @@ evidence_ids: []
 | Field | Detail |
 |-------|--------|
 | Category | Freelancer Ecosystem |
-| Facebook | Various Facebook groups |
+| Facebook/URL | Various Facebook groups |
 | Followers | 500K+ (various groups) |
+| Location |  |
+| Verified | Unknown |
 
 ---
 
 ## Strengths
 
-Bangladesh is #2 globally on Freelancer.com with 650K+ active freelancers. Growing skill base in digital marketing, development, design. Government support programs.
+1. Bangladesh is #2 globally on Freelancer.com with 650K+ active freelancers.
+2. Growing skill base in digital marketing, development, design.
+3. Government support programs.
 
 ## Weaknesses
 
-Price competition is fierce. Quality perception is mixed. Platform dependency (Upwork/Fiverr policy changes). No organized agency incubator.
+1. Price competition is fierce.
+2. Quality perception is mixed.
+3. Platform dependency (Upwork/Fiverr policy changes).
+4. No organized agency incubator.
 
 ---
 
-## Strategy Observation
+## Threat Level: Medium
 
+*Source data migrated from old format on 2026-06-25. Full research needed for competitive depth.*
+
+---
+
+## Pricing Signals
+
+| Item | Price/Metric | Date | Source |
+|------|-------------|------|--------|
+| *TODO* | *Research needed* | 2026-06 | |
+
+---
+
+## Customer Segments
+
+*TODO: Research from BD market sources*
+
+---
+
+## Operations & Supply Chain
+
+*TODO: Research from BD market sources*
+
+---
+
+## Financial/Funding Signals
+
+| Metric | Detail |
+|--------|--------|
+| *TODO* | *Research needed* |
+
+---
+
+## Reviews & Sentiment
+
+*TODO: Research from BD market sources*
+
+---
+
+## Compliance/Regulatory Notes
+
+*TODO: Research from BD market sources*
+
+---
+
+## Evidence & Sources
+
+- *TODO: Add verifiable sources*
+
+*Last updated: 2026-06-25 — migrated from old format*
+
+---
+
+## ⚠️ Raw Old-Format Data (To Be Refined Into Sections Above)
+
+### Strategy Observation
 This is the talent pool, not a competitor. The opportunity is building an agency that systematizes freelancer output.
 
 ---
 
-## Threat Level: Low (ecosystem, not competitor)
-
----
-
-*Last updated: 2026-05-06*

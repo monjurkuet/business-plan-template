@@ -1,29 +1,51 @@
 {
+  "doc_type": "competitor",
   "slug": "2026-05-06-star-tech",
   "name": "star-tech",
   "sector": "electronics-gadgets",
   "frontmatter": {
+    "entity_type": "competitor",
     "sector": "electronics-gadgets",
-    "last_verified": "2026-05-06",
-    "freshness": "fresh",
-    "confidence": "0.5",
-    "evidence_ids": "[]"
+    "entity_slug": "2026-05-06-star-tech",
+    "last_verified_at": "2026-06-25T12:00:00Z",
+    "freshness_status": "fresh",
+    "confidence_score": "0.50",
+    "primary_sources": "- []"
   },
   "profile_category": "",
   "entity_slug": "2026-05-06-star-tech",
-  "last_verified_at": "",
-  "freshness_status": "unknown",
-  "confidence_score": 0.0,
-  "strengths": [],
-  "weaknesses": [],
+  "last_verified_at": "2026-06-25T12:00:00Z",
+  "freshness_status": "fresh",
+  "confidence_score": 0.5,
+  "strengths": [
+    "1. Largest IT retailer in BD with PC components + laptops.",
+    "2. Strong online + offline presence across major cities.",
+    "3. Competitive pricing.",
+    "4. Custom PC building service."
+  ],
+  "weaknesses": [
+    "1. Not premium/consumer electronics focused.",
+    "2. Utilitarian brand perception — tech-savvy but not aspirational.",
+    "3. Store experience is warehouse-like.",
+    "4. Not capturing the iPhone/lifestyle electronics buyer."
+  ],
   "threat_level": "",
   "threat_overlap_score": null,
-  "pricing_signals": [],
+  "pricing_signals": [
+    {
+      "item": "*TODO*",
+      "value": "*Research needed*",
+      "date": "2026-06",
+      "source": ""
+    }
+  ],
   "customer_segments": [],
-  "operations_notes": "",
-  "financial_signals": "",
-  "sentiment_summary": "",
-  "compliance_notes": "",
-  "evidence_sources": [],
+  "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+  "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+  "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+  "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+  "evidence_sources": [
+    "*TODO: Add verifiable sources*"
+  ],
   "file_path": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-star-tech.md"
 }

@@ -3,206 +3,356 @@
   "total": 7,
   "competitors": [
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-discovery-bangladesh",
       "name": "discovery-bangladesh",
       "sector": "travel-tourism",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "travel-tourism",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-discovery-bangladesh",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-discovery-bangladesh",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Domestic tourism specialist.",
+        "2. Adventure and nature tours.",
+        "3. Growing demand post-COVID.",
+        "4. Good content marketing."
+      ],
+      "weaknesses": [
+        "1. Small team limits capacity.",
+        "2. Revenue is seasonal and weather-dependent.",
+        "3. Infrastructure challenges (roads, hotels) affect experience quality."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/travel-tourism/bd-market/competitors/2026-05-06-discovery-bangladesh.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-flight-expert",
       "name": "flight-expert",
       "sector": "travel-tourism",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "travel-tourism",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-flight-expert",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-flight-expert",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. B2B + B2C flight aggregator with competitive pricing.",
+        "2. Strong corporate travel segment.",
+        "3. Good relationships with airlines."
+      ],
+      "weaknesses": [
+        "1. Limited offering beyond flights.",
+        "2. UI/UX is dated.",
+        "3. Brand perception is utilitarian, not aspirational."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/travel-tourism/bd-market/competitors/2026-05-06-flight-expert.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-gozayaan",
       "name": "gozayaan",
       "sector": "travel-tourism",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "travel-tourism",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-gozayaan",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-gozayaan",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Modern UI/UX.",
+        "2. Strong flight search engine.",
+        "3. Growing hotel inventory.",
+        "4. Well-funded with international backing.",
+        "5. Clean brand perception."
+      ],
+      "weaknesses": [
+        "1. Smaller than ShareTrip in market share.",
+        "2. Limited bus/transport options.",
+        "3. Hotel booking flow needs improvement.",
+        "4. Marketing less aggressive."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/travel-tourism/bd-market/competitors/2026-05-06-gozayaan.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-obokash",
       "name": "obokash",
       "sector": "travel-tourism",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "travel-tourism",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-obokash",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-obokash",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Hajj/Umrah specialist with government licensing.",
+        "2. Strong trust brand built over years.",
+        "3. High repeat customer rate (pilgrims recommend to family).",
+        "4. Stable revenue base."
+      ],
+      "weaknesses": [
+        "1. Seasonal revenue tied to Hajj cycle.",
+        "2. Limited technology adoption.",
+        "3. Online booking UX is dated.",
+        "4. Not expanding beyond pilgrimage."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/travel-tourism/bd-market/competitors/2026-05-06-obokash.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-sharetrip",
       "name": "sharetrip",
       "sector": "travel-tourism",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "travel-tourism",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-sharetrip",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-sharetrip",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Leading OTA in Bangladesh.",
+        "2. Strong app with flight + hotel + bus booking.",
+        "3. Aggressive marketing.",
+        "4. Series A funded.",
+        "5. Brand recognition is high."
+      ],
+      "weaknesses": [
+        "1. Heavy discounting erodes margins.",
+        "2. Customer service complaints are frequent.",
+        "3. Hotel inventory is thin outside major cities.",
+        "4. B2B segment underserved."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/travel-tourism/bd-market/competitors/2026-05-06-sharetrip.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-the-travel-earth",
       "name": "the-travel-earth",
       "sector": "travel-tourism",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "travel-tourism",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-the-travel-earth",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-the-travel-earth",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Instagram-friendly content and youth-oriented adventure tours.",
+        "2. Good social media presence.",
+        "3. Curated experience focus."
+      ],
+      "weaknesses": [
+        "1. Low margins on tours.",
+        "2. Weather-dependent.",
+        "3. Limited scale without significant capital.",
+        "4. Quality inconsistency across guides."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/travel-tourism/bd-market/competitors/2026-05-06-the-travel-earth.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-zakia-travels",
       "name": "zakia-travels",
       "sector": "travel-tourism",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "travel-tourism",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-zakia-travels",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-zakia-travels",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Established Hajj/Umrah operator with strong word-of-mouth.",
+        "2. Competitive pricing.",
+        "3. Family-run trust model."
+      ],
+      "weaknesses": [
+        "1. Minimal digital presence.",
+        "2. Seasonal business with capacity constraints.",
+        "3. No international leisure expansion."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/travel-tourism/bd-market/competitors/2026-05-06-zakia-travels.md"
     }
   ]

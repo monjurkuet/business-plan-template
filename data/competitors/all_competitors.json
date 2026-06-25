@@ -2,50 +2,69 @@
   "total": 65,
   "competitors": [
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-auto-mania",
       "name": "auto-mania",
       "sector": "automotive-car-care",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "automotive-car-care",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-auto-mania",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-auto-mania",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. *TODO: Research strengths*"
+      ],
+      "weaknesses": [
+        "1. *TODO: Research weaknesses*"
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-auto-mania.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-car-care-bd",
       "name": "car-care-bd",
       "sector": "automotive-car-care",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "automotive-car-care",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-car-care-bd",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-car-care-bd",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
       "strengths": [
         "1. **Hybrid niche dominance** — only brand clearly positioned for hybrid vehicle needs",
         "2. **Nationwide installation** — delivery + installation anywhere in BD",
@@ -61,33 +80,45 @@
         "5. **No content/education** — just product posts",
         "6. **Only 3 reviews** — low social proof"
       ],
-      "threat_level": "**Overlap with our idea:** 4/10 (only overlaps if we enter hybrid parts)",
+      "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-car-care-bd.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-car-expert-bd",
       "name": "car-expert-bd",
       "sector": "automotive-car-care",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "automotive-car-care",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-car-expert-bd",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-car-expert-bd",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
       "strengths": [
         "1. **Regional dominance** — biggest in Mymensingh, less competition outside Dhaka",
         "2. **Advanced technology positioning** — \"অত্যাধুনিক টেকনোলজি\" (advanced technology)",
@@ -103,60 +134,90 @@
         "4. **Regional brand** — harder to scale nationally",
         "5. **36K followers** — small compared to Dhaka-based competitors"
       ],
-      "threat_level": "**Overlap with our idea:** 3/10 (different market, different model)",
+      "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-car-expert-bd.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-garirbazar",
       "name": "garirbazar",
       "sector": "automotive-car-care",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "automotive-car-care",
-        "last_verified": "2026-06-25",
-        "freshness": "fresh"
+        "entity_slug": "2026-05-06-garirbazar",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-garirbazar",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. *TODO: Research strengths*"
+      ],
+      "weaknesses": [
+        "1. *TODO: Research weaknesses*"
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-garirbazar.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-irfan-imports",
       "name": "irfan-imports",
       "sector": "automotive-car-care",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "automotive-car-care",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-irfan-imports",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-irfan-imports",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
       "strengths": [
         "1. **83K followers** — second-largest reconditioned car page in BD",
         "2. **Multi-brand import** — European + Japanese + American gives wider appeal",
@@ -170,33 +231,45 @@
         "4. **No blog/content** — no SEO, no educational content",
         "5. **Not verified** — no blue badge"
       ],
-      "threat_level": "**Overlap with our idea:** 6/10 (if we do reconditioned car imports)",
+      "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-irfan-imports.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-jda-oil-bangladesh",
       "name": "jda-oil-bangladesh",
       "sector": "automotive-car-care",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "automotive-car-care",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-jda-oil-bangladesh",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-jda-oil-bangladesh",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
       "strengths": [
         "1. **64K followers** — strong presence",
         "2. **\"Original Japanese\" positioning** — powerful trust signal in a market flooded with counterfeit oil",
@@ -211,33 +284,45 @@
         "5. **Low review count** — only 4 reviews despite 64K followers",
         "6. **No educational content** — just product promotions"
       ],
-      "threat_level": "**Overlap with our idea:** 5/10 (overlaps on oil products only)",
+      "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-jda-oil-bangladesh.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-mitsubishi-rangs",
       "name": "mitsubishi-rangs",
       "sector": "automotive-car-care",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "automotive-car-care",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-mitsubishi-rangs",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-mitsubishi-rangs",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
       "strengths": [
         "1. **Massive brand backing** - Rangs Group is a top BD conglomerate with deep capital and distribution",
         "2. **Official dealership** - Mitsubishi warranty, genuine parts, authorized service",
@@ -254,60 +339,88 @@
       ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-mitsubishi-rangs.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-naspro-auto-detailing",
       "name": "naspro-auto-detailing",
       "sector": "automotive-car-care",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "automotive-car-care",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-naspro-auto-detailing",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-naspro-auto-detailing",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. *TODO: Research strengths*"
+      ],
+      "weaknesses": [
+        "1. *TODO: Research weaknesses*"
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-naspro-auto-detailing.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-parts-choice",
       "name": "parts-choice",
       "sector": "automotive-car-care",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "automotive-car-care",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-parts-choice",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-parts-choice",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
       "strengths": [
         "1. **Multi-brand aggregator** — Mobil, Shell, Castrol — customer finds everything here",
         "2. **E-commerce website** — partschoicebd.com (rare in BD market)",
@@ -322,33 +435,45 @@
         "4. **No guarantees beyond product warranty**",
         "5. **No educational content** — just product listings"
       ],
-      "threat_level": "**Overlap with our idea:** 6/10 (if we sell oil products)",
+      "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-parts-choice.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-ride-on-reference",
       "name": "ride-on-reference",
       "sector": "automotive-car-care",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "automotive-car-care",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-ride-on-reference",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-ride-on-reference",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
       "strengths": [
         "1. **Unique positioning** — car care + car import + aftercare = no direct competitor does all three",
         "2. **E-commerce website** — rideonbd.com with product catalog, blog, contact",
@@ -370,31 +495,43 @@
       ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-ride-on-reference.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-romel-car-house",
       "name": "romel-car-house",
       "sector": "automotive-car-care",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "automotive-car-care",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-romel-car-house",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-romel-car-house",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
       "strengths": [
         "1. **108K followers** — largest reconditioned car dealer on Facebook BD",
         "2. **Bank loan & finance options** — massive enabler for BD market where most buyers need financing",
@@ -410,33 +547,45 @@
         "4. **No blog/SEO** — invisible on Google",
         "5. **Car sales only** — no recurring revenue model"
       ],
-      "threat_level": "**Overlap with our idea:** 7/10 (if we do reconditioned car imports)",
+      "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-romel-car-house.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-shell-ranks-petroleum",
       "name": "shell-ranks-petroleum",
       "sector": "automotive-car-care",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "automotive-car-care",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-shell-ranks-petroleum",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-shell-ranks-petroleum",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
       "strengths": [
         "1. **256K followers** — largest automotive page in BD by far",
         "2. **Global Shell brand** — instant trust, no education needed",
@@ -451,248 +600,436 @@
         "4. **No car import/pre-order** — no cross-selling opportunity",
         "5. **Corporate rigidity** — can't pivot quickly or personalize"
       ],
-      "threat_level": "**Overlap with our idea:** 4/10 (only overlaps on oil/lubricant products)",
+      "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-shell-ranks-petroleum.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-aarong",
       "name": "aarong",
       "sector": "clothing-fashion",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "clothing-fashion",
-        "last_verified": "2026-05-06",
-        "freshness": "critical",
-        "confidence": "0.2",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-aarong",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "critical",
+        "confidence_score": "0.20",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-aarong",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "critical",
+      "confidence_score": 0.2,
+      "strengths": [
+        "1. Strongest brand in BD fashion.",
+        "2. BRAC-backed with nationwide stores + e-commerce.",
+        "3. Artisan/heritage positioning with massive supply chain.",
+        "4. Established trust and quality perception."
+      ],
+      "weaknesses": [
+        "1. Premium pricing limits mass market reach.",
+        "2. Slow to adopt trends — seasonal collections lag behind fast-fashion cycles.",
+        "3. Younger audience (18-25) drifting to faster, cheaper brands.",
+        "4. E-commerce UX is dated compared to D2C competitors."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-aarong.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-dorjee",
       "name": "dorjee",
       "sector": "clothing-fashion",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "clothing-fashion",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-dorjee",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-dorjee",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Fresh, bold designs.",
+        "2. Strong Gen-Z appeal.",
+        "3. Limited-drop model creates urgency and sells out fast.",
+        "4. Community-driven brand building."
+      ],
+      "weaknesses": [
+        "1. Small team, fulfillment issues during drops.",
+        "2. Limited scale — can't grow beyond niche without investment.",
+        "3. Quality varies between drops.",
+        "4. No physical retail."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-dorjee.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-ecstasy",
       "name": "ecstasy",
       "sector": "clothing-fashion",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "clothing-fashion",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-ecstasy",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-ecstasy",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Pioneer BD streetwear brand.",
+        "2. Strong brand identity and youth cult following.",
+        "3. Good online sales and social media presence.",
+        "4. First-mover in premium urban fashion."
+      ],
+      "weaknesses": [
+        "1. Perceived price inflation — paying for brand, not quality.",
+        "2. Limited size range (excludes plus-size).",
+        "3. Occasional quality issues with prints/fabric.",
+        "4. Increasing competition from smaller streetwear brands."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-ecstasy.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-labh",
       "name": "labh",
       "sector": "clothing-fashion",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "clothing-fashion",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-labh",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-labh",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Instagram-first brand with premium quality basics.",
+        "2. Strong influencer collaborations.",
+        "3. Minimal, clean aesthetic that resonates with urban professionals.",
+        "4. High repeat-purchase rate."
+      ],
+      "weaknesses": [
+        "1. Small catalog limits cross-selling.",
+        "2. Premium pricing narrows addressable market.",
+        "3. Limited physical presence — relies entirely on online sales.",
+        "4. Supply chain bottlenecks during peak seasons."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-labh.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-lubnan",
       "name": "lubnan",
       "sector": "clothing-fashion",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "clothing-fashion",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-lubnan",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-lubnan",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Strong in hijab/modest wear segment.",
+        "2. Growing store network in Dhaka.",
+        "3. Underserved niche with massive demand.",
+        "4. Good Facebook marketing and community building."
+      ],
+      "weaknesses": [
+        "1. Limited trend responsiveness — designs feel dated.",
+        "2. Quality inconsistency.",
+        "3. Brand not well-known outside the modest fashion niche.",
+        "4. E-commerce needs improvement."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-lubnan.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-sadakalo",
       "name": "sadakalo",
       "sector": "clothing-fashion",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "clothing-fashion",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-sadakalo",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-sadakalo",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Unique black-and-white aesthetic.",
+        "2. Strong brand identity and loyal customer base.",
+        "3. Stands out in a market full of colorful prints.",
+        "4. Good for people who want understated elegance."
+      ],
+      "weaknesses": [
+        "1. Niche appeal limits growth ceiling.",
+        "2. Design stagnation — same aesthetic for years.",
+        "3. Pricing concerns for the quality delivered.",
+        "4. Not expanding into new categories."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-sadakalo.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-sailor",
       "name": "sailor",
       "sector": "clothing-fashion",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "clothing-fashion",
-        "last_verified": "2026-06-25",
-        "freshness": "fresh"
+        "entity_slug": "2026-05-06-sailor",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-sailor",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Affordable pricing with trendy designs.",
+        "2. Growing online presence.",
+        "3. Good social media marketing and Reels content.",
+        "4. Accessible to mass-market youth."
+      ],
+      "weaknesses": [
+        "1. Quality inconsistency across product lines.",
+        "2. Fast-fashion sustainability concerns.",
+        "3. Brand perception as 'budget' limits aspirational value.",
+        "4. Returns/exchange issues."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-sailor.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-yellow",
       "name": "yellow",
       "sector": "clothing-fashion",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "clothing-fashion",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-yellow",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-yellow",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Strong youth appeal.",
+        "2. Trendy casual wear at accessible price points.",
+        "3. Good store presence in Dhaka/CTG.",
+        "4. Beximco Textile backing ensures supply chain reliability."
+      ],
+      "weaknesses": [
+        "1. Limited online presence vs D2C brands.",
+        "2. Design repeats season-over-season.",
+        "3. Seasonal inventory bloat leads to heavy discounting.",
+        "4. Not seen as aspirational by Gen-Z."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-yellow.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-binance-bd",
       "name": "binance-bd",
       "sector": "crypto-bitcoin",
@@ -722,6 +1059,7 @@
       "file_path": "sectors/crypto-bitcoin/bd-market/competitors/2026-05-06-binance-bd.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-blockchain-dev-shops",
       "name": "blockchain-dev-shops",
       "sector": "crypto-bitcoin",
@@ -751,6 +1089,7 @@
       "file_path": "sectors/crypto-bitcoin/bd-market/competitors/2026-05-06-blockchain-dev-shops.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-crypto-education",
       "name": "crypto-education",
       "sector": "crypto-bitcoin",
@@ -780,6 +1119,7 @@
       "file_path": "sectors/crypto-bitcoin/bd-market/competitors/2026-05-06-crypto-education.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-local-p2p-otc",
       "name": "local-p2p-otc",
       "sector": "crypto-bitcoin",
@@ -809,6 +1149,7 @@
       "file_path": "sectors/crypto-bitcoin/bd-market/competitors/2026-05-06-local-p2p-otc.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-06-25-bd-crypto-signal-groups",
       "name": "bd-crypto-signal-groups",
       "sector": "crypto-bitcoin",
@@ -887,6 +1228,7 @@
       "file_path": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-bd-crypto-signal-groups.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-06-25-bybit-bd",
       "name": "bybit-bd",
       "sector": "crypto-bitcoin",
@@ -965,6 +1307,7 @@
       "file_path": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-bybit-bd.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-06-25-cryptotech24-bd",
       "name": "cryptotech24-bd",
       "sector": "crypto-bitcoin",
@@ -1048,6 +1391,7 @@
       "file_path": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-cryptotech24-bd.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-06-25-kucoin-bd",
       "name": "kucoin-bd",
       "sector": "crypto-bitcoin",
@@ -1126,6 +1470,7 @@
       "file_path": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-kucoin-bd.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-06-25-okx-bd",
       "name": "okx-bd",
       "sector": "crypto-bitcoin",
@@ -1210,6 +1555,7 @@
       "file_path": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-okx-bd.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-06-25-paxful-bd",
       "name": "paxful-bd",
       "sector": "crypto-bitcoin",
@@ -1294,6 +1640,7 @@
       "file_path": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-paxful-bd.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-06-25-remitano-bd",
       "name": "remitano-bd",
       "sector": "crypto-bitcoin",
@@ -1378,987 +1725,1687 @@
       "file_path": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-remitano-bd.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-daraz",
       "name": "daraz",
       "sector": "electronics-gadgets",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "electronics-gadgets",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-daraz",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-daraz",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Alibaba-backed, largest BD e-commerce platform.",
+        "2. Massive electronics selection with flash sales and EMI options.",
+        "3. Brand trust from scale.",
+        "4. Seller ecosystem is large."
+      ],
+      "weaknesses": [
+        "1. Fake product issues plague the platform.",
+        "2. Delivery delays in tier-2/3 cities.",
+        "3. Customer service is outsourced and frustrating.",
+        "4. Seller quality inconsistency — buyers don't trust 'Daraz quality'."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-daraz.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-gadget-and-gear",
       "name": "gadget-and-gear",
       "sector": "electronics-gadgets",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "electronics-gadgets",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-gadget-and-gear",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-gadget-and-gear",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Premium gadget positioning with audio/tech specialist focus.",
+        "2. Strong YouTube reviews and Facebook content.",
+        "3. Loyal community of tech enthusiasts.",
+        "4. Curated selection (not everything, just the good stuff)."
+      ],
+      "weaknesses": [
+        "1. Premium pricing limits addressable market.",
+        "2. Limited catalog beyond audio and accessories.",
+        "3. Small team constrains growth.",
+        "4. Vulnerable to Daraz undercutting on same products."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-gadget-and-gear.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-gadget-monkey",
       "name": "gadget-monkey",
       "sector": "electronics-gadgets",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "electronics-gadgets",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-gadget-monkey",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-gadget-monkey",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Accessories focus with trendy product selection.",
+        "2. Good social media marketing with affordable pricing.",
+        "3. Growing community of young tech enthusiasts."
+      ],
+      "weaknesses": [
+        "1. Low margins on commodity accessories.",
+        "2. Easy to copy product selection.",
+        "3. No brand loyalty — buyers compare on price.",
+        "4. Daraz sells the same items cheaper."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-gadget-monkey.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-iphone-market-bd",
       "name": "iphone-market-bd",
       "sector": "electronics-gadgets",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "electronics-gadgets",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-iphone-market-bd",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-iphone-market-bd",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Cheaper than authorized dealers by 15-25%.",
+        "2. Imported handsets from Japan/US/UAE.",
+        "3. Large demand from price-sensitive buyers.",
+        "4. Social media marketing is effective."
+      ],
+      "weaknesses": [
+        "1. No official Apple warranty (biggest concern).",
+        "2. Trust issues — buyers worry about refurbished-sold-as-new.",
+        "3. Legal grey area with customs.",
+        "4. No after-sales service."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-iphone-market-bd.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-pickaboo",
       "name": "pickaboo",
       "sector": "electronics-gadgets",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "electronics-gadgets",
-        "last_verified": "2026-06-25",
-        "freshness": "fresh"
+        "entity_slug": "2026-05-06-pickaboo",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-pickaboo",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Authorized Apple reseller with genuine warranty.",
+        "2. EMI partnerships with banks.",
+        "3. Focus on trust and authenticity.",
+        "4. Growing brand in Dhaka/CTG."
+      ],
+      "weaknesses": [
+        "1. Limited beyond electronics.",
+        "2. Price premium vs grey market (15-25% more expensive).",
+        "3. Inventory constraints on new releases.",
+        "4. Not price-competitive for budget buyers."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-pickaboo.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-ryans-computers",
       "name": "ryans-computers",
       "sector": "electronics-gadgets",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "electronics-gadgets",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-ryans-computers",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-ryans-computers",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Major IT retailer with growing Apple authorized presence.",
+        "2. Good pricing on laptops and components.",
+        "3. Expanding online presence.",
+        "4. Physical stores in key cities."
+      ],
+      "weaknesses": [
+        "1. Similar to Star Tech — IT-focused, not lifestyle electronics.",
+        "2. Brand is utilitarian.",
+        "3. Not building community or content like Gadget & Gear."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-ryans-computers.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-star-tech",
       "name": "star-tech",
       "sector": "electronics-gadgets",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "electronics-gadgets",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-star-tech",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-star-tech",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Largest IT retailer in BD with PC components + laptops.",
+        "2. Strong online + offline presence across major cities.",
+        "3. Competitive pricing.",
+        "4. Custom PC building service."
+      ],
+      "weaknesses": [
+        "1. Not premium/consumer electronics focused.",
+        "2. Utilitarian brand perception — tech-savvy but not aspirational.",
+        "3. Store experience is warehouse-like.",
+        "4. Not capturing the iPhone/lifestyle electronics buyer."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-star-tech.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-10-minute-school",
       "name": "10-minute-school",
       "sector": "high-roi-niches",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "high-roi-niches",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-10-minute-school",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-10-minute-school",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Largest EdTech platform in BD.",
+        "2. Free + premium content model.",
+        "3. HSC/SSC + skill courses.",
+        "4. Well-funded with strong brand.",
+        "5. Massive student audience."
+      ],
+      "weaknesses": [
+        "1. Content quality inconsistency.",
+        "2. Free content cannibalizes premium.",
+        "3. Low conversion rate to paid.",
+        "4. Competing with free YouTube."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/high-roi-niches/bd-market/competitors/2026-05-06-10-minute-school.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-bd-freelancer-community",
       "name": "bd-freelancer-community",
       "sector": "high-roi-niches",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "high-roi-niches",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-bd-freelancer-community",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-bd-freelancer-community",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Bangladesh is #2 globally on Freelancer.com with 650K+ active freelancers.",
+        "2. Growing skill base in digital marketing, development, design.",
+        "3. Government support programs."
+      ],
+      "weaknesses": [
+        "1. Price competition is fierce.",
+        "2. Quality perception is mixed.",
+        "3. Platform dependency (Upwork/Fiverr policy changes).",
+        "4. No organized agency incubator."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/high-roi-niches/bd-market/competitors/2026-05-06-bd-freelancer-community.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-foodpanda-bd",
       "name": "foodpanda-bd",
       "sector": "high-roi-niches",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "high-roi-niches",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-foodpanda-bd",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-foodpanda-bd",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Largest food delivery platform in BD.",
+        "2. Massive restaurant network.",
+        "3. Delivery logistics infrastructure.",
+        "4. Brand recognition."
+      ],
+      "weaknesses": [
+        "1. 25-30% commission hurts restaurants.",
+        "2. Customer service issues.",
+        "3. Delivery time unreliability.",
+        "4. Restaurant quality inconsistency on platform."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/high-roi-niches/bd-market/competitors/2026-05-06-foodpanda-bd.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-pathao-food",
       "name": "pathao-food",
       "sector": "high-roi-niches",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "high-roi-niches",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-pathao-food",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-pathao-food",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Growing food delivery service.",
+        "2. Competitive commission rates.",
+        "3. Strong in Dhaka.",
+        "4. Ride-sharing user base cross-sells."
+      ],
+      "weaknesses": [
+        "1. Smaller than Foodpanda.",
+        "2. Restaurant network is thinner.",
+        "3. Delivery reliability issues.",
+        "4. Limited outside Dhaka."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/high-roi-niches/bd-market/competitors/2026-05-06-pathao-food.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-pet-club-bd",
       "name": "pet-club-bd",
       "sector": "high-roi-niches",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "high-roi-niches",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-pet-club-bd",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-pet-club-bd",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Largest pet community in BD.",
+        "2. Combined community + retail model.",
+        "3. Growing Facebook presence.",
+        "4. Trust among pet owners."
+      ],
+      "weaknesses": [
+        "1. Imported products only (no BD brand).",
+        "2. Limited product range.",
+        "3. E-commerce UX needs improvement.",
+        "4. No pet food manufacturing in BD."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/high-roi-niches/bd-market/competitors/2026-05-06-pet-club-bd.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-shikho",
       "name": "shikho",
       "sector": "high-roi-niches",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "high-roi-niches",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-shikho",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-shikho",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Quality-focused EdTech.",
+        "2. Live class model.",
+        "3. Growing in IELTS and professional skills.",
+        "4. Smaller but more targeted audience."
+      ],
+      "weaknesses": [
+        "1. Smaller scale than 10MS.",
+        "2. Content library is limited.",
+        "3. Marketing budget constrained.",
+        "4. Still finding product-market fit."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/high-roi-niches/bd-market/competitors/2026-05-06-shikho.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-walton-smart-home",
       "name": "walton-smart-home",
       "sector": "high-roi-niches",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "high-roi-niches",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-walton-smart-home",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-walton-smart-home",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. BD's largest electronics manufacturer.",
+        "2. Massive retail network.",
+        "3. Brand trust.",
+        "4. Government contracts.",
+        "5. Budget-friendly pricing."
+      ],
+      "weaknesses": [
+        "1. Not innovation-leading.",
+        "2. Smart home products are basic.",
+        "3. Not perceived as premium or tech-forward.",
+        "4. Slow to adopt IoT trends."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/high-roi-niches/bd-market/competitors/2026-05-06-walton-smart-home.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-aarong-jewellery",
       "name": "aarong-jewellery",
       "sector": "jewellery",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "jewellery",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-aarong-jewellery",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-aarong-jewellery",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. BRAC supply chain, trusted brand, nationwide reach, heritage designs, hallmarked gold"
+      ],
+      "weaknesses": [
+        "1. Not jewellery-specific, limited design innovation, premium pricing on gold"
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/jewellery/bd-market/competitors/2026-05-06-aarong-jewellery.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-anjalee-swar",
       "name": "anjalee-swar",
       "sector": "jewellery",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "jewellery",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-anjalee-swar",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-anjalee-swar",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Silver specialist, modern designs, younger audience appeal, gift market positioning"
+      ],
+      "weaknesses": [
+        "1. Small market for silver in BD (gold dominates culturally), limited awareness, price-sensitive buyers avoid silver"
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/jewellery/bd-market/competitors/2026-05-06-anjalee-swar.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-ditmela",
       "name": "ditmela",
       "sector": "jewellery",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "jewellery",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-ditmela",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-ditmela",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Affordable fashion jewellery, trendy designs, strong online presence, fast-moving catalog"
+      ],
+      "weaknesses": [
+        "1. Low margin, quality perception, no brand loyalty (designs easily copied), returns common"
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/jewellery/bd-market/competitors/2026-05-06-ditmela.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-jewel-fashion",
       "name": "jewel-fashion",
       "sector": "jewellery",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "jewellery",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-jewel-fashion",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-jewel-fashion",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Large gold jewellery retailer, bridal specialist, TV commercial presence, trust from physical stores"
+      ],
+      "weaknesses": [
+        "1. Old-school marketing, slow online adoption, limited design innovation, aging customer base"
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/jewellery/bd-market/competitors/2026-05-06-jewel-fashion.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-prioti-jewellers",
       "name": "prioti-jewellers",
       "sector": "jewellery",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "jewellery",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-prioti-jewellers",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-prioti-jewellers",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Growing brand, strong Facebook marketing, competitive pricing, bridal focus"
+      ],
+      "weaknesses": [
+        "1. Regional (Dhaka-centric), limited e-commerce, quality perception not yet established"
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/jewellery/bd-market/competitors/2026-05-06-prioti-jewellers.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-zereze",
       "name": "zereze",
       "sector": "jewellery",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "jewellery",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-zereze",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-zereze",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Minimalist design, Instagram-first, urban women segment, gift market appeal"
+      ],
+      "weaknesses": [
+        "1. Very niche, limited scale, high price sensitivity, brand awareness low outside Dhaka"
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/jewellery/bd-market/competitors/2026-05-06-zereze.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-bongo",
       "name": "bongo",
       "sector": "media-marketing-digital",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "media-marketing-digital",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-bongo",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-bongo",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Largest Bangladesh OTT platform.",
+        "2. Original content production.",
+        "3. Massive user base.",
+        "4. Ad + subscription revenue model."
+      ],
+      "weaknesses": [
+        "1. High content costs.",
+        "2. Competing with free YouTube/Facebook content.",
+        "3. Low subscription conversion rate.",
+        "4. Burn rate is high."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/media-marketing-digital/bd-market/competitors/2026-05-06-bongo.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-bytecraft",
       "name": "bytecraft",
       "sector": "media-marketing-digital",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "media-marketing-digital",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-bytecraft",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-bytecraft",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Animation and motion graphics niche.",
+        "2. Export-quality work attracting international clients.",
+        "3. High-value deliverables."
+      ],
+      "weaknesses": [
+        "1. Talent retention (animators leave for better pay abroad).",
+        "2. Project-based revenue.",
+        "3. BD market for premium animation is small.",
+        "4. Limited domestic demand."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/media-marketing-digital/bd-market/competitors/2026-05-06-bytecraft.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-flyste",
       "name": "flyste",
       "sector": "media-marketing-digital",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "media-marketing-digital",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-flyste",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-flyste",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Creative storytelling focus.",
+        "2. Video production capability.",
+        "3. Strong portfolio with recognizable brand campaigns.",
+        "4. Brand-building expertise."
+      ],
+      "weaknesses": [
+        "1. Small team limits capacity.",
+        "2. Project-based revenue (no recurring retainers).",
+        "3. Slow sales cycle for premium creative work.",
+        "4. High overhead for production quality."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/media-marketing-digital/bd-market/competitors/2026-05-06-flyste.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-popupads",
       "name": "popupads",
       "sector": "media-marketing-digital",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "media-marketing-digital",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-popupads",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-popupads",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Facebook/Google ads specialist.",
+        "2. ROI-focused with measurable results.",
+        "3. E-commerce client base growing fast.",
+        "4. Data-driven approach."
+      ],
+      "weaknesses": [
+        "1. Platform-dependent — FB/Google policy changes are existential risk.",
+        "2. Limited creative capability (needs to partner).",
+        "3. Client churn when ROI dips."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/media-marketing-digital/bd-market/competitors/2026-05-06-popupads.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-shikho",
       "name": "shikho",
       "sector": "media-marketing-digital",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "media-marketing-digital",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-shikho",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-shikho",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. *TODO: Research strengths*"
+      ],
+      "weaknesses": [
+        "1. *TODO: Research weaknesses*"
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/media-marketing-digital/bd-market/competitors/2026-05-06-shikho.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-tracker10",
       "name": "tracker10",
       "sector": "media-marketing-digital",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "media-marketing-digital",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-tracker10",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-tracker10",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. High-quality video production.",
+        "2. TVC + digital content.",
+        "3. Strong creative team with industry awards.",
+        "4. Established in Dhaka ad scene."
+      ],
+      "weaknesses": [
+        "1. High overhead (equipment, studio, team).",
+        "2. Project-based revenue is lumpy.",
+        "3. Slow cash flow (90-day payment terms common).",
+        "4. Not adapting to short-form fast enough."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/media-marketing-digital/bd-market/competitors/2026-05-06-tracker10.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-webasha",
       "name": "webasha",
       "sector": "media-marketing-digital",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "media-marketing-digital",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-webasha",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-webasha",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Full-service digital marketing (SEO, social, ads).",
+        "2. Growing client base across SMEs.",
+        "3. Established brand in BD digital marketing space."
+      ],
+      "weaknesses": [
+        "1. Crowded market with no clear differentiation.",
+        "2. Price war with freelancers.",
+        "3. Service quality inconsistency across clients.",
+        "4. Low retention rates."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/media-marketing-digital/bd-market/competitors/2026-05-06-webasha.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-discovery-bangladesh",
       "name": "discovery-bangladesh",
       "sector": "travel-tourism",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "travel-tourism",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-discovery-bangladesh",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-discovery-bangladesh",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Domestic tourism specialist.",
+        "2. Adventure and nature tours.",
+        "3. Growing demand post-COVID.",
+        "4. Good content marketing."
+      ],
+      "weaknesses": [
+        "1. Small team limits capacity.",
+        "2. Revenue is seasonal and weather-dependent.",
+        "3. Infrastructure challenges (roads, hotels) affect experience quality."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/travel-tourism/bd-market/competitors/2026-05-06-discovery-bangladesh.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-flight-expert",
       "name": "flight-expert",
       "sector": "travel-tourism",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "travel-tourism",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-flight-expert",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-flight-expert",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. B2B + B2C flight aggregator with competitive pricing.",
+        "2. Strong corporate travel segment.",
+        "3. Good relationships with airlines."
+      ],
+      "weaknesses": [
+        "1. Limited offering beyond flights.",
+        "2. UI/UX is dated.",
+        "3. Brand perception is utilitarian, not aspirational."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/travel-tourism/bd-market/competitors/2026-05-06-flight-expert.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-gozayaan",
       "name": "gozayaan",
       "sector": "travel-tourism",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "travel-tourism",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-gozayaan",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-gozayaan",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Modern UI/UX.",
+        "2. Strong flight search engine.",
+        "3. Growing hotel inventory.",
+        "4. Well-funded with international backing.",
+        "5. Clean brand perception."
+      ],
+      "weaknesses": [
+        "1. Smaller than ShareTrip in market share.",
+        "2. Limited bus/transport options.",
+        "3. Hotel booking flow needs improvement.",
+        "4. Marketing less aggressive."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/travel-tourism/bd-market/competitors/2026-05-06-gozayaan.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-obokash",
       "name": "obokash",
       "sector": "travel-tourism",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "travel-tourism",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-obokash",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-obokash",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Hajj/Umrah specialist with government licensing.",
+        "2. Strong trust brand built over years.",
+        "3. High repeat customer rate (pilgrims recommend to family).",
+        "4. Stable revenue base."
+      ],
+      "weaknesses": [
+        "1. Seasonal revenue tied to Hajj cycle.",
+        "2. Limited technology adoption.",
+        "3. Online booking UX is dated.",
+        "4. Not expanding beyond pilgrimage."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/travel-tourism/bd-market/competitors/2026-05-06-obokash.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-sharetrip",
       "name": "sharetrip",
       "sector": "travel-tourism",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "travel-tourism",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-sharetrip",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-sharetrip",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Leading OTA in Bangladesh.",
+        "2. Strong app with flight + hotel + bus booking.",
+        "3. Aggressive marketing.",
+        "4. Series A funded.",
+        "5. Brand recognition is high."
+      ],
+      "weaknesses": [
+        "1. Heavy discounting erodes margins.",
+        "2. Customer service complaints are frequent.",
+        "3. Hotel inventory is thin outside major cities.",
+        "4. B2B segment underserved."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/travel-tourism/bd-market/competitors/2026-05-06-sharetrip.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-the-travel-earth",
       "name": "the-travel-earth",
       "sector": "travel-tourism",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "travel-tourism",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-the-travel-earth",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-the-travel-earth",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Instagram-friendly content and youth-oriented adventure tours.",
+        "2. Good social media presence.",
+        "3. Curated experience focus."
+      ],
+      "weaknesses": [
+        "1. Low margins on tours.",
+        "2. Weather-dependent.",
+        "3. Limited scale without significant capital.",
+        "4. Quality inconsistency across guides."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/travel-tourism/bd-market/competitors/2026-05-06-the-travel-earth.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-zakia-travels",
       "name": "zakia-travels",
       "sector": "travel-tourism",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "travel-tourism",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-zakia-travels",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-zakia-travels",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Established Hajj/Umrah operator with strong word-of-mouth.",
+        "2. Competitive pricing.",
+        "3. Family-run trust model."
+      ],
+      "weaknesses": [
+        "1. Minimal digital presence.",
+        "2. Seasonal business with capacity constraints.",
+        "3. No international leisure expansion."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/travel-tourism/bd-market/competitors/2026-05-06-zakia-travels.md"
     }
   ]

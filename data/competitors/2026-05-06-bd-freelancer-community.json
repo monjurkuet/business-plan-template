@@ -1,29 +1,50 @@
 {
+  "doc_type": "competitor",
   "slug": "2026-05-06-bd-freelancer-community",
   "name": "bd-freelancer-community",
   "sector": "high-roi-niches",
   "frontmatter": {
+    "entity_type": "competitor",
     "sector": "high-roi-niches",
-    "last_verified": "2026-05-06",
-    "freshness": "fresh",
-    "confidence": "0.5",
-    "evidence_ids": "[]"
+    "entity_slug": "2026-05-06-bd-freelancer-community",
+    "last_verified_at": "2026-06-25T12:00:00Z",
+    "freshness_status": "fresh",
+    "confidence_score": "0.50",
+    "primary_sources": "- []"
   },
   "profile_category": "",
   "entity_slug": "2026-05-06-bd-freelancer-community",
-  "last_verified_at": "",
-  "freshness_status": "unknown",
-  "confidence_score": 0.0,
-  "strengths": [],
-  "weaknesses": [],
+  "last_verified_at": "2026-06-25T12:00:00Z",
+  "freshness_status": "fresh",
+  "confidence_score": 0.5,
+  "strengths": [
+    "1. Bangladesh is #2 globally on Freelancer.com with 650K+ active freelancers.",
+    "2. Growing skill base in digital marketing, development, design.",
+    "3. Government support programs."
+  ],
+  "weaknesses": [
+    "1. Price competition is fierce.",
+    "2. Quality perception is mixed.",
+    "3. Platform dependency (Upwork/Fiverr policy changes).",
+    "4. No organized agency incubator."
+  ],
   "threat_level": "",
   "threat_overlap_score": null,
-  "pricing_signals": [],
+  "pricing_signals": [
+    {
+      "item": "*TODO*",
+      "value": "*Research needed*",
+      "date": "2026-06",
+      "source": ""
+    }
+  ],
   "customer_segments": [],
-  "operations_notes": "",
-  "financial_signals": "",
-  "sentiment_summary": "",
-  "compliance_notes": "",
-  "evidence_sources": [],
+  "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+  "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+  "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+  "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+  "evidence_sources": [
+    "*TODO: Add verifiable sources*"
+  ],
   "file_path": "sectors/high-roi-niches/bd-market/competitors/2026-05-06-bd-freelancer-community.md"
 }

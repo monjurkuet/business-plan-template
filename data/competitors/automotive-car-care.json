@@ -3,50 +3,69 @@
   "total": 12,
   "competitors": [
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-auto-mania",
       "name": "auto-mania",
       "sector": "automotive-car-care",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "automotive-car-care",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-auto-mania",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-auto-mania",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. *TODO: Research strengths*"
+      ],
+      "weaknesses": [
+        "1. *TODO: Research weaknesses*"
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-auto-mania.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-car-care-bd",
       "name": "car-care-bd",
       "sector": "automotive-car-care",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "automotive-car-care",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-car-care-bd",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-car-care-bd",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
       "strengths": [
         "1. **Hybrid niche dominance** — only brand clearly positioned for hybrid vehicle needs",
         "2. **Nationwide installation** — delivery + installation anywhere in BD",
@@ -62,33 +81,45 @@
         "5. **No content/education** — just product posts",
         "6. **Only 3 reviews** — low social proof"
       ],
-      "threat_level": "**Overlap with our idea:** 4/10 (only overlaps if we enter hybrid parts)",
+      "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-car-care-bd.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-car-expert-bd",
       "name": "car-expert-bd",
       "sector": "automotive-car-care",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "automotive-car-care",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-car-expert-bd",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-car-expert-bd",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
       "strengths": [
         "1. **Regional dominance** — biggest in Mymensingh, less competition outside Dhaka",
         "2. **Advanced technology positioning** — \"অত্যাধুনিক টেকনোলজি\" (advanced technology)",
@@ -104,60 +135,90 @@
         "4. **Regional brand** — harder to scale nationally",
         "5. **36K followers** — small compared to Dhaka-based competitors"
       ],
-      "threat_level": "**Overlap with our idea:** 3/10 (different market, different model)",
+      "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-car-expert-bd.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-garirbazar",
       "name": "garirbazar",
       "sector": "automotive-car-care",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "automotive-car-care",
-        "last_verified": "2026-06-25",
-        "freshness": "fresh"
+        "entity_slug": "2026-05-06-garirbazar",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-garirbazar",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. *TODO: Research strengths*"
+      ],
+      "weaknesses": [
+        "1. *TODO: Research weaknesses*"
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-garirbazar.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-irfan-imports",
       "name": "irfan-imports",
       "sector": "automotive-car-care",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "automotive-car-care",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-irfan-imports",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-irfan-imports",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
       "strengths": [
         "1. **83K followers** — second-largest reconditioned car page in BD",
         "2. **Multi-brand import** — European + Japanese + American gives wider appeal",
@@ -171,33 +232,45 @@
         "4. **No blog/content** — no SEO, no educational content",
         "5. **Not verified** — no blue badge"
       ],
-      "threat_level": "**Overlap with our idea:** 6/10 (if we do reconditioned car imports)",
+      "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-irfan-imports.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-jda-oil-bangladesh",
       "name": "jda-oil-bangladesh",
       "sector": "automotive-car-care",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "automotive-car-care",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-jda-oil-bangladesh",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-jda-oil-bangladesh",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
       "strengths": [
         "1. **64K followers** — strong presence",
         "2. **\"Original Japanese\" positioning** — powerful trust signal in a market flooded with counterfeit oil",
@@ -212,33 +285,45 @@
         "5. **Low review count** — only 4 reviews despite 64K followers",
         "6. **No educational content** — just product promotions"
       ],
-      "threat_level": "**Overlap with our idea:** 5/10 (overlaps on oil products only)",
+      "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-jda-oil-bangladesh.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-mitsubishi-rangs",
       "name": "mitsubishi-rangs",
       "sector": "automotive-car-care",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "automotive-car-care",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-mitsubishi-rangs",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-mitsubishi-rangs",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
       "strengths": [
         "1. **Massive brand backing** - Rangs Group is a top BD conglomerate with deep capital and distribution",
         "2. **Official dealership** - Mitsubishi warranty, genuine parts, authorized service",
@@ -255,60 +340,88 @@
       ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-mitsubishi-rangs.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-naspro-auto-detailing",
       "name": "naspro-auto-detailing",
       "sector": "automotive-car-care",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "automotive-car-care",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-naspro-auto-detailing",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-naspro-auto-detailing",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. *TODO: Research strengths*"
+      ],
+      "weaknesses": [
+        "1. *TODO: Research weaknesses*"
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-naspro-auto-detailing.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-parts-choice",
       "name": "parts-choice",
       "sector": "automotive-car-care",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "automotive-car-care",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-parts-choice",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-parts-choice",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
       "strengths": [
         "1. **Multi-brand aggregator** — Mobil, Shell, Castrol — customer finds everything here",
         "2. **E-commerce website** — partschoicebd.com (rare in BD market)",
@@ -323,33 +436,45 @@
         "4. **No guarantees beyond product warranty**",
         "5. **No educational content** — just product listings"
       ],
-      "threat_level": "**Overlap with our idea:** 6/10 (if we sell oil products)",
+      "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-parts-choice.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-ride-on-reference",
       "name": "ride-on-reference",
       "sector": "automotive-car-care",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "automotive-car-care",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-ride-on-reference",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-ride-on-reference",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
       "strengths": [
         "1. **Unique positioning** — car care + car import + aftercare = no direct competitor does all three",
         "2. **E-commerce website** — rideonbd.com with product catalog, blog, contact",
@@ -371,31 +496,43 @@
       ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-ride-on-reference.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-romel-car-house",
       "name": "romel-car-house",
       "sector": "automotive-car-care",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "automotive-car-care",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-romel-car-house",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-romel-car-house",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
       "strengths": [
         "1. **108K followers** — largest reconditioned car dealer on Facebook BD",
         "2. **Bank loan & finance options** — massive enabler for BD market where most buyers need financing",
@@ -411,33 +548,45 @@
         "4. **No blog/SEO** — invisible on Google",
         "5. **Car sales only** — no recurring revenue model"
       ],
-      "threat_level": "**Overlap with our idea:** 7/10 (if we do reconditioned car imports)",
+      "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-romel-car-house.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-shell-ranks-petroleum",
       "name": "shell-ranks-petroleum",
       "sector": "automotive-car-care",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "automotive-car-care",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-shell-ranks-petroleum",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-shell-ranks-petroleum",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
       "strengths": [
         "1. **256K followers** — largest automotive page in BD by far",
         "2. **Global Shell brand** — instant trust, no education needed",
@@ -452,15 +601,24 @@
         "4. **No car import/pre-order** — no cross-selling opportunity",
         "5. **Corporate rigidity** — can't pivot quickly or personalize"
       ],
-      "threat_level": "**Overlap with our idea:** 4/10 (only overlaps on oil/lubricant products)",
+      "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-shell-ranks-petroleum.md"
     }
   ]

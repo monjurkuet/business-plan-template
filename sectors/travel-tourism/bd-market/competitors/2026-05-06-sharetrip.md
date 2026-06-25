@@ -1,19 +1,21 @@
 ---
+entity_type: competitor
 sector: travel-tourism
-last_verified: 2026-05-06
-freshness: fresh
-confidence: 0.5
-evidence_ids: []
+entity_slug: 2026-05-06-sharetrip
+last_verified_at: 2026-06-25T12:00:00Z
+freshness_status: fresh
+confidence_score: 0.50
+primary_sources:
+  - []
 ---
-
-# Competitor: ShareTrip
+# Competitor: Sharetrip
 
 ## Metadata
 
-- **Date:** 2026-05-06
-- **Last updated:** 2026-05-06
-- **Competitor name:** ShareTrip
-- **Sector:** Travel & Tourism
+- **Date:** 2026-06-25
+- **Last updated:** 2026-06-25
+- **Competitor name:** Sharetrip
+- **Sector:** travel-tourism
 
 ---
 
@@ -22,29 +24,88 @@ evidence_ids: []
 | Field | Detail |
 |-------|--------|
 | Category | Online Travel Agency (OTA) |
-| Facebook | facebook.com/sharetripbd |
+| Facebook/URL | facebook.com/sharetripbd |
 | Followers | 600K+ |
+| Location |  |
+| Verified | Unknown |
 
 ---
 
 ## Strengths
 
-Leading OTA in Bangladesh. Strong app with flight + hotel + bus booking. Aggressive marketing. Series A funded. Brand recognition is high.
+1. Leading OTA in Bangladesh.
+2. Strong app with flight + hotel + bus booking.
+3. Aggressive marketing.
+4. Series A funded.
+5. Brand recognition is high.
 
 ## Weaknesses
 
-Heavy discounting erodes margins. Customer service complaints are frequent. Hotel inventory is thin outside major cities. B2B segment underserved.
+1. Heavy discounting erodes margins.
+2. Customer service complaints are frequent.
+3. Hotel inventory is thin outside major cities.
+4. B2B segment underserved.
 
 ---
 
-## Strategy Observation
+## Threat Level: Medium
 
+*Source data migrated from old format on 2026-06-25. Full research needed for competitive depth.*
+
+---
+
+## Pricing Signals
+
+| Item | Price/Metric | Date | Source |
+|------|-------------|------|--------|
+| *TODO* | *Research needed* | 2026-06 | |
+
+---
+
+## Customer Segments
+
+*TODO: Research from BD market sources*
+
+---
+
+## Operations & Supply Chain
+
+*TODO: Research from BD market sources*
+
+---
+
+## Financial/Funding Signals
+
+| Metric | Detail |
+|--------|--------|
+| *TODO* | *Research needed* |
+
+---
+
+## Reviews & Sentiment
+
+*TODO: Research from BD market sources*
+
+---
+
+## Compliance/Regulatory Notes
+
+*TODO: Research from BD market sources*
+
+---
+
+## Evidence & Sources
+
+- *TODO: Add verifiable sources*
+
+*Last updated: 2026-06-25 — migrated from old format*
+
+---
+
+## ⚠️ Raw Old-Format Data (To Be Refined Into Sections Above)
+
+### Strategy Observation
 Full-stack OTA: flights + hotels + buses. Volume play with discount-driven acquisition. Profitability questionable at current burn rate.
 
 ---
 
-## Threat Level: High
-
----
-
-*Last updated: 2026-05-06*

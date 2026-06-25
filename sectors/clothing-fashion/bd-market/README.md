@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-06-25
 freshness: fresh
-confidence: 0.734
-evidence_ids: ['65937a6b-5c7', 'a0668be8-4af', '22955608-877', 'b7b900a3-cfe', '66c85e03-fec']
+confidence: 0.741
+evidence_ids: ['5dd72828-9f4', '161c7579-090', '5b7c1251-ee9', 'cde76b48-09a', '30527f19-060', '6d7cec8b-7d9', '6dbcea65-a38', '93e5644e-fbc', 'c80f2b99-fa1']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -96,20 +96,23 @@ evidence_ids: ['65937a6b-5c7', 'a0668be8-4af', '22955608-877', 'b7b900a3-cfe', '
 
 
 
+
 ## Auto-Updated Data (2026-06-25)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| baggy pants | search | 0.90 |
-| boys | search | 0.90 |
-| affordable | search | 0.80 |
-| home delivery all over Bangladesh | search | 0.90 |
-| women's clothing | search | 0.90 |
-| ['best match', 'price', 'free shipping', 'fast delivery', 'free return'] | search | 0.90 |
-| ['t-shirts', 'polo shirts', 'casual shirts', 'summer wear'] | search | 0.90 |
-| fast delivery across Bangladesh | search | 0.90 |
-| one of the top clothing manufacturing hubs in the world | search | 0.90 |
-| ['competitive pricing', 'skilled workforce', 'advanced manufacturing capabilitie | search | 0.90 |
-| luxury clothing | search | 0.90 |
-| ['popularity', 'average rating', 'latest', 'price: low to high', 'price: high to | search | 0.90 |
-| Black Aura – Black & Cream Polka Dot Luxury Pret 3-Piece | search | 0.90 |
+| 300 COTTON TERRY CLOTH CLEANING RAGS / SHOP TOWELS / 12X12- 25 DOZ. / WHOLESALE | search | 0.90 |
+| Bangladesh | search | 0.95 |
+| RD style women black dress warm size M Knitted | search | 0.90 |
+| Bangladesh | search | 0.95 |
+| Baggy Pants | search | 0.95 |
+| casual wear for boys, comfortable daily wear, premium quality fabric, affordable | search | 0.90 |
+| home delivery all over Bangladesh | search | 0.95 |
+| t-shirts, polo shirts, casual shirts, summer wear | search | 0.95 |
+| fast delivery across Bangladesh | search | 0.95 |
+| T-shirt Manufacturer | search | 0.95 |
+| Bangladesh | search | 0.95 |
+| trusted and reliable clothing manufacturers in Bangladesh | search | 0.90 |
+| best factory prices and the highest-quality custom apparel | search | 0.90 |
+| Women's Clothing | search | 0.95 |
+| Dhaka, Bangladesh | search | 0.95 |

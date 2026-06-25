@@ -1,19 +1,21 @@
 ---
+entity_type: competitor
 sector: jewellery
-last_verified: 2026-05-06
-freshness: fresh
-confidence: 0.5
-evidence_ids: []
+entity_slug: 2026-05-06-prioti-jewellers
+last_verified_at: 2026-06-25T12:00:00Z
+freshness_status: fresh
+confidence_score: 0.50
+primary_sources:
+  - []
 ---
-
 # Competitor: Prioti Jewellers
 
 ## Metadata
 
-- **Date:** 2026-05-06
-- **Last updated:** 2026-05-06
+- **Date:** 2026-06-25
+- **Last updated:** 2026-06-25
 - **Competitor name:** Prioti Jewellers
-- **Sector:** Jewellery
+- **Sector:** jewellery
 
 ---
 
@@ -22,29 +24,83 @@ evidence_ids: []
 | Field | Detail |
 |-------|--------|
 | Category | Gold/Traditional |
-| Facebook | facebook.com/priotijewellers |
+| Facebook/URL | facebook.com/priotijewellers |
 | Followers | 300K+ |
+| Location |  |
+| Verified | Unknown |
 
 ---
 
 ## Strengths
 
-Growing brand, strong Facebook marketing, competitive pricing, bridal focus
+1. Growing brand, strong Facebook marketing, competitive pricing, bridal focus
 
 ## Weaknesses
 
-Regional (Dhaka-centric), limited e-commerce, quality perception not yet established
+1. Regional (Dhaka-centric), limited e-commerce, quality perception not yet established
 
 ---
-
-## Strategy Observation
-
-Aggressive Facebook marketing + competitive pricing. Growing fast but still building trust.
 
 ---
 
 ## Threat Level: Medium
 
+*Source data migrated from old format on 2026-06-25. Full research needed for competitive depth.*
+
 ---
 
-*Last updated: 2026-05-06*
+## Pricing Signals
+
+| Item | Price/Metric | Date | Source |
+|------|-------------|------|--------|
+| *TODO* | *Research needed* | 2026-06 | |
+
+---
+
+## Customer Segments
+
+*TODO: Research from BD market sources*
+
+---
+
+## Operations & Supply Chain
+
+*TODO: Research from BD market sources*
+
+---
+
+## Financial/Funding Signals
+
+| Metric | Detail |
+|--------|--------|
+| *TODO* | *Research needed* |
+
+---
+
+## Reviews & Sentiment
+
+*TODO: Research from BD market sources*
+
+---
+
+## Compliance/Regulatory Notes
+
+*TODO: Research from BD market sources*
+
+---
+
+## Evidence & Sources
+
+- *TODO: Add verifiable sources*
+
+*Last updated: 2026-06-25 — migrated from old format*
+
+---
+
+## ⚠️ Raw Old-Format Data (To Be Refined Into Sections Above)
+
+### Strategy Observation
+Aggressive Facebook marketing + competitive pricing. Growing fast but still building trust.
+
+---
+

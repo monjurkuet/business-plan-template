@@ -3,233 +3,411 @@
   "total": 8,
   "competitors": [
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-aarong",
       "name": "aarong",
       "sector": "clothing-fashion",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "clothing-fashion",
-        "last_verified": "2026-05-06",
-        "freshness": "critical",
-        "confidence": "0.2",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-aarong",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "critical",
+        "confidence_score": "0.20",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-aarong",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "critical",
+      "confidence_score": 0.2,
+      "strengths": [
+        "1. Strongest brand in BD fashion.",
+        "2. BRAC-backed with nationwide stores + e-commerce.",
+        "3. Artisan/heritage positioning with massive supply chain.",
+        "4. Established trust and quality perception."
+      ],
+      "weaknesses": [
+        "1. Premium pricing limits mass market reach.",
+        "2. Slow to adopt trends — seasonal collections lag behind fast-fashion cycles.",
+        "3. Younger audience (18-25) drifting to faster, cheaper brands.",
+        "4. E-commerce UX is dated compared to D2C competitors."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-aarong.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-dorjee",
       "name": "dorjee",
       "sector": "clothing-fashion",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "clothing-fashion",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-dorjee",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-dorjee",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Fresh, bold designs.",
+        "2. Strong Gen-Z appeal.",
+        "3. Limited-drop model creates urgency and sells out fast.",
+        "4. Community-driven brand building."
+      ],
+      "weaknesses": [
+        "1. Small team, fulfillment issues during drops.",
+        "2. Limited scale — can't grow beyond niche without investment.",
+        "3. Quality varies between drops.",
+        "4. No physical retail."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-dorjee.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-ecstasy",
       "name": "ecstasy",
       "sector": "clothing-fashion",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "clothing-fashion",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-ecstasy",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-ecstasy",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Pioneer BD streetwear brand.",
+        "2. Strong brand identity and youth cult following.",
+        "3. Good online sales and social media presence.",
+        "4. First-mover in premium urban fashion."
+      ],
+      "weaknesses": [
+        "1. Perceived price inflation — paying for brand, not quality.",
+        "2. Limited size range (excludes plus-size).",
+        "3. Occasional quality issues with prints/fabric.",
+        "4. Increasing competition from smaller streetwear brands."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-ecstasy.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-labh",
       "name": "labh",
       "sector": "clothing-fashion",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "clothing-fashion",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-labh",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-labh",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Instagram-first brand with premium quality basics.",
+        "2. Strong influencer collaborations.",
+        "3. Minimal, clean aesthetic that resonates with urban professionals.",
+        "4. High repeat-purchase rate."
+      ],
+      "weaknesses": [
+        "1. Small catalog limits cross-selling.",
+        "2. Premium pricing narrows addressable market.",
+        "3. Limited physical presence — relies entirely on online sales.",
+        "4. Supply chain bottlenecks during peak seasons."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-labh.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-lubnan",
       "name": "lubnan",
       "sector": "clothing-fashion",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "clothing-fashion",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-lubnan",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-lubnan",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Strong in hijab/modest wear segment.",
+        "2. Growing store network in Dhaka.",
+        "3. Underserved niche with massive demand.",
+        "4. Good Facebook marketing and community building."
+      ],
+      "weaknesses": [
+        "1. Limited trend responsiveness — designs feel dated.",
+        "2. Quality inconsistency.",
+        "3. Brand not well-known outside the modest fashion niche.",
+        "4. E-commerce needs improvement."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-lubnan.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-sadakalo",
       "name": "sadakalo",
       "sector": "clothing-fashion",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "clothing-fashion",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-sadakalo",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-sadakalo",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Unique black-and-white aesthetic.",
+        "2. Strong brand identity and loyal customer base.",
+        "3. Stands out in a market full of colorful prints.",
+        "4. Good for people who want understated elegance."
+      ],
+      "weaknesses": [
+        "1. Niche appeal limits growth ceiling.",
+        "2. Design stagnation — same aesthetic for years.",
+        "3. Pricing concerns for the quality delivered.",
+        "4. Not expanding into new categories."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-sadakalo.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-sailor",
       "name": "sailor",
       "sector": "clothing-fashion",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "clothing-fashion",
-        "last_verified": "2026-06-25",
-        "freshness": "fresh"
+        "entity_slug": "2026-05-06-sailor",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-sailor",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Affordable pricing with trendy designs.",
+        "2. Growing online presence.",
+        "3. Good social media marketing and Reels content.",
+        "4. Accessible to mass-market youth."
+      ],
+      "weaknesses": [
+        "1. Quality inconsistency across product lines.",
+        "2. Fast-fashion sustainability concerns.",
+        "3. Brand perception as 'budget' limits aspirational value.",
+        "4. Returns/exchange issues."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-sailor.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-yellow",
       "name": "yellow",
       "sector": "clothing-fashion",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "clothing-fashion",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-yellow",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-yellow",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Strong youth appeal.",
+        "2. Trendy casual wear at accessible price points.",
+        "3. Good store presence in Dhaka/CTG.",
+        "4. Beximco Textile backing ensures supply chain reliability."
+      ],
+      "weaknesses": [
+        "1. Limited online presence vs D2C brands.",
+        "2. Design repeats season-over-season.",
+        "3. Seasonal inventory bloat leads to heavy discounting.",
+        "4. Not seen as aspirational by Gen-Z."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-yellow.md"
     }
   ]

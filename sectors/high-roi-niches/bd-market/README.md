@@ -2,8 +2,8 @@
 sector: high-roi-niches
 last_verified: 2026-06-25
 freshness: fresh
-confidence: 0.739
-evidence_ids: ['56db24cf-dc4', '997bd102-954', '0d3efa45-fec']
+confidence: 0.696
+evidence_ids: ['3ce290fc-76d', '0d6dc36f-33f']
 ---
 
 # High-ROI Niches — Bangladesh Market
@@ -80,14 +80,17 @@ This sector captures high-growth, high-margin niche opportunities in Bangladesh.
 
 
 
+
 ## Auto-Updated Data (2026-06-25)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| affordable prices | search | 0.90 |
-| ['fast delivery', 'top-notch customer service'] | search | 0.95 |
-| ['pet products', 'food', 'toys', 'accessories'] | search | 0.95 |
-| best prices | search | 0.90 |
-| ['home delivery'] | search | 0.95 |
-| ['cat food', 'toys', 'grooming products', 'accessories'] | search | 0.95 |
-| ['top-rated customer service'] | search | 0.90 |
+| free of charge | search | 0.95 |
+| online veterinary services | search | 0.95 |
+| PetCareBangladesh | search | 0.90 |
+| MH Imran | search | 0.90 |
+| Managing Director | search | 0.90 |
+| Agrovet Bio Solutions | search | 0.80 |
+| Sifat Ara Khanam | search | 0.80 |
+| Consultant | search | 0.80 |
+| Bangladesh Veterinary and Pet Care Network (BVPN) | search | 0.90 |

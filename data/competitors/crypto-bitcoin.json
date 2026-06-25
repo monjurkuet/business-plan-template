@@ -3,6 +3,7 @@
   "total": 11,
   "competitors": [
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-binance-bd",
       "name": "binance-bd",
       "sector": "crypto-bitcoin",
@@ -32,6 +33,7 @@
       "file_path": "sectors/crypto-bitcoin/bd-market/competitors/2026-05-06-binance-bd.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-blockchain-dev-shops",
       "name": "blockchain-dev-shops",
       "sector": "crypto-bitcoin",
@@ -61,6 +63,7 @@
       "file_path": "sectors/crypto-bitcoin/bd-market/competitors/2026-05-06-blockchain-dev-shops.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-crypto-education",
       "name": "crypto-education",
       "sector": "crypto-bitcoin",
@@ -90,6 +93,7 @@
       "file_path": "sectors/crypto-bitcoin/bd-market/competitors/2026-05-06-crypto-education.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-local-p2p-otc",
       "name": "local-p2p-otc",
       "sector": "crypto-bitcoin",
@@ -119,6 +123,7 @@
       "file_path": "sectors/crypto-bitcoin/bd-market/competitors/2026-05-06-local-p2p-otc.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-06-25-bd-crypto-signal-groups",
       "name": "bd-crypto-signal-groups",
       "sector": "crypto-bitcoin",
@@ -197,6 +202,7 @@
       "file_path": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-bd-crypto-signal-groups.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-06-25-bybit-bd",
       "name": "bybit-bd",
       "sector": "crypto-bitcoin",
@@ -275,6 +281,7 @@
       "file_path": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-bybit-bd.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-06-25-cryptotech24-bd",
       "name": "cryptotech24-bd",
       "sector": "crypto-bitcoin",
@@ -358,6 +365,7 @@
       "file_path": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-cryptotech24-bd.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-06-25-kucoin-bd",
       "name": "kucoin-bd",
       "sector": "crypto-bitcoin",
@@ -436,6 +444,7 @@
       "file_path": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-kucoin-bd.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-06-25-okx-bd",
       "name": "okx-bd",
       "sector": "crypto-bitcoin",
@@ -520,6 +529,7 @@
       "file_path": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-okx-bd.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-06-25-paxful-bd",
       "name": "paxful-bd",
       "sector": "crypto-bitcoin",
@@ -604,6 +614,7 @@
       "file_path": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-paxful-bd.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-06-25-remitano-bd",
       "name": "remitano-bd",
       "sector": "crypto-bitcoin",

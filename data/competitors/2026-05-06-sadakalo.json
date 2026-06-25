@@ -1,29 +1,51 @@
 {
+  "doc_type": "competitor",
   "slug": "2026-05-06-sadakalo",
   "name": "sadakalo",
   "sector": "clothing-fashion",
   "frontmatter": {
+    "entity_type": "competitor",
     "sector": "clothing-fashion",
-    "last_verified": "2026-05-06",
-    "freshness": "fresh",
-    "confidence": "0.5",
-    "evidence_ids": "[]"
+    "entity_slug": "2026-05-06-sadakalo",
+    "last_verified_at": "2026-06-25T12:00:00Z",
+    "freshness_status": "fresh",
+    "confidence_score": "0.50",
+    "primary_sources": "- []"
   },
   "profile_category": "",
   "entity_slug": "2026-05-06-sadakalo",
-  "last_verified_at": "",
-  "freshness_status": "unknown",
-  "confidence_score": 0.0,
-  "strengths": [],
-  "weaknesses": [],
+  "last_verified_at": "2026-06-25T12:00:00Z",
+  "freshness_status": "fresh",
+  "confidence_score": 0.5,
+  "strengths": [
+    "1. Unique black-and-white aesthetic.",
+    "2. Strong brand identity and loyal customer base.",
+    "3. Stands out in a market full of colorful prints.",
+    "4. Good for people who want understated elegance."
+  ],
+  "weaknesses": [
+    "1. Niche appeal limits growth ceiling.",
+    "2. Design stagnation — same aesthetic for years.",
+    "3. Pricing concerns for the quality delivered.",
+    "4. Not expanding into new categories."
+  ],
   "threat_level": "",
   "threat_overlap_score": null,
-  "pricing_signals": [],
+  "pricing_signals": [
+    {
+      "item": "*TODO*",
+      "value": "*Research needed*",
+      "date": "2026-06",
+      "source": ""
+    }
+  ],
   "customer_segments": [],
-  "operations_notes": "",
-  "financial_signals": "",
-  "sentiment_summary": "",
-  "compliance_notes": "",
-  "evidence_sources": [],
+  "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+  "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+  "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+  "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+  "evidence_sources": [
+    "*TODO: Add verifiable sources*"
+  ],
   "file_path": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-sadakalo.md"
 }

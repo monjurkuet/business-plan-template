@@ -1,23 +1,318 @@
 {
-  "generated_at": "2026-06-25T09:29:40.838420+00:00",
+  "generated_at": "2026-06-25T10:15:38.518966+00:00",
   "summary": {
     "files_checked": 139,
-    "violations": 26,
+    "violations": 187,
     "warnings": 0
   },
   "violations": [
+    {
+      "file": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-auto-mania.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-auto-mania.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-auto-mania.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-car-care-bd.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-car-care-bd.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-car-care-bd.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-car-expert-bd.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-car-expert-bd.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-car-expert-bd.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-garirbazar.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-garirbazar.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
     {
       "file": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-garirbazar.md",
       "type": "missing_field",
       "detail": "Missing required field: confidence"
     },
     {
+      "file": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-irfan-imports.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-irfan-imports.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-irfan-imports.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-jda-oil-bangladesh.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-jda-oil-bangladesh.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-jda-oil-bangladesh.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-mitsubishi-rangs.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-mitsubishi-rangs.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-mitsubishi-rangs.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-naspro-auto-detailing.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-naspro-auto-detailing.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-naspro-auto-detailing.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-parts-choice.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-parts-choice.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-parts-choice.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-ride-on-reference.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-ride-on-reference.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-ride-on-reference.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-romel-car-house.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-romel-car-house.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-romel-car-house.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-shell-ranks-petroleum.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-shell-ranks-petroleum.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-shell-ranks-petroleum.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
       "file": "sectors/automotive-car-care/bd-market/financial-model.md",
-      "type": "missing_frontmatter",
-      "detail": "No YAML frontmatter found"
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/automotive-car-care/bd-market/financial-model.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-aarong.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-aarong.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-aarong.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-dorjee.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-dorjee.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-dorjee.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-ecstasy.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-ecstasy.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-ecstasy.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-labh.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-labh.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-labh.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-lubnan.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-lubnan.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-lubnan.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-sadakalo.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-sadakalo.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-sadakalo.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
     },
     {
       "file": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-sailor.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-sailor.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-sailor.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-yellow.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-yellow.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-yellow.md",
       "type": "missing_field",
       "detail": "Missing required field: confidence"
     },
@@ -128,11 +423,521 @@
     },
     {
       "file": "sectors/crypto-bitcoin/bd-market/financial-model.md",
-      "type": "missing_frontmatter",
-      "detail": "No YAML frontmatter found"
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/crypto-bitcoin/bd-market/financial-model.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-daraz.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-daraz.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-daraz.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-gadget-and-gear.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-gadget-and-gear.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-gadget-and-gear.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-gadget-monkey.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-gadget-monkey.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-gadget-monkey.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-iphone-market-bd.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-iphone-market-bd.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-iphone-market-bd.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
     },
     {
       "file": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-pickaboo.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-pickaboo.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-pickaboo.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-ryans-computers.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-ryans-computers.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-ryans-computers.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-star-tech.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-star-tech.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-star-tech.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/high-roi-niches/bd-market/competitors/2026-05-06-10-minute-school.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/high-roi-niches/bd-market/competitors/2026-05-06-10-minute-school.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/high-roi-niches/bd-market/competitors/2026-05-06-10-minute-school.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/high-roi-niches/bd-market/competitors/2026-05-06-bd-freelancer-community.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/high-roi-niches/bd-market/competitors/2026-05-06-bd-freelancer-community.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/high-roi-niches/bd-market/competitors/2026-05-06-bd-freelancer-community.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/high-roi-niches/bd-market/competitors/2026-05-06-foodpanda-bd.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/high-roi-niches/bd-market/competitors/2026-05-06-foodpanda-bd.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/high-roi-niches/bd-market/competitors/2026-05-06-foodpanda-bd.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/high-roi-niches/bd-market/competitors/2026-05-06-pathao-food.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/high-roi-niches/bd-market/competitors/2026-05-06-pathao-food.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/high-roi-niches/bd-market/competitors/2026-05-06-pathao-food.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/high-roi-niches/bd-market/competitors/2026-05-06-pet-club-bd.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/high-roi-niches/bd-market/competitors/2026-05-06-pet-club-bd.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/high-roi-niches/bd-market/competitors/2026-05-06-pet-club-bd.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/high-roi-niches/bd-market/competitors/2026-05-06-shikho.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/high-roi-niches/bd-market/competitors/2026-05-06-shikho.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/high-roi-niches/bd-market/competitors/2026-05-06-shikho.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/high-roi-niches/bd-market/competitors/2026-05-06-walton-smart-home.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/high-roi-niches/bd-market/competitors/2026-05-06-walton-smart-home.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/high-roi-niches/bd-market/competitors/2026-05-06-walton-smart-home.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/jewellery/bd-market/competitors/2026-05-06-aarong-jewellery.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/jewellery/bd-market/competitors/2026-05-06-aarong-jewellery.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/jewellery/bd-market/competitors/2026-05-06-aarong-jewellery.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/jewellery/bd-market/competitors/2026-05-06-anjalee-swar.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/jewellery/bd-market/competitors/2026-05-06-anjalee-swar.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/jewellery/bd-market/competitors/2026-05-06-anjalee-swar.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/jewellery/bd-market/competitors/2026-05-06-ditmela.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/jewellery/bd-market/competitors/2026-05-06-ditmela.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/jewellery/bd-market/competitors/2026-05-06-ditmela.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/jewellery/bd-market/competitors/2026-05-06-jewel-fashion.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/jewellery/bd-market/competitors/2026-05-06-jewel-fashion.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/jewellery/bd-market/competitors/2026-05-06-jewel-fashion.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/jewellery/bd-market/competitors/2026-05-06-prioti-jewellers.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/jewellery/bd-market/competitors/2026-05-06-prioti-jewellers.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/jewellery/bd-market/competitors/2026-05-06-prioti-jewellers.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/jewellery/bd-market/competitors/2026-05-06-zereze.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/jewellery/bd-market/competitors/2026-05-06-zereze.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/jewellery/bd-market/competitors/2026-05-06-zereze.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/media-marketing-digital/bd-market/competitors/2026-05-06-bongo.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/media-marketing-digital/bd-market/competitors/2026-05-06-bongo.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/media-marketing-digital/bd-market/competitors/2026-05-06-bongo.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/media-marketing-digital/bd-market/competitors/2026-05-06-bytecraft.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/media-marketing-digital/bd-market/competitors/2026-05-06-bytecraft.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/media-marketing-digital/bd-market/competitors/2026-05-06-bytecraft.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/media-marketing-digital/bd-market/competitors/2026-05-06-flyste.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/media-marketing-digital/bd-market/competitors/2026-05-06-flyste.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/media-marketing-digital/bd-market/competitors/2026-05-06-flyste.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/media-marketing-digital/bd-market/competitors/2026-05-06-popupads.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/media-marketing-digital/bd-market/competitors/2026-05-06-popupads.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/media-marketing-digital/bd-market/competitors/2026-05-06-popupads.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/media-marketing-digital/bd-market/competitors/2026-05-06-shikho.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/media-marketing-digital/bd-market/competitors/2026-05-06-shikho.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/media-marketing-digital/bd-market/competitors/2026-05-06-shikho.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/media-marketing-digital/bd-market/competitors/2026-05-06-tracker10.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/media-marketing-digital/bd-market/competitors/2026-05-06-tracker10.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/media-marketing-digital/bd-market/competitors/2026-05-06-tracker10.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/media-marketing-digital/bd-market/competitors/2026-05-06-webasha.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/media-marketing-digital/bd-market/competitors/2026-05-06-webasha.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/media-marketing-digital/bd-market/competitors/2026-05-06-webasha.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/travel-tourism/bd-market/competitors/2026-05-06-discovery-bangladesh.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/travel-tourism/bd-market/competitors/2026-05-06-discovery-bangladesh.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/travel-tourism/bd-market/competitors/2026-05-06-discovery-bangladesh.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/travel-tourism/bd-market/competitors/2026-05-06-flight-expert.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/travel-tourism/bd-market/competitors/2026-05-06-flight-expert.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/travel-tourism/bd-market/competitors/2026-05-06-flight-expert.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/travel-tourism/bd-market/competitors/2026-05-06-gozayaan.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/travel-tourism/bd-market/competitors/2026-05-06-gozayaan.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/travel-tourism/bd-market/competitors/2026-05-06-gozayaan.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/travel-tourism/bd-market/competitors/2026-05-06-obokash.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/travel-tourism/bd-market/competitors/2026-05-06-obokash.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/travel-tourism/bd-market/competitors/2026-05-06-obokash.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/travel-tourism/bd-market/competitors/2026-05-06-sharetrip.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/travel-tourism/bd-market/competitors/2026-05-06-sharetrip.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/travel-tourism/bd-market/competitors/2026-05-06-sharetrip.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/travel-tourism/bd-market/competitors/2026-05-06-the-travel-earth.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/travel-tourism/bd-market/competitors/2026-05-06-the-travel-earth.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/travel-tourism/bd-market/competitors/2026-05-06-the-travel-earth.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/travel-tourism/bd-market/competitors/2026-05-06-zakia-travels.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/travel-tourism/bd-market/competitors/2026-05-06-zakia-travels.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/travel-tourism/bd-market/competitors/2026-05-06-zakia-travels.md",
       "type": "missing_field",
       "detail": "Missing required field: confidence"
     }

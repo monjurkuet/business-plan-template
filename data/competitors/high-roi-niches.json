@@ -3,206 +3,361 @@
   "total": 7,
   "competitors": [
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-10-minute-school",
       "name": "10-minute-school",
       "sector": "high-roi-niches",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "high-roi-niches",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-10-minute-school",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-10-minute-school",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Largest EdTech platform in BD.",
+        "2. Free + premium content model.",
+        "3. HSC/SSC + skill courses.",
+        "4. Well-funded with strong brand.",
+        "5. Massive student audience."
+      ],
+      "weaknesses": [
+        "1. Content quality inconsistency.",
+        "2. Free content cannibalizes premium.",
+        "3. Low conversion rate to paid.",
+        "4. Competing with free YouTube."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/high-roi-niches/bd-market/competitors/2026-05-06-10-minute-school.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-bd-freelancer-community",
       "name": "bd-freelancer-community",
       "sector": "high-roi-niches",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "high-roi-niches",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-bd-freelancer-community",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-bd-freelancer-community",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Bangladesh is #2 globally on Freelancer.com with 650K+ active freelancers.",
+        "2. Growing skill base in digital marketing, development, design.",
+        "3. Government support programs."
+      ],
+      "weaknesses": [
+        "1. Price competition is fierce.",
+        "2. Quality perception is mixed.",
+        "3. Platform dependency (Upwork/Fiverr policy changes).",
+        "4. No organized agency incubator."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/high-roi-niches/bd-market/competitors/2026-05-06-bd-freelancer-community.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-foodpanda-bd",
       "name": "foodpanda-bd",
       "sector": "high-roi-niches",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "high-roi-niches",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-foodpanda-bd",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-foodpanda-bd",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Largest food delivery platform in BD.",
+        "2. Massive restaurant network.",
+        "3. Delivery logistics infrastructure.",
+        "4. Brand recognition."
+      ],
+      "weaknesses": [
+        "1. 25-30% commission hurts restaurants.",
+        "2. Customer service issues.",
+        "3. Delivery time unreliability.",
+        "4. Restaurant quality inconsistency on platform."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/high-roi-niches/bd-market/competitors/2026-05-06-foodpanda-bd.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-pathao-food",
       "name": "pathao-food",
       "sector": "high-roi-niches",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "high-roi-niches",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-pathao-food",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-pathao-food",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Growing food delivery service.",
+        "2. Competitive commission rates.",
+        "3. Strong in Dhaka.",
+        "4. Ride-sharing user base cross-sells."
+      ],
+      "weaknesses": [
+        "1. Smaller than Foodpanda.",
+        "2. Restaurant network is thinner.",
+        "3. Delivery reliability issues.",
+        "4. Limited outside Dhaka."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/high-roi-niches/bd-market/competitors/2026-05-06-pathao-food.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-pet-club-bd",
       "name": "pet-club-bd",
       "sector": "high-roi-niches",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "high-roi-niches",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-pet-club-bd",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-pet-club-bd",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Largest pet community in BD.",
+        "2. Combined community + retail model.",
+        "3. Growing Facebook presence.",
+        "4. Trust among pet owners."
+      ],
+      "weaknesses": [
+        "1. Imported products only (no BD brand).",
+        "2. Limited product range.",
+        "3. E-commerce UX needs improvement.",
+        "4. No pet food manufacturing in BD."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/high-roi-niches/bd-market/competitors/2026-05-06-pet-club-bd.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-shikho",
       "name": "shikho",
       "sector": "high-roi-niches",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "high-roi-niches",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-shikho",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-shikho",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Quality-focused EdTech.",
+        "2. Live class model.",
+        "3. Growing in IELTS and professional skills.",
+        "4. Smaller but more targeted audience."
+      ],
+      "weaknesses": [
+        "1. Smaller scale than 10MS.",
+        "2. Content library is limited.",
+        "3. Marketing budget constrained.",
+        "4. Still finding product-market fit."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/high-roi-niches/bd-market/competitors/2026-05-06-shikho.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-walton-smart-home",
       "name": "walton-smart-home",
       "sector": "high-roi-niches",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "high-roi-niches",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-walton-smart-home",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-walton-smart-home",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. BD's largest electronics manufacturer.",
+        "2. Massive retail network.",
+        "3. Brand trust.",
+        "4. Government contracts.",
+        "5. Budget-friendly pricing."
+      ],
+      "weaknesses": [
+        "1. Not innovation-leading.",
+        "2. Smart home products are basic.",
+        "3. Not perceived as premium or tech-forward.",
+        "4. Slow to adopt IoT trends."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/high-roi-niches/bd-market/competitors/2026-05-06-walton-smart-home.md"
     }
   ]

@@ -1,77 +1,50 @@
 ---
+entity_type: competitor
 sector: automotive-car-care
-last_verified: 2026-05-06
-freshness: fresh
-confidence: 0.5
-evidence_ids: []
+entity_slug: 2026-05-06-ride-on-reference
+last_verified_at: 2026-06-25T12:00:00Z
+freshness_status: fresh
+confidence_score: 0.50
+primary_sources:
+  - []
 ---
-
-# Competitor: Ride On (Reference / Inspiration)
-
-> This is the inspiration brand, not a direct competitor. Included for analysis of what they do well and where they can be improved upon.
+# Competitor: Ride On Reference
 
 ## Metadata
 
-- **Date:** 2026-05-06
-- **Last updated:** 2026-05-06
-- **Competitor name:** Ride On
-- **Sector:** Automotive — Car Care Products + Reconditioned Car Pre-Order
+- **Date:** 2026-06-25
+- **Last updated:** 2026-06-25
+- **Competitor name:** Ride On Reference
+- **Sector:** automotive-car-care
 
 ---
 
 ## Profile
 
-**Company name:** Ride On
-**Website:** rideonbd.com
-**Facebook:** facebook.com/rideonbd
-**Location:** 19/3 Rahman Lucid Tower, Flat D-10, Kakrail, Dhaka, Bangladesh
-**Category:** Automotive Service
-**Contact:** 09647-800700 (helpline), +880 1818-800700 (WhatsApp)
-
----
-
-## Market Position
-
-**Followers (Facebook):** 75K
-**Reviews:** Not visible
-**Verified:** No
-**Geographic reach:** Dhaka (national delivery via e-commerce)
-**Target customer:** Car owners wanting quality Japanese car care products + reconditioned car buyers
-
----
-
-## Product/Service Lines
-
-1. **Pro Ride G Carbon Cleaner** — ৳1,200 (was ৳1,600)
-2. **Car Perfume — Luxury Series** — ৳1,800 (was ৳2,000)
-3. **Electric Back Massage Cushion** — ৳12,900 (was ৳15,900)
-4. **pH Neutral Car Shampoo** — protects paint from alkaline damage
-5. **Microfiber Drying Towels** — 7-8x more absorbent than regular cloth
-6. **Fuel system cleaner, Injector cleaner** — under Pro Ride G brand
-7. **Reconditioned car pre-order service** — Japanese imports with auction sheet transparency
-
-**Pricing tier/range:** Mid-to-premium (discounted from MRP)
-**Unique offerings:** Only brand combining car care products + reconditioned car import + aftercare guarantees
-
----
-
-## Guarantees (Reconditioned Car Pre-Order)
-
-- 1-year Engine & Gearbox Replacement Guarantee
-- 2-year Hybrid Battery Guarantee (for hybrid vehicles)
-- 3 free General Services with product purchase
-- Auction sheet verification at office — transparent process
+| Field | Detail |
+|-------|--------|
+| Category |  |
+| Facebook/URL |  |
+| Followers |  |
+| Location |  |
+| Verified | Unknown |
 
 ---
 
 ## Strengths
 
 1. **Unique positioning** — car care + car import + aftercare = no direct competitor does all three
+2.
 2. **E-commerce website** — rideonbd.com with product catalog, blog, contact
+3.
 3. **Guarantee program** — strongest warranty in the reconditioned car space
+4.
 4. **Bengali content** — doctor testimonial reels, product education in local language
+5.
 5. **Blog section** — educational content about car maintenance (rare in BD market)
+6.
 6. **Helpline number** — 09647-800700 (professional touch)
+7.
 7. **Discount pricing strategy** — cross-out MRP shows value
 
 ---
@@ -79,42 +52,73 @@ evidence_ids: []
 ## Weaknesses
 
 1. **75K followers** — behind RomeL (108K) and IRFAN (83K) for car import audience
+2.
 2. **No physical service center** — guarantees exist but no place to claim them
+3.
 3. **No bank loan/finance options** — this is why RomeL wins on car sales
+4.
 4. **Product range is narrow** — only 4-5 SKUs visible on website
+5.
 5. **No hybrid battery/brake booster products** — missing the fastest-growing niche
+6.
 6. **Website doesn't clearly separate** car care shop from pre-order service
+7.
 7. **No subscription/loyalty program**
+8.
 8. **Not verified** — no blue badge
 
 ---
 
-## Strategy Observations
+---
 
-**Marketing channels:** Facebook Page + website + WhatsApp
-**Content strategy:** Bengali reels (doctor testimonials, product education), car pre-order announcements, promotional posts
-**Sales model:** E-commerce + Facebook + WhatsApp + office visits for pre-order
-**Partnerships:** None visible
-**Guarantee/warranty policy:** Strong (1yr engine/gearbox, 2yr hybrid battery, 3 free services)
-**Finance/loan options:** No
+## Threat Level: Medium
+
+*Source data migrated from old format on 2026-06-25. Full research needed for competitive depth.*
 
 ---
 
-## Key Takeaways
+## Pricing Signals
 
-1. **The "import + aftercare" combo is the killer positioning** — no one else offers this
-2. **Guarantees are the strongest trust builder** — this needs to be amplified
-3. **Missing bank financing** — biggest gap vs. RomeL
-4. **Missing service center** — guarantees without a physical location feel hollow
-5. **Product range needs expansion** — hybrid parts, more accessories, bundles
-6. **Content strategy works** — Bengali doctor/testimonial reels are effective and should be scaled
+| Item | Price/Metric | Date | Source |
+|------|-------------|------|--------|
+| *TODO* | *Research needed* | 2026-06 | |
 
 ---
 
-## Threat Level: N/A (Reference Brand)
+## Customer Segments
 
-This is the inspiration brand, not a direct competitor. Included for analysis of strengths to build on and weaknesses to address.
+*TODO: Research from BD market sources*
 
 ---
 
-*Last updated: 2026-05-06*
+## Operations & Supply Chain
+
+*TODO: Research from BD market sources*
+
+---
+
+## Financial/Funding Signals
+
+| Metric | Detail |
+|--------|--------|
+| *TODO* | *Research needed* |
+
+---
+
+## Reviews & Sentiment
+
+*TODO: Research from BD market sources*
+
+---
+
+## Compliance/Regulatory Notes
+
+*TODO: Research from BD market sources*
+
+---
+
+## Evidence & Sources
+
+- *TODO: Add verifiable sources*
+
+*Last updated: 2026-06-25 — migrated from old format*

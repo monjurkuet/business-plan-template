@@ -2,8 +2,8 @@
 sector: travel-tourism
 last_verified: 2026-06-25
 freshness: fresh
-confidence: 0.741
-evidence_ids: ['070925c0-53e', '47987bac-59f', '7d219877-a0b', 'feca3a9e-0c6']
+confidence: 0.735
+evidence_ids: ['3c89014c-35e', 'e7259dd2-ec7', '2159a314-813', 'a4bb54a9-d0a', 'ad24a956-796', 'a43bf664-48b', 'b35251ae-b76', '04e561c3-097', 'e2ca4a23-f08']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -61,19 +61,23 @@ evidence_ids: ['070925c0-53e', '47987bac-59f', '7d219877-a0b', 'feca3a9e-0c6']
 
 
 
+
 ## Auto-Updated Data (2026-06-25)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| IATA | search | 1.00 |
-| 42337956 | search | 1.00 |
-| ATAB | search | 1.00 |
-| 4298 | search | 1.00 |
-| 8+ | search | 0.90 |
-| 4.8 | search | 1.00 |
-| 463+ | search | 0.90 |
-| tour and travel packages | search | 1.00 |
-| affordable | search | 0.80 |
-| customized tour packages, flight bookings, hotel reservations, visa assistance | search | 1.00 |
-| ['Bangladesh', 'Chittagong', 'Sharjah', 'Dubai', 'Noakhali', 'Ajman'] | search | 0.90 |
-| travel agency | search | 0.90 |
+| amazing tour and travel packages at affordable price | search | 0.90 |
+| affordable tour packages | search | 0.90 |
+| cheap air tickets | search | 0.90 |
+| amazing cheap airline tickets | search | 0.90 |
+| Bangladesh Travel Agency | search | 0.90 |
+| 99149 | search | 0.90 |
+| 34 | search | 0.90 |
+| কম খরচে সর্বোচ্চ সুবিধায় নিরাপদ এবং ... | search | 0.80 |
+| Gateway Holidays Ltd. | search | 0.90 |
+| 322853 | search | 0.90 |
+| 1376 | search | 0.90 |
+| 144 | search | 0.90 |
+| The best travel agency in Bangladesh, delivering luxurious travel experiences at | search | 0.90 |
+| Dhaka | search | 0.90 |
+| Best Travel Agency in Bangladesh (Traveltek BD) | search | 0.90 |

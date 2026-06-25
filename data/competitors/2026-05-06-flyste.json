@@ -1,29 +1,51 @@
 {
+  "doc_type": "competitor",
   "slug": "2026-05-06-flyste",
   "name": "flyste",
   "sector": "media-marketing-digital",
   "frontmatter": {
+    "entity_type": "competitor",
     "sector": "media-marketing-digital",
-    "last_verified": "2026-05-06",
-    "freshness": "fresh",
-    "confidence": "0.5",
-    "evidence_ids": "[]"
+    "entity_slug": "2026-05-06-flyste",
+    "last_verified_at": "2026-06-25T12:00:00Z",
+    "freshness_status": "fresh",
+    "confidence_score": "0.50",
+    "primary_sources": "- []"
   },
   "profile_category": "",
   "entity_slug": "2026-05-06-flyste",
-  "last_verified_at": "",
-  "freshness_status": "unknown",
-  "confidence_score": 0.0,
-  "strengths": [],
-  "weaknesses": [],
+  "last_verified_at": "2026-06-25T12:00:00Z",
+  "freshness_status": "fresh",
+  "confidence_score": 0.5,
+  "strengths": [
+    "1. Creative storytelling focus.",
+    "2. Video production capability.",
+    "3. Strong portfolio with recognizable brand campaigns.",
+    "4. Brand-building expertise."
+  ],
+  "weaknesses": [
+    "1. Small team limits capacity.",
+    "2. Project-based revenue (no recurring retainers).",
+    "3. Slow sales cycle for premium creative work.",
+    "4. High overhead for production quality."
+  ],
   "threat_level": "",
   "threat_overlap_score": null,
-  "pricing_signals": [],
+  "pricing_signals": [
+    {
+      "item": "*TODO*",
+      "value": "*Research needed*",
+      "date": "2026-06",
+      "source": ""
+    }
+  ],
   "customer_segments": [],
-  "operations_notes": "",
-  "financial_signals": "",
-  "sentiment_summary": "",
-  "compliance_notes": "",
-  "evidence_sources": [],
+  "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+  "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+  "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+  "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+  "evidence_sources": [
+    "*TODO: Add verifiable sources*"
+  ],
   "file_path": "sectors/media-marketing-digital/bd-market/competitors/2026-05-06-flyste.md"
 }

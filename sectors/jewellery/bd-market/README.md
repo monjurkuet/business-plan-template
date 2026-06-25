@@ -2,8 +2,8 @@
 sector: jewellery
 last_verified: 2026-06-25
 freshness: fresh
-confidence: 0.735
-evidence_ids: ['b287f764-aa6', '1640f74b-62d', 'aacf8da3-ef5', '3f26e8fc-a2b']
+confidence: 0.736
+evidence_ids: ['1e6b9c43-87a', '9e4e08ed-62b', 'cd2e3754-19a', 'dd8632e6-14c', 'd4463b96-973', '43cf75d0-b54']
 ---
 
 # Jewellery — Bangladesh Market
@@ -72,14 +72,23 @@ evidence_ids: ['b287f764-aa6', '1640f74b-62d', 'aacf8da3-ef5', '3f26e8fc-a2b']
 
 
 
+
 ## Auto-Updated Data (2026-06-25)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| pearl necklace | search | 0.90 |
-| Cox's Bazar, Bangladesh | search | 0.90 |
-| ['pendant necklaces', 'statement necklaces', 'choker necklaces'] | search | 0.90 |
+| Wish Pearl Necklace | search | 0.95 |
+| low price, affordable elegant jewelry, best budget jewelry BD | search | 0.90 |
+| pearl necklace | search | 0.95 |
 | Bangladeshi red gold | search | 0.90 |
-| ['verified suppliers', 'purity check', 'secure shopping', 'AR try-on', 'lifetime | search | 0.90 |
-| Wedding Jewellery Bangladesh | search | 0.90 |
-| Wedding Stage Decoration | search | 0.90 |
+| verified suppliers, purity check, secure shopping, AR try-on, lifetime buyback | search | 0.80 |
+| Best & Low Price | search | 0.90 |
+| ['01776060200', '01755559738', '01977722990'] | search | 0.95 |
+| 22k or 916 | search | 0.90 |
+| 33.85 gram | search | 0.95 |
+| 2 vori 14 ana 2.6 poyent (46.43 ana) | search | 0.90 |
+| 3 lakh BDT | search | 0.85 |
+| ['Dubai', 'Saudi'] | search | 0.90 |
+| 9% | search | 0.90 |
+| 2016 | search | 0.95 |
+| diamond jewelry | search | 0.90 |

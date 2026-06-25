@@ -1,65 +1,48 @@
 ---
+entity_type: competitor
 sector: automotive-car-care
-last_verified: 2026-05-06
-freshness: fresh
-confidence: 0.5
-evidence_ids: []
+entity_slug: 2026-05-06-car-expert-bd
+last_verified_at: 2026-06-25T12:00:00Z
+freshness_status: fresh
+confidence_score: 0.50
+primary_sources:
+  - []
 ---
-
-# Competitor: CAR Expert BD
+# Competitor: Car Expert Bd
 
 ## Metadata
 
-- **Date:** 2026-05-06
-- **Last updated:** 2026-05-06
-- **Competitor name:** CAR Expert BD
-- **Sector:** Automotive — Car Service & Detailing
+- **Date:** 2026-06-25
+- **Last updated:** 2026-06-25
+- **Competitor name:** Car Expert Bd
+- **Sector:** automotive-car-care
 
 ---
 
 ## Profile
 
-**Company name:** CAR Expert BD
-**Website:** carexpertbangladesh.com
-**Facebook:** facebook.com/carexpertbdofficial
-**Location:** 304, Maskanda (Amirabad Residential Area), Mymensingh, Bangladesh
-**Category:** Automotive Service
-**Employees:** Multiple (engineers + technicians team)
-**Funding/Ownership:** Likely bootstrapped
-**Contact:** 01789-671104, +880****3186 (WhatsApp)
-
----
-
-## Market Position
-
-**Followers (Facebook):** 36K
-**Reviews:** 100% recommend (5 reviews)
-**Verified:** No
-**Geographic reach:** Mymensingh Division (regional, NOT Dhaka)
-**Target customer:** Car owners in Mymensingh Division needing service/detailing
-
----
-
-## Product/Service Lines
-
-1. **Car service & repair** — Full mechanical service
-2. **Car polishing & detailing** — Ceramic coating, paint correction
-3. **Car wash** — Interior + exterior
-4. **Car sales** — Some vehicle sales (secondary)
-
-**Pricing tier/range:** Mid-range
-**Best-selling product:** Service packages (polishing + detailing)
-**Unique offerings:** "The Largest Car Service and Sales Centre in Mymensingh Division" — regional dominance
+| Field | Detail |
+|-------|--------|
+| Category |  |
+| Facebook/URL |  |
+| Followers |  |
+| Location |  |
+| Verified | Unknown |
 
 ---
 
 ## Strengths
 
 1. **Regional dominance** — biggest in Mymensingh, less competition outside Dhaka
+2.
 2. **Advanced technology positioning** — "অত্যাধুনিক টেকনোলজি" (advanced technology)
+3.
 3. **Experienced team messaging** — engineers + technicians
+4.
 4. **Google Maps integration** — easy discovery
+5.
 5. **Website** — carexpertbangladesh.com
+6.
 6. **Bengali video testimonials** — customer review videos in local language
 
 ---
@@ -67,26 +50,67 @@ evidence_ids: []
 ## Weaknesses
 
 1. **Mymensingh-only** — no Dhaka presence (largest market)
+2.
 2. **No product sales** — service only, no retail products to sell
+3.
 3. **No car import** — no cross-selling
+4.
 4. **Regional brand** — harder to scale nationally
+5.
 5. **36K followers** — small compared to Dhaka-based competitors
 
 ---
 
-## Strategy Observations
+---
 
-**Marketing channels:** Facebook Page + Google Maps + website
-**Content strategy:** Customer testimonial videos (Bengali), service showcases, hashtags (#carexpertbd #bestcarservice #bestinmymensingh)
-**Sales model:** Service center — in-person only
-**Partnerships:** None visible
-**Guarantee/warranty policy:** "Optimum Condition & safe driving" — vague
-**Finance/loan options:** No
+## Threat Level: Medium
+
+*Source data migrated from old format on 2026-06-25. Full research needed for competitive depth.*
 
 ---
 
-## Threat Level
+## Pricing Signals
 
-**Overlap with our idea:** 3/10 (different market, different model)
-**Ease of copying our approach:** 2/10 (they're service-only, regional)
-**Key takeaway:** CAR Expert BD proves the service-center model works outside Dhaka. Their Bengali testimonial video format is worth copying — it builds trust in a way English posts can't. If expanding beyond Dhaka, the "regional dominance" strategy is a viable model.
+| Item | Price/Metric | Date | Source |
+|------|-------------|------|--------|
+| *TODO* | *Research needed* | 2026-06 | |
+
+---
+
+## Customer Segments
+
+*TODO: Research from BD market sources*
+
+---
+
+## Operations & Supply Chain
+
+*TODO: Research from BD market sources*
+
+---
+
+## Financial/Funding Signals
+
+| Metric | Detail |
+|--------|--------|
+| *TODO* | *Research needed* |
+
+---
+
+## Reviews & Sentiment
+
+*TODO: Research from BD market sources*
+
+---
+
+## Compliance/Regulatory Notes
+
+*TODO: Research from BD market sources*
+
+---
+
+## Evidence & Sources
+
+- *TODO: Add verifiable sources*
+
+*Last updated: 2026-06-25 — migrated from old format*

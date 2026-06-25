@@ -1,19 +1,21 @@
 ---
+entity_type: competitor
 sector: automotive-car-care
-last_verified: 2026-05-06
-freshness: fresh
-confidence: 0.5
-evidence_ids: []
+entity_slug: 2026-05-06-mitsubishi-rangs
+last_verified_at: 2026-06-25T12:00:00Z
+freshness_status: fresh
+confidence_score: 0.50
+primary_sources:
+  - []
 ---
-
-# Competitor: Mitsubishi Motors Bangladesh (Rangs Limited)
+# Competitor: Mitsubishi Rangs
 
 ## Metadata
 
-- **Date:** 2026-05-06
-- **Last updated:** 2026-05-06
-- **Competitor name:** Mitsubishi Motors Bangladesh - Rangs Limited
-- **Sector:** Automotive - Official Car Dealership
+- **Date:** 2026-06-25
+- **Last updated:** 2026-06-25
+- **Competitor name:** Mitsubishi Rangs
+- **Sector:** automotive-car-care
 
 ---
 
@@ -22,10 +24,9 @@ evidence_ids: []
 | Field | Detail |
 |-------|--------|
 | Category | Official Car Dealership |
-| Facebook | facebook.com/MitsubishiMotorsBangladeshRangsLimited |
+| Facebook/URL | facebook.com/MitsubishiMotorsBangladeshRangsLimited |
 | Followers | 353K+ |
 | Location | 215, Bir Uttam Mir Shawkat Sarak, Tejgaon, Dhaka |
-| Ownership | Rangs Group - one of BD's largest conglomerates |
 | Verified | Yes |
 
 ---
@@ -33,37 +34,89 @@ evidence_ids: []
 ## Strengths
 
 1. **Massive brand backing** - Rangs Group is a top BD conglomerate with deep capital and distribution
+2.
 2. **Official dealership** - Mitsubishi warranty, genuine parts, authorized service
+3.
 3. **353K+ followers** - largest automotive page in BD by follower count
+4.
 4. **National reach** - showroom + service network across major cities
+5.
 5. **Corporate and government contracts** - institutional buyers trust established brands
 
 ## Weaknesses
 
 1. **Different market segment** - new cars, not reconditioned or car care products
+2.
 2. **82% recommend rate** - lower than smaller competitors; corporate scale does not equal personal service
+3.
 3. **No car care product line** - purely a vehicle sales business
+4.
 4. **Slow to adapt to social media content** - corporate tone does not connect with younger buyers
+5.
 5. **Premium pricing** - new Mitsubishi vehicles are 2-3x the price of reconditioned equivalents
 
 ---
 
-## Strategy Observation
+---
 
+## Threat Level: Medium
+
+*Source data migrated from old format on 2026-06-25. Full research needed for competitive depth.*
+
+---
+
+## Pricing Signals
+
+| Item | Price/Metric | Date | Source |
+|------|-------------|------|--------|
+| *TODO* | *Research needed* | 2026-06 | |
+
+---
+
+## Customer Segments
+
+*TODO: Research from BD market sources*
+
+---
+
+## Operations & Supply Chain
+
+*TODO: Research from BD market sources*
+
+---
+
+## Financial/Funding Signals
+
+| Metric | Detail |
+|--------|--------|
+| *TODO* | *Research needed* |
+
+---
+
+## Reviews & Sentiment
+
+*TODO: Research from BD market sources*
+
+---
+
+## Compliance/Regulatory Notes
+
+*TODO: Research from BD market sources*
+
+---
+
+## Evidence & Sources
+
+- *TODO: Add verifiable sources*
+
+*Last updated: 2026-06-25 — migrated from old format*
+
+---
+
+## ⚠️ Raw Old-Format Data (To Be Refined Into Sections Above)
+
+### Strategy Observation
 Official new-car dealership. Dominates the institutional buyer segment but does not compete in the reconditioned car or car care product space. Their scale proves BD automotive pages can reach 300K+ followers, but their lower satisfaction rating shows that corporate scale does not always beat personal service.
 
 ---
 
-## Threat Level: Low
-
-Not a direct competitor in the car care or reconditioned car import space. Included as a reference for market scale and audience size benchmarks.
-
----
-
-*Last updated: 2026-05-06*
-
-
-# Verified Facebook Data (DDGS 2026-05-06)
-- **fb_url**: https://www.facebook.com/rangsmotorsbd/
-- **fb_likes**: 26,592
-- **group_fb**: https://www.facebook.com/rangs.group/ (21,097 likes)

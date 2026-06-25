@@ -1,0 +1,43 @@
+{
+  "doc_type": "sentiment_analysis",
+  "sector": "high-roi-niches",
+  "last_verified_at": "",
+  "freshness_status": "unknown",
+  "confidence_score": 0.0,
+  "overall_sentiment": "",
+  "positive_themes": [
+    "*Pending data collection*",
+    "*Pending data collection*"
+  ],
+  "negative_themes": [
+    "*Pending data collection*"
+  ],
+  "review_volume": [
+    {
+      "item": "Platform",
+      "value": "Estimated Review Volume",
+      "date": "Data Confidence",
+      "source": ""
+    },
+    {
+      "item": "Facebook",
+      "value": "*Pending*",
+      "date": "Low",
+      "source": ""
+    },
+    {
+      "item": "Google Maps",
+      "value": "*Pending*",
+      "date": "Low",
+      "source": ""
+    },
+    {
+      "item": "YouTube",
+      "value": "*Pending*",
+      "date": "Low",
+      "source": ""
+    }
+  ],
+  "has_data": true,
+  "file_path": "sectors/high-roi-niches/bd-market/sentiment-analysis.md"
+}

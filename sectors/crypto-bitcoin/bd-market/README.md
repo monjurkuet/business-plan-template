@@ -2,8 +2,8 @@
 sector: crypto-bitcoin
 last_verified: 2026-06-25
 freshness: fresh
-confidence: 0.745
-evidence_ids: ['6e5a61ce-d81', '5cb62f4f-411', '0fadb144-187', 'cee4260c-7c8', 'ffe6256a-df1', '8b8c67ad-4de', '97b409e0-7df', 'f2e35486-bb3', 'b3f28a9c-6e5', 'e7efd9e3-e31']
+confidence: 0.739
+evidence_ids: ['86e6d577-f65', 'a37a1e10-e13', 'f70f4354-5ff', 'e70f36a2-70e']
 ---
 
 # Crypto & Bitcoin — Bangladesh Market
@@ -75,22 +75,17 @@ evidence_ids: ['6e5a61ce-d81', '5cb62f4f-411', '0fadb144-187', 'cee4260c-7c8', '
 
 
 
+
 ## Auto-Updated Data (2026-06-25)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Tezos | search | 1.00 |
-| buy and sell popular cryptocurrencies | search | 1.00 |
-| Bangladeshis | search | 1.00 |
-| YouTube | search | 1.00 |
-| ['SanzidTech', 'cryptohossain', 'Invest2.Profit', 'EarningRashu', 'Johire786'] | search | 1.00 |
-| Crypto | search | 1.00 |
-| June 2026 | search | 1.00 |
-| available | search | 0.90 |
-| crypto_trading_platform | search | 0.90 |
-| Bangladesh | search | 1.00 |
-| not legalized but not banned | search | 0.95 |
-| crypto volatility warning issued | search | 0.95 |
-| Bangladesh Bank | search | 1.00 |
-| EmpireCryptoData | search | 0.90 |
-| available in Dhaka | search | 0.90 |
+| Tezos and other popular cryptocurrencies can be bought and sold in Bangladesh | search | 0.90 |
+| crypto exchange | search | 0.95 |
+| ['SanzidTech', 'cryptohossain', 'Invest2.Profit', 'EarningRashu', 'Johire786'] | search | 0.95 |
+| 2026-06 | search | 0.90 |
+| not legalized but not outright banned | search | 0.95 |
+| Bangladesh Bank warns about crypto's volatility and urges caution | search | 0.90 |
+| Bangladesh Bank | search | 0.95 |
+| cryptocurrency trading account | search | 0.95 |
+| open a Bangladesh cryptocurrency trading account with a Bangladesh cryptocurrenc | search | 0.90 |

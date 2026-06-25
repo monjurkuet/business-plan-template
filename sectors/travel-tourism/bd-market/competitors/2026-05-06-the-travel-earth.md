@@ -1,19 +1,21 @@
 ---
+entity_type: competitor
 sector: travel-tourism
-last_verified: 2026-05-06
-freshness: fresh
-confidence: 0.5
-evidence_ids: []
+entity_slug: 2026-05-06-the-travel-earth
+last_verified_at: 2026-06-25T12:00:00Z
+freshness_status: fresh
+confidence_score: 0.50
+primary_sources:
+  - []
 ---
-
 # Competitor: The Travel Earth
 
 ## Metadata
 
-- **Date:** 2026-05-06
-- **Last updated:** 2026-05-06
+- **Date:** 2026-06-25
+- **Last updated:** 2026-06-25
 - **Competitor name:** The Travel Earth
-- **Sector:** Travel & Tourism
+- **Sector:** travel-tourism
 
 ---
 
@@ -22,29 +24,86 @@ evidence_ids: []
 | Field | Detail |
 |-------|--------|
 | Category | Domestic/Adventure Tour |
-| Facebook | facebook.com/thetravelearth |
+| Facebook/URL | facebook.com/thetravelearth |
 | Followers | 100K+ |
+| Location |  |
+| Verified | Unknown |
 
 ---
 
 ## Strengths
 
-Instagram-friendly content and youth-oriented adventure tours. Good social media presence. Curated experience focus.
+1. Instagram-friendly content and youth-oriented adventure tours.
+2. Good social media presence.
+3. Curated experience focus.
 
 ## Weaknesses
 
-Low margins on tours. Weather-dependent. Limited scale without significant capital. Quality inconsistency across guides.
+1. Low margins on tours.
+2. Weather-dependent.
+3. Limited scale without significant capital.
+4. Quality inconsistency across guides.
 
 ---
 
-## Strategy Observation
+## Threat Level: Medium
 
+*Source data migrated from old format on 2026-06-25. Full research needed for competitive depth.*
+
+---
+
+## Pricing Signals
+
+| Item | Price/Metric | Date | Source |
+|------|-------------|------|--------|
+| *TODO* | *Research needed* | 2026-06 | |
+
+---
+
+## Customer Segments
+
+*TODO: Research from BD market sources*
+
+---
+
+## Operations & Supply Chain
+
+*TODO: Research from BD market sources*
+
+---
+
+## Financial/Funding Signals
+
+| Metric | Detail |
+|--------|--------|
+| *TODO* | *Research needed* |
+
+---
+
+## Reviews & Sentiment
+
+*TODO: Research from BD market sources*
+
+---
+
+## Compliance/Regulatory Notes
+
+*TODO: Research from BD market sources*
+
+---
+
+## Evidence & Sources
+
+- *TODO: Add verifiable sources*
+
+*Last updated: 2026-06-25 — migrated from old format*
+
+---
+
+## ⚠️ Raw Old-Format Data (To Be Refined Into Sections Above)
+
+### Strategy Observation
 Youth adventure travel with social media marketing. Small but growing community.
 
 ---
 
-## Threat Level: Low
-
----
-
-*Last updated: 2026-05-06*

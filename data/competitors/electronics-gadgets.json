@@ -3,204 +3,358 @@
   "total": 7,
   "competitors": [
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-daraz",
       "name": "daraz",
       "sector": "electronics-gadgets",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "electronics-gadgets",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-daraz",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-daraz",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Alibaba-backed, largest BD e-commerce platform.",
+        "2. Massive electronics selection with flash sales and EMI options.",
+        "3. Brand trust from scale.",
+        "4. Seller ecosystem is large."
+      ],
+      "weaknesses": [
+        "1. Fake product issues plague the platform.",
+        "2. Delivery delays in tier-2/3 cities.",
+        "3. Customer service is outsourced and frustrating.",
+        "4. Seller quality inconsistency — buyers don't trust 'Daraz quality'."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-daraz.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-gadget-and-gear",
       "name": "gadget-and-gear",
       "sector": "electronics-gadgets",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "electronics-gadgets",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-gadget-and-gear",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-gadget-and-gear",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Premium gadget positioning with audio/tech specialist focus.",
+        "2. Strong YouTube reviews and Facebook content.",
+        "3. Loyal community of tech enthusiasts.",
+        "4. Curated selection (not everything, just the good stuff)."
+      ],
+      "weaknesses": [
+        "1. Premium pricing limits addressable market.",
+        "2. Limited catalog beyond audio and accessories.",
+        "3. Small team constrains growth.",
+        "4. Vulnerable to Daraz undercutting on same products."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-gadget-and-gear.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-gadget-monkey",
       "name": "gadget-monkey",
       "sector": "electronics-gadgets",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "electronics-gadgets",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-gadget-monkey",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-gadget-monkey",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Accessories focus with trendy product selection.",
+        "2. Good social media marketing with affordable pricing.",
+        "3. Growing community of young tech enthusiasts."
+      ],
+      "weaknesses": [
+        "1. Low margins on commodity accessories.",
+        "2. Easy to copy product selection.",
+        "3. No brand loyalty — buyers compare on price.",
+        "4. Daraz sells the same items cheaper."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-gadget-monkey.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-iphone-market-bd",
       "name": "iphone-market-bd",
       "sector": "electronics-gadgets",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "electronics-gadgets",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-iphone-market-bd",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-iphone-market-bd",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Cheaper than authorized dealers by 15-25%.",
+        "2. Imported handsets from Japan/US/UAE.",
+        "3. Large demand from price-sensitive buyers.",
+        "4. Social media marketing is effective."
+      ],
+      "weaknesses": [
+        "1. No official Apple warranty (biggest concern).",
+        "2. Trust issues — buyers worry about refurbished-sold-as-new.",
+        "3. Legal grey area with customs.",
+        "4. No after-sales service."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-iphone-market-bd.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-pickaboo",
       "name": "pickaboo",
       "sector": "electronics-gadgets",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "electronics-gadgets",
-        "last_verified": "2026-06-25",
-        "freshness": "fresh"
+        "entity_slug": "2026-05-06-pickaboo",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-pickaboo",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Authorized Apple reseller with genuine warranty.",
+        "2. EMI partnerships with banks.",
+        "3. Focus on trust and authenticity.",
+        "4. Growing brand in Dhaka/CTG."
+      ],
+      "weaknesses": [
+        "1. Limited beyond electronics.",
+        "2. Price premium vs grey market (15-25% more expensive).",
+        "3. Inventory constraints on new releases.",
+        "4. Not price-competitive for budget buyers."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-pickaboo.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-ryans-computers",
       "name": "ryans-computers",
       "sector": "electronics-gadgets",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "electronics-gadgets",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-ryans-computers",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-ryans-computers",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Major IT retailer with growing Apple authorized presence.",
+        "2. Good pricing on laptops and components.",
+        "3. Expanding online presence.",
+        "4. Physical stores in key cities."
+      ],
+      "weaknesses": [
+        "1. Similar to Star Tech — IT-focused, not lifestyle electronics.",
+        "2. Brand is utilitarian.",
+        "3. Not building community or content like Gadget & Gear."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-ryans-computers.md"
     },
     {
+      "doc_type": "competitor",
       "slug": "2026-05-06-star-tech",
       "name": "star-tech",
       "sector": "electronics-gadgets",
       "frontmatter": {
+        "entity_type": "competitor",
         "sector": "electronics-gadgets",
-        "last_verified": "2026-05-06",
-        "freshness": "fresh",
-        "confidence": "0.5",
-        "evidence_ids": "[]"
+        "entity_slug": "2026-05-06-star-tech",
+        "last_verified_at": "2026-06-25T12:00:00Z",
+        "freshness_status": "fresh",
+        "confidence_score": "0.50",
+        "primary_sources": "- []"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-star-tech",
-      "last_verified_at": "",
-      "freshness_status": "unknown",
-      "confidence_score": 0.0,
-      "strengths": [],
-      "weaknesses": [],
+      "last_verified_at": "2026-06-25T12:00:00Z",
+      "freshness_status": "fresh",
+      "confidence_score": 0.5,
+      "strengths": [
+        "1. Largest IT retailer in BD with PC components + laptops.",
+        "2. Strong online + offline presence across major cities.",
+        "3. Competitive pricing.",
+        "4. Custom PC building service."
+      ],
+      "weaknesses": [
+        "1. Not premium/consumer electronics focused.",
+        "2. Utilitarian brand perception — tech-savvy but not aspirational.",
+        "3. Store experience is warehouse-like.",
+        "4. Not capturing the iPhone/lifestyle electronics buyer."
+      ],
       "threat_level": "",
       "threat_overlap_score": null,
-      "pricing_signals": [],
+      "pricing_signals": [
+        {
+          "item": "*TODO*",
+          "value": "*Research needed*",
+          "date": "2026-06",
+          "source": ""
+        }
+      ],
       "customer_segments": [],
-      "operations_notes": "",
-      "financial_signals": "",
-      "sentiment_summary": "",
-      "compliance_notes": "",
-      "evidence_sources": [],
+      "operations_notes": "*TODO: Research from BD market sources*\n\n---",
+      "financial_signals": "| Metric | Detail |\n|--------|--------|\n| *TODO* | *Research needed* |\n\n---",
+      "sentiment_summary": "*TODO: Research from BD market sources*\n\n---",
+      "compliance_notes": "*TODO: Research from BD market sources*\n\n---",
+      "evidence_sources": [
+        "*TODO: Add verifiable sources*"
+      ],
       "file_path": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-star-tech.md"
     }
   ]

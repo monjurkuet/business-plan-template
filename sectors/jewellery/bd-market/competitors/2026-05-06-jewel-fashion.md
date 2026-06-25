@@ -1,19 +1,21 @@
 ---
+entity_type: competitor
 sector: jewellery
-last_verified: 2026-05-06
-freshness: fresh
-confidence: 0.5
-evidence_ids: []
+entity_slug: 2026-05-06-jewel-fashion
+last_verified_at: 2026-06-25T12:00:00Z
+freshness_status: fresh
+confidence_score: 0.50
+primary_sources:
+  - []
 ---
-
 # Competitor: Jewel Fashion
 
 ## Metadata
 
-- **Date:** 2026-05-06
-- **Last updated:** 2026-05-06
+- **Date:** 2026-06-25
+- **Last updated:** 2026-06-25
 - **Competitor name:** Jewel Fashion
-- **Sector:** Jewellery
+- **Sector:** jewellery
 
 ---
 
@@ -22,29 +24,83 @@ evidence_ids: []
 | Field | Detail |
 |-------|--------|
 | Category | Gold/Traditional |
-| Facebook | facebook.com/jewelfashion |
+| Facebook/URL | facebook.com/jewelfashion |
 | Followers | 500K+ |
+| Location |  |
+| Verified | Unknown |
 
 ---
 
 ## Strengths
 
-Large gold jewellery retailer, bridal specialist, TV commercial presence, trust from physical stores
+1. Large gold jewellery retailer, bridal specialist, TV commercial presence, trust from physical stores
 
 ## Weaknesses
 
-Old-school marketing, slow online adoption, limited design innovation, aging customer base
+1. Old-school marketing, slow online adoption, limited design innovation, aging customer base
 
 ---
 
-## Strategy Observation
+---
 
+## Threat Level: Medium
+
+*Source data migrated from old format on 2026-06-25. Full research needed for competitive depth.*
+
+---
+
+## Pricing Signals
+
+| Item | Price/Metric | Date | Source |
+|------|-------------|------|--------|
+| *TODO* | *Research needed* | 2026-06 | |
+
+---
+
+## Customer Segments
+
+*TODO: Research from BD market sources*
+
+---
+
+## Operations & Supply Chain
+
+*TODO: Research from BD market sources*
+
+---
+
+## Financial/Funding Signals
+
+| Metric | Detail |
+|--------|--------|
+| *TODO* | *Research needed* |
+
+---
+
+## Reviews & Sentiment
+
+*TODO: Research from BD market sources*
+
+---
+
+## Compliance/Regulatory Notes
+
+*TODO: Research from BD market sources*
+
+---
+
+## Evidence & Sources
+
+- *TODO: Add verifiable sources*
+
+*Last updated: 2026-06-25 — migrated from old format*
+
+---
+
+## ⚠️ Raw Old-Format Data (To Be Refined Into Sections Above)
+
+### Strategy Observation
 Traditional bridal gold. Strong in the existing customer base but not attracting new, younger buyers.
 
 ---
 
-## Threat Level: Medium-High
-
----
-
-*Last updated: 2026-05-06*

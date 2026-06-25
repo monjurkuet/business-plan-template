@@ -1,61 +1,44 @@
 ---
+entity_type: competitor
 sector: automotive-car-care
-last_verified: 2026-05-06
-freshness: fresh
-confidence: 0.5
-evidence_ids: []
+entity_slug: 2026-05-06-irfan-imports
+last_verified_at: 2026-06-25T12:00:00Z
+freshness_status: fresh
+confidence_score: 0.50
+primary_sources:
+  - []
 ---
-
-# Competitor: IRFAN IMPORTS
+# Competitor: Irfan Imports
 
 ## Metadata
 
-- **Date:** 2026-05-06
-- **Last updated:** 2026-05-06
-- **Competitor name:** IRFAN IMPORTS
-- **Sector:** Automotive — Reconditioned Car Import
+- **Date:** 2026-06-25
+- **Last updated:** 2026-06-25
+- **Competitor name:** Irfan Imports
+- **Sector:** automotive-car-care
 
 ---
 
 ## Profile
 
-**Company name:** IRFAN IMPORTS
-**Website:** irfanimports.com (DEAD — DNS not resolving as of May 2026)
-**Facebook:** facebook.com/irfanimports
-**Location:** Dhaka, Bangladesh
-**Category:** Used Vehicles (Car Dealership)
-**Employees:** Unknown
-**Funding/Ownership:** Likely family-owned
-
----
-
-## Market Position
-
-**Followers (Facebook):** 83K
-**Reviews:** 98% recommend (47 reviews)
-**Verified:** No
-**Geographic reach:** Dhaka (national delivery via logistics)
-**Target customer:** Upper-middle class car buyers wanting European, Japanese, American imports
-
----
-
-## Product/Service Lines
-
-1. **Reconditioned car import** — European, Japanese, American brands
-2. **Pre-owned car sales** — Stock-ready vehicles
-3. **Brand new car sales** — Limited
-
-**Pricing tier/range:** Premium (European imports command higher prices)
-**Best-selling product:** Lexus, European luxury brands
-**Unique offerings:** Multi-continental import (not just Japan)
+| Field | Detail |
+|-------|--------|
+| Category |  |
+| Facebook/URL |  |
+| Followers |  |
+| Location |  |
+| Verified | Unknown |
 
 ---
 
 ## Strengths
 
 1. **83K followers** — second-largest reconditioned car page in BD
+2.
 2. **Multi-brand import** — European + Japanese + American gives wider appeal
+3.
 3. **98% recommendation rate** — strong trust signal
+4.
 4. **"The House of Cars"** — aspirational brand positioning
 
 ---
@@ -63,36 +46,67 @@ evidence_ids: []
 ## Weaknesses
 
 1. **Website is dead** — irfanimports.com returns ERR_NAME_NOT_RESOLVED
+2.
 2. **No e-commerce** — Facebook-only sales, no product catalog
+3.
 3. **Zero aftercare** — no guarantees, no service packages, no product ecosystem
+4.
 4. **No blog/content** — no SEO, no educational content
+5.
 5. **Not verified** — no blue badge
 
 ---
 
-## Strategy Observations
+---
 
-**Marketing channels:** Facebook Page only
-**Content strategy:** Car listing posts with photos — pure promotional
-**Sales model:** Showroom + Facebook messaging (WhatsApp likely)
-**Partnerships:** Unknown
-**Guarantee/warranty policy:** None visible
-**Finance/loan options:** Not advertised
+## Threat Level: Medium
+
+*Source data migrated from old format on 2026-06-25. Full research needed for competitive depth.*
 
 ---
 
-## Social Media Analysis
+## Pricing Signals
 
-**Post frequency:** Regular car listings
-**Content types:** Product showcase (car photos with specs)
-**Engagement rate:** Moderate — comments on listings
-**Top-performing content themes:** Luxury car imports (Lexus, BMW)
-**Notable campaigns:** None observed
+| Item | Price/Metric | Date | Source |
+|------|-------------|------|--------|
+| *TODO* | *Research needed* | 2026-06 | |
 
 ---
 
-## Threat Level
+## Customer Segments
 
-**Overlap with our idea:** 6/10 (if we do reconditioned car imports)
-**Ease of copying our approach:** 4/10 (they lack the product/service infrastructure)
-**Key takeaway:** Easy to outflank on web presence and aftercare guarantees. Their website being dead is a clear vulnerability.
+*TODO: Research from BD market sources*
+
+---
+
+## Operations & Supply Chain
+
+*TODO: Research from BD market sources*
+
+---
+
+## Financial/Funding Signals
+
+| Metric | Detail |
+|--------|--------|
+| *TODO* | *Research needed* |
+
+---
+
+## Reviews & Sentiment
+
+*TODO: Research from BD market sources*
+
+---
+
+## Compliance/Regulatory Notes
+
+*TODO: Research from BD market sources*
+
+---
+
+## Evidence & Sources
+
+- *TODO: Add verifiable sources*
+
+*Last updated: 2026-06-25 — migrated from old format*
