@@ -154,6 +154,44 @@ def main():
     priority_order = {"P0": 0, "P1": 1, "P2": 2}
     queue.sort(key=lambda x: priority_order.get(x["priority"], 9))
 
+    # ── Inject P0 data-collection entries for sectors with zero evidence ──
+    # Many sectors exist as files but the pipeline has never collected evidence
+    # for them, so they never appear in the freshness queue. Insert explicit
+    # entries so search queries get generated.
+    evidence_dir = REPO_ROOT / "data" / "evidence"
+    sector_with_evidence = set()
+    if evidence_dir.exists():
+        for ef in sorted(evidence_dir.glob("*.json"))[-5:]:  # last 5 files
+            try:
+                items = json.loads(ef.read_text())
+                for item in items:
+                    if item.get("sector"):
+                        sector_with_evidence.add(item["sector"])
+            except Exception:
+                pass
+
+    from lib.config_loader import get_sector_configs
+    all_sectors = set(get_sector_configs().keys())
+    zero_evidence_sectors = all_sectors - sector_with_evidence
+
+    for zs in sorted(zero_evidence_sectors):
+        # Add one data-collection entry per category for zero-evidence sectors
+        for cat in ["pricing", "policy", "competitor_core_profile", "sentiment", "seasonality"]:
+            key = f"{zs}:{cat}:data_collection"
+            if not any(q.get("path", "").endswith(key) for q in queue):
+                queue.append({
+                    "path": f"sectors/{zs}/bd-market/data_collection:{cat}",
+                    "sector": zs,
+                    "category": cat,
+                    "age_days": 9999,
+                    "stale_type": "missing",
+                    "priority": "P0",
+                    "stale_after_days": 0,
+                    "critical_after_days": 0,
+                    "reason": f"Zero evidence collected for sector — initial data collection needed ({cat})",
+                })
+                summary["critical"] = summary.get("critical", 0) + 1
+
     result = {
         "generated_at": now_iso(),
         "summary": summary,

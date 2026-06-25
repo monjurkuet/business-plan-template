@@ -1,0 +1,46 @@
+{
+  "sector": "electronics-gadgets",
+  "display_name": "Electronics & Gadgets",
+  "last_updated": "2026-05-06T00:00:00+00:00",
+  "file_count": 16,
+  "competitor_count": 7,
+  "competitor_target": 15,
+  "subsegments": [
+    "Smartphones",
+    "Home Appliances",
+    "Laptops & Computers",
+    "Consumer Electronics"
+  ],
+  "policy_sensitivity": "medium",
+  "data_completeness": {
+    "README": true,
+    "strategy-canvas": true,
+    "go-to-market": true,
+    "risk-register": true,
+    "pricing-guide": true,
+    "regulatory": true,
+    "sentiment-analysis": true,
+    "seasonality": true,
+    "financial-model": false,
+    "idea-brief": false
+  },
+  "has_landscape_report": true,
+  "competitors": [
+    "Ryans Computers",
+    "Star Tech",
+    "Pickaboo",
+    "iPhone Market BD (Grey Market)",
+    "Gadget & Gear",
+    "Gadget Monkey BD",
+    "Daraz (Electronics)"
+  ],
+  "data_categories_available": {
+    "competitor_core_profile": true,
+    "pricing": true,
+    "policy": true,
+    "sentiment": true,
+    "seasonality": true
+  },
+  "evidence_count": 0,
+  "avg_confidence": 0.2
+}

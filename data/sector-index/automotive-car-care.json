@@ -1,0 +1,52 @@
+{
+  "sector": "automotive-car-care",
+  "display_name": "Automotive & Car Care",
+  "last_updated": "2026-06-25T00:00:00+00:00",
+  "file_count": 22,
+  "competitor_count": 12,
+  "competitor_target": 20,
+  "subsegments": [
+    "Car Care Products",
+    "Auto Parts & Accessories",
+    "Car Detailing Services",
+    "Automotive Lubricants",
+    "Reconditioned Cars"
+  ],
+  "policy_sensitivity": "medium",
+  "data_completeness": {
+    "README": true,
+    "strategy-canvas": true,
+    "go-to-market": true,
+    "risk-register": true,
+    "pricing-guide": true,
+    "regulatory": true,
+    "sentiment-analysis": true,
+    "seasonality": true,
+    "financial-model": false,
+    "idea-brief": false
+  },
+  "has_landscape_report": true,
+  "competitors": [
+    "GarirBazar",
+    "Mitsubishi Motors Bangladesh (Rangs Limited)",
+    "Auto Mania",
+    "RomeL Car House",
+    "JDA Oil Bangladesh",
+    "Ranks Petroleum / Shell Bangladesh",
+    "Ride On (Reference / Inspiration)",
+    "CAR Expert BD",
+    "NASPRO Auto Detailing",
+    "Car Care BD",
+    "IRFAN IMPORTS",
+    "Parts Choice"
+  ],
+  "data_categories_available": {
+    "competitor_core_profile": true,
+    "pricing": true,
+    "policy": true,
+    "sentiment": true,
+    "seasonality": true
+  },
+  "evidence_count": 20,
+  "avg_confidence": 0.749
+}

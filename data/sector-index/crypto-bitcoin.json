@@ -1,0 +1,43 @@
+{
+  "sector": "crypto-bitcoin",
+  "display_name": "Crypto & Bitcoin",
+  "last_updated": "2026-05-08T00:00:00+00:00",
+  "file_count": 14,
+  "competitor_count": 4,
+  "competitor_target": 10,
+  "subsegments": [
+    "P2P Trading",
+    "Crypto Education",
+    "Blockchain Development",
+    "Crypto Remittances"
+  ],
+  "policy_sensitivity": "high",
+  "data_completeness": {
+    "README": true,
+    "strategy-canvas": true,
+    "go-to-market": true,
+    "risk-register": true,
+    "pricing-guide": true,
+    "regulatory": true,
+    "sentiment-analysis": true,
+    "seasonality": true,
+    "financial-model": false,
+    "idea-brief": false
+  },
+  "has_landscape_report": true,
+  "competitors": [
+    "Binance (BD users)",
+    "Local P2P OTC Desks",
+    "International Blockchain Dev Shops",
+    "Crypto Education Influencers"
+  ],
+  "data_categories_available": {
+    "competitor_core_profile": true,
+    "pricing": true,
+    "policy": true,
+    "sentiment": true,
+    "seasonality": true
+  },
+  "evidence_count": 19,
+  "avg_confidence": 0.736
+}

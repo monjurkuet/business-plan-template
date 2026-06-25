@@ -1,0 +1,46 @@
+{
+  "sector": "travel-tourism",
+  "display_name": "Travel & Tourism",
+  "last_updated": "2026-05-06T00:00:00+00:00",
+  "file_count": 16,
+  "competitor_count": 7,
+  "competitor_target": 15,
+  "subsegments": [
+    "Domestic Tourism",
+    "Online Travel Agencies",
+    "Hotel Booking",
+    "Hajj & Umrah Services"
+  ],
+  "policy_sensitivity": "low",
+  "data_completeness": {
+    "README": true,
+    "strategy-canvas": true,
+    "go-to-market": true,
+    "risk-register": true,
+    "pricing-guide": true,
+    "regulatory": true,
+    "sentiment-analysis": true,
+    "seasonality": true,
+    "financial-model": false,
+    "idea-brief": false
+  },
+  "has_landscape_report": true,
+  "competitors": [
+    "Obokash",
+    "Flight Expert",
+    "Discovery Bangladesh",
+    "The Travel Earth",
+    "ShareTrip",
+    "Zakia Travels",
+    "GoZayaan"
+  ],
+  "data_categories_available": {
+    "competitor_core_profile": true,
+    "pricing": true,
+    "policy": true,
+    "sentiment": true,
+    "seasonality": true
+  },
+  "evidence_count": 0,
+  "avg_confidence": 0.2
+}

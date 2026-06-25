@@ -1,0 +1,47 @@
+{
+  "sector": "high-roi-niches",
+  "display_name": "High-ROI Niches",
+  "last_updated": "2026-05-06T00:00:00+00:00",
+  "file_count": 16,
+  "competitor_count": 7,
+  "competitor_target": 15,
+  "subsegments": [
+    "EdTech",
+    "Pet Care",
+    "Cloud Kitchen",
+    "Freelance Agency",
+    "Smart Home"
+  ],
+  "policy_sensitivity": "low",
+  "data_completeness": {
+    "README": true,
+    "strategy-canvas": true,
+    "go-to-market": true,
+    "risk-register": true,
+    "pricing-guide": true,
+    "regulatory": true,
+    "sentiment-analysis": true,
+    "seasonality": true,
+    "financial-model": false,
+    "idea-brief": false
+  },
+  "has_landscape_report": true,
+  "competitors": [
+    "Pet Club BD",
+    "Walton Smart Home",
+    "Shikho",
+    "Foodpanda BD",
+    "Pathao Food",
+    "BD Freelancer Community",
+    "10 Minute School"
+  ],
+  "data_categories_available": {
+    "competitor_core_profile": true,
+    "pricing": true,
+    "policy": true,
+    "sentiment": true,
+    "seasonality": true
+  },
+  "evidence_count": 0,
+  "avg_confidence": 0.2
+}

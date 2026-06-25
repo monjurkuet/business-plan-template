@@ -24,7 +24,7 @@ from lib.search_client import search_text, search_news
 log = logging.getLogger("execute_searches")
 
 import os
-MAX_QUERIES_PER_RUN = int(os.environ.get("MAX_QUERIES_PER_RUN", "24"))
+MAX_QUERIES_PER_RUN = int(os.environ.get("MAX_QUERIES_PER_RUN", "48"))
 DELAY_SECONDS = float(os.environ.get("SEARCH_DELAY_SECONDS", "0.2"))  # Between queries
 
 SEARCH_TIMEOUT_SECONDS = float(os.environ.get("SEARCH_TIMEOUT_SECONDS", "15"))
@@ -98,8 +98,43 @@ def generate_queries(freshness_queue: list, sector_configs: dict, taxonomy: dict
     p_order = {"P0": 0, "P1": 1, "P2": 2}
     queries.sort(key=lambda x: p_order.get(x["priority"], 9))
 
-    # Cap at max
-    return queries[:MAX_QUERIES_PER_RUN]
+    # ── Fair distribution across sectors ──
+    # Without this, the sector with the most files/P0 items dominates every cycle.
+    # Round-robin: take N/P queries from each sector to fill the cap.
+    total_priority_cap = MAX_QUERIES_PER_RUN
+    from collections import defaultdict
+    by_sector = defaultdict(list)
+    for q in queries:
+        by_sector[q["sector"]].append(q)
+
+    sector_names = sorted(by_sector.keys())
+    fair_queries = []
+    queries_per_sector = max(1, total_priority_cap // max(len(sector_names), 1))
+    remaining = total_priority_cap
+
+    # Round-robin: pick from each sector until cap met
+    while remaining > 0 and sector_names:
+        for sector in list(sector_names):
+            if by_sector[sector]:
+                fair_queries.append(by_sector[sector].pop(0))
+                remaining -= 1
+            if not by_sector[sector]:
+                sector_names.remove(sector)
+            if remaining <= 0:
+                break
+        if not sector_names:
+            break
+
+    # Add remaining queries (if any sector has more and we have room)
+    if remaining > 0:
+        for q in queries:
+            if q not in fair_queries:
+                fair_queries.append(q)
+                remaining -= 1
+                if remaining <= 0:
+                    break
+
+    return fair_queries[:MAX_QUERIES_PER_RUN]
 
 
 def execute_queries(queries: list[dict]) -> list[dict]:

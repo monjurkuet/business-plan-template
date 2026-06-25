@@ -4,18 +4,44 @@ A structured repository for researching, analyzing, and documenting business ide
 
 ## Researched Sectors (Bangladesh Market)
 
-| # | Sector | Directory | Competitors | Status |
-|---|--------|-----------|-----------|--------|
-| 1 | Automotive & Car Care | `sectors/automotive-car-care/` | 9 | ✅ Complete |
-| 2 | Clothing & Fashion | `sectors/clothing-fashion/` | 8 | ✅ Complete |
-| 3 | Jewellery | `sectors/jewellery/` | 6 | ✅ Complete |
-| 4 | Travel & Tourism | `sectors/travel-tourism/` | 7 | ✅ Complete |
-| 5 | Media, Marketing & Digital | `sectors/media-marketing-digital/` | 6 | ✅ Complete |
-| 6 | Bitcoin & Cryptocurrency | `sectors/crypto-bitcoin/` | 4 | ✅ Complete |
-| 7 | iPhone, Electronics & Gadgets | `sectors/electronics-gadgets/` | 7 | ✅ Complete |
-| 8 | High-ROI Niches | `sectors/high-roi-niches/` | 7 | ✅ Complete |
+| # | Sector | Directory | Competitors | Docs | Status |
+|---|--------|-----------|:-----------:|:----:|:------:|
+| 1 | Automotive & Car Care | `sectors/automotive-car-care/` | 12 | 9/9 | ✅ Complete |
+| 2 | Clothing & Fashion | `sectors/clothing-fashion/` | 8 | 8/9 | 🟢 Good |
+| 3 | Jewellery | `sectors/jewellery/` | 6 | 8/9 | 🟢 Good |
+| 4 | Travel & Tourism | `sectors/travel-tourism/` | 7 | 8/9 | 🟢 Good |
+| 5 | Media, Marketing & Digital | `sectors/media-marketing-digital/` | 7 | 8/9 | 🟢 Good |
+| 6 | Bitcoin & Cryptocurrency | `sectors/crypto-bitcoin/` | 4 | 9/9 | 🟢 Good |
+| 7 | iPhone, Electronics & Gadgets | `sectors/electronics-gadgets/` | 7 | 8/9 | 🟢 Good |
+| 8 | High-ROI Niches | `sectors/high-roi-niches/` | 7 | 8/9 | 🟢 Good |
 
-**Total:** 111 files, 8 sectors, 54 competitor profiles
+**Total:** 132 files, 8 sectors, 58 competitor profiles, 2 financial models
+
+> **Status key:** `9/9 docs` = all standard sector docs present (incl. financial-model). `8/9` = missing financial-model. See `make health` for full dashboard.
+
+## Quick Start
+
+```bash
+# Full pipeline (audit → freshness → search → extract → score → update → archive → validate → changelog)
+make pipeline
+
+# Quick health check (no LLM calls, no network)
+make health
+
+# Specific pipeline step
+make audit
+make freshness
+```
+
+## What's New
+
+- **`docs/ARCHITECTURE.md`** — complete system documentation covering data flow, pipeline scripts, config, conventions
+- **`data/sector-index/`** — per-sector metadata JSON for tooling and dashboards
+- **Financial models** for automotive & crypto sectors (`financial-model.md`)
+- **`Makefile`** — convenience targets for pipeline steps (`make audit`, `make freshness`, `make search`, ...)
+- **Sector health dashboard** — `make health` or `python _system/scripts/sector_health.py`
+- **Fair pipeline distribution** — round-robin query allocation across all 8 sectors (not just the busiest 2)
+- **Zero-evidence detection** — pipeline auto-injects P0 data collection for sectors with no evidence
 
 ---
 
@@ -32,6 +58,7 @@ A structured repository for researching, analyzing, and documenting business ide
 │   └── 06-risk-register/    # Risks, mitigations, assumptions
 │
 ├── _guides/                 # How-to docs for research methodology
+├── Makefile                 # Convenience targets for pipeline steps
 │
 ├── sectors/                 # One directory per industry/sector
 │   ├── automotive-car-care/ # Bangladesh car care market

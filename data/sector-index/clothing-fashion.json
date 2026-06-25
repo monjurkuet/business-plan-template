@@ -1,0 +1,47 @@
+{
+  "sector": "clothing-fashion",
+  "display_name": "Clothing & Fashion",
+  "last_updated": "2026-06-25T00:00:00+00:00",
+  "file_count": 17,
+  "competitor_count": 8,
+  "competitor_target": 15,
+  "subsegments": [
+    "Fast Fashion",
+    "Formalwear",
+    "Modest Fashion",
+    "Sustainable Fashion"
+  ],
+  "policy_sensitivity": "low",
+  "data_completeness": {
+    "README": true,
+    "strategy-canvas": true,
+    "go-to-market": true,
+    "risk-register": true,
+    "pricing-guide": true,
+    "regulatory": true,
+    "sentiment-analysis": true,
+    "seasonality": true,
+    "financial-model": false,
+    "idea-brief": false
+  },
+  "has_landscape_report": true,
+  "competitors": [
+    "Sailor",
+    "Aarong",
+    "Ecstasy",
+    "Labh",
+    "Sadakalo",
+    "Yellow",
+    "Dorjee",
+    "Lubnan"
+  ],
+  "data_categories_available": {
+    "competitor_core_profile": true,
+    "pricing": true,
+    "policy": true,
+    "sentiment": true,
+    "seasonality": true
+  },
+  "evidence_count": 4,
+  "avg_confidence": 0.747
+}
