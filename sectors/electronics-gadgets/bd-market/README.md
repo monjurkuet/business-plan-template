@@ -2,8 +2,8 @@
 sector: electronics-gadgets
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.741
-evidence_ids: ['cb954b82-517', 'be7e38cd-2ea', 'c5ebb3e2-0c9', '361f54eb-391', '1e52313c-e6d']
+confidence: 0.726
+evidence_ids: ['d16446cb-484', '5599fba3-faf', '37f4de9d-1b8', '24baa1fa-3d9']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -87,18 +87,14 @@ evidence_ids: ['cb954b82-517', 'be7e38cd-2ea', 'c5ebb3e2-0c9', '361f54eb-391', '
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| home appliances, ACs, refrigerators, washing machines, smart TVs, ovens | search | 0.95 |
-| official warranty, EMI facilities, fast home delivery | search | 0.95 |
-| unbeatable prices | search | 0.90 |
-| consumer electronics online shopping platform | search | 0.95 |
-| premium quality products, original electronic appliances | search | 0.95 |
-| seamless online shopping experience | search | 0.90 |
-| authorized multi-brand electronics retailer | search | 0.95 |
-| authentic products, official warranty, 0% EMI, 16 superstores nationwide | search | 0.95 |
-| one-stop shop for electronic and electrical products | search | 0.95 |
-| premium electronics, smart TV, air conditions, home gadgets, lifestyle products | search | 0.95 |
-| fast delivery, authentic products, unbeatable prices | search | 0.95 |
+| 25500 to 102900 | search | 1.00 |
+| TCL TV | search | 1.00 |
+| best price | search | 0.80 |
+| best prices | search | 0.80 |
+| Free Shipping | search | 0.90 |
+| 15.00 | search | 0.70 |

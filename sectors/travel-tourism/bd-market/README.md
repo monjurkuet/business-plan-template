@@ -2,8 +2,8 @@
 sector: travel-tourism
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.743
-evidence_ids: ['b6dec211-b87', '1dc0f960-c2d', '1d5a09ab-8f0', 'c8e8cb57-43f']
+confidence: 0.74
+evidence_ids: ['48991728-056', 'e37ed04f-7f4', '05173923-ef5', '8bcb3aed-d3e']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -66,17 +66,15 @@ evidence_ids: ['b6dec211-b87', '1dc0f960-c2d', '1d5a09ab-8f0', 'c8e8cb57-43f']
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Hotels, visa, tours, flight booking | search | 0.95 |
-| Travel Agency Bangladesh | search | 0.95 |
-| goFLY Limited | search | 0.95 |
-| IATA-certified | search | 0.95 |
-| 2017 | search | 0.95 |
-| Dhaka, Bangladesh | search | 0.95 |
-| Honest service, affordable prices, real support | search | 0.90 |
-| Air ticketing, visa processing, holiday packages, global tours | search | 0.95 |
-| Leisure, business, Hajj, study abroad travelers | search | 0.90 |
-| 1315 | search | 1.00 |
+| tour packages, air tickets, visa support | search | 1.00 |
+| affordable | search | 0.90 |
+| affordable | search | 0.90 |
+| study abroad, visa services, cheap air tickets | search | 1.00 |
+| cheap | search | 0.90 |
+| cheap airline tickets, online hotel booking, air & travel portal development | search | 1.00 |
+| cheap | search | 0.90 |

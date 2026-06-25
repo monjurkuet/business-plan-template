@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T18:58:08.758348+00:00",
+  "generated_at": "2026-06-25T20:32:07.253784+00:00",
   "models_used": [
     "gemini-2.5-flash-lite",
     "deepseek-ai/deepseek-v4-pro",
@@ -21,7 +21,7 @@
     {
       "repo_critical_issues": [
         {
-          "issue": "Stale year references (2023, 2024) in policy, pricing, and competitor files across multiple sectors",
+          "issue": "Stale year references (2023, 2024) in policy/pricing/sentiment files across multiple sectors",
           "severity": "critical",
           "affected_sectors": [
             "automotive-car-care",
@@ -32,16 +32,6 @@
           ]
         },
         {
-          "issue": "Pricing data older than 50 days in automotive-car-care, clothing-fashion, crypto-bitcoin, and electronics-gadgets",
-          "severity": "critical",
-          "affected_sectors": [
-            "automotive-car-care",
-            "clothing-fashion",
-            "crypto-bitcoin",
-            "electronics-gadgets"
-          ]
-        },
-        {
           "issue": "Missing seasonality file in bim-global-outreach sector",
           "severity": "high",
           "affected_sectors": [
@@ -49,16 +39,7 @@
           ]
         },
         {
-          "issue": "Sentiment data older than 50 days in automotive-car-care, clothing-fashion, and crypto-bitcoin",
-          "severity": "high",
-          "affected_sectors": [
-            "automotive-car-care",
-            "clothing-fashion",
-            "crypto-bitcoin"
-          ]
-        },
-        {
-          "issue": "Policy files older than 50 days in automotive-car-care, clothing-fashion, crypto-bitcoin, and electronics-gadgets",
+          "issue": "Pricing files exceed freshness threshold (50d) in automotive-car-care, clothing-fashion, crypto-bitcoin, electronics-gadgets",
           "severity": "high",
           "affected_sectors": [
             "automotive-car-care",
@@ -66,122 +47,162 @@
             "crypto-bitcoin",
             "electronics-gadgets"
           ]
+        },
+        {
+          "issue": "Policy files exceed freshness threshold (50d) and contain stale references",
+          "severity": "high",
+          "affected_sectors": [
+            "automotive-car-care",
+            "clothing-fashion",
+            "crypto-bitcoin",
+            "electronics-gadgets"
+          ]
+        },
+        {
+          "issue": "Sentiment files exceed freshness threshold (50d) in automotive-car-care, clothing-fashion, crypto-bitcoin, electronics-gadgets",
+          "severity": "medium",
+          "affected_sectors": [
+            "automotive-car-care",
+            "clothing-fashion",
+            "crypto-bitcoin",
+            "electronics-gadgets"
+          ]
+        },
+        {
+          "issue": "Competitor core profile contains stale year references (2023, 2024) in crypto-bitcoin sector",
+          "severity": "medium",
+          "affected_sectors": [
+            "crypto-bitcoin"
+          ]
         }
       ],
       "sector_priorities": [
         {
           "sector": "crypto-bitcoin",
           "priority": 10,
-          "reason": "Critical regulatory and pricing data outdated. Crypto trading is legal in Bangladesh, but policy references must reflect 2025-2026 compliance."
+          "reason": "Critical regulatory and pricing updates required. Crypto trading is legal in Bangladesh; ensure compliance references are current (2025-2026). High volatility sector demands fresh data."
         },
         {
           "sector": "automotive-car-care",
           "priority": 9,
-          "reason": "Pricing, policy, and sentiment data stale. High market volatility expected due to import regulations."
+          "reason": "Policy and pricing files stale. Automotive sector is highly regulated; ensure BDT pricing and tax references are updated."
         },
         {
           "sector": "clothing-fashion",
           "priority": 8,
-          "reason": "Pricing and policy data outdated. Seasonal trends and import tariffs require fresh validation."
+          "reason": "Policy and pricing files stale. Fashion sector is sensitive to import regulations and seasonal trends; verify BDT pricing and duty structures."
         },
         {
           "sector": "electronics-gadgets",
           "priority": 7,
-          "reason": "Pricing and policy data stale. Regulatory changes for e-waste and import restrictions pending."
+          "reason": "Policy and pricing files stale. Electronics sector faces frequent regulatory changes (e.g., BTRC certifications, import restrictions)."
         },
         {
           "sector": "bim-global-outreach",
           "priority": 6,
-          "reason": "Missing seasonality data and stale policy references. Critical for export-focused strategies."
+          "reason": "Missing seasonality file and stale policy references. BIM sector requires updated global outreach strategies and compliance with Bangladesh Bank remittance policies."
         }
       ],
       "search_hypotheses": [
         {
           "sector": "crypto-bitcoin",
-          "hypothesis": "Bangladesh Bank has issued new circulars in 2025 relaxing crypto trading restrictions for licensed entities.",
+          "hypothesis": "Bangladesh Bank has issued new circulars in 2025-2026 clarifying crypto trading regulations, including KYC and tax reporting requirements.",
           "suggested_queries": [
             "Bangladesh Bank crypto trading circular 2025",
-            "Bangladesh licensed crypto exchanges 2025",
-            "BB crypto policy update 2025 filetype:pdf",
-            "Bangladesh crypto tax regulations 2025"
+            "Bangladesh crypto tax regulations 2025-2026",
+            "BTRC crypto exchange guidelines 2025",
+            "Bangladesh crypto KYC requirements 2025"
+          ],
+          "confidence": 0.9
+        },
+        {
+          "sector": "automotive-car-care",
+          "hypothesis": "New import duties or tax exemptions for electric vehicles (EVs) or hybrid cars have been announced in 2025-2026, impacting pricing and market strategy.",
+          "suggested_queries": [
+            "Bangladesh EV import duty 2025-2026",
+            "NBR car tax circular 2025",
+            "Bangladesh automotive sector policy 2025",
+            "BDT car pricing 2025"
           ],
           "confidence": 0.8
         },
         {
-          "sector": "automotive-car-care",
-          "hypothesis": "New import tariffs on car care products were introduced in Q1 2025, impacting pricing strategies.",
+          "sector": "clothing-fashion",
+          "hypothesis": "Bangladesh has updated its import policies for textiles or apparel in 2025-2026, affecting pricing and competitor strategies.",
           "suggested_queries": [
-            "Bangladesh NBR car care product import tariff 2025",
-            "Bangladesh automotive sector policy circular 2025",
-            "Bangladesh car care product price changes 2025"
+            "Bangladesh textile import policy 2025-2026",
+            "NBR apparel duty circular 2025",
+            "BDT fashion pricing 2025",
+            "Bangladesh RMG export policy 2025"
           ],
-          "confidence": 0.75
+          "confidence": 0.8
         },
         {
-          "sector": "clothing-fashion",
-          "hypothesis": "Bangladesh has revised textile import quotas and tariffs in 2025, affecting fast fashion pricing.",
+          "sector": "electronics-gadgets",
+          "hypothesis": "BTRC has issued new certifications or import restrictions for electronics in 2025-2026, impacting market entry and pricing.",
           "suggested_queries": [
-            "Bangladesh textile import quota 2025",
-            "Bangladesh fashion sector policy update 2025",
-            "Bangladesh clothing retail price changes 2025"
+            "BTRC electronics import guidelines 2025",
+            "Bangladesh electronics certification 2025-2026",
+            "NBR electronics tax circular 2025",
+            "BDT gadget pricing 2025"
           ],
-          "confidence": 0.7
+          "confidence": 0.8
         },
         {
           "sector": "bim-global-outreach",
-          "hypothesis": "Seasonal demand for BIM services peaks during Q3-Q4 due to global infrastructure project cycles.",
+          "hypothesis": "Bangladesh Bank has updated remittance policies in 2025-2026, affecting global outreach strategies for BIM sector.",
           "suggested_queries": [
-            "Global BIM project seasonality 2024-2025",
-            "Bangladesh BIM export trends 2025",
-            "BIM project pipeline Bangladesh 2025"
+            "Bangladesh Bank remittance policy 2025-2026",
+            "Bangladesh BIM sector regulations 2025",
+            "Global outreach compliance Bangladesh 2025"
           ],
-          "confidence": 0.65
+          "confidence": 0.7
         }
       ],
       "high_value_missing_angles": [
-        "Cross-sector analysis of Bangladesh's 2025-2026 budget impact on automotive, fashion, and electronics sectors",
+        "Cross-sector trend analysis: Impact of 2025-2026 budget on pricing and regulations across sectors",
         "Verification of Facebook/LinkedIn handles for top competitors in each sector",
-        "BDT-denominated pricing data with source citations for all sectors",
-        "Regulatory sandbox updates for crypto-bitcoin sector (2025-2026)",
-        "E-waste and sustainability compliance status for electronics-gadgets sector",
-        "Seasonality trends for automotive-car-care (e.g., monsoon impact on car wash services)",
-        "Government circulars or NBR notifications for import/export policy changes in 2025"
+        "BDT pricing benchmarks with source citations (e.g., NBR, BTRC, Bangladesh Bank)",
+        "Seasonality trends for 2025-2026, especially for fashion, automotive, and electronics sectors",
+        "Regulatory sandbox updates for crypto-bitcoin sector (e.g., BTRC or Bangladesh Bank pilot programs)",
+        "Government circulars or gazette notifications for 2025-2026 across all sectors",
+        "Competitor financials with audited or verified sources (not estimates)"
       ],
       "recommended_actions": [
         {
-          "action": "Update all policy files with 2025-2026 regulatory references. Cross-check with Bangladesh Bank, NBR, and sector-specific ministries.",
+          "action": "Update all policy, pricing, and sentiment files with 2025-2026 references. Verify BDT values and regulatory compliance.",
           "priority": "P0",
           "effort": "high"
         },
         {
-          "action": "Refresh pricing data for automotive-car-care, clothing-fashion, crypto-bitcoin, and electronics-gadgets. Include BDT values and source citations.",
+          "action": "Create missing seasonality file for bim-global-outreach sector. Include 2025-2026 trends and remittance policy impacts.",
           "priority": "P0",
           "effort": "medium"
         },
         {
-          "action": "Create seasonality file for bim-global-outreach sector. Include global project cycles and Bangladesh export trends.",
-          "priority": "P0",
-          "effort": "medium"
-        },
-        {
-          "action": "Verify Facebook/LinkedIn handles for top 5 competitors in each sector. Flag inactive or unverified profiles.",
+          "action": "Verify and update Facebook/LinkedIn handles for top competitors in each sector. Flag inactive or unverified profiles.",
           "priority": "P1",
-          "effort": "low"
+          "effort": "medium"
         },
         {
-          "action": "Conduct cross-sector analysis of 2025-2026 budget impact. Focus on automotive, fashion, and electronics sectors.",
+          "action": "Add cross-sector trend analysis in a new file: `trends/2025-2026-budget-impact.md`. Include BDT pricing shifts and regulatory changes.",
           "priority": "P1",
           "effort": "high"
         },
         {
-          "action": "Audit competitor financials in JSON data layer. Replace estimates with sourced data (e.g., annual reports, NBR filings).",
+          "action": "Audit competitor financials in `data/competitors/`. Replace estimates with verified sources (e.g., audited reports, NBR filings).",
+          "priority": "P1",
+          "effort": "high"
+        },
+        {
+          "action": "Add government circulars/gazette references for 2025-2026 in each sector's `policy.md` file. Cite Bangladesh Bank, NBR, or BTRC as applicable.",
           "priority": "P1",
           "effort": "medium"
         },
         {
-          "action": "Add e-waste compliance status to electronics-gadgets risk register. Include references to DOE circulars.",
-          "priority": "P2",
-          "effort": "low"
+          "action": "Run suggested queries for each sector. Update repository with new findings within 7 days.",
+          "priority": "P0",
+          "effort": "medium"
         }
       ],
       "model": "mistral/mistral-large-latest"

@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.739
-evidence_ids: ['f28a50ba-3a1', '4d10632a-eb1', '45c05ace-6b7', 'a855692f-013', '5a9cf4a5-196', '2c598fbb-a4a', 'ec420338-642', '004beff9-d0f', '6c9aad0f-fd8', '8490b3e3-359']
+confidence: 0.738
+evidence_ids: ['7412e6ee-00a', '4476d3d6-876', 'cd894bbe-d4d', '565de141-7e4', '7d237477-993']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -104,22 +104,23 @@ evidence_ids: ['f28a50ba-3a1', '4d10632a-eb1', '45c05ace-6b7', 'a855692f-013', '
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 2026-01-12 | search | 0.95 |
-| 2025-01-12 | search | 0.95 |
-| Scan to BIM outsourcing | search | 0.95 |
-| BIMBOSS | search | 0.95 |
-| BIM outsourcing consulting | search | 0.95 |
-| ['USA', 'UK', 'India'] | search | 0.95 |
-| ['contractors', 'engineering design firms', 'architects'] | search | 0.95 |
-| growing popularity in USA | search | 0.95 |
-| ['improved project efficiency', 'cost reduction', 'process streamlining'] | search | 0.95 |
-| one of the largest and most competitive | search | 0.95 |
+| Bangladesh Public Procurement Authority (BPPA) | search | 0.95 |
+| public procurement policy, regulations, e-GP systems | search | 0.90 |
+| ensure transparent and efficient procurement in Bangladesh | search | 0.90 |
+| 2026-04-05 | search | 0.90 |
+| Foreign Exchange Regulation Act, 1947 | search | 0.95 |
+| Authorised Dealer (AD) licence from Bangladesh Bank for foreign exchange operati | search | 0.90 |
+| 2025-12-09 | search | 0.90 |
+| banking activities requiring separate regulatory consent in Bangladesh | search | 0.90 |
+| BIM outsourcing | search | 0.95 |
+| 2D to 3D CAD conversion, outsourced BIM services, BIM 4D modeling | search | 0.90 |
 | USA | search | 0.95 |
-| BIM outsourcing services | search | 0.95 |
-| USA | search | 0.95 |
-| ['access specialized expertise', 'reduce operational costs', 'improve project tu | search | 0.90 |
-| $600 | search | 0.90 |
+| 2025-02-25 | search | 0.90 |
+| $30,000–$80,000 | search | 0.95 |
+| Take-off and Estimation services | search | 0.90 |
+| Fixed pricing | search | 0.90 |

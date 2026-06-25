@@ -2,8 +2,8 @@
 sector: jewellery
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.739
-evidence_ids: ['553c59ba-fe7', '791312ea-9da', '4cc08d07-1f5']
+confidence: 0.693
+evidence_ids: ['39c29d6f-84e', '03bd9d18-34a']
 ---
 
 # Jewellery — Bangladesh Market
@@ -77,12 +77,13 @@ evidence_ids: ['553c59ba-fe7', '791312ea-9da', '4cc08d07-1f5']
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Love Pearl Necklace Gift Box Freshwater Pearl Jewelry | search | 0.90 |
-| pearl jewellery | search | 0.95 |
-| red gold | search | 0.95 |
-| Bangladesh | search | 0.95 |
-| wedding jewellery | search | 0.90 |
+| gold plate jewellery | search | 0.95 |
+| wrap in tissue after use | search | 0.90 |
+| can be re-painted at a gold shop when it turns black | search | 0.90 |
+| red gold jewellery | search | 0.90 |
+| competitive pricing, reliable quality, strong buyer support | search | 0.80 |

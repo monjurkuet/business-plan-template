@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.741
-evidence_ids: ['2aa7fb3f-497', '720d3318-924', 'd56e5001-114', '50aa68a9-46f', '7341205d-5f5']
+confidence: 0.743
+evidence_ids: ['2209e3ff-72c', 'd0ed6c11-c09', '494804d1-ad5', '4d33c863-856']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -100,22 +100,15 @@ evidence_ids: ['2aa7fb3f-497', '720d3318-924', 'd56e5001-114', '50aa68a9-46f', '
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ['best match', 'price', 'free shipping', 'fast delivery', 'free return'] | search | 0.95 |
-| Bangladesh | search | 0.95 |
-| baggy pants | search | 0.95 |
-| boys | search | 0.90 |
-| ['casual wear', 'comfortable daily wear', 'premium quality fabric', 'affordable  | search | 0.90 |
-| all over Bangladesh | search | 0.95 |
-| ['t-shirts', 'polo shirts', 'casual shirts', 'summer wear'] | search | 0.95 |
-| across Bangladesh | search | 0.95 |
-| Mom & Kids | search | 0.95 |
-| SiATEX Global | search | 0.95 |
-| trusted and reliable clothing manufacturer in Bangladesh | search | 0.95 |
-| best factory prices and highest-quality custom apparel | search | 0.90 |
-| luxury clothing | search | 0.95 |
-| Triple – Silent Luxury | search | 0.95 |
-| Black Aura – Black & Cream Polka Dot Luxury Pret 3-Piece | search | 0.95 |
+| baggy pants | search | 1.00 |
+| affordable | search | 0.90 |
+| all over Bangladesh | search | 1.00 |
+| ['free shipping', 'fast delivery', 'free return'] | search | 1.00 |
+| best factory prices and the highest-quality custom apparel | search | 0.90 |
+| 90 | search | 0.95 |
+| 30 | search | 0.95 |

@@ -2,8 +2,8 @@
 sector: crypto-bitcoin
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.742
-evidence_ids: ['9bb462c6-672', '8fa076eb-22f', '3fc9a1b7-6fc', '453a6e3d-9d4']
+confidence: 0.735
+evidence_ids: ['c4038d4c-392', '74054f24-ddc', '158875d0-0b5', 'dc952c31-f46', 'b58f14c8-2bf', '4a522b49-258']
 ---
 
 # Crypto & Bitcoin — Bangladesh Market
@@ -80,16 +80,23 @@ evidence_ids: ['9bb462c6-672', '8fa076eb-22f', '3fc9a1b7-6fc', '453a6e3d-9d4']
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| BDT P2P liquidity, bKash and Nagad support, low fees, platform reliability | search | 0.95 |
-| 2026-03-26 | search | 0.95 |
-| buy, sell, and trade Bitcoin and altcoins | search | 0.95 |
-| support for BDT and local payment methods | search | 0.95 |
-| 2026-06-04 | search | 0.95 |
-| 3000000 | search | 0.95 |
-| 35 | search | 0.95 |
-| banned | search | 0.95 |
-| 775 | search | 0.95 |
+| BDT | search | 0.90 |
+| ['bKash', 'Nagad'] | search | 0.90 |
+| 2026 | search | 0.90 |
+| BDT | search | 0.90 |
+| 2026 | search | 0.90 |
+| 2026-06 | search | 0.90 |
+| 3000000 | search | 0.90 |
+| 35 | search | 0.90 |
+| ban | search | 0.90 |
+| 2025 | search | 0.90 |
+| 775 | search | 0.90 |
+| 2026 | search | 0.90 |
+| strict restrictions | search | 0.95 |
+| continues through global platforms that accept BDT deposits | search | 0.90 |
+| 2026-01-30 | search | 0.90 |
