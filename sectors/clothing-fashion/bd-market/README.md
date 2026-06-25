@@ -1,9 +1,9 @@
 ---
 sector: clothing-fashion
-last_verified: 2026-06-24
+last_verified: 2026-06-25
 freshness: fresh
-confidence: 0.749
-evidence_ids: ['ebb57241-8fc', '9b79d0fd-7ae', '43aa2533-a4c', 'f850805c-b33', '151ab66f-b31', '79f4bb4c-c41']
+confidence: 0.745
+evidence_ids: ['595e26f2-2e9', '0db30ffc-16b', '689f4c58-a26', '0fe13833-4ca', '0850fe35-719', '2c7e9d1e-21f', '5d209a8f-bdd', '0902ffa6-785']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -90,22 +90,23 @@ evidence_ids: ['ebb57241-8fc', '9b79d0fd-7ae', '43aa2533-a4c', 'f850805c-b33', '
 
 
 
-## Auto-Updated Data (2026-06-24)
+
+## Auto-Updated Data (2026-06-25)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
 | Tyzo | search | 1.00 |
-| clothing-fashion | search | 1.00 |
+| Modern Bangladeshi clothing brand offering stylish, comfortable, and affordable  | search | 1.00 |
 | Bangladesh | search | 1.00 |
 | Twelve Clothing | search | 1.00 |
-| clothing-fashion | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| menswear, womenswear, kidswear, panjabi, kurti, gowns, t-shirts, polos | search | 1.00 |
+| Bangladesh’s leading fashion brand offering premium clothing, trendy menswear, w | search | 1.00 |
 | JamaKapor | search | 1.00 |
-| clothing-fashion | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| Bangladesh's largest online fashion store | search | 0.90 |
+| Bangladesh's largest online fashion store for clothes, dresses, shoes and more f | search | 1.00 |
+| Best prices in home delivery | search | 0.90 |
 | Sailor | search | 1.00 |
-| clothing-fashion | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| menswear, womenswear, kidswear, lifestyle essentials | search | 1.00 |
+| One of the best fashion retail brands in Bangladesh, offering trendy menswear, w | search | 1.00 |
+| Epyllion Group | search | 1.00 |
+| sailor.clothing | search | 1.00 |
+| 100 | search | 0.95 |
+| 300-1000 | search | 0.95 |
+| up to 3000 | search | 0.95 |

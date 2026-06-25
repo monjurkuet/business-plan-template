@@ -1,200 +1,511 @@
 {
-  "run_id": "20260624-205946",
-  "generated_at": "2026-06-24T20:59:47.158200+00:00",
-  "total_queries": 24,
-  "total_evidence": 84,
+  "generated_at": "2026-06-25T00:06:05.294028+00:00",
+  "models_used": [
+    "gemini-2.5-flash-lite",
+    "deepseek-ai/deepseek-v4-pro",
+    "mistral/mistral-large-latest"
+  ],
+  "reviews": [
+    {
+      "model": "gemini-2.5-flash-lite",
+      "error": "Expecting value: line 1 column 1 (char 0)",
+      "gaps": [],
+      "recommendations": []
+    },
+    {
+      "model": "deepseek-ai/deepseek-v4-pro",
+      "error": "HTTP Error 404: Not Found",
+      "gaps": [],
+      "recommendations": []
+    },
+    {
+      "model": "mistral/mistral-large-latest",
+      "error": "HTTP Error 429: Too Many Requests",
+      "gaps": [],
+      "recommendations": []
+    }
+  ],
+  "total_queries": 60,
   "queries": [
     {
       "query": "\"car care Bangladesh\" price Bangladesh",
       "sector": "automotive-car-care",
       "family": "pricing",
       "priority": "P0",
-      "category": "pricing",
-      "expected_yield": "high"
+      "reason": "File age 49d exceeds freshness threshold for pricing",
+      "source_model": "freshness_policy"
     },
     {
       "query": "site:facebook.com \"car care Bangladesh\" offer price",
       "sector": "automotive-car-care",
       "family": "pricing",
       "priority": "P0",
-      "category": "pricing",
-      "expected_yield": "high"
-    },
-    {
-      "query": "\"car care Bangladesh\" Bangladesh price list",
-      "sector": "automotive-car-care",
-      "family": "pricing",
-      "priority": "P0",
-      "category": "pricing",
-      "expected_yield": "high"
-    },
-    {
-      "query": "\"auto detailing Dhaka\" price Bangladesh",
-      "sector": "automotive-car-care",
-      "family": "pricing",
-      "priority": "P0",
-      "category": "pricing",
-      "expected_yield": "high"
-    },
-    {
-      "query": "site:facebook.com \"auto detailing Dhaka\" offer price",
-      "sector": "automotive-car-care",
-      "family": "pricing",
-      "priority": "P0",
-      "category": "pricing",
-      "expected_yield": "high"
-    },
-    {
-      "query": "\"auto detailing Dhaka\" Bangladesh price list",
-      "sector": "automotive-car-care",
-      "family": "pricing",
-      "priority": "P0",
-      "category": "pricing",
-      "expected_yield": "high"
+      "reason": "File age 49d exceeds freshness threshold for pricing",
+      "source_model": "freshness_policy"
     },
     {
       "query": "\"car care Bangladesh\" regulation Bangladesh 2026",
       "sector": "automotive-car-care",
       "family": "policy_tracker",
       "priority": "P0",
-      "category": "policy",
-      "expected_yield": "high"
+      "reason": "File age 49d exceeds freshness threshold for policy",
+      "source_model": "freshness_policy"
     },
     {
       "query": "\"car care Bangladesh\" policy Bangladesh 2026",
       "sector": "automotive-car-care",
       "family": "policy_tracker",
       "priority": "P0",
-      "category": "policy",
-      "expected_yield": "high"
-    },
-    {
-      "query": "site:gov.bd \"car care Bangladesh\" circular",
-      "sector": "automotive-car-care",
-      "family": "policy_tracker",
-      "priority": "P0",
-      "category": "policy",
-      "expected_yield": "high"
-    },
-    {
-      "query": "\"auto detailing Dhaka\" regulation Bangladesh 2026",
-      "sector": "automotive-car-care",
-      "family": "policy_tracker",
-      "priority": "P0",
-      "category": "policy",
-      "expected_yield": "high"
-    },
-    {
-      "query": "\"auto detailing Dhaka\" policy Bangladesh 2026",
-      "sector": "automotive-car-care",
-      "family": "policy_tracker",
-      "priority": "P0",
-      "category": "policy",
-      "expected_yield": "high"
-    },
-    {
-      "query": "site:gov.bd \"auto detailing Dhaka\" circular",
-      "sector": "automotive-car-care",
-      "family": "policy_tracker",
-      "priority": "P0",
-      "category": "policy",
-      "expected_yield": "high"
+      "reason": "File age 49d exceeds freshness threshold for policy",
+      "source_model": "freshness_policy"
     },
     {
       "query": "\"car care Bangladesh\" review Bangladesh",
       "sector": "automotive-car-care",
       "family": "sentiment",
       "priority": "P0",
-      "category": "sentiment",
-      "expected_yield": "high"
+      "reason": "File age 49d exceeds freshness threshold for sentiment",
+      "source_model": "freshness_policy"
     },
     {
       "query": "site:facebook.com \"car care Bangladesh\" reviews",
       "sector": "automotive-car-care",
       "family": "sentiment",
       "priority": "P0",
-      "category": "sentiment",
-      "expected_yield": "high"
-    },
-    {
-      "query": "\"car care Bangladesh\" customer complaints Bangladesh",
-      "sector": "automotive-car-care",
-      "family": "sentiment",
-      "priority": "P0",
-      "category": "sentiment",
-      "expected_yield": "high"
-    },
-    {
-      "query": "\"auto detailing Dhaka\" review Bangladesh",
-      "sector": "automotive-car-care",
-      "family": "sentiment",
-      "priority": "P0",
-      "category": "sentiment",
-      "expected_yield": "high"
-    },
-    {
-      "query": "site:facebook.com \"auto detailing Dhaka\" reviews",
-      "sector": "automotive-car-care",
-      "family": "sentiment",
-      "priority": "P0",
-      "category": "sentiment",
-      "expected_yield": "high"
-    },
-    {
-      "query": "\"auto detailing Dhaka\" customer complaints Bangladesh",
-      "sector": "automotive-car-care",
-      "family": "sentiment",
-      "priority": "P0",
-      "category": "sentiment",
-      "expected_yield": "high"
+      "reason": "File age 49d exceeds freshness threshold for sentiment",
+      "source_model": "freshness_policy"
     },
     {
       "query": "\"clothing Bangladesh\" price Bangladesh",
       "sector": "clothing-fashion",
       "family": "pricing",
       "priority": "P0",
-      "category": "pricing",
-      "expected_yield": "high"
+      "reason": "File age 49d exceeds freshness threshold for pricing",
+      "source_model": "freshness_policy"
     },
     {
       "query": "site:facebook.com \"clothing Bangladesh\" offer price",
       "sector": "clothing-fashion",
       "family": "pricing",
       "priority": "P0",
-      "category": "pricing",
-      "expected_yield": "high"
+      "reason": "File age 49d exceeds freshness threshold for pricing",
+      "source_model": "freshness_policy"
     },
     {
-      "query": "\"clothing Bangladesh\" Bangladesh price list",
+      "query": "\"clothing Bangladesh\" regulation Bangladesh 2026",
       "sector": "clothing-fashion",
-      "family": "pricing",
+      "family": "policy_tracker",
       "priority": "P0",
-      "category": "pricing",
-      "expected_yield": "high"
+      "reason": "File age 49d exceeds freshness threshold for policy",
+      "source_model": "freshness_policy"
     },
     {
-      "query": "\"fashion brand Dhaka\" price Bangladesh",
+      "query": "\"clothing Bangladesh\" policy Bangladesh 2026",
       "sector": "clothing-fashion",
-      "family": "pricing",
+      "family": "policy_tracker",
       "priority": "P0",
-      "category": "pricing",
-      "expected_yield": "high"
+      "reason": "File age 49d exceeds freshness threshold for policy",
+      "source_model": "freshness_policy"
     },
     {
-      "query": "site:facebook.com \"fashion brand Dhaka\" offer price",
+      "query": "\"clothing Bangladesh\" review Bangladesh",
       "sector": "clothing-fashion",
-      "family": "pricing",
+      "family": "sentiment",
       "priority": "P0",
-      "category": "pricing",
-      "expected_yield": "high"
+      "reason": "File age 49d exceeds freshness threshold for sentiment",
+      "source_model": "freshness_policy"
     },
     {
-      "query": "\"fashion brand Dhaka\" Bangladesh price list",
+      "query": "site:facebook.com \"clothing Bangladesh\" reviews",
       "sector": "clothing-fashion",
+      "family": "sentiment",
+      "priority": "P0",
+      "reason": "File age 49d exceeds freshness threshold for sentiment",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"crypto Bangladesh\" Bangladesh top companies",
+      "sector": "crypto-bitcoin",
+      "family": "competitor_discovery",
+      "priority": "P0",
+      "reason": "Contains stale year references: 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"crypto Bangladesh\" Dhaka Facebook",
+      "sector": "crypto-bitcoin",
+      "family": "competitor_discovery",
+      "priority": "P0",
+      "reason": "Contains stale year references: 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"crypto Bangladesh\" price Bangladesh",
+      "sector": "crypto-bitcoin",
       "family": "pricing",
       "priority": "P0",
-      "category": "pricing",
-      "expected_yield": "high"
+      "reason": "File age 49d exceeds freshness threshold for pricing",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "site:facebook.com \"crypto Bangladesh\" offer price",
+      "sector": "crypto-bitcoin",
+      "family": "pricing",
+      "priority": "P0",
+      "reason": "File age 49d exceeds freshness threshold for pricing",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"crypto Bangladesh\" regulation Bangladesh 2026",
+      "sector": "crypto-bitcoin",
+      "family": "policy_tracker",
+      "priority": "P0",
+      "reason": "File age 49d exceeds freshness threshold for policy",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"crypto Bangladesh\" policy Bangladesh 2026",
+      "sector": "crypto-bitcoin",
+      "family": "policy_tracker",
+      "priority": "P0",
+      "reason": "File age 49d exceeds freshness threshold for policy",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"crypto Bangladesh\" review Bangladesh",
+      "sector": "crypto-bitcoin",
+      "family": "sentiment",
+      "priority": "P0",
+      "reason": "File age 49d exceeds freshness threshold for sentiment",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "site:facebook.com \"crypto Bangladesh\" reviews",
+      "sector": "crypto-bitcoin",
+      "family": "sentiment",
+      "priority": "P0",
+      "reason": "File age 49d exceeds freshness threshold for sentiment",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"crypto Bangladesh\" Eid sales Bangladesh",
+      "sector": "crypto-bitcoin",
+      "family": "seasonality",
+      "priority": "P0",
+      "reason": "Contains stale year references: 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"crypto Bangladesh\" seasonal demand Bangladesh",
+      "sector": "crypto-bitcoin",
+      "family": "seasonality",
+      "priority": "P0",
+      "reason": "Contains stale year references: 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"crypto Bangladesh\" Bangladesh top companies",
+      "sector": "crypto-bitcoin",
+      "family": "competitor_discovery",
+      "priority": "P0",
+      "reason": "Contains stale year references: 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"crypto Bangladesh\" Dhaka Facebook",
+      "sector": "crypto-bitcoin",
+      "family": "competitor_discovery",
+      "priority": "P0",
+      "reason": "Contains stale year references: 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"electronics Bangladesh\" price Bangladesh",
+      "sector": "electronics-gadgets",
+      "family": "pricing",
+      "priority": "P0",
+      "reason": "File age 49d exceeds freshness threshold for pricing",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "site:facebook.com \"electronics Bangladesh\" offer price",
+      "sector": "electronics-gadgets",
+      "family": "pricing",
+      "priority": "P0",
+      "reason": "File age 49d exceeds freshness threshold for pricing",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"electronics Bangladesh\" regulation Bangladesh 2026",
+      "sector": "electronics-gadgets",
+      "family": "policy_tracker",
+      "priority": "P0",
+      "reason": "File age 49d exceeds freshness threshold for policy",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"electronics Bangladesh\" policy Bangladesh 2026",
+      "sector": "electronics-gadgets",
+      "family": "policy_tracker",
+      "priority": "P0",
+      "reason": "File age 49d exceeds freshness threshold for policy",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"electronics Bangladesh\" review Bangladesh",
+      "sector": "electronics-gadgets",
+      "family": "sentiment",
+      "priority": "P0",
+      "reason": "File age 49d exceeds freshness threshold for sentiment",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "site:facebook.com \"electronics Bangladesh\" reviews",
+      "sector": "electronics-gadgets",
+      "family": "sentiment",
+      "priority": "P0",
+      "reason": "File age 49d exceeds freshness threshold for sentiment",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"pet care Bangladesh\" price Bangladesh",
+      "sector": "high-roi-niches",
+      "family": "pricing",
+      "priority": "P0",
+      "reason": "File age 49d exceeds freshness threshold for pricing",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "site:facebook.com \"pet care Bangladesh\" offer price",
+      "sector": "high-roi-niches",
+      "family": "pricing",
+      "priority": "P0",
+      "reason": "File age 49d exceeds freshness threshold for pricing",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"pet care Bangladesh\" regulation Bangladesh 2026",
+      "sector": "high-roi-niches",
+      "family": "policy_tracker",
+      "priority": "P0",
+      "reason": "File age 49d exceeds freshness threshold for policy",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"pet care Bangladesh\" policy Bangladesh 2026",
+      "sector": "high-roi-niches",
+      "family": "policy_tracker",
+      "priority": "P0",
+      "reason": "File age 49d exceeds freshness threshold for policy",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"pet care Bangladesh\" review Bangladesh",
+      "sector": "high-roi-niches",
+      "family": "sentiment",
+      "priority": "P0",
+      "reason": "File age 49d exceeds freshness threshold for sentiment",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "site:facebook.com \"pet care Bangladesh\" reviews",
+      "sector": "high-roi-niches",
+      "family": "sentiment",
+      "priority": "P0",
+      "reason": "File age 49d exceeds freshness threshold for sentiment",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"jewellery Bangladesh\" price Bangladesh",
+      "sector": "jewellery",
+      "family": "pricing",
+      "priority": "P0",
+      "reason": "File age 49d exceeds freshness threshold for pricing",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "site:facebook.com \"jewellery Bangladesh\" offer price",
+      "sector": "jewellery",
+      "family": "pricing",
+      "priority": "P0",
+      "reason": "File age 49d exceeds freshness threshold for pricing",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"jewellery Bangladesh\" regulation Bangladesh 2026",
+      "sector": "jewellery",
+      "family": "policy_tracker",
+      "priority": "P0",
+      "reason": "File age 49d exceeds freshness threshold for policy",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"jewellery Bangladesh\" policy Bangladesh 2026",
+      "sector": "jewellery",
+      "family": "policy_tracker",
+      "priority": "P0",
+      "reason": "File age 49d exceeds freshness threshold for policy",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"jewellery Bangladesh\" review Bangladesh",
+      "sector": "jewellery",
+      "family": "sentiment",
+      "priority": "P0",
+      "reason": "File age 49d exceeds freshness threshold for sentiment",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "site:facebook.com \"jewellery Bangladesh\" reviews",
+      "sector": "jewellery",
+      "family": "sentiment",
+      "priority": "P0",
+      "reason": "File age 49d exceeds freshness threshold for sentiment",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"digital marketing Bangladesh\" price Bangladesh",
+      "sector": "media-marketing-digital",
+      "family": "pricing",
+      "priority": "P0",
+      "reason": "File age 49d exceeds freshness threshold for pricing",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "site:facebook.com \"digital marketing Bangladesh\" offer price",
+      "sector": "media-marketing-digital",
+      "family": "pricing",
+      "priority": "P0",
+      "reason": "File age 49d exceeds freshness threshold for pricing",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"digital marketing Bangladesh\" regulation Bangladesh 2026",
+      "sector": "media-marketing-digital",
+      "family": "policy_tracker",
+      "priority": "P0",
+      "reason": "File age 49d exceeds freshness threshold for policy",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"digital marketing Bangladesh\" policy Bangladesh 2026",
+      "sector": "media-marketing-digital",
+      "family": "policy_tracker",
+      "priority": "P0",
+      "reason": "File age 49d exceeds freshness threshold for policy",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"digital marketing Bangladesh\" review Bangladesh",
+      "sector": "media-marketing-digital",
+      "family": "sentiment",
+      "priority": "P0",
+      "reason": "File age 49d exceeds freshness threshold for sentiment",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "site:facebook.com \"digital marketing Bangladesh\" reviews",
+      "sector": "media-marketing-digital",
+      "family": "sentiment",
+      "priority": "P0",
+      "reason": "File age 49d exceeds freshness threshold for sentiment",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"travel agency Bangladesh\" price Bangladesh",
+      "sector": "travel-tourism",
+      "family": "pricing",
+      "priority": "P0",
+      "reason": "File age 49d exceeds freshness threshold for pricing",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "site:facebook.com \"travel agency Bangladesh\" offer price",
+      "sector": "travel-tourism",
+      "family": "pricing",
+      "priority": "P0",
+      "reason": "File age 49d exceeds freshness threshold for pricing",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"travel agency Bangladesh\" regulation Bangladesh 2026",
+      "sector": "travel-tourism",
+      "family": "policy_tracker",
+      "priority": "P0",
+      "reason": "File age 49d exceeds freshness threshold for policy",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"travel agency Bangladesh\" policy Bangladesh 2026",
+      "sector": "travel-tourism",
+      "family": "policy_tracker",
+      "priority": "P0",
+      "reason": "File age 49d exceeds freshness threshold for policy",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"travel agency Bangladesh\" review Bangladesh",
+      "sector": "travel-tourism",
+      "family": "sentiment",
+      "priority": "P0",
+      "reason": "File age 49d exceeds freshness threshold for sentiment",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "site:facebook.com \"travel agency Bangladesh\" reviews",
+      "sector": "travel-tourism",
+      "family": "sentiment",
+      "priority": "P0",
+      "reason": "File age 49d exceeds freshness threshold for sentiment",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"car care Bangladesh\" Bangladesh top companies",
+      "sector": "automotive-car-care",
+      "family": "competitor_discovery",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"car care Bangladesh\" Dhaka Facebook",
+      "sector": "automotive-car-care",
+      "family": "competitor_discovery",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"car care Bangladesh\" Eid sales Bangladesh",
+      "sector": "automotive-car-care",
+      "family": "seasonality",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"car care Bangladesh\" seasonal demand Bangladesh",
+      "sector": "automotive-car-care",
+      "family": "seasonality",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"car care Bangladesh\" Bangladesh top companies",
+      "sector": "automotive-car-care",
+      "family": "competitor_discovery",
+      "priority": "P1",
+      "reason": "File age 49d exceeds freshness threshold for competitor_core_profile",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"car care Bangladesh\" Dhaka Facebook",
+      "sector": "automotive-car-care",
+      "family": "competitor_discovery",
+      "priority": "P1",
+      "reason": "File age 49d exceeds freshness threshold for competitor_core_profile",
+      "source_model": "freshness_policy"
     }
   ]
 }

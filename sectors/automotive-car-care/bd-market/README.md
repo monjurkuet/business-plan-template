@@ -1,9 +1,9 @@
 ---
 sector: automotive-car-care
-last_verified: 2026-06-24
+last_verified: 2026-06-25
 freshness: fresh
-confidence: 0.745
-evidence_ids: ['76c4665c-352', 'a77ccad4-a9a', 'b2bf7d55-ee3', '1f3521de-b2a', '5402508f-63e', '34de3eeb-770', '794f19c0-6a6', 'b0036117-64b', '011a2b2f-e5a', '168db6f9-116', '4c77ca6f-b1e', '33900c0b-e58', 'fdd32acf-249', '7a47c749-395', '4cb7b331-f5a', '4d6bcec7-273', '54d1d0db-42e', '440c9475-49d', 'd3de0a0d-e50', 'c6ce3b77-2d2']
+confidence: 0.739
+evidence_ids: ['eadc94d3-b0f', 'ba1437ea-96a', '780524ca-0d4', 'e4f5ed5e-959', 'a5518eb9-657', 'a12eccca-f10']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -107,22 +107,24 @@ evidence_ids: ['76c4665c-352', 'a77ccad4-a9a', 'b2bf7d55-ee3', '1f3521de-b2a', '
 
 
 
-## Auto-Updated Data (2026-06-24)
+
+
+## Auto-Updated Data (2026-06-25)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Gasoline (Petrol), Diesel, LPG, Kerosene, Heating Oil | search | 0.90 |
-| BDT | search | 1.00 |
-| Litre, Barrel, Gallon | search | 0.90 |
-| restaurants, food, transportation, utilities, housing | search | 0.90 |
-| UndergroundAuto Detailing | search | 0.95 |
-| Dhaka | search | 1.00 |
-| car detailing, car wash | search | 0.90 |
-| BR Auto Detailing | search | 0.95 |
-| Dhaka | search | 1.00 |
-| car wash, detailing | search | 0.90 |
-| 01978783590 | search | 0.95 |
-| ['CarProBangladesh', 'Drive Boosted', 'CarXBangladesh', 'Auto Mania', 'Continent | search | 0.95 |
-| Dhaka | search | 1.00 |
-| auto detailing | search | 0.90 |
-| The Garage Auto Detailing | search | 1.00 |
+| car_price_list | search | 0.95 |
+| 2026-02-05 | search | 0.95 |
+| brand_new_and_recondition_cars | search | 0.90 |
+| car_price_list | search | 0.95 |
+| brand_new_cars | search | 0.90 |
+| installment_details_down_payment_availability | search | 0.90 |
+| car_price_list | search | 0.95 |
+| 6_days_ago | search | 0.95 |
+| 1-285000 | search | 0.90 |
+| car_sales_platform | search | 0.95 |
+| 2026-05-09 | search | 0.95 |
+| used_and_recondition_cars | search | 0.90 |
+| car_loans_schedule_viewings | search | 0.90 |
+| Car Care BD | search | 0.95 |
+| automotive_repair_shop | search | 0.95 |

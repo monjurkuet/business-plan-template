@@ -14,11 +14,40 @@
     "source_type": "unknown",
     "title": "Car Price in Bangladesh 2026 (Brand New & Recondition)",
     "snippet": "February 5, 2026 -All Brand Cars Full Specification, Current Price in Bangladesh, Estimated Price of Recondition and Used Car of Toyota, Nissan, Honda etc",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "document_type",
+        "value": "price_list",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "coverage",
+        "value": "brand_new_and_recondition_cars",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "brands_mentioned",
+        "value": [
+          "Toyota",
+          "Nissan",
+          "Honda"
+        ],
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "publication_date",
+        "value": "2026-02-05",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "9d1f0ce6-d1d",
@@ -35,11 +64,35 @@
     "source_type": "unknown",
     "title": "Brand New Car Price in BD | বর্তমান মূল্য সহ বিস্তারিত",
     "snippet": "Explore all the brand new Cars price in Bangladesh, including details specifications, installment details, down payment, and availability.",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "document_type",
+        "value": "price_list",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "coverage",
+        "value": "brand_new_cars",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "details_included",
+        "value": [
+          "specifications",
+          "installment_details",
+          "down_payment",
+          "availability"
+        ],
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "e01d0b19-1d4",
@@ -56,11 +109,60 @@
     "source_type": "unknown",
     "title": "Car Price in Bangladesh 2026 (Buy & Sell) | BDStall",
     "snippet": "5 days ago -All Car · Brand · Toyota · Nissan · Mazda · Mitsubishi · Honda · Hyundai · Suzuki · Lexus · Audi · Subaru · Tata · Mahindra · Volkswagen · Kia · Land Rover · Mercedes · BMW · Others · Price Range ·৳ 1-285000· ৳ ...",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "document_type",
+        "value": "price_list",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "coverage",
+        "value": "buy_and_sell_cars",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "brands_mentioned",
+        "value": [
+          "Toyota",
+          "Nissan",
+          "Mazda",
+          "Mitsubishi",
+          "Honda",
+          "Hyundai",
+          "Suzuki",
+          "Lexus",
+          "Audi",
+          "Subaru",
+          "Tata",
+          "Mahindra",
+          "Volkswagen",
+          "Kia",
+          "Land Rover",
+          "Mercedes",
+          "BMW"
+        ],
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "price_range_bdt",
+        "value": "1-285000",
+        "unit": "BDT",
+        "confidence": 1.0
+      },
+      {
+        "field": "publication_date_relative",
+        "value": "5 days ago",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "7ba1a6cd-b88",
@@ -77,11 +179,49 @@
     "source_type": "unknown",
     "title": "Cars for Sale in Bangladesh - Garirbazar",
     "snippet": "May 9, 2026 -GarirBazar provides you exclusive access the best car prices in Bangladesh, used car price in Bangladesh, BD recondition car price, BD car loans and schedule viewings with the best car showroom Dhaka.",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "document_type",
+        "value": "marketplace",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "coverage",
+        "value": [
+          "new_cars",
+          "used_cars",
+          "recondition_cars"
+        ],
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "services_offered",
+        "value": [
+          "car_loans",
+          "schedule_viewings"
+        ],
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "location_focus",
+        "value": "Dhaka",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "publication_date",
+        "value": "2026-05-09",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "ba5d1ce0-06c",
@@ -98,11 +238,36 @@
     "source_type": "unknown",
     "title": "Car Price in Bangladesh | Japanese Used Cars for Sale",
     "snippet": "Dhaka buyers searching for used cars for sale in Dhaka Bangladesh often prefer these older reconditioned vehicles due to their low purchase cost and easy maintenance.Popular Japanese Cars Available at Carbarn BangladeshIf you are looking for car prices in Bangladesh, you are in the right place at Carbarn Bangladesh. We offer a variety of reconditioned Japanese vehicles. Each vehicle is carefully inspected and certified to meet the highest quality standards before being shipped to Bangladesh.",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "document_type",
+        "value": "marketplace",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "coverage",
+        "value": "used_and_reconditioned_japanese_cars",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "location_focus",
+        "value": "Dhaka",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "quality_assurance",
+        "value": "inspected_and_certified",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "935981af-580",
@@ -120,10 +285,10 @@
     "title": "Bangladeshi Helmer Maksud Hossain Brings Emotional Debut ‘Saba’ to Toronto",
     "snippet": "Bangladeshi filmmaker Maksud Hossain is set to unveil his feature directorial debut “Saba” at the To...",
     "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 0.5,
+    "confidence_score": 0.545
   },
   {
     "evidence_id": "68151632-993",
@@ -141,10 +306,10 @@
     "title": "Reliable Classic Cars That Won’t Let You Down on Your Commute",
     "snippet": "What makes acara classic? In the U.S., it depends on where you live, but most states agree that...",
     "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 0.5,
+    "confidence_score": 0.545
   },
   {
     "evidence_id": "7ea04dbe-407",
@@ -162,10 +327,10 @@
     "title": "Why Should Sports Fans Care About Tariffs?",
     "snippet": "For a long time, the word tariff seemed antiquated, like riding in a horseless carriage or going to a sock hop. But tariffs are back with a vengeance...",
     "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 0.5,
+    "confidence_score": 0.545
   },
   {
     "evidence_id": "a8e2987e-fcc",
@@ -182,11 +347,48 @@
     "source_type": "unknown",
     "title": "Car Care BD | Dhaka | Facebook",
     "snippet": "Car Care BD is a mobile automobile market to supply spare parts & provide services. Page · Automotive Repair Shop · Kha- 200/A, Haji SolimUddin Lane, Middle Badda, Dhaka-1212, Dhaka, Bangladesh · +880 1849-614971 · carcarebd24@gmail.com · car care bd · https://www.youtube.com/@CARCAREBD236 ·",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "entity_name",
+        "value": "Car Care BD",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "entity_type",
+        "value": "automotive_repair_shop",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "address",
+        "value": "Kha- 200/A, Haji SolimUddin Lane, Middle Badda, Dhaka-1212, Dhaka, Bangladesh",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "phone_number",
+        "value": "+880 1849-614971",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "email",
+        "value": "carcarebd24@gmail.com",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "social_media_handle",
+        "value": "@CARCAREBD236",
+        "unit": "YouTube",
+        "confidence": 1.0
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "9c22b413-a55",
@@ -203,11 +405,48 @@
     "source_type": "unknown",
     "title": "CarPro Bangladesh | Dhaka | Facebook",
     "snippet": "Carpro.bangladesh@gmail.com · carpro.com.bd · Closed now · In-store pickup · Price Range · $$ 94% recommend (58 Reviews) · See all photos · 7h · · PPF DONE · PROTECTED TODAY… · See more · All reactions:21 ·",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "entity_name",
+        "value": "CarPro Bangladesh",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "email",
+        "value": "carpro.bangladesh@gmail.com",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "website",
+        "value": "carpro.com.bd",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "price_range_indicator",
+        "value": "$$",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "customer_recommendation_rate",
+        "value": 0.94,
+        "unit": "percentage",
+        "confidence": 1.0
+      },
+      {
+        "field": "review_count",
+        "value": 58,
+        "unit": "reviews",
+        "confidence": 1.0
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "66c87c01-96a",
@@ -224,11 +463,24 @@
     "source_type": "unknown",
     "title": "Gladiator Car Care Tech Bangladesh | Dhaka | Facebook",
     "snippet": "Engaged in researching, producing and selling of car care products, spray paint, special coating and surface treating agent. ... BIGGEST DISCOUNT IN CAMPING HISTORY! THERE WILL BE A LOT OF FREEBIES! #Gladiator #Bangladesh #BikeBD #Motorcycle #fest #camping",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "business_activity",
+        "value": "researching, producing and selling of car care products, spray paint, special coating and surface treating agent",
+        "unit": null,
+        "confidence": 0.95
+      },
+      {
+        "field": "promotion_type",
+        "value": "discount and freebies",
+        "unit": null,
+        "confidence": 0.9
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.739
   },
   {
     "evidence_id": "20691fdc-144",
@@ -245,11 +497,36 @@
     "source_type": "unknown",
     "title": "Vehicle Auto Care BD | Dhaka",
     "snippet": "Vehicle Auto Care BD, Dhaka, Bangladesh. 2,745 likes · 3 talking about this · 56 were here. All Types Hybrid & Euro Car Services & Solutions All Types Hybrid & Euro Vehicle Spare Parts Imports",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "service_offering",
+        "value": "All Types Hybrid & Euro Car Services & Solutions, All Types Hybrid & Euro Vehicle Spare Parts Imports",
+        "unit": null,
+        "confidence": 0.95
+      },
+      {
+        "field": "facebook_engagement",
+        "value": 2745,
+        "unit": "likes",
+        "confidence": 0.95
+      },
+      {
+        "field": "facebook_talking_about",
+        "value": 3,
+        "unit": "people",
+        "confidence": 0.95
+      },
+      {
+        "field": "physical_presence",
+        "value": 56,
+        "unit": "visits",
+        "confidence": 0.9
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.741
   },
   {
     "evidence_id": "c8ab2ee3-40d",
@@ -267,10 +544,10 @@
     "title": "RENT A CAR DHAKA | Dhaka",
     "snippet": "Explore the things you love · Log in to Facebook · English (UK) · Русский · Українська · Suomi · 中文(简体) · Deutsch · العربية · More languages…",
     "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 0.5,
+    "confidence_score": 0.545
   },
   {
     "evidence_id": "b016c41a-ee6",
@@ -288,10 +565,10 @@
     "title": "Cost of Living in Bangladesh. Prices in Bangladesh. Updated ...",
     "snippet": "Averagepricesof more than 40 products and services inBangladesh.Pricesof restaurants, food, transportation, utilities and housing are included.",
     "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 0.5,
+    "confidence_score": 0.545
   },
   {
     "evidence_id": "c7c3ce46-07e",
@@ -309,10 +586,10 @@
     "title": "Cost of Living in Dhaka, Bangladesh. Jun 2026 prices in Dhaka.",
     "snippet": "20 hours ago ·Listofpricesin Dhaka (Bangladesh) for food, housing, transportation, going out, and more on Jun 2026. Compare the Cost of Living in Dhaka with any other city in the world.",
     "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 0.5,
+    "confidence_score": 0.545
   },
   {
     "evidence_id": "3a364894-6d4",
@@ -330,10 +607,10 @@
     "title": "unsupervised_topic_modeling/topics/en/17/100/50/topics at ...",
     "snippet": "Contribute to annontopicmodel/unsupervised_topic_modeling development by creating an account on GitHub.",
     "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 0.5,
+    "confidence_score": 0.545
   },
   {
     "evidence_id": "364f8782-32a",
@@ -351,10 +628,10 @@
     "title": "Google News",
     "snippet": "Stay updated with the latest news and stories from around the world onGoogle News.",
     "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 0.5,
+    "confidence_score": 0.545
   },
   {
     "evidence_id": "d9050732-673",
@@ -372,10 +649,10 @@
     "title": "Wiley Online Library",
     "snippet": "We would like to show you a description here but the site won’t allow us.",
     "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 0.5,
+    "confidence_score": 0.545
   },
   {
     "evidence_id": "95ad3045-584",
@@ -393,10 +670,10 @@
     "title": "Reliable Classic Cars That Won’t Let You Down on Your Commute",
     "snippet": "What makes acara classic? In the U.S., it depends on where you live, but most states agree that...",
     "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 0.5,
+    "confidence_score": 0.545
   },
   {
     "evidence_id": "b59f5f9b-cfd",
@@ -414,10 +691,10 @@
     "title": "Trump wants to break China. He may drive the world into its arms",
     "snippet": "America and China are on a collision course. A tit-for-tat trade war means prices of Chinese goods...",
     "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 0.5,
+    "confidence_score": 0.545
   },
   {
     "evidence_id": "a5fddb08-cd5",
@@ -435,10 +712,10 @@
     "title": "Why Are Hedge Funds Bullish On Lyft, Inc. (LYFT)?",
     "snippet": "We recently compiled alistof the 11 Best Gig Economy Stocks to Buy According to Hedge Funds. In this article, we are going to take a look at where...",
     "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 0.5,
+    "confidence_score": 0.545
   },
   {
     "evidence_id": "3f607ac0-a29",
@@ -455,11 +732,36 @@
     "source_type": "unknown",
     "title": "Underground Auto Detailing | Dhaka - Facebook",
     "snippet": "Mar 4, 2025 ·UndergroundAuto Detailing, Dhaka. 254 likes. Make your car shine their brightest and look their best at the convenience of your home",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "service_provider_name",
+        "value": "Underground Auto Detailing",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "location",
+        "value": "Dhaka",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "service_type",
+        "value": "car wash & detailing",
+        "unit": null,
+        "confidence": 0.9
+      },
+      {
+        "field": "facebook_likes",
+        "value": 254,
+        "unit": "people",
+        "confidence": 1.0
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.746
   },
   {
     "evidence_id": "96c9449e-4f8",
@@ -476,11 +778,36 @@
     "source_type": "unknown",
     "title": "BR Auto Detailing | Dhaka - Facebook",
     "snippet": "Aug 21, 2025 ·without leaving your home! We offer professional car wash &detailingservices at your doorstep, All roundDhaka🚗 . 📞 Book now: 01978783590,",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "service_provider_name",
+        "value": "BR Auto Detailing",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "location",
+        "value": "Dhaka",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "service_type",
+        "value": "car wash & detailing",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "contact_number",
+        "value": "01978783590",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "10daa7ab-419",
@@ -497,11 +824,37 @@
     "source_type": "unknown",
     "title": "Auto Detailing Services in Dhaka - Page 1 - autoyas.com",
     "snippet": "Find Auto Detailing Services in Dhaka. Listings include CarProBangladesh, Drive Boosted, CarXBangladesh, Auto Mania, Continental Works • T-Center - Toyota Authorized Service Center and Extreme Car Wash. Click on each in the list below the map for more information.",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "service_provider_list",
+        "value": [
+          "CarPro Bangladesh",
+          "Drive Boosted",
+          "CarX Bangladesh",
+          "Auto Mania",
+          "Continental Works • T-Center - Toyota Authorized Service Center",
+          "Extreme Car Wash"
+        ],
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "location",
+        "value": "Dhaka",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "service_type",
+        "value": "auto detailing",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "79a80152-09d",
@@ -518,11 +871,30 @@
     "source_type": "unknown",
     "title": "The Garage Auto Detailing Dhaka - Phone Number, Branch Code ...",
     "snippet": "Find complete details of The GarageAuto Detailing DhakaDhaka with bangladeshbranches.com –bangladesh’s Largest Branches directory. The GarageAuto Detailing Dhakais a Dhaka based company offering services / Products in Dhaka as well as in other major cities ofbangladesh. You can contact the company directly at 01602-261789.",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "service_provider_name",
+        "value": "The Garage Auto Detailing",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "location",
+        "value": "Dhaka",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "contact_number",
+        "value": "01602-261789",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "024f432b-d38",
@@ -539,11 +911,36 @@
     "source_type": "unknown",
     "title": "NASPRO Auto Detailing - Gulshan Centre Point, House 26 Road ...",
     "snippet": "NASPROAuto Detailing Dhakapostal code 1212. See 2 social pages including Facebook and Google, Hours, Phone, Website and more for this business. 3.5 Cybo Score. NASPRO Auto Detailing is working in Car wash and detail activities. Review on Cybo.",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "service_provider_name",
+        "value": "NASPRO Auto Detailing",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "location",
+        "value": "Gulshan Centre Point, House 26 Road, Dhaka",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "postal_code",
+        "value": "1212",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "service_type",
+        "value": "car wash and detail",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "42bb6836-9d3",
@@ -560,11 +957,37 @@
     "source_type": "unknown",
     "title": "Auto Detailing Services in Dhaka - Page 1 - autoyas.com",
     "snippet": "Find Auto Detailing Services in Dhaka. Listings include CarProBangladesh, Drive Boosted, CarXBangladesh, Auto Mania, Continental Works • T-Center - Toyota Authorized Service Center and Extreme Car Wash. Click on each in thelistbelow the map for more information.",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "service_provider_list",
+        "value": [
+          "CarPro Bangladesh",
+          "Drive Boosted",
+          "CarX Bangladesh",
+          "Auto Mania",
+          "Continental Works • T-Center - Toyota Authorized Service Center",
+          "Extreme Car Wash"
+        ],
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "location",
+        "value": "Dhaka",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "service_type",
+        "value": "auto detailing",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "fe422306-11a",
@@ -581,11 +1004,36 @@
     "source_type": "unknown",
     "title": "BR Auto Detailing | Dhaka - Facebook",
     "snippet": "Aug 21, 2025 ·without leaving your home! We offer professional car wash &detailingservices at your doorstep, All roundDhaka🚗 . 📞 Book now: 01978783590,",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "service_provider_name",
+        "value": "BR Auto Detailing",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "location",
+        "value": "Dhaka",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "service_type",
+        "value": "car wash & detailing",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "contact_number",
+        "value": "01978783590",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "ba5a9eb8-fa8",
@@ -602,11 +1050,30 @@
     "source_type": "unknown",
     "title": "Underground Auto Detailing | Dhaka - Facebook",
     "snippet": "Mar 4, 2025 ·UndergroundAuto Detailing, Dhaka. 254 likes. Make your car shine their brightest and look their best at the convenience of your home",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "service_provider_name",
+        "value": "Underground Auto Detailing",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "location",
+        "value": "Dhaka",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "service_type",
+        "value": "car wash & detailing",
+        "unit": null,
+        "confidence": 0.9
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.745
   },
   {
     "evidence_id": "5c2998dd-d11",
@@ -623,11 +1090,30 @@
     "source_type": "unknown",
     "title": "The Garage Auto Detailing Dhaka - Phone Number, Branch Code ...",
     "snippet": "The GarageAuto Detailing Dhakais a Dhaka based company offering services / Products in Dhaka as well as in other major cities ofbangladesh. You can contact the company directly at 01602-261789.",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "service_provider_name",
+        "value": "The Garage Auto Detailing",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "location",
+        "value": "Dhaka",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "contact_number",
+        "value": "01602-261789",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "116f1fc5-30e",
@@ -645,10 +1131,10 @@
     "title": "Top 18 Car Washing Companies in Bangladesh (2026) | ensun",
     "snippet": "Naspro Auto Detailing is a leading car wash and care service provider in Dhaka,Bangladesh, offering a comprehensive range of services including Express & Premium Wash and Wax, Interior Deep Cleaning, and more.",
     "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 0.5,
+    "confidence_score": 0.545
   },
   {
     "evidence_id": "c289ef8d-dd7",
@@ -665,11 +1151,30 @@
     "source_type": "unknown",
     "title": "Banking Regulation 2026 - Bangladesh | Global Practice Guides ...",
     "snippet": "Dec 9, 2025 ·Banks inBangladeshroutinely undertake several additional activities, each requiring separate regulatory consent. Foreign exchange operations – A bank must obtain a specific Authorised Dealer (AD) licence fromBangladeshBank under the Foreign ExchangeRegulationAct, 1947, to buy, sell and deal in foreign currencies.",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "regulation_name",
+        "value": "Foreign Exchange Regulation Act, 1947",
+        "unit": null,
+        "confidence": 0.95
+      },
+      {
+        "field": "regulation_requirement",
+        "value": "Authorised Dealer (AD) licence from Bangladesh Bank required for foreign exchange operations",
+        "unit": null,
+        "confidence": 0.95
+      },
+      {
+        "field": "regulation_scope",
+        "value": "Banking activities including foreign currency transactions",
+        "unit": null,
+        "confidence": 0.9
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.74
   },
   {
     "evidence_id": "5beb43ee-dfa",
@@ -686,11 +1191,30 @@
     "source_type": "unknown",
     "title": "Bangladesh Cabinet Approves Gambling Prevention Act, 2026 to ...",
     "snippet": "1 day ago ·Home › Legal & Regulatory Legal & RegulatoryBangladeshCabinet Approves Gambling Prevention Act,2026to Replace 1867 Colonial Law The government has granted in-principle approval to draft legislation that would modernize gamblingregulationand address online betting platforms for the first time.",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "regulation_name",
+        "value": "Gambling Prevention Act, 2026",
+        "unit": null,
+        "confidence": 0.95
+      },
+      {
+        "field": "regulation_status",
+        "value": "Cabinet in-principle approval granted",
+        "unit": null,
+        "confidence": 0.95
+      },
+      {
+        "field": "regulation_purpose",
+        "value": "Modernize gambling regulation and address online betting platforms",
+        "unit": null,
+        "confidence": 0.9
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.74
   },
   {
     "evidence_id": "3726fe8d-148",
@@ -708,10 +1232,10 @@
     "title": "Google News",
     "snippet": "Stay updated with the latest news and stories from around the world onGoogle News.",
     "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 0.5,
+    "confidence_score": 0.545
   },
   {
     "evidence_id": "26e2d98d-0a1",
@@ -729,10 +1253,10 @@
     "title": "Wiley Online Library",
     "snippet": "We would like to show you a description here but the site won’t allow us.",
     "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 0.5,
+    "confidence_score": 0.545
   },
   {
     "evidence_id": "bbe9c381-23a",
@@ -750,10 +1274,10 @@
     "title": "Reuters | Breaking International News & Views",
     "snippet": "20 hours ago ·Find latest news from every corner of the globe atReuters.com, your online source for breaking international news coverage.",
     "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 0.5,
+    "confidence_score": 0.545
   },
   {
     "evidence_id": "032fe586-2ff",
@@ -771,10 +1295,10 @@
     "title": "WA lawmakers push for immigrant protections amid increased federal deportations",
     "snippet": "For Washington’s Democratic leaders, expanding protections for immigrant communities is a top priori...",
     "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 0.5,
+    "confidence_score": 0.545
   },
   {
     "evidence_id": "42c8a610-af9",
@@ -791,11 +1315,18 @@
     "source_type": "unknown",
     "title": "Top 18 Car Washing Companies in Bangladesh (2026) | ensun",
     "snippet": "Information about Car Washing inBangladeshWhen exploring the car washing industry inBangladesh, several key considerations come into play. Understanding localregulationsis crucial, as compliance with environmental standards and waste disposal laws is necessary to operate legally.",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "regulation_requirement",
+        "value": "Compliance with environmental standards and waste disposal laws required for legal operation",
+        "unit": null,
+        "confidence": 0.9
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.735
   },
   {
     "evidence_id": "ae8e20e5-384",
@@ -812,11 +1343,18 @@
     "source_type": "unknown",
     "title": "Banking Regulation 2026 - Bangladesh | Global Practice Guides ...",
     "snippet": "Dec 9, 2025 ·The regulatory agenda of theBangladeshBank for 2025 and2026is exceptionally dynamic, driven by a national push for enhanced governance, financial sector stability, and compliance with IMF programme conditions.",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "regulatory_agenda",
+        "value": "Bangladesh Bank regulatory agenda for 2025 and 2026 driven by enhanced governance, financial sector stability, and IMF programme conditions",
+        "unit": null,
+        "confidence": 0.9
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.735
   },
   {
     "evidence_id": "da96f80c-397",
@@ -833,11 +1371,18 @@
     "source_type": "unknown",
     "title": "Bangladesh Air Quality Regulations: Step-by-Step Legal ...",
     "snippet": "20 hours ago ·Comprehensive guide toBangladeshair qualityregulationsinBangladesh. Expert legal analysis by Tahmidur Rahman Remura Wahid (TRW) Law Firm covering legal framework, procedures, and practical advice.",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "regulation_topic",
+        "value": "Air quality regulations in Bangladesh",
+        "unit": null,
+        "confidence": 0.95
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.742
   },
   {
     "evidence_id": "8179eeb3-1df",
@@ -854,11 +1399,24 @@
     "source_type": "unknown",
     "title": "Top 22 Car Wash System Suppliers in Bangladesh (2026) | ensun",
     "snippet": "Information about Car Wash System inBangladeshIn the Car Wash System industry inBangladesh, key considerations include understanding localregulations, market demand, and environmental impact.Regulationsgoverning waste management and water usage are crucial, as compliance ensures sustainability and avoids penalties.",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "regulation_consideration",
+        "value": "waste management and water usage regulations are crucial for compliance in the car wash system industry",
+        "unit": null,
+        "confidence": 0.95
+      },
+      {
+        "field": "regulation_purpose",
+        "value": "ensures sustainability and avoids penalties",
+        "unit": null,
+        "confidence": 0.9
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.739
   },
   {
     "evidence_id": "b180c12f-ba3",
@@ -875,11 +1433,36 @@
     "source_type": "unknown",
     "title": "Underground Auto Detailing | Dhaka - Facebook",
     "snippet": "Mar 4, 2025 ·UndergroundAuto Detailing, Dhaka. 254 likes. Make your car shine their brightest and look their best at the convenience of your home",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "facebook_handle",
+        "value": "UndergroundAuto Detailing",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "location",
+        "value": "Dhaka",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "facebook_likes",
+        "value": 254,
+        "unit": "people",
+        "confidence": 1.0
+      },
+      {
+        "field": "service_offering",
+        "value": "car detailing at home",
+        "unit": null,
+        "confidence": 0.95
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.748
   },
   {
     "evidence_id": "3f3467e4-1a1",
@@ -896,11 +1479,36 @@
     "source_type": "unknown",
     "title": "Car care Bangladesh (@carcarebangladesh) - Instagram",
     "snippet": "27 Followers, 186 Following, 8 Posts - See Instagram photos and videos fromCar care Bangladesh(@carcarebangladesh)",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "instagram_handle",
+        "value": "carcarebangladesh",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "instagram_followers",
+        "value": 27,
+        "unit": "people",
+        "confidence": 1.0
+      },
+      {
+        "field": "instagram_following",
+        "value": 186,
+        "unit": "people",
+        "confidence": 1.0
+      },
+      {
+        "field": "instagram_posts",
+        "value": 8,
+        "unit": "posts",
+        "confidence": 1.0
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "0af8cace-32b",
@@ -917,11 +1525,36 @@
     "source_type": "unknown",
     "title": "Car Care | Dhaka | Facebook",
     "snippet": "Car Care, Dhaka,Bangladesh. 127 likes. Take Care Of Your Car In The Garage, and The Car Will Take Care Of You On The Road …. \" Car Care \"",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "facebook_handle",
+        "value": "Car Care",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "location",
+        "value": "Dhaka, Bangladesh",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "facebook_likes",
+        "value": 127,
+        "unit": "people",
+        "confidence": 1.0
+      },
+      {
+        "field": "service_tagline",
+        "value": "Take Care Of Your Car In The Garage, and The Car Will Take Care Of You On The Road",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "22758f3f-087",
@@ -938,11 +1571,24 @@
     "source_type": "unknown",
     "title": "PriceInBangladesh.com: All Products Price In Bangladesh",
     "snippet": "PriceInBangladesh.com is the best price comparison site inBangladesh. You can get the best and trustedreviewsfor all Bangladeshi products. Updates all the Bangladeshi products.",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "website_purpose",
+        "value": "price comparison and product reviews for Bangladeshi products",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "website_trust_level",
+        "value": "trusted reviews",
+        "unit": null,
+        "confidence": 0.9
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.742
   },
   {
     "evidence_id": "a696f3b1-1eb",
@@ -960,10 +1606,10 @@
     "title": "unsupervised_topic_modeling/topics/en/17/100/50/topics at ...",
     "snippet": "Contribute to annontopicmodel/unsupervised_topic_modeling development by creating an account on GitHub.",
     "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 0.5,
+    "confidence_score": 0.545
   },
   {
     "evidence_id": "f7f2b0c2-8c7",
@@ -981,10 +1627,10 @@
     "title": "Mahindra & Mahindra Dealer Business World",
     "snippet": "Mahindra & Mahindra Dealer Business World Register",
     "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 0.5,
+    "confidence_score": 0.545
   },
   {
     "evidence_id": "e8142c07-ddc",
@@ -1001,11 +1647,36 @@
     "source_type": "unknown",
     "title": "Underground Auto Detailing | Dhaka - Facebook",
     "snippet": "Mar 4, 2025 ·UndergroundAuto Detailing, Dhaka. 254 likes. Make your car shine their brightest and look their best at the convenience of your home",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "facebook_handle",
+        "value": "UndergroundAuto Detailing",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "location",
+        "value": "Dhaka",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "facebook_likes",
+        "value": 254,
+        "unit": "people",
+        "confidence": 1.0
+      },
+      {
+        "field": "service_offering",
+        "value": "car detailing at home",
+        "unit": null,
+        "confidence": 0.95
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.748
   },
   {
     "evidence_id": "47e58c78-d09",
@@ -1022,11 +1693,31 @@
     "source_type": "unknown",
     "title": "Auto Detailing Services in Dhaka - Page 1 - autoyas.com",
     "snippet": "Find Auto Detailing Services in Dhaka. Listings include CarProBangladesh, Drive Boosted, CarXBangladesh, Auto Mania, Continental Works • T-Center - Toyota Authorized Service Center and Extreme Car Wash. Click on each in the list below the map for more information.",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "auto_detailing_services",
+        "value": [
+          "CarProBangladesh",
+          "Drive Boosted",
+          "CarXBangladesh",
+          "Auto Mania",
+          "Continental Works • T-Center - Toyota Authorized Service Center",
+          "Extreme Car Wash"
+        ],
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "location",
+        "value": "Dhaka",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "6c04e737-71a",
@@ -1043,11 +1734,30 @@
     "source_type": "unknown",
     "title": "NASPRO Auto Detailing in Dhaka - Updated June 2025 - Gulshan ...",
     "snippet": "NASPRO Auto Detailing, Gulshan Centre Point, Dhaka Division, 1212, 24 photos, read 146reviews",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "business_name",
+        "value": "NASPRO Auto Detailing",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "location",
+        "value": "Gulshan Centre Point, Dhaka Division, 1212",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "review_count",
+        "value": 146,
+        "unit": "reviews",
+        "confidence": 1.0
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "5314f28a-2d7",
@@ -1064,11 +1774,41 @@
     "source_type": "unknown",
     "title": "TORO Auto Detailing - Facebook",
     "snippet": "inBangladesh, specializing in premium auto detailing, paint correction, PPF wrap, and color PPF. We are committed to precision, protection, and high-quality workmanship to keep your vehicle looking flawless and protected. 📍 Address: KA-32, 4 Jagannathpur, Saudi Masjid Road, Dhaka 1229,Bangladesh📌 Map: GOOGLE.COM Toro Auto Detailing ...",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "business_name",
+        "value": "TORO Auto Detailing",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "services_offered",
+        "value": [
+          "auto detailing",
+          "paint correction",
+          "PPF wrap",
+          "color PPF"
+        ],
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "address",
+        "value": "KA-32, 4 Jagannathpur, Saudi Masjid Road, Dhaka 1229, Bangladesh",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "location_map_url",
+        "value": "GOOGLE.COM",
+        "unit": null,
+        "confidence": 0.9
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.746
   },
   {
     "evidence_id": "3d975bbf-be5",
@@ -1085,11 +1825,45 @@
     "source_type": "unknown",
     "title": "NASPRO Auto Detailing - Gulshan Centre Point, House 26 Road ...",
     "snippet": "NASPROAuto Detailing Dhakapostal code 1212. See 2 social pages including Facebook and Google, Hours, Phone, Website and more for this business. 3.5 Cybo Score. NASPRO Auto Detailing is working in Car wash and detail activities.Reviewon Cybo.",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "business_name",
+        "value": "NASPRO Auto Detailing",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "postal_code",
+        "value": "1212",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "social_media_platforms",
+        "value": [
+          "Facebook",
+          "Google"
+        ],
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "cybo_score",
+        "value": "3.5",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "business_activity",
+        "value": "Car wash and detail activities",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "89c91ac3-7cf",
@@ -1106,11 +1880,42 @@
     "source_type": "unknown",
     "title": "Great Auto Detailing | Dhaka - Facebook",
     "snippet": "GreatAuto Detailing, Dhaka. 25 likes · 19 talking about this. Great Auto Detailing -Auto Detailing & Car Wash in Dhaka. Expert Car Wash, Waxing, interior cleaning, Polishing, engine dressing,...",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "business_name",
+        "value": "Great Auto Detailing",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "services_offered",
+        "value": [
+          "Car Wash",
+          "Waxing",
+          "interior cleaning",
+          "Polishing",
+          "engine dressing"
+        ],
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "facebook_likes",
+        "value": 25,
+        "unit": "people",
+        "confidence": 1.0
+      },
+      {
+        "field": "facebook_talking_about",
+        "value": 19,
+        "unit": "people",
+        "confidence": 1.0
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "fb3f5b64-613",
@@ -1127,11 +1932,36 @@
     "source_type": "unknown",
     "title": "Naspro Auto Detailing - Facebook",
     "snippet": "NasproAuto Detailing, Dhaka, Bangladesh. 8,702 likes · 20 talking about this · 64 were here. From premium car wash to restoring the look of your...",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "business_name",
+        "value": "Naspro Auto Detailing",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "facebook_likes",
+        "value": 8702,
+        "unit": "people",
+        "confidence": 1.0
+      },
+      {
+        "field": "facebook_talking_about",
+        "value": 20,
+        "unit": "people",
+        "confidence": 1.0
+      },
+      {
+        "field": "facebook_checkins",
+        "value": 64,
+        "unit": "people",
+        "confidence": 1.0
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "f6e4ae64-87d",
@@ -1148,11 +1978,30 @@
     "source_type": "unknown",
     "title": "Underground Auto Detailing | Dhaka - Facebook",
     "snippet": "Mar 4, 2025 ·UndergroundAuto Detailing, Dhaka. 254 likes. Make your car shine their brightest and look their best at the convenience of your home",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "business_name",
+        "value": "Underground Auto Detailing",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "facebook_likes",
+        "value": 254,
+        "unit": "people",
+        "confidence": 1.0
+      },
+      {
+        "field": "service_feature",
+        "value": "convenience of your home",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "80046ea1-5f6",
@@ -1169,11 +2018,36 @@
     "source_type": "unknown",
     "title": "BR Auto Detailing | Dhaka - Facebook",
     "snippet": "Aug 21, 2025 ·BRAuto Detailing , Dhaka. 25 likes · 2 talking about this. Precision in every detail",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "business_name",
+        "value": "BR Auto Detailing",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "facebook_likes",
+        "value": 25,
+        "unit": "people",
+        "confidence": 1.0
+      },
+      {
+        "field": "facebook_talking_about",
+        "value": 2,
+        "unit": "people",
+        "confidence": 1.0
+      },
+      {
+        "field": "tagline",
+        "value": "Precision in every detail",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "1ae95e4f-4a7",
@@ -1190,11 +2064,40 @@
     "source_type": "unknown",
     "title": "CarBox Auto Detailing | Dhaka - Facebook",
     "snippet": "Dec 23, 2022 ·CarBoxAuto Detailing, Dhaka. 154 likes · 1 talking about this. CARBOX set new standards within car detailing services by offering all of your needs for your Car. PPF, Ceramic Coating, Detailing,...",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "business_name",
+        "value": "CarBox Auto Detailing",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "services_offered",
+        "value": [
+          "PPF",
+          "Ceramic Coating",
+          "Detailing"
+        ],
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "facebook_likes",
+        "value": 154,
+        "unit": "people",
+        "confidence": 1.0
+      },
+      {
+        "field": "facebook_talking_about",
+        "value": 1,
+        "unit": "people",
+        "confidence": 1.0
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "8f63a8d5-dca",
@@ -1212,10 +2115,10 @@
     "title": "CAB - Consumers Association of Bangladesh",
     "snippet": "Consumers Association ofBangladesh(CAB) is the leading nationalconsumerorganization dedicated to protecting and promotingconsumerrights inBangladesh",
     "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 0.5,
+    "confidence_score": 0.545
   },
   {
     "evidence_id": "0fcf3afd-493",
@@ -1232,11 +2135,30 @@
     "source_type": "unknown",
     "title": "Underground Auto Detailing | Dhaka - Facebook",
     "snippet": "Mar 4, 2025 ·UndergroundAuto Detailing, Dhaka. 254 likes. Make your car shine their brightest and look their best at the convenience of your home",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "business_name",
+        "value": "Underground Auto Detailing",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "facebook_likes",
+        "value": 254,
+        "unit": "people",
+        "confidence": 1.0
+      },
+      {
+        "field": "service_feature",
+        "value": "convenience of your home",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "68f535b8-0e6",
@@ -1253,11 +2175,45 @@
     "source_type": "unknown",
     "title": "NASPRO Auto Detailing - Gulshan Centre Point, House 26 Road ...",
     "snippet": "NASPROAuto Detailing Dhakapostal code 1212. See 2 social pages including Facebook and Google, Hours, Phone, Website and more for this business. 3.5 Cybo Score. NASPRO Auto Detailing is working in Car wash and detail activities.Reviewon Cybo.",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "business_name",
+        "value": "NASPRO Auto Detailing",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "postal_code",
+        "value": "1212",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "social_media_platforms",
+        "value": [
+          "Facebook",
+          "Google"
+        ],
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "cybo_score",
+        "value": "3.5",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "business_activity",
+        "value": "Car wash and detail activities",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "611fd26a-f83",
@@ -1274,11 +2230,42 @@
     "source_type": "unknown",
     "title": "Naspro Auto Detailing - Facebook",
     "snippet": "NasproAuto Detailing, Dhaka,Bangladesh. 8,702 likes · 20 talking about this · 64 were here. From premium car wash to restoring the look of your...",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "facebook_handle",
+        "value": "NasproAuto Detailing",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "location",
+        "value": "Dhaka, Bangladesh",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "facebook_likes",
+        "value": 8702,
+        "unit": "people",
+        "confidence": 1.0
+      },
+      {
+        "field": "facebook_talking_about",
+        "value": 20,
+        "unit": "people",
+        "confidence": 1.0
+      },
+      {
+        "field": "facebook_checkins",
+        "value": 64,
+        "unit": "people",
+        "confidence": 1.0
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "ee1a0770-69d",
@@ -1295,11 +2282,30 @@
     "source_type": "unknown",
     "title": "NASPRO Auto Detailing in Dhaka - Updated June 2025 - Gulshan ...",
     "snippet": "NASPRO Auto Detailing, Gulshan Centre Point, Dhaka Division, 1212, 24 photos, read 146reviews",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "business_name",
+        "value": "NASPRO Auto Detailing",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "location",
+        "value": "Gulshan Centre Point, Dhaka Division, 1212",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "review_count",
+        "value": 146,
+        "unit": "reviews",
+        "confidence": 1.0
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "4e697fb9-6ac",
@@ -1317,10 +2323,10 @@
     "title": "Womens Clothing & Fashion | Shop Womenswear & Ladies Clothes",
     "snippet": "20 hours ago ·Frequently Asked Questions What is the lowestWomensClothingpriceavailable inBangladesh? WhichWomensClothing model sells the most inBangladesh? Are thereWomensClothing sales or promotions in June 2026? Where to buy genuineWomensClothing online inBangladesh?",
     "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 0.5,
+    "confidence_score": 0.545
   },
   {
     "evidence_id": "595e26f2-2e9",
@@ -1337,11 +2343,30 @@
     "source_type": "unknown",
     "title": "Tyzo – Modern Clothing in Bangladesh. : TYZO",
     "snippet": "Tyzo is a modern Bangladeshi clothing brand offering stylish, comfortable, and affordable apparel. Shop premium-quality outfits with perfect fits, fast delivery, and reliable service acrossBangladesh.",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "business_name",
+        "value": "Tyzo",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "business_description",
+        "value": "Modern Bangladeshi clothing brand offering stylish, comfortable, and affordable apparel",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "service_area",
+        "value": "Bangladesh",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "0db30ffc-16b",
@@ -1358,11 +2383,24 @@
     "source_type": "unknown",
     "title": "Twelve Clothing | Top Bangladeshi Fashion Brand for Men ...",
     "snippet": "Discover Twelve Clothing– Bangladesh’s leading fashion brand offering premium clothing, trendy menswear, womenswear, kidswear, panjabi, kurti, gowns, t-shirts, polos and more.",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "business_name",
+        "value": "Twelve Clothing",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "business_description",
+        "value": "Bangladesh’s leading fashion brand offering premium clothing, trendy menswear, womenswear, kidswear, panjabi, kurti, gowns, t-shirts, polos and more",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "689f4c58-a26",
@@ -1379,11 +2417,30 @@
     "source_type": "unknown",
     "title": "JamaKapor: BD s #1 Clothes Shop | Latest Fashion & Dresses",
     "snippet": "Shop at JamaKapor,Bangladesh's largest online fashion store! Clothes, dresses, shoes and more for men, women & kids. Best prices in home delivery.",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "business_name",
+        "value": "JamaKapor",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "business_description",
+        "value": "Bangladesh's largest online fashion store for clothes, dresses, shoes and more for men, women & kids",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "service_claim",
+        "value": "Best prices in home delivery",
+        "unit": null,
+        "confidence": 0.9
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.745
   },
   {
     "evidence_id": "0fe13833-4ca",
@@ -1400,11 +2457,36 @@
     "source_type": "unknown",
     "title": "Sailor | Sailing Life",
     "snippet": "Sailor is one of the best fashion retail brands inBangladesh, offering trendy menswear, womenswear, kidswear, and lifestyle essentials. Explore stylish collections inspired by sailing life, crafted with quality by Epyllion Group. Shop online at sailor.clothing.",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "business_name",
+        "value": "Sailor",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "business_description",
+        "value": "One of the best fashion retail brands in Bangladesh, offering trendy menswear, womenswear, kidswear, and lifestyle essentials",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "parent_company",
+        "value": "Epyllion Group",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "website",
+        "value": "sailor.clothing",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "3590dbcd-18e",
@@ -1422,10 +2504,10 @@
     "title": "Why Fast Fashion Can’t Escape Hormuz Oil Crunch",
     "snippet": "As the de facto closure of the Strait of Hormuz continues to send oil and gas prices skyrocketing, fast fashion companies reliant on cheap synthetic...",
     "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 0.5,
+    "confidence_score": 0.545
   },
   {
     "evidence_id": "1f9f14f3-3ea",
@@ -1443,10 +2525,10 @@
     "title": "The State of Garment Workers in 2024: ‘Fraught’",
     "snippet": "Jyrki Raina, former general secretary of IndustriALL Global Union, which represents more than 50 million working people worldwide, can sum up labor...",
     "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 0.5,
+    "confidence_score": 0.545
   },
   {
     "evidence_id": "b85cdefe-5c1",
@@ -1464,10 +2546,10 @@
     "title": "12 Editors Tested & Reviewed This Internet-Obsessed Brand That Makes Luxury...",
     "snippet": "All products and services featured are independently chosen by editors. However, StyleCaster may...",
     "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 0.5,
+    "confidence_score": 0.545
   },
   {
     "evidence_id": "0850fe35-719",
@@ -1484,11 +2566,48 @@
     "source_type": "unknown",
     "title": "Women’s Clothing Collection in Bangladesh - Rokomari.com",
     "snippet": "Priceof Women's Clothing inBangladeshPricesbegin at 100 BDT for socks or tights. T-shirts, skirts, and leggings range between 300 and 1000 BDT. Dresses, outerwear, and ethnic sets go up to 3000 BDT. Occasion-specific items may cost more based on fabric or design. How to Choose Women's Clothing Purpose of Use",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "price_range_bdt",
+        "value": "100",
+        "unit": "BDT",
+        "confidence": 0.95
+      },
+      {
+        "field": "price_range_bdt",
+        "value": "300-1000",
+        "unit": "BDT",
+        "confidence": 0.95
+      },
+      {
+        "field": "price_range_bdt",
+        "value": "up to 3000",
+        "unit": "BDT",
+        "confidence": 0.95
+      },
+      {
+        "field": "product_category",
+        "value": "socks, tights",
+        "unit": null,
+        "confidence": 0.95
+      },
+      {
+        "field": "product_category",
+        "value": "T-shirts, skirts, leggings",
+        "unit": null,
+        "confidence": 0.95
+      },
+      {
+        "field": "product_category",
+        "value": "dresses, outerwear, ethnic sets",
+        "unit": null,
+        "confidence": 0.95
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.742
   },
   {
     "evidence_id": "2c7e9d1e-21f",
@@ -1505,11 +2624,30 @@
     "source_type": "unknown",
     "title": "Womens Clothing & Fashion | Shop Womenswear & Ladies Clothes",
     "snippet": "2 days ago ·Looking for the bestWomensClothing? We have 161 models currently in stock, withpricesstarting from ৳1,490. Compare the top 10 best-sellers below (updated June 2026) to find the perfect match for your needs inBangladesh. Among the top 10 best-sellers, 10 are currently on sale with discounts up to 32%. Rankings are based on verified purchase volume, showing you what customers in ...",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "price_starting_bdt",
+        "value": "1490",
+        "unit": "BDT",
+        "confidence": 0.95
+      },
+      {
+        "field": "product_count",
+        "value": "161",
+        "unit": "models",
+        "confidence": 0.95
+      },
+      {
+        "field": "discount_percentage",
+        "value": "up to 32",
+        "unit": "%",
+        "confidence": 0.95
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.742
   },
   {
     "evidence_id": "9c57a6c4-595",
@@ -1527,10 +2665,10 @@
     "title": "Twelve Clothing | Top Bangladeshi Fashion Brand for Men ...",
     "snippet": "Discover Twelve Clothing– Bangladesh’s leading fashion brand offering premium clothing, trendy menswear, womenswear, kidswear, panjabi, kurti, gowns, t-shirts, polos and more. Shop now for the latest styles.",
     "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 0.5,
+    "confidence_score": 0.545
   },
   {
     "evidence_id": "5d209a8f-bdd",
@@ -1547,11 +2685,36 @@
     "source_type": "unknown",
     "title": "350k+ Fashion Items Online at Best Price in Bangladesh - Daraz BDSailor | Sailing LifeBuy Women's Clothing (Trendy & Diverse) 2024 Collection ...",
     "snippet": "Get the Best Deals on Fashion ItemsPriceinBangladeshfrom Daraz Bd Shop Quality of Fashion items Online in Dhaka, CTG, Khulna & Across the Country.Sailor is one of the best fashion retail brands inBangladesh, offering trendy menswear, womenswear, kidswear, and lifestyle essentials. Explore stylish collections inspired by sailing life, crafted with quality by Epyllion Group. Shop online at sailor.clothing.Womens fashion clothes like sarees, salwar kameez, kurti, blouze, party wear | CompetitivePricesinBangladesh- Daraz.com.bd",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "brand_name",
+        "value": "Sailor",
+        "unit": null,
+        "confidence": 0.95
+      },
+      {
+        "field": "parent_company",
+        "value": "Epyllion Group",
+        "unit": null,
+        "confidence": 0.95
+      },
+      {
+        "field": "product_category",
+        "value": "menswear, womenswear, kidswear, lifestyle essentials",
+        "unit": null,
+        "confidence": 0.95
+      },
+      {
+        "field": "website",
+        "value": "sailor.clothing",
+        "unit": null,
+        "confidence": 0.95
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.742
   },
   {
     "evidence_id": "0902ffa6-785",
@@ -1568,11 +2731,18 @@
     "source_type": "unknown",
     "title": "Buy Women's Clothing (Trendy & Diverse) 2024 Collection ...",
     "snippet": "Womens fashion clothes like sarees, salwar kameez, kurti, blouze, party wear | CompetitivePricesinBangladesh- Daraz.com.bd",
-    "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "extracted_facts": [
+      {
+        "field": "product_category",
+        "value": "sarees, salwar kameez, kurti, blouse, party wear",
+        "unit": null,
+        "confidence": 0.95
+      }
+    ],
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 1.0,
+    "confidence_score": 0.742
   },
   {
     "evidence_id": "f9345911-fc7",
@@ -1590,10 +2760,10 @@
     "title": "12 Editors Tested & Reviewed This Internet-Obsessed Brand That Makes Luxury...",
     "snippet": "All products and services featured are independently chosen by editors. However, StyleCaster may...",
     "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 0.5,
+    "confidence_score": 0.545
   },
   {
     "evidence_id": "32ee97b2-95e",
@@ -1611,10 +2781,10 @@
     "title": "Does H&M Have an H&M Problem?",
     "snippet": "The Swedish retailer has always been a study in contradictions, but a new Insights Board that excludes garment workers risks full cognitive dissonance.",
     "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 0.5,
+    "confidence_score": 0.545
   },
   {
     "evidence_id": "7ea0343f-131",
@@ -1632,10 +2802,10 @@
     "title": "Trump's Mercurial, Constantly Changing Import Taxes Took American Businesses on...",
     "snippet": "Phil Mistry/Zuma Press/Newscom/Midjourney As President Donald Trump told it, his \"Liberation Day\"...",
     "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 0.5,
+    "confidence_score": 0.545
   },
   {
     "evidence_id": "c0f0798f-866",
@@ -1653,10 +2823,10 @@
     "title": "Fashion brands urged to tackle Bangladesh’s low garment sector pay",
     "snippet": "NGO Swedwatch has examined the effects of poverty and low wages onBangladeshgarment workers and...",
     "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 0.5,
+    "confidence_score": 0.545
   },
   {
     "evidence_id": "cb8cf1d0-182",
@@ -1674,10 +2844,10 @@
     "title": "Explainer: protests, politics, floods – is fashion quiet-quitting Bangladesh?",
     "snippet": "Global brands sourcing fromBangladeshare being warned of delays to delivery as the garment...",
     "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 0.5,
+    "confidence_score": 0.545
   },
   {
     "evidence_id": "cee51ff0-ff9",
@@ -1695,10 +2865,10 @@
     "title": "How Bangladesh’s Garment Suppliers Are Being ‘Squeezed Dry’",
     "snippet": "While nominal prices have edged up inBangladesh, a new study said, brands are paying 30 percent les...",
     "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 0.5,
+    "confidence_score": 0.545
   },
   {
     "evidence_id": "e5e803eb-e41",
@@ -1716,10 +2886,10 @@
     "title": "A history of fast fashion: ethical issues, high demand, and outsized influence...",
     "snippet": "Photo illustration by Elizabeth Ciano // Stacker // Getty Images It's no secret that fastfashion...",
     "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 0.5,
+    "confidence_score": 0.545
   },
   {
     "evidence_id": "f18e2c76-7d3",
@@ -1737,10 +2907,10 @@
     "title": "Iran war hits Asia's polyester suppliers to global fast fashion",
     "snippet": "By Dhwani Pandya, Sumit Khanna , Helen Reid and Ruma Paul SURAT, India, April 24 (Reuters) - A surge...",
     "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 0.5,
+    "confidence_score": 0.545
   },
   {
     "evidence_id": "5043075e-912",
@@ -1758,9 +2928,9 @@
     "title": "Retailers Store Openings See Boom in 2024",
     "snippet": "Retailers haven’t given up on their brick-and-mortar operations. The tally thus far for disclosed store openings since the start of 2024 is 3,677 new doo...",
     "extracted_facts": [],
-    "source_quality_score": 0.0,
-    "recency_score": 0.0,
-    "consistency_score": 0.0,
-    "confidence_score": 0.0
+    "source_quality_score": 0.35,
+    "recency_score": 1.0,
+    "consistency_score": 0.5,
+    "confidence_score": 0.545
   }
 ]

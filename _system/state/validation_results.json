@@ -1,11 +1,16 @@
 {
-  "generated_at": "2026-06-24T20:57:03.943645+00:00",
+  "generated_at": "2026-06-25T00:06:05.453066+00:00",
   "summary": {
     "files_checked": 130,
-    "violations": 1,
+    "violations": 2,
     "warnings": 0
   },
   "violations": [
+    {
+      "file": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-garirbazar.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
     {
       "file": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-sailor.md",
       "type": "missing_field",

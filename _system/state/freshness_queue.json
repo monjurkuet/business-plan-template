@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T20:57:03.846410+00:00",
+  "generated_at": "2026-06-25T00:03:15.062284+00:00",
   "summary": {
     "fresh": 32,
     "stale": 80,
@@ -121,7 +121,7 @@
       "path": "sectors/crypto-bitcoin/bd-market/README.md",
       "sector": "crypto-bitcoin",
       "category": "default",
-      "age_days": 47,
+      "age_days": 48,
       "stale_type": "stale_reference",
       "priority": "P0",
       "stale_after_days": 90,
