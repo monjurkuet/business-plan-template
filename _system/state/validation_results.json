@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-25T07:58:09.288218+00:00",
+  "generated_at": "2026-06-25T09:29:40.838420+00:00",
   "summary": {
-    "files_checked": 132,
-    "violations": 5,
+    "files_checked": 139,
+    "violations": 26,
     "warnings": 0
   },
   "violations": [
@@ -18,6 +18,111 @@
     },
     {
       "file": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-sailor.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-bd-crypto-signal-groups.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-bd-crypto-signal-groups.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-bd-crypto-signal-groups.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-bybit-bd.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-bybit-bd.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-bybit-bd.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-cryptotech24-bd.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-cryptotech24-bd.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-cryptotech24-bd.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-kucoin-bd.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-kucoin-bd.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-kucoin-bd.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-okx-bd.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-okx-bd.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-okx-bd.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-paxful-bd.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-paxful-bd.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-paxful-bd.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-remitano-bd.md",
+      "type": "missing_field",
+      "detail": "Missing required field: last_verified"
+    },
+    {
+      "file": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-remitano-bd.md",
+      "type": "missing_field",
+      "detail": "Missing required field: freshness"
+    },
+    {
+      "file": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-remitano-bd.md",
       "type": "missing_field",
       "detail": "Missing required field: confidence"
     },

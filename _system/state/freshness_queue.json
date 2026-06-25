@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T07:46:01.654926+00:00",
+  "generated_at": "2026-06-25T09:25:08.116207+00:00",
   "summary": {
     "fresh": 32,
     "stale": 80,
@@ -126,7 +126,7 @@
       "priority": "P0",
       "stale_after_days": 90,
       "critical_after_days": 180,
-      "reason": "Contains stale year references: 2024"
+      "reason": "Contains stale year references: 2023, 2024"
     },
     {
       "path": "sectors/crypto-bitcoin/bd-market/go-to-market.md",
@@ -137,7 +137,7 @@
       "priority": "P0",
       "stale_after_days": 90,
       "critical_after_days": 180,
-      "reason": "Contains stale year references: 2024"
+      "reason": "Contains stale year references: 2023, 2024"
     },
     {
       "path": "sectors/crypto-bitcoin/bd-market/risk-register.md",
@@ -148,7 +148,7 @@
       "priority": "P0",
       "stale_after_days": 90,
       "critical_after_days": 180,
-      "reason": "Contains stale year references: 2024"
+      "reason": "Contains stale year references: 2023, 2024"
     },
     {
       "path": "sectors/crypto-bitcoin/bd-market/strategy-canvas.md",
@@ -170,7 +170,7 @@
       "priority": "P0",
       "stale_after_days": 2,
       "critical_after_days": 7,
-      "reason": "Contains stale year references: 2024"
+      "reason": "Contains stale year references: 2023, 2024"
     },
     {
       "path": "sectors/crypto-bitcoin/bd-market/regulatory.md",
@@ -192,7 +192,7 @@
       "priority": "P0",
       "stale_after_days": 3,
       "critical_after_days": 7,
-      "reason": "Contains stale year references: 2024"
+      "reason": "Contains stale year references: 2023, 2024"
     },
     {
       "path": "sectors/crypto-bitcoin/bd-market/pricing-guide.md",
@@ -214,7 +214,7 @@
       "priority": "P0",
       "stale_after_days": 2,
       "critical_after_days": 7,
-      "reason": "Contains stale year references: 2024"
+      "reason": "Contains stale year references: 2023, 2024"
     },
     {
       "path": "sectors/crypto-bitcoin/bd-market/sentiment-analysis.md",
@@ -236,7 +236,7 @@
       "priority": "P0",
       "stale_after_days": 21,
       "critical_after_days": 42,
-      "reason": "Contains stale year references: 2024"
+      "reason": "Contains stale year references: 2023, 2024"
     },
     {
       "path": "sectors/crypto-bitcoin/bd-market/seasonality.md",
@@ -247,7 +247,7 @@
       "priority": "P0",
       "stale_after_days": 180,
       "critical_after_days": 365,
-      "reason": "Contains stale year references: 2024"
+      "reason": "Contains stale year references: 2023, 2024"
     },
     {
       "path": "sectors/crypto-bitcoin/bd-market/research/2026-05-06-full-landscape-report.md",
@@ -258,7 +258,7 @@
       "priority": "P0",
       "stale_after_days": 45,
       "critical_after_days": 90,
-      "reason": "Contains stale year references: 2024"
+      "reason": "Contains stale year references: 2023, 2024"
     },
     {
       "path": "sectors/electronics-gadgets/bd-market/strategy-canvas.md",

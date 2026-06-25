@@ -2,8 +2,8 @@
 sector: automotive-car-care
 last_verified: 2026-06-25
 freshness: fresh
-confidence: 0.699
-evidence_ids: ['e8f57bfd-ee6', '2708ace4-2a2']
+confidence: 0.706
+evidence_ids: ['cc9429d8-3cc', '5c8f6584-7a0']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -113,9 +113,11 @@ evidence_ids: ['e8f57bfd-ee6', '2708ace4-2a2']
 
 
 
+
 ## Auto-Updated Data (2026-06-25)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| real Japan auction price for Toyota, Honda & SUV cars | search | 0.90 |
-| price comparison and updated prices for products in Bangladesh | search | 0.95 |
+| varies | search | 0.90 |
+| ['Gasoline', 'Diesel', 'Petrol', 'Crude Oil', 'LPG', 'Electricity'] | search | 1.00 |
+| ['restaurants', 'food', 'transportation', 'utilities', 'housing'] | search | 1.00 |

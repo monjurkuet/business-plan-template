@@ -2,8 +2,8 @@
 sector: media-marketing-digital
 last_verified: 2026-06-25
 freshness: fresh
-confidence: 0.739
-evidence_ids: ['4506c0aa-64d', '4d28f355-c5e', '0ea0b799-9e3', 'f249d3a9-6cd']
+confidence: 0.732
+evidence_ids: ['0b2693a5-3b4', 'b93fb681-cd3', '961c34dd-eb8', '7e7dc981-3fa']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market
@@ -82,19 +82,17 @@ evidence_ids: ['4506c0aa-64d', '4d28f355-c5e', '0ea0b799-9e3', 'f249d3a9-6cd']
 
 
 
+
 ## Auto-Updated Data (2026-06-25)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| startups | search | 0.95 |
-| Affordable digital marketing for growth without wasting money | search | 0.90 |
-| Rajshahi Digital Hub | search | 0.95 |
-| affordable pricing | search | 0.90 |
-| mobile marketing | search | 0.95 |
-| most Bangladeshi internet access occurs through mobile devices | search | 0.90 |
-| Motaher Hossain | search | 0.95 |
-| Digital Marketing Specialist | search | 0.95 |
-| Bangladesh | search | 0.95 |
-| extensive experience in digital marketing | search | 0.90 |
-| BA3 Digital Marketing Bangladesh | search | 0.95 |
-| custom project discussion including price and timeline | search | 0.90 |
+| ['Bulk SMS', 'Email Marketing', 'Voice'] | search | 0.90 |
+| best price in digital marketing Bangladesh | search | 0.80 |
+| ['GEEKY SOCIAL LTD.', 'OneLittleWeb', 'BrandViser', 'MonsterClaw LLC', 'Notionhi | search | 0.90 |
+| Bulk SMS, Email Marketing, Interactive Voice | search | 0.90 |
+| best price in digital marketing Bangladesh | search | 0.80 |
+| SEO, social media marketing, online branding, promotion, email marketing | search | 0.90 |
+| startup entrepreneurs in Bangladesh | search | 0.90 |
+| ['GEEKY SOCIAL LTD.', 'OneLittleWeb', 'BrandViser', 'MonsterClaw LLC', 'Notionhi | search | 0.90 |
+| Dhaka, Bangladesh | search | 0.90 |

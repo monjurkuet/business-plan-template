@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-06-25
 freshness: fresh
-confidence: 0.74
-evidence_ids: ['496499c2-18f', '446cb5a2-02b', '46220ee8-e1c', 'd8dd4c38-c32', 'ef0e12cc-d0e', 'dbe97ea0-1c6', 'b6307ed4-bd6', '853879c5-1f8', '12161ab1-be5']
+confidence: 0.734
+evidence_ids: ['65937a6b-5c7', 'a0668be8-4af', '22955608-877', 'b7b900a3-cfe', '66c85e03-fec']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -95,22 +95,21 @@ evidence_ids: ['496499c2-18f', '446cb5a2-02b', '46220ee8-e1c', 'd8dd4c38-c32', '
 
 
 
+
 ## Auto-Updated Data (2026-06-25)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| men's clothing including t-shirts, polo shirts, casual shirts, and summer wear | search | 0.95 |
+| baggy pants | search | 0.90 |
+| boys | search | 0.90 |
+| affordable | search | 0.80 |
+| home delivery all over Bangladesh | search | 0.90 |
+| women's clothing | search | 0.90 |
+| ['best match', 'price', 'free shipping', 'fast delivery', 'free return'] | search | 0.90 |
+| ['t-shirts', 'polo shirts', 'casual shirts', 'summer wear'] | search | 0.90 |
 | fast delivery across Bangladesh | search | 0.90 |
-| luxury clothing | search | 0.95 |
-| Black Aura – Black & Cream Polka Dot Luxury Pret 3-Piece | search | 0.95 |
-| price: low to high, price: high to low | search | 0.90 |
-| free shipping, fast delivery, free return | search | 0.95 |
-| free returns up to 90 days | search | 0.95 |
-| price adjustment within 30 days | search | 0.95 |
-| delivery guarantee | search | 0.90 |
-| Jordan Logo T-Shirt | search | 0.95 |
-| Argentine Football Association Logo T-Shirt | search | 0.95 |
-| 450 - 540 | search | 0.95 |
-| officially licensed in Bangladesh | search | 0.90 |
-| Hussain Rehar inspired 3pcs set | search | 0.95 |
-| 2400 | search | 0.95 |
+| one of the top clothing manufacturing hubs in the world | search | 0.90 |
+| ['competitive pricing', 'skilled workforce', 'advanced manufacturing capabilitie | search | 0.90 |
+| luxury clothing | search | 0.90 |
+| ['popularity', 'average rating', 'latest', 'price: low to high', 'price: high to | search | 0.90 |
+| Black Aura – Black & Cream Polka Dot Luxury Pret 3-Piece | search | 0.90 |

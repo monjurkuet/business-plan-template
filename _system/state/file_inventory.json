@@ -25,8 +25,8 @@
   },
   {
     "path": "sectors/high-roi-niches/bd-market/README.md",
-    "size_bytes": 3860,
-    "last_modified": "2026-06-25T07:28:13.200623+00:00",
+    "size_bytes": 3494,
+    "last_modified": "2026-06-25T07:58:09.262922+00:00",
     "extension": ".md"
   },
   {
@@ -127,8 +127,8 @@
   },
   {
     "path": "sectors/crypto-bitcoin/bd-market/README.md",
-    "size_bytes": 3716,
-    "last_modified": "2026-06-25T07:28:13.200623+00:00",
+    "size_bytes": 3660,
+    "last_modified": "2026-06-25T07:58:09.262922+00:00",
     "extension": ".md"
   },
   {
@@ -150,15 +150,51 @@
     "extension": ".md"
   },
   {
+    "path": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-kucoin-bd.md",
+    "size_bytes": 4727,
+    "last_modified": "2026-06-25T08:55:55.388273+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-bybit-bd.md",
+    "size_bytes": 4860,
+    "last_modified": "2026-06-25T08:54:12.813034+00:00",
+    "extension": ".md"
+  },
+  {
     "path": "sectors/crypto-bitcoin/bd-market/competitors/2026-05-06-local-p2p-otc.md",
     "size_bytes": 1004,
     "last_modified": "2026-05-06T06:38:58.648260+00:00",
     "extension": ".md"
   },
   {
+    "path": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-remitano-bd.md",
+    "size_bytes": 5262,
+    "last_modified": "2026-06-25T09:06:22.156044+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-paxful-bd.md",
+    "size_bytes": 5060,
+    "last_modified": "2026-06-25T08:57:13.770746+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-okx-bd.md",
+    "size_bytes": 4838,
+    "last_modified": "2026-06-25T08:58:32.549226+00:00",
+    "extension": ".md"
+  },
+  {
     "path": "sectors/crypto-bitcoin/bd-market/competitors/2026-05-06-blockchain-dev-shops.md",
     "size_bytes": 1072,
     "last_modified": "2026-05-06T06:38:58.648260+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-bd-crypto-signal-groups.md",
+    "size_bytes": 5385,
+    "last_modified": "2026-06-25T08:57:54.912042+00:00",
     "extension": ".md"
   },
   {
@@ -171,6 +207,12 @@
     "path": "sectors/crypto-bitcoin/bd-market/competitors/2026-05-06-binance-bd.md",
     "size_bytes": 1026,
     "last_modified": "2026-05-06T15:59:22.806375+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-cryptotech24-bd.md",
+    "size_bytes": 5302,
+    "last_modified": "2026-06-25T08:59:04.830244+00:00",
     "extension": ".md"
   },
   {
@@ -205,8 +247,8 @@
   },
   {
     "path": "sectors/jewellery/bd-market/README.md",
-    "size_bytes": 3478,
-    "last_modified": "2026-06-25T07:28:13.200623+00:00",
+    "size_bytes": 3227,
+    "last_modified": "2026-06-25T07:58:09.262922+00:00",
     "extension": ".md"
   },
   {
@@ -295,8 +337,8 @@
   },
   {
     "path": "sectors/travel-tourism/bd-market/README.md",
-    "size_bytes": 2863,
-    "last_modified": "2026-06-25T07:28:13.204623+00:00",
+    "size_bytes": 2533,
+    "last_modified": "2026-06-25T07:58:09.266922+00:00",
     "extension": ".md"
   },
   {
@@ -397,8 +439,8 @@
   },
   {
     "path": "sectors/automotive-car-care/bd-market/README.md",
-    "size_bytes": 5429,
-    "last_modified": "2026-06-25T07:28:13.196622+00:00",
+    "size_bytes": 4827,
+    "last_modified": "2026-06-25T07:58:09.258922+00:00",
     "extension": ".md"
   },
   {
@@ -523,8 +565,8 @@
   },
   {
     "path": "sectors/electronics-gadgets/bd-market/README.md",
-    "size_bytes": 4399,
-    "last_modified": "2026-06-25T07:28:13.200623+00:00",
+    "size_bytes": 3962,
+    "last_modified": "2026-06-25T07:58:09.262922+00:00",
     "extension": ".md"
   },
   {
@@ -619,8 +661,8 @@
   },
   {
     "path": "sectors/clothing-fashion/bd-market/README.md",
-    "size_bytes": 4443,
-    "last_modified": "2026-06-25T07:28:13.196622+00:00",
+    "size_bytes": 4597,
+    "last_modified": "2026-06-25T07:58:09.262922+00:00",
     "extension": ".md"
   },
   {
@@ -721,8 +763,8 @@
   },
   {
     "path": "sectors/media-marketing-digital/bd-market/README.md",
-    "size_bytes": 4017,
-    "last_modified": "2026-06-25T07:28:13.204623+00:00",
+    "size_bytes": 4278,
+    "last_modified": "2026-06-25T07:58:09.266922+00:00",
     "extension": ".md"
   },
   {
@@ -793,8 +835,8 @@
   },
   {
     "path": "data/query_memory.json",
-    "size_bytes": 22324,
-    "last_modified": "2026-06-25T07:28:13.368634+00:00",
+    "size_bytes": 24215,
+    "last_modified": "2026-06-25T07:58:09.422927+00:00",
     "extension": ".json"
   },
   {
@@ -891,6 +933,12 @@
     "path": "data/evidence/20260528-185120.json",
     "size_bytes": 105642,
     "last_modified": "2026-06-24T17:35:50.027284+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/evidence/20260625-075625.json",
+    "size_bytes": 245570,
+    "last_modified": "2026-06-25T07:57:48.490266+00:00",
     "extension": ".json"
   },
   {
@@ -1416,6 +1464,444 @@
     "extension": ".json"
   },
   {
+    "path": "data/competitors/2026-06-25-remitano-bd.json",
+    "size_bytes": 4730,
+    "last_modified": "2026-06-25T09:06:56.441125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-jda-oil-bangladesh.json",
+    "size_bytes": 1566,
+    "last_modified": "2026-06-25T09:06:56.437125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-ride-on-reference.json",
+    "size_bytes": 2039,
+    "last_modified": "2026-06-25T09:06:56.437125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-sadakalo.json",
+    "size_bytes": 775,
+    "last_modified": "2026-06-25T09:06:56.437125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-auto-mania.json",
+    "size_bytes": 792,
+    "last_modified": "2026-06-25T09:06:56.437125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-irfan-imports.json",
+    "size_bytes": 1525,
+    "last_modified": "2026-06-25T09:06:56.437125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-aarong-jewellery.json",
+    "size_bytes": 786,
+    "last_modified": "2026-06-25T09:06:56.441125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-obokash.json",
+    "size_bytes": 765,
+    "last_modified": "2026-06-25T09:06:56.445126+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-romel-car-house.json",
+    "size_bytes": 1636,
+    "last_modified": "2026-06-25T09:06:56.437125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-pathao-food.json",
+    "size_bytes": 784,
+    "last_modified": "2026-06-25T09:06:56.441125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-shell-ranks-petroleum.json",
+    "size_bytes": 1764,
+    "last_modified": "2026-06-25T09:06:56.437125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/clothing-fashion.json",
+    "size_bytes": 7099,
+    "last_modified": "2026-06-25T09:06:56.433125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-parts-choice.json",
+    "size_bytes": 1493,
+    "last_modified": "2026-06-25T09:06:56.437125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-jewel-fashion.json",
+    "size_bytes": 774,
+    "last_modified": "2026-06-25T09:06:56.441125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-crypto-education.json",
+    "size_bytes": 801,
+    "last_modified": "2026-06-25T09:06:56.437125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/media-marketing-digital.json",
+    "size_bytes": 6452,
+    "last_modified": "2026-06-25T09:06:56.433125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-aarong.json",
+    "size_bytes": 770,
+    "last_modified": "2026-06-25T09:06:56.437125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-06-25-kucoin-bd.json",
+    "size_bytes": 4355,
+    "last_modified": "2026-06-25T09:06:56.437125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-bd-freelancer-community.json",
+    "size_bytes": 832,
+    "last_modified": "2026-06-25T09:06:56.441125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-flight-expert.json",
+    "size_bytes": 789,
+    "last_modified": "2026-06-25T09:06:56.445126+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-tracker10.json",
+    "size_bytes": 800,
+    "last_modified": "2026-06-25T09:06:56.445126+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-sharetrip.json",
+    "size_bytes": 773,
+    "last_modified": "2026-06-25T09:06:56.445126+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-10-minute-school.json",
+    "size_bytes": 804,
+    "last_modified": "2026-06-25T09:06:56.441125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-the-travel-earth.json",
+    "size_bytes": 801,
+    "last_modified": "2026-06-25T09:06:56.445126+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-gadget-monkey.json",
+    "size_bytes": 804,
+    "last_modified": "2026-06-25T09:06:56.441125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-daraz.json",
+    "size_bytes": 772,
+    "last_modified": "2026-06-25T09:06:56.441125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-blockchain-dev-shops.json",
+    "size_bytes": 817,
+    "last_modified": "2026-06-25T09:06:56.437125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-06-25-okx-bd.json",
+    "size_bytes": 4494,
+    "last_modified": "2026-06-25T09:06:56.441125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-sailor.json",
+    "size_bytes": 716,
+    "last_modified": "2026-06-25T09:06:56.437125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-ditmela.json",
+    "size_bytes": 750,
+    "last_modified": "2026-06-25T09:06:56.441125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-gozayaan.json",
+    "size_bytes": 769,
+    "last_modified": "2026-06-25T09:06:56.445126+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/high-roi-niches.json",
+    "size_bytes": 6460,
+    "last_modified": "2026-06-25T09:06:56.433125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-mitsubishi-rangs.json",
+    "size_bytes": 1764,
+    "last_modified": "2026-06-25T09:06:56.437125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-iphone-market-bd.json",
+    "size_bytes": 816,
+    "last_modified": "2026-06-25T09:06:56.441125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-bongo.json",
+    "size_bytes": 784,
+    "last_modified": "2026-06-25T09:06:56.441125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-prioti-jewellers.json",
+    "size_bytes": 786,
+    "last_modified": "2026-06-25T09:06:56.441125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-webasha.json",
+    "size_bytes": 792,
+    "last_modified": "2026-06-25T09:06:56.445126+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-star-tech.json",
+    "size_bytes": 788,
+    "last_modified": "2026-06-25T09:06:56.441125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-foodpanda-bd.json",
+    "size_bytes": 788,
+    "last_modified": "2026-06-25T09:06:56.441125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-garirbazar.json",
+    "size_bytes": 741,
+    "last_modified": "2026-06-25T09:06:56.437125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-ecstasy.json",
+    "size_bytes": 771,
+    "last_modified": "2026-06-25T09:06:56.437125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-flyste.json",
+    "size_bytes": 788,
+    "last_modified": "2026-06-25T09:06:56.445126+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-discovery-bangladesh.json",
+    "size_bytes": 817,
+    "last_modified": "2026-06-25T09:06:56.445126+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-shikho.json",
+    "size_bytes": 788,
+    "last_modified": "2026-06-25T09:06:56.445126+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-pet-club-bd.json",
+    "size_bytes": 784,
+    "last_modified": "2026-06-25T09:06:56.441125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-06-25-paxful-bd.json",
+    "size_bytes": 4667,
+    "last_modified": "2026-06-25T09:06:56.441125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-anjalee-swar.json",
+    "size_bytes": 770,
+    "last_modified": "2026-06-25T09:06:56.441125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-dorjee.json",
+    "size_bytes": 767,
+    "last_modified": "2026-06-25T09:06:56.437125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-binance-bd.json",
+    "size_bytes": 777,
+    "last_modified": "2026-06-25T09:06:56.437125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/electronics-gadgets.json",
+    "size_bytes": 6429,
+    "last_modified": "2026-06-25T09:06:56.433125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-labh.json",
+    "size_bytes": 759,
+    "last_modified": "2026-06-25T09:06:56.437125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/automotive-car-care.json",
+    "size_bytes": 19389,
+    "last_modified": "2026-06-25T09:06:56.433125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-pickaboo.json",
+    "size_bytes": 733,
+    "last_modified": "2026-06-25T09:06:56.441125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/all_competitors.json",
+    "size_bytes": 95240,
+    "last_modified": "2026-06-25T09:06:56.433125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-car-expert-bd.json",
+    "size_bytes": 1688,
+    "last_modified": "2026-06-25T09:06:56.437125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-lubnan.json",
+    "size_bytes": 767,
+    "last_modified": "2026-06-25T09:06:56.437125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/jewellery.json",
+    "size_bytes": 5384,
+    "last_modified": "2026-06-25T09:06:56.433125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-zereze.json",
+    "size_bytes": 746,
+    "last_modified": "2026-06-25T09:06:56.441125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-06-25-bybit-bd.json",
+    "size_bytes": 4414,
+    "last_modified": "2026-06-25T09:06:56.437125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-car-care-bd.json",
+    "size_bytes": 1602,
+    "last_modified": "2026-06-25T09:06:56.437125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-naspro-auto-detailing.json",
+    "size_bytes": 836,
+    "last_modified": "2026-06-25T09:06:56.437125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-zakia-travels.json",
+    "size_bytes": 789,
+    "last_modified": "2026-06-25T09:06:56.445126+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-local-p2p-otc.json",
+    "size_bytes": 789,
+    "last_modified": "2026-06-25T09:06:56.437125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-popupads.json",
+    "size_bytes": 796,
+    "last_modified": "2026-06-25T09:06:56.445126+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-06-25-bd-crypto-signal-groups.json",
+    "size_bytes": 4718,
+    "last_modified": "2026-06-25T09:06:56.437125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-walton-smart-home.json",
+    "size_bytes": 808,
+    "last_modified": "2026-06-25T09:06:56.441125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-bytecraft.json",
+    "size_bytes": 800,
+    "last_modified": "2026-06-25T09:06:56.441125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-gadget-and-gear.json",
+    "size_bytes": 812,
+    "last_modified": "2026-06-25T09:06:56.441125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-ryans-computers.json",
+    "size_bytes": 812,
+    "last_modified": "2026-06-25T09:06:56.441125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-05-06-yellow.json",
+    "size_bytes": 767,
+    "last_modified": "2026-06-25T09:06:56.437125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/travel-tourism.json",
+    "size_bytes": 6398,
+    "last_modified": "2026-06-25T09:06:56.437125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/2026-06-25-cryptotech24-bd.json",
+    "size_bytes": 4766,
+    "last_modified": "2026-06-25T09:06:56.437125+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/competitors/crypto-bitcoin.json",
+    "size_bytes": 38160,
+    "last_modified": "2026-06-25T09:06:56.433125+00:00",
+    "extension": ".json"
+  },
+  {
     "path": "data/sector-index/clothing-fashion.json",
     "size_bytes": 1010,
     "last_modified": "2026-06-25T05:28:14.111537+00:00",
@@ -1639,38 +2125,38 @@
   },
   {
     "path": "_system/state/file_inventory.json",
-    "size_bytes": 49539,
-    "last_modified": "2026-06-25T07:32:38.975184+00:00",
+    "size_bytes": 49706,
+    "last_modified": "2026-06-25T07:46:01.559956+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/validation_results.json",
     "size_bytes": 1070,
-    "last_modified": "2026-06-25T07:32:39.155196+00:00",
+    "last_modified": "2026-06-25T07:58:09.282923+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/audit_results.json",
     "size_bytes": 5650,
-    "last_modified": "2026-06-25T07:32:38.975184+00:00",
+    "last_modified": "2026-06-25T07:46:01.559956+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/last_pipeline_run.json",
-    "size_bytes": 421,
-    "last_modified": "2026-06-25T07:28:13.376635+00:00",
+    "size_bytes": 451,
+    "last_modified": "2026-06-25T09:06:29.100263+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/freshness_queue.json",
     "size_bytes": 40990,
-    "last_modified": "2026-06-25T07:32:39.083191+00:00",
+    "last_modified": "2026-06-25T07:46:01.651959+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/search_plan.json",
-    "size_bytes": 11026,
-    "last_modified": "2026-06-25T07:41:09.986875+00:00",
+    "size_bytes": 23366,
+    "last_modified": "2026-06-25T07:58:09.178919+00:00",
     "extension": ".json"
   }
 ]

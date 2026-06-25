@@ -2,8 +2,8 @@
 sector: high-roi-niches
 last_verified: 2026-06-25
 freshness: fresh
-confidence: 0.697
-evidence_ids: ['ebb1dec2-a5e', 'fc9489aa-2a7']
+confidence: 0.739
+evidence_ids: ['56db24cf-dc4', '997bd102-954', '0d3efa45-fec']
 ---
 
 # High-ROI Niches — Bangladesh Market
@@ -79,12 +79,15 @@ This sector captures high-growth, high-margin niche opportunities in Bangladesh.
 
 
 
+
 ## Auto-Updated Data (2026-06-25)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| PetZone BD | search | 0.90 |
-| petzonebd.com | search | 0.95 |
-| Vet & Pet Care Bangladesh | search | 0.90 |
-| Sher-e-bangla Agricultural University, Dhaka-1207 | search | 0.90 |
-| Veterinary Medicine, Health & Medical | search | 0.90 |
+| affordable prices | search | 0.90 |
+| ['fast delivery', 'top-notch customer service'] | search | 0.95 |
+| ['pet products', 'food', 'toys', 'accessories'] | search | 0.95 |
+| best prices | search | 0.90 |
+| ['home delivery'] | search | 0.95 |
+| ['cat food', 'toys', 'grooming products', 'accessories'] | search | 0.95 |
+| ['top-rated customer service'] | search | 0.90 |

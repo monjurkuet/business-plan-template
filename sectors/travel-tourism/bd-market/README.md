@@ -2,8 +2,8 @@
 sector: travel-tourism
 last_verified: 2026-06-25
 freshness: fresh
-confidence: 0.7
-evidence_ids: ['ed22f3aa-9b9', '0c678b8a-4d5']
+confidence: 0.741
+evidence_ids: ['070925c0-53e', '47987bac-59f', '7d219877-a0b', 'feca3a9e-0c6']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -60,12 +60,20 @@ evidence_ids: ['ed22f3aa-9b9', '0c678b8a-4d5']
 
 
 
+
 ## Auto-Updated Data (2026-06-25)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| honest service, affordable prices, and real support | search | 0.90 |
-| 2017 | search | 1.00 |
-| IATA-certified | search | 1.00 |
-| Dhaka, Bangladesh | search | 1.00 |
-| 1315 | search | 0.90 |
+| IATA | search | 1.00 |
+| 42337956 | search | 1.00 |
+| ATAB | search | 1.00 |
+| 4298 | search | 1.00 |
+| 8+ | search | 0.90 |
+| 4.8 | search | 1.00 |
+| 463+ | search | 0.90 |
+| tour and travel packages | search | 1.00 |
+| affordable | search | 0.80 |
+| customized tour packages, flight bookings, hotel reservations, visa assistance | search | 1.00 |
+| ['Bangladesh', 'Chittagong', 'Sharjah', 'Dubai', 'Noakhali', 'Ajman'] | search | 0.90 |
+| travel agency | search | 0.90 |

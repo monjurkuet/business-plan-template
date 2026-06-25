@@ -2,8 +2,8 @@
 sector: jewellery
 last_verified: 2026-06-25
 freshness: fresh
-confidence: 0.695
-evidence_ids: ['d603162e-862', '4fa21064-d6f']
+confidence: 0.735
+evidence_ids: ['b287f764-aa6', '1640f74b-62d', 'aacf8da3-ef5', '3f26e8fc-a2b']
 ---
 
 # Jewellery — Bangladesh Market
@@ -71,15 +71,15 @@ evidence_ids: ['d603162e-862', '4fa21064-d6f']
 
 
 
+
 ## Auto-Updated Data (2026-06-25)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Pearl Necklace Set, Freshwater Pearl Jewelry, Pearl Necklace Pendent | search | 0.90 |
-| women | search | 0.90 |
-| ornaments, necklace, pendent | search | 0.90 |
-| 2025 | search | 0.90 |
-| red gold | search | 0.90 |
-| purity check | search | 0.90 |
-| AR try-on | search | 0.90 |
-| lifetime buyback | search | 0.90 |
+| pearl necklace | search | 0.90 |
+| Cox's Bazar, Bangladesh | search | 0.90 |
+| ['pendant necklaces', 'statement necklaces', 'choker necklaces'] | search | 0.90 |
+| Bangladeshi red gold | search | 0.90 |
+| ['verified suppliers', 'purity check', 'secure shopping', 'AR try-on', 'lifetime | search | 0.90 |
+| Wedding Jewellery Bangladesh | search | 0.90 |
+| Wedding Stage Decoration | search | 0.90 |
