@@ -185,7 +185,7 @@ def main():
                     "category": cat,
                     "age_days": 9999,
                     "stale_type": "missing",
-                    "priority": "P0",
+                    "priority": "P1",  # P1 (not P0) — zero-evidence sectors need initial data but shouldn't crowd out critical-stale items
                     "stale_after_days": 0,
                     "critical_after_days": 0,
                     "reason": f"Zero evidence collected for sector — initial data collection needed ({cat})",

@@ -1,9 +1,9 @@
 ---
 sector: crypto-bitcoin
-last_verified: 2026-05-08
+last_verified: 2026-06-25
 freshness: fresh
-confidence: 0.736
-evidence_ids: ['37a33c5a-c00', '6a2726a2-316', 'c9401fd8-47a', '36145ee7-de5', '2ac957bc-9c7', '5de6bf1c-1d1', 'e5a882ab-df5', 'bf80f0eb-506', '67b9f2c9-f48', 'b2068450-2cc', '5d8ae7dc-261', '19e545fb-1c6', 'a7bf469d-5a5', 'ecb861c9-413', '717bd9ae-ee2', '8f6a353d-833', '68bd3bd9-e83', 'cc71acfc-66f', '0bd0b4d3-e85']
+confidence: 0.741
+evidence_ids: ['c8cee288-a62', '6963c971-e88', '14333c35-c87', 'd608121e-409', '3ff79279-da0', '05b653e8-548', '3184f262-650', 'b20af99e-da5', '841255a8-b7e']
 ---
 
 # Crypto & Bitcoin — Bangladesh Market
@@ -71,22 +71,24 @@ evidence_ids: ['37a33c5a-c00', '6a2726a2-316', 'c9401fd8-47a', '36145ee7-de5', '
 - **Trading Legal**: Crypto trading is LEGAL in Bangladesh (permanent fact)
 - **Fintech Mfs**: 100M+ MFS users — bridge to crypto adoption potential
 
-## Auto-Updated Data (2026-05-08)
+
+
+## Auto-Updated Data (2026-06-25)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Requires account with a cryptocurrency exchange or trading platform to trade cry | search | 0.70 |
-| bKash or Nagad for direct fiat withdrawals | search | 0.80 |
-| P2P Trading | search | 0.80 |
-| Banned | search | 0.90 |
-| money laundering and foreign exchange laws | search | 0.80 |
-| severe penalties | search | 0.80 |
-| arrest | search | 0.70 |
-| frozen accounts | search | 0.70 |
-| prison | search | 0.70 |
-| Banned | search | 0.90 |
-| risks of money laundering, terrorist financing, financial instability, and past  | search | 0.80 |
-| Telegram | search | 0.80 |
-| TikTok | search | 0.80 |
-| Crypto Bangladesh | search | 0.90 |
-| বাংলাদেশের ট্রেডারদের জন্য একটি বিশ্বস্ত কমিউনিটি, যেখানে প্রতিদিন শেয়ার করা হয | search | 0.90 |
+| Tezos | search | 0.95 |
+| crypto exchanges | search | 0.95 |
+| Bangladesh | search | 0.95 |
+| ['buy cryptos', 'bet on Tezos results'] | search | 0.90 |
+| banned | search | 0.95 |
+| ['money laundering risks', 'terrorist financing risks', 'financial instability', | search | 0.95 |
+| crypto ban | search | 0.90 |
+| unknown (question posed but not answered) | search | 0.80 |
+| crypto trading platforms | search | 0.95 |
+| Bangladesh | search | 0.95 |
+| open a Bangladesh cryptocurrency trading account | search | 0.95 |
+| not legalized, no outright ban | search | 0.95 |
+| Bangladesh Bank | search | 0.95 |
+| volatility risks, proceed with caution | search | 0.90 |
+| EmpireCryptoData | search | 0.90 |

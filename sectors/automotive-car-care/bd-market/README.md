@@ -2,8 +2,8 @@
 sector: automotive-car-care
 last_verified: 2026-06-25
 freshness: fresh
-confidence: 0.749
-evidence_ids: ['18d80890-053', 'dbf764ad-8de', 'f44b94be-494', '84604ca0-8e4', 'e83c7a43-acd', '838b7c46-8eb', '4716b625-0a3', '3971744c-a7c', '1a5e97a6-325', '093cd689-974', 'ead103b1-14f', 'e94d0bfd-4d4', 'f1582cb0-abe', '564302e5-45d', '9b51af5f-773', 'f07a4758-15e', 'c755e3b5-651', '0c52cffa-d40', '12403307-23e', '7a44b54d-c41']
+confidence: 0.742
+evidence_ids: ['a1ef0a5a-243', '088a1e87-f56', '82f8183a-fdd', '5e9fb7b8-c30', '9f29fe10-41f']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -110,22 +110,23 @@ evidence_ids: ['18d80890-053', 'dbf764ad-8de', 'f44b94be-494', '84604ca0-8e4', '
 
 
 
+
+
 ## Auto-Updated Data (2026-06-25)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Car Price in Bangladesh 2026 (Brand New & Recondition) | search | 1.00 |
-| 2026-02-05 | search | 1.00 |
-| Brand new and recondition car prices in Bangladesh, including Toyota, Nissan, Ho | search | 1.00 |
-| Brand New Car Price in BD | বর্তমান মূল্য সহ বিস্তারিত | search | 1.00 |
-| Brand new car prices in Bangladesh, including specifications, installment detail | search | 1.00 |
-| Car Price in Bangladesh 2026 (Buy & Sell) | BDStall | search | 1.00 |
-| 6 days ago | search | 1.00 |
-| 1 | search | 0.90 |
-| 285000 | search | 0.90 |
-| ['Toyota', 'Nissan', 'Mazda', 'Mitsubishi', 'Honda', 'Hyundai', 'Suzuki', 'Lexus | search | 1.00 |
-| Cars for Sale in Bangladesh - Garirbazar | search | 1.00 |
-| 2026-05-09 | search | 1.00 |
-| Used car prices, recondition car prices, car loans, and showroom access in Dhaka | search | 1.00 |
-| Car Price in Bangladesh | Japanese Used Cars for Sale | search | 1.00 |
-| Reconditioned Japanese used cars for sale in Bangladesh, inspection and certific | search | 1.00 |
+| ['Toyota', 'Honda', 'SUV'] | search | 0.95 |
+| Japan auction price for cars | search | 0.90 |
+| transparent pre-order process | search | 0.90 |
+| @carcarebangladesh | search | 1.00 |
+| 27 | search | 1.00 |
+| 186 | search | 1.00 |
+| 8 | search | 1.00 |
+| Dhaka, Bangladesh | search | 1.00 |
+| 127 | search | 1.00 |
+| Take Care Of Your Car In The Garage, and The Car Will Take Care Of You On The Ro | search | 0.95 |
+| product price listing and comparison | search | 0.90 |
+| real and trusted reviews, price comparison, and updated prices | search | 0.95 |
+| more than 40 products and services in Bangladesh | search | 0.90 |
+| ['restaurants', 'food', 'transportation', 'utilities', 'housing'] | search | 0.95 |

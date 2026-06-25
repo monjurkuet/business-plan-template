@@ -1,9 +1,9 @@
 ---
 sector: media-marketing-digital
-last_verified: 2026-05-06
-freshness: critical
-confidence: 0.2
-evidence_ids: []
+last_verified: 2026-06-25
+freshness: fresh
+confidence: 0.741
+evidence_ids: ['8bf13052-9b8', '9d07bc82-1ba', '8c56fe0f-db9']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market
@@ -79,3 +79,17 @@ evidence_ids: []
 - **Digital Transformation**: 2025-2026: BNDA launch, National Data Exchange, 800+ govt services digitized (Feb 2025)
 - **Fintech Opportunity**: 100M+ MFS users via bKash/Nagad — barely scratched surface (May 2025)
 - **Digital Payment**: Shifting from cash-based to digital — debit/credit cards, MFS, internet banking, fintech apps growing (Jan 2025)
+
+
+## Auto-Updated Data (2026-06-25)
+
+| Fact | Source | Confidence |
+|------|--------|------------|
+| payment per use | search | 0.90 |
+| pay only for what you use | search | 0.90 |
+| 207 | search | 0.95 |
+| Digital Marketing Services | search | 0.90 |
+| Digital Marketing - Bangladesh | search | 1.00 |
+| Digital Marketing Specialist (Account Recovery Expert) | search | 1.00 |
+| ['Facebook Recovery', 'Gmail Recovery'] | search | 1.00 |
+| CyberAware BD | search | 1.00 |

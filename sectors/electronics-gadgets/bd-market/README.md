@@ -1,9 +1,9 @@
 ---
 sector: electronics-gadgets
-last_verified: 2026-05-06
-freshness: critical
-confidence: 0.2
-evidence_ids: []
+last_verified: 2026-06-25
+freshness: fresh
+confidence: 0.741
+evidence_ids: ['94066825-7ad', '3040bd78-df3', '5ddd6814-b03', '6749fb86-014', '516e7827-494']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -78,3 +78,22 @@ evidence_ids: []
 - **Home Appliance**: 169M population + growing middle class driving demand for energy-efficient appliances (2025-2031)
 - **Star Tech**: 18-year journey — from 100 sq ft to leading tech retailer (Mar 2025)
 - **B2C Ecommerce**: B2C E-commerce Market Size & Forecast published Jan 29, 2026 — 80+ KPIs databook
+
+
+## Auto-Updated Data (2026-06-25)
+
+| Fact | Source | Confidence |
+|------|--------|------------|
+| home appliances, ACs, refrigerators, washing machines, smart TVs, ovens | search | 0.95 |
+| official warranty, EMI facilities, fast home delivery | search | 0.95 |
+| e-commerce shop | search | 0.95 |
+| authorized multi-brand electronics retailer | search | 0.95 |
+| authentic products, official warranty, 0% EMI, 16 superstores nationwide | search | 0.95 |
+| consumer electronics online shopping platform | search | 0.95 |
+| premium quality products, seamless online shopping experience, original electron | search | 0.95 |
+| electronic and electrical products | search | 0.95 |
+| one-stop shop | search | 0.90 |
+| electronics, home appliances, air conditioners, smart TVs, refrigerators, home a | search | 0.95 |
+| official warranty, best price | search | 0.95 |
+| 2026 | search | 0.90 |
+| online destination for electronics and home appliances | search | 0.95 |

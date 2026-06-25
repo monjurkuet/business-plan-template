@@ -72,7 +72,7 @@ def resolve_review_models(routing: dict) -> list[str]:
 log = logging.getLogger("build_search_plan")
 
 MAX_QUERIES = int(os.environ.get("MAX_SEARCH_QUERIES", "60"))
-REVIEW_TIMEOUT_SECONDS = int(os.environ.get("SEARCH_PLAN_REVIEW_TIMEOUT_SECONDS", "90"))
+REVIEW_TIMEOUT_SECONDS = int(os.environ.get("SEARCH_PLAN_REVIEW_TIMEOUT_SECONDS", "30"))
 
 
 def load_repo_summary() -> dict:
@@ -271,11 +271,16 @@ def synthesize_plans(reviews: list[dict], freshness_queue: list,
                     "source_model": gap.get("source_model", ""),
                 })
     
-    # Sort by priority, cap
+    # Sort by priority, cap P0 at 50% to leave room for P1/P2
     p_order = {"P0": 0, "P1": 1, "P2": 2}
     queries.sort(key=lambda x: p_order.get(x.get("priority", "P2"), 9))
+    p0_queries = [q for q in queries if q.get("priority") == "P0"]
+    other_queries = [q for q in queries if q.get("priority") != "P0"]
+    max_p0 = MAX_QUERIES // 2
+    if len(p0_queries) > max_p0:
+        queries = p0_queries[:max_p0] + other_queries[:MAX_QUERIES - max_p0]
     queries = queries[:MAX_QUERIES]
-    
+
     return queries
 
 

@@ -45,7 +45,7 @@ def run_script(name: str, dry_run: bool = False) -> bool:
             [sys.executable, str(script_path)],
             capture_output=True,
             text=True,
-            timeout=600,
+            timeout=900,
             cwd=str(REPO_ROOT),
         )
         if result.stdout:

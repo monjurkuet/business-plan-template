@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-06-25
 freshness: fresh
-confidence: 0.747
-evidence_ids: ['4a3bb752-fe9', '2d1be7a5-47a', 'bc2ca705-d73', '66725c02-16f']
+confidence: 0.739
+evidence_ids: ['7236fb23-583', 'beb5f090-650', 'ae88439b-fb1', '161745de-fcc', '1fa55e83-508']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -92,21 +92,24 @@ evidence_ids: ['4a3bb752-fe9', '2d1be7a5-47a', 'bc2ca705-d73', '66725c02-16f']
 
 
 
+
+
 ## Auto-Updated Data (2026-06-25)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| baggy pants | search | 1.00 |
-| boys, youth | search | 0.90 |
-| all over Bangladesh | search | 1.00 |
-| affordable | search | 0.90 |
-| Mom & Kids | search | 1.00 |
-| ['t-shirts', 'polo shirts', 'casual shirts', 'summer wear'] | search | 1.00 |
-| across Bangladesh | search | 1.00 |
-| SiATEX Global | search | 1.00 |
-| T-shirt manufacturer | search | 1.00 |
+| ['11.11 Global Shopping Festival', 'Anniversary Sale', 'Summer Sale'] | search | 0.95 |
 | Bangladesh | search | 1.00 |
-| best factory prices | search | 0.90 |
-| Temu | search | 1.00 |
-| 90 | search | 1.00 |
-| 30 | search | 1.00 |
+| ['t-shirts', 'polo shirts', 'casual shirts', 'summer wear'] | search | 0.95 |
+| fast delivery across Bangladesh | search | 0.90 |
+| Men | search | 1.00 |
+| affordable shopping | search | 0.90 |
+| Dhaka | search | 0.95 |
+| ['clothing', 'shoes', 'books', 'electronics', 'cosmetics', 'street food'] | search | 0.90 |
+| two-piece outfits | search | 0.85 |
+| women's fashion | search | 0.90 |
+| trendy western clothing | search | 0.85 |
+| 2026-04-20 | search | 0.95 |
+| jacket | search | 0.95 |
+| premium quality, durable materials | search | 0.90 |
+| competitive | search | 0.85 |

@@ -1,9 +1,9 @@
 ---
 sector: high-roi-niches
-last_verified: 2026-05-06
-freshness: critical
-confidence: 0.2
-evidence_ids: []
+last_verified: 2026-06-25
+freshness: fresh
+confidence: 0.744
+evidence_ids: ['97f8469b-76d', 'c1000155-998', '8c00e469-2b2', 'a792a70e-ff7']
 ---
 
 # High-ROI Niches — Bangladesh Market
@@ -76,3 +76,24 @@ This sector captures high-growth, high-margin niche opportunities in Bangladesh.
 - **Influencer Market**: $35.23M by 2025, 8.44% CAGR (Statista)
 - **4Ir**: 4th Industrial Revolution convergence of AI, IoT, automation, blockchain impacting SME sector
 - **Digital Roadmap**: BNDA, NDX, 800+ govt services digitized 2025-2026
+
+
+## Auto-Updated Data (2026-06-25)
+
+| Fact | Source | Confidence |
+|------|--------|------------|
+| pet products, food, toys, accessories | search | 0.95 |
+| fast delivery, affordable prices, top-notch customer service | search | 0.95 |
+| pet shop | search | 0.95 |
+| online pet shop | search | 0.90 |
+| home delivery | search | 0.90 |
+| Precise Petcare | search | 1.00 |
+| Dhaka | search | 1.00 |
+| 310 | search | 1.00 |
+| 2 | search | 1.00 |
+| Pet Supplies | search | 1.00 |
+| Royal Pet Care | search | 1.00 |
+| Dhaka | search | 1.00 |
+| 5049 | search | 1.00 |
+| 8 | search | 1.00 |
+| ['Royal Canin', 'Alpo', 'Friskies', 'Pedigree', 'Me-O', 'Whiskas'] | search | 1.00 |
