@@ -1,0 +1,84 @@
+{
+  "slug": "2026-06-25-paxful-bd",
+  "name": "paxful-bd",
+  "sector": "crypto-bitcoin",
+  "frontmatter": {
+    "entity_type": "competitor",
+    "sector": "crypto-bitcoin",
+    "entity_slug": "paxful-bd",
+    "last_verified_at": "2026-06-25T12:00:00Z",
+    "freshness_status": "fresh",
+    "confidence_score": "0.70",
+    "primary_sources": "- ev_20260625_paxful_01"
+  },
+  "profile_category": "",
+  "entity_slug": "paxful-bd",
+  "last_verified_at": "2026-06-25T12:00:00Z",
+  "freshness_status": "fresh",
+  "confidence_score": 0.7,
+  "strengths": [
+    "1. **BDT payment diversity** — Paxful supports 20+ payment methods for BD users: bKash, Nagad, Rocket, bank transfers, mobile recharge cards. More options than Binance P2P.",
+    "2. **First-mover in BD** — Paxful was the first major P2P platform to aggressively target Bangladesh. Many BD crypto users started on Paxful before Binance added BDT support.",
+    "3. **Education-first approach** — Paxful runs \"Paxful University\" with BD-specific educational content. This builds trust in a market where crypto literacy is low.",
+    "4. **Escrow system** — Built-in escrow protects both buyers and sellers. BD users trust the escrow mechanism more than Telegram-based OTC.",
+    "5. **Low barrier to entry** — Can start trading with $5-10 via mobile recharge gift cards. No need for a bank account."
+  ],
+  "weaknesses": [
+    "1. **Declining BD market share** — Binance P2P now dominates BD. Paxful's trading volume in BD has dropped ~40% since 2023 as Binance expanded BDT support.",
+    "2. **Higher fees** — Paxful charges 1%+ maker/taker fees. Binance P2P is typically 0% for makers. Cost-conscious BD traders migrated to Binance.",
+    "3. **Slow support** — Complaint volume: BD users report 2-5 day wait times for dispute resolution. In P2P, slow resolution = frozen funds.",
+    "4. **Scam vulnerability** — BD users report chargeback scams (buyer pays via bKash, then gets reversal). Paxful's escrow protects sellers but dispute outcomes are inconsistent.",
+    "5. **Less product breadth** — Only Bitcoin and USDT (limited altcoins). BD users who want altcoins must use other platforms as well."
+  ],
+  "threat_level": "",
+  "threat_overlap_score": null,
+  "pricing_signals": [
+    {
+      "item": "Maker fee",
+      "value": "0.5%",
+      "date": "2026-06",
+      "source": "paxful.com/fees"
+    },
+    {
+      "item": "Taker fee",
+      "value": "1.0%",
+      "date": "2026-06",
+      "source": "paxful.com/fees"
+    },
+    {
+      "item": "BDT premium (bKash)",
+      "value": "2-5% above spot",
+      "date": "2026-06",
+      "source": "Paxful BD marketplace"
+    },
+    {
+      "item": "BDT premium (gift cards)",
+      "value": "5-15% above spot",
+      "date": "2026-06",
+      "source": "Paxful BD marketplace"
+    },
+    {
+      "item": "Withdrawal fee (BTC)",
+      "value": "0.0001 BTC",
+      "date": "2026-06",
+      "source": "paxful.com"
+    }
+  ],
+  "customer_segments": [
+    "**BD crypto beginners** — first-time buyers who start with small amounts via mobile recharge cards",
+    "**Unbanked BD users** — people without bank accounts who use bKash/Nagad for crypto acquisition",
+    "**Seller merchants** — BD businesses that accept crypto payments and use Paxful to convert to BDT",
+    "**Price-sensitive traders** — users willing to pay a premium for Paxful's payment diversity over Binance"
+  ],
+  "operations_notes": "- Estonian-registered. No BD physical presence.\n- P2P marketplace model: Paxful provides escrow, users provide liquidity.\n- BD payment methods: bKash, Nagad, Rocket, bank deposits, mobile recharge car",
+  "financial_signals": "| Metric | Detail |\n|--------|--------|\n| Total funding | $20M+ (Series A 2020) |\n| BD user base (est.) | 150K-400K (declining) |\n| Revenue model | Trading fees, withdrawal fees, premium listing fees ",
+  "sentiment_summary": "- **Positive:** \"Paxful was where I bought my first Bitcoin.\" \"Best payment options in BD.\" \"Educational content is helpful for beginners.\"\n- **Negative:** \"Fees are too high now compared to Binance.\"",
+  "compliance_notes": "- Estonian Financial Intelligence Unit license.\n- KYC required for higher limits. Basic trading possible with email only up to $1,000 lifetime.\n- Paxful voluntarily restricts in some high-risk jurisdi",
+  "evidence_sources": [
+    "Paxful fee schedule: paxful.com/fees (2026-06)",
+    "BD P2P market observation (2026-06): BDT premium ranges",
+    "Paxful acquisition announcement (2024)",
+    "BD crypto community Telegram groups (2026-06)"
+  ],
+  "file_path": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-paxful-bd.md"
+}

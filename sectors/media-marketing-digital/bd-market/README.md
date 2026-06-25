@@ -2,8 +2,8 @@
 sector: media-marketing-digital
 last_verified: 2026-06-25
 freshness: fresh
-confidence: 0.741
-evidence_ids: ['8bf13052-9b8', '9d07bc82-1ba', '8c56fe0f-db9']
+confidence: 0.739
+evidence_ids: ['4506c0aa-64d', '4d28f355-c5e', '0ea0b799-9e3', 'f249d3a9-6cd']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market
@@ -81,15 +81,20 @@ evidence_ids: ['8bf13052-9b8', '9d07bc82-1ba', '8c56fe0f-db9']
 - **Digital Payment**: Shifting from cash-based to digital — debit/credit cards, MFS, internet banking, fintech apps growing (Jan 2025)
 
 
+
 ## Auto-Updated Data (2026-06-25)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| payment per use | search | 0.90 |
-| pay only for what you use | search | 0.90 |
-| 207 | search | 0.95 |
-| Digital Marketing Services | search | 0.90 |
-| Digital Marketing - Bangladesh | search | 1.00 |
-| Digital Marketing Specialist (Account Recovery Expert) | search | 1.00 |
-| ['Facebook Recovery', 'Gmail Recovery'] | search | 1.00 |
-| CyberAware BD | search | 1.00 |
+| startups | search | 0.95 |
+| Affordable digital marketing for growth without wasting money | search | 0.90 |
+| Rajshahi Digital Hub | search | 0.95 |
+| affordable pricing | search | 0.90 |
+| mobile marketing | search | 0.95 |
+| most Bangladeshi internet access occurs through mobile devices | search | 0.90 |
+| Motaher Hossain | search | 0.95 |
+| Digital Marketing Specialist | search | 0.95 |
+| Bangladesh | search | 0.95 |
+| extensive experience in digital marketing | search | 0.90 |
+| BA3 Digital Marketing Bangladesh | search | 0.95 |
+| custom project discussion including price and timeline | search | 0.90 |

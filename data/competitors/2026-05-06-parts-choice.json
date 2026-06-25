@@ -1,0 +1,41 @@
+{
+  "slug": "2026-05-06-parts-choice",
+  "name": "parts-choice",
+  "sector": "automotive-car-care",
+  "frontmatter": {
+    "sector": "automotive-car-care",
+    "last_verified": "2026-05-06",
+    "freshness": "fresh",
+    "confidence": "0.5",
+    "evidence_ids": "[]"
+  },
+  "profile_category": "",
+  "entity_slug": "2026-05-06-parts-choice",
+  "last_verified_at": "",
+  "freshness_status": "unknown",
+  "confidence_score": 0.0,
+  "strengths": [
+    "1. **Multi-brand aggregator** — Mobil, Shell, Castrol — customer finds everything here",
+    "2. **E-commerce website** — partschoicebd.com (rare in BD market)",
+    "3. **100% recommendation** — strong trust",
+    "4. **\"One-Stop Shop\" positioning** — convenience play",
+    "5. **Always open** — aggressive availability"
+  ],
+  "weaknesses": [
+    "1. **20K followers** — relatively small audience",
+    "2. **No service center** — products only, no installation",
+    "3. **No car import** — no cross-selling",
+    "4. **No guarantees beyond product warranty**",
+    "5. **No educational content** — just product listings"
+  ],
+  "threat_level": "**Overlap with our idea:** 6/10 (if we sell oil products)",
+  "threat_overlap_score": null,
+  "pricing_signals": [],
+  "customer_segments": [],
+  "operations_notes": "",
+  "financial_signals": "",
+  "sentiment_summary": "",
+  "compliance_notes": "",
+  "evidence_sources": [],
+  "file_path": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-parts-choice.md"
+}

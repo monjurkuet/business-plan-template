@@ -1,0 +1,40 @@
+{
+  "slug": "2026-05-06-irfan-imports",
+  "name": "irfan-imports",
+  "sector": "automotive-car-care",
+  "frontmatter": {
+    "sector": "automotive-car-care",
+    "last_verified": "2026-05-06",
+    "freshness": "fresh",
+    "confidence": "0.5",
+    "evidence_ids": "[]"
+  },
+  "profile_category": "",
+  "entity_slug": "2026-05-06-irfan-imports",
+  "last_verified_at": "",
+  "freshness_status": "unknown",
+  "confidence_score": 0.0,
+  "strengths": [
+    "1. **83K followers** — second-largest reconditioned car page in BD",
+    "2. **Multi-brand import** — European + Japanese + American gives wider appeal",
+    "3. **98% recommendation rate** — strong trust signal",
+    "4. **\"The House of Cars\"** — aspirational brand positioning"
+  ],
+  "weaknesses": [
+    "1. **Website is dead** — irfanimports.com returns ERR_NAME_NOT_RESOLVED",
+    "2. **No e-commerce** — Facebook-only sales, no product catalog",
+    "3. **Zero aftercare** — no guarantees, no service packages, no product ecosystem",
+    "4. **No blog/content** — no SEO, no educational content",
+    "5. **Not verified** — no blue badge"
+  ],
+  "threat_level": "**Overlap with our idea:** 6/10 (if we do reconditioned car imports)",
+  "threat_overlap_score": null,
+  "pricing_signals": [],
+  "customer_segments": [],
+  "operations_notes": "",
+  "financial_signals": "",
+  "sentiment_summary": "",
+  "compliance_notes": "",
+  "evidence_sources": [],
+  "file_path": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-irfan-imports.md"
+}

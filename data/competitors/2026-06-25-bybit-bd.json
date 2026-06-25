@@ -1,0 +1,78 @@
+{
+  "slug": "2026-06-25-bybit-bd",
+  "name": "bybit-bd",
+  "sector": "crypto-bitcoin",
+  "frontmatter": {
+    "entity_type": "competitor",
+    "sector": "crypto-bitcoin",
+    "entity_slug": "bybit-bd",
+    "last_verified_at": "2026-06-25T12:00:00Z",
+    "freshness_status": "fresh",
+    "confidence_score": "0.75",
+    "primary_sources": "- ev_20260625_bybit_01"
+  },
+  "profile_category": "",
+  "entity_slug": "bybit-bd",
+  "last_verified_at": "2026-06-25T12:00:00Z",
+  "freshness_status": "fresh",
+  "confidence_score": 0.75,
+  "strengths": [
+    "1. **Derivatives leader** — Bybit is the #2 crypto derivatives exchange globally, offering up to 100x leverage. BD traders actively use it for futures trading.",
+    "2. **P2P BDT support** — Bybit P2P marketplace supports BDT via bKash, Nagad, and bank transfers, making it a direct competitor to Binance for BD on/off ramp.",
+    "3. **Copy trading** — Bybit's copy trading feature lets BD users follow experienced traders, reducing the learning curve for newcomers.",
+    "4. **Low fees** — 0.1% spot trading fee (0.075% with BGB) vs Binance's 0.1%. Maker rebates on futures.",
+    "5. **Strong BD community** — Active Bangladesh Telegram and Facebook groups dedicated to Bybit trading signals and strategies."
+  ],
+  "weaknesses": [
+    "1. **No official BD presence** — No registered office in Bangladesh. Customer support is global, not localized. No Bengali language support.",
+    "2. **Derivatives risk** — High leverage trading leads to frequent retail losses. Reputation hit in BD when local traders lose funds.",
+    "3. **P2P scam exposure** — Bybit's P2P platform, like Binance, faces scam risk. BD users report frozen funds during P2P disputes.",
+    "4. **Regulatory uncertainty** — No clarity on Bangladesh Bank's stance on Bybit specifically. Potential for ISP blocking as seen in other markets.",
+    "5. **Less brand trust** — In BD, Binance dominates brand recognition. Bybit is perceived as a \"derivatives exchange\" not a general crypto platform."
+  ],
+  "threat_level": "",
+  "threat_overlap_score": null,
+  "pricing_signals": [
+    {
+      "item": "Spot trading fee",
+      "value": "0.1% (0.075% with BGB)",
+      "date": "2026-06",
+      "source": "bybit.com/fees"
+    },
+    {
+      "item": "Futures fee",
+      "value": "0.06%/0.01% (taker/maker)",
+      "date": "2026-06",
+      "source": "bybit.com/fees"
+    },
+    {
+      "item": "P2P BDT premium",
+      "value": "1-3% above spot",
+      "date": "2026-06",
+      "source": "Bybit P2P marketplace"
+    },
+    {
+      "item": "Withdrawal fee (BTC)",
+      "value": "0.0005 BTC",
+      "date": "2026-06",
+      "source": "bybit.com"
+    }
+  ],
+  "customer_segments": [
+    "**BD crypto traders (spot)** — users who buy/sell crypto on P2P with BDT via bKash/Nagad",
+    "**BD futures traders** — retail traders using 5x-100x leverage on BTC/ETH perpetuals",
+    "**Copy trading followers** — newcomers copying experienced traders for passive exposure",
+    "**BD arbitrage traders** — users exploiting premium differences between Bybit and Binance P2P"
+  ],
+  "operations_notes": "- Global exchange regulated in Dubai (VARA), Seychelles (FSA). No specific BD license.\n- P2P marketplace connects BD buyers/sellers directly. Bybit provides escrow.\n- Deposits via P2P (BDT via bKash, ",
+  "financial_signals": "| Metric | Detail |\n|--------|--------|\n| Valuation | $12B+ (2025 private market valuation) |\n| Volume (24h) | $10B+ globally |\n| BD user base (est.) | 200K-500K active users |\n| Revenue model | Tradi",
+  "sentiment_summary": "- **Positive:** \"Best futures platform\" — common in BD trading circles. Low fees praised. Copy trading popular.\n- **Negative:** \"KYC is hard for BD users\" (many BD users lack international passports).",
+  "compliance_notes": "- Bybit operates under Dubai VARA license for UAE operations. Seychelles FSA for international.\n- No specific compliance for Bangladesh. BD users self-certify as international customers.\n- Potential I",
+  "evidence_sources": [
+    "Bybit official fee schedule: bybit.com/fees (2026-06)",
+    "Bybit P2P BDT marketplace: bybit.com/p2p (2026-06)",
+    "BD crypto Telegram groups: multiple groups with 5K-50K members (2026-06)",
+    "Trading volume data: CoinMarketCap/CoinGecko (2026-06)"
+  ],
+  "file_path": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-bybit-bd.md"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "2026-05-06-jda-oil-bangladesh",
+  "name": "jda-oil-bangladesh",
+  "sector": "automotive-car-care",
+  "frontmatter": {
+    "sector": "automotive-car-care",
+    "last_verified": "2026-05-06",
+    "freshness": "fresh",
+    "confidence": "0.5",
+    "evidence_ids": "[]"
+  },
+  "profile_category": "",
+  "entity_slug": "2026-05-06-jda-oil-bangladesh",
+  "last_verified_at": "",
+  "freshness_status": "unknown",
+  "confidence_score": 0.0,
+  "strengths": [
+    "1. **64K followers** — strong presence",
+    "2. **\"Original Japanese\" positioning** — powerful trust signal in a market flooded with counterfeit oil",
+    "3. **\"Drive Smarter; Drive Longer\"** — clear brand promise",
+    "4. **Lube & filter service** — product + service combo"
+  ],
+  "weaknesses": [
+    "1. **Single-brand dependency** — JDA only, no product diversity",
+    "2. **No car care products** — no detailing, no accessories",
+    "3. **No website** — Facebook-only",
+    "4. **No car import service** — no cross-selling",
+    "5. **Low review count** — only 4 reviews despite 64K followers",
+    "6. **No educational content** — just product promotions"
+  ],
+  "threat_level": "**Overlap with our idea:** 5/10 (overlaps on oil products only)",
+  "threat_overlap_score": null,
+  "pricing_signals": [],
+  "customer_segments": [],
+  "operations_notes": "",
+  "financial_signals": "",
+  "sentiment_summary": "",
+  "compliance_notes": "",
+  "evidence_sources": [],
+  "file_path": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-jda-oil-bangladesh.md"
+}

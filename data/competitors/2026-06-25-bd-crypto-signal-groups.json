@@ -1,0 +1,78 @@
+{
+  "slug": "2026-06-25-bd-crypto-signal-groups",
+  "name": "bd-crypto-signal-groups",
+  "sector": "crypto-bitcoin",
+  "frontmatter": {
+    "entity_type": "competitor",
+    "sector": "crypto-bitcoin",
+    "entity_slug": "bd-crypto-signal-groups",
+    "last_verified_at": "2026-06-25T12:00:00Z",
+    "freshness_status": "fresh",
+    "confidence_score": "0.75",
+    "primary_sources": "- ev_20260625_signals_01"
+  },
+  "profile_category": "",
+  "entity_slug": "bd-crypto-signal-groups",
+  "last_verified_at": "2026-06-25T12:00:00Z",
+  "freshness_status": "fresh",
+  "confidence_score": 0.75,
+  "strengths": [
+    "1. **Massive reach** — Combined BD crypto Telegram and Facebook audience exceeds 1M members across dozens of groups. Larger audience than any single exchange's BD user base.",
+    "2. **Trusted intermediary** — Group admins and signal providers act as trusted curators. BD users rely on them for trade recommendations, new token alerts, and platform selection.",
+    "3. **Zero infrastructure cost** — Operate on existing Telegram/Facebook infrastructure. No development, compliance, or security costs. Pure content + affiliate model.",
+    "4. **Affiliate monetization** — Groups earn referral commissions from Binance, Bybit, KuCoin via affiliate links. Some charge monthly subscription for \"VIP signals\" (500-2000 BDT/month).",
+    "5. **Real-time community** — BD crypto traders share real-time P2P rates, exchange status updates, and scam alerts faster than any official support channel."
+  ],
+  "weaknesses": [
+    "1. **Scam risk** — Many groups are run by anonymous admins. \"Pump and dump\" coordination is common. Users lose money following bad signals. Group exit scams happen.",
+    "2. **No accountability** — No regulation, no license, no recourse if admin disappears. BD users have lost significant funds following fraudulent signal providers.",
+    "3. **Signal quality varies wildly** — Most groups provide no track record or verified performance. Survivorship bias: groups only promote winning trades.",
+    "4. **Monetization conflicts** — Affiliate-driven recommendations push users toward exchanges with highest commissions, not best user outcomes.",
+    "5. **Fragmentation** — Hundreds of competing groups. No single group dominates. Users join 5-10 groups, creating noise and confusion."
+  ],
+  "threat_level": "",
+  "threat_overlap_score": null,
+  "pricing_signals": [
+    {
+      "item": "VIP signal subscription",
+      "value": "500-2000 BDT/month",
+      "date": "2026-06",
+      "source": "Telegram group pricing"
+    },
+    {
+      "item": "Affiliate commission (Binance)",
+      "value": "20-40% of referral trading fees",
+      "date": "2026-06",
+      "source": "Binance affiliate program"
+    },
+    {
+      "item": "Premium group access",
+      "value": "1000-5000 BDT lifetime",
+      "date": "2026-06",
+      "source": "Telegram group pricing"
+    },
+    {
+      "item": "Sponsored post (per group)",
+      "value": "5000-50000 BDT",
+      "date": "2026-06",
+      "source": "Estimated"
+    }
+  ],
+  "customer_segments": [
+    "**BD crypto beginners** — join groups to learn and get trading recommendations",
+    "**BD active traders** — use groups for real-time signal and market sentiment",
+    "**BD P2P traders** — monitor groups for best BDT rates across platforms",
+    "**BD exchange affiliates** — group admins who monetize via referral links"
+  ],
+  "operations_notes": "- Platform: Telegram (primary), Facebook Groups (secondary), YouTube, WhatsApp\n- Content: signal posts, market analysis, P2P rate boards, exchange news\n- Monetization: affiliate links (Binance, Bybit,",
+  "financial_signals": "| Metric | Detail |\n|--------|--------|\n| Top group monthly revenue (est.) | 200K-1M BDT from affiliates + subscriptions |\n| Total BD crypto affiliate market (est.) | 50-100M BDT annually |\n| Funding ",
+  "sentiment_summary": "- **Positive:** \"Good for learning.\" \"Real-time news is faster than anywhere else.\" \"Found my preferred P2P trader here.\"\n- **Negative:** \"Too many ads for shitcoins.\" \"Admins push their own bags.\" \"H",
+  "compliance_notes": "- No regulatory framework covers signal groups in Bangladesh.\n- \"Unlicensed investment advice\" risks if authorities decide to pursue.\n- Telegram-based: Telegram has limited cooperation with BD authori",
+  "evidence_sources": [
+    "Telegram group observations across 10+ BD crypto groups (2026-06)",
+    "BD crypto community survey estimates (2025-2026)",
+    "Binance affiliate program rates (2026-06)",
+    "Facebook group member counts (2026-06)"
+  ],
+  "file_path": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-bd-crypto-signal-groups.md"
+}

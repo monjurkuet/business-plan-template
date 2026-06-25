@@ -1,0 +1,84 @@
+{
+  "slug": "2026-06-25-okx-bd",
+  "name": "okx-bd",
+  "sector": "crypto-bitcoin",
+  "frontmatter": {
+    "entity_type": "competitor",
+    "sector": "crypto-bitcoin",
+    "entity_slug": "okx-bd",
+    "last_verified_at": "2026-06-25T12:00:00Z",
+    "freshness_status": "fresh",
+    "confidence_score": "0.73",
+    "primary_sources": "- ev_20260625_okx_01"
+  },
+  "profile_category": "",
+  "entity_slug": "okx-bd",
+  "last_verified_at": "2026-06-25T12:00:00Z",
+  "freshness_status": "fresh",
+  "confidence_score": 0.73,
+  "strengths": [
+    "1. **Strong DeFi + CeFi bridge** — OKX integrates on-chain DeFi (OKX Wallet, DEX aggregator) with centralized exchange features. BD users use OKX Wallet for DeFi access without leaving the ecosystem.",
+    "2. **BDT P2P marketplace** — OKX P2P supports BDT via bKash, Nagad, and bank transfers. Directly competes with Binance for BD on/off ramp.",
+    "3. **Low fees, high liquidity** — 0.08% spot trading fee (0.06% with OKB). Competitive with Bybit and undercuts Binance's standard rates.",
+    "4. **Comprehensive product suite** — Spot, futures, options, perpetuals, margin, earn, lending, NFT marketplace, Web3 wallet. One-stop shop for BD traders.",
+    "5. **Growing BD presence** — OKX has been actively marketing to BD users via Telegram group partnerships and BD-specific promotional campaigns."
+  ],
+  "weaknesses": [
+    "1. **Lower BD brand awareness** — Binance dominates brand recognition (80%+). Bybit leads in derivatives awareness. OKX is positioned as \"third choice\" in BD.",
+    "2. **BD market share decline risk** — As Binance and Bybit compete aggressively, OKX risks being squeezed into a smaller niche in BD.",
+    "3. **P2P liquidity thin** — OKX P2P for BDT has fewer offers and wider spreads than Binance. BD users report slower trade execution.",
+    "4. **OKB volatility** — Fee discount token OKB is volatile. BD users holding OKB for fee discounts face price risk.",
+    "5. **Customer support** — Similar to competitors: no BD-specific support, English-only, ticket-based."
+  ],
+  "threat_level": "",
+  "threat_overlap_score": null,
+  "pricing_signals": [
+    {
+      "item": "Spot trading fee",
+      "value": "0.08% (0.06% with OKB)",
+      "date": "2026-06",
+      "source": "okx.com/fees"
+    },
+    {
+      "item": "Futures fee",
+      "value": "0.05%/0.02% (taker/maker)",
+      "date": "2026-06",
+      "source": "okx.com/fees"
+    },
+    {
+      "item": "P2P BDT premium",
+      "value": "1-2% above spot",
+      "date": "2026-06",
+      "source": "OKX P2P marketplace"
+    },
+    {
+      "item": "Withdrawal fee (BTC)",
+      "value": "0.0005 BTC",
+      "date": "2026-06",
+      "source": "okx.com"
+    },
+    {
+      "item": "Withdrawal fee (USDT-TRON)",
+      "value": "0.8 USDT",
+      "date": "2026-06",
+      "source": "okx.com"
+    }
+  ],
+  "customer_segments": [
+    "**BD DeFi users** — traders who use OKX Wallet for on-chain DeFi from the exchange interface",
+    "**BD full-suite traders** — users wanting spot + futures + earn in one platform",
+    "**BD P2P users** — users seeking lower fees than Binance for BDT on/off ramp",
+    "**BD NFT traders** — OKX NFT marketplace users (still niche in BD)"
+  ],
+  "operations_notes": "- Seychelles registered. Malta VFAA framework for European ops.\n- OKX Wallet (self-custody) integrated with exchange — BD users can manage DeFi positions alongside exchange trades.\n- BD product: P2P m",
+  "financial_signals": "| Metric | Detail |\n|--------|--------|\n| Volume (24h) | $3-5B |\n| BD user base (est.) | 100K-250K |\n| Revenue model | Trading fees, withdrawal fees, margin interest, listing fees |\n| Notable | OKB ma",
+  "sentiment_summary": "- **Positive:** \"Good all-in-one platform.\" \"OKX Wallet is actually useful.\" \"Fees are lower than Binance.\"\n- **Negative:** \"P2P liquidity is too thin for BD.\" \"Fewer BD users means harder to find tra",
+  "compliance_notes": "- Seychelles FSA registered. Malta VFAA framework.\n- OKX restricts US and certain sanctioned jurisdictions. BD not restricted.\n- Standard KYC/AML. Full KYC required for withdrawal limits above 50 BTC/",
+  "evidence_sources": [
+    "OKX fee schedule: okx.com/fees (2026-06)",
+    "OKX P2P marketplace: BDT pairs observed (2026-06)",
+    "OKX proof-of-reserves monthly reports (2026)",
+    "BD crypto community discussions (Telegram groups, 2026-06)"
+  ],
+  "file_path": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-okx-bd.md"
+}

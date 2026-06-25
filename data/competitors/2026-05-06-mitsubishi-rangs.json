@@ -1,0 +1,41 @@
+{
+  "slug": "2026-05-06-mitsubishi-rangs",
+  "name": "mitsubishi-rangs",
+  "sector": "automotive-car-care",
+  "frontmatter": {
+    "sector": "automotive-car-care",
+    "last_verified": "2026-05-06",
+    "freshness": "fresh",
+    "confidence": "0.5",
+    "evidence_ids": "[]"
+  },
+  "profile_category": "",
+  "entity_slug": "2026-05-06-mitsubishi-rangs",
+  "last_verified_at": "",
+  "freshness_status": "unknown",
+  "confidence_score": 0.0,
+  "strengths": [
+    "1. **Massive brand backing** - Rangs Group is a top BD conglomerate with deep capital and distribution",
+    "2. **Official dealership** - Mitsubishi warranty, genuine parts, authorized service",
+    "3. **353K+ followers** - largest automotive page in BD by follower count",
+    "4. **National reach** - showroom + service network across major cities",
+    "5. **Corporate and government contracts** - institutional buyers trust established brands"
+  ],
+  "weaknesses": [
+    "1. **Different market segment** - new cars, not reconditioned or car care products",
+    "2. **82% recommend rate** - lower than smaller competitors; corporate scale does not equal personal service",
+    "3. **No car care product line** - purely a vehicle sales business",
+    "4. **Slow to adapt to social media content** - corporate tone does not connect with younger buyers",
+    "5. **Premium pricing** - new Mitsubishi vehicles are 2-3x the price of reconditioned equivalents"
+  ],
+  "threat_level": "",
+  "threat_overlap_score": null,
+  "pricing_signals": [],
+  "customer_segments": [],
+  "operations_notes": "",
+  "financial_signals": "",
+  "sentiment_summary": "",
+  "compliance_notes": "",
+  "evidence_sources": [],
+  "file_path": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-mitsubishi-rangs.md"
+}

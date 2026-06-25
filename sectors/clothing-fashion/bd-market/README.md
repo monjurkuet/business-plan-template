@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-06-25
 freshness: fresh
-confidence: 0.739
-evidence_ids: ['7236fb23-583', 'beb5f090-650', 'ae88439b-fb1', '161745de-fcc', '1fa55e83-508']
+confidence: 0.74
+evidence_ids: ['496499c2-18f', '446cb5a2-02b', '46220ee8-e1c', 'd8dd4c38-c32', 'ef0e12cc-d0e', 'dbe97ea0-1c6', 'b6307ed4-bd6', '853879c5-1f8', '12161ab1-be5']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -94,22 +94,23 @@ evidence_ids: ['7236fb23-583', 'beb5f090-650', 'ae88439b-fb1', '161745de-fcc', '
 
 
 
+
 ## Auto-Updated Data (2026-06-25)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ['11.11 Global Shopping Festival', 'Anniversary Sale', 'Summer Sale'] | search | 0.95 |
-| Bangladesh | search | 1.00 |
-| ['t-shirts', 'polo shirts', 'casual shirts', 'summer wear'] | search | 0.95 |
+| men's clothing including t-shirts, polo shirts, casual shirts, and summer wear | search | 0.95 |
 | fast delivery across Bangladesh | search | 0.90 |
-| Men | search | 1.00 |
-| affordable shopping | search | 0.90 |
-| Dhaka | search | 0.95 |
-| ['clothing', 'shoes', 'books', 'electronics', 'cosmetics', 'street food'] | search | 0.90 |
-| two-piece outfits | search | 0.85 |
-| women's fashion | search | 0.90 |
-| trendy western clothing | search | 0.85 |
-| 2026-04-20 | search | 0.95 |
-| jacket | search | 0.95 |
-| premium quality, durable materials | search | 0.90 |
-| competitive | search | 0.85 |
+| luxury clothing | search | 0.95 |
+| Black Aura – Black & Cream Polka Dot Luxury Pret 3-Piece | search | 0.95 |
+| price: low to high, price: high to low | search | 0.90 |
+| free shipping, fast delivery, free return | search | 0.95 |
+| free returns up to 90 days | search | 0.95 |
+| price adjustment within 30 days | search | 0.95 |
+| delivery guarantee | search | 0.90 |
+| Jordan Logo T-Shirt | search | 0.95 |
+| Argentine Football Association Logo T-Shirt | search | 0.95 |
+| 450 - 540 | search | 0.95 |
+| officially licensed in Bangladesh | search | 0.90 |
+| Hussain Rehar inspired 3pcs set | search | 0.95 |
+| 2400 | search | 0.95 |

@@ -1,0 +1,29 @@
+{
+  "slug": "2026-05-06-daraz",
+  "name": "daraz",
+  "sector": "electronics-gadgets",
+  "frontmatter": {
+    "sector": "electronics-gadgets",
+    "last_verified": "2026-05-06",
+    "freshness": "fresh",
+    "confidence": "0.5",
+    "evidence_ids": "[]"
+  },
+  "profile_category": "",
+  "entity_slug": "2026-05-06-daraz",
+  "last_verified_at": "",
+  "freshness_status": "unknown",
+  "confidence_score": 0.0,
+  "strengths": [],
+  "weaknesses": [],
+  "threat_level": "",
+  "threat_overlap_score": null,
+  "pricing_signals": [],
+  "customer_segments": [],
+  "operations_notes": "",
+  "financial_signals": "",
+  "sentiment_summary": "",
+  "compliance_notes": "",
+  "evidence_sources": [],
+  "file_path": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-daraz.md"
+}

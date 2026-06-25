@@ -2,8 +2,8 @@
 sector: crypto-bitcoin
 last_verified: 2026-06-25
 freshness: fresh
-confidence: 0.741
-evidence_ids: ['c8cee288-a62', '6963c971-e88', '14333c35-c87', 'd608121e-409', '3ff79279-da0', '05b653e8-548', '3184f262-650', 'b20af99e-da5', '841255a8-b7e']
+confidence: 0.743
+evidence_ids: ['f8435f9a-5e0', 'beddf8b2-430', 'c473aeec-c93', '50ddf2da-39a', '41bb933f-d4a', '3c945a22-172']
 ---
 
 # Crypto & Bitcoin — Bangladesh Market
@@ -73,22 +73,21 @@ evidence_ids: ['c8cee288-a62', '6963c971-e88', '14333c35-c87', 'd608121e-409', '
 
 
 
+
 ## Auto-Updated Data (2026-06-25)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Tezos | search | 0.95 |
-| crypto exchanges | search | 0.95 |
-| Bangladesh | search | 0.95 |
-| ['buy cryptos', 'bet on Tezos results'] | search | 0.90 |
-| banned | search | 0.95 |
-| ['money laundering risks', 'terrorist financing risks', 'financial instability', | search | 0.95 |
-| crypto ban | search | 0.90 |
-| unknown (question posed but not answered) | search | 0.80 |
-| crypto trading platforms | search | 0.95 |
-| Bangladesh | search | 0.95 |
-| open a Bangladesh cryptocurrency trading account | search | 0.95 |
-| not legalized, no outright ban | search | 0.95 |
-| Bangladesh Bank | search | 0.95 |
-| volatility risks, proceed with caution | search | 0.90 |
-| EmpireCryptoData | search | 0.90 |
+| Bangladesh | search | 1.00 |
+| Bitcoin | search | 1.00 |
+| ['Bybit', 'Binance'] | search | 1.00 |
+| ['bKash', 'Nagad'] | search | 1.00 |
+| ['robust security', 'low fees', 'support for crypto withdrawal methods in BD'] | search | 1.00 |
+| Bangladesh residents need a crypto trading account to buy/sell cryptocurrency | search | 1.00 |
+| cryptocurrency trading in Dhaka, Bangladesh | search | 0.90 |
+| Telegram groups for crypto enthusiasts in Bangladesh | search | 0.90 |
+| Smart Money Concept for crypto trading | search | 0.90 |
+| @roddy_finance | search | 0.90 |
+| @saifulratan2 | search | 0.90 |
+| cryptocurrency education in Dhaka, Bangladesh | search | 0.95 |
+| 520600 | search | 0.90 |

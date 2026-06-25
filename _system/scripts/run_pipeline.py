@@ -149,6 +149,7 @@ def run_full_pipeline(dry_run: bool = False, skip_commit: bool = False,
             ("generate_changelog.py", "Generate changelog"),
         ]),
         ("phase4_learn", [
+            ("generate_sidecars.py", "Generate competitor JSON sidecars"),
             ("update_query_memory.py", "Update query memory"),
         ]),
     ]

@@ -2,8 +2,8 @@
 sector: jewellery
 last_verified: 2026-06-25
 freshness: fresh
-confidence: 0.741
-evidence_ids: ['0525b3d9-a21', '5f7a36a7-333', 'd9cddaf7-a8b', '27fb91d0-dad']
+confidence: 0.695
+evidence_ids: ['d603162e-862', '4fa21064-d6f']
 ---
 
 # Jewellery — Bangladesh Market
@@ -70,20 +70,16 @@ evidence_ids: ['0525b3d9-a21', '5f7a36a7-333', 'd9cddaf7-a8b', '27fb91d0-dad']
 - **Luxury Goods Bd**: Luxury goods market growing as economy develops and middle class expands (2025-2031 forecast)
 
 
+
 ## Auto-Updated Data (2026-06-25)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 22 karat | search | 0.95 |
-| gold chain | search | 0.90 |
-| gold jewellery | search | 0.95 |
-| online | search | 0.90 |
-| ['pendant necklaces', 'statement necklaces', 'choker necklaces'] | search | 0.90 |
-| red gold | search | 0.95 |
-| ['verified suppliers', 'purity check', 'secure shopping', 'AR try-on', 'lifetime | search | 0.90 |
-| Tanishq | search | 1.00 |
-| Titan Company | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| Rhythm Group | search | 1.00 |
-| manufacturing facility | search | 1.00 |
-| Narayanganj | search | 1.00 |
+| Pearl Necklace Set, Freshwater Pearl Jewelry, Pearl Necklace Pendent | search | 0.90 |
+| women | search | 0.90 |
+| ornaments, necklace, pendent | search | 0.90 |
+| 2025 | search | 0.90 |
+| red gold | search | 0.90 |
+| purity check | search | 0.90 |
+| AR try-on | search | 0.90 |
+| lifetime buyback | search | 0.90 |

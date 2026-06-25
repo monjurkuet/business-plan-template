@@ -25,12 +25,13 @@ log = logging.getLogger("execute_searches")
 
 import os
 MAX_QUERIES_PER_RUN = int(os.environ.get("MAX_QUERIES_PER_RUN", "48"))
-DELAY_SECONDS = float(os.environ.get("SEARCH_DELAY_SECONDS", "0.2"))  # Between queries
+DELAY_SECONDS = float(os.environ.get("SEARCH_DELAY_SECONDS", "0.2"))
 
 SEARCH_TIMEOUT_SECONDS = float(os.environ.get("SEARCH_TIMEOUT_SECONDS", "15"))
 MAX_TEXT_RESULTS = int(os.environ.get("MAX_TEXT_RESULTS", "5"))
 MAX_NEWS_RESULTS = int(os.environ.get("MAX_NEWS_RESULTS", "3"))
 HEADLESS_FAIL_FAST = os.environ.get("SEARCH_FAIL_FAST", "1") != "0"
+SEARCH_PARALLELISM = int(os.environ.get("SEARCH_PARALLELISM", "8"))  # concurrent workers
 
 
 def generate_queries(freshness_queue: list, sector_configs: dict, taxonomy: dict) -> list[dict]:
@@ -137,72 +138,89 @@ def generate_queries(freshness_queue: list, sector_configs: dict, taxonomy: dict
     return fair_queries[:MAX_QUERIES_PER_RUN]
 
 
-def execute_queries(queries: list[dict]) -> list[dict]:
-    """Execute search queries and return evidence items."""
-    evidence = []
-    total = len(queries)
+def _search_single_query(q: dict) -> list[dict]:
+    """Execute one search query, return evidence items. Thread-safe."""
+    import uuid
+    from urllib.parse import urlparse
+    from datetime import datetime, timezone
+    
+    time.sleep(DELAY_SECONDS)  # rate limit per worker
+    
+    log.info(f"[{q.get('_idx','?')}/{q.get('_total','?')}] {q['query'][:80]}...")
 
-    for i, q in enumerate(queries):
-        if i > 0:
-            time.sleep(DELAY_SECONDS)
+    # Search text
+    try:
+        text_results = search_text(q["query"], max_results=MAX_TEXT_RESULTS, timeout=SEARCH_TIMEOUT_SECONDS)
+    except Exception as ex:
+        log.warning(f"Text search failed for {q['query'][:60]!r}: {ex}")
+        text_results = [] if HEADLESS_FAIL_FAST else None
+        if text_results is None:
+            raise
 
-        log.info(f"[{i+1}/{total}] {q['query'][:80]}...")
-
-        # Search text
+    # Also search news for high-priority queries
+    news_results = []
+    if q["priority"] == "P0":
+        time.sleep(0.25)
         try:
-            text_results = search_text(q["query"], max_results=MAX_TEXT_RESULTS, timeout=SEARCH_TIMEOUT_SECONDS)
+            news_results = search_news(q["query"], max_results=MAX_NEWS_RESULTS, timeout=SEARCH_TIMEOUT_SECONDS)
         except Exception as ex:
-            log.warning(f"Text search failed for {q['query'][:60]!r}: {ex}")
-            if HEADLESS_FAIL_FAST:
-                text_results = []
-            else:
+            log.warning(f"News search failed for {q['query'][:60]!r}: {ex}")
+            if not HEADLESS_FAIL_FAST:
                 raise
-        
-        # Also search news for high-priority queries
-        news_results = []
-        if q["priority"] == "P0":
-            time.sleep(0.25)
+
+    all_results = text_results + news_results
+    now = datetime.now(timezone.utc).isoformat()
+
+    evidence = []
+    for r in all_results:
+        source_url = r.get("href", r.get("url", ""))
+        source_domain = urlparse(source_url).netloc if source_url else ""
+        evidence.append({
+            "evidence_id": str(uuid.uuid4())[:12],
+            "sector": q["sector"],
+            "entity_type": q["category"],
+            "entity_slug": "",
+            "query": q["query"],
+            "query_family": q["family"],
+            "query_score_prior": 0.5,
+            "search_provider": "search.datasolved.org",
+            "retrieved_at": now,
+            "source_url": source_url,
+            "source_domain": source_domain,
+            "source_type": "unknown",
+            "title": r.get("title", ""),
+            "snippet": r.get("body", r.get("snippet", "")),
+            "extracted_facts": [],
+            "source_quality_score": 0.0,
+            "recency_score": 0.0,
+            "consistency_score": 0.0,
+            "confidence_score": 0.0,
+        })
+    return evidence
+
+
+def execute_queries(queries: list[dict]) -> list[dict]:
+    """Execute search queries in parallel and return evidence items."""
+    total = len(queries)
+    from concurrent.futures import ThreadPoolExecutor, as_completed
+
+    # Annotate queries with index for logging
+    for i, q in enumerate(queries):
+        q["_idx"] = i + 1
+        q["_total"] = total
+
+    evidence = []
+    workers = min(SEARCH_PARALLELISM, total)
+
+    with ThreadPoolExecutor(max_workers=workers) as pool:
+        futures = {pool.submit(_search_single_query, q): q for q in queries}
+        for future in as_completed(futures):
             try:
-                news_results = search_news(q["query"], max_results=MAX_NEWS_RESULTS, timeout=SEARCH_TIMEOUT_SECONDS)
+                result = future.result(timeout=SEARCH_TIMEOUT_SECONDS + 10)
+                evidence.extend(result)
             except Exception as ex:
-                log.warning(f"News search failed for {q['query'][:60]!r}: {ex}")
-                if not HEADLESS_FAIL_FAST:
-                    raise
-
-        all_results = text_results + news_results
-
-        for r in all_results:
-            eid = str(uuid.uuid4())[:12]
-            source_url = r.get("href", r.get("url", ""))
-            source_domain = ""
-            if source_url:
-                try:
-                    from urllib.parse import urlparse
-                    source_domain = urlparse(source_url).netloc
-                except Exception:
-                    pass
-
-            evidence.append({
-                "evidence_id": eid,
-                "sector": q["sector"],
-                "entity_type": q["category"],
-                "entity_slug": "",
-                "query": q["query"],
-                "query_family": q["family"],
-                "query_score_prior": 0.5,
-                "search_provider": "search.datasolved.org",
-                "retrieved_at": now_iso(),
-                "source_url": source_url,
-                "source_domain": source_domain,
-                "source_type": "unknown",
-                "title": r.get("title", ""),
-                "snippet": r.get("body", r.get("snippet", "")),
-                "extracted_facts": [],
-                "source_quality_score": 0.0,
-                "recency_score": 0.0,
-                "consistency_score": 0.0,
-                "confidence_score": 0.0,
-            })
+                q = futures[future]
+                log.warning(f"Search failed for {q['query'][:60]!r}: {ex}")
 
     return evidence
 

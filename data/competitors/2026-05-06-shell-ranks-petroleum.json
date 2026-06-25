@@ -1,0 +1,41 @@
+{
+  "slug": "2026-05-06-shell-ranks-petroleum",
+  "name": "shell-ranks-petroleum",
+  "sector": "automotive-car-care",
+  "frontmatter": {
+    "sector": "automotive-car-care",
+    "last_verified": "2026-05-06",
+    "freshness": "fresh",
+    "confidence": "0.5",
+    "evidence_ids": "[]"
+  },
+  "profile_category": "",
+  "entity_slug": "2026-05-06-shell-ranks-petroleum",
+  "last_verified_at": "",
+  "freshness_status": "unknown",
+  "confidence_score": 0.0,
+  "strengths": [
+    "1. **256K followers** — largest automotive page in BD by far",
+    "2. **Global Shell brand** — instant trust, no education needed",
+    "3. **Physical workshop network** — Rangs Workshop locations nationwide",
+    "4. **Corporate infrastructure** — professional operations, supply chain",
+    "5. **86% recommend with 77 reviews** — scale of social proof"
+  ],
+  "weaknesses": [
+    "1. **Customer defection** — users publicly switching to REPSOL (visible in comments: \"Already switched to REPSOL by quit shell, better quality great pricing\")",
+    "2. **Generic positioning** — not specialized for Japanese reconditioned cars",
+    "3. **No car care ecosystem** — oil only, no detailing, no accessories",
+    "4. **No car import/pre-order** — no cross-selling opportunity",
+    "5. **Corporate rigidity** — can't pivot quickly or personalize"
+  ],
+  "threat_level": "**Overlap with our idea:** 4/10 (only overlaps on oil/lubricant products)",
+  "threat_overlap_score": null,
+  "pricing_signals": [],
+  "customer_segments": [],
+  "operations_notes": "",
+  "financial_signals": "",
+  "sentiment_summary": "",
+  "compliance_notes": "",
+  "evidence_sources": [],
+  "file_path": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-shell-ranks-petroleum.md"
+}

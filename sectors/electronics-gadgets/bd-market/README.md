@@ -2,8 +2,8 @@
 sector: electronics-gadgets
 last_verified: 2026-06-25
 freshness: fresh
-confidence: 0.741
-evidence_ids: ['94066825-7ad', '3040bd78-df3', '5ddd6814-b03', '6749fb86-014', '516e7827-494']
+confidence: 0.742
+evidence_ids: ['73cada44-ca6', 'fd0ac3ff-311', '93fae1de-1ee', '9ae4855b-8f7']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -80,20 +80,19 @@ evidence_ids: ['94066825-7ad', '3040bd78-df3', '5ddd6814-b03', '6749fb86-014', '
 - **B2C Ecommerce**: B2C E-commerce Market Size & Forecast published Jan 29, 2026 — 80+ KPIs databook
 
 
+
 ## Auto-Updated Data (2026-06-25)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| home appliances, ACs, refrigerators, washing machines, smart TVs, ovens | search | 0.95 |
-| official warranty, EMI facilities, fast home delivery | search | 0.95 |
-| e-commerce shop | search | 0.95 |
-| authorized multi-brand electronics retailer | search | 0.95 |
-| authentic products, official warranty, 0% EMI, 16 superstores nationwide | search | 0.95 |
-| consumer electronics online shopping platform | search | 0.95 |
-| premium quality products, seamless online shopping experience, original electron | search | 0.95 |
-| electronic and electrical products | search | 0.95 |
-| one-stop shop | search | 0.90 |
-| electronics, home appliances, air conditioners, smart TVs, refrigerators, home a | search | 0.95 |
-| official warranty, best price | search | 0.95 |
-| 2026 | search | 0.90 |
-| online destination for electronics and home appliances | search | 0.95 |
+| TCL TV | search | 1.00 |
+| 25500-102900 | search | 1.00 |
+| Express Delivery | search | 1.00 |
+| official warranty | search | 1.00 |
+| Gadgets & Premium Accessories | search | 1.00 |
+| Free Shipping | search | 1.00 |
+| BRANDS MEGA LTD | search | 1.00 |
+| Navana Tower (Level-18) 45 Gulshan Avenue, Gulshan-1 Dhaka -1212, Bangladesh | search | 1.00 |
+| 15.00 | search | 0.80 |
+| may go up | search | 0.80 |
+| ['electronics'] | search | 0.90 |

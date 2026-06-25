@@ -2,8 +2,8 @@
 sector: automotive-car-care
 last_verified: 2026-06-25
 freshness: fresh
-confidence: 0.742
-evidence_ids: ['a1ef0a5a-243', '088a1e87-f56', '82f8183a-fdd', '5e9fb7b8-c30', '9f29fe10-41f']
+confidence: 0.699
+evidence_ids: ['e8f57bfd-ee6', '2708ace4-2a2']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -112,21 +112,10 @@ evidence_ids: ['a1ef0a5a-243', '088a1e87-f56', '82f8183a-fdd', '5e9fb7b8-c30', '
 
 
 
+
 ## Auto-Updated Data (2026-06-25)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ['Toyota', 'Honda', 'SUV'] | search | 0.95 |
-| Japan auction price for cars | search | 0.90 |
-| transparent pre-order process | search | 0.90 |
-| @carcarebangladesh | search | 1.00 |
-| 27 | search | 1.00 |
-| 186 | search | 1.00 |
-| 8 | search | 1.00 |
-| Dhaka, Bangladesh | search | 1.00 |
-| 127 | search | 1.00 |
-| Take Care Of Your Car In The Garage, and The Car Will Take Care Of You On The Ro | search | 0.95 |
-| product price listing and comparison | search | 0.90 |
-| real and trusted reviews, price comparison, and updated prices | search | 0.95 |
-| more than 40 products and services in Bangladesh | search | 0.90 |
-| ['restaurants', 'food', 'transportation', 'utilities', 'housing'] | search | 0.95 |
+| real Japan auction price for Toyota, Honda & SUV cars | search | 0.90 |
+| price comparison and updated prices for products in Bangladesh | search | 0.95 |

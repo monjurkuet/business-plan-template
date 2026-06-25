@@ -1,0 +1,78 @@
+{
+  "slug": "2026-06-25-kucoin-bd",
+  "name": "kucoin-bd",
+  "sector": "crypto-bitcoin",
+  "frontmatter": {
+    "entity_type": "competitor",
+    "sector": "crypto-bitcoin",
+    "entity_slug": "kucoin-bd",
+    "last_verified_at": "2026-06-25T12:00:00Z",
+    "freshness_status": "fresh",
+    "confidence_score": "0.72",
+    "primary_sources": "- ev_20260625_kucoin_01"
+  },
+  "profile_category": "",
+  "entity_slug": "kucoin-bd",
+  "last_verified_at": "2026-06-25T12:00:00Z",
+  "freshness_status": "fresh",
+  "confidence_score": 0.72,
+  "strengths": [
+    "1. **Altcoin selection** — KuCoin lists more small-cap and emerging altcoins than Binance or Bybit, making it the go-to platform for BD traders seeking new tokens.",
+    "2. **Low minimums** — No minimum deposit for most coins. BD users can start trading with as little as $10 USDT, lowering the barrier to entry.",
+    "3. **KuCoin Earn** — Staking, lending, and fixed-income products attract BD users looking for passive yield on their crypto holdings.",
+    "4. **BD Telegram community** — Active BD-specific signal groups and trading communities built around KuCoin's altcoin listings.",
+    "5. **No KYC for withdrawals** — KuCoin allows withdrawals up to 1 BTC daily without full KYC, appealing to privacy-conscious BD users."
+  ],
+  "weaknesses": [
+    "1. **Higher scam token exposure** — KuCoin lists more unvetted tokens. BD users have been caught in rug pulls on low-cap KuCoin listings.",
+    "2. **BDT on/off ramp limited** — No direct BDT P2P marketplace. BD users must first acquire USDT on Binance/Bybit P2P, then transfer to KuCoin.",
+    "3. **Lower liquidity** — For most altcoin pairs, liquidity is significantly lower than Binance. Slippage is an issue for BD traders executing large orders.",
+    "4. **Reputation risk** — KuCoin has been hacked ($280M in 2020, partially reimbursed). \"KuCoin hack\" is still a common BD search term.",
+    "5. **No bangla support** — English-only interface and customer support. Less accessible to Bengali-only speakers."
+  ],
+  "threat_level": "",
+  "threat_overlap_score": null,
+  "pricing_signals": [
+    {
+      "item": "Spot trading fee",
+      "value": "0.1% (0.08% with KCS)",
+      "date": "2026-06",
+      "source": "kucoin.com/fees"
+    },
+    {
+      "item": "Futures fee",
+      "value": "0.06%/0.03% (taker/maker)",
+      "date": "2026-06",
+      "source": "kucoin.com/fees"
+    },
+    {
+      "item": "Withdrawal fee (BTC)",
+      "value": "0.0005 BTC",
+      "date": "2026-06",
+      "source": "kucoin.com"
+    },
+    {
+      "item": "Withdrawal fee (USDT-TRON)",
+      "value": "1 USDT",
+      "date": "2026-06",
+      "source": "kucoin.com"
+    }
+  ],
+  "customer_segments": [
+    "**BD altcoin traders** — users seeking early access to new token listings",
+    "**BD yield farmers** — users staking USDT/KCS for 5-15% APY on KuCoin Earn",
+    "**BD privacy-focused users** — traders using no-KYC withdrawal limits",
+    "**BD arbitrage traders** — exploiting price differences between KuCoin listing pump and Binance"
+  ],
+  "operations_notes": "- Seychelles registered. No specific BD operations.\n- BDT on/off ramp: indirect — users transfer USDT from other exchanges with P2P support.\n- Listing-driven business model: new token listings drive v",
+  "financial_signals": "| Metric | Detail |\n|--------|--------|\n| Volume (24h) | $1-2B |\n| BD user base (est.) | 100K-300K |\n| Revenue model | Trading fees, listing fees, withdrawal fees, Earn spreads |\n| Notable | Raised $1",
+  "sentiment_summary": "- **Positive:** \"Best for new coins\" — BD traders use KuCoin for early listing plays. \"Good passive income options with KuCoin Earn.\"\n- **Negative:** \"Support is slow for BD users.\" \"Got hacked before",
+  "compliance_notes": "- Seychelles FSA registration. No BD-specific regulatory status.\n- KYC policies: trading without KYC up to certain limits; full KYC required for higher withdrawal limits.\n- KuCoin restricted in the US",
+  "evidence_sources": [
+    "KuCoin fee schedule: kucoin.com/fees (2026-06)",
+    "KuCoin BD Telegram groups (multiple, 2K-15K members)",
+    "Trading volume: CoinMarketCap.com (2026-06)",
+    "KuCoin hack incident 2020: official KuCoin recovery reports"
+  ],
+  "file_path": "sectors/crypto-bitcoin/bd-market/competitors/2026-06-25-kucoin-bd.md"
+}

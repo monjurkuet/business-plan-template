@@ -1,0 +1,29 @@
+{
+  "slug": "2026-05-06-ecstasy",
+  "name": "ecstasy",
+  "sector": "clothing-fashion",
+  "frontmatter": {
+    "sector": "clothing-fashion",
+    "last_verified": "2026-05-06",
+    "freshness": "fresh",
+    "confidence": "0.5",
+    "evidence_ids": "[]"
+  },
+  "profile_category": "",
+  "entity_slug": "2026-05-06-ecstasy",
+  "last_verified_at": "",
+  "freshness_status": "unknown",
+  "confidence_score": 0.0,
+  "strengths": [],
+  "weaknesses": [],
+  "threat_level": "",
+  "threat_overlap_score": null,
+  "pricing_signals": [],
+  "customer_segments": [],
+  "operations_notes": "",
+  "financial_signals": "",
+  "sentiment_summary": "",
+  "compliance_notes": "",
+  "evidence_sources": [],
+  "file_path": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-ecstasy.md"
+}

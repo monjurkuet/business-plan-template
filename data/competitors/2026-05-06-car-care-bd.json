@@ -1,0 +1,42 @@
+{
+  "slug": "2026-05-06-car-care-bd",
+  "name": "car-care-bd",
+  "sector": "automotive-car-care",
+  "frontmatter": {
+    "sector": "automotive-car-care",
+    "last_verified": "2026-05-06",
+    "freshness": "fresh",
+    "confidence": "0.5",
+    "evidence_ids": "[]"
+  },
+  "profile_category": "",
+  "entity_slug": "2026-05-06-car-care-bd",
+  "last_verified_at": "",
+  "freshness_status": "unknown",
+  "confidence_score": 0.0,
+  "strengths": [
+    "1. **Hybrid niche dominance** — only brand clearly positioned for hybrid vehicle needs",
+    "2. **Nationwide installation** — delivery + installation anywhere in BD",
+    "3. **Multi-city presence** — Khulna, Chittagong, Rajshahi, Mymensingh, Sylhet, Jessore, Barisal, Faridpur",
+    "4. **Website** — carcarebd.com",
+    "5. **Both Japanese & Chinese options** — price flexibility for different budgets"
+  ],
+  "weaknesses": [
+    "1. **13K followers** — small audience",
+    "2. **Hybrid-only perception** — may limit general car care appeal",
+    "3. **No oil/lubricant products**",
+    "4. **No car import/pre-order**",
+    "5. **No content/education** — just product posts",
+    "6. **Only 3 reviews** — low social proof"
+  ],
+  "threat_level": "**Overlap with our idea:** 4/10 (only overlaps if we enter hybrid parts)",
+  "threat_overlap_score": null,
+  "pricing_signals": [],
+  "customer_segments": [],
+  "operations_notes": "",
+  "financial_signals": "",
+  "sentiment_summary": "",
+  "compliance_notes": "",
+  "evidence_sources": [],
+  "file_path": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-car-care-bd.md"
+}
