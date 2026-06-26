@@ -2,8 +2,8 @@
 sector: jewellery
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.728
-evidence_ids: ['b5d289aa-b58', 'ada47984-322', 'f393c806-6e7', 'fae98970-d00']
+confidence: 0.688
+evidence_ids: ['0082ad72-6b1', '4dcef3a1-51f']
 ---
 
 # Jewellery — Bangladesh Market
@@ -80,14 +80,10 @@ evidence_ids: ['b5d289aa-b58', 'ada47984-322', 'f393c806-6e7', 'fae98970-d00']
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Love Pearl Necklace Gift Box Freshwater Pearl Jewelry | search | 0.90 |
-| Pearl Necklace Set | search | 0.90 |
-| women | search | 0.90 |
-| ['pendant necklaces', 'statement necklaces', 'choker necklaces'] | search | 0.80 |
-| Bangladeshi Red Gold | search | 0.90 |
-| ['verified suppliers', 'purity check', 'secure shopping', 'AR try-on', 'lifetime | search | 0.90 |
-| Wedding Jewellery | search | 0.80 |
+| Freshwater Pearl Jewelry, Pearl Necklace Set for woman, Real pearl jewellery for | search | 0.80 |
+| Bangladeshi red gold | search | 0.90 |

@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.74
-evidence_ids: ['20d078bc-c0b', 'e88e4d02-576', 'e3887be2-a90', 'ea4eed5a-d62', 'c923ba17-af1', '45e902b4-f33']
+confidence: 0.746
+evidence_ids: ['a2555502-5ec', 'b7892be1-0e8', '67792d3b-312', 'e45c2191-b48', '2fc193d2-533', 'a9c71394-b27', '377a8fb4-754', '77f8c3e3-2e4']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -107,22 +107,23 @@ evidence_ids: ['20d078bc-c0b', 'e88e4d02-576', 'e3887be2-a90', 'ea4eed5a-d62', '
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 600 | search | 0.90 |
-| small_residential | search | 0.90 |
-| 2026-04-23 | search | 0.95 |
-| 2026-01-12 | search | 0.95 |
-| 2025-01-12 | search | 0.95 |
-| 2026-01-12 | search | 0.95 |
-| 2025-01-12 | search | 0.95 |
-| BIM outsourcing | search | 0.90 |
-| accurate, high-quality BIM models customized to project requirements, improving  | search | 0.90 |
-| BIM Modelling Services | search | 0.90 |
-| USA | search | 0.95 |
-| The United States has one of the largest and most competitive construction indus | search | 0.90 |
-| BIM outsourcing | search | 0.95 |
-| architectural, engineering, and construction (AEC) | search | 0.95 |
-| access specialized expertise, reduce costs, handle BIM-related tasks efficiently | search | 0.90 |
+| starts around $600 | search | 0.90 |
+| 2026-04-23 | search | 0.90 |
+| Revit BIM models for architecture and structure at LOD 200–300 | search | 1.00 |
+| US architects and engineers | search | 1.00 |
+| 2026-01-12 | search | 1.00 |
+| 2025-01-12 | search | 1.00 |
+| Scan to BIM outsourcing guarantees accurate, high-quality BIM models customized  | search | 1.00 |
+| BIM outsourcing USA, 3D BIM modeling services | search | 1.00 |
+| Building Information Modeling (BIM) outsourcing | search | 0.90 |
+| architectural, engineering, and construction (AEC) industry in the United States | search | 0.95 |
+| access specialized expertise, reduce operational costs, handle BIM-related tasks | search | 0.90 |
+| 2025-03-13 | search | 1.00 |
+| 2D to 3D CAD conversion, outsourced BIM services, BIM 4D modeling | search | 0.95 |
+| 2025-02-25 | search | 1.00 |
+| cost advantages, access to specialized expertise, enhanced throughput for comple | search | 0.95 |

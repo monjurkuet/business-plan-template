@@ -2,8 +2,8 @@
 sector: automotive-car-care
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.735
-evidence_ids: ['b6a08ebe-b69', '3692029e-af4', '80e44fe1-d6c']
+confidence: 0.635
+evidence_ids: ['8f976a50-962']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -118,13 +118,9 @@ evidence_ids: ['b6a08ebe-b69', '3692029e-af4', '80e44fe1-d6c']
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ['Toyota', 'Honda', 'SUV'] | search | 0.90 |
-| Japan auction price for cars | search | 0.90 |
-| Dhaka, Bangladesh | search | 0.90 |
-| Car Care | search | 0.90 |
-| Average prices of more than 40 products and services in Bangladesh | search | 0.90 |
-| ['restaurants', 'food', 'transportation', 'utilities', 'housing'] | search | 0.90 |
+| 45000 | search | 0.90 |

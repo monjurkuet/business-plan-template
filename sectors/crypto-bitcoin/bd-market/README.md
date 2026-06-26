@@ -2,8 +2,8 @@
 sector: crypto-bitcoin
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.742
-evidence_ids: ['746a2e63-b54', '53a5b984-505', '0bf6f0a9-9b4', '3e1f158c-d2a', '4e22c51b-aae', '4e450e31-2bd', '9576e607-9cb', '6a929ad7-61a', '7b6e4f22-eaf']
+confidence: 0.745
+evidence_ids: ['e5edd4a7-329', 'e298dd40-11d', '32eec6a2-391', '0dd2082b-ed8', 'c56c67e3-026', '45e13e71-45d', 'ceffcea5-3c0', 'b3bdf8be-6fb', 'acd1d5b4-9e0']
 ---
 
 # Crypto & Bitcoin — Bangladesh Market
@@ -83,22 +83,23 @@ evidence_ids: ['746a2e63-b54', '53a5b984-505', '0bf6f0a9-9b4', '3e1f158c-d2a', '
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ['BDT P2P liquidity', 'bKash support', 'Nagad support', 'low fees'] | search | 0.95 |
-| 2026 | search | 0.95 |
-| ['buy', 'sell', 'trade Bitcoin and altcoins'] | search | 0.95 |
-| ['BDT', 'local payment methods'] | search | 0.95 |
-| 2026 | search | 0.95 |
+| crypto exchanges | search | 1.00 |
+| BDT P2P liquidity, bKash and Nagad support, low fees, platform reliability | search | 1.00 |
+| 2026 | search | 1.00 |
+| crypto exchanges | search | 1.00 |
+| buy, sell, trade Bitcoin and altcoins | search | 1.00 |
+| BDT, local payment methods | search | 1.00 |
+| 2026 | search | 1.00 |
+| crypto exchanges | search | 1.00 |
+| fees, supported coins, leverage, safety | search | 1.00 |
+| 2026 | search | 1.00 |
+| crypto trading platforms | search | 1.00 |
+| ['ForTrade', 'Coinbase', 'Interactive Brokers'] | search | 1.00 |
+| 2026 | search | 1.00 |
 | 3000000 | search | 0.95 |
-| banned_but_active | search | 0.90 |
-| 35 | search | 0.95 |
-| stablecoin_remittance | search | 0.85 |
-| 775 | search | 0.95 |
-| Bangladeshbnbcrypto | search | 0.90 |
-| TikTok | search | 1.00 |
-| ['#crypto', '#bnb'] | search | 0.95 |
-| Emotional Trading in Cryptocurrency | search | 0.95 |
-| Dhaka, Bangladesh | search | 1.00 |
+| banned | search | 0.95 |

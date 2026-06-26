@@ -2,8 +2,8 @@
 sector: high-roi-niches
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.7
-evidence_ids: ['c7ddd9bf-181', '2bad3471-5b5']
+confidence: 0.747
+evidence_ids: ['719e6a9d-cb0', '339c740b-771', '99b9b792-506', '5e8b8de9-c05', '6e425354-353']
 ---
 
 # High-ROI Niches — Bangladesh Market
@@ -88,12 +88,23 @@ This sector captures high-growth, high-margin niche opportunities in Bangladesh.
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Syrian hamster | search | 1.00 |
-| pet care | search | 1.00 |
-| PetCareBangladesh | search | 0.90 |
-| MH Imran | search | 0.80 |
-| Bangladesh Veterinary and Pet Care Network (BVPN) | search | 0.90 |
+| pet shop | search | 1.00 |
+| affordable prices | search | 0.90 |
+| online pet shop | search | 1.00 |
+| best prices | search | 0.90 |
+| pet supplies | search | 1.00 |
+| dog food, cat food | search | 1.00 |
+| pet care clinic | search | 1.00 |
+| feline patients | search | 1.00 |
+| dog food, cat food | search | 1.00 |
+| best prices | search | 0.90 |
+| Dhaka | search | 1.00 |
+| pet shop | search | 1.00 |
+| pet food, accessories, care products | search | 1.00 |
+| SKS Tower, Mohakhali, Dhaka | search | 1.00 |
+| dogs, cats, birds | search | 1.00 |
