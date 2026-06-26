@@ -94,14 +94,15 @@ freshness: fresh
 
 
 
+
 ## Recent Findings (2026-06-26)
+
+- **www.bppa.gov.bd** (conf: 0.74): Apr 5,2026·BPPA is the national authority responsible for public procurement policy,regulations, and e-GP systems to ensure transparent and efficient procurement inBangladesh.
 
 - **tahmidurrahman.com** (conf: 0.74): 1 day ago ·Comprehensive guide to foreign investmentregulationsinBangladeshinBangladesh. Expert legal analysis by Tahmidur Rahman Remura Wahid (TRW) Law Firm covering legal framework, procedures, and 
 
-- **www.powerkh.com** (conf: 0.75): Feb 25, 2025 ·14 Best Companies for BIM Outsourcing in the USA (2026) Building Information Modeling (BIM) is transforming the construction industry, making projects more efficient and cost-effective. 
+- **mitchellstover.com** (conf: 0.73): Feb 19,2026·EngagingBim Outsourcing USAresources can unlock cost advantages, access to specialised expertise, and enhanced throughput for complex projects. By distributing work to experienced teams, f
 
-- **www.bppa.gov.bd** (conf: 0.75): Apr 5,2026·BPPA is the national authority responsible for public procurement policy,regulations, and e-GP systems to ensure transparent and efficient procurement inBangladesh.
+- **www.tbsnews.net** (conf: 0.74): Mar 2,2026·Bangladesh's fiscalpolicysignificantly influences its investment climate, but frequent tax changes have deterred foreign investors. The2026-27 National Budget should prioritise stability an
 
-- **practiceguides.chambers.com** (conf: 0.74): Dec 9, 2025 ·Banks inBangladeshroutinely undertake several additional activities, each requiring separate regulatory consent. Foreign exchange operations – A bank must obtain a specific Authorised Dea
-
-- **bimoffis.com** (conf: 0.74): BIMOutsourcingServices Cost inUSA: What You Should Really Expect to Pay. BimOffis. April 23,2026.How much doesBIMoutsourcingcost in theUSA? Depends on project size. Small residential starts around $60
+- **www.bimprous.com** (conf: 0.74): Mar 13, 2025 ·Building Information Modeling (BIM)outsourcinghas become an essential practice in the architectural, engineering, and construction (AEC) industry in the United States. With the rapid ado

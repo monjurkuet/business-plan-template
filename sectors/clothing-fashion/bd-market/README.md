@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.743
-evidence_ids: ['63e6bdcb-8bc', 'e13ae9af-5ea', '65c9e465-b53', 'a07e4484-8b2', '0e56e052-1f6', 'aa869b4b-a63', 'ced9de2c-3cf']
+confidence: 0.742
+evidence_ids: ['f7ae7729-e93', '8be8ef7b-b86', '15fe950f-849', 'fb920586-55d']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -109,22 +109,18 @@ evidence_ids: ['63e6bdcb-8bc', 'e13ae9af-5ea', '65c9e465-b53', 'a07e4484-8b2', '
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 300 COTTON TERRY CLOTH CLEANING RAGS / SHOP TOWELS / 12X12- 25 DOZ. / WHOLESALE | search | 0.90 |
-| 3.5 | search | 1.00 |
-| RD style women black dress warm size M Knitted Made In Bangladesh | search | 0.90 |
-| modern Bangladeshi clothing brand offering stylish, comfortable, and affordable  | search | 1.00 |
-| ['premium-quality outfits', 'perfect fits', 'fast delivery', 'reliable service'] | search | 1.00 |
-| Bangladesh’s leading fashion brand | search | 1.00 |
-| ['premium clothing', 'trendy menswear', 'womenswear', 'kidswear', 'panjabi', 'ku | search | 1.00 |
-| 299 | search | 1.00 |
-| Premium Summer T-shirt | search | 1.00 |
-| ['M', 'L', 'XL', 'XXL'] | search | 1.00 |
-| 2-3 Days | search | 1.00 |
-| 01617823334 | search | 1.00 |
-| Bangladesh Clothing Manufacturing, Bangladesh Garments, Bangladesh Garments-Clot | search | 0.90 |
-| affordable price | search | 0.80 |
-| Online Shopping with a great experience. Our wide range of products includes for | search | 0.90 |
+| free shipping, fast delivery, free return | search | 0.90 |
+| jacket | search | 1.00 |
+| premium quality, durable materials, competitive pricing | search | 0.90 |
+| 2025 | search | 1.00 |
+| T-shirt | search | 1.00 |
+| trusted and reliable clothing manufacturer in Bangladesh | search | 0.95 |
+| best factory prices, highest-quality custom apparel | search | 0.90 |
+| luxury clothing | search | 1.00 |
+| Black Aura – Black & Cream Polka Dot Luxury Pret 3-Piece | search | 1.00 |
+| popularity, average rating, latest, price: low to high, price: high to low | search | 0.90 |

@@ -2,8 +2,8 @@
 sector: travel-tourism
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.739
-evidence_ids: ['6c94d131-80f', '92bb0c9b-8bc', 'aadf29bb-0c2']
+confidence: 0.698
+evidence_ids: ['d650fb6b-f19', 'c73ece92-6dc']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -76,17 +76,12 @@ evidence_ids: ['6c94d131-80f', '92bb0c9b-8bc', 'aadf29bb-0c2']
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| goFLY | search | 0.95 |
-| ['IATA #42337956', 'ATAB #4298'] | search | 0.95 |
-| 4.8 | search | 0.95 |
-| 463 | search | 0.95 |
-| 8 | search | 0.90 |
-| ['flights', 'visa'] | search | 0.90 |
-| Travel Agency Bangladesh | search | 0.95 |
-| low-cost travel packages, expert guidance, secure journeys, budget-friendly plan | search | 0.90 |
-| Golden Bengal Tours | search | 0.95 |
-| best deals and packages quotes on every trip | search | 0.90 |
+| IATA-certified | search | 0.95 |
+| 2017 | search | 0.95 |
+| affordable prices | search | 0.90 |
+| affordable journey | search | 0.90 |

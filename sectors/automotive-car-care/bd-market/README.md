@@ -2,8 +2,8 @@
 sector: automotive-car-care
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.74
-evidence_ids: ['58cf3316-2d4', 'a4e63839-e73', 'b20661c2-9c3']
+confidence: 0.704
+evidence_ids: ['fdfc9524-ea6', '0f7fdd20-51a']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -125,13 +125,15 @@ evidence_ids: ['58cf3316-2d4', 'a4e63839-e73', 'b20661c2-9c3']
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Japan auction price for Toyota, Honda & SUV cars | search | 0.95 |
-| transparent pre-order process | search | 0.90 |
-| Car Care | search | 0.95 |
-| Dhaka, Bangladesh | search | 0.95 |
-| 127 | search | 0.90 |
-| latest products price in Bangladesh, reviews, price comparison, updated prices | search | 0.95 |
+| Dashboard Wax Spray (GS-90) | search | 0.95 |
+| 799.00 | search | 0.98 |
+| 850.00 | search | 0.98 |
+| Direct import of car gadgets and accessories to Bangladesh | search | 0.95 |
+| Hotshot Automotive | search | 0.98 |
+| Online car parts and accessories shop | search | 0.95 |
+| ['automotive parts', 'car accessories', 'auto spare parts', 'lubricants'] | search | 0.95 |

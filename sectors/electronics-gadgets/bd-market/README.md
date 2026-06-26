@@ -2,8 +2,8 @@
 sector: electronics-gadgets
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.735
-evidence_ids: ['9068a6e7-5ff', 'b6d132cd-9dc', '45bc579c-e7e', '9f07dc8d-46a', '19b1451c-c14', '69977ae4-d9b', '5ce4507d-ad3']
+confidence: 0.739
+evidence_ids: ['677372ed-236', '6796aa38-81c', '369e2099-685', '71fcdf57-7e6', '61759d34-075', 'f4bbca0d-0f4', 'f88affa3-a31', '529df43f-9f1', '066a5ada-c6d']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -97,22 +97,23 @@ evidence_ids: ['9068a6e7-5ff', 'b6d132cd-9dc', '45bc579c-e7e', '9f07dc8d-46a', '
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| e-commerce shop for electronics | search | 0.95 |
-| ['ACs', 'refrigerators', 'washing machines', 'smart TVs', 'ovens'] | search | 0.90 |
-| ['official warranty', 'EMI facilities', 'fast home delivery'] | search | 0.90 |
-| consumer electronics online shopping platform | search | 0.95 |
-| premium quality products | search | 0.90 |
-| authorized multi-brand electronics retailer | search | 0.95 |
-| ['official warranty', '0% EMI'] | search | 0.95 |
-| 16 | search | 0.95 |
-| Bangladesh | search | 0.95 |
-| one-stop shop for electronic and electrical products | search | 0.95 |
-| Bangladesh | search | 0.95 |
-| e-commerce store for electronics and gadgets | search | 0.95 |
-| ['Smart TV', 'Air Conditions', 'home gadgets', 'lifestyle products'] | search | 0.90 |
-| ['fast delivery', 'authentic products'] | search | 0.90 |
-| Bangladesh | search | 0.95 |
+| home_appliances | search | 0.95 |
+| unbeatable_prices | search | 0.80 |
+| official_warranty_EMI_fast_delivery | search | 0.90 |
+| authorized_multi-brand_electronics_retailer | search | 0.95 |
+| authentic_products_official_warranty_0%_EMI_16_superstores | search | 0.90 |
+| highest_rated | search | 0.90 |
+| premium | search | 0.90 |
+| seamless | search | 0.85 |
+| 51734 | search | 0.95 |
+| 8783 | search | 0.95 |
+| 5 | search | 0.90 |
+| TVs_fridges_ACs | search | 0.95 |
+| ElectronicsBangladesh | search | 1.00 |
+| 51734 | search | 0.95 |
+| 8783 | search | 0.95 |

@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.74
-evidence_ids: ['adcd344f-d78', '8dd57088-f19', 'f3793a62-fd9', 'e5869c48-9f5', '4a072dec-3ca', '3985d236-954', '2ba415cf-857', '4dca5cc8-6e6', '7b82602b-427']
+confidence: 0.742
+evidence_ids: ['ba7166b0-782', 'bae08bf7-f9c', '3053a40b-ddf', '885c9c9a-c89', '5664ecf9-4bb', '8a93c944-ad7', 'ff8eadf2-4bb', 'e396541b-137']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -114,22 +114,23 @@ evidence_ids: ['adcd344f-d78', '8dd57088-f19', 'f3793a62-fd9', 'e5869c48-9f5', '
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Foreign investment regulations in Bangladesh | search | 0.95 |
-| Tahmidur Rahman Remura Wahid (TRW) Law Firm | search | 0.95 |
-| BIM outsourcing in the USA | search | 0.95 |
-| 2026 | search | 1.00 |
-| Bangladesh Public Procurement Authority (BPPA) | search | 1.00 |
-| Public procurement policy, regulations, and e-GP systems | search | 0.95 |
-| 2026-04-05 | search | 1.00 |
-| Banking regulation in Bangladesh | search | 0.95 |
-| Foreign Exchange Regulation Act, 1947 | search | 0.95 |
-| 2026 | search | 0.90 |
-| $600 | search | 0.90 |
-| small residential | search | 0.90 |
-| 2026-04-23 | search | 0.95 |
-| Revit, Tekla, Navisworks | search | 0.95 |
-| ISO 19650 | search | 0.95 |
+| Bangladesh Public Procurement Authority (BPPA) regulations | search | 0.95 |
+| public procurement policy, regulations, and e-GP systems | search | 0.90 |
+| Bangladesh Public Procurement Authority (BPPA) | search | 0.95 |
+| 2026-04-05 | search | 0.90 |
+| Foreign Investment Regulations in Bangladesh | search | 0.95 |
+| legal framework, procedures, and practical advice for foreign investment | search | 0.90 |
+| Tahmidur Rahman Remura Wahid (TRW) Law Firm | search | 0.90 |
+| BIM outsourcing solutions for US firms, including cost advantages, specialized e | search | 0.90 |
+| 2026-02-19 | search | 0.90 |
+| Fiscal policy stability and predictability for foreign investors | search | 0.95 |
+| Publish a five-year tax roadmap to eliminate annual surprises and allow long-ter | search | 0.95 |
+| 2026-27 | search | 0.98 |
+| 2026-03-02 | search | 0.95 |
+| BIM outsourcing as an essential practice in the AEC industry in the United State | search | 0.95 |
+| 2025-03-13 | search | 0.98 |

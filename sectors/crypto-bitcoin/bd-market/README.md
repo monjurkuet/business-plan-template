@@ -3,7 +3,7 @@ sector: crypto-bitcoin
 last_verified: 2026-06-26
 freshness: fresh
 confidence: 0.738
-evidence_ids: ['22250c99-676', '234e9498-9e6', '48efdd6d-9e9', '4f821933-496', '386d337c-6ed', '27b02c97-de3']
+evidence_ids: ['0e33f66c-325', '43b15168-a24', '9365f4bc-c1d', '15943d69-0f5', 'b9bbd27f-bae', 'bf011e0b-040', 'd7b5e7ad-e06', 'b406de40-0fe', '5c2f3b43-c1a']
 ---
 
 # Crypto & Bitcoin — Bangladesh Market
@@ -90,22 +90,23 @@ evidence_ids: ['22250c99-676', '234e9498-9e6', '48efdd6d-9e9', '4f821933-496', '
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Buy and sell cryptocurrencies like Tezos | search | 0.90 |
-| Bangladesh | search | 0.95 |
-| Tezos | search | 0.90 |
-| YouTube | search | 0.95 |
-| Crypto | search | 0.95 |
-| ['SanzidTech', 'cryptohossain', 'Invest2.Profit', 'EarningRashu', 'Johire786'] | search | 0.90 |
-| Bangladesh | search | 0.95 |
-| Trade cryptocurrencies | search | 0.90 |
-| Bangladesh | search | 0.95 |
-| Open a Bangladesh cryptocurrency trading account with a Bangladesh cryptocurrenc | search | 0.90 |
-| Bangladesh Bank | search | 0.95 |
-| Not legalized but not outright banned | search | 0.90 |
-| Crypto's volatility, urging users to proceed cautiously | search | 0.90 |
-| Empire Crypto Data | search | 0.80 |
-| cryptocurrency wallets | search | 0.90 |
+| BDT P2P liquidity, bKash and Nagad support, low fees, platform reliability | search | 0.90 |
+| 2026 | search | 1.00 |
+| fees, supported coins, leverage, safety | search | 0.90 |
+| 2026-06-10 | search | 1.00 |
+| buy, sell, trade Bitcoin and altcoins using BDT and local payment methods | search | 0.90 |
+| over 3 million | search | 0.95 |
+| 35 | search | 1.00 |
+| total ban | search | 0.90 |
+| stablecoin remittance | search | 0.90 |
+| 2025 | search | 1.00 |
+| 35 | search | 1.00 |
+| banned in practice, not legally recognised | search | 0.95 |
+| 2025 | search | 0.90 |
+| available in Dhaka, Bangladesh | search | 0.90 |
+| emotional trading in cryptocurrency | search | 0.90 |

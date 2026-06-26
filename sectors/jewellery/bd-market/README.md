@@ -2,8 +2,8 @@
 sector: jewellery
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.75
-evidence_ids: ['e3a54b92-591', '25b85d01-440', '56d75efc-863', 'caebcc1f-d0a', '43dd6f83-bee']
+confidence: 0.738
+evidence_ids: ['7b7e89b2-2f6', 'a06e943c-b4b', 'c0199c38-1e4', 'ddcb3cfa-39d', 'e7b952d4-6ad']
 ---
 
 # Jewellery — Bangladesh Market
@@ -87,21 +87,20 @@ evidence_ids: ['e3a54b92-591', '25b85d01-440', '56d75efc-863', 'caebcc1f-d0a', '
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 200-3000 | search | 1.00 |
-| fashion jewellery | search | 1.00 |
-| daily and festive wear | search | 1.00 |
-| impacted on all gold jewellers in Bangladesh | search | 1.00 |
-| ['churi', 'chain', 'gold bracelet'] | search | 1.00 |
-| ['Al-Amin Jewellers', 'Amin Jewellers', 'Apan Jewellers'] | search | 1.00 |
-| gold and diamond shop | search | 1.00 |
-| most trusted | search | 1.00 |
-| affordable | search | 1.00 |
-| best price when buying gold from customers | search | 1.00 |
-| pioneer in online jewellery shop in Bangladesh | search | 1.00 |
-| one of the most well-known jewellers in Bangladesh | search | 1.00 |
-| 2019-10-11 | search | 1.00 |
-| Jamuna Future Park, Level-2, Block-C, Shop No.36 | search | 1.00 |
+| 200-3000 | search | 0.95 |
+| fashion jewellery | search | 0.95 |
+| fluctuates daily based on market | search | 0.90 |
+| gold jewellery | search | 0.95 |
+| ['churi', 'chain', 'gold bracelet'] | search | 0.90 |
+| ['necklaces', 'earrings', 'bracelets', 'rings'] | search | 0.95 |
+| trendy, elegant, and premium designs | search | 0.90 |
+| affordable | search | 0.90 |
+| most trusted jewellery shop | search | 0.90 |
+| best price for buying gold | search | 0.90 |
+| online jewellery shopping | search | 0.95 |
+| first online jewellery shop in Bangladesh | search | 0.90 |
