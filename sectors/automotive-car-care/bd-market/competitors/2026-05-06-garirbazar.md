@@ -1,13 +1,9 @@
 ---
-entity_type: competitor
 sector: automotive-car-care
-entity_slug: 2026-05-06-garirbazar
-last_verified_at: 2026-06-25T12:00:00Z
-freshness_status: fresh
-confidence_score: 0.50
-primary_sources:
-  - []
+last_verified: 2026-06-27
+freshness: fresh
 ---
+
 # Competitor: Garirbazar
 
 ## Metadata
@@ -103,4 +99,8 @@ primary_sources:
 - **HQ**: Dhaka, Bangladesh
 - **URL**: garirbazar.com
 - **Facebook**: https://www.facebook.com/garirbazar/ (54,130 likes)
+
+## Recent Findings (2026-06-27)
+
+- **www.garirbazar.com** (conf: 0.74): May 9, 2026 -GarirBazar provides you exclusive access the best car prices in Bangladesh, used car price in Bangladesh, BD recondition car price, BD car loans and schedule viewings with the best car sh
 

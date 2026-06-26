@@ -2,8 +2,8 @@
 sector: crypto-bitcoin
 last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.748
-evidence_ids: ['f09c2deb-4d2', 'd3891b2a-b38', '5fe52e44-b2f', 'fae7423f-345', 'ac6c0f3e-e27', '2bd194e2-723', '33c7b901-67e', '8d0111fa-7cd', 'fed72f9f-563', '3dd59bf1-28d']
+confidence: 0.741
+evidence_ids: ['fdf1892e-36a', '7d1dc190-7e9', '224ee5ae-c50', 'c0919d36-08f', '6d278b53-3e3', 'bf5084ac-029', '141846f9-ec7', 'cbf4cc77-e6b', '403e352c-3fa']
 ---
 
 # Crypto & Bitcoin — Bangladesh Market
@@ -94,22 +94,23 @@ evidence_ids: ['f09c2deb-4d2', 'd3891b2a-b38', '5fe52e44-b2f', 'fae7423f-345', '
 
 
 
+
 ## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 36 | search | 1.00 |
-| ['Mineable', 'SafePaytm', 'Keystore'] | search | 1.00 |
-| Cryptocurrencies | search | 1.00 |
-| Recursion FinTech Limited (RFTL) | search | 1.00 |
-| e-wallet application 'CashBaba' | search | 1.00 |
-| Circle FinTech Ltd | search | 1.00 |
-| Connect Open Banking Platform | search | 1.00 |
-| 32 | search | 0.90 |
-| 46 | search | 1.00 |
-| ['thinkcrypt.io', 'Anchorblock Technology'] | search | 1.00 |
-| Crypto Mining | search | 1.00 |
-| 20+ | search | 0.90 |
-| ['Ontik Technology', 'W3 Engineers Ltd'] | search | 1.00 |
-| Blockchain | search | 1.00 |
-| 2009 | search | 1.00 |
+| crypto exchanges | search | 0.95 |
+| Bangladeshi users | search | 0.95 |
+| Tezos | search | 0.90 |
+| national crypto ban | search | 0.95 |
+| 600000 | search | 0.90 |
+| Binance | search | 0.95 |
+| YouTube | search | 0.95 |
+| 10 | search | 0.95 |
+| ['SanzidTech', 'cryptohossain', 'Invest2.Profit', 'EarningRashu', 'Johire786'] | search | 0.95 |
+| 2026-06 | search | 0.90 |
+| crypto trading platforms | search | 0.95 |
+| Bangladeshi users | search | 0.95 |
+| 2026 | search | 0.90 |
+| ['Bybit', 'Binance'] | search | 0.95 |
+| ['bKash', 'Nagad'] | search | 0.95 |

@@ -2,8 +2,8 @@
 sector: travel-tourism
 last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.732
-evidence_ids: ['7be6ee43-0bb', '39f0d5d1-078', '5573d7b1-a9f', '57a83370-426']
+confidence: 0.731
+evidence_ids: ['71da0d46-72d', 'bf0a7770-659', '36c25173-307', 'bc4c2176-537', '16ed436d-af5']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -80,14 +80,21 @@ evidence_ids: ['7be6ee43-0bb', '39f0d5d1-078', '5573d7b1-a9f', '57a83370-426']
 
 
 
+
 ## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| affordable journey | search | 0.80 |
-| affordable prices | search | 0.90 |
-| 2017 | search | 0.95 |
-| IATA-certified | search | 0.95 |
-| air tickets, hotels, tour packages | search | 0.90 |
-| best rates, hassle-free travel solutions, seamless booking, exceptional value | search | 0.90 |
-| domestic and international tour packages, air ticket booking, visa assistance, h | search | 0.90 |
+| travel agency | search | 0.95 |
+| ['IATA', 'ATAB'] | search | 0.95 |
+| 42337956 | search | 0.95 |
+| 4298 | search | 0.95 |
+| 4.8 | search | 0.95 |
+| 463 | search | 0.95 |
+| 8 | search | 0.95 |
+| tour packages, air tickets, visa support | search | 0.90 |
+| affordable | search | 0.80 |
+| affordable | search | 0.80 |
+| study abroad, visa services, air tickets | search | 0.90 |
+| cheap | search | 0.80 |
+| tourist visas, Umrah packages, flight booking, luxury holiday tours | search | 0.90 |

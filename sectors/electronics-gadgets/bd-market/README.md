@@ -2,8 +2,8 @@
 sector: electronics-gadgets
 last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.75
-evidence_ids: ['f6974894-7b6', 'ebc87529-c4e', 'cd3bbfa5-03b', '80567487-a75']
+confidence: 0.737
+evidence_ids: ['bc586e7a-ca8', '1348ea87-d47', 'd8b31876-1c5', 'dfe068bb-dd6', '1e2a6caf-1a7', 'bfabe748-3d1', '3a32f47c-a0d', 'beaf095f-a9d', '59b9ea42-199', 'e8e8f4b5-7de', '867815f0-292']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -101,17 +101,23 @@ evidence_ids: ['f6974894-7b6', 'ebc87529-c4e', 'cd3bbfa5-03b', '80567487-a75']
 
 
 
+
 ## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ['smartphones', 'gadgets', 'home appliances'] | search | 1.00 |
-| ['Samsung', 'Xiaomi', 'OnePlus', 'Vivo', 'HONOR', 'Infinix', 'Tecno'] | search | 1.00 |
-| 100% genuine with official warranty | search | 1.00 |
-| ['TVs', 'home appliances'] | search | 1.00 |
-| ['energy-efficient', 'convenient', 'durable'] | search | 1.00 |
-| 2026-04-06 | search | 1.00 |
-| ['TVs', 'fridges', 'ACs'] | search | 1.00 |
-| mobile phones | search | 1.00 |
-| 14699-31899 | search | 1.00 |
-| 2026 | search | 1.00 |
+| TCL TV | search | 1.00 |
+| 25500-102900 | search | 1.00 |
+| Express Delivery | search | 0.90 |
+| official warranty | search | 0.90 |
+| lowest price | search | 0.90 |
+| quality products, quick delivery, variety of electronics & gadgets | search | 0.90 |
+| 0-0 | search | 0.50 |
+| 0 models with 1 in stock and 1 on discount | search | 0.70 |
+| 2026-02-06 | search | 0.90 |
+| 100% Authentic & Quality Products | search | 0.90 |
+| 01719117333 | search | 1.00 |
+| online shop for gadget accessories | search | 0.95 |
+| free shipping | search | 0.90 |
+| price comparison, offers, and discounts on electronics | search | 0.90 |
+| increase in cost of electronics | search | 0.85 |

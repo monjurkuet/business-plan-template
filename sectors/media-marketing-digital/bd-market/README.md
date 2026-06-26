@@ -2,8 +2,8 @@
 sector: media-marketing-digital
 last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.702
-evidence_ids: ['e6c3e848-a2c', '3f6c6c1a-95e']
+confidence: 0.692
+evidence_ids: ['df81c2ef-ff3', 'bf2a5033-b1b']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market
@@ -101,12 +101,11 @@ evidence_ids: ['e6c3e848-a2c', '3f6c6c1a-95e']
 
 
 
+
 ## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| pay per use | search | 0.95 |
-| bulk SMS, email marketing, RCS, IVR, WhatsApp | search | 0.95 |
-| prices for Bangladesh without rivalry | search | 0.90 |
-| 207 | search | 0.95 |
-| Digital Marketing Services | search | 0.95 |
+| GEEKY SOCIAL LTD., OneLittleWeb, BrandViser, MonsterClaw LLC, Ecomclips, Notionh | search | 0.90 |
+| digital marketing | search | 0.90 |
+| hourly rates | search | 0.80 |

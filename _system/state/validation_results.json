@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-26T18:31:56.545586+00:00",
+  "generated_at": "2026-06-26T20:07:19.122663+00:00",
   "summary": {
     "files_checked": 159,
-    "violations": 223,
+    "violations": 221,
     "warnings": 0
   },
   "violations": [
@@ -50,16 +50,6 @@
       "file": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-car-expert-bd.md",
       "type": "missing_field",
       "detail": "Missing required field: confidence"
-    },
-    {
-      "file": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-garirbazar.md",
-      "type": "missing_field",
-      "detail": "Missing required field: last_verified"
-    },
-    {
-      "file": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-garirbazar.md",
-      "type": "missing_field",
-      "detail": "Missing required field: freshness"
     },
     {
       "file": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-garirbazar.md",

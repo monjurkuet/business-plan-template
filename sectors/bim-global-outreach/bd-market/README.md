@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.743
-evidence_ids: ['69960160-da6', 'ae5783cb-25d', 'f15632c4-1d5', '79ada123-e4c', '70823c1c-4bb', '0f822a11-666', '1143bd0b-82c', '63c9521c-b27']
+confidence: 0.742
+evidence_ids: ['1bf80766-83c', '843e886b-aeb', 'ffb8be1a-793', '2ecb2782-27a', '8175b564-976', 'f1eb6bce-c91', '258ea2f9-5e4']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -118,22 +118,23 @@ evidence_ids: ['69960160-da6', 'ae5783cb-25d', 'f15632c4-1d5', '79ada123-e4c', '
 
 
 
+
 ## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 600 | search | 0.90 |
-| Small residential project starts around $600 | search | 0.95 |
+| ['Conduct a BIM capability audit across tools, teams, and workflows', 'Train pro | search | 1.00 |
+| ISO 19650 | search | 1.00 |
+| BIM outsourcing services cost in the USA, hourly rates, service types, offshore  | search | 1.00 |
+| BIM outsourcing standards management and ownership need to be clarified | search | 0.80 |
+| no longer a nice-to-have after 2026 | search | 0.90 |
+| 2025-02-25 | search | 0.95 |
+| BIM outsourcing companies in the USA | search | 0.95 |
+| 2026 | search | 0.90 |
+| 2025-03-13 | search | 0.95 |
+| BIM outsourcing challenges and benefits in the USA | search | 0.95 |
 | 2026-04-23 | search | 0.95 |
-| 2026-01-12 | search | 1.00 |
-| 2025-01-12 | search | 1.00 |
-| Scan to BIM outsourcing | search | 1.00 |
-| BIMBOSS | search | 1.00 |
-| BIM outsourcing consulting | search | 1.00 |
-| ['USA', 'UK', 'India'] | search | 1.00 |
-| ['contractors', 'engineering design firms', 'architects'] | search | 1.00 |
-| National Budget | search | 0.95 |
-| 2026–27 | search | 0.95 |
-| 2026-06-14 | search | 0.95 |
-| fiscal policy, revenue plans, development spending, economic impact | search | 0.90 |
-| BIM outsourcing has become an essential practice in the AEC industry in the Unit | search | 0.95 |
+| BIM outsourcing costs and pricing factors in the USA | search | 0.95 |
+| 2026 | search | 0.95 |
+| 2026-02-19 | search | 0.95 |
+| benefits of BIM outsourcing for US firms | search | 0.95 |

@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.74
-evidence_ids: ['fcdc78fd-c44', '8885c14f-550', 'a90b7b30-5cc', '37e6dbf4-19b', '0839d87f-bb4', 'a86df45d-84e', '17affab6-09b', 'aacb6aaa-8f0']
+confidence: 0.732
+evidence_ids: ['0401960a-b50', '610cc8e3-530', '708b2584-109', 'c798858b-bb4']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -113,22 +113,19 @@ evidence_ids: ['fcdc78fd-c44', '8885c14f-550', 'a90b7b30-5cc', '37e6dbf4-19b', '
 
 
 
+
 ## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 300 COTTON TERRY CLOTH CLEANING RAGS / SHOP TOWELS / 12X12- 25 DOZ. / WHOLESALE | search | 0.90 |
-| RD style women black dress warm size M Knitted Made In Bangladesh | search | 0.90 |
-| Baggy Pants | search | 0.90 |
-| affordable | search | 0.80 |
+| baggy pants | search | 0.90 |
 | boys, youth | search | 0.90 |
 | all over Bangladesh | search | 0.90 |
+| affordable | search | 0.80 |
 | two-piece dresses | search | 0.90 |
 | affordable | search | 0.80 |
-| custom apparel (T-shirts) | search | 0.90 |
-| best factory prices | search | 0.80 |
-| trusted and reliable clothing manufacturer in Bangladesh | search | 0.90 |
-| 299 | search | 1.00 |
-| Premium Summer T-shirt | search | 1.00 |
-| 3 | search | 1.00 |
-| ['M', 'L', 'XL', 'XXL'] | search | 1.00 |
+| custom T-shirts | search | 0.90 |
+| best factory prices | search | 0.90 |
+| luxury pret 3-piece | search | 0.90 |
+| Black Aura – Black & Cream Polka Dot Luxury Pret 3-Piece | search | 0.90 |
+| ['popularity', 'average rating', 'latest', 'price: low to high', 'price: high to | search | 0.90 |

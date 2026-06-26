@@ -2,8 +2,8 @@
 sector: jewellery
 last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.733
-evidence_ids: ['8faa6e19-b84', '9fb6c520-9ea', '613c44bf-26c', '3924ddfe-b1e']
+confidence: 0.73
+evidence_ids: ['09556772-61a', '17e01bc0-bd2', 'e3565e4c-8ed']
 ---
 
 # Jewellery — Bangladesh Market
@@ -91,14 +91,14 @@ evidence_ids: ['8faa6e19-b84', '9fb6c520-9ea', '613c44bf-26c', '3924ddfe-b1e']
 
 
 
+
 ## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Fashion Jewellery | search | 0.90 |
-| 200-3000 | search | 0.95 |
-| daily and festive wear | search | 0.90 |
-| Gold price changes impact all gold jewellers in Bangladesh, including ornaments  | search | 0.90 |
-| affordable | search | 0.80 |
-| best price when buying gold from customers | search | 0.90 |
-| online jewellery shop pioneer in Bangladesh | search | 0.95 |
+| Love Pearl Necklace Gift Box Freshwater Pearl Jewelry | search | 0.90 |
+| Pearl Necklace Set for woman | search | 0.90 |
+| Women Ornaments, Real pearl jewellery for stylish woman | search | 0.90 |
+| oxidised jewellery | search | 0.90 |
+| oxidised jewellery bracelet, oxidised jewellery bangles | search | 0.90 |
+| Wedding Jewellery Bangladesh, Wedding Stage Decoration Price In Bangladesh | search | 0.80 |
