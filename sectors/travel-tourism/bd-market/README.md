@@ -2,8 +2,8 @@
 sector: travel-tourism
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.688
-evidence_ids: ['84f756d5-fe3', '60d1af23-8dd']
+confidence: 0.733
+evidence_ids: ['7e97c11a-219', 'f81ce2e1-78c', 'ba24b816-d8a', 'ad7225ac-98b']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -78,11 +78,16 @@ evidence_ids: ['84f756d5-fe3', '60d1af23-8dd']
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| IATA-certified travel agency offering flights, visas, tours, and support | search | 0.90 |
-| 2017 | search | 0.95 |
-| affordable prices | search | 0.85 |
-| affordable journey | search | 0.80 |
+| affordable tour packages, air tickets, and visa support | search | 0.90 |
+| trusted travel services across Bangladesh | search | 0.90 |
+| study abroad, visa services & cheap air tickets | search | 0.90 |
+| ['UK', 'Canada', 'Russia', 'USA'] | search | 0.90 |
+| preparing a secure digital platform for professional travel services | search | 0.90 |
+| registered Bangladesh travel agency | search | 0.90 |
+| idea and suggestion to travel in different places in Bangladesh, trip planning | search | 0.90 |
+| very cheap costing or as luxurious as you want | search | 0.80 |

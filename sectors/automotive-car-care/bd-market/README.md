@@ -2,8 +2,8 @@
 sector: automotive-car-care
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.696
-evidence_ids: ['aa3afa92-6b9', '6437f1c0-baf']
+confidence: 0.637
+evidence_ids: ['679a577d-aab']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -127,15 +127,13 @@ evidence_ids: ['aa3afa92-6b9', '6437f1c0-baf']
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Dashboard Wax Spray (GS-90) | search | 0.95 |
-| 850.00 | search | 0.95 |
-| 799.00 | search | 0.95 |
-| Directly importing the world's finest car gadgets and accessories to Bangladesh | search | 0.90 |
-| car air freshener | search | 0.90 |
-| CARALL | search | 0.90 |
-| My Romance Car Air Freshner | search | 0.85 |
-| Available at CarCare Bangladesh | search | 0.85 |
+| 4519 | search | 0.90 |
+| 36 | search | 0.90 |
+| 17 | search | 0.90 |
+| ['car care products', 'spray paint', 'special coating', 'industrial cleaning', ' | search | 0.95 |
+| Guangzhou, China | search | 0.90 |

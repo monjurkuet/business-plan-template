@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.731
-evidence_ids: ['ffa832a5-c3e', 'f3e1eafe-856', '7b5e29ae-442', '52523025-611', '4206e9ea-fda']
+confidence: 0.75
+evidence_ids: ['002288d6-813', '4cdd0450-d7d', '1961b126-13a', '27b1e289-8cf', 'c23c370a-3f1']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -111,17 +111,23 @@ evidence_ids: ['ffa832a5-c3e', 'f3e1eafe-856', '7b5e29ae-442', '52523025-611', '
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 300 COTTON TERRY CLOTH CLEANING RAGS / SHOP TOWELS / 12X12- 25 DOZ. / WHOLESALE | search | 0.90 |
-| RD style women black dress warm size M Knitted Made In Bangladesh | search | 0.90 |
-| baggy pants | search | 0.90 |
-| Limited stock available for fast delivery across Bangladesh | search | 0.80 |
-| ['11.11 Global Shopping Festival', 'Anniversary Sale', 'Summer Sale'] | search | 0.90 |
-| Bangladesh | search | 0.90 |
-| ['t-shirts', 'polo shirts', 'casual shirts', 'summer wear'] | search | 0.90 |
-| fast delivery across Bangladesh | search | 0.80 |
-| women's three-piece sets | search | 0.90 |
-| wholesale | search | 0.80 |
+| baggy pants | search | 1.00 |
+| limited stock available for fast delivery across the country | search | 1.00 |
+| 11.11 Global Shopping Festival, Anniversary Sale, Summer Sale | search | 1.00 |
+| lower prices for shipping to Bangladesh | search | 1.00 |
+| jacket | search | 1.00 |
+| 2025 | search | 1.00 |
+| premium quality, durable materials, competitive pricing | search | 1.00 |
+| top-rated suppliers, custom options, wholesale deals | search | 1.00 |
+| SiATEX Global | search | 1.00 |
+| one of the most trusted and reliable clothing manufacturers in Bangladesh | search | 1.00 |
+| custom apparel | search | 1.00 |
+| best factory prices | search | 1.00 |
+| highest-quality | search | 1.00 |
+| luxury clothing | search | 1.00 |
+| 2 | search | 1.00 |

@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.738
-evidence_ids: ['4c6a006f-e1b', '42b6b38d-eea', '6d6c521a-c60', '4b0dd4e4-311', '78fe0a4f-14e', '59b36255-e6c', '0acf05fd-ad1', 'b25da2dc-1cd', 'cae65454-df7']
+confidence: 0.743
+evidence_ids: ['6f296c8d-ff0', '19acb3f5-32c', '00c39c1e-dd3', '9fdaf32b-6c8', '70a34f2b-2f8', '6e1859a3-216', 'bed88a42-b6a', 'cbb5694e-9fc', '9110adea-417']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -116,22 +116,23 @@ evidence_ids: ['4c6a006f-e1b', '42b6b38d-eea', '6d6c521a-c60', '4b0dd4e4-311', '
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 35% | search | 0.90 |
-| 2025 | search | 0.90 |
-| Construction BIM outsourcing | search | 0.90 |
-| BIM outsourcing USA | search | 0.90 |
-| sensible and meaningful manner | search | 0.80 |
-| ['access specialized expertise', 'reduce operational costs', 'improve project tu | search | 0.90 |
-| 2026-01-12 | search | 0.95 |
-| 2025-01-12 | search | 0.95 |
-| scan to BIM outsourcing process for point cloud data to 3D models | search | 0.90 |
-| 600+ | search | 0.90 |
-| BIM outsourcing | search | 1.00 |
+| Bangladesh Public Procurement Authority (BPPA) | search | 1.00 |
+| public procurement policy, regulations, and e-GP systems | search | 1.00 |
+| ensure transparent and efficient procurement in Bangladesh | search | 1.00 |
+| 2026-04-05 | search | 0.90 |
+| foreign investment regulations in Bangladesh | search | 1.00 |
+| Tahmidur Rahman Remura Wahid (TRW) Law Firm | search | 1.00 |
+| legal framework, procedures, and practical advice | search | 1.00 |
+| 14 | search | 1.00 |
 | USA | search | 1.00 |
-| 2026-04-23 | search | 0.95 |
-| 30000–80000 | search | 0.95 |
-| BIM outsourcing (Take-off and Estimation services) | search | 0.95 |
+| 2026 | search | 1.00 |
+| transforming the construction industry, making projects more efficient and cost- | search | 1.00 |
+| Personal Data Protection Ordinance 2025 | search | 1.00 |
+| 2025 | search | 0.90 |
+| 2026-02 | search | 0.90 |
+| 2027-05 | search | 0.90 |
