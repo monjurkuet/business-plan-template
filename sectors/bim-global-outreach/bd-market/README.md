@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.738
-evidence_ids: ['56a66fde-4ea', '53edb4dd-7fd', '13510ce7-c4c', 'dfb78081-5a6', '86179e20-548', '1a2ceb20-70f', '2ba2515c-85a']
+confidence: 0.739
+evidence_ids: ['404be474-721', 'e52db6e4-798', '5445543a-0c4', 'e8f1c9d6-2db']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -110,22 +110,24 @@ evidence_ids: ['56a66fde-4ea', '53edb4dd-7fd', '13510ce7-c4c', 'dfb78081-5a6', '
 
 
 
+
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
+| foreign investment regulations | search | 0.90 |
+| foreign investment | search | 0.95 |
+| Tahmidur Rahman Remura Wahid (TRW) Law Firm | search | 0.95 |
+| BIM outsourcing | search | 0.95 |
+| USA | search | 0.95 |
+| 2026 | search | 0.90 |
 | Bangladesh Public Procurement Authority (BPPA) | search | 0.95 |
-| public procurement policy, regulations, and e-GP systems | search | 0.90 |
-| ensure transparent and efficient procurement in Bangladesh | search | 0.90 |
+| public procurement policy and regulations | search | 0.90 |
+| e-GP systems | search | 0.90 |
 | 2026-04-05 | search | 0.95 |
-| separate regulatory consent for additional activities | search | 0.90 |
+| banking regulation | search | 0.95 |
 | Foreign Exchange Regulation Act, 1947 | search | 0.95 |
-| Authorised Dealer (AD) licence from Bangladesh Bank | search | 0.95 |
-| buy, sell and deal in foreign currencies | search | 0.90 |
+| Authorised Dealer (AD) licence from Bangladesh Bank for foreign exchange operati | search | 0.90 |
+| 2026 | search | 0.90 |
 | 2025-12-09 | search | 0.95 |
-| $600 | search | 0.90 |
-| Small residential | search | 0.90 |
-| 2026-04-23 | search | 0.95 |
-| 2026-01-12 | search | 0.95 |
-| 2025-01-12 | search | 0.95 |
-| Scan to BIM outsourcing guarantees accurate, high-quality BIM models customized  | search | 0.90 |

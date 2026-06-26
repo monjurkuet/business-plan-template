@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.738
-evidence_ids: ['ae003de7-7cb', 'd577d726-579', '7d012ac9-dc2', 'd87217ea-48a', '81ec537e-32b']
+confidence: 0.74
+evidence_ids: ['95fcdf70-3ea', '817237be-758', 'a39af6e7-54b', '18f77e7c-ce1', '8ef3d2e0-fb4']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -106,20 +106,23 @@ evidence_ids: ['ae003de7-7cb', 'd577d726-579', '7d012ac9-dc2', 'd87217ea-48a', '
 
 
 
+
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ['best match', 'price', 'free shipping', 'fast delivery', 'free return'] | search | 0.90 |
-| baggy pants | search | 0.95 |
-| boys, youth | search | 0.90 |
-| all over Bangladesh | search | 0.95 |
-| affordable | search | 0.85 |
-| ['t-shirts', 'polo shirts', 'casual shirts', 'summer wear'] | search | 0.95 |
-| across Bangladesh | search | 0.95 |
-| women's three-piece sets | search | 0.95 |
-| affordable | search | 0.90 |
-| wholesale deals | search | 0.90 |
-| top clothing manufacturing hub | search | 0.95 |
-| competitive pricing | search | 0.95 |
-| ['skilled workforce', 'advanced manufacturing capabilities'] | search | 0.90 |
+| 1200 | search | 0.95 |
+| ['dresses', 'gowns'] | search | 0.95 |
+| women | search | 0.95 |
+| modern Bangladeshi clothing brand offering stylish, comfortable, and affordable  | search | 0.95 |
+| ['fast delivery', 'reliable service'] | search | 0.90 |
+| ['menswear', 'womenswear', 'kidswear', 'panjabi', 'kurti', 'gowns', 't-shirts',  | search | 0.95 |
+| Bangladesh’s leading fashion brand | search | 0.90 |
+| Bangladesh's largest online fashion store | search | 0.95 |
+| ['clothes', 'dresses', 'shoes'] | search | 0.95 |
+| ['men', 'women', 'kids'] | search | 0.95 |
+| ['home delivery'] | search | 0.90 |
+| ['menswear', 'womenswear', 'kidswear', 'lifestyle essentials'] | search | 0.95 |
+| Epyllion Group | search | 0.95 |
+| sailing life | search | 0.90 |

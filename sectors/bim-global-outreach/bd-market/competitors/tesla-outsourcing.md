@@ -90,14 +90,14 @@ freshness: fresh
 
 
 
+
+
 ## Recent Findings (2026-06-26)
+
+- **tahmidurrahman.com** (conf: 0.74): 1 day ago ·Comprehensive guide to foreign investmentregulationsinBangladeshinBangladesh. Expert legal analysis by Tahmidur Rahman Remura Wahid (TRW) Law Firm covering legal framework, procedures, and 
+
+- **www.powerkh.com** (conf: 0.74): Feb 25, 2025 ·14 Best Companies for BIM Outsourcing in the USA (2026) Building Information Modeling (BIM) is transforming the construction industry, making projects more efficient and cost-effective. 
 
 - **www.bppa.gov.bd** (conf: 0.74): Apr 5,2026·BPPA is the national authority responsible for public procurement policy,regulations, and e-GP systems to ensure transparent and efficient procurement inBangladesh.
 
 - **practiceguides.chambers.com** (conf: 0.74): Dec 9, 2025 ·Banks inBangladeshroutinely undertake several additional activities, each requiring separate regulatory consent. Foreign exchange operations – A bank must obtain a specific Authorised Dea
-
-- **bimoffis.com** (conf: 0.74): BIMOutsourcingServices Cost inUSA: What You Should Really Expect to Pay. BimOffis. April 23,2026.How much doesBIMoutsourcingcost in theUSA? Depends on project size. Small residential starts around $60
-
-- **freead1.net** (conf: 0.74): valid until: 12 Jan2026date published: 12 Jan 2025.In building and remodeling projects,outsourcingguarantees accurate, high-qualityBIMmodels that are customized to project requirements, improving team
-
-- **optimarprecon.com** (conf: 0.73): Optimar Precon’s ConstructionBIMoutsourcingUSAreduces costs to $30,000–$80,000, delivering superior results. Lower Upfront Costs: No investment in BIM software or training. Predictable Budgeting: Fixe

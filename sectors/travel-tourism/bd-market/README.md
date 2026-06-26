@@ -2,8 +2,8 @@
 sector: travel-tourism
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.731
-evidence_ids: ['03d63135-dc7', '4ce20434-4c3', '5fc4acc2-a85']
+confidence: 0.75
+evidence_ids: ['9cb1884a-f06', 'b7f60a24-4d8', '82f73a6a-e88']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -72,16 +72,14 @@ evidence_ids: ['03d63135-dc7', '4ce20434-4c3', '5fc4acc2-a85']
 
 
 
+
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| tour packages, air tickets, visa support | search | 0.90 |
-| affordable | search | 0.80 |
-| study abroad, visa services, air tickets | search | 0.90 |
-| cheap | search | 0.80 |
-| ['UK', 'Canada', 'Russia', 'USA'] | search | 0.90 |
-| ShareTrip | search | 1.00 |
-| tickets, amenities | search | 0.90 |
-| affordable | search | 0.80 |
-| 2014-04-01 | search | 0.90 |
+| ['hotels', 'visa', 'tours', 'flight booking'] | search | 1.00 |
+| 2017 | search | 1.00 |
+| IATA-certified | search | 1.00 |
+| honest service, affordable prices, and real support | search | 1.00 |
+| ['air ticketing', 'visa processing', 'holiday packages', 'global tours'] | search | 1.00 |

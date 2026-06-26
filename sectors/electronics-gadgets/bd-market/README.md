@@ -2,8 +2,8 @@
 sector: electronics-gadgets
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.743
-evidence_ids: ['b6102bb5-129', '2e07bd55-1c8', '01716f4b-225', 'de5670c7-cc0', '8b880af2-aa1', 'd53714e5-3db', 'e98c614a-1c2', 'f44980ea-77a', '18d98e7e-8dc', '5840edc1-d4f']
+confidence: 0.746
+evidence_ids: ['87e9bc3f-2ec', '37e27159-6dd', 'daca4c66-cc2', 'eee3f1e9-a95', 'df42e87f-c1b', '57f3b639-1e7', '0f05be98-90c', 'd20eddb8-497', '6121c852-ea8', '42aaa96f-e20']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -93,22 +93,24 @@ evidence_ids: ['b6102bb5-129', '2e07bd55-1c8', '01716f4b-225', 'de5670c7-cc0', '
 
 
 
+
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 25500-102900 | search | 1.00 |
-| TCL TV | search | 1.00 |
-| lowest price | search | 0.90 |
-| best prices | search | 0.90 |
-| best prices, offers, and discounts | search | 0.90 |
-| 15.00 | search | 0.80 |
-| BRANDS MEGA LTD | search | 1.00 |
-| Navana Tower (Level-18) 45 Gulshan Avenue, Gulshan-1 Dhaka -1212, Bangladesh | search | 1.00 |
+| unbeatable prices | search | 0.90 |
+| ['ACs', 'refrigerators', 'washing machines', 'smart TVs', 'ovens'] | search | 1.00 |
+| ['official warranty', 'EMI facilities', 'fast home delivery'] | search | 1.00 |
+| ['official warranty', '0% EMI', '16 superstores nationwide'] | search | 1.00 |
+| authorized multi-brand electronics retailer | search | 1.00 |
+| one of the highest rated | search | 0.90 |
+| premium quality products | search | 0.90 |
+| seamless online shopping experience | search | 0.90 |
+| one-stop shop to get all kinds of electronic and electrical products | search | 1.00 |
+| unbeatable prices | search | 0.90 |
+| ['premium electronics', 'Smart TV', 'Air Conditions', 'home gadgets', 'lifestyle | search | 1.00 |
+| ['fast delivery', 'authentic products'] | search | 1.00 |
 | 51734 | search | 1.00 |
 | 8783 | search | 1.00 |
-| True | search | 1.00 |
-| ['TVs', 'fridges', 'ACs'] | search | 1.00 |
-| ['TVs', 'fridges', 'ACs'] | search | 1.00 |
-| 67255 | search | 1.00 |
-| 24 | search | 1.00 |
+| 5 | search | 1.00 |

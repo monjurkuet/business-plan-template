@@ -2,8 +2,8 @@
 sector: automotive-car-care
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.702
-evidence_ids: ['ccf82d19-cdc', '8e89bfd0-130']
+confidence: 0.699
+evidence_ids: ['74dbf8a4-081', 'cb4ffd52-775']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -121,9 +121,11 @@ evidence_ids: ['ccf82d19-cdc', '8e89bfd0-130']
 
 
 
+
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 1-285000 | search | 0.90 |
-| car care products | search | 1.00 |
+| 1-285000+ | search | 0.90 |
+| 1-285000 | search | 0.95 |

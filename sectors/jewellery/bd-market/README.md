@@ -3,7 +3,7 @@ sector: jewellery
 last_verified: 2026-06-26
 freshness: fresh
 confidence: 0.744
-evidence_ids: ['206298c3-989', 'cf6df9ce-902', '7112ce03-318', 'f971544b-846', 'f61f6204-4f0']
+evidence_ids: ['607b77fb-0a8', 'ec1cd3da-e80', '76adf1a7-dec', '0eb8ca7c-c21']
 ---
 
 # Jewellery — Bangladesh Market
@@ -83,15 +83,13 @@ evidence_ids: ['206298c3-989', 'cf6df9ce-902', '7112ce03-318', 'f971544b-846', '
 
 
 
+
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 26 years | search | 1.00 |
-| Al-Amin Jewellers | search | 1.00 |
-| Dhaka | search | 1.00 |
-| 10000-100000 | search | 0.90 |
-| 200-3000 | search | 0.90 |
-| 22k | search | 1.00 |
+| 10000-100000 | search | 0.95 |
+| 200-3000 | search | 0.95 |
+| 22k | search | 0.95 |
 | 1990.00 | search | 1.00 |
-| pearl jewelry | search | 1.00 |
