@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.688
-evidence_ids: ['ec2e3260-47b', '178a4bb3-b76']
+confidence: 0.742
+evidence_ids: ['f2cceb98-cb9', '7297f654-f9c', '806ac353-e54', '664a97de-8dc', 'fa82fafc-58a', 'e0739096-60c', '4e9d9353-d59', '15624b98-042', '8403b5d3-ad9']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -104,14 +104,23 @@ evidence_ids: ['ec2e3260-47b', '178a4bb3-b76']
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| womens_clothing | search | 0.95 |
-| lowest_price_inquiry | search | 0.90 |
-| best_selling_model_inquiry | search | 0.90 |
-| promotion_inquiry | search | 0.90 |
-| purchase_location_inquiry | search | 0.90 |
-| June 2026 | search | 0.90 |
-| best prices in home delivery | search | 0.80 |
+| free shipping, fast delivery, free return | search | 0.95 |
+| Baggy Pants | search | 0.95 |
+| affordable price | search | 0.90 |
+| home delivery all over Bangladesh | search | 0.95 |
+| women's three-piece sets | search | 1.00 |
+| affordable | search | 0.90 |
+| wholesale deals | search | 0.90 |
+| top clothing manufacturing hub | search | 1.00 |
+| competitive pricing | search | 1.00 |
+| Women's Clothing | search | 0.95 |
+| Dhaka, Bangladesh | search | 0.95 |
+| Facebook Marketplace | search | 1.00 |
+| Hussain Rehar inspired 3pcs set | search | 0.95 |
+| 2400 | search | 0.95 |
+| 36,38,40,42,44,46 | search | 0.95 |

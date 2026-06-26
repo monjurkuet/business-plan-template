@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.746
-evidence_ids: ['a2555502-5ec', 'b7892be1-0e8', '67792d3b-312', 'e45c2191-b48', '2fc193d2-533', 'a9c71394-b27', '377a8fb4-754', '77f8c3e3-2e4']
+confidence: 0.745
+evidence_ids: ['54cb9fd5-59c', '5d07eda0-f8e', '2975fd7e-505', 'a182f95d-87d', 'a1a17f7e-1a5', 'c1691b59-320', '5973d880-95b']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -108,22 +108,23 @@ evidence_ids: ['a2555502-5ec', 'b7892be1-0e8', '67792d3b-312', 'e45c2191-b48', '
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| starts around $600 | search | 0.90 |
-| 2026-04-23 | search | 0.90 |
-| Revit BIM models for architecture and structure at LOD 200–300 | search | 1.00 |
-| US architects and engineers | search | 1.00 |
 | 2026-01-12 | search | 1.00 |
 | 2025-01-12 | search | 1.00 |
-| Scan to BIM outsourcing guarantees accurate, high-quality BIM models customized  | search | 1.00 |
-| BIM outsourcing USA, 3D BIM modeling services | search | 1.00 |
-| Building Information Modeling (BIM) outsourcing | search | 0.90 |
-| architectural, engineering, and construction (AEC) industry in the United States | search | 0.95 |
-| access specialized expertise, reduce operational costs, handle BIM-related tasks | search | 0.90 |
-| 2025-03-13 | search | 1.00 |
-| 2D to 3D CAD conversion, outsourced BIM services, BIM 4D modeling | search | 0.95 |
-| 2025-02-25 | search | 1.00 |
-| cost advantages, access to specialized expertise, enhanced throughput for comple | search | 0.95 |
+| BIMBOSS | search | 1.00 |
+| ['USA', 'UK', 'India'] | search | 1.00 |
+| The United States has one of the largest and most competitive construction indus | search | 1.00 |
+| essential practice in the AEC industry in the United States | search | 0.90 |
+| access specialized expertise, reduce costs, handle BIM-related tasks efficiently | search | 0.90 |
+| 2025-03-13 | search | 0.95 |
+| cost advantages, access to specialised expertise, enhanced throughput for comple | search | 0.90 |
+| 2026-27 | search | 1.00 |
+| National Budget | search | 1.00 |
+| fiscal policy, revenue plans, development spending, economic impact | search | 0.90 |
+| frequent tax changes deter foreign investors | search | 0.95 |
+| 2026-27 | search | 1.00 |
+| Publish a five-year tax roadmap to eliminate annual surprises and allow long-ter | search | 0.95 |

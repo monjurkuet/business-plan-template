@@ -2,8 +2,8 @@
 sector: jewellery
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.688
-evidence_ids: ['0082ad72-6b1', '4dcef3a1-51f']
+confidence: 0.706
+evidence_ids: ['d243de92-cfb', '11f19657-19b']
 ---
 
 # Jewellery — Bangladesh Market
@@ -81,9 +81,15 @@ evidence_ids: ['0082ad72-6b1', '4dcef3a1-51f']
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Freshwater Pearl Jewelry, Pearl Necklace Set for woman, Real pearl jewellery for | search | 0.80 |
-| Bangladeshi red gold | search | 0.90 |
+| gold ring | search | 1.00 |
+| latest gold ring prices | search | 1.00 |
+| Bangladeshi red gold | search | 1.00 |
+| online shopping | search | 1.00 |
+| purity check | search | 0.90 |
+| AR try-on | search | 0.90 |
+| lifetime buyback | search | 0.90 |

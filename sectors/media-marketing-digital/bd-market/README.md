@@ -2,8 +2,8 @@
 sector: media-marketing-digital
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.635
-evidence_ids: ['d77c0c41-717']
+confidence: 0.74
+evidence_ids: ['80c93eac-9cc', '00f2c04d-722', 'a13769a5-d66', '410f878f-dca']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market
@@ -91,8 +91,15 @@ evidence_ids: ['d77c0c41-717']
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| pay-per-use | search | 0.90 |
+| Bulk SMS, Email Marketing, Voice Marketing | search | 0.95 |
+| The best price in digital marketing Bangladesh | search | 0.90 |
+| Bulk SMS, Email Marketing, Voice Marketing | search | 0.95 |
+| The best price in digital marketing Bangladesh | search | 0.90 |
+| SEO, social media marketing, online branding, promotion, email marketing | search | 0.95 |
+| SEO, web development, social media marketing, ROI-driven strategies | search | 0.95 |
+| Marketorr BD | search | 0.95 |

@@ -3,7 +3,7 @@ sector: crypto-bitcoin
 last_verified: 2026-06-26
 freshness: fresh
 confidence: 0.745
-evidence_ids: ['e5edd4a7-329', 'e298dd40-11d', '32eec6a2-391', '0dd2082b-ed8', 'c56c67e3-026', '45e13e71-45d', 'ceffcea5-3c0', 'b3bdf8be-6fb', 'acd1d5b4-9e0']
+evidence_ids: ['a0ef9450-522', 'b23cb874-80e', '02e6e67d-bd4', '3dc43bf8-0ff', '709d4a15-ee1', 'fe1aeb92-ed1', '631b852c-a2b']
 ---
 
 # Crypto & Bitcoin — Bangladesh Market
@@ -84,22 +84,23 @@ evidence_ids: ['e5edd4a7-329', 'e298dd40-11d', '32eec6a2-391', '0dd2082b-ed8', '
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| crypto exchanges | search | 1.00 |
-| BDT P2P liquidity, bKash and Nagad support, low fees, platform reliability | search | 1.00 |
+| crypto_exchanges | search | 1.00 |
+| Augur | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| cryptocurrency_trading_platforms | search | 1.00 |
+| Bangladesh | search | 1.00 |
 | 2026 | search | 1.00 |
-| crypto exchanges | search | 1.00 |
-| buy, sell, trade Bitcoin and altcoins | search | 1.00 |
-| BDT, local payment methods | search | 1.00 |
-| 2026 | search | 1.00 |
-| crypto exchanges | search | 1.00 |
-| fees, supported coins, leverage, safety | search | 1.00 |
-| 2026 | search | 1.00 |
-| crypto trading platforms | search | 1.00 |
-| ['ForTrade', 'Coinbase', 'Interactive Brokers'] | search | 1.00 |
-| 2026 | search | 1.00 |
-| 3000000 | search | 0.95 |
-| banned | search | 0.95 |
+| not_legalized_but_not_banned | search | 1.00 |
+| Bangladesh Bank | search | 1.00 |
+| regulators warn about crypto’s volatility, urging users to proceed cautiously | search | 1.00 |
+| EmpireCryptoData | search | 1.00 |
+| ['Centralized Exchanges (CEX)', 'Coinbase', 'Binance', 'ChangeNOW'] | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| Dhaka, Bangladesh | search | 0.90 |
+| cryptocurrency wallets | search | 0.95 |
+| Dhaka, Bangladesh | search | 0.95 |

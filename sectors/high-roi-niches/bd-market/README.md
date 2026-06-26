@@ -2,8 +2,8 @@
 sector: high-roi-niches
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.747
-evidence_ids: ['719e6a9d-cb0', '339c740b-771', '99b9b792-506', '5e8b8de9-c05', '6e425354-353']
+confidence: 0.699
+evidence_ids: ['f3392e0d-f90', 'c4e5f4f4-c3f']
 ---
 
 # High-ROI Niches — Bangladesh Market
@@ -89,22 +89,14 @@ This sector captures high-growth, high-margin niche opportunities in Bangladesh.
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| pet shop | search | 1.00 |
-| affordable prices | search | 0.90 |
-| online pet shop | search | 1.00 |
-| best prices | search | 0.90 |
-| pet supplies | search | 1.00 |
-| dog food, cat food | search | 1.00 |
-| pet care clinic | search | 1.00 |
-| feline patients | search | 1.00 |
-| dog food, cat food | search | 1.00 |
-| best prices | search | 0.90 |
-| Dhaka | search | 1.00 |
-| pet shop | search | 1.00 |
-| pet food, accessories, care products | search | 1.00 |
-| SKS Tower, Mohakhali, Dhaka | search | 1.00 |
-| dogs, cats, birds | search | 1.00 |
+| HIT LIFE cat food | search | 0.90 |
+| grain-free cat food | search | 0.90 |
+| pet care Bangladesh | search | 0.95 |
+| PetZone BD | search | 0.95 |
+| petzonebd.com | search | 0.95 |
+| Pampered Paws Bangladesh | search | 0.90 |
