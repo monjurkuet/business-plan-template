@@ -2,8 +2,8 @@
 sector: jewellery
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.706
-evidence_ids: ['d243de92-cfb', '11f19657-19b']
+confidence: 0.744
+evidence_ids: ['206298c3-989', 'cf6df9ce-902', '7112ce03-318', 'f971544b-846', 'f61f6204-4f0']
 ---
 
 # Jewellery — Bangladesh Market
@@ -82,14 +82,16 @@ evidence_ids: ['d243de92-cfb', '11f19657-19b']
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| gold ring | search | 1.00 |
-| latest gold ring prices | search | 1.00 |
-| Bangladeshi red gold | search | 1.00 |
-| online shopping | search | 1.00 |
-| purity check | search | 0.90 |
-| AR try-on | search | 0.90 |
-| lifetime buyback | search | 0.90 |
+| 26 years | search | 1.00 |
+| Al-Amin Jewellers | search | 1.00 |
+| Dhaka | search | 1.00 |
+| 10000-100000 | search | 0.90 |
+| 200-3000 | search | 0.90 |
+| 22k | search | 1.00 |
+| 1990.00 | search | 1.00 |
+| pearl jewelry | search | 1.00 |

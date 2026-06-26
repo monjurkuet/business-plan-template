@@ -2,8 +2,8 @@
 sector: crypto-bitcoin
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.745
-evidence_ids: ['a0ef9450-522', 'b23cb874-80e', '02e6e67d-bd4', '3dc43bf8-0ff', '709d4a15-ee1', 'fe1aeb92-ed1', '631b852c-a2b']
+confidence: 0.732
+evidence_ids: ['33ad44ab-741', 'b8d1cdbb-42a', 'ba974e20-4a4', '77b31286-5c0', '76d944f8-fc4']
 ---
 
 # Crypto & Bitcoin — Bangladesh Market
@@ -85,22 +85,17 @@ evidence_ids: ['a0ef9450-522', 'b23cb874-80e', '02e6e67d-bd4', '3dc43bf8-0ff', '
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| crypto_exchanges | search | 1.00 |
-| Augur | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| cryptocurrency_trading_platforms | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| 2026 | search | 1.00 |
-| not_legalized_but_not_banned | search | 1.00 |
-| Bangladesh Bank | search | 1.00 |
-| regulators warn about crypto’s volatility, urging users to proceed cautiously | search | 1.00 |
-| EmpireCryptoData | search | 1.00 |
-| ['Centralized Exchanges (CEX)', 'Coinbase', 'Binance', 'ChangeNOW'] | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| Dhaka, Bangladesh | search | 0.90 |
-| cryptocurrency wallets | search | 0.95 |
-| Dhaka, Bangladesh | search | 0.95 |
+| TezosBangladesh list of crypto exchanges for Bangladesh | search | 0.90 |
+| buy and sell popular cryptocurrencies, bet on Tezos results | search | 0.80 |
+| ['SanzidTech', 'cryptohossain', 'Invest2.Profit', 'EarningRashu', 'Johire786'] | search | 0.95 |
+| 2026-06 | search | 0.90 |
+| not legalized, no outright ban | search | 0.95 |
+| volatility warning, proceed cautiously | search | 0.90 |
+| Bangladesh Bank | search | 0.95 |
+| open a Bangladesh cryptocurrency trading account with a Bangladesh cryptocurrenc | search | 0.90 |
+| Dhaka, Bangladesh | search | 0.80 |

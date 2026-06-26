@@ -2,8 +2,8 @@
 sector: electronics-gadgets
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.75
-evidence_ids: ['48baddfb-633', '50ffcfe7-bd3', '922734b6-ccf', '0d99051f-91a', 'af9c9f49-5db']
+confidence: 0.743
+evidence_ids: ['b6102bb5-129', '2e07bd55-1c8', '01716f4b-225', 'de5670c7-cc0', '8b880af2-aa1', 'd53714e5-3db', 'e98c614a-1c2', 'f44980ea-77a', '18d98e7e-8dc', '5840edc1-d4f']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -92,22 +92,23 @@ evidence_ids: ['48baddfb-633', '50ffcfe7-bd3', '922734b6-ccf', '0d99051f-91a', '
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| e-commerce shop for electronics | search | 1.00 |
-| ['ACs', 'refrigerators', 'washing machines', 'smart TVs', 'ovens'] | search | 1.00 |
-| ['official warranty', 'EMI facilities', 'fast home delivery'] | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| authorized multi-brand electronics retailer | search | 1.00 |
-| ['authentic products', 'official warranty', '0% EMI'] | search | 1.00 |
-| 16 | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| consumer electronics online shopping platform | search | 1.00 |
-| ['premium quality products', 'seamless online shopping experience'] | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| one-stop shop for electronic and electrical products | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| e-commerce store for electronics and gadgets | search | 1.00 |
-| ['Smart TV', 'Air Conditions', 'home gadgets', 'lifestyle products'] | search | 1.00 |
+| 25500-102900 | search | 1.00 |
+| TCL TV | search | 1.00 |
+| lowest price | search | 0.90 |
+| best prices | search | 0.90 |
+| best prices, offers, and discounts | search | 0.90 |
+| 15.00 | search | 0.80 |
+| BRANDS MEGA LTD | search | 1.00 |
+| Navana Tower (Level-18) 45 Gulshan Avenue, Gulshan-1 Dhaka -1212, Bangladesh | search | 1.00 |
+| 51734 | search | 1.00 |
+| 8783 | search | 1.00 |
+| True | search | 1.00 |
+| ['TVs', 'fridges', 'ACs'] | search | 1.00 |
+| ['TVs', 'fridges', 'ACs'] | search | 1.00 |
+| 67255 | search | 1.00 |
+| 24 | search | 1.00 |

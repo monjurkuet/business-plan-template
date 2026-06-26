@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.745
-evidence_ids: ['54cb9fd5-59c', '5d07eda0-f8e', '2975fd7e-505', 'a182f95d-87d', 'a1a17f7e-1a5', 'c1691b59-320', '5973d880-95b']
+confidence: 0.738
+evidence_ids: ['56a66fde-4ea', '53edb4dd-7fd', '13510ce7-c4c', 'dfb78081-5a6', '86179e20-548', '1a2ceb20-70f', '2ba2515c-85a']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -109,22 +109,23 @@ evidence_ids: ['54cb9fd5-59c', '5d07eda0-f8e', '2975fd7e-505', 'a182f95d-87d', '
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 2026-01-12 | search | 1.00 |
-| 2025-01-12 | search | 1.00 |
-| BIMBOSS | search | 1.00 |
-| ['USA', 'UK', 'India'] | search | 1.00 |
-| The United States has one of the largest and most competitive construction indus | search | 1.00 |
-| essential practice in the AEC industry in the United States | search | 0.90 |
-| access specialized expertise, reduce costs, handle BIM-related tasks efficiently | search | 0.90 |
-| 2025-03-13 | search | 0.95 |
-| cost advantages, access to specialised expertise, enhanced throughput for comple | search | 0.90 |
-| 2026-27 | search | 1.00 |
-| National Budget | search | 1.00 |
-| fiscal policy, revenue plans, development spending, economic impact | search | 0.90 |
-| frequent tax changes deter foreign investors | search | 0.95 |
-| 2026-27 | search | 1.00 |
-| Publish a five-year tax roadmap to eliminate annual surprises and allow long-ter | search | 0.95 |
+| Bangladesh Public Procurement Authority (BPPA) | search | 0.95 |
+| public procurement policy, regulations, and e-GP systems | search | 0.90 |
+| ensure transparent and efficient procurement in Bangladesh | search | 0.90 |
+| 2026-04-05 | search | 0.95 |
+| separate regulatory consent for additional activities | search | 0.90 |
+| Foreign Exchange Regulation Act, 1947 | search | 0.95 |
+| Authorised Dealer (AD) licence from Bangladesh Bank | search | 0.95 |
+| buy, sell and deal in foreign currencies | search | 0.90 |
+| 2025-12-09 | search | 0.95 |
+| $600 | search | 0.90 |
+| Small residential | search | 0.90 |
+| 2026-04-23 | search | 0.95 |
+| 2026-01-12 | search | 0.95 |
+| 2025-01-12 | search | 0.95 |
+| Scan to BIM outsourcing guarantees accurate, high-quality BIM models customized  | search | 0.90 |

@@ -2,8 +2,8 @@
 sector: travel-tourism
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.73
-evidence_ids: ['fa7e1614-1aa', 'e77dfd2d-3ad', '61c92f24-c5b', 'ef1a6ceb-f62']
+confidence: 0.731
+evidence_ids: ['03d63135-dc7', '4ce20434-4c3', '5fc4acc2-a85']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -71,16 +71,17 @@ evidence_ids: ['fa7e1614-1aa', 'e77dfd2d-3ad', '61c92f24-c5b', 'ef1a6ceb-f62']
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| affordable tour packages, air tickets, visa support | search | 0.90 |
+| tour packages, air tickets, visa support | search | 0.90 |
 | affordable | search | 0.80 |
-| cheap airline tickets, online hotel booking, air & travel portal development | search | 0.90 |
-| cheap | search | 0.80 |
-| study abroad, visa services, cheap air tickets | search | 0.90 |
+| study abroad, visa services, air tickets | search | 0.90 |
 | cheap | search | 0.80 |
 | ['UK', 'Canada', 'Russia', 'USA'] | search | 0.90 |
-| ['Bangladesh', 'UAE'] | search | 0.90 |
-| ['Chittagong', 'Sharjah', 'Dubai', 'Noakhali', 'Ajman'] | search | 0.90 |
+| ShareTrip | search | 1.00 |
+| tickets, amenities | search | 0.90 |
+| affordable | search | 0.80 |
+| 2014-04-01 | search | 0.90 |
