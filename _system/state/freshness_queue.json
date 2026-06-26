@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T10:35:53.008576+00:00",
+  "generated_at": "2026-06-26T12:10:59.102477+00:00",
   "summary": {
     "fresh": 39,
     "stale": 87,
@@ -66,7 +66,7 @@
       "path": "sectors/bim-global-outreach/bd-market/regulatory.md",
       "sector": "bim-global-outreach",
       "category": "policy",
-      "age_days": 0,
+      "age_days": 1,
       "stale_type": "stale_reference",
       "priority": "P0",
       "stale_after_days": 7,
@@ -704,7 +704,7 @@
       "path": "sectors/bim-global-outreach/bd-market/pricing-guide.md",
       "sector": "bim-global-outreach",
       "category": "pricing",
-      "age_days": 0,
+      "age_days": 1,
       "stale_type": "stale_reference",
       "priority": "P1",
       "stale_after_days": 14,
@@ -715,7 +715,7 @@
       "path": "sectors/bim-global-outreach/bd-market/sentiment-analysis.md",
       "sector": "bim-global-outreach",
       "category": "sentiment",
-      "age_days": 0,
+      "age_days": 1,
       "stale_type": "stale_reference",
       "priority": "P1",
       "stale_after_days": 21,

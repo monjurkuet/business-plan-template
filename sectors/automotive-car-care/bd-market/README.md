@@ -2,8 +2,8 @@
 sector: automotive-car-care
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.738
-evidence_ids: ['8666fdba-4ec', 'a56da2fd-abe', '56dac0ac-ac1']
+confidence: 0.74
+evidence_ids: ['58cf3316-2d4', 'a4e63839-e73', 'b20661c2-9c3']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -124,15 +124,14 @@ evidence_ids: ['8666fdba-4ec', 'a56da2fd-abe', '56dac0ac-ac1']
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| producing and selling of car care products, spray paint, special coating, indust | search | 0.90 |
-| Guangzhou, China | search | 0.90 |
-| 4519 | search | 0.90 |
-| Gasoline, Diesel, Petrol, Crude Oil, LPG, Electricity | search | 0.95 |
-| BDT | search | 0.95 |
-| Litre, Barrel, Gallon | search | 0.90 |
-| restaurants, food, transportation, utilities, housing | search | 0.95 |
-| 40+ | search | 0.90 |
+| Japan auction price for Toyota, Honda & SUV cars | search | 0.95 |
+| transparent pre-order process | search | 0.90 |
+| Car Care | search | 0.95 |
+| Dhaka, Bangladesh | search | 0.95 |
+| 127 | search | 0.90 |
+| latest products price in Bangladesh, reviews, price comparison, updated prices | search | 0.95 |

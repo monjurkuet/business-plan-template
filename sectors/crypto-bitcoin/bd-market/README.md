@@ -3,7 +3,7 @@ sector: crypto-bitcoin
 last_verified: 2026-06-26
 freshness: fresh
 confidence: 0.738
-evidence_ids: ['6865a10c-bd3', '3dcaa6cf-d4c', '40063931-8a7', '7cc0970e-3b8', '927cf308-408', '6f0deca5-ff6', 'df83aec2-9dd', '337ad3f1-38c', 'd9a39c9c-a7a', '067df404-cad']
+evidence_ids: ['22250c99-676', '234e9498-9e6', '48efdd6d-9e9', '4f821933-496', '386d337c-6ed', '27b02c97-de3']
 ---
 
 # Crypto & Bitcoin — Bangladesh Market
@@ -89,22 +89,23 @@ evidence_ids: ['6865a10c-bd3', '3dcaa6cf-d4c', '40063931-8a7', '7cc0970e-3b8', '
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Bangladesh residents can buy and sell popular cryptocurrencies | search | 0.90 |
-| Augur betting, buying and selling cryptocurrencies | search | 0.80 |
-| Bangladesh residents need to open a cryptocurrency trading account with a Bangla | search | 0.95 |
-| ['SanzidTech', 'cryptohossain', 'Invest2.Profit', 'EarningRashu', 'Johire786'] | search | 0.95 |
-| YouTube | search | 1.00 |
-| 2026-06 | search | 0.90 |
-| not legalized but no outright ban | search | 0.95 |
-| volatility warning by regulators | search | 0.90 |
-| Bangladesh Bank | search | 1.00 |
-| EmpireCryptoData | search | 0.80 |
-| CryptoBangladesh | search | 1.00 |
-| @watchoutlol | search | 1.00 |
-| 311 | search | 0.95 |
-| 13 | search | 0.95 |
-| dynamic and growing ecosystem of individuals, enthusiasts, and experts actively  | search | 0.90 |
+| Buy and sell cryptocurrencies like Tezos | search | 0.90 |
+| Bangladesh | search | 0.95 |
+| Tezos | search | 0.90 |
+| YouTube | search | 0.95 |
+| Crypto | search | 0.95 |
+| ['SanzidTech', 'cryptohossain', 'Invest2.Profit', 'EarningRashu', 'Johire786'] | search | 0.90 |
+| Bangladesh | search | 0.95 |
+| Trade cryptocurrencies | search | 0.90 |
+| Bangladesh | search | 0.95 |
+| Open a Bangladesh cryptocurrency trading account with a Bangladesh cryptocurrenc | search | 0.90 |
+| Bangladesh Bank | search | 0.95 |
+| Not legalized but not outright banned | search | 0.90 |
+| Crypto's volatility, urging users to proceed cautiously | search | 0.90 |
+| Empire Crypto Data | search | 0.80 |
+| cryptocurrency wallets | search | 0.90 |

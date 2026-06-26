@@ -2,8 +2,8 @@
 sector: travel-tourism
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.73
-evidence_ids: ['c4a274e9-d5e', '0745650f-523', '37a1a4de-199', 'f1ef8bcb-25e']
+confidence: 0.739
+evidence_ids: ['6c94d131-80f', '92bb0c9b-8bc', 'aadf29bb-0c2']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -75,16 +75,18 @@ evidence_ids: ['c4a274e9-d5e', '0745650f-523', '37a1a4de-199', 'f1ef8bcb-25e']
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| tour packages, air tickets, visa support | search | 0.90 |
-| affordable | search | 0.80 |
-| cheap airline tickets, online hotel booking, air & travel portal development | search | 0.90 |
-| cheap | search | 0.80 |
-| study abroad, visa services, cheap air tickets | search | 0.90 |
-| cheap | search | 0.80 |
-| ['UK', 'Canada', 'Russia', 'USA'] | search | 0.90 |
-| ['Bangladesh', 'Chittagong', 'Sharjah', 'Dubai', 'Noakhali', 'Ajman', 'UAE'] | search | 0.90 |
-| Vacancy Announcements for Travel Agency | search | 0.90 |
+| goFLY | search | 0.95 |
+| ['IATA #42337956', 'ATAB #4298'] | search | 0.95 |
+| 4.8 | search | 0.95 |
+| 463 | search | 0.95 |
+| 8 | search | 0.90 |
+| ['flights', 'visa'] | search | 0.90 |
+| Travel Agency Bangladesh | search | 0.95 |
+| low-cost travel packages, expert guidance, secure journeys, budget-friendly plan | search | 0.90 |
+| Golden Bengal Tours | search | 0.95 |
+| best deals and packages quotes on every trip | search | 0.90 |

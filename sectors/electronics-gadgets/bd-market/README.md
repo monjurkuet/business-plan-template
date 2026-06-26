@@ -2,8 +2,8 @@
 sector: electronics-gadgets
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.737
-evidence_ids: ['8b08555b-031', '2e9dad9c-c9b', '11bfe882-fd9', 'e693a3e5-e16', '3eef1208-376', '9d390a6d-253', 'a45b3cc3-e36', '1035b72a-8e6', 'c9ac0fad-b63', '9854bce5-224']
+confidence: 0.735
+evidence_ids: ['9068a6e7-5ff', 'b6d132cd-9dc', '45bc579c-e7e', '9f07dc8d-46a', '19b1451c-c14', '69977ae4-d9b', '5ce4507d-ad3']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -96,22 +96,23 @@ evidence_ids: ['8b08555b-031', '2e9dad9c-c9b', '11bfe882-fd9', 'e693a3e5-e16', '
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 25500-102900 | search | 1.00 |
-| TCL TV | search | 1.00 |
-| official warranty | search | 1.00 |
-| electronics & gadgets | search | 1.00 |
-| best price | search | 0.90 |
-| fast delivery | search | 0.90 |
-| Gadgets & Premium Accessories | search | 1.00 |
-| best prices | search | 0.90 |
-| Free Shipping | search | 0.90 |
-| best prices, offers, and discounts on electronics | search | 0.90 |
-| 15.00 | search | 0.80 |
-| Global manufacturers to sale products in Europe, UK, USA, Canada, Australia with | search | 0.90 |
-| Electronics Bangladesh | search | 1.00 |
-| 51734 | search | 0.95 |
-| 8783 | search | 0.95 |
+| e-commerce shop for electronics | search | 0.95 |
+| ['ACs', 'refrigerators', 'washing machines', 'smart TVs', 'ovens'] | search | 0.90 |
+| ['official warranty', 'EMI facilities', 'fast home delivery'] | search | 0.90 |
+| consumer electronics online shopping platform | search | 0.95 |
+| premium quality products | search | 0.90 |
+| authorized multi-brand electronics retailer | search | 0.95 |
+| ['official warranty', '0% EMI'] | search | 0.95 |
+| 16 | search | 0.95 |
+| Bangladesh | search | 0.95 |
+| one-stop shop for electronic and electrical products | search | 0.95 |
+| Bangladesh | search | 0.95 |
+| e-commerce store for electronics and gadgets | search | 0.95 |
+| ['Smart TV', 'Air Conditions', 'home gadgets', 'lifestyle products'] | search | 0.90 |
+| ['fast delivery', 'authentic products'] | search | 0.90 |
+| Bangladesh | search | 0.95 |

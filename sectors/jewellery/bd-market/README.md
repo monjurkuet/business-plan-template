@@ -2,8 +2,8 @@
 sector: jewellery
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.738
-evidence_ids: ['bf5868ea-fa5', '4a9e07bc-60d', '7e5ccb51-b60', 'bca14f5b-835']
+confidence: 0.75
+evidence_ids: ['e3a54b92-591', '25b85d01-440', '56d75efc-863', 'caebcc1f-d0a', '43dd6f83-bee']
 ---
 
 # Jewellery — Bangladesh Market
@@ -86,19 +86,22 @@ evidence_ids: ['bf5868ea-fa5', '4a9e07bc-60d', '7e5ccb51-b60', 'bca14f5b-835']
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Love Pearl Necklace Gift Box Freshwater Pearl Jewelry | search | 0.90 |
-| pearl jewellery | search | 0.95 |
-| women | search | 0.95 |
-| Price in Bangladesh 2025 | search | 0.80 |
-| Bangladeshi red gold | search | 0.95 |
-| online shopping | search | 0.95 |
-| verified suppliers, purity check, secure shopping, AR try-on, lifetime buyback | search | 0.90 |
-| Bangladesh | search | 0.95 |
-| Cultural heritage, centuries-old jewellery-making traditions, premium quality, f | search | 0.90 |
-| Australia | search | 0.95 |
-| wedding jewellery | search | 0.95 |
-| Wedding Jewellery Bangladesh | search | 0.90 |
+| 200-3000 | search | 1.00 |
+| fashion jewellery | search | 1.00 |
+| daily and festive wear | search | 1.00 |
+| impacted on all gold jewellers in Bangladesh | search | 1.00 |
+| ['churi', 'chain', 'gold bracelet'] | search | 1.00 |
+| ['Al-Amin Jewellers', 'Amin Jewellers', 'Apan Jewellers'] | search | 1.00 |
+| gold and diamond shop | search | 1.00 |
+| most trusted | search | 1.00 |
+| affordable | search | 1.00 |
+| best price when buying gold from customers | search | 1.00 |
+| pioneer in online jewellery shop in Bangladesh | search | 1.00 |
+| one of the most well-known jewellers in Bangladesh | search | 1.00 |
+| 2019-10-11 | search | 1.00 |
+| Jamuna Future Park, Level-2, Block-C, Shop No.36 | search | 1.00 |

@@ -2,8 +2,8 @@
 sector: high-roi-niches
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.635
-evidence_ids: ['21254c86-cb3']
+confidence: 0.631
+evidence_ids: ['f0d8247f-1b6']
 ---
 
 # High-ROI Niches — Bangladesh Market
@@ -94,11 +94,12 @@ This sector captures high-growth, high-margin niche opportunities in Bangladesh.
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| PetCare Bangladesh | search | 0.90 |
+| Pet Care Bangladesh | search | 0.90 |
 | MH Imran | search | 0.90 |
 | Managing Director | search | 0.90 |
-| Bangladesh Veterinary and Pet Care Network (BVPN) | search | 0.90 |
+| Bangladesh Veterinary and Pet Care Network (BVPN) | search | 0.80 |

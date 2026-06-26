@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.737
-evidence_ids: ['dd176fa1-0c5', '9dcec0c1-8b4', 'b688f1b2-30a', '1de5afd9-4f2', '3c8ff993-e03', 'f6927ac4-8c2', 'e9935a71-ad6', '5697b3cb-db0', '97e64a9c-e1d']
+confidence: 0.74
+evidence_ids: ['adcd344f-d78', '8dd57088-f19', 'f3793a62-fd9', 'e5869c48-9f5', '4a072dec-3ca', '3985d236-954', '2ba415cf-857', '4dca5cc8-6e6', '7b82602b-427']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -113,22 +113,23 @@ evidence_ids: ['dd176fa1-0c5', '9dcec0c1-8b4', 'b688f1b2-30a', '1de5afd9-4f2', '
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
+| Foreign investment regulations in Bangladesh | search | 0.95 |
+| Tahmidur Rahman Remura Wahid (TRW) Law Firm | search | 0.95 |
+| BIM outsourcing in the USA | search | 0.95 |
+| 2026 | search | 1.00 |
+| Bangladesh Public Procurement Authority (BPPA) | search | 1.00 |
+| Public procurement policy, regulations, and e-GP systems | search | 0.95 |
+| 2026-04-05 | search | 1.00 |
+| Banking regulation in Bangladesh | search | 0.95 |
+| Foreign Exchange Regulation Act, 1947 | search | 0.95 |
+| 2026 | search | 0.90 |
 | $600 | search | 0.90 |
-| Small residential | search | 0.90 |
-| 2026-04-23 | search | 0.90 |
-| BimOffis | search | 0.90 |
-| Revit BIM models for architecture and structure | search | 0.90 |
-| 200–300 | search | 0.90 |
-| US architects and engineers | search | 0.90 |
-| California | search | 0.90 |
-| 2025 | search | 0.90 |
-| Optimar Precon | search | 0.90 |
-| access specialized expertise | search | 0.90 |
-| reduce operational costs | search | 0.90 |
-| improve project turnaround times | search | 0.90 |
-| challenges that firms must address to ensure seamless project execution | search | 0.80 |
-| 600 | search | 0.90 |
+| small residential | search | 0.90 |
+| 2026-04-23 | search | 0.95 |
+| Revit, Tekla, Navisworks | search | 0.95 |
+| ISO 19650 | search | 0.95 |

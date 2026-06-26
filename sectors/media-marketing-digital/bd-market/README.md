@@ -2,8 +2,8 @@
 sector: media-marketing-digital
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.702
-evidence_ids: ['4633d365-9cb', '895d30a2-dae']
+confidence: 0.734
+evidence_ids: ['972bc6a8-1b3', 'c81af0d6-8da', 'fcc3321e-40a', 'cc6d6ba8-f34']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market
@@ -96,13 +96,16 @@ evidence_ids: ['4633d365-9cb', '895d30a2-dae']
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| House: 01, Road: 18, Sector: 04, Uttara, Dhaka-1230, Bangladesh | search | 1.00 |
-| +8801625302010 | search | 1.00 |
-| info@jarintech.com | search | 1.00 |
-| Affordable digital marketing for startups | search | 0.95 |
-| 360° digital marketing services, content marketing | search | 0.90 |
-| Digital marketing expert in Bangladesh | search | 0.90 |
+| Bulk SMS, Email Marketing, Voice Marketing | search | 0.90 |
+| The best price in digital marketing Bangladesh | search | 0.80 |
+| Bulk SMS, Email Marketing, Voice Marketing | search | 0.90 |
+| The best price in digital marketing Bangladesh | search | 0.80 |
+| SEO, social media marketing, online branding, promotion, email marketing | search | 0.90 |
+| SEO, web development, social media marketing, ROI-driven strategies | search | 0.95 |
+| Marketorr | search | 1.00 |
+| Khan IT | search | 1.00 |
