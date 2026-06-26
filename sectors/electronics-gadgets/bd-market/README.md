@@ -2,8 +2,8 @@
 sector: electronics-gadgets
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.747
-evidence_ids: ['a6d2f40c-de1', 'a0412cde-54e', 'dba444c2-375', '8ff811fd-f69', '53f424cc-1e1']
+confidence: 0.749
+evidence_ids: ['0cbd645c-e8d', 'db2feebe-98e', '86842677-5be', '7f4624d4-93b', '7b471962-ec0']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -89,21 +89,23 @@ evidence_ids: ['a6d2f40c-de1', 'a0412cde-54e', 'dba444c2-375', '8ff811fd-f69', '
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| home appliances | search | 0.95 |
-| ACs, refrigerators, washing machines, smart TVs, ovens | search | 0.95 |
-| official warranty, EMI facilities, fast home delivery | search | 0.95 |
-| consumer electronics online shopping platform | search | 0.95 |
-| premium quality products | search | 0.95 |
+| Electronics Bangladesh | search | 1.00 |
+| home appliances, ACs, refrigerators, washing machines, smart TVs, ovens | search | 1.00 |
+| unbeatable prices | search | 0.90 |
+| official warranty, EMI facilities, fast home delivery | search | 1.00 |
+| M.K. Electronics | search | 1.00 |
 | authorized multi-brand electronics retailer | search | 1.00 |
-| official warranty | search | 1.00 |
-| 0% EMI | search | 1.00 |
-| 16 | search | 1.00 |
-| nationwide | search | 1.00 |
-| one-stop shop for electronic and electrical products | search | 1.00 |
-| eCommerce store for electronics and gadgets | search | 1.00 |
-| ['Smart TV', 'Air Conditions', 'home gadgets', 'lifestyle products'] | search | 1.00 |
-| ['fast delivery', 'authentic products', 'unbeatable prices'] | search | 1.00 |
+| authentic products, official warranty, 0% EMI, 16 superstores nationwide | search | 1.00 |
+| Esquire Electronics Ltd. | search | 1.00 |
+| esquireelectronicsltd.com | search | 1.00 |
+| highest rated and most trusted consumer electronics online shopping platform in  | search | 1.00 |
+| premium quality Original Electronic Appliances | search | 1.00 |
+| Best Electronics | search | 1.00 |
+| one-stop shop for all kinds of electronic and electrical products in Bangladesh | search | 1.00 |
+| Redzent Online Shopping | search | 1.00 |
+| Bangladesh's most trusted eCommerce store for premium electronics, Smart TV, Air | search | 1.00 |

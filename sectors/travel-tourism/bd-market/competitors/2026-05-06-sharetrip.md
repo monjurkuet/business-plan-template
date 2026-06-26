@@ -1,13 +1,9 @@
 ---
-entity_type: competitor
 sector: travel-tourism
-entity_slug: 2026-05-06-sharetrip
-last_verified_at: 2026-06-25T12:00:00Z
-freshness_status: fresh
-confidence_score: 0.50
-primary_sources:
-  - []
+last_verified: 2026-06-26
+freshness: fresh
 ---
+
 # Competitor: Sharetrip
 
 ## Metadata
@@ -108,4 +104,8 @@ primary_sources:
 Full-stack OTA: flights + hotels + buses. Volume play with discount-driven acquisition. Profitability questionable at current burn rate.
 
 ---
+
+## Recent Findings (2026-06-26)
+
+- **goroli.com** (conf: 0.74): ShareTrip is another populartravelagencyinBangladeshthat easily offers travelers tickets and other amenities at affordableprices. Thistravelagencywas started on April 1, 2014. It’s company was earlier
 

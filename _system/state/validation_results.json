@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-25T23:41:13.221558+00:00",
+  "generated_at": "2026-06-26T01:15:26.972914+00:00",
   "summary": {
     "files_checked": 159,
-    "violations": 227,
+    "violations": 225,
     "warnings": 0
   },
   "violations": [
@@ -1095,16 +1095,6 @@
       "file": "sectors/travel-tourism/bd-market/competitors/2026-05-06-obokash.md",
       "type": "missing_field",
       "detail": "Missing required field: confidence"
-    },
-    {
-      "file": "sectors/travel-tourism/bd-market/competitors/2026-05-06-sharetrip.md",
-      "type": "missing_field",
-      "detail": "Missing required field: last_verified"
-    },
-    {
-      "file": "sectors/travel-tourism/bd-market/competitors/2026-05-06-sharetrip.md",
-      "type": "missing_field",
-      "detail": "Missing required field: freshness"
     },
     {
       "file": "sectors/travel-tourism/bd-market/competitors/2026-05-06-sharetrip.md",

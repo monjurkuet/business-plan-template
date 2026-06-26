@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.7
-evidence_ids: ['65f9983d-1eb', '4cee379a-eb1']
+confidence: 0.74
+evidence_ids: ['c3843195-80c', 'e181f868-275', 'a58224e3-3b8', 'a4c5b32c-6c8', '89ad0cc9-fc6']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -102,14 +102,23 @@ evidence_ids: ['65f9983d-1eb', '4cee379a-eb1']
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| two-piece outfits | search | 0.90 |
-| women's fashion | search | 0.90 |
-| western clothing | search | 0.90 |
-| 2026-04-20 | search | 1.00 |
-| jacket | search | 1.00 |
-| competitive | search | 0.80 |
-| 2025 | search | 1.00 |
+| baggy pants | search | 0.95 |
+| boys, youth | search | 0.90 |
+| all over Bangladesh | search | 0.95 |
+| affordable | search | 0.85 |
+| ['best match', 'price', 'free shipping', 'fast delivery', 'free return'] | search | 0.90 |
+| Bangladesh | search | 0.95 |
+| ['t-shirts', 'polo shirts', 'casual shirts', 'summer wear'] | search | 0.95 |
+| across Bangladesh | search | 0.95 |
+| men | search | 0.95 |
+| T-shirt manufacturer | search | 0.95 |
+| Bangladesh | search | 0.95 |
+| best factory prices | search | 0.90 |
+| highest-quality custom apparel | search | 0.90 |
+| Bangladesh clothing | search | 0.95 |
+| Up to 90 days | search | 0.95 |

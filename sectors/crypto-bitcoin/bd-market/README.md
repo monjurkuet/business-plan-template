@@ -2,8 +2,8 @@
 sector: crypto-bitcoin
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.741
-evidence_ids: ['3a54b78c-4f9', '35d78ac6-03b', '02ee1480-166', '6b596394-9d2', '7bcb04e9-097']
+confidence: 0.742
+evidence_ids: ['746a2e63-b54', '53a5b984-505', '0bf6f0a9-9b4', '3e1f158c-d2a', '4e22c51b-aae', '4e450e31-2bd', '9576e607-9cb', '6a929ad7-61a', '7b6e4f22-eaf']
 ---
 
 # Crypto & Bitcoin — Bangladesh Market
@@ -82,22 +82,23 @@ evidence_ids: ['3a54b78c-4f9', '35d78ac6-03b', '02ee1480-166', '6b596394-9d2', '
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Tezos available for purchase | search | 0.90 |
-| Bangladesh | search | 1.00 |
-| crypto trading platforms | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| Bangladesh cryptocurrency trading account | search | 0.90 |
-| not legalized, no outright ban | search | 0.90 |
-| volatility warning, proceed with caution | search | 0.90 |
-| Bangladesh Bank | search | 1.00 |
-| banned (Bitcoin trading) | search | 0.90 |
-| arrest, frozen accounts, prison | search | 0.90 |
-| money laundering and foreign exchange laws | search | 0.90 |
-| TikTok video about cryptocurrency in Dhaka, Bangladesh | search | 0.90 |
-| ['cryptocurrency', 'digital currency', 'blockchain', 'cryptoBangladesh', 'crypto | search | 0.95 |
-| Dhaka, Bangladesh | search | 0.95 |
+| ['BDT P2P liquidity', 'bKash support', 'Nagad support', 'low fees'] | search | 0.95 |
+| 2026 | search | 0.95 |
+| ['buy', 'sell', 'trade Bitcoin and altcoins'] | search | 0.95 |
+| ['BDT', 'local payment methods'] | search | 0.95 |
+| 2026 | search | 0.95 |
+| 3000000 | search | 0.95 |
+| banned_but_active | search | 0.90 |
+| 35 | search | 0.95 |
+| stablecoin_remittance | search | 0.85 |
+| 775 | search | 0.95 |
+| Bangladeshbnbcrypto | search | 0.90 |
 | TikTok | search | 1.00 |
+| ['#crypto', '#bnb'] | search | 0.95 |
+| Emotional Trading in Cryptocurrency | search | 0.95 |
+| Dhaka, Bangladesh | search | 1.00 |

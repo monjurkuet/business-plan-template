@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.706
-evidence_ids: ['677df219-c12', 'edee8d4b-211']
+confidence: 0.74
+evidence_ids: ['20d078bc-c0b', 'e88e4d02-576', 'e3887be2-a90', 'ea4eed5a-d62', 'c923ba17-af1', '45e902b4-f33']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -106,11 +106,23 @@ evidence_ids: ['677df219-c12', 'edee8d4b-211']
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 35 | search | 0.95 |
-| 2025 | search | 0.95 |
-| 2026-01-12 | search | 1.00 |
-| 2025-01-12 | search | 1.00 |
+| 600 | search | 0.90 |
+| small_residential | search | 0.90 |
+| 2026-04-23 | search | 0.95 |
+| 2026-01-12 | search | 0.95 |
+| 2025-01-12 | search | 0.95 |
+| 2026-01-12 | search | 0.95 |
+| 2025-01-12 | search | 0.95 |
+| BIM outsourcing | search | 0.90 |
+| accurate, high-quality BIM models customized to project requirements, improving  | search | 0.90 |
+| BIM Modelling Services | search | 0.90 |
+| USA | search | 0.95 |
+| The United States has one of the largest and most competitive construction indus | search | 0.90 |
+| BIM outsourcing | search | 0.95 |
+| architectural, engineering, and construction (AEC) | search | 0.95 |
+| access specialized expertise, reduce costs, handle BIM-related tasks efficiently | search | 0.90 |

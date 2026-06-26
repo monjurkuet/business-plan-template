@@ -2,8 +2,8 @@
 sector: automotive-car-care
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.706
-evidence_ids: ['00a4bc20-8d2', '47dcf8ad-81d']
+confidence: 0.735
+evidence_ids: ['b6a08ebe-b69', '3692029e-af4', '80e44fe1-d6c']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -117,20 +117,14 @@ evidence_ids: ['00a4bc20-8d2', '47dcf8ad-81d']
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Gasoline (Petrol) | search | 0.95 |
-| Diesel | search | 0.95 |
-| LPG | search | 0.95 |
-| Kerosene | search | 0.95 |
-| Heating Oil | search | 0.95 |
-| BDT | search | 0.95 |
-| Litre | search | 0.95 |
-| Barrel | search | 0.95 |
-| Gallon | search | 0.95 |
-| 115.00 | search | 1.00 |
-| 0.93 | search | 1.00 |
-| 2026-06-22 | search | 1.00 |
-| 1.40 | search | 1.00 |
+| ['Toyota', 'Honda', 'SUV'] | search | 0.90 |
+| Japan auction price for cars | search | 0.90 |
+| Dhaka, Bangladesh | search | 0.90 |
+| Car Care | search | 0.90 |
+| Average prices of more than 40 products and services in Bangladesh | search | 0.90 |
+| ['restaurants', 'food', 'transportation', 'utilities', 'housing'] | search | 0.90 |
