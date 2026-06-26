@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.739
-evidence_ids: ['404be474-721', 'e52db6e4-798', '5445543a-0c4', 'e8f1c9d6-2db']
+confidence: 0.737
+evidence_ids: ['dd176fa1-0c5', '9dcec0c1-8b4', 'b688f1b2-30a', '1de5afd9-4f2', '3c8ff993-e03', 'f6927ac4-8c2', 'e9935a71-ad6', '5697b3cb-db0', '97e64a9c-e1d']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -112,22 +112,23 @@ evidence_ids: ['404be474-721', 'e52db6e4-798', '5445543a-0c4', 'e8f1c9d6-2db']
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| foreign investment regulations | search | 0.90 |
-| foreign investment | search | 0.95 |
-| Tahmidur Rahman Remura Wahid (TRW) Law Firm | search | 0.95 |
-| BIM outsourcing | search | 0.95 |
-| USA | search | 0.95 |
-| 2026 | search | 0.90 |
-| Bangladesh Public Procurement Authority (BPPA) | search | 0.95 |
-| public procurement policy and regulations | search | 0.90 |
-| e-GP systems | search | 0.90 |
-| 2026-04-05 | search | 0.95 |
-| banking regulation | search | 0.95 |
-| Foreign Exchange Regulation Act, 1947 | search | 0.95 |
-| Authorised Dealer (AD) licence from Bangladesh Bank for foreign exchange operati | search | 0.90 |
-| 2026 | search | 0.90 |
-| 2025-12-09 | search | 0.95 |
+| $600 | search | 0.90 |
+| Small residential | search | 0.90 |
+| 2026-04-23 | search | 0.90 |
+| BimOffis | search | 0.90 |
+| Revit BIM models for architecture and structure | search | 0.90 |
+| 200–300 | search | 0.90 |
+| US architects and engineers | search | 0.90 |
+| California | search | 0.90 |
+| 2025 | search | 0.90 |
+| Optimar Precon | search | 0.90 |
+| access specialized expertise | search | 0.90 |
+| reduce operational costs | search | 0.90 |
+| improve project turnaround times | search | 0.90 |
+| challenges that firms must address to ensure seamless project execution | search | 0.80 |
+| 600 | search | 0.90 |

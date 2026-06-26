@@ -481,19 +481,15 @@
       "name": "studio",
       "sector": "bim-global-outreach",
       "frontmatter": {
-        "entity_type": "competitor",
         "sector": "bim-global-outreach",
-        "entity_slug": "virtual-building-studio",
-        "last_verified_at": "2026-06-25T12:00:00Z",
-        "freshness_status": "fresh",
-        "confidence_score": "0.75",
-        "primary_sources": "- research_all_20260625"
+        "last_verified": "2026-06-26",
+        "freshness": "fresh"
       },
       "profile_category": "",
       "entity_slug": "virtual-building-studio",
-      "last_verified_at": "2026-06-25T12:00:00Z",
-      "freshness_status": "fresh",
-      "confidence_score": 0.75,
+      "last_verified_at": "",
+      "freshness_status": "unknown",
+      "confidence_score": 0.0,
       "strengths": [
         "1. **VDC leadership** — Strong brand in Virtual Design & Construction, known for preconstruction BIM",
         "2. **US-based expertise** — Experienced in US construction methods, contractual BIM requirements",

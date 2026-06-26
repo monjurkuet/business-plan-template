@@ -1,12 +1,7 @@
 ---
-entity_type: competitor
 sector: bim-global-outreach
-entity_slug: virtual-building-studio
-last_verified_at: 2026-06-25T12:00:00Z
-freshness_status: fresh
-confidence_score: 0.75
-primary_sources:
-  - research_all_20260625
+last_verified: 2026-06-26
+freshness: fresh
 ---
 
 # Virtual Building Studio
@@ -85,3 +80,8 @@ primary_sources:
 - Revit, Navisworks, Synchro, BIM 360, Assemble, Vico, Power BI, Procore
 
 *Last updated: 2026-06-25*
+
+## Recent Findings (2026-06-26)
+
+- **d-inc.in** (conf: 0.74): Design Inc Global Studio a BIM Consulting Firm in India, Our expert consultants provide cost-effective 2D, 3DBIMOutsourcingFirm acrossUSA.
+

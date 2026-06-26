@@ -2,8 +2,8 @@
 sector: travel-tourism
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.75
-evidence_ids: ['9cb1884a-f06', 'b7f60a24-4d8', '82f73a6a-e88']
+confidence: 0.73
+evidence_ids: ['c4a274e9-d5e', '0745650f-523', '37a1a4de-199', 'f1ef8bcb-25e']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -74,12 +74,17 @@ evidence_ids: ['9cb1884a-f06', 'b7f60a24-4d8', '82f73a6a-e88']
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ['hotels', 'visa', 'tours', 'flight booking'] | search | 1.00 |
-| 2017 | search | 1.00 |
-| IATA-certified | search | 1.00 |
-| honest service, affordable prices, and real support | search | 1.00 |
-| ['air ticketing', 'visa processing', 'holiday packages', 'global tours'] | search | 1.00 |
+| tour packages, air tickets, visa support | search | 0.90 |
+| affordable | search | 0.80 |
+| cheap airline tickets, online hotel booking, air & travel portal development | search | 0.90 |
+| cheap | search | 0.80 |
+| study abroad, visa services, cheap air tickets | search | 0.90 |
+| cheap | search | 0.80 |
+| ['UK', 'Canada', 'Russia', 'USA'] | search | 0.90 |
+| ['Bangladesh', 'Chittagong', 'Sharjah', 'Dubai', 'Noakhali', 'Ajman', 'UAE'] | search | 0.90 |
+| Vacancy Announcements for Travel Agency | search | 0.90 |

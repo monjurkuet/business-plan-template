@@ -2,8 +2,8 @@
 sector: electronics-gadgets
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.746
-evidence_ids: ['87e9bc3f-2ec', '37e27159-6dd', 'daca4c66-cc2', 'eee3f1e9-a95', 'df42e87f-c1b', '57f3b639-1e7', '0f05be98-90c', 'd20eddb8-497', '6121c852-ea8', '42aaa96f-e20']
+confidence: 0.737
+evidence_ids: ['8b08555b-031', '2e9dad9c-c9b', '11bfe882-fd9', 'e693a3e5-e16', '3eef1208-376', '9d390a6d-253', 'a45b3cc3-e36', '1035b72a-8e6', 'c9ac0fad-b63', '9854bce5-224']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -95,22 +95,23 @@ evidence_ids: ['87e9bc3f-2ec', '37e27159-6dd', 'daca4c66-cc2', 'eee3f1e9-a95', '
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| unbeatable prices | search | 0.90 |
-| ['ACs', 'refrigerators', 'washing machines', 'smart TVs', 'ovens'] | search | 1.00 |
-| ['official warranty', 'EMI facilities', 'fast home delivery'] | search | 1.00 |
-| ['official warranty', '0% EMI', '16 superstores nationwide'] | search | 1.00 |
-| authorized multi-brand electronics retailer | search | 1.00 |
-| one of the highest rated | search | 0.90 |
-| premium quality products | search | 0.90 |
-| seamless online shopping experience | search | 0.90 |
-| one-stop shop to get all kinds of electronic and electrical products | search | 1.00 |
-| unbeatable prices | search | 0.90 |
-| ['premium electronics', 'Smart TV', 'Air Conditions', 'home gadgets', 'lifestyle | search | 1.00 |
-| ['fast delivery', 'authentic products'] | search | 1.00 |
-| 51734 | search | 1.00 |
-| 8783 | search | 1.00 |
-| 5 | search | 1.00 |
+| 25500-102900 | search | 1.00 |
+| TCL TV | search | 1.00 |
+| official warranty | search | 1.00 |
+| electronics & gadgets | search | 1.00 |
+| best price | search | 0.90 |
+| fast delivery | search | 0.90 |
+| Gadgets & Premium Accessories | search | 1.00 |
+| best prices | search | 0.90 |
+| Free Shipping | search | 0.90 |
+| best prices, offers, and discounts on electronics | search | 0.90 |
+| 15.00 | search | 0.80 |
+| Global manufacturers to sale products in Europe, UK, USA, Canada, Australia with | search | 0.90 |
+| Electronics Bangladesh | search | 1.00 |
+| 51734 | search | 0.95 |
+| 8783 | search | 0.95 |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T09:01:51.433950+00:00",
+  "generated_at": "2026-06-26T10:35:53.008576+00:00",
   "summary": {
     "fresh": 39,
     "stale": 87,
@@ -71,7 +71,7 @@
       "priority": "P0",
       "stale_after_days": 7,
       "critical_after_days": 21,
-      "reason": "Contains stale year references: 2023, 2024"
+      "reason": "Contains stale year references: 2024"
     },
     {
       "path": "sectors/bim-global-outreach/bd-market/seasonality.md",
@@ -665,40 +665,40 @@
       "priority": "P1",
       "stale_after_days": 90,
       "critical_after_days": 180,
-      "reason": "Contains stale year references: 2023, 2024"
+      "reason": "Contains stale year references: 2024"
     },
     {
       "path": "sectors/bim-global-outreach/bd-market/go-to-market.md",
       "sector": "bim-global-outreach",
       "category": "default",
-      "age_days": 0,
+      "age_days": 1,
       "stale_type": "stale_reference",
       "priority": "P1",
       "stale_after_days": 90,
       "critical_after_days": 180,
-      "reason": "Contains stale year references: 2023, 2024"
+      "reason": "Contains stale year references: 2024"
     },
     {
       "path": "sectors/bim-global-outreach/bd-market/risk-register.md",
       "sector": "bim-global-outreach",
       "category": "default",
-      "age_days": 0,
+      "age_days": 1,
       "stale_type": "stale_reference",
       "priority": "P1",
       "stale_after_days": 90,
       "critical_after_days": 180,
-      "reason": "Contains stale year references: 2023, 2024"
+      "reason": "Contains stale year references: 2024"
     },
     {
       "path": "sectors/bim-global-outreach/bd-market/strategy-canvas.md",
       "sector": "bim-global-outreach",
       "category": "pricing",
-      "age_days": 0,
+      "age_days": 1,
       "stale_type": "stale_reference",
       "priority": "P1",
       "stale_after_days": 14,
       "critical_after_days": 30,
-      "reason": "Contains stale year references: 2023, 2024"
+      "reason": "Contains stale year references: 2024"
     },
     {
       "path": "sectors/bim-global-outreach/bd-market/pricing-guide.md",
@@ -709,7 +709,7 @@
       "priority": "P1",
       "stale_after_days": 14,
       "critical_after_days": 30,
-      "reason": "Contains stale year references: 2023, 2024"
+      "reason": "Contains stale year references: 2024"
     },
     {
       "path": "sectors/bim-global-outreach/bd-market/sentiment-analysis.md",
@@ -720,7 +720,7 @@
       "priority": "P1",
       "stale_after_days": 21,
       "critical_after_days": 42,
-      "reason": "Contains stale year references: 2023, 2024"
+      "reason": "Contains stale year references: 2024"
     },
     {
       "path": "sectors/clothing-fashion/bd-market/README.md",

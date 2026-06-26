@@ -2,8 +2,8 @@
 sector: crypto-bitcoin
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.739
-evidence_ids: ['898dc6c4-b60', '1d36b638-4b5', '994f44e0-fe6', '88102d55-59a', 'b9a5baf8-e29', '39cc1377-536', 'e7473acf-1f7', 'd993d9ae-578', '9090ec5c-49c']
+confidence: 0.738
+evidence_ids: ['6865a10c-bd3', '3dcaa6cf-d4c', '40063931-8a7', '7cc0970e-3b8', '927cf308-408', '6f0deca5-ff6', 'df83aec2-9dd', '337ad3f1-38c', 'd9a39c9c-a7a', '067df404-cad']
 ---
 
 # Crypto & Bitcoin — Bangladesh Market
@@ -88,22 +88,23 @@ evidence_ids: ['898dc6c4-b60', '1d36b638-4b5', '994f44e0-fe6', '88102d55-59a', '
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ['bKash', 'Nagad'] | search | 0.95 |
-| BDT | search | 0.95 |
-| ['BDT P2P liquidity', 'low fees', 'platform reliability'] | search | 0.90 |
-| BDT | search | 0.95 |
-| local payment methods | search | 0.90 |
-| ['fees', 'supported coins', 'leverage', 'safety'] | search | 0.95 |
-| 3 million | search | 0.95 |
-| 35 | search | 0.95 |
-| total ban | search | 0.90 |
-| stablecoin remittance | search | 0.90 |
-| 775 | search | 0.95 |
-| IT | search | 0.95 |
-| Dhaka, Bangladesh | search | 0.90 |
-| cryptocurrency trading | search | 0.95 |
-| educational (emotional trading avoidance) | search | 0.90 |
+| Bangladesh residents can buy and sell popular cryptocurrencies | search | 0.90 |
+| Augur betting, buying and selling cryptocurrencies | search | 0.80 |
+| Bangladesh residents need to open a cryptocurrency trading account with a Bangla | search | 0.95 |
+| ['SanzidTech', 'cryptohossain', 'Invest2.Profit', 'EarningRashu', 'Johire786'] | search | 0.95 |
+| YouTube | search | 1.00 |
+| 2026-06 | search | 0.90 |
+| not legalized but no outright ban | search | 0.95 |
+| volatility warning by regulators | search | 0.90 |
+| Bangladesh Bank | search | 1.00 |
+| EmpireCryptoData | search | 0.80 |
+| CryptoBangladesh | search | 1.00 |
+| @watchoutlol | search | 1.00 |
+| 311 | search | 0.95 |
+| 13 | search | 0.95 |
+| dynamic and growing ecosystem of individuals, enthusiasts, and experts actively  | search | 0.90 |

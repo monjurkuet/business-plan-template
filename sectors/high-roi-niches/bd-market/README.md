@@ -2,8 +2,8 @@
 sector: high-roi-niches
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.74
-evidence_ids: ['42bd44a9-d91', 'd46fb530-4e1', 'c77e267d-91e']
+confidence: 0.635
+evidence_ids: ['21254c86-cb3']
 ---
 
 # High-ROI Niches — Bangladesh Market
@@ -93,17 +93,12 @@ This sector captures high-growth, high-margin niche opportunities in Bangladesh.
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Syrian Hamster | search | 0.95 |
-| Bangladesh | search | 0.95 |
-| pet care | search | 0.90 |
-| PetZone BD | search | 0.95 |
-| petzonebd.com | search | 0.95 |
-| pet care | search | 0.90 |
-| Dog neutering campaign | search | 0.95 |
-| Pet Care Bangladesh | search | 0.95 |
+| PetCare Bangladesh | search | 0.90 |
 | MH Imran | search | 0.90 |
-| Managing Director of Pet Care Bangladesh | search | 0.90 |
+| Managing Director | search | 0.90 |
+| Bangladesh Veterinary and Pet Care Network (BVPN) | search | 0.90 |

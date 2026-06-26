@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-26T09:04:51.439195+00:00",
+  "generated_at": "2026-06-26T10:39:30.148672+00:00",
   "summary": {
     "files_checked": 159,
-    "violations": 225,
+    "violations": 223,
     "warnings": 0
   },
   "violations": [
@@ -315,16 +315,6 @@
       "file": "sectors/bim-global-outreach/bd-market/competitors/truecadd.md",
       "type": "missing_field",
       "detail": "Missing required field: confidence"
-    },
-    {
-      "file": "sectors/bim-global-outreach/bd-market/competitors/virtual-building-studio.md",
-      "type": "missing_field",
-      "detail": "Missing required field: last_verified"
-    },
-    {
-      "file": "sectors/bim-global-outreach/bd-market/competitors/virtual-building-studio.md",
-      "type": "missing_field",
-      "detail": "Missing required field: freshness"
     },
     {
       "file": "sectors/bim-global-outreach/bd-market/competitors/virtual-building-studio.md",
