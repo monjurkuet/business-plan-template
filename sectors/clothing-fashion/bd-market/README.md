@@ -1,9 +1,9 @@
 ---
 sector: clothing-fashion
-last_verified: 2026-06-26
+last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.75
-evidence_ids: ['002288d6-813', '4cdd0450-d7d', '1961b126-13a', '27b1e289-8cf', 'c23c370a-3f1']
+confidence: 0.74
+evidence_ids: ['fcdc78fd-c44', '8885c14f-550', 'a90b7b30-5cc', '37e6dbf4-19b', '0839d87f-bb4', 'a86df45d-84e', '17affab6-09b', 'aacb6aaa-8f0']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -112,22 +112,23 @@ evidence_ids: ['002288d6-813', '4cdd0450-d7d', '1961b126-13a', '27b1e289-8cf', '
 
 
 
-## Auto-Updated Data (2026-06-26)
+
+## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| baggy pants | search | 1.00 |
-| limited stock available for fast delivery across the country | search | 1.00 |
-| 11.11 Global Shopping Festival, Anniversary Sale, Summer Sale | search | 1.00 |
-| lower prices for shipping to Bangladesh | search | 1.00 |
-| jacket | search | 1.00 |
-| 2025 | search | 1.00 |
-| premium quality, durable materials, competitive pricing | search | 1.00 |
-| top-rated suppliers, custom options, wholesale deals | search | 1.00 |
-| SiATEX Global | search | 1.00 |
-| one of the most trusted and reliable clothing manufacturers in Bangladesh | search | 1.00 |
-| custom apparel | search | 1.00 |
-| best factory prices | search | 1.00 |
-| highest-quality | search | 1.00 |
-| luxury clothing | search | 1.00 |
-| 2 | search | 1.00 |
+| 300 COTTON TERRY CLOTH CLEANING RAGS / SHOP TOWELS / 12X12- 25 DOZ. / WHOLESALE | search | 0.90 |
+| RD style women black dress warm size M Knitted Made In Bangladesh | search | 0.90 |
+| Baggy Pants | search | 0.90 |
+| affordable | search | 0.80 |
+| boys, youth | search | 0.90 |
+| all over Bangladesh | search | 0.90 |
+| two-piece dresses | search | 0.90 |
+| affordable | search | 0.80 |
+| custom apparel (T-shirts) | search | 0.90 |
+| best factory prices | search | 0.80 |
+| trusted and reliable clothing manufacturer in Bangladesh | search | 0.90 |
+| 299 | search | 1.00 |
+| Premium Summer T-shirt | search | 1.00 |
+| 3 | search | 1.00 |
+| ['M', 'L', 'XL', 'XXL'] | search | 1.00 |

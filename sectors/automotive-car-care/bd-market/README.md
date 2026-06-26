@@ -1,9 +1,9 @@
 ---
 sector: automotive-car-care
-last_verified: 2026-06-26
+last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.637
-evidence_ids: ['679a577d-aab']
+confidence: 0.75
+evidence_ids: ['4a11dac5-3ce', '699e2e01-d71', '3ecde7af-f87']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -128,12 +128,23 @@ evidence_ids: ['679a577d-aab']
 
 
 
-## Auto-Updated Data (2026-06-26)
+
+## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 4519 | search | 0.90 |
-| 36 | search | 0.90 |
-| 17 | search | 0.90 |
-| ['car care products', 'spray paint', 'special coating', 'industrial cleaning', ' | search | 0.95 |
-| Guangzhou, China | search | 0.90 |
+| Car Care Bangladesh | search | 1.00 |
+| Premium Car Detailing Service | search | 1.00 |
+| ['Ceramic Coating', 'Polish', 'Deep Clean'] | search | 1.00 |
+| Home Service in Dhaka | search | 1.00 |
+| WhatsApp | search | 1.00 |
+| +88018920898735 | search | 1.00 |
+| @carcarebangladesh | search | 1.00 |
+| Instagram | search | 1.00 |
+| 27 | search | 1.00 |
+| 186 | search | 1.00 |
+| 8 | search | 1.00 |
+| Car Care | search | 1.00 |
+| Dhaka, Bangladesh | search | 1.00 |
+| Facebook | search | 1.00 |
+| 127 | search | 1.00 |

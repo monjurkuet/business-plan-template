@@ -1,9 +1,9 @@
 ---
 sector: bim-global-outreach
-last_verified: 2026-06-26
+last_verified: 2026-06-27
 freshness: fresh
 confidence: 0.743
-evidence_ids: ['6f296c8d-ff0', '19acb3f5-32c', '00c39c1e-dd3', '9fdaf32b-6c8', '70a34f2b-2f8', '6e1859a3-216', 'bed88a42-b6a', 'cbb5694e-9fc', '9110adea-417']
+evidence_ids: ['69960160-da6', 'ae5783cb-25d', 'f15632c4-1d5', '79ada123-e4c', '70823c1c-4bb', '0f822a11-666', '1143bd0b-82c', '63c9521c-b27']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -117,22 +117,23 @@ evidence_ids: ['6f296c8d-ff0', '19acb3f5-32c', '00c39c1e-dd3', '9fdaf32b-6c8', '
 
 
 
-## Auto-Updated Data (2026-06-26)
+
+## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Bangladesh Public Procurement Authority (BPPA) | search | 1.00 |
-| public procurement policy, regulations, and e-GP systems | search | 1.00 |
-| ensure transparent and efficient procurement in Bangladesh | search | 1.00 |
-| 2026-04-05 | search | 0.90 |
-| foreign investment regulations in Bangladesh | search | 1.00 |
-| Tahmidur Rahman Remura Wahid (TRW) Law Firm | search | 1.00 |
-| legal framework, procedures, and practical advice | search | 1.00 |
-| 14 | search | 1.00 |
-| USA | search | 1.00 |
-| 2026 | search | 1.00 |
-| transforming the construction industry, making projects more efficient and cost- | search | 1.00 |
-| Personal Data Protection Ordinance 2025 | search | 1.00 |
-| 2025 | search | 0.90 |
-| 2026-02 | search | 0.90 |
-| 2027-05 | search | 0.90 |
+| 600 | search | 0.90 |
+| Small residential project starts around $600 | search | 0.95 |
+| 2026-04-23 | search | 0.95 |
+| 2026-01-12 | search | 1.00 |
+| 2025-01-12 | search | 1.00 |
+| Scan to BIM outsourcing | search | 1.00 |
+| BIMBOSS | search | 1.00 |
+| BIM outsourcing consulting | search | 1.00 |
+| ['USA', 'UK', 'India'] | search | 1.00 |
+| ['contractors', 'engineering design firms', 'architects'] | search | 1.00 |
+| National Budget | search | 0.95 |
+| 2026–27 | search | 0.95 |
+| 2026-06-14 | search | 0.95 |
+| fiscal policy, revenue plans, development spending, economic impact | search | 0.90 |
+| BIM outsourcing has become an essential practice in the AEC industry in the Unit | search | 0.95 |

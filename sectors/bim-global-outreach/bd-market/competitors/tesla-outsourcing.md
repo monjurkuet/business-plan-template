@@ -1,6 +1,6 @@
 ---
 sector: bim-global-outreach
-last_verified: 2026-06-26
+last_verified: 2026-06-27
 freshness: fresh
 ---
 
@@ -97,14 +97,15 @@ freshness: fresh
 
 
 
-## Recent Findings (2026-06-26)
 
-- **www.bppa.gov.bd** (conf: 0.75): Apr 5,2026·BPPA is the national authority responsible for public procurement policy,regulations, and e-GP systems to ensure transparent and efficient procurement inBangladesh.
+## Recent Findings (2026-06-27)
 
-- **tahmidurrahman.com** (conf: 0.75): 1 day ago ·Comprehensive guide to foreign investmentregulationsinBangladeshinBangladesh. Expert legal analysis by Tahmidur Rahman Remura Wahid (TRW) Law Firm covering legal framework, procedures, and 
+- **bimoffis.com** (conf: 0.74): BIMOutsourcingServices Cost inUSA: What You Should Really Expect to Pay. BimOffis. April 23,2026.How much doesBIMoutsourcingcost in theUSA? Depends on project size. Small residential starts around $60
 
-- **www.powerkh.com** (conf: 0.75): Feb 25, 2025 ·14 Best Companies for BIM Outsourcing in the USA (2026) Building Information Modeling (BIM) is transforming the construction industry, making projects more efficient and cost-effective. 
+- **freead1.net** (conf: 0.75): valid until: 12 Jan2026date published: 12 Jan 2025.In building and remodeling projects,outsourcingguarantees accurate, high-qualityBIMmodels that are customized to project requirements, improving team
 
-- **www.recordinglaw.com** (conf: 0.74): Mar 21,2026·Bangladeshenacted its first comprehensive data protection law, the Personal Data Protection Ordinance 2025. Learn about data subject rights, localization rules, the February2026amendment, 
+- **www.slideshare.net** (conf: 0.75): BIMBOSS is a leadingBIMoutsourcingcompany providing consulting services to contractors, engineering design firms, and architects in theUSA, UK India. - Download as a PDF or view online for free.
 
-- **bimoffis.com** (conf: 0.74): So let us actually talk numbers. Why American Firms AreOutsourcingBIMWork Right Now. The skilled labor shortage in the US AEC industry is real and it has been building for years. Finding a Revit techn
+- **www.thedailystar.net** (conf: 0.74): Jun 14,2026·Latest updates, analysis, and news on theBangladeshNational Budget2026–27 (FY27), including fiscalpolicy, revenue plans, development spending, and economic impact insights.
+
+- **www.bimprous.com** (conf: 0.74): Mar 13, 2025 ·Building Information Modeling (BIM)outsourcinghas become an essential practice in the architectural, engineering, and construction (AEC) industry in the United States. With the rapid ado

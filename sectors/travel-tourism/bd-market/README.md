@@ -1,9 +1,9 @@
 ---
 sector: travel-tourism
-last_verified: 2026-06-26
+last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.733
-evidence_ids: ['7e97c11a-219', 'f81ce2e1-78c', 'ba24b816-d8a', 'ad7225ac-98b']
+confidence: 0.732
+evidence_ids: ['7be6ee43-0bb', '39f0d5d1-078', '5573d7b1-a9f', '57a83370-426']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -79,15 +79,15 @@ evidence_ids: ['7e97c11a-219', 'f81ce2e1-78c', 'ba24b816-d8a', 'ad7225ac-98b']
 
 
 
-## Auto-Updated Data (2026-06-26)
+
+## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| affordable tour packages, air tickets, and visa support | search | 0.90 |
-| trusted travel services across Bangladesh | search | 0.90 |
-| study abroad, visa services & cheap air tickets | search | 0.90 |
-| ['UK', 'Canada', 'Russia', 'USA'] | search | 0.90 |
-| preparing a secure digital platform for professional travel services | search | 0.90 |
-| registered Bangladesh travel agency | search | 0.90 |
-| idea and suggestion to travel in different places in Bangladesh, trip planning | search | 0.90 |
-| very cheap costing or as luxurious as you want | search | 0.80 |
+| affordable journey | search | 0.80 |
+| affordable prices | search | 0.90 |
+| 2017 | search | 0.95 |
+| IATA-certified | search | 0.95 |
+| air tickets, hotels, tour packages | search | 0.90 |
+| best rates, hassle-free travel solutions, seamless booking, exceptional value | search | 0.90 |
+| domestic and international tour packages, air ticket booking, visa assistance, h | search | 0.90 |

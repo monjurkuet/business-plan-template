@@ -1,9 +1,9 @@
 ---
 sector: jewellery
-last_verified: 2026-06-26
+last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.734
-evidence_ids: ['d7100a11-abe', 'b31c33c4-170', 'c491d7d4-fc1']
+confidence: 0.733
+evidence_ids: ['8faa6e19-b84', '9fb6c520-9ea', '613c44bf-26c', '3924ddfe-b1e']
 ---
 
 # Jewellery — Bangladesh Market
@@ -90,14 +90,15 @@ evidence_ids: ['d7100a11-abe', 'b31c33c4-170', 'c491d7d4-fc1']
 
 
 
-## Auto-Updated Data (2026-06-26)
+
+## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Love Pearl Necklace Gift Box Freshwater Pearl Jewelry | search | 0.90 |
-| Pearl Necklace Set | search | 0.90 |
-| women | search | 0.90 |
-| 2025 | search | 0.80 |
-| ['pendant necklaces', 'statement necklaces', 'choker necklaces'] | search | 0.90 |
-| Red Gold | search | 0.90 |
-| ['verified suppliers', 'purity check', 'secure shopping', 'AR try-on', 'lifetime | search | 0.90 |
+| Fashion Jewellery | search | 0.90 |
+| 200-3000 | search | 0.95 |
+| daily and festive wear | search | 0.90 |
+| Gold price changes impact all gold jewellers in Bangladesh, including ornaments  | search | 0.90 |
+| affordable | search | 0.80 |
+| best price when buying gold from customers | search | 0.90 |
+| online jewellery shop pioneer in Bangladesh | search | 0.95 |

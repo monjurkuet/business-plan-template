@@ -1,9 +1,9 @@
 ---
 sector: crypto-bitcoin
-last_verified: 2026-06-26
+last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.735
-evidence_ids: ['5a320809-cf7', '0df50457-14c', 'b7714dcf-4ed', '0aae6c1b-918', '1d16720e-84e']
+confidence: 0.748
+evidence_ids: ['f09c2deb-4d2', 'd3891b2a-b38', '5fe52e44-b2f', 'fae7423f-345', 'ac6c0f3e-e27', '2bd194e2-723', '33c7b901-67e', '8d0111fa-7cd', 'fed72f9f-563', '3dd59bf1-28d']
 ---
 
 # Crypto & Bitcoin — Bangladesh Market
@@ -93,18 +93,23 @@ evidence_ids: ['5a320809-cf7', '0df50457-14c', 'b7714dcf-4ed', '0aae6c1b-918', '
 
 
 
-## Auto-Updated Data (2026-06-26)
+
+## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| buy Tezos in Bangladesh | search | 0.95 |
-| legal (with warnings) | search | 0.80 |
-| ['SanzidTech', 'cryptohossain', 'Invest2.Profit', 'EarningRashu', 'Johire786'] | search | 0.95 |
-| 2026-06 | search | 0.90 |
-| not legalized but not banned | search | 0.95 |
-| Bangladesh Bank | search | 0.95 |
-| ['volatility'] | search | 0.90 |
-| EmpireCryptoData | search | 0.80 |
-| open a Bangladesh cryptocurrency trading account with a Bangladesh cryptocurrenc | search | 0.95 |
-| Top 5 crypto wallets (unspecified names) | search | 0.80 |
-| Dhaka, Bangladesh | search | 0.90 |
+| 36 | search | 1.00 |
+| ['Mineable', 'SafePaytm', 'Keystore'] | search | 1.00 |
+| Cryptocurrencies | search | 1.00 |
+| Recursion FinTech Limited (RFTL) | search | 1.00 |
+| e-wallet application 'CashBaba' | search | 1.00 |
+| Circle FinTech Ltd | search | 1.00 |
+| Connect Open Banking Platform | search | 1.00 |
+| 32 | search | 0.90 |
+| 46 | search | 1.00 |
+| ['thinkcrypt.io', 'Anchorblock Technology'] | search | 1.00 |
+| Crypto Mining | search | 1.00 |
+| 20+ | search | 0.90 |
+| ['Ontik Technology', 'W3 Engineers Ltd'] | search | 1.00 |
+| Blockchain | search | 1.00 |
+| 2009 | search | 1.00 |

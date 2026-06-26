@@ -1,9 +1,9 @@
 ---
 sector: electronics-gadgets
-last_verified: 2026-06-26
+last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.735
-evidence_ids: ['68450026-96c', '9e45b182-225', 'bd7b89e8-2a2', 'f5c4c40b-fbd', 'a06e447d-88d']
+confidence: 0.75
+evidence_ids: ['f6974894-7b6', 'ebc87529-c4e', 'cd3bbfa5-03b', '80567487-a75']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -100,18 +100,18 @@ evidence_ids: ['68450026-96c', '9e45b182-225', 'bd7b89e8-2a2', 'f5c4c40b-fbd', '
 
 
 
-## Auto-Updated Data (2026-06-26)
+
+## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ['ACs', 'refrigerators', 'washing machines', 'smart TVs', 'ovens'] | search | 0.90 |
-| ['official warranty', 'EMI facilities', 'fast home delivery'] | search | 0.90 |
-| online shopping platform | search | 0.90 |
-| Original Electronic Appliances | search | 0.90 |
-| multi-brand electronics retailer | search | 0.90 |
-| ['official warranty', '0% EMI', '16 superstores nationwide'] | search | 0.90 |
-| one-stop shop for electronic and electrical products | search | 0.90 |
-| 51734 | search | 0.90 |
-| 8783 | search | 0.90 |
-| 5 | search | 0.90 |
-| ['TVs', 'fridges', 'ACs'] | search | 0.95 |
+| ['smartphones', 'gadgets', 'home appliances'] | search | 1.00 |
+| ['Samsung', 'Xiaomi', 'OnePlus', 'Vivo', 'HONOR', 'Infinix', 'Tecno'] | search | 1.00 |
+| 100% genuine with official warranty | search | 1.00 |
+| ['TVs', 'home appliances'] | search | 1.00 |
+| ['energy-efficient', 'convenient', 'durable'] | search | 1.00 |
+| 2026-04-06 | search | 1.00 |
+| ['TVs', 'fridges', 'ACs'] | search | 1.00 |
+| mobile phones | search | 1.00 |
+| 14699-31899 | search | 1.00 |
+| 2026 | search | 1.00 |

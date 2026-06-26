@@ -1,9 +1,9 @@
 ---
 sector: high-roi-niches
-last_verified: 2026-06-26
+last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.737
-evidence_ids: ['aab62240-1a0', '49fddaa6-ce0', '623f3e94-746']
+confidence: 0.71
+evidence_ids: ['d2268feb-522', '9eaaba61-adb']
 ---
 
 # High-ROI Niches — Bangladesh Market
@@ -98,17 +98,19 @@ This sector captures high-growth, high-margin niche opportunities in Bangladesh.
 
 
 
-## Auto-Updated Data (2026-06-26)
+
+## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| HIT LIFE cat food | search | 0.90 |
-| grain-free cat food | search | 0.90 |
-| cat food price, cat adoption cost | search | 0.80 |
-| pet care Bangladesh | search | 0.95 |
-| eldercarebd.com | search | 0.95 |
-| SeniorCare Bangladesh, home cleaning service, event planner | search | 0.90 |
-| PetCare Bangladesh | search | 0.95 |
-| MH Imran | search | 0.90 |
-| Managing Director | search | 0.90 |
-| Bangladesh Veterinary and Pet Care Network (BVPN) | search | 0.95 |
+| Paw Care | search | 1.00 |
+| Pet Shop | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| ['pet products', 'food', 'toys', 'accessories'] | search | 1.00 |
+| ['Fast delivery', 'affordable prices', 'top-notch customer service'] | search | 1.00 |
+| Daraz | search | 1.00 |
+| Online Pet Shop | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| pet supplies | search | 1.00 |
+| ['Aquisan Bangladesh Pet Care', 'Pet Town BD', 'Pet Lover BD', 'Posha Ghor'] | search | 1.00 |
+| ['home delivery'] | search | 1.00 |

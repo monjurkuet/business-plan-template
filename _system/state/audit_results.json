@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T16:53:52.528219+00:00",
-  "total_files": 445,
+  "generated_at": "2026-06-26T18:28:20.449973+00:00",
+  "total_files": 446,
   "sectors_audited": 9,
   "all_missing_files": [
     "bim-global-outreach/seasonality.md"
@@ -11,8 +11,8 @@
     "bim-global-outreach: 2024",
     "clothing-fashion: 2023",
     "clothing-fashion: 2024",
-    "crypto-bitcoin: 2024",
     "crypto-bitcoin: 2023",
+    "crypto-bitcoin: 2024",
     "electronics-gadgets: 2023",
     "electronics-gadgets: 2024",
     "high-roi-niches: 2023",
@@ -115,8 +115,8 @@
       ],
       "missing_files": [],
       "stale_references": [
-        "2024",
-        "2023"
+        "2023",
+        "2024"
       ],
       "frontmatter_missing": [],
       "competitor_count": 11,
