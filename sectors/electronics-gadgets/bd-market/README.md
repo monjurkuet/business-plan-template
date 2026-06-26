@@ -2,8 +2,8 @@
 sector: electronics-gadgets
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.739
-evidence_ids: ['677372ed-236', '6796aa38-81c', '369e2099-685', '71fcdf57-7e6', '61759d34-075', 'f4bbca0d-0f4', 'f88affa3-a31', '529df43f-9f1', '066a5ada-c6d']
+confidence: 0.745
+evidence_ids: ['893c0e39-7ed', 'f3fc0b82-a5d', 'd41162dd-9d5', 'a495e5ba-cbf', 'bc757be2-62e']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -98,22 +98,23 @@ evidence_ids: ['677372ed-236', '6796aa38-81c', '369e2099-685', '71fcdf57-7e6', '
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| home_appliances | search | 0.95 |
-| unbeatable_prices | search | 0.80 |
-| official_warranty_EMI_fast_delivery | search | 0.90 |
-| authorized_multi-brand_electronics_retailer | search | 0.95 |
-| authentic_products_official_warranty_0%_EMI_16_superstores | search | 0.90 |
-| highest_rated | search | 0.90 |
-| premium | search | 0.90 |
-| seamless | search | 0.85 |
-| 51734 | search | 0.95 |
-| 8783 | search | 0.95 |
-| 5 | search | 0.90 |
-| TVs_fridges_ACs | search | 0.95 |
-| ElectronicsBangladesh | search | 1.00 |
-| 51734 | search | 0.95 |
-| 8783 | search | 0.95 |
+| E-Commerce shop for electronics | search | 0.95 |
+| ACs, refrigerators, washing machines, smart TVs, ovens | search | 0.90 |
+| official warranty, EMI facilities, fast home delivery | search | 0.90 |
+| consumer electronics online shopping platform | search | 0.95 |
+| one of the highest rated and most trusted | search | 0.90 |
+| premium quality products | search | 0.90 |
+| Original Electronic Appliances | search | 0.90 |
+| authorized multi-brand electronics retailer | search | 1.00 |
+| official warranty | search | 1.00 |
+| 0% EMI | search | 1.00 |
+| 16 | search | 1.00 |
+| nationwide | search | 1.00 |
+| one-stop shop for electronic and electrical products | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| Electronics Bangladesh | search | 1.00 |

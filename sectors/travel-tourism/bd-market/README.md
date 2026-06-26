@@ -2,8 +2,8 @@
 sector: travel-tourism
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.698
-evidence_ids: ['d650fb6b-f19', 'c73ece92-6dc']
+confidence: 0.688
+evidence_ids: ['84f756d5-fe3', '60d1af23-8dd']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -77,11 +77,12 @@ evidence_ids: ['d650fb6b-f19', 'c73ece92-6dc']
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| IATA-certified | search | 0.95 |
+| IATA-certified travel agency offering flights, visas, tours, and support | search | 0.90 |
 | 2017 | search | 0.95 |
-| affordable prices | search | 0.90 |
-| affordable journey | search | 0.90 |
+| affordable prices | search | 0.85 |
+| affordable journey | search | 0.80 |

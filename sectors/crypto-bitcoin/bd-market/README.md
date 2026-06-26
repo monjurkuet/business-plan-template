@@ -2,8 +2,8 @@
 sector: crypto-bitcoin
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.738
-evidence_ids: ['0e33f66c-325', '43b15168-a24', '9365f4bc-c1d', '15943d69-0f5', 'b9bbd27f-bae', 'bf011e0b-040', 'd7b5e7ad-e06', 'b406de40-0fe', '5c2f3b43-c1a']
+confidence: 0.743
+evidence_ids: ['e2ab515a-5ce', 'c346ee11-db4', '4199d99a-bbd', 'cb7dd846-c79', '31894825-a3a', '7ceda3e1-736', 'd20bc01d-a6c', '33c64a3a-fe5', 'fb780684-361', 'b31ab874-562']
 ---
 
 # Crypto & Bitcoin — Bangladesh Market
@@ -91,22 +91,23 @@ evidence_ids: ['0e33f66c-325', '43b15168-a24', '9365f4bc-c1d', '15943d69-0f5', '
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| BDT P2P liquidity, bKash and Nagad support, low fees, platform reliability | search | 0.90 |
+| 36 | search | 0.95 |
+| ['Mineable', 'SafePaytm', 'Keystore'] | search | 0.95 |
+| Cryptocurrencies | search | 0.95 |
+| 32 | search | 0.95 |
+| Recursion FinTech Limited (RFTL) | search | 0.95 |
+| e-wallet application 'CashBaba' | search | 0.95 |
+| Circle FinTech Ltd | search | 0.95 |
+| Connect Open Banking Platform | search | 0.95 |
+| payment solutions, financial services, financial inclusion | search | 0.90 |
+| ['thinkcrypt.io', 'Anchorblock Technology'] | search | 0.95 |
+| crypto-mining | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| Interactive Brokers | search | 1.00 |
+| {'low_crypto_fees': True, 'limited_coins': True, 'no_crypto_wallet': True} | search | 0.95 |
 | 2026 | search | 1.00 |
-| fees, supported coins, leverage, safety | search | 0.90 |
-| 2026-06-10 | search | 1.00 |
-| buy, sell, trade Bitcoin and altcoins using BDT and local payment methods | search | 0.90 |
-| over 3 million | search | 0.95 |
-| 35 | search | 1.00 |
-| total ban | search | 0.90 |
-| stablecoin remittance | search | 0.90 |
-| 2025 | search | 1.00 |
-| 35 | search | 1.00 |
-| banned in practice, not legally recognised | search | 0.95 |
-| 2025 | search | 0.90 |
-| available in Dhaka, Bangladesh | search | 0.90 |
-| emotional trading in cryptocurrency | search | 0.90 |

@@ -2,8 +2,8 @@
 sector: jewellery
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.738
-evidence_ids: ['7b7e89b2-2f6', 'a06e943c-b4b', 'c0199c38-1e4', 'ddcb3cfa-39d', 'e7b952d4-6ad']
+confidence: 0.735
+evidence_ids: ['3fbed0ee-4b4', 'cc44f6cb-191', 'ff7b4b63-b50', '6b9874dc-611']
 ---
 
 # Jewellery — Bangladesh Market
@@ -88,19 +88,17 @@ evidence_ids: ['7b7e89b2-2f6', 'a06e943c-b4b', 'c0199c38-1e4', 'ddcb3cfa-39d', '
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 200-3000 | search | 0.95 |
-| fashion jewellery | search | 0.95 |
-| fluctuates daily based on market | search | 0.90 |
-| gold jewellery | search | 0.95 |
-| ['churi', 'chain', 'gold bracelet'] | search | 0.90 |
-| ['necklaces', 'earrings', 'bracelets', 'rings'] | search | 0.95 |
-| trendy, elegant, and premium designs | search | 0.90 |
-| affordable | search | 0.90 |
-| most trusted jewellery shop | search | 0.90 |
-| best price for buying gold | search | 0.90 |
-| online jewellery shopping | search | 0.95 |
-| first online jewellery shop in Bangladesh | search | 0.90 |
+| Love Pearl Necklace Gift Box Freshwater Pearl Jewelry | search | 0.90 |
+| Pearl Necklace Set | search | 0.90 |
+| women | search | 0.90 |
+| Bangladeshi Red Gold | search | 0.95 |
+| verified suppliers, purity check, secure shopping, AR try-on, lifetime buyback | search | 0.90 |
+| Bangladesh | search | 0.95 |
+| finest gold, silver, and gemstones | search | 0.90 |
+| Cultural heritage, centuries-old jewellery-making traditions, artistry, premium  | search | 0.90 |
+| Wedding Jewellery Bangladesh, Wedding Stage Decoration | search | 0.85 |

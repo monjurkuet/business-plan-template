@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-06-26
 freshness: fresh
-confidence: 0.742
-evidence_ids: ['f7ae7729-e93', '8be8ef7b-b86', '15fe950f-849', 'fb920586-55d']
+confidence: 0.731
+evidence_ids: ['ffa832a5-c3e', 'f3e1eafe-856', '7b5e29ae-442', '52523025-611', '4206e9ea-fda']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -110,17 +110,18 @@ evidence_ids: ['f7ae7729-e93', '8be8ef7b-b86', '15fe950f-849', 'fb920586-55d']
 
 
 
+
 ## Auto-Updated Data (2026-06-26)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| free shipping, fast delivery, free return | search | 0.90 |
-| jacket | search | 1.00 |
-| premium quality, durable materials, competitive pricing | search | 0.90 |
-| 2025 | search | 1.00 |
-| T-shirt | search | 1.00 |
-| trusted and reliable clothing manufacturer in Bangladesh | search | 0.95 |
-| best factory prices, highest-quality custom apparel | search | 0.90 |
-| luxury clothing | search | 1.00 |
-| Black Aura – Black & Cream Polka Dot Luxury Pret 3-Piece | search | 1.00 |
-| popularity, average rating, latest, price: low to high, price: high to low | search | 0.90 |
+| 300 COTTON TERRY CLOTH CLEANING RAGS / SHOP TOWELS / 12X12- 25 DOZ. / WHOLESALE | search | 0.90 |
+| RD style women black dress warm size M Knitted Made In Bangladesh | search | 0.90 |
+| baggy pants | search | 0.90 |
+| Limited stock available for fast delivery across Bangladesh | search | 0.80 |
+| ['11.11 Global Shopping Festival', 'Anniversary Sale', 'Summer Sale'] | search | 0.90 |
+| Bangladesh | search | 0.90 |
+| ['t-shirts', 'polo shirts', 'casual shirts', 'summer wear'] | search | 0.90 |
+| fast delivery across Bangladesh | search | 0.80 |
+| women's three-piece sets | search | 0.90 |
+| wholesale | search | 0.80 |
