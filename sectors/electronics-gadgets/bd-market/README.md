@@ -2,8 +2,8 @@
 sector: electronics-gadgets
 last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.74
-evidence_ids: ['3b265fe2-c60', '6ca64a67-63d', 'abfaaa54-d11', 'bf5c1b5d-de6', '1f55efc0-cec', 'edf6305b-b75']
+confidence: 0.735
+evidence_ids: ['3dce2d6e-f3c', 'd8f05c1b-8b2', 'bd2096c3-d06', '2d38fa0d-268']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -105,22 +105,22 @@ evidence_ids: ['3b265fe2-c60', '6ca64a67-63d', 'abfaaa54-d11', 'bf5c1b5d-de6', '
 
 
 
+
 ## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ['ACs', 'refrigerators', 'washing machines', 'smart TVs', 'ovens'] | search | 0.95 |
-| ['official warranty', 'EMI facilities', 'fast home delivery'] | search | 0.95 |
-| one of the highest rated and most trusted consumer electronics online shopping p | search | 0.95 |
-| premium quality products | search | 0.90 |
-| ['seamless online shopping experience', 'purchase of original electronic applian | search | 0.90 |
-| authorized multi-brand electronics retailer | search | 0.95 |
-| ['official warranty', '0% EMI', '16 superstores nationwide'] | search | 0.95 |
-| authentic products | search | 0.95 |
-| one-stop shop to get all kinds of electronic and electrical products in Banglade | search | 0.95 |
+| TCL TV | search | 0.95 |
+| 25500-102900 | search | 0.95 |
+| Bangladesh | search | 0.95 |
 | Electronics Bangladesh | search | 0.95 |
-| 51734 | search | 0.95 |
-| 8783 | search | 0.95 |
-| 5 | search | 0.95 |
-| ['TVs', 'fridges', 'ACs'] | search | 0.95 |
-| ['electronics'] | search | 0.90 |
+| Gadgets & Premium Accessories | search | 0.90 |
+| Free Shipping | search | 0.90 |
+| 0৳ - 0৳ | search | 0.80 |
+| 1 in stock, 1 on discount | search | 0.80 |
+| 2026-02-06 | search | 0.90 |
+| 01719117333 | search | 0.95 |
+| 100% Authentic & Quality Products as an Authorized Shop | search | 0.90 |
+| 15.00 | search | 0.80 |
+| BRANDS MEGA LTD | search | 0.95 |
+| Navana Tower (Level-18) 45 Gulshan Avenue, Gulshan-1 Dhaka -1212, Bangladesh | search | 0.90 |

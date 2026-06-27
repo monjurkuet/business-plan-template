@@ -3,7 +3,7 @@ sector: crypto-bitcoin
 last_verified: 2026-06-27
 freshness: fresh
 confidence: 0.742
-evidence_ids: ['ebaedbcf-258', 'bddedac3-4e4', '079b859b-ddb', '3cbe1178-d2a', 'cb118a0f-2c8', '7d31cd08-b82', 'eb9b331a-262', '94701be9-3cd', '0cbface8-7d8', 'f3065a89-68c']
+evidence_ids: ['b95c26f3-6aa', 'c51ec8dc-045', '47b95902-0e7', '863ebc91-060', '69a8945e-d5b', 'e46c6aad-ec2']
 ---
 
 # Crypto & Bitcoin — Bangladesh Market
@@ -98,22 +98,23 @@ evidence_ids: ['ebaedbcf-258', 'bddedac3-4e4', '079b859b-ddb', '3cbe1178-d2a', '
 
 
 
+
 ## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| BDT P2P liquidity, bKash and Nagad support, low fees, platform reliability | search | 0.95 |
-| 2026 | search | 1.00 |
-| buy, sell, and trade Bitcoin and altcoins | search | 0.95 |
-| BDT and local payment methods | search | 0.95 |
-| 2026 | search | 1.00 |
-| fees, supported coins, leverage, safety | search | 0.95 |
-| 2026 | search | 1.00 |
-| over 3 million | search | 0.95 |
-| 35th | search | 0.95 |
-| total ban | search | 0.95 |
-| 2025 | search | 1.00 |
-| 775 | search | 0.95 |
-| IT | search | 1.00 |
-| 2026 | search | 1.00 |
-| Bangladesh Crypto Community | search | 0.95 |
+| 36 | search | 0.95 |
+| ['Mineable', 'SafePaytm', 'Keystore'] | search | 0.95 |
+| 32 | search | 0.95 |
+| {'name': 'Recursion FinTech Limited (RFTL)', 'service': "e-wallet application 'C | search | 0.95 |
+| {'name': 'Circle FinTech Ltd', 'service': 'payment solutions and financial servi | search | 0.95 |
+| 46 | search | 0.95 |
+| ['thinkcrypt.io', 'Anchorblock Technology'] | search | 0.95 |
+| 20 | search | 0.90 |
+| {'name': 'Ontik Technology', 'service': 'high-quality software solutions', 'sect | search | 0.95 |
+| {'name': 'W3 Engineers Ltd', 'service': 'software solutions', 'location': 'Khuln | search | 0.95 |
+| Interactive Brokers | search | 0.95 |
+| {'low_fees': True, 'limited_coins': True, 'crypto_wallet': False} | search | 0.95 |
+| 2026-05-06 | search | 0.95 |
+| strict restrictions | search | 0.95 |
+| demand continues through global platforms that accept BDT deposits | search | 0.95 |

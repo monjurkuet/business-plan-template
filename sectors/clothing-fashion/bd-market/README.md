@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.742
-evidence_ids: ['fda105d9-38a', '06264fc5-5b1', '7a2369bd-22a', '8b78e60b-ba3', 'ad966fca-d5d']
+confidence: 0.7
+evidence_ids: ['eb7b049d-b09', '47519a12-796']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -117,19 +117,15 @@ evidence_ids: ['fda105d9-38a', '06264fc5-5b1', '7a2369bd-22a', '8b78e60b-ba3', '
 
 
 
+
 ## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| womens clothing price in Bangladesh | search | 0.95 |
-| Bangladesh’s leading fashion brand | search | 0.95 |
-| ['premium clothing', 'trendy menswear', 'womenswear', 'kidswear', 'panjabi', 'ku | search | 0.95 |
-| Women's clothing (sarees, salwar kameez, kurti, blouse, party wear) | search | 0.95 |
-| Competitive Prices | search | 0.90 |
-| Sailor | search | 1.00 |
-| menswear, womenswear, kidswear, lifestyle essentials | search | 0.95 |
-| Epyllion Group | search | 0.95 |
-| sailor.clothing | search | 1.00 |
-| JamaKapor | search | 1.00 |
-| clothes, dresses, shoes for men, women & kids | search | 0.95 |
-| Best prices in home delivery | search | 0.90 |
+| ['sarees', 'salwar kameez', 'kurti', 'blouze', 'party wear'] | search | 0.95 |
+| competitive | search | 0.90 |
+| Bangladesh's largest online fashion store | search | 0.95 |
+| ['clothes', 'dresses', 'shoes'] | search | 0.95 |
+| ['men', 'women', 'kids'] | search | 0.95 |
+| best prices | search | 0.90 |
+| home delivery | search | 0.95 |

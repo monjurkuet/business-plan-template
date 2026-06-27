@@ -2,8 +2,8 @@
 sector: jewellery
 last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.74
-evidence_ids: ['86774350-058', '8e6ea4ef-7bd', 'fa93f401-749', '48088369-63d', 'c3d867bd-9c6', '9a1af72e-d75', 'fd4055da-27b']
+confidence: 0.741
+evidence_ids: ['02ba012b-481', '446464dc-821', '2ce3df14-d02']
 ---
 
 # Jewellery — Bangladesh Market
@@ -95,22 +95,17 @@ evidence_ids: ['86774350-058', '8e6ea4ef-7bd', 'fa93f401-749', '48088369-63d', '
 
 
 
+
 ## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Women Ornaments, Love Pearl Necklace Gift Box Freshwater Pearl Jewelry, Pearl Ne | search | 0.90 |
-| pearl jewellery | search | 0.95 |
-| red gold | search | 0.90 |
-| AR try-on | search | 0.90 |
-| lifetime buyback | search | 0.90 |
-| imitation jewellery | search | 1.00 |
-| High quality and low pricing | search | 0.90 |
-| all over Bangladesh | search | 1.00 |
-| Best & Low Price, Best Quality, Best Service in the city | search | 0.90 |
-| ['01776060200', '01755559738', '01977722990'] | search | 1.00 |
-| 22k or 916 | search | 1.00 |
-| 2 vori 14 ana 2.6 poyent (46.43 ana, 33.85 gram) | search | 1.00 |
-| 300000 | search | 0.80 |
-| ['Dubai', 'Saudi'] | search | 0.90 |
-| 9% less | search | 0.90 |
+| Love Pearl Necklace Gift Box Freshwater Pearl Jewelry | search | 0.90 |
+| pearl necklace set | search | 0.90 |
+| red gold | search | 0.95 |
+| AR try-on, lifetime buyback | search | 0.90 |
+| Tanishq | search | 1.00 |
+| Titan Company | search | 1.00 |
+| Rhythm Group | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| Narayanganj | search | 1.00 |

@@ -2,8 +2,8 @@
 sector: travel-tourism
 last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.646
-evidence_ids: ['754423fc-917']
+confidence: 0.73
+evidence_ids: ['f69b86e9-421', '871c0c7e-571', '1333b4c6-804', '0fc97bdc-47d', '2267df06-1be']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -84,11 +84,22 @@ evidence_ids: ['754423fc-917']
 
 
 
+
 ## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ShareTrip | search | 1.00 |
-| 2014-04-01 | search | 1.00 |
-| Booking BD | search | 1.00 |
-| affordable prices | search | 0.90 |
+| ['hotels', 'visa', 'tours', 'flight booking'] | search | 0.90 |
+| trusted | search | 0.80 |
+| IATA-certified | search | 1.00 |
+| 2017 | search | 1.00 |
+| honest service, affordable prices, real support | search | 0.90 |
+| Dhaka, Bangladesh | search | 1.00 |
+| ['air ticketing', 'visa processing', 'holiday packages', 'global tours'] | search | 0.90 |
+| trusted by thousands of travelers | search | 0.80 |
+| affordable | search | 0.70 |
+| ['domestic and international tour packages', 'air ticket booking', 'visa assista | search | 0.90 |
+| best travel agency in Bangladesh | search | 0.80 |
+| ['air tickets', 'hotels', 'tour packages'] | search | 0.90 |
+| best rates | search | 0.80 |
+| Bangladesh's leading online travel agency | search | 0.90 |

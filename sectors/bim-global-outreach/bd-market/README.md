@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.741
-evidence_ids: ['2540ad17-bb6', '629a33df-00a', '08c741aa-bf8', '20ba6af8-336', '532b67d1-e29', 'f69f0b1f-f6f', 'f0e832e6-ef9', '38f652c8-dd8', '1d983f58-92e']
+confidence: 0.737
+evidence_ids: ['55e37b9b-ad3', '77a08bbc-9e3', '6e3aa347-e92', '712da1c9-1a2', 'cf8c1fff-a80', '5f95f806-656', '0a2f3635-9d3', '5ff1d8a7-131', '6bb17e40-ef6', '59e6368b-495']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -122,22 +122,23 @@ evidence_ids: ['2540ad17-bb6', '629a33df-00a', '08c741aa-bf8', '20ba6af8-336', '
 
 
 
+
 ## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Revit BIM models for architecture and structure at LOD 200–300 | search | 0.90 |
-| USA | search | 0.95 |
-| California | search | 0.95 |
-| 2025 | search | 0.90 |
+| ['Revit BIM models for architecture and structure at LOD 200–300', 'Revit BIM ou | search | 0.90 |
+| USA | search | 0.90 |
+| 35% | search | 0.90 |
+| 2025 | search | 0.95 |
+| Construction BIM outsourcing | search | 0.90 |
+| Faster project delivery | search | 0.80 |
 | 2026-01-12 | search | 0.95 |
 | 2025-01-12 | search | 0.95 |
 | Scan to BIM outsourcing | search | 0.90 |
-| USA | search | 0.90 |
-| BIM outsourcing, 3D BIM Modeling Services | search | 0.95 |
-| USA | search | 0.90 |
+| BIM outsourcing USA, 3D BIM Modeling Services | search | 0.90 |
+| global | search | 0.80 |
+| ['access specialized expertise', 'reduce operational costs', 'improve project tu | search | 0.90 |
+| BIM outsourcing | search | 0.90 |
 | 600 | search | 0.90 |
-| Small residential projects start around | search | 0.90 |
-| 2026-04-23 | search | 1.00 |
-| 30000–80000 | search | 0.90 |
-| Optimar Precon | search | 1.00 |
+| small residential | search | 0.95 |
