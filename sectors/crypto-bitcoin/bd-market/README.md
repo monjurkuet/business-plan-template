@@ -1,9 +1,9 @@
 ---
 sector: crypto-bitcoin
-last_verified: 2026-06-27
+last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.75
-evidence_ids: ['08cf9897-a86', 'b024401e-788', '05ba2bf0-c9e', '1ffb68e3-e65', 'ecbc076a-c28']
+confidence: 0.743
+evidence_ids: ['d121ea86-15a', '0b2d1ccb-b1c', '51326eae-f42', '106c54d3-347', 'd36ce0c8-cc1', '06f372e7-af0', 'b7db0c1b-bc7', '4b76ca31-194']
 ---
 
 # Crypto & Bitcoin — Bangladesh Market
@@ -101,17 +101,23 @@ evidence_ids: ['08cf9897-a86', 'b024401e-788', '05ba2bf0-c9e', '1ffb68e3-e65', '
 
 
 
-## Auto-Updated Data (2026-06-27)
+
+## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| tested the best crypto exchanges in Bangladesh for BDT P2P liquidity, bKash and  | search | 1.00 |
-| Compare the best crypto exchanges in Bangladesh. Compare the fees, supported coi | search | 1.00 |
-| Discover the top crypto exchanges in Bangladesh. Learn how to buy, sell, and tra | search | 1.00 |
-| over 3 million | search | 1.00 |
-| 35th | search | 1.00 |
-| total ban | search | 1.00 |
-| stablecoin remittance use | search | 1.00 |
-| banned in practice, yet wildly popular | search | 1.00 |
-| 35th | search | 1.00 |
-| not legally recognised | search | 1.00 |
+| ['BDT P2P liquidity', 'bKash support', 'Nagad support', 'low fees', 'platform re | search | 0.95 |
+| 2026 | search | 1.00 |
+| ['buy', 'sell', 'trade Bitcoin', 'trade altcoins'] | search | 0.95 |
+| BDT | search | 0.95 |
+| 2026 | search | 1.00 |
+| ['fees', 'supported coins', 'leverage', 'safety'] | search | 0.95 |
+| 2026-06-10 | search | 1.00 |
+| over 3 million | search | 0.90 |
+| 35 | search | 0.95 |
+| total ban | search | 0.90 |
+| 2025 | search | 1.00 |
+| 775 | search | 0.95 |
+| 2026 | search | 1.00 |
+| Avoid Emotional Trading in Cryptocurrency | search | 0.90 |
+| Dhaka, Bangladesh | search | 0.95 |

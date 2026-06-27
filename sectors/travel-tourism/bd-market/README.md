@@ -1,9 +1,9 @@
 ---
 sector: travel-tourism
-last_verified: 2026-06-27
+last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.732
-evidence_ids: ['19fcb4df-328', '712ededc-0ba', 'd357cf28-ed1']
+confidence: 0.731
+evidence_ids: ['072e6157-87d', '9088f064-d40', 'ff7a0aa5-635', 'f2df9f82-c4d']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -87,14 +87,19 @@ evidence_ids: ['19fcb4df-328', '712ededc-0ba', 'd357cf28-ed1']
 
 
 
-## Auto-Updated Data (2026-06-27)
+
+## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
 | tour packages, air tickets, visa support | search | 0.90 |
 | affordable | search | 0.80 |
-| affordable | search | 0.90 |
-| tour and travel packages | search | 0.95 |
+| online travel agency services | search | 0.90 |
+| 2026-06-13 | search | 0.80 |
+| Dhaka District, Dhaka | search | 0.90 |
 | study abroad, visa services, air tickets | search | 0.90 |
 | ['UK', 'Canada', 'Russia', 'USA'] | search | 0.90 |
 | cheap air tickets | search | 0.80 |
+| tailor-made tour | search | 0.90 |
+| short or long term | search | 0.90 |
+| ['budget', 'comfortable'] | search | 0.90 |

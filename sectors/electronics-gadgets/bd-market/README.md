@@ -1,9 +1,9 @@
 ---
 sector: electronics-gadgets
-last_verified: 2026-06-27
+last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.699
-evidence_ids: ['7891ae18-5d8', 'ed62c6be-917']
+confidence: 0.74
+evidence_ids: ['a3e17f0b-af6', '91f5e948-1c6', '69b8ea5a-6e8', '3bb2282d-3b3', '8c7460cf-87c', '73621af1-736']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -108,12 +108,23 @@ evidence_ids: ['7891ae18-5d8', 'ed62c6be-917']
 
 
 
-## Auto-Updated Data (2026-06-27)
+
+## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 25500 - 102900 | search | 0.95 |
-| TCL TV | search | 0.95 |
-| 15.00 | search | 0.80 |
-| BRANDS MEGA LTD | search | 0.95 |
-| Navana Tower (Level-18) 45 Gulshan Avenue, Gulshan-1 Dhaka -1212, Bangladesh | search | 0.95 |
+| ecommerce_platform | search | 0.95 |
+| ['smartphones', 'electronics', 'gadgets', 'home_appliances'] | search | 0.95 |
+| ['Samsung', 'Xiaomi', 'OnePlus', 'Vivo', 'HONOR', 'Infinix', 'Tecno'] | search | 0.95 |
+| 100% genuine with official warranty | search | 0.95 |
+| competitive_smartphone_price | search | 0.90 |
+| wholesale_electronics_platform | search | 0.95 |
+| ['TVs', 'home_appliances'] | search | 0.95 |
+| ['energy-efficient', 'convenient', 'durable'] | search | 0.90 |
+| 2026-04-06 | search | 0.95 |
+| social_media_page | search | 0.95 |
+| ['TVs', 'fridges', 'ACs'] | search | 0.95 |
+| Dhaka | search | 0.90 |
+| mobile_phone_price_list | search | 0.95 |
+| 14699-31899 | search | 0.95 |
+| ['express_delivery', 'official_warranty'] | search | 0.95 |

@@ -1,6 +1,6 @@
 ---
 sector: bim-global-outreach
-last_verified: 2026-06-27
+last_verified: 2026-06-28
 freshness: fresh
 ---
 
@@ -105,14 +105,15 @@ freshness: fresh
 
 
 
-## Recent Findings (2026-06-27)
 
-- **www.bppa.gov.bd** (conf: 0.75): Apr 5,2026·BPPA is the national authority responsible for public procurement policy,regulations, and e-GP systems to ensure transparent and efficient procurement inBangladesh.
+## Recent Findings (2026-06-28)
 
-- **tahmidurrahman.com** (conf: 0.75): 2 days ago ·Comprehensive guide to foreign investmentregulationsinBangladeshinBangladesh. Expert legal analysis by Tahmidur Rahman Remura Wahid (TRW) Law Firm covering legal framework, procedures, and
+- **mavial.pl** (conf: 0.74): RevitBIMoutsourcingservicesUSARevit BIM models for architecture and structure at LOD 200–300RevitBIMoutsourcingfor US architects and engineers
 
-- **www.powerkh.com** (conf: 0.75): Feb 25, 2025 ·14 Best Companies for BIM Outsourcing in the USA (2026) Building Information Modeling (BIM) is transforming the construction industry, making projects more efficient and cost-effective. 
+- **optimarprecon.com** (conf: 0.74): For example, a California contractor saved 35% on overhead costs in 2025 by partnering with Optimar Precon for ConstructionBIMoutsourcingUSA, redirecting funds to core project needs. 2. Faster Project
 
-- **www.recordinglaw.com** (conf: 0.74): Mar 21,2026·Bangladeshenacted its first comprehensive data protection law, the Personal Data Protection Ordinance 2025. Learn about data subject rights, localization rules, the February2026amendment, 
+- **www.craigsdirectory.com** (conf: 0.73): With the rapid adoption of digital workflows and increasing project complexity, firms are seeking more efficient ways to handleBIM-related tasks.OutsourcingBIMservices allows firms to access specializ
 
-- **bimoffis.com** (conf: 0.73): BIMOutsourcingServices Cost inUSA: What You Should Really Expect to Pay. BimOffis. April 23,2026.How much doesBIMoutsourcingcost in theUSA? Depends on project size. Small residential starts around $60
+- **freead1.net** (conf: 0.74): valid until: 12 Jan2026date published: 12 Jan 2025. The process of turning point cloud data into precise 3D models is streamlined via scan toBIMoutsourcing.
+
+- **mavial.pl** (conf: 0.74): RevitBIMoutsourcing(USA). Modeling · sheets · schedules for US AEC. Tekla detailing services USA. Steel & concrete · shop drawings. BIM coordination & clashes. ISO 19650 · Navisworks · LOD 200–400.

@@ -1,9 +1,9 @@
 ---
 sector: automotive-car-care
-last_verified: 2026-06-27
+last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.635
-evidence_ids: ['047fb359-41e']
+confidence: 0.739
+evidence_ids: ['8ba5f58f-20c', '681553dd-c34', '8e1af512-56f', '1c28cba7-123', '4fc4525c-9c2']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -136,10 +136,23 @@ evidence_ids: ['047fb359-41e']
 
 
 
-## Auto-Updated Data (2026-06-27)
+
+## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Car Care | search | 0.90 |
-| Dhaka, Bangladesh | search | 0.90 |
-| 127 | search | 0.90 |
+| car_price_list | search | 0.95 |
+| brand_new_and_recondition_cars | search | 0.90 |
+| ['Toyota', 'Nissan', 'Honda'] | search | 0.95 |
+| 2026-02-05 | search | 0.95 |
+| car_price_list | search | 0.95 |
+| brand_new_cars | search | 0.90 |
+| ['specifications', 'installment_details', 'down_payment', 'availability'] | search | 0.90 |
+| car_marketplace | search | 0.95 |
+| ['used_cars', 'recondition_cars'] | search | 0.90 |
+| ['car_loans', 'schedule_viewings'] | search | 0.90 |
+| Dhaka | search | 0.90 |
+| 2026-05-09 | search | 0.95 |
+| car_price_list | search | 0.95 |
+| buy_and_sell_cars | search | 0.90 |
+| ['Toyota', 'Nissan', 'Mazda', 'Mitsubishi', 'Honda', 'Hyundai', 'Suzuki', 'Lexus | search | 0.95 |

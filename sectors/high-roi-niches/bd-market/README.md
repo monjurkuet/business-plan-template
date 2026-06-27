@@ -1,9 +1,9 @@
 ---
 sector: high-roi-niches
-last_verified: 2026-06-27
+last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.71
-evidence_ids: ['89301e2e-fbd', '65bd6868-13a']
+confidence: 0.736
+evidence_ids: ['af28f0b5-9b0', '92711c6d-2b7', '88688439-a7f', '80e6e231-589']
 ---
 
 # High-ROI Niches — Bangladesh Market
@@ -106,14 +106,18 @@ This sector captures high-growth, high-margin niche opportunities in Bangladesh.
 
 
 
-## Auto-Updated Data (2026-06-27)
+
+## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Elder Care BD | search | 1.00 |
-| eldercarebd.com | search | 1.00 |
-| home cleaning service, event planner, elder care | search | 1.00 |
-| Pet Care Bangladesh | search | 1.00 |
-| MH Imran | search | 1.00 |
-| Managing Director | search | 1.00 |
-| Bangladesh Veterinary and Pet Care Network (BVPN) | search | 1.00 |
+| 20 to 8000 | search | 0.95 |
+| pet supplies | search | 0.90 |
+| 210.00 | search | 0.90 |
+| pet food & accessories | search | 0.85 |
+| pet sitters | search | 0.90 |
+| Dhaka | search | 0.95 |
+| 2021-09-23 | search | 0.90 |
+| Dhaka | search | 0.95 |
+| pet food, cat litter, treats, health care products | search | 0.90 |
+| affordable | search | 0.80 |

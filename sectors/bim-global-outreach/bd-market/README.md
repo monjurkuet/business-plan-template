@@ -1,9 +1,9 @@
 ---
 sector: bim-global-outreach
-last_verified: 2026-06-27
+last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.74
-evidence_ids: ['d653baae-613', 'fc8752ae-1ec', '01355354-931', '8b2d1f2b-8b4', '4fe5ead5-f20', 'e7824a05-a2c', 'ce27b5f6-098', '6d0bcd8b-130', 'bd836a16-2ff']
+confidence: 0.739
+evidence_ids: ['0e58cf92-ddb', 'f824e29c-c3e', '5ccfef4a-f4b', '04240b44-b84', '87ab4518-af6', '03ac5d02-9ac', 'a8b2f35d-f93', '5d52b490-988', 'f4d6baea-bb8']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -125,22 +125,23 @@ evidence_ids: ['d653baae-613', 'fc8752ae-1ec', '01355354-931', '8b2d1f2b-8b4', '
 
 
 
-## Auto-Updated Data (2026-06-27)
+
+## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Bangladesh Public Procurement Authority (BPPA) | search | 1.00 |
-| public procurement policy, regulations, and e-GP systems | search | 1.00 |
-| ensure transparent and efficient procurement in Bangladesh | search | 1.00 |
-| 2026-04-05 | search | 0.90 |
-| foreign investment regulations in Bangladesh | search | 1.00 |
-| Tahmidur Rahman Remura Wahid (TRW) Law Firm | search | 1.00 |
-| legal framework, procedures, and practical advice | search | 1.00 |
-| 14 | search | 1.00 |
-| USA | search | 1.00 |
-| 2026 | search | 1.00 |
-| transforming the construction industry, making projects more efficient and cost- | search | 1.00 |
-| Personal Data Protection Ordinance 2025 | search | 1.00 |
-| 2026-03-21 | search | 0.90 |
-| data subject rights, localization rules, penalties | search | 1.00 |
-| 2026-02 | search | 0.90 |
+| Revit BIM models for architecture and structure at LOD 200–300 | search | 0.90 |
+| USA | search | 0.95 |
+| 35 | search | 0.90 |
+| 2025 | search | 0.95 |
+| Construction BIM outsourcing | search | 0.90 |
+| USA | search | 0.95 |
+| access specialized expertise, reduce operational costs, improve project turnarou | search | 0.90 |
+| 2026-01-12 | search | 0.95 |
+| 2025-01-12 | search | 0.95 |
+| scan to BIM outsourcing | search | 0.90 |
+| ['Revit BIM outsourcing', 'Tekla detailing services', 'BIM coordination & clashe | search | 0.95 |
+| USA | search | 0.95 |
+| ['ISO 19650', 'LOD 200–400'] | search | 0.90 |
+| ['Revit', 'Tekla', 'Navisworks'] | search | 0.95 |
+| ['access specialized expertise', 'reduce operational costs', 'improve project tu | search | 0.95 |

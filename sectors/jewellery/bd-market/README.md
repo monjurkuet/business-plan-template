@@ -1,9 +1,9 @@
 ---
 sector: jewellery
-last_verified: 2026-06-27
+last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.742
-evidence_ids: ['01234853-0d8', '8be76694-97a', 'ed2b43da-f14', 'e5d0a20c-df4']
+confidence: 0.735
+evidence_ids: ['d731f65a-3ce', '0a989db4-b40', '9545523f-720']
 ---
 
 # Jewellery — Bangladesh Market
@@ -98,15 +98,14 @@ evidence_ids: ['01234853-0d8', '8be76694-97a', 'ed2b43da-f14', 'e5d0a20c-df4']
 
 
 
-## Auto-Updated Data (2026-06-27)
+
+## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| impacted on all gold jewellers in Bangladesh | search | 0.90 |
-| churi, chain, gold bracelet | search | 0.95 |
-| 200 to 3000 | search | 1.00 |
-| fashion jewellery | search | 1.00 |
-| daily and festive wear | search | 0.95 |
-| affordable | search | 0.90 |
-| best price when buying gold from customers | search | 0.95 |
-| online jewellery shop | search | 1.00 |
+| pearl necklace set | search | 0.90 |
+| women | search | 0.90 |
+| Love Pearl Necklace Gift Box, Wish and Love Pearl Necklace Pendent | search | 0.85 |
+| ['pendant necklaces', 'statement necklaces', 'choker necklaces'] | search | 0.90 |
+| red gold | search | 0.95 |
+| ['verified suppliers', 'purity check', 'secure shopping', 'AR try-on', 'lifetime | search | 0.90 |
