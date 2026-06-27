@@ -2,8 +2,8 @@
 sector: electronics-gadgets
 last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.737
-evidence_ids: ['bc586e7a-ca8', '1348ea87-d47', 'd8b31876-1c5', 'dfe068bb-dd6', '1e2a6caf-1a7', 'bfabe748-3d1', '3a32f47c-a0d', 'beaf095f-a9d', '59b9ea42-199', 'e8e8f4b5-7de', '867815f0-292']
+confidence: 0.745
+evidence_ids: ['931fdcfa-f09', 'e1d0b5ed-4a4', '3c594413-4df', 'db42604e-356']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -102,22 +102,22 @@ evidence_ids: ['bc586e7a-ca8', '1348ea87-d47', 'd8b31876-1c5', 'dfe068bb-dd6', '
 
 
 
+
 ## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| TCL TV | search | 1.00 |
-| 25500-102900 | search | 1.00 |
-| Express Delivery | search | 0.90 |
-| official warranty | search | 0.90 |
-| lowest price | search | 0.90 |
-| quality products, quick delivery, variety of electronics & gadgets | search | 0.90 |
-| 0-0 | search | 0.50 |
-| 0 models with 1 in stock and 1 on discount | search | 0.70 |
-| 2026-02-06 | search | 0.90 |
-| 100% Authentic & Quality Products | search | 0.90 |
-| 01719117333 | search | 1.00 |
-| online shop for gadget accessories | search | 0.95 |
-| free shipping | search | 0.90 |
-| price comparison, offers, and discounts on electronics | search | 0.90 |
-| increase in cost of electronics | search | 0.85 |
+| ['ACs', 'refrigerators', 'washing machines', 'smart TVs', 'ovens'] | search | 1.00 |
+| unbeatable | search | 0.80 |
+| ['official warranty', 'EMI facilities', 'fast home delivery'] | search | 1.00 |
+| authorized multi-brand electronics retailer | search | 1.00 |
+| ['authentic products', 'official warranty', '0% EMI'] | search | 1.00 |
+| 16 | search | 1.00 |
+| Esquire Electronics Ltd. | search | 1.00 |
+| premium | search | 0.90 |
+| ['seamless online shopping experience'] | search | 0.90 |
+| Electronics Bangladesh | search | 1.00 |
+| Dhaka | search | 1.00 |
+| 51734 | search | 1.00 |
+| 8783 | search | 1.00 |
+| ['TVs', 'fridges', 'ACs'] | search | 1.00 |

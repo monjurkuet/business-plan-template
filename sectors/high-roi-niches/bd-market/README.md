@@ -2,8 +2,8 @@
 sector: high-roi-niches
 last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.734
-evidence_ids: ['7e475bb0-e68', 'f8f901ad-509', 'ef31c15c-7d3']
+confidence: 0.745
+evidence_ids: ['ecbc42c0-c3f', '34c41c90-e34', '0b9d18c1-2be', '1ff317e8-6d7', '01ad5b0c-bc8']
 ---
 
 # High-ROI Niches — Bangladesh Market
@@ -100,17 +100,18 @@ This sector captures high-growth, high-margin niche opportunities in Bangladesh.
 
 
 
+
 ## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| cat food | search | 0.90 |
-| HIT LIFE | search | 0.90 |
-| grain-free | search | 0.80 |
-| pet care Bangladesh | search | 0.90 |
-| PetZone BD | search | 0.90 |
-| petzonebd.com | search | 0.90 |
-| Pampered Paws Bangladesh | search | 0.90 |
-| Pet Care Bangladesh | search | 0.90 |
-| MH Imran | search | 0.90 |
-| Managing Director | search | 0.90 |
+| 20 to 8000 | search | 0.95 |
+| 210.00 | search | 0.95 |
+| pet sitters | search | 1.00 |
+| Dhaka | search | 1.00 |
+| Pet Town BD | search | 1.00 |
+| Dhaka | search | 0.90 |
+| ['pet food', 'cat litter', 'treats', 'health care products'] | search | 1.00 |
+| affordable | search | 0.80 |
+| pet daycare | search | 1.00 |
+| Dhaka | search | 1.00 |

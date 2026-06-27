@@ -99,14 +99,15 @@ freshness: fresh
 
 
 
+
 ## Recent Findings (2026-06-27)
+
+- **en.wikipedia.org** (conf: 0.75): 1 week ago -TheBangladeshInstitute of Management (BIM) is a management Institute and the first deemed professional public university ofBangladeshby Act 54 of 2023, established in 1961. Major activitie
 
 - **www.taaltech.com** (conf: 0.75): February 21, 2026 -Key Steps for Firms Preparing for 2026 As the global landscape continues to evolve, here are practical steps firms can take now: Conduct a BIM capability audit across tools, teams, 
 
-- **www.virtualbuildingstudio.com** (conf: 0.75): 3 weeks ago -Discover what BIM outsourcing services cost in the USA, hourly rates, service types, offshore vs. onshore pricing, and how to cut spend without losing quality
+- **www.bim.org.bd** (conf: 0.73): 1. From where we can download the PGD Prospectus · You may download the prospectus from the link: BIM PGD Prospectus
 
-- **www.teslaoutsourcingservices.com** (conf: 0.73): February 23, 2026 -Nonetheless, BIM outsourcing is ... be clarified. ... BIM standards management and ownership. ...After 2026, BIM outsourcing is no longer a nice-to-have....
+- **www.teslaoutsourcingservices.com** (conf: 0.75): February 23, 2026 -Nonetheless, BIM outsourcing is ... be clarified. ... BIM standards management and ownership. ...After 2026, BIM outsourcing is no longer a nice-to-have....
 
-- **www.powerkh.com** (conf: 0.74): Feb 25, 2025 ·14 Best Companies for BIM Outsourcing in the USA (2026) Building Information Modeling (BIM) is transforming the construction industry, making projects more efficient and cost-effective. 
-
-- **www.bimprous.com** (conf: 0.74): Mar 13, 2025 ·Building Information Modeling (BIM)outsourcinghas become an essential practice in the architectural, engineering, and construction (AEC) industry in the United States. With the rapid ado
+- **mavial.pl** (conf: 0.75): RevitBIMoutsourcing(USA). Modeling · sheets · schedules for US AEC. Tekla detailing services USA. Steel & concrete · shop drawings. BIM coordination & clashes. ISO 19650 · Navisworks · LOD 200–400.

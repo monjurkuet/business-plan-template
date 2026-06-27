@@ -2,8 +2,8 @@
 sector: automotive-car-care
 last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.743
-evidence_ids: ['e43853ae-e35', '81c78407-879', '86c542ba-1ce', '0e594efb-f8f', '740f484e-537', '1bb04f8e-526']
+confidence: 0.702
+evidence_ids: ['c0fbaef7-168', '85e06703-c62']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -130,22 +130,14 @@ evidence_ids: ['e43853ae-e35', '81c78407-879', '86c542ba-1ce', '0e594efb-f8f', '
 
 
 
+
 ## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| varies by brand and condition | search | 0.90 |
-| ['Brand New', 'Recondition', 'Used'] | search | 1.00 |
-| ['Toyota', 'Nissan', 'Honda'] | search | 1.00 |
-| current prices available | search | 0.90 |
-| ['installment details', 'down payment'] | search | 0.90 |
-| varies | search | 0.90 |
-| ['Used', 'Recondition'] | search | 1.00 |
-| ['car loans'] | search | 0.90 |
-| car showroom in Dhaka | search | 1.00 |
-| 1-285000 | search | 0.90 |
-| ['Toyota', 'Nissan', 'Mazda', 'Mitsubishi', 'Honda', 'Hyundai', 'Suzuki', 'Lexus | search | 1.00 |
-| ['Reconditioned Japanese vehicles'] | search | 1.00 |
-| carefully inspected and certified | search | 1.00 |
-| Dhaka buyers | search | 1.00 |
-| Car Care | search | 1.00 |
+| My Romance Car Air Freshener | search | 1.00 |
+| CarBaseBangladesh | search | 0.90 |
+| home delivery all over Bangladesh | search | 1.00 |
+| Car Care | Dhaka | Facebook | search | 0.90 |
+| Dhaka, Bangladesh | search | 0.95 |
+| 127 | search | 0.95 |

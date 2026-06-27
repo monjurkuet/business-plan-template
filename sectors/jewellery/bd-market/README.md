@@ -2,8 +2,8 @@
 sector: jewellery
 last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.73
-evidence_ids: ['09556772-61a', '17e01bc0-bd2', 'e3565e4c-8ed']
+confidence: 0.738
+evidence_ids: ['2eab68cc-c54', '6b9b6b37-63f', 'eab51f98-0d7', '69f79d4a-43d', '2b714b85-50d']
 ---
 
 # Jewellery — Bangladesh Market
@@ -92,13 +92,19 @@ evidence_ids: ['09556772-61a', '17e01bc0-bd2', 'e3565e4c-8ed']
 
 
 
+
 ## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Love Pearl Necklace Gift Box Freshwater Pearl Jewelry | search | 0.90 |
-| Pearl Necklace Set for woman | search | 0.90 |
-| Women Ornaments, Real pearl jewellery for stylish woman | search | 0.90 |
-| oxidised jewellery | search | 0.90 |
-| oxidised jewellery bracelet, oxidised jewellery bangles | search | 0.90 |
-| Wedding Jewellery Bangladesh, Wedding Stage Decoration Price In Bangladesh | search | 0.80 |
+| 200 to 3000 | search | 0.90 |
+| fashion jewellery | search | 1.00 |
+| gold jewellery | search | 1.00 |
+| price changes impact all gold jewellers and ornaments like churi, chain, gold br | search | 0.90 |
+| 2 days ago from today | search | 0.80 |
+| most trusted gold and diamond shop in Bangladesh | search | 0.90 |
+| affordable price | search | 0.80 |
+| best price when buying gold from customers | search | 0.90 |
+| online jewellery shop | search | 1.00 |
+| affordable price | search | 0.90 |
+| online jewellery shop | search | 1.00 |

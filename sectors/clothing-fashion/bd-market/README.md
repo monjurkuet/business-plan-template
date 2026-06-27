@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.732
-evidence_ids: ['0401960a-b50', '610cc8e3-530', '708b2584-109', 'c798858b-bb4']
+confidence: 0.745
+evidence_ids: ['f5c49e04-6c2', 'e831d461-337', '97deab07-744', 'd802414d-db9', 'f93b5a8b-f96', '9d2057a4-797', '7d260b12-5f9']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -114,18 +114,23 @@ evidence_ids: ['0401960a-b50', '610cc8e3-530', '708b2584-109', 'c798858b-bb4']
 
 
 
+
 ## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| baggy pants | search | 0.90 |
-| boys, youth | search | 0.90 |
-| all over Bangladesh | search | 0.90 |
-| affordable | search | 0.80 |
-| two-piece dresses | search | 0.90 |
-| affordable | search | 0.80 |
-| custom T-shirts | search | 0.90 |
-| best factory prices | search | 0.90 |
-| luxury pret 3-piece | search | 0.90 |
-| Black Aura – Black & Cream Polka Dot Luxury Pret 3-Piece | search | 0.90 |
-| ['popularity', 'average rating', 'latest', 'price: low to high', 'price: high to | search | 0.90 |
+| baggy pants | search | 1.00 |
+| boys, youth | search | 1.00 |
+| all over Bangladesh | search | 1.00 |
+| premium quality fabric | search | 1.00 |
+| affordable price | search | 0.90 |
+| t-shirts, polo shirts, casual shirts, summer wear | search | 1.00 |
+| across Bangladesh | search | 1.00 |
+| Mom & Kids | search | 1.00 |
+| trusted and reliable clothing manufacturer in Bangladesh | search | 0.90 |
+| best factory prices and highest-quality custom apparel | search | 0.80 |
+| 299 | search | 1.00 |
+| Premium Summer T-shirt | search | 1.00 |
+| ['M', 'L', 'XL', 'XXL'] | search | 1.00 |
+| 3 | search | 1.00 |
+| 2-3 Days | search | 1.00 |

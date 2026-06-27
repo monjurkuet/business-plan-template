@@ -2,8 +2,8 @@
 sector: travel-tourism
 last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.731
-evidence_ids: ['71da0d46-72d', 'bf0a7770-659', '36c25173-307', 'bc4c2176-537', '16ed436d-af5']
+confidence: 0.74
+evidence_ids: ['b5778a52-4cb', '3a747024-a67', '8e71fcbf-358', '88a40c2e-dc9']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -81,20 +81,15 @@ evidence_ids: ['71da0d46-72d', 'bf0a7770-659', '36c25173-307', 'bc4c2176-537', '
 
 
 
+
 ## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| travel agency | search | 0.95 |
-| ['IATA', 'ATAB'] | search | 0.95 |
-| 42337956 | search | 0.95 |
-| 4298 | search | 0.95 |
-| 4.8 | search | 0.95 |
-| 463 | search | 0.95 |
-| 8 | search | 0.95 |
-| tour packages, air tickets, visa support | search | 0.90 |
-| affordable | search | 0.80 |
-| affordable | search | 0.80 |
-| study abroad, visa services, air tickets | search | 0.90 |
-| cheap | search | 0.80 |
-| tourist visas, Umrah packages, flight booking, luxury holiday tours | search | 0.90 |
+| low price | search | 0.90 |
+| low-cost travel packages designed for comfort, excitement, and full customer sat | search | 1.00 |
+| best deals and packages | search | 0.90 |
+| cheap airline tickets | search | 0.90 |
+| Transparent Pricing. No hidden fees — complete clarity on all rates and commissi | search | 1.00 |
+| House 59, Block G, Road 3, Banasree, Rampura, Dhaka | search | 1.00 |
+| +880 1846-937579 | search | 1.00 |

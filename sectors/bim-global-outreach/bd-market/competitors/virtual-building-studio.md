@@ -1,6 +1,6 @@
 ---
 sector: bim-global-outreach
-last_verified: 2026-06-26
+last_verified: 2026-06-27
 freshness: fresh
 ---
 
@@ -83,6 +83,7 @@ freshness: fresh
 
 
 
-## Recent Findings (2026-06-26)
 
-- **d-inc.in** (conf: 0.73): Design Inc Global Studio a BIM Consulting Firm in India, Our expert consultants provide cost-effective 2D, 3DBIMOutsourcingFirm acrossUSA.
+## Recent Findings (2026-06-27)
+
+- **d-inc.in** (conf: 0.74): Design Inc Global Studio a BIM Consulting Firm in India, Our expert consultants provide cost-effective 2D, 3DBIMOutsourcingFirm acrossUSA.

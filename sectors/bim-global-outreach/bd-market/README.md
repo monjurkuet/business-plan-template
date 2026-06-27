@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.742
-evidence_ids: ['1bf80766-83c', '843e886b-aeb', 'ffb8be1a-793', '2ecb2782-27a', '8175b564-976', 'f1eb6bce-c91', '258ea2f9-5e4']
+confidence: 0.745
+evidence_ids: ['789e69e8-55a', 'bff13106-1ac', 'ffdc2fd8-e98', '34a8c71e-cab', 'f6513fbf-db9', '96a662a1-8cc', '57485f36-e4b', '814da53d-e82', 'ea0a93b5-172']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -119,22 +119,23 @@ evidence_ids: ['1bf80766-83c', '843e886b-aeb', 'ffb8be1a-793', '2ecb2782-27a', '
 
 
 
+
 ## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ['Conduct a BIM capability audit across tools, teams, and workflows', 'Train pro | search | 1.00 |
-| ISO 19650 | search | 1.00 |
-| BIM outsourcing services cost in the USA, hourly rates, service types, offshore  | search | 1.00 |
-| BIM outsourcing standards management and ownership need to be clarified | search | 0.80 |
-| no longer a nice-to-have after 2026 | search | 0.90 |
-| 2025-02-25 | search | 0.95 |
-| BIM outsourcing companies in the USA | search | 0.95 |
-| 2026 | search | 0.90 |
-| 2025-03-13 | search | 0.95 |
-| BIM outsourcing challenges and benefits in the USA | search | 0.95 |
-| 2026-04-23 | search | 0.95 |
-| BIM outsourcing costs and pricing factors in the USA | search | 0.95 |
-| 2026 | search | 0.95 |
-| 2026-02-19 | search | 0.95 |
-| benefits of BIM outsourcing for US firms | search | 0.95 |
+| Bangladesh Institute of Management | search | 1.00 |
+| 1961 | search | 1.00 |
+| Act 54 of 2023 | search | 1.00 |
+| deemed professional public university | search | 1.00 |
+| Conduct a BIM capability audit across tools, teams, and workflows | search | 1.00 |
+| Train project staff in global standards like ISO 19650 | search | 1.00 |
+| Establish a structured Common Data Environment for all major projects | search | 1.00 |
+| Develop reusable templates for public tender submissions | search | 1.00 |
+| Collaborate with experienced BIM consultants or outsourcing partners | search | 1.00 |
+| Monitor regulatory updates | search | 1.00 |
+| 2026 | search | 1.00 |
+| BIM PGD Prospectus | search | 0.90 |
+| no longer a nice-to-have | search | 1.00 |
+| 2026 | search | 1.00 |
+| BIM outsourcing | search | 1.00 |

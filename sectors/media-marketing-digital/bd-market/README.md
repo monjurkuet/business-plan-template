@@ -2,8 +2,8 @@
 sector: media-marketing-digital
 last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.692
-evidence_ids: ['df81c2ef-ff3', 'bf2a5033-b1b']
+confidence: 0.699
+evidence_ids: ['7b9c7f5e-84d', 'ec9c33b4-ad0']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market
@@ -102,10 +102,10 @@ evidence_ids: ['df81c2ef-ff3', 'bf2a5033-b1b']
 
 
 
+
 ## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| GEEKY SOCIAL LTD., OneLittleWeb, BrandViser, MonsterClaw LLC, Ecomclips, Notionh | search | 0.90 |
-| digital marketing | search | 0.90 |
-| hourly rates | search | 0.80 |
+| payment per use | search | 0.90 |
+| 207 | search | 0.95 |

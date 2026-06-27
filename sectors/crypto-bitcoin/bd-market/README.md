@@ -2,8 +2,8 @@
 sector: crypto-bitcoin
 last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.741
-evidence_ids: ['fdf1892e-36a', '7d1dc190-7e9', '224ee5ae-c50', 'c0919d36-08f', '6d278b53-3e3', 'bf5084ac-029', '141846f9-ec7', 'cbf4cc77-e6b', '403e352c-3fa']
+confidence: 0.742
+evidence_ids: ['1d7c3fcb-4a8', '7149afac-5d9', 'cf67dedf-1b8', '47ec2807-1ed', '2c918221-fde', 'd958c2db-dff', '467848f8-fa9', '6fd3f0b7-533']
 ---
 
 # Crypto & Bitcoin — Bangladesh Market
@@ -95,22 +95,23 @@ evidence_ids: ['fdf1892e-36a', '7d1dc190-7e9', '224ee5ae-c50', 'c0919d36-08f', '
 
 
 
+
 ## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| crypto exchanges | search | 0.95 |
-| Bangladeshi users | search | 0.95 |
-| Tezos | search | 0.90 |
-| national crypto ban | search | 0.95 |
-| 600000 | search | 0.90 |
-| Binance | search | 0.95 |
-| YouTube | search | 0.95 |
-| 10 | search | 0.95 |
-| ['SanzidTech', 'cryptohossain', 'Invest2.Profit', 'EarningRashu', 'Johire786'] | search | 0.95 |
-| 2026-06 | search | 0.90 |
-| crypto trading platforms | search | 0.95 |
-| Bangladeshi users | search | 0.95 |
-| 2026 | search | 0.90 |
-| ['Bybit', 'Binance'] | search | 0.95 |
-| ['bKash', 'Nagad'] | search | 0.95 |
+| BDT P2P liquidity, bKash and Nagad support, low fees, platform reliability | search | 0.90 |
+| 2026 | search | 1.00 |
+| fees, supported coins, leverage, safety | search | 0.90 |
+| 2026-06-10 | search | 1.00 |
+| buy, sell, and trade Bitcoin and altcoins using BDT and local payment methods | search | 0.90 |
+| 2026-02-17 | search | 1.00 |
+| over 3 million | search | 0.90 |
+| 35 | search | 0.90 |
+| total ban | search | 0.90 |
+| 2025-09-23 | search | 1.00 |
+| banned in practice, not legally recognised | search | 0.90 |
+| 35 | search | 0.90 |
+| 2025-05-08 | search | 1.00 |
+| Dhaka, Bangladesh | search | 0.95 |
+| cryptocurrency | search | 0.95 |
