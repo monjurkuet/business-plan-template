@@ -2,8 +2,8 @@
 sector: jewellery
 last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.741
-evidence_ids: ['02ba012b-481', '446464dc-821', '2ce3df14-d02']
+confidence: 0.737
+evidence_ids: ['7d1a0e9e-834', '79a13e0f-2d6', '36b73e10-896', '94e76486-069', 'a7e9da1a-7e2']
 ---
 
 # Jewellery — Bangladesh Market
@@ -96,16 +96,21 @@ evidence_ids: ['02ba012b-481', '446464dc-821', '2ce3df14-d02']
 
 
 
+
 ## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Love Pearl Necklace Gift Box Freshwater Pearl Jewelry | search | 0.90 |
-| pearl necklace set | search | 0.90 |
-| red gold | search | 0.95 |
-| AR try-on, lifetime buyback | search | 0.90 |
-| Tanishq | search | 1.00 |
-| Titan Company | search | 1.00 |
-| Rhythm Group | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| Narayanganj | search | 1.00 |
+| Fashion Jewellery | search | 0.90 |
+| 200 to 3000 | search | 0.90 |
+| ['daily wear', 'festive wear'] | search | 0.90 |
+| Gold Jewellery | search | 0.90 |
+| All gold jewellers in Bangladesh (e.g., Al-Amin Jewellers, Amin Jewellers, Apan  | search | 0.90 |
+| ['churi', 'chain', 'gold bracelet'] | search | 0.90 |
+| ['Gold Jewellery', 'Diamond Jewellery'] | search | 0.90 |
+| Diamond World Limited | search | 0.90 |
+| Affordable | search | 0.80 |
+| best price when buying gold from customers | search | 0.90 |
+| online jewellery shop | search | 1.00 |
+| affordable price | search | 0.90 |
+| online jewellery shop | search | 1.00 |

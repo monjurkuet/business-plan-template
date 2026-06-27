@@ -2,8 +2,8 @@
 sector: media-marketing-digital
 last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.741
-evidence_ids: ['e836e0b8-18e', 'b9a391fe-16d', '92086a58-b12']
+confidence: 0.738
+evidence_ids: ['bf5fc70e-c05', '49cedbdb-a32', '0d387614-543']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market
@@ -106,14 +106,15 @@ evidence_ids: ['e836e0b8-18e', 'b9a391fe-16d', '92086a58-b12']
 
 
 
+
 ## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Digital multichannel marketing campaigns in Bangladesh at prices without rivalry | search | 0.90 |
-| Pay only for what you use | search | 0.90 |
-| Digital Marketing Cost in Bangladesh (2026 Guide) | search | 0.95 |
-| Breaks down the actual cost of digital marketing in Bangladesh for 2026, service | search | 0.90 |
-| 207 | search | 1.00 |
-| Business Process Outsourcing | search | 1.00 |
-| 1990s | search | 1.00 |
+| Bulk SMS, Email Marketing, Voice Marketing | search | 0.95 |
+| ['GEEKY SOCIAL LTD.', 'OneLittleWeb', 'BrandViser', 'MonsterClaw LLC', 'Notionhi | search | 0.95 |
+| Bulk SMS, Email Marketing, Voice Marketing | search | 0.95 |
+| The best price in digital marketing Bangladesh. | search | 0.80 |
+| Okriya | search | 0.95 |
+| Provides SEO, social media marketing services, Google Ads management, content ma | search | 0.95 |
+| Dhaka, Bangladesh | search | 0.90 |

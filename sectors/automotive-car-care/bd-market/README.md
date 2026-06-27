@@ -2,8 +2,8 @@
 sector: automotive-car-care
 last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.747
-evidence_ids: ['4385a1e2-d0f', '9a3ac645-932', '54c6e60a-046', '03bab6c3-c2c', 'efb1a34b-a7a', '068ac65e-c20']
+confidence: 0.732
+evidence_ids: ['f1485e84-b2e', '27a90246-0ac', 'd56262ca-45d', '83e43f70-11c', 'f50ddc48-0af']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -134,22 +134,21 @@ evidence_ids: ['4385a1e2-d0f', '9a3ac645-932', '54c6e60a-046', '03bab6c3-c2c', '
 
 
 
+
 ## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| @carcarebangladesh | search | 1.00 |
-| 27 | search | 1.00 |
-| 186 | search | 1.00 |
-| 8 | search | 1.00 |
-| Car Care | search | 1.00 |
-| Dhaka, Bangladesh | search | 1.00 |
-| 127 | search | 1.00 |
-| Provide latest product prices, reviews, and price comparison in Bangladesh | search | 1.00 |
-| Gasoline, Diesel, Petrol, Crude Oil, LPG, Electricity | search | 1.00 |
-| BDT | search | 1.00 |
-| Litre, Barrel, Gallon | search | 1.00 |
-| Gold | search | 1.00 |
-| BDT | search | 1.00 |
-| Regularly according to live spot prices | search | 1.00 |
-| Car Care, Dhaka, Bangladesh | search | 0.90 |
+| varies by brand and condition | search | 0.80 |
+| ['Brand New', 'Recondition', 'Used'] | search | 0.90 |
+| ['Toyota', 'Nissan', 'Honda'] | search | 0.95 |
+| current prices with specifications | search | 0.85 |
+| ['installment details', 'down payment'] | search | 0.80 |
+| ['best car prices', 'used car price', 'BD recondition car price'] | search | 0.90 |
+| ['car loans', 'schedule viewings'] | search | 0.85 |
+| Dhaka | search | 0.90 |
+| 1-285000 | search | 0.90 |
+| ['Toyota', 'Nissan', 'Mazda', 'Mitsubishi', 'Honda', 'Hyundai', 'Suzuki', 'Lexus | search | 0.95 |
+| ['reconditioned Japanese vehicles'] | search | 0.95 |
+| Dhaka | search | 0.90 |
+| carefully inspected and certified | search | 0.85 |

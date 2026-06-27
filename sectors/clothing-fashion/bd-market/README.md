@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.7
-evidence_ids: ['eb7b049d-b09', '47519a12-796']
+confidence: 0.738
+evidence_ids: ['2447b28a-d45', '0323182c-20f', '18b4b15e-9c8', '9970151d-138', '649e1db2-2f1', 'fa201923-904', '46f92b11-c80']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -118,14 +118,23 @@ evidence_ids: ['eb7b049d-b09', '47519a12-796']
 
 
 
+
 ## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ['sarees', 'salwar kameez', 'kurti', 'blouze', 'party wear'] | search | 0.95 |
-| competitive | search | 0.90 |
-| Bangladesh's largest online fashion store | search | 0.95 |
-| ['clothes', 'dresses', 'shoes'] | search | 0.95 |
-| ['men', 'women', 'kids'] | search | 0.95 |
-| best prices | search | 0.90 |
-| home delivery | search | 0.95 |
+| men's clothing (t-shirts, polo shirts, casual shirts, summer wear) | search | 1.00 |
+| fast delivery across Bangladesh | search | 0.90 |
+| luxury clothing | search | 1.00 |
+| price: low to high, price: high to low | search | 0.90 |
+| free shipping, fast delivery, free return | search | 0.90 |
+| free returns up to 90 days | search | 0.90 |
+| within 30 days | search | 0.90 |
+| True | search | 0.90 |
+| Premium Summer T-shirt | search | 0.95 |
+| 299 | search | 1.00 |
+| 3 | search | 0.95 |
+| ['M', 'L', 'XL', 'XXL'] | search | 0.95 |
+| 2-3 Days | search | 0.95 |
+| All Over Bangladesh | search | 0.95 |
+| 01617823334 | search | 0.95 |

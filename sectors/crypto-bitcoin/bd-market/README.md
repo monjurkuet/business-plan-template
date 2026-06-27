@@ -2,8 +2,8 @@
 sector: crypto-bitcoin
 last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.742
-evidence_ids: ['b95c26f3-6aa', 'c51ec8dc-045', '47b95902-0e7', '863ebc91-060', '69a8945e-d5b', 'e46c6aad-ec2']
+confidence: 0.744
+evidence_ids: ['7634fa68-472', 'a972c976-49a', 'be881ca5-f88', '3434b03e-0b9', '0701076f-3ff', 'b47cc142-3f6', 'ee6e9aac-bf1', '8c9018d3-a50']
 ---
 
 # Crypto & Bitcoin — Bangladesh Market
@@ -99,22 +99,23 @@ evidence_ids: ['b95c26f3-6aa', 'c51ec8dc-045', '47b95902-0e7', '863ebc91-060', '
 
 
 
+
 ## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 36 | search | 0.95 |
-| ['Mineable', 'SafePaytm', 'Keystore'] | search | 0.95 |
-| 32 | search | 0.95 |
-| {'name': 'Recursion FinTech Limited (RFTL)', 'service': "e-wallet application 'C | search | 0.95 |
-| {'name': 'Circle FinTech Ltd', 'service': 'payment solutions and financial servi | search | 0.95 |
-| 46 | search | 0.95 |
-| ['thinkcrypt.io', 'Anchorblock Technology'] | search | 0.95 |
-| 20 | search | 0.90 |
-| {'name': 'Ontik Technology', 'service': 'high-quality software solutions', 'sect | search | 0.95 |
-| {'name': 'W3 Engineers Ltd', 'service': 'software solutions', 'location': 'Khuln | search | 0.95 |
-| Interactive Brokers | search | 0.95 |
-| {'low_fees': True, 'limited_coins': True, 'crypto_wallet': False} | search | 0.95 |
-| 2026-05-06 | search | 0.95 |
-| strict restrictions | search | 0.95 |
-| demand continues through global platforms that accept BDT deposits | search | 0.95 |
+| 36 | search | 1.00 |
+| ['Mineable', 'SafePaytm', 'Keystore'] | search | 1.00 |
+| Cryptocurrencies | search | 1.00 |
+| Recursion FinTech Limited (RFTL) | search | 1.00 |
+| e-wallet application 'CashBaba' | search | 1.00 |
+| Circle FinTech Ltd | search | 1.00 |
+| Connect Open Banking Platform | search | 1.00 |
+| 32 | search | 1.00 |
+| 46 | search | 1.00 |
+| ['thinkcrypt.io', 'Anchorblock Technology'] | search | 1.00 |
+| Crypto Mining | search | 1.00 |
+| 20+ | search | 1.00 |
+| ['Ontik Technology', 'W3 Engineers Ltd'] | search | 1.00 |
+| Blockchain | search | 1.00 |
+| 2009 | search | 1.00 |

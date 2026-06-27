@@ -3,7 +3,7 @@ sector: bim-global-outreach
 last_verified: 2026-06-27
 freshness: fresh
 confidence: 0.737
-evidence_ids: ['55e37b9b-ad3', '77a08bbc-9e3', '6e3aa347-e92', '712da1c9-1a2', 'cf8c1fff-a80', '5f95f806-656', '0a2f3635-9d3', '5ff1d8a7-131', '6bb17e40-ef6', '59e6368b-495']
+evidence_ids: ['cff08d5a-d53', '9e0e90b9-fa2', '769374b3-d07', 'c70bc53a-889', '602a2d02-cf6', '2b4eba13-941', 'bbf5b242-1c8', '368efc51-ca1']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -123,22 +123,23 @@ evidence_ids: ['55e37b9b-ad3', '77a08bbc-9e3', '6e3aa347-e92', '712da1c9-1a2', '
 
 
 
+
 ## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ['Revit BIM models for architecture and structure at LOD 200–300', 'Revit BIM ou | search | 0.90 |
-| USA | search | 0.90 |
-| 35% | search | 0.90 |
-| 2025 | search | 0.95 |
-| Construction BIM outsourcing | search | 0.90 |
-| Faster project delivery | search | 0.80 |
 | 2026-01-12 | search | 0.95 |
 | 2025-01-12 | search | 0.95 |
-| Scan to BIM outsourcing | search | 0.90 |
-| BIM outsourcing USA, 3D BIM Modeling Services | search | 0.90 |
-| global | search | 0.80 |
-| ['access specialized expertise', 'reduce operational costs', 'improve project tu | search | 0.90 |
-| BIM outsourcing | search | 0.90 |
+| Outsourcing guarantees accurate, high-quality BIM models that are customized to  | search | 0.90 |
+| Providing BIM outsourcing services across the world, including the USA, in a sen | search | 0.90 |
+| Outsourcing BIM services allows firms to access specialized expertise, reduce op | search | 0.95 |
+| Outsourcing comes with certain challenges that firms must address to ensure seam | search | 0.90 |
 | 600 | search | 0.90 |
-| small residential | search | 0.95 |
+| Small residential | search | 0.90 |
+| 2026-04-23 | search | 0.95 |
+| BIM outsourcing (USA) | search | 0.90 |
+| ['Revit', 'Tekla'] | search | 0.95 |
+| ISO 19650 | search | 0.90 |
+| 200–400 | search | 0.90 |
+| ['Modeling', 'sheets', 'schedules', 'steel & concrete shop drawings', 'BIM coord | search | 0.90 |
+| BIM outsourcing (USA) | search | 0.90 |

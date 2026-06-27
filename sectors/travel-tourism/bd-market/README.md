@@ -2,8 +2,8 @@
 sector: travel-tourism
 last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.73
-evidence_ids: ['f69b86e9-421', '871c0c7e-571', '1333b4c6-804', '0fc97bdc-47d', '2267df06-1be']
+confidence: 0.733
+evidence_ids: ['95eca4ff-ad6', 'f666f278-67f', '6bf8e38c-552', '9b159089-77c', 'c7891425-8f8']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -85,21 +85,18 @@ evidence_ids: ['f69b86e9-421', '871c0c7e-571', '1333b4c6-804', '0fc97bdc-47d', '
 
 
 
+
 ## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ['hotels', 'visa', 'tours', 'flight booking'] | search | 0.90 |
-| trusted | search | 0.80 |
-| IATA-certified | search | 1.00 |
-| 2017 | search | 1.00 |
-| honest service, affordable prices, real support | search | 0.90 |
-| Dhaka, Bangladesh | search | 1.00 |
-| ['air ticketing', 'visa processing', 'holiday packages', 'global tours'] | search | 0.90 |
-| trusted by thousands of travelers | search | 0.80 |
-| affordable | search | 0.70 |
-| ['domestic and international tour packages', 'air ticket booking', 'visa assista | search | 0.90 |
-| best travel agency in Bangladesh | search | 0.80 |
-| ['air tickets', 'hotels', 'tour packages'] | search | 0.90 |
-| best rates | search | 0.80 |
-| Bangladesh's leading online travel agency | search | 0.90 |
+| travel agency | search | 0.95 |
+| Golden Bengal Tours | search | 0.95 |
+| amazing tour and travel packages at affordable price | search | 0.90 |
+| tour packages, air tickets, visa support | search | 0.90 |
+| affordable | search | 0.80 |
+| cheap airline tickets, online hotel booking, air & travel portal development | search | 0.90 |
+| cheap | search | 0.80 |
+| air ticket purchases, hotel bookings, tour packages, visa processing | search | 0.95 |
+| study abroad, visa services, cheap air tickets | search | 0.90 |
+| cheap | search | 0.80 |
