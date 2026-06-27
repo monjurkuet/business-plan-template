@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.739
-evidence_ids: ['0c49e7d5-f29', '7aff3dfc-eec', '324c102f-599', 'b1eb1574-677', 'd45ab592-c44', 'a80c1f0b-e0e', '74c674ad-b0f', 'e311016a-5e4', 'bb72292c-ae2', 'afcc5370-c37']
+confidence: 0.733
+evidence_ids: ['0975581e-ea8', '097eb41d-8f4', 'e0cde46a-c17', '4d10e424-8e4', '9f2a3284-24e']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -123,6 +123,7 @@ evidence_ids: ['0c49e7d5-f29', '7aff3dfc-eec', '324c102f-599', 'b1eb1574-677', '
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
@@ -130,15 +131,15 @@ evidence_ids: ['0c49e7d5-f29', '7aff3dfc-eec', '324c102f-599', 'b1eb1574-677', '
 | baggy pants | search | 0.90 |
 | limited stock | search | 0.80 |
 | fast delivery across Bangladesh | search | 0.90 |
-| ['11.11 Global Shopping Festival', 'Anniversary Sale', 'Summer Sale'] | search | 0.95 |
-| lower prices for shipping to Bangladesh | search | 0.85 |
-| ['t-shirts', 'polo shirts', 'casual shirts', 'summer wear'] | search | 0.95 |
+| 11.11 Global Shopping Festival | search | 0.90 |
+| Anniversary Sale | search | 0.90 |
+| Summer Sale | search | 0.90 |
+| Bangladesh | search | 0.90 |
+| Mom & Kids | search | 0.90 |
+| Men's Clothing | search | 0.90 |
+| ['t-shirts', 'polo shirts', 'casual shirts', 'summer wear'] | search | 0.90 |
 | fast delivery across Bangladesh | search | 0.90 |
-| women's three-piece sets | search | 0.95 |
-| affordable | search | 0.90 |
-| top suppliers | search | 0.85 |
+| women's three-piece sets | search | 0.90 |
+| affordable | search | 0.80 |
 | wholesale deals | search | 0.90 |
-| custom apparel (T-shirts) | search | 0.95 |
-| trusted and reliable clothing manufacturer in Bangladesh | search | 0.95 |
-| best factory prices | search | 0.90 |
-| highest-quality | search | 0.90 |
+| SiATEX Global | search | 0.90 |

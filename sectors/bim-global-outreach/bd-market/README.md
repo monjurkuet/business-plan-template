@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.737
-evidence_ids: ['b8918522-d06', '13d0357f-b03', '331a5034-f26', '76eeaaad-337', '86edeaf0-fc0', '3efdf7bb-e75']
+confidence: 0.742
+evidence_ids: ['3c4f708c-6c7', '0f128fb7-83d', 'f0b41f69-f56', '43780d79-248', '016f5d56-f76', '888cd9b6-403', 'b96b83a5-99a', 'f16adf46-04b', '5a7f08d3-6e3']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -128,22 +128,23 @@ evidence_ids: ['b8918522-d06', '13d0357f-b03', '331a5034-f26', '76eeaaad-337', '
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 35% | search | 0.90 |
+| 600 | search | 0.90 |
+| Small residential | search | 0.90 |
+| 2026-04-23 | search | 0.95 |
+| saves contractors money | search | 0.90 |
 | 2025 | search | 0.95 |
-| access specialized expertise, reduce operational costs, improve project turnarou | search | 0.90 |
-| challenges that firms must address to ensure seamless project execution | search | 0.80 |
+| 2026-01-12 | search | 0.95 |
+| 2025-01-12 | search | 0.95 |
 | BIMBOSS | search | 1.00 |
-| BIM outsourcing consulting services | search | 1.00 |
-| contractors, engineering design firms, architects | search | 1.00 |
+| BIM outsourcing and consulting | search | 1.00 |
 | ['USA', 'UK', 'India'] | search | 1.00 |
-| Building Information Modeling (BIM) is transforming the construction industry, m | search | 0.90 |
-| BIM outsourcing, helping architects, engineers, and contractors streamline their | search | 0.90 |
-| 2026 | search | 0.95 |
-| Building Information Modeling (BIM) outsourcing has become an essential practice | search | 0.90 |
-| access specialized expertise, reduce operational costs, handle BIM-related tasks | search | 0.85 |
-| cost advantages, access to specialised expertise, enhanced throughput for comple | search | 0.90 |
-| model-based cost estimation and multidisciplinary coordination | search | 0.90 |
+| ['contractors', 'engineering design firms', 'architects'] | search | 1.00 |
+| 600 | search | 0.90 |
+| small residential | search | 0.90 |
+| 2026-04-23 | search | 0.95 |
+| 30000-80000 | search | 0.90 |

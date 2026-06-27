@@ -3,7 +3,7 @@ sector: media-marketing-digital
 last_verified: 2026-06-28
 freshness: fresh
 confidence: 0.738
-evidence_ids: ['dc4db197-7dc', '1e097b4d-b98', '2ffa89d7-78b', 'c6d3a48e-0ae']
+evidence_ids: ['2113d821-425', 'dbb5c4c5-b34', 'b12087ad-661']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market
@@ -111,16 +111,14 @@ evidence_ids: ['dc4db197-7dc', '1e097b4d-b98', '2ffa89d7-78b', 'c6d3a48e-0ae']
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Bulk SMS, Email Marketing, Voice Marketing | search | 0.90 |
-| best price in digital marketing Bangladesh | search | 0.80 |
-| ['GEEKY SOCIAL LTD.', 'OneLittleWeb', 'BrandViser', 'MonsterClaw LLC', 'Notionhi | search | 0.95 |
-| Bulk SMS, Email Marketing, Voice Marketing | search | 0.95 |
-| best price in digital marketing Bangladesh | search | 0.90 |
-| ['SEO', 'social media marketing', 'online branding', 'promotion', 'email marketi | search | 0.95 |
-| Okriya | search | 0.95 |
-| ['SEO', 'social media marketing', 'Google Ads management', 'content marketing',  | search | 0.95 |
-| Dhaka | search | 0.90 |
+| payment per use | search | 0.90 |
+| pay only for what you use | search | 0.90 |
+| 2026 | search | 0.95 |
+| actual cost of digital marketing in Bangladesh for 2026, service by service | search | 0.90 |
+| 207 | search | 0.95 |
+| Bangladesh-based IT companies started to export software around two decades ago, | search | 0.90 |

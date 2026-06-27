@@ -2,8 +2,8 @@
 sector: automotive-car-care
 last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.691
-evidence_ids: ['49688a67-f05', '66039e1d-cc1']
+confidence: 0.704
+evidence_ids: ['2b38dd5d-98a', '85ba83eb-ab4']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -139,12 +139,14 @@ evidence_ids: ['49688a67-f05', '66039e1d-cc1']
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| car air freshener | search | 0.95 |
-| My Romance | search | 0.90 |
-| microfiber towel | search | 0.95 |
-| ['scratch-free cleaning', 'high absorbency', 'streak-free finish'] | search | 0.95 |
-| BDT 1+ | search | 0.80 |
+| FLIP PLATE | search | 0.90 |
+| CarBaseBangladesh | search | 0.90 |
+| all over Bangladesh | search | 0.95 |
+| Car Care, Dhaka, Bangladesh | search | 1.00 |
+| 127 | search | 1.00 |
+| car care/garage services | search | 1.00 |

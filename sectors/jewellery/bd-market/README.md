@@ -2,8 +2,8 @@
 sector: jewellery
 last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.737
-evidence_ids: ['f39ba1ce-02a', 'c303861b-879', 'ecb2e61c-e0f', 'd20b3025-c80']
+confidence: 0.733
+evidence_ids: ['f5f57a14-3d2', '7b6b88f9-833', '202d97d4-5e7']
 ---
 
 # Jewellery — Bangladesh Market
@@ -101,13 +101,13 @@ evidence_ids: ['f39ba1ce-02a', 'c303861b-879', 'ecb2e61c-e0f', 'd20b3025-c80']
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Pearl Necklace Set, Freshwater Pearl Jewelry, Pearl Necklace Pendent | search | 0.90 |
-| women | search | 0.90 |
-| pendant necklaces, statement necklaces, choker necklaces | search | 0.90 |
-| Bangladeshi red gold | search | 1.00 |
-| verified suppliers, purity check, secure shopping, AR try-on, lifetime buyback | search | 0.90 |
-| Wedding Jewellery Bangladesh, Wedding Stage Decoration | search | 0.90 |
+| Above price changes are impacted on all gold jewellers in Bangladesh | search | 0.90 |
+| churi, chain, gold bracelet | search | 0.95 |
+| 200 to 3000 | search | 0.95 |
+| daily and festive wear | search | 0.90 |
+| affordable | search | 0.80 |

@@ -2,8 +2,8 @@
 sector: crypto-bitcoin
 last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.746
-evidence_ids: ['1e155989-040', 'fce6d639-81d', '4353203d-bc5', '6c62abf8-8ac', '18deb42e-ac6']
+confidence: 0.74
+evidence_ids: ['96c8e4a6-598', '93195db4-b78', '3420577e-0bd', '33aa1a6c-5ac', '585edf90-d23', 'a43e84f6-2df', '1087d231-8f5', '94636bc5-58e', 'cac6f281-682']
 ---
 
 # Crypto & Bitcoin — Bangladesh Market
@@ -104,22 +104,23 @@ evidence_ids: ['1e155989-040', 'fce6d639-81d', '4353203d-bc5', '6c62abf8-8ac', '
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Crypto For Bangladesh | search | 1.00 |
-| Dhaka | search | 1.00 |
-| 24 | search | 1.00 |
-| strict restrictions on cryptocurrency | search | 0.90 |
-| demand continues through global platforms that accept BDT deposits | search | 0.90 |
-| Bangladesh Crypto Community | search | 1.00 |
-| dynamic and growing ecosystem of individuals, enthusiasts, and experts actively  | search | 0.90 |
-| crypto exchanges | search | 1.00 |
-| ['buy', 'sell', 'trade Bitcoin and altcoins'] | search | 1.00 |
-| BDT | search | 1.00 |
-| local payment methods | search | 0.90 |
-| crypto trading is legal through platforms that accept BDT deposits | search | 0.90 |
-| Bangladesh Blockchain Association | search | 1.00 |
-| Empowering the Bangladeshi blockchain ecosystem by aggregating and coordinating  | search | 1.00 |
-| Bangladeshi corporations, startups, venture capitalists, and scientific institut | search | 1.00 |
+| List of crypto exchanges for Bangladesh to buy and sell popular cryptocurrencies | search | 0.95 |
+| Tezos | search | 0.90 |
+| legal | search | 1.00 |
+| ['SanzidTech', 'cryptohossain', 'Invest2.Profit', 'EarningRashu', 'Johire786'] | search | 0.95 |
+| 2026-06 | search | 0.90 |
+| cryptocurrency trading account | search | 0.95 |
+| Bangladesh cryptocurrency exchange or trading platform | search | 0.90 |
+| not legalized but not outright banned | search | 0.95 |
+| Bangladesh Bank | search | 0.95 |
+| volatility warning | search | 0.90 |
+| EmpireCryptoData | search | 0.85 |
+| banned | search | 0.95 |
+| ['arrest', 'frozen accounts', 'prison'] | search | 0.90 |
+| ['money laundering laws', 'foreign exchange laws'] | search | 0.90 |
+| Avoid Emotional Trading in Cryptocurrency | search | 0.95 |
