@@ -2,8 +2,8 @@
 sector: crypto-bitcoin
 last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.747
-evidence_ids: ['905d040b-733', '56f6b208-535', '0f4250b4-b5e', '15466c44-1f8', '4d6ef196-c47']
+confidence: 0.746
+evidence_ids: ['1e155989-040', 'fce6d639-81d', '4353203d-bc5', '6c62abf8-8ac', '18deb42e-ac6']
 ---
 
 # Crypto & Bitcoin — Bangladesh Market
@@ -103,19 +103,23 @@ evidence_ids: ['905d040b-733', '56f6b208-535', '0f4250b4-b5e', '15466c44-1f8', '
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| list of crypto exchanges for buying Tezos in Bangladesh | search | 1.00 |
-| legal to buy and sell cryptocurrencies | search | 1.00 |
-| ['SanzidTech', 'cryptohossain', 'Invest2.Profit', 'EarningRashu', 'Johire786'] | search | 1.00 |
-| YouTube | search | 1.00 |
-| Crypto | search | 1.00 |
-| open a Bangladesh cryptocurrency trading account with a Bangladesh cryptocurrenc | search | 1.00 |
-| not legalized but no outright ban | search | 1.00 |
-| Bangladesh Bank | search | 1.00 |
-| warn about crypto’s volatility, urging users to proceed cautiously | search | 1.00 |
-| 1300000000 | search | 0.90 |
-| North Korean hackers | search | 0.90 |
-| 2024 | search | 0.90 |
+| Crypto For Bangladesh | search | 1.00 |
+| Dhaka | search | 1.00 |
+| 24 | search | 1.00 |
+| strict restrictions on cryptocurrency | search | 0.90 |
+| demand continues through global platforms that accept BDT deposits | search | 0.90 |
+| Bangladesh Crypto Community | search | 1.00 |
+| dynamic and growing ecosystem of individuals, enthusiasts, and experts actively  | search | 0.90 |
+| crypto exchanges | search | 1.00 |
+| ['buy', 'sell', 'trade Bitcoin and altcoins'] | search | 1.00 |
+| BDT | search | 1.00 |
+| local payment methods | search | 0.90 |
+| crypto trading is legal through platforms that accept BDT deposits | search | 0.90 |
+| Bangladesh Blockchain Association | search | 1.00 |
+| Empowering the Bangladeshi blockchain ecosystem by aggregating and coordinating  | search | 1.00 |
+| Bangladeshi corporations, startups, venture capitalists, and scientific institut | search | 1.00 |

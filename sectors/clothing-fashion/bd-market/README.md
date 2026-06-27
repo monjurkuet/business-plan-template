@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.74
-evidence_ids: ['3b524346-af5', '11aa964a-a39', '475e54f4-89e', '30bca82f-b5c', '627f994a-132', '096321e4-257', '1d3a16ee-889', '8539a23a-7ba']
+confidence: 0.739
+evidence_ids: ['0c49e7d5-f29', '7aff3dfc-eec', '324c102f-599', 'b1eb1574-677', 'd45ab592-c44', 'a80c1f0b-e0e', '74c674ad-b0f', 'e311016a-5e4', 'bb72292c-ae2', 'afcc5370-c37']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -122,22 +122,23 @@ evidence_ids: ['3b524346-af5', '11aa964a-a39', '475e54f4-89e', '30bca82f-b5c', '
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Tyzo is a modern Bangladeshi clothing brand offering stylish, comfortable, and a | search | 0.90 |
-| premium-quality outfits with perfect fits | search | 0.90 |
-| fast delivery, and reliable service across Bangladesh | search | 0.90 |
-| Twelve Clothing – Bangladesh’s leading fashion brand offering premium clothing,  | search | 0.95 |
-| Sailor is one of the best fashion retail brands in Bangladesh, offering trendy m | search | 0.95 |
-| Epyllion Group | search | 0.90 |
-| sailor.clothing | search | 0.95 |
-| JamaKapor, Bangladesh's largest online fashion store offering clothes, dresses,  | search | 0.95 |
-| Best prices in home delivery | search | 0.80 |
-| 299 | search | 1.00 |
-| Premium Summer T-shirt | search | 1.00 |
-| ['M', 'L', 'XL', 'XXL'] | search | 1.00 |
-| 2-3 Days | search | 1.00 |
-| All Over Bangladesh | search | 1.00 |
-| 01617823334 | search | 1.00 |
+| baggy pants | search | 0.90 |
+| limited stock | search | 0.80 |
+| fast delivery across Bangladesh | search | 0.90 |
+| ['11.11 Global Shopping Festival', 'Anniversary Sale', 'Summer Sale'] | search | 0.95 |
+| lower prices for shipping to Bangladesh | search | 0.85 |
+| ['t-shirts', 'polo shirts', 'casual shirts', 'summer wear'] | search | 0.95 |
+| fast delivery across Bangladesh | search | 0.90 |
+| women's three-piece sets | search | 0.95 |
+| affordable | search | 0.90 |
+| top suppliers | search | 0.85 |
+| wholesale deals | search | 0.90 |
+| custom apparel (T-shirts) | search | 0.95 |
+| trusted and reliable clothing manufacturer in Bangladesh | search | 0.95 |
+| best factory prices | search | 0.90 |
+| highest-quality | search | 0.90 |

@@ -2,8 +2,8 @@
 sector: travel-tourism
 last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.738
-evidence_ids: ['e696fcbe-7f3', '1896c306-b37', 'd74c6487-830', '917fba8e-ebe']
+confidence: 0.737
+evidence_ids: ['a6cc593f-d9f', 'f4c12a8f-2e9', 'c8b42504-bbd']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -89,18 +89,15 @@ evidence_ids: ['e696fcbe-7f3', '1896c306-b37', 'd74c6487-830', '917fba8e-ebe']
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| affordable tour packages, air tickets, visa support | search | 0.95 |
-| across Bangladesh | search | 0.95 |
-| 2026-06-13T10:13:00 | search | 0.95 |
-| Dhaka District, Dhaka | search | 0.95 |
-| online travel agency platform | search | 0.95 |
-| study abroad, visa services, air tickets | search | 0.90 |
+| affordable | search | 0.90 |
+| ['tour packages', 'air tickets', 'visa support'] | search | 1.00 |
+| study abroad, visa services, cheap air tickets | search | 0.90 |
 | ['UK', 'Canada', 'Russia', 'USA'] | search | 0.90 |
-| cheap air tickets | search | 0.80 |
 | ShareTrip | search | 1.00 |
-| affordable prices | search | 0.90 |
 | 2014-04-01 | search | 0.90 |
+| affordable prices | search | 0.80 |

@@ -2,8 +2,8 @@
 sector: automotive-car-care
 last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.74
-evidence_ids: ['bebc2f33-2a5', '8a3d9196-2fe', 'f5c09548-73f', '9e1eb83e-3ff', 'a74477f0-eea']
+confidence: 0.691
+evidence_ids: ['49688a67-f05', '66039e1d-cc1']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -138,22 +138,13 @@ evidence_ids: ['bebc2f33-2a5', '8a3d9196-2fe', 'f5c09548-73f', '9e1eb83e-3ff', '
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| My Romance Car Air Freshener | search | 0.95 |
-| Car Care Bangladesh | search | 0.95 |
-| Home delivery all over Bangladesh | search | 0.90 |
-| FLIP PLATE | search | 0.90 |
-| CarBase Bangladesh | search | 0.90 |
-| carcarebangladesh | search | 0.95 |
-| Instagram | search | 0.95 |
-| 27 | search | 0.95 |
-| 186 | search | 0.95 |
-| 8 | search | 0.95 |
-| Car Care | search | 0.95 |
-| Dhaka, Bangladesh | search | 0.95 |
-| Facebook | search | 0.95 |
-| 127 | search | 0.95 |
-| Find all the latest products price in Bangladesh, real and trusted reviews, pric | search | 0.95 |
+| car air freshener | search | 0.95 |
+| My Romance | search | 0.90 |
+| microfiber towel | search | 0.95 |
+| ['scratch-free cleaning', 'high absorbency', 'streak-free finish'] | search | 0.95 |
+| BDT 1+ | search | 0.80 |
