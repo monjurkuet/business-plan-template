@@ -2,8 +2,8 @@
 sector: media-marketing-digital
 last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.699
-evidence_ids: ['7b9c7f5e-84d', 'ec9c33b4-ad0']
+confidence: 0.734
+evidence_ids: ['28f39803-354', 'bf6afa8e-e3a', 'e8b28f0b-2b4', '7944195a-59a']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market
@@ -103,9 +103,23 @@ evidence_ids: ['7b9c7f5e-84d', 'ec9c33b4-ad0']
 
 
 
+
 ## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| payment per use | search | 0.90 |
-| 207 | search | 0.95 |
+| digital marketing agencies | search | 0.95 |
+| Bangladesh | search | 0.95 |
+| Bulk SMS, Email Marketing, Voice Marketing | search | 0.90 |
+| GEEKY SOCIAL LTD., OneLittleWeb, BrandViser, MonsterClaw LLC, Notionhive, Ecomcl | search | 0.90 |
+| best price in digital marketing Bangladesh | search | 0.85 |
+| Bulk SMS, Email Marketing, Interactive Voice | search | 0.90 |
+| best price in digital marketing Bangladesh | search | 0.80 |
+| SEO, social media marketing, online branding, promotion, email marketing | search | 0.90 |
+| startup entrepreneurs in Bangladesh | search | 0.90 |
+| 2026-06-05 | search | 0.90 |
+| Marketorr BD | search | 0.95 |
+| SEO, web development, social media marketing, ROI-driven strategies | search | 0.90 |
+| Khan IT | search | 0.95 |
+| 360-degree digital marketing services, SEO | search | 0.90 |
+| local and international | search | 0.90 |

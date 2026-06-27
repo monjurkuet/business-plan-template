@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.745
-evidence_ids: ['f5c49e04-6c2', 'e831d461-337', '97deab07-744', 'd802414d-db9', 'f93b5a8b-f96', '9d2057a4-797', '7d260b12-5f9']
+confidence: 0.748
+evidence_ids: ['e0c83e52-bf8', '162038f8-84a', '33865c17-1f5', '690cea3a-15d', 'd1f06858-a72']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -115,22 +115,23 @@ evidence_ids: ['f5c49e04-6c2', 'e831d461-337', '97deab07-744', 'd802414d-db9', '
 
 
 
+
 ## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| baggy pants | search | 1.00 |
-| boys, youth | search | 1.00 |
-| all over Bangladesh | search | 1.00 |
-| premium quality fabric | search | 1.00 |
-| affordable price | search | 0.90 |
-| t-shirts, polo shirts, casual shirts, summer wear | search | 1.00 |
+| Womens Clothing | search | 1.00 |
+| lowest price availability, best-selling models, promotions in June 2026, genuine | search | 0.90 |
+| Twelve Clothing | search | 1.00 |
+| ['premium clothing', 'menswear', 'womenswear', 'kidswear', 'panjabi', 'kurti', ' | search | 1.00 |
+| leading fashion brand in Bangladesh | search | 1.00 |
+| Tyzo | search | 1.00 |
+| modern Bangladeshi clothing brand offering stylish, comfortable, and affordable  | search | 1.00 |
+| ['premium-quality outfits', 'perfect fits', 'fast delivery', 'reliable service'] | search | 1.00 |
 | across Bangladesh | search | 1.00 |
-| Mom & Kids | search | 1.00 |
-| trusted and reliable clothing manufacturer in Bangladesh | search | 0.90 |
-| best factory prices and highest-quality custom apparel | search | 0.80 |
-| 299 | search | 1.00 |
-| Premium Summer T-shirt | search | 1.00 |
-| ['M', 'L', 'XL', 'XXL'] | search | 1.00 |
-| 3 | search | 1.00 |
-| 2-3 Days | search | 1.00 |
+| Sailor | search | 1.00 |
+| Epyllion Group | search | 1.00 |
+| ['menswear', 'womenswear', 'kidswear', 'lifestyle essentials'] | search | 1.00 |
+| one of the best fashion retail brands in Bangladesh | search | 1.00 |
+| sailor.clothing | search | 1.00 |
+| JamaKapor | search | 1.00 |

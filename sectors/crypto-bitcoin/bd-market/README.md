@@ -2,8 +2,8 @@
 sector: crypto-bitcoin
 last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.742
-evidence_ids: ['1d7c3fcb-4a8', '7149afac-5d9', 'cf67dedf-1b8', '47ec2807-1ed', '2c918221-fde', 'd958c2db-dff', '467848f8-fa9', '6fd3f0b7-533']
+confidence: 0.741
+evidence_ids: ['98b87abe-7b6', 'd6dbad19-b32', 'e36f83b8-ab1', '7c6c5bf4-7a5', '58b24262-ddb', '3979981c-df1', '01325df9-719', 'c2f0fbfb-4d4', 'a2228346-fdc']
 ---
 
 # Crypto & Bitcoin — Bangladesh Market
@@ -96,22 +96,23 @@ evidence_ids: ['1d7c3fcb-4a8', '7149afac-5d9', 'cf67dedf-1b8', '47ec2807-1ed', '
 
 
 
+
 ## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| BDT P2P liquidity, bKash and Nagad support, low fees, platform reliability | search | 0.90 |
-| 2026 | search | 1.00 |
-| fees, supported coins, leverage, safety | search | 0.90 |
-| 2026-06-10 | search | 1.00 |
-| buy, sell, and trade Bitcoin and altcoins using BDT and local payment methods | search | 0.90 |
-| 2026-02-17 | search | 1.00 |
-| over 3 million | search | 0.90 |
-| 35 | search | 0.90 |
-| total ban | search | 0.90 |
-| 2025-09-23 | search | 1.00 |
-| banned in practice, not legally recognised | search | 0.90 |
-| 35 | search | 0.90 |
-| 2025-05-08 | search | 1.00 |
-| Dhaka, Bangladesh | search | 0.95 |
-| cryptocurrency | search | 0.95 |
+| Tezos | search | 1.00 |
+| buy and sell cryptocurrencies | search | 1.00 |
+| ['SanzidTech', 'cryptohossain', 'Invest2.Profit', 'EarningRashu', 'Johire786'] | search | 1.00 |
+| YouTube | search | 1.00 |
+| Crypto | search | 1.00 |
+| 2026-06 | search | 1.00 |
+| permitted | search | 0.90 |
+| cryptocurrency trading account opening | search | 0.95 |
+| not legalized but not banned | search | 0.95 |
+| volatility warning issued by regulators | search | 0.90 |
+| Bangladesh Bank | search | 0.95 |
+| EmpireCryptoData | search | 0.85 |
+| dynamic and growing ecosystem of individuals, enthusiasts, and experts actively  | search | 0.90 |
+| strict restrictions on cryptocurrency | search | 0.95 |
+| demand continues through global platforms that accept BDT deposits | search | 0.90 |

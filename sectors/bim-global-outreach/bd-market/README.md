@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.745
-evidence_ids: ['789e69e8-55a', 'bff13106-1ac', 'ffdc2fd8-e98', '34a8c71e-cab', 'f6513fbf-db9', '96a662a1-8cc', '57485f36-e4b', '814da53d-e82', 'ea0a93b5-172']
+confidence: 0.742
+evidence_ids: ['822170fe-1b4', 'f79242cf-917', 'c4c795a6-b6c', 'cc800961-ff3', '093f43be-c69']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -120,22 +120,23 @@ evidence_ids: ['789e69e8-55a', 'bff13106-1ac', 'ffdc2fd8-e98', '34a8c71e-cab', '
 
 
 
+
 ## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Bangladesh Institute of Management | search | 1.00 |
+| Bangladesh Institute of Management (BIM) | search | 1.00 |
 | 1961 | search | 1.00 |
-| Act 54 of 2023 | search | 1.00 |
 | deemed professional public university | search | 1.00 |
-| Conduct a BIM capability audit across tools, teams, and workflows | search | 1.00 |
-| Train project staff in global standards like ISO 19650 | search | 1.00 |
-| Establish a structured Common Data Environment for all major projects | search | 1.00 |
-| Develop reusable templates for public tender submissions | search | 1.00 |
-| Collaborate with experienced BIM consultants or outsourcing partners | search | 1.00 |
-| Monitor regulatory updates | search | 1.00 |
-| 2026 | search | 1.00 |
+| Act 54 of 2023 | search | 1.00 |
+| ['executive education', 'mid-level management training', 'research', 'consultanc | search | 1.00 |
+| ['Conduct a BIM capability audit across tools, teams, and workflows', 'Train pro | search | 1.00 |
+| 2026-02-21 | search | 1.00 |
 | BIM PGD Prospectus | search | 0.90 |
-| no longer a nice-to-have | search | 1.00 |
-| 2026 | search | 1.00 |
-| BIM outsourcing | search | 1.00 |
+| no longer a nice-to-have | search | 0.90 |
+| 2026-02-23 | search | 1.00 |
+| cost advantages | search | 0.90 |
+| access to specialised expertise | search | 0.90 |
+| enhanced throughput for complex projects | search | 0.90 |
+| model-based cost estimation | search | 0.80 |
+| multidisciplinary coordination | search | 0.80 |

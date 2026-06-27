@@ -2,8 +2,8 @@
 sector: jewellery
 last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.738
-evidence_ids: ['2eab68cc-c54', '6b9b6b37-63f', 'eab51f98-0d7', '69f79d4a-43d', '2b714b85-50d']
+confidence: 0.731
+evidence_ids: ['3d1d11f2-241', 'f28368af-cb5', '64ba5457-8a0']
 ---
 
 # Jewellery — Bangladesh Market
@@ -93,18 +93,14 @@ evidence_ids: ['2eab68cc-c54', '6b9b6b37-63f', 'eab51f98-0d7', '69f79d4a-43d', '
 
 
 
+
 ## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 200 to 3000 | search | 0.90 |
-| fashion jewellery | search | 1.00 |
-| gold jewellery | search | 1.00 |
-| price changes impact all gold jewellers and ornaments like churi, chain, gold br | search | 0.90 |
-| 2 days ago from today | search | 0.80 |
-| most trusted gold and diamond shop in Bangladesh | search | 0.90 |
-| affordable price | search | 0.80 |
-| best price when buying gold from customers | search | 0.90 |
-| online jewellery shop | search | 1.00 |
-| affordable price | search | 0.90 |
-| online jewellery shop | search | 1.00 |
+| Pearl Necklace Set, Freshwater Pearl Jewelry, Real Pearl Jewellery, Women Orname | search | 0.90 |
+| Pearl | search | 0.95 |
+| women | search | 0.90 |
+| necklace | search | 0.90 |
+| pendant necklaces, statement necklaces, choker necklaces | search | 0.90 |
+| 34 people searched this | search | 0.80 |

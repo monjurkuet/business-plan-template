@@ -2,8 +2,8 @@
 sector: high-roi-niches
 last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.745
-evidence_ids: ['ecbc42c0-c3f', '34c41c90-e34', '0b9d18c1-2be', '1ff317e8-6d7', '01ad5b0c-bc8']
+confidence: 0.74
+evidence_ids: ['c7ae8c92-91b', '05b62d91-23d', '17a8e694-6c3', '8e17dc6e-237']
 ---
 
 # High-ROI Niches — Bangladesh Market
@@ -101,17 +101,20 @@ This sector captures high-growth, high-margin niche opportunities in Bangladesh.
 
 
 
+
 ## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
 | 20 to 8000 | search | 0.95 |
+| pet supplies | search | 0.95 |
+| small accessories, feeding bowls, leashes, fish tanks, pet houses, grooming mach | search | 0.90 |
 | 210.00 | search | 0.95 |
-| pet sitters | search | 1.00 |
-| Dhaka | search | 1.00 |
-| Pet Town BD | search | 1.00 |
-| Dhaka | search | 0.90 |
-| ['pet food', 'cat litter', 'treats', 'health care products'] | search | 1.00 |
-| affordable | search | 0.80 |
-| pet daycare | search | 1.00 |
-| Dhaka | search | 1.00 |
+| pet food & accessories | search | 0.90 |
+| pet sitters | search | 0.95 |
+| Dhaka | search | 0.95 |
+| 7 | search | 0.90 |
+| Dhaka | search | 0.95 |
+| pet food, cat litter, treats, health care products | search | 0.95 |
+| grain-free, organic, nutritious | search | 0.90 |
+| 2021-09-23 | search | 0.90 |
