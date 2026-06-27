@@ -2,8 +2,8 @@
 sector: jewellery
 last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.735
-evidence_ids: ['d731f65a-3ce', '0a989db4-b40', '9545523f-720']
+confidence: 0.745
+evidence_ids: ['76ea993d-587', 'b13a4529-8f1', '6a3d5c24-775', '25e137c0-775', '69fe320b-719']
 ---
 
 # Jewellery — Bangladesh Market
@@ -99,13 +99,16 @@ evidence_ids: ['d731f65a-3ce', '0a989db4-b40', '9545523f-720']
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| pearl necklace set | search | 0.90 |
-| women | search | 0.90 |
-| Love Pearl Necklace Gift Box, Wish and Love Pearl Necklace Pendent | search | 0.85 |
-| ['pendant necklaces', 'statement necklaces', 'choker necklaces'] | search | 0.90 |
-| red gold | search | 0.95 |
-| ['verified suppliers', 'purity check', 'secure shopping', 'AR try-on', 'lifetime | search | 0.90 |
+| 26 | search | 1.00 |
+| 10000–100000 | search | 1.00 |
+| 22k | search | 1.00 |
+| 200 to 3000 | search | 0.95 |
+| daily and festive wear jewellery | search | 0.90 |
+| 1990 | search | 0.95 |
+| pearl jewelry | search | 0.90 |
+| 2020-02-05 | search | 0.90 |

@@ -2,8 +2,8 @@
 sector: crypto-bitcoin
 last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.743
-evidence_ids: ['d121ea86-15a', '0b2d1ccb-b1c', '51326eae-f42', '106c54d3-347', 'd36ce0c8-cc1', '06f372e7-af0', 'b7db0c1b-bc7', '4b76ca31-194']
+confidence: 0.747
+evidence_ids: ['905d040b-733', '56f6b208-535', '0f4250b4-b5e', '15466c44-1f8', '4d6ef196-c47']
 ---
 
 # Crypto & Bitcoin — Bangladesh Market
@@ -102,22 +102,20 @@ evidence_ids: ['d121ea86-15a', '0b2d1ccb-b1c', '51326eae-f42', '106c54d3-347', '
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ['BDT P2P liquidity', 'bKash support', 'Nagad support', 'low fees', 'platform re | search | 0.95 |
-| 2026 | search | 1.00 |
-| ['buy', 'sell', 'trade Bitcoin', 'trade altcoins'] | search | 0.95 |
-| BDT | search | 0.95 |
-| 2026 | search | 1.00 |
-| ['fees', 'supported coins', 'leverage', 'safety'] | search | 0.95 |
-| 2026-06-10 | search | 1.00 |
-| over 3 million | search | 0.90 |
-| 35 | search | 0.95 |
-| total ban | search | 0.90 |
-| 2025 | search | 1.00 |
-| 775 | search | 0.95 |
-| 2026 | search | 1.00 |
-| Avoid Emotional Trading in Cryptocurrency | search | 0.90 |
-| Dhaka, Bangladesh | search | 0.95 |
+| list of crypto exchanges for buying Tezos in Bangladesh | search | 1.00 |
+| legal to buy and sell cryptocurrencies | search | 1.00 |
+| ['SanzidTech', 'cryptohossain', 'Invest2.Profit', 'EarningRashu', 'Johire786'] | search | 1.00 |
+| YouTube | search | 1.00 |
+| Crypto | search | 1.00 |
+| open a Bangladesh cryptocurrency trading account with a Bangladesh cryptocurrenc | search | 1.00 |
+| not legalized but no outright ban | search | 1.00 |
+| Bangladesh Bank | search | 1.00 |
+| warn about crypto’s volatility, urging users to proceed cautiously | search | 1.00 |
+| 1300000000 | search | 0.90 |
+| North Korean hackers | search | 0.90 |
+| 2024 | search | 0.90 |

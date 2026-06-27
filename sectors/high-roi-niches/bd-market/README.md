@@ -2,8 +2,8 @@
 sector: high-roi-niches
 last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.736
-evidence_ids: ['af28f0b5-9b0', '92711c6d-2b7', '88688439-a7f', '80e6e231-589']
+confidence: 0.746
+evidence_ids: ['a961e824-450', '5a0e7b50-13b', 'e9bc6c05-c04', 'ba6e859d-838', 'acbf5084-dfb']
 ---
 
 # High-ROI Niches — Bangladesh Market
@@ -107,17 +107,23 @@ This sector captures high-growth, high-margin niche opportunities in Bangladesh.
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 20 to 8000 | search | 0.95 |
-| pet supplies | search | 0.90 |
-| 210.00 | search | 0.90 |
-| pet food & accessories | search | 0.85 |
-| pet sitters | search | 0.90 |
-| Dhaka | search | 0.95 |
-| 2021-09-23 | search | 0.90 |
-| Dhaka | search | 0.95 |
-| pet food, cat litter, treats, health care products | search | 0.90 |
-| affordable | search | 0.80 |
+| pet shop | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| pet products, food, toys, accessories, fast delivery, customer service | search | 0.90 |
+| online pet shop | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| pet supplies, doorstep delivery | search | 0.90 |
+| ['Aquisan Bangladesh Pet Care', 'Pet Town BD', 'Pet Lover BD', 'PetsSheba', 'Pos | search | 0.95 |
+| pet care | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| feline patients | search | 0.90 |
+| pet care supplier | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| cat food, toys, grooming products, accessories | search | 0.95 |
+| pet shop | search | 1.00 |
+| Dhaka, Bangladesh | search | 1.00 |

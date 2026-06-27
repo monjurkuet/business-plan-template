@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.739
-evidence_ids: ['0e58cf92-ddb', 'f824e29c-c3e', '5ccfef4a-f4b', '04240b44-b84', '87ab4518-af6', '03ac5d02-9ac', 'a8b2f35d-f93', '5d52b490-988', 'f4d6baea-bb8']
+confidence: 0.736
+evidence_ids: ['b8aecc8f-2b5', '7606cc33-aca', 'c8fbc207-a3e', '7462d640-974', '73ef5c9c-d67', '381ede16-c59', 'a84995fe-51f', 'df5e6afa-8df', '3a810d02-062']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -126,22 +126,23 @@ evidence_ids: ['0e58cf92-ddb', 'f824e29c-c3e', '5ccfef4a-f4b', '04240b44-b84', '
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Revit BIM models for architecture and structure at LOD 200–300 | search | 0.90 |
-| USA | search | 0.95 |
-| 35 | search | 0.90 |
-| 2025 | search | 0.95 |
-| Construction BIM outsourcing | search | 0.90 |
-| USA | search | 0.95 |
-| access specialized expertise, reduce operational costs, improve project turnarou | search | 0.90 |
+| BIM outsourcing services USA in Revit & Tekla | search | 0.90 |
+| 200-300 | search | 0.90 |
+| US architects and engineers | search | 0.90 |
+| BIM outsourcing services | search | 0.90 |
+| California contractors | search | 0.90 |
+| 2025 | search | 0.90 |
+| Scan to BIM outsourcing | search | 0.90 |
 | 2026-01-12 | search | 0.95 |
 | 2025-01-12 | search | 0.95 |
-| scan to BIM outsourcing | search | 0.90 |
-| ['Revit BIM outsourcing', 'Tekla detailing services', 'BIM coordination & clashe | search | 0.95 |
-| USA | search | 0.95 |
-| ['ISO 19650', 'LOD 200–400'] | search | 0.90 |
-| ['Revit', 'Tekla', 'Navisworks'] | search | 0.95 |
-| ['access specialized expertise', 'reduce operational costs', 'improve project tu | search | 0.95 |
+| BIM outsourcing USA, 3D BIM modeling services | search | 0.90 |
+| global | search | 0.90 |
+| BIM outsourcing | search | 0.90 |
+| access specialized expertise, reduce operational costs, improve project turnarou | search | 0.90 |
+| 30000-80000 | search | 0.90 |
+| Construction BIM outsourcing | search | 0.90 |

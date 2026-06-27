@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.736
-evidence_ids: ['291f9f35-6b3', '3f1e1125-bed', '6cdce304-6f1', '12028eb1-373']
+confidence: 0.74
+evidence_ids: ['3b524346-af5', '11aa964a-a39', '475e54f4-89e', '30bca82f-b5c', '627f994a-132', '096321e4-257', '1d3a16ee-889', '8539a23a-7ba']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -121,15 +121,23 @@ evidence_ids: ['291f9f35-6b3', '3f1e1125-bed', '6cdce304-6f1', '12028eb1-373']
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| baggy pants | search | 0.95 |
-| boys/youth | search | 0.90 |
-| ['casual wear', 'premium quality fabric', 'affordable price', 'home delivery all | search | 0.90 |
-| ['summer', 'winter'] | search | 0.85 |
-| ['free shipping', 'fast delivery', 'free return'] | search | 0.90 |
-| ['t-shirts', 'polo shirts', 'casual shirts', 'summer wear'] | search | 0.95 |
-| fast delivery across Bangladesh | search | 0.90 |
-| best factory prices and the highest-quality custom apparel | search | 0.90 |
+| Tyzo is a modern Bangladeshi clothing brand offering stylish, comfortable, and a | search | 0.90 |
+| premium-quality outfits with perfect fits | search | 0.90 |
+| fast delivery, and reliable service across Bangladesh | search | 0.90 |
+| Twelve Clothing – Bangladesh’s leading fashion brand offering premium clothing,  | search | 0.95 |
+| Sailor is one of the best fashion retail brands in Bangladesh, offering trendy m | search | 0.95 |
+| Epyllion Group | search | 0.90 |
+| sailor.clothing | search | 0.95 |
+| JamaKapor, Bangladesh's largest online fashion store offering clothes, dresses,  | search | 0.95 |
+| Best prices in home delivery | search | 0.80 |
+| 299 | search | 1.00 |
+| Premium Summer T-shirt | search | 1.00 |
+| ['M', 'L', 'XL', 'XXL'] | search | 1.00 |
+| 2-3 Days | search | 1.00 |
+| All Over Bangladesh | search | 1.00 |
+| 01617823334 | search | 1.00 |
