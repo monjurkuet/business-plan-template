@@ -2,8 +2,8 @@
 sector: crypto-bitcoin
 last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.741
-evidence_ids: ['98b87abe-7b6', 'd6dbad19-b32', 'e36f83b8-ab1', '7c6c5bf4-7a5', '58b24262-ddb', '3979981c-df1', '01325df9-719', 'c2f0fbfb-4d4', 'a2228346-fdc']
+confidence: 0.742
+evidence_ids: ['ebaedbcf-258', 'bddedac3-4e4', '079b859b-ddb', '3cbe1178-d2a', 'cb118a0f-2c8', '7d31cd08-b82', 'eb9b331a-262', '94701be9-3cd', '0cbface8-7d8', 'f3065a89-68c']
 ---
 
 # Crypto & Bitcoin — Bangladesh Market
@@ -97,22 +97,23 @@ evidence_ids: ['98b87abe-7b6', 'd6dbad19-b32', 'e36f83b8-ab1', '7c6c5bf4-7a5', '
 
 
 
+
 ## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Tezos | search | 1.00 |
-| buy and sell cryptocurrencies | search | 1.00 |
-| ['SanzidTech', 'cryptohossain', 'Invest2.Profit', 'EarningRashu', 'Johire786'] | search | 1.00 |
-| YouTube | search | 1.00 |
-| Crypto | search | 1.00 |
-| 2026-06 | search | 1.00 |
-| permitted | search | 0.90 |
-| cryptocurrency trading account opening | search | 0.95 |
-| not legalized but not banned | search | 0.95 |
-| volatility warning issued by regulators | search | 0.90 |
-| Bangladesh Bank | search | 0.95 |
-| EmpireCryptoData | search | 0.85 |
-| dynamic and growing ecosystem of individuals, enthusiasts, and experts actively  | search | 0.90 |
-| strict restrictions on cryptocurrency | search | 0.95 |
-| demand continues through global platforms that accept BDT deposits | search | 0.90 |
+| BDT P2P liquidity, bKash and Nagad support, low fees, platform reliability | search | 0.95 |
+| 2026 | search | 1.00 |
+| buy, sell, and trade Bitcoin and altcoins | search | 0.95 |
+| BDT and local payment methods | search | 0.95 |
+| 2026 | search | 1.00 |
+| fees, supported coins, leverage, safety | search | 0.95 |
+| 2026 | search | 1.00 |
+| over 3 million | search | 0.95 |
+| 35th | search | 0.95 |
+| total ban | search | 0.95 |
+| 2025 | search | 1.00 |
+| 775 | search | 0.95 |
+| IT | search | 1.00 |
+| 2026 | search | 1.00 |
+| Bangladesh Crypto Community | search | 0.95 |

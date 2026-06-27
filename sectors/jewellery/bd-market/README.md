@@ -2,8 +2,8 @@
 sector: jewellery
 last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.731
-evidence_ids: ['3d1d11f2-241', 'f28368af-cb5', '64ba5457-8a0']
+confidence: 0.74
+evidence_ids: ['86774350-058', '8e6ea4ef-7bd', 'fa93f401-749', '48088369-63d', 'c3d867bd-9c6', '9a1af72e-d75', 'fd4055da-27b']
 ---
 
 # Jewellery — Bangladesh Market
@@ -94,13 +94,23 @@ evidence_ids: ['3d1d11f2-241', 'f28368af-cb5', '64ba5457-8a0']
 
 
 
+
 ## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Pearl Necklace Set, Freshwater Pearl Jewelry, Real Pearl Jewellery, Women Orname | search | 0.90 |
-| Pearl | search | 0.95 |
-| women | search | 0.90 |
-| necklace | search | 0.90 |
-| pendant necklaces, statement necklaces, choker necklaces | search | 0.90 |
-| 34 people searched this | search | 0.80 |
+| Women Ornaments, Love Pearl Necklace Gift Box Freshwater Pearl Jewelry, Pearl Ne | search | 0.90 |
+| pearl jewellery | search | 0.95 |
+| red gold | search | 0.90 |
+| AR try-on | search | 0.90 |
+| lifetime buyback | search | 0.90 |
+| imitation jewellery | search | 1.00 |
+| High quality and low pricing | search | 0.90 |
+| all over Bangladesh | search | 1.00 |
+| Best & Low Price, Best Quality, Best Service in the city | search | 0.90 |
+| ['01776060200', '01755559738', '01977722990'] | search | 1.00 |
+| 22k or 916 | search | 1.00 |
+| 2 vori 14 ana 2.6 poyent (46.43 ana, 33.85 gram) | search | 1.00 |
+| 300000 | search | 0.80 |
+| ['Dubai', 'Saudi'] | search | 0.90 |
+| 9% less | search | 0.90 |

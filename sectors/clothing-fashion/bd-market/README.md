@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.748
-evidence_ids: ['e0c83e52-bf8', '162038f8-84a', '33865c17-1f5', '690cea3a-15d', 'd1f06858-a72']
+confidence: 0.742
+evidence_ids: ['fda105d9-38a', '06264fc5-5b1', '7a2369bd-22a', '8b78e60b-ba3', 'ad966fca-d5d']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -116,22 +116,20 @@ evidence_ids: ['e0c83e52-bf8', '162038f8-84a', '33865c17-1f5', '690cea3a-15d', '
 
 
 
+
 ## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Womens Clothing | search | 1.00 |
-| lowest price availability, best-selling models, promotions in June 2026, genuine | search | 0.90 |
-| Twelve Clothing | search | 1.00 |
-| ['premium clothing', 'menswear', 'womenswear', 'kidswear', 'panjabi', 'kurti', ' | search | 1.00 |
-| leading fashion brand in Bangladesh | search | 1.00 |
-| Tyzo | search | 1.00 |
-| modern Bangladeshi clothing brand offering stylish, comfortable, and affordable  | search | 1.00 |
-| ['premium-quality outfits', 'perfect fits', 'fast delivery', 'reliable service'] | search | 1.00 |
-| across Bangladesh | search | 1.00 |
+| womens clothing price in Bangladesh | search | 0.95 |
+| Bangladesh’s leading fashion brand | search | 0.95 |
+| ['premium clothing', 'trendy menswear', 'womenswear', 'kidswear', 'panjabi', 'ku | search | 0.95 |
+| Women's clothing (sarees, salwar kameez, kurti, blouse, party wear) | search | 0.95 |
+| Competitive Prices | search | 0.90 |
 | Sailor | search | 1.00 |
-| Epyllion Group | search | 1.00 |
-| ['menswear', 'womenswear', 'kidswear', 'lifestyle essentials'] | search | 1.00 |
-| one of the best fashion retail brands in Bangladesh | search | 1.00 |
+| menswear, womenswear, kidswear, lifestyle essentials | search | 0.95 |
+| Epyllion Group | search | 0.95 |
 | sailor.clothing | search | 1.00 |
 | JamaKapor | search | 1.00 |
+| clothes, dresses, shoes for men, women & kids | search | 0.95 |
+| Best prices in home delivery | search | 0.90 |

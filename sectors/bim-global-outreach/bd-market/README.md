@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.742
-evidence_ids: ['822170fe-1b4', 'f79242cf-917', 'c4c795a6-b6c', 'cc800961-ff3', '093f43be-c69']
+confidence: 0.741
+evidence_ids: ['2540ad17-bb6', '629a33df-00a', '08c741aa-bf8', '20ba6af8-336', '532b67d1-e29', 'f69f0b1f-f6f', 'f0e832e6-ef9', '38f652c8-dd8', '1d983f58-92e']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -121,22 +121,23 @@ evidence_ids: ['822170fe-1b4', 'f79242cf-917', 'c4c795a6-b6c', 'cc800961-ff3', '
 
 
 
+
 ## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Bangladesh Institute of Management (BIM) | search | 1.00 |
-| 1961 | search | 1.00 |
-| deemed professional public university | search | 1.00 |
-| Act 54 of 2023 | search | 1.00 |
-| ['executive education', 'mid-level management training', 'research', 'consultanc | search | 1.00 |
-| ['Conduct a BIM capability audit across tools, teams, and workflows', 'Train pro | search | 1.00 |
-| 2026-02-21 | search | 1.00 |
-| BIM PGD Prospectus | search | 0.90 |
-| no longer a nice-to-have | search | 0.90 |
-| 2026-02-23 | search | 1.00 |
-| cost advantages | search | 0.90 |
-| access to specialised expertise | search | 0.90 |
-| enhanced throughput for complex projects | search | 0.90 |
-| model-based cost estimation | search | 0.80 |
-| multidisciplinary coordination | search | 0.80 |
+| Revit BIM models for architecture and structure at LOD 200–300 | search | 0.90 |
+| USA | search | 0.95 |
+| California | search | 0.95 |
+| 2025 | search | 0.90 |
+| 2026-01-12 | search | 0.95 |
+| 2025-01-12 | search | 0.95 |
+| Scan to BIM outsourcing | search | 0.90 |
+| USA | search | 0.90 |
+| BIM outsourcing, 3D BIM Modeling Services | search | 0.95 |
+| USA | search | 0.90 |
+| 600 | search | 0.90 |
+| Small residential projects start around | search | 0.90 |
+| 2026-04-23 | search | 1.00 |
+| 30000–80000 | search | 0.90 |
+| Optimar Precon | search | 1.00 |

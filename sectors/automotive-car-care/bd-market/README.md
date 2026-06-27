@@ -2,8 +2,8 @@
 sector: automotive-car-care
 last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.639
-evidence_ids: ['ae842c95-f93']
+confidence: 0.702
+evidence_ids: ['95235cd0-67b', '24be9fea-bf4']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -132,9 +132,12 @@ evidence_ids: ['ae842c95-f93']
 
 
 
+
 ## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| My Romance Car Air Freshner | search | 0.90 |
-| Home delivery all over Bangladesh | search | 0.95 |
+| price comparison and reviews | search | 0.95 |
+| Car Care | search | 0.95 |
+| 127 | search | 0.95 |
+| Take Care Of Your Car In The Garage, and The Car Will Take Care Of You On The Ro | search | 0.90 |
