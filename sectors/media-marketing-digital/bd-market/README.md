@@ -3,7 +3,7 @@ sector: media-marketing-digital
 last_verified: 2026-06-27
 freshness: fresh
 confidence: 0.738
-evidence_ids: ['bf5fc70e-c05', '49cedbdb-a32', '0d387614-543']
+evidence_ids: ['cd9efce4-d52', 'ca0038b7-516', '8967aed2-0da']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market
@@ -107,14 +107,13 @@ evidence_ids: ['bf5fc70e-c05', '49cedbdb-a32', '0d387614-543']
 
 
 
+
 ## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Bulk SMS, Email Marketing, Voice Marketing | search | 0.95 |
-| ['GEEKY SOCIAL LTD.', 'OneLittleWeb', 'BrandViser', 'MonsterClaw LLC', 'Notionhi | search | 0.95 |
-| Bulk SMS, Email Marketing, Voice Marketing | search | 0.95 |
-| The best price in digital marketing Bangladesh. | search | 0.80 |
-| Okriya | search | 0.95 |
-| Provides SEO, social media marketing services, Google Ads management, content ma | search | 0.95 |
-| Dhaka, Bangladesh | search | 0.90 |
+| payment per use | search | 0.90 |
+| 2026 | search | 0.95 |
+| budgeting for digital marketing costs in Bangladesh | search | 0.90 |
+| 207 | search | 0.95 |
+| 1990s | search | 0.90 |

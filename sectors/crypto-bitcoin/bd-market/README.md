@@ -2,8 +2,8 @@
 sector: crypto-bitcoin
 last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.744
-evidence_ids: ['7634fa68-472', 'a972c976-49a', 'be881ca5-f88', '3434b03e-0b9', '0701076f-3ff', 'b47cc142-3f6', 'ee6e9aac-bf1', '8c9018d3-a50']
+confidence: 0.75
+evidence_ids: ['08cf9897-a86', 'b024401e-788', '05ba2bf0-c9e', '1ffb68e3-e65', 'ecbc076a-c28']
 ---
 
 # Crypto & Bitcoin — Bangladesh Market
@@ -100,22 +100,18 @@ evidence_ids: ['7634fa68-472', 'a972c976-49a', 'be881ca5-f88', '3434b03e-0b9', '
 
 
 
+
 ## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 36 | search | 1.00 |
-| ['Mineable', 'SafePaytm', 'Keystore'] | search | 1.00 |
-| Cryptocurrencies | search | 1.00 |
-| Recursion FinTech Limited (RFTL) | search | 1.00 |
-| e-wallet application 'CashBaba' | search | 1.00 |
-| Circle FinTech Ltd | search | 1.00 |
-| Connect Open Banking Platform | search | 1.00 |
-| 32 | search | 1.00 |
-| 46 | search | 1.00 |
-| ['thinkcrypt.io', 'Anchorblock Technology'] | search | 1.00 |
-| Crypto Mining | search | 1.00 |
-| 20+ | search | 1.00 |
-| ['Ontik Technology', 'W3 Engineers Ltd'] | search | 1.00 |
-| Blockchain | search | 1.00 |
-| 2009 | search | 1.00 |
+| tested the best crypto exchanges in Bangladesh for BDT P2P liquidity, bKash and  | search | 1.00 |
+| Compare the best crypto exchanges in Bangladesh. Compare the fees, supported coi | search | 1.00 |
+| Discover the top crypto exchanges in Bangladesh. Learn how to buy, sell, and tra | search | 1.00 |
+| over 3 million | search | 1.00 |
+| 35th | search | 1.00 |
+| total ban | search | 1.00 |
+| stablecoin remittance use | search | 1.00 |
+| banned in practice, yet wildly popular | search | 1.00 |
+| 35th | search | 1.00 |
+| not legally recognised | search | 1.00 |

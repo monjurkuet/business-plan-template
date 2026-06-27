@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.737
-evidence_ids: ['cff08d5a-d53', '9e0e90b9-fa2', '769374b3-d07', 'c70bc53a-889', '602a2d02-cf6', '2b4eba13-941', 'bbf5b242-1c8', '368efc51-ca1']
+confidence: 0.74
+evidence_ids: ['d653baae-613', 'fc8752ae-1ec', '01355354-931', '8b2d1f2b-8b4', '4fe5ead5-f20', 'e7824a05-a2c', 'ce27b5f6-098', '6d0bcd8b-130', 'bd836a16-2ff']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -124,22 +124,23 @@ evidence_ids: ['cff08d5a-d53', '9e0e90b9-fa2', '769374b3-d07', 'c70bc53a-889', '
 
 
 
+
 ## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 2026-01-12 | search | 0.95 |
-| 2025-01-12 | search | 0.95 |
-| Outsourcing guarantees accurate, high-quality BIM models that are customized to  | search | 0.90 |
-| Providing BIM outsourcing services across the world, including the USA, in a sen | search | 0.90 |
-| Outsourcing BIM services allows firms to access specialized expertise, reduce op | search | 0.95 |
-| Outsourcing comes with certain challenges that firms must address to ensure seam | search | 0.90 |
-| 600 | search | 0.90 |
-| Small residential | search | 0.90 |
-| 2026-04-23 | search | 0.95 |
-| BIM outsourcing (USA) | search | 0.90 |
-| ['Revit', 'Tekla'] | search | 0.95 |
-| ISO 19650 | search | 0.90 |
-| 200–400 | search | 0.90 |
-| ['Modeling', 'sheets', 'schedules', 'steel & concrete shop drawings', 'BIM coord | search | 0.90 |
-| BIM outsourcing (USA) | search | 0.90 |
+| Bangladesh Public Procurement Authority (BPPA) | search | 1.00 |
+| public procurement policy, regulations, and e-GP systems | search | 1.00 |
+| ensure transparent and efficient procurement in Bangladesh | search | 1.00 |
+| 2026-04-05 | search | 0.90 |
+| foreign investment regulations in Bangladesh | search | 1.00 |
+| Tahmidur Rahman Remura Wahid (TRW) Law Firm | search | 1.00 |
+| legal framework, procedures, and practical advice | search | 1.00 |
+| 14 | search | 1.00 |
+| USA | search | 1.00 |
+| 2026 | search | 1.00 |
+| transforming the construction industry, making projects more efficient and cost- | search | 1.00 |
+| Personal Data Protection Ordinance 2025 | search | 1.00 |
+| 2026-03-21 | search | 0.90 |
+| data subject rights, localization rules, penalties | search | 1.00 |
+| 2026-02 | search | 0.90 |

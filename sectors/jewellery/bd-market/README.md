@@ -2,8 +2,8 @@
 sector: jewellery
 last_verified: 2026-06-27
 freshness: fresh
-confidence: 0.737
-evidence_ids: ['7d1a0e9e-834', '79a13e0f-2d6', '36b73e10-896', '94e76486-069', 'a7e9da1a-7e2']
+confidence: 0.742
+evidence_ids: ['01234853-0d8', '8be76694-97a', 'ed2b43da-f14', 'e5d0a20c-df4']
 ---
 
 # Jewellery — Bangladesh Market
@@ -97,20 +97,16 @@ evidence_ids: ['7d1a0e9e-834', '79a13e0f-2d6', '36b73e10-896', '94e76486-069', '
 
 
 
+
 ## Auto-Updated Data (2026-06-27)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Fashion Jewellery | search | 0.90 |
-| 200 to 3000 | search | 0.90 |
-| ['daily wear', 'festive wear'] | search | 0.90 |
-| Gold Jewellery | search | 0.90 |
-| All gold jewellers in Bangladesh (e.g., Al-Amin Jewellers, Amin Jewellers, Apan  | search | 0.90 |
-| ['churi', 'chain', 'gold bracelet'] | search | 0.90 |
-| ['Gold Jewellery', 'Diamond Jewellery'] | search | 0.90 |
-| Diamond World Limited | search | 0.90 |
-| Affordable | search | 0.80 |
-| best price when buying gold from customers | search | 0.90 |
-| online jewellery shop | search | 1.00 |
-| affordable price | search | 0.90 |
+| impacted on all gold jewellers in Bangladesh | search | 0.90 |
+| churi, chain, gold bracelet | search | 0.95 |
+| 200 to 3000 | search | 1.00 |
+| fashion jewellery | search | 1.00 |
+| daily and festive wear | search | 0.95 |
+| affordable | search | 0.90 |
+| best price when buying gold from customers | search | 0.95 |
 | online jewellery shop | search | 1.00 |
