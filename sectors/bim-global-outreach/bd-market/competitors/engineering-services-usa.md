@@ -112,12 +112,15 @@ freshness: fresh
 
 
 
+
 ## Recent Findings (2026-06-28)
+
+- **tahmidurrahman.com** (conf: 0.74): 7 hours ago ·Bangladeshhas emerged as a significant player in the global marketplace, making it crucial for businesses to navigate the complex landscape ofBangladeshinternational traderegulations. The
+
+- **www.bppa.gov.bd** (conf: 0.74): Apr 5,2026·BPPA is the national authority responsible for public procurement policy,regulations, and e-GP systems to ensure transparent and efficient procurement inBangladesh.
 
 - **www.powerkh.com** (conf: 0.74): Feb 25, 2025 ·14 Best Companies for BIM Outsourcing in the USA (2026) Building Information Modeling (BIM) is transforming the construction industry, making projects more efficient and cost-effective. 
 
-- **www.bimprous.com** (conf: 0.74): Mar 13, 2025 ·Building Information Modeling (BIM)outsourcinghas become an essential practice in the architectural, engineering, and construction (AEC) industry in the United States. With the rapid ado
-
 - **mitchellstover.com** (conf: 0.74): Feb 19,2026·EngagingBim Outsourcing USAresources can unlock cost advantages, access to specialised expertise, and enhanced throughput for complex projects. By distributing work to experienced teams, f
 
-- **bimoffis.com** (conf: 0.75): Apr 23,2026·BIM outsourcing services in the USA explore real costs, pricing factors, and how to choose the right BIM partner in2026.
+- **www.bimprous.com** (conf: 0.74): Mar 13, 2025 ·Building Information Modeling (BIM)outsourcinghas become an essential practice in the architectural, engineering, and construction (AEC) industry in the United States. With the rapid ado

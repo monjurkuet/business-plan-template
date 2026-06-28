@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.743
-evidence_ids: ['755457be-eea', '2e1a9830-8ab', 'cb6934e2-427', 'd90b53dc-132']
+confidence: 0.738
+evidence_ids: ['b09b4f03-827', '30a77e3b-c74', '5fa2f3f7-de8', '3067f81b-766', 'e373850a-648', '7108d28e-ffc', '57072809-3c8', 'f022c714-d67']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -132,17 +132,23 @@ evidence_ids: ['755457be-eea', '2e1a9830-8ab', 'cb6934e2-427', 'd90b53dc-132']
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 14 | search | 0.90 |
-| Building Information Modeling (BIM) is transforming the construction industry, m | search | 0.95 |
-| 2026 | search | 1.00 |
-| Building Information Modeling (BIM) outsourcing has become an essential practice | search | 0.95 |
-| access specialized expertise, reduce costs, handle BIM-related tasks efficiently | search | 0.90 |
-| 2025 | search | 1.00 |
-| cost advantages, access to specialised expertise, enhanced throughput for comple | search | 0.90 |
-| 2026 | search | 1.00 |
-| BIM outsourcing services in the USA explore real costs, pricing factors, and how | search | 0.95 |
-| 2026 | search | 1.00 |
+| Bangladesh international trade regulations govern the import and export of goods | search | 0.90 |
+| 2026 | search | 0.95 |
+| Bangladesh Public Procurement Authority (BPPA) regulations | search | 0.95 |
+| Public procurement policy, regulations, and e-GP systems to ensure transparent a | search | 0.90 |
+| 2026 | search | 0.95 |
+| 14 | search | 0.95 |
+| USA | search | 0.95 |
+| 2026 | search | 0.95 |
+| Cost advantages, access to specialised expertise, enhanced throughput for comple | search | 0.90 |
+| USA | search | 0.95 |
+| 2026 | search | 0.95 |
+| Access to specialized expertise, reduce operational costs, handle BIM-related ta | search | 0.90 |
+| Architectural, engineering, and construction (AEC) industry in the United States | search | 0.95 |
+| essential practice in the architectural, engineering, and construction (AEC) ind | search | 0.90 |
+| access to specialized expertise, reduce operational costs, handle BIM-related ta | search | 0.85 |

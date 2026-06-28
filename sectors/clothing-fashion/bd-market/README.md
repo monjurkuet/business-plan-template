@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.635
-evidence_ids: ['7a7a3474-15f']
+confidence: 0.74
+evidence_ids: ['b1180844-a71', '8929b459-0f8', 'b00c13aa-422', '00ee936b-bdc', 'e27a0293-58f', '867f8ff0-d46', '80ba7a65-aee', 'fba15ab6-95b', '71a36c56-3f5', 'daa4daba-485', '1c9d6f9f-bb4']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -127,11 +127,23 @@ evidence_ids: ['7a7a3474-15f']
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| online fashion store | search | 0.90 |
-| ['clothes', 'dresses', 'shoes'] | search | 0.90 |
-| ['men', 'women', 'kids'] | search | 0.90 |
-| home delivery | search | 0.90 |
+| Womens Clothing | search | 1.00 |
+| Lowest price available in Bangladesh | search | 0.80 |
+| Sales or promotions in June 2026 | search | 0.70 |
+| Tyzo | search | 1.00 |
+| Modern Bangladeshi clothing brand offering stylish, comfortable, and affordable  | search | 0.90 |
+| Premium-quality outfits, perfect fits, fast delivery, reliable service | search | 0.90 |
+| Bangladesh | search | 1.00 |
+| Twelve Clothing | search | 1.00 |
+| Bangladesh’s leading fashion brand offering premium clothing | search | 0.90 |
+| Menswear, womenswear, kidswear, panjabi, kurti, gowns, t-shirts, polos | search | 0.95 |
+| Sailor | search | 1.00 |
+| One of the best fashion retail brands in Bangladesh, offering trendy menswear, w | search | 0.90 |
+| Epyllion Group | search | 0.90 |
+| sailor.clothing | search | 1.00 |
+| Bangladesh's largest online fashion store offering clothes, dresses, shoes and m | search | 0.90 |

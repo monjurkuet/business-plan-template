@@ -2,8 +2,8 @@
 sector: crypto-bitcoin
 last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.742
-evidence_ids: ['b9ec59d5-0e2', '28a40627-661', '01afaadf-b2a', '17841588-136', 'cdf285a0-aaf', '0ac39b26-99e', 'ba12a6d1-866', '6cdb0b44-cac', '43890e59-0c1']
+confidence: 0.741
+evidence_ids: ['bc055aa2-5b2', '1fd2b541-cd6', 'f221fc01-195', '38c18167-19b', '2dc6183f-e34', 'db08a2b9-0ba', 'acf03ab8-d4d', 'e96c07b3-2f5', 'a9292d22-434']
 ---
 
 # Crypto & Bitcoin — Bangladesh Market
@@ -107,22 +107,23 @@ evidence_ids: ['b9ec59d5-0e2', '28a40627-661', '01afaadf-b2a', '17841588-136', '
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| BDT P2P liquidity, bKash and Nagad support | search | 0.90 |
-| 2026 | search | 1.00 |
-| BDT and local payment methods support | search | 0.90 |
-| 2026 | search | 1.00 |
-| June 2026 | search | 1.00 |
-| over 3 million | search | 0.95 |
+| BDT P2P liquidity, bKash and Nagad support, low fees, platform reliability | search | 0.90 |
+| Bangladesh | search | 0.95 |
+| support for BDT and local payment methods | search | 0.90 |
+| Bangladesh | search | 0.95 |
+| Bitcoin, altcoins | search | 0.90 |
+| fees, supported coins, leverage, safety | search | 0.90 |
+| Bangladesh | search | 0.95 |
+| 3 million | search | 0.95 |
 | 35 | search | 0.95 |
-| banned in practice, but popular | search | 0.90 |
-| 2025 | search | 1.00 |
-| 35 | search | 0.95 |
-| banned in practice, yet wildly popular | search | 0.90 |
-| 2025 | search | 1.00 |
-| Cryptocurrency trading education | search | 0.90 |
-| Dhaka, Bangladesh | search | 0.95 |
-| legal | search | 1.00 |
+| total ban (but active usage) | search | 0.95 |
+| stablecoin remittance | search | 0.90 |
+| 775 | search | 0.95 |
+| IT | search | 0.95 |
+| Bangladesh | search | 0.95 |
+| strict restrictions on cryptocurrency | search | 0.90 |

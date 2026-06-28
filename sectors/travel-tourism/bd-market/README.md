@@ -2,8 +2,8 @@
 sector: travel-tourism
 last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.739
-evidence_ids: ['1d4683ff-677', '9c0e3c19-e43', '644cfc47-778', '93f058d8-833', '2b60be3f-431']
+confidence: 0.734
+evidence_ids: ['a8e5ba05-35c', '196468e6-80b', 'cf19ce1d-fa9', 'bb38a778-130', 'd8148d81-beb', '614cac0e-6b1', '97a88b1d-33c', '50a352fd-83d', 'f1df847d-cc6', '208f557e-30b']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -92,22 +92,23 @@ evidence_ids: ['1d4683ff-677', '9c0e3c19-e43', '644cfc47-778', '93f058d8-833', '
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 2017 | search | 0.95 |
-| honest service, affordable prices, and real support | search | 0.90 |
+| Travel Agency Bangladesh | search | 0.95 |
+| Hotels, visa, tours, and flight booking | search | 0.90 |
+| goFLY Limited | search | 0.95 |
 | IATA-certified | search | 0.95 |
-| smooth, safe, and affordable journey | search | 0.90 |
-| best rates, hassle-free travel solutions, exceptional value | search | 0.90 |
-| Gateway Holidays Ltd. | search | 0.95 |
-| Dhaka | search | 0.95 |
-| luxurious travel experiences at affordable rates | search | 0.90 |
-| 322853 | search | 0.95 |
-| 1376 | search | 0.95 |
-| 144 were here | search | 0.95 |
-| Traveltek BD | search | 0.95 |
-| air tickets, visa support, tour packages | search | 0.95 |
-| Gateway Holidays Ltd. | search | 0.95 |
-| Dhaka | search | 0.95 |
+| Dhaka, Bangladesh | search | 0.95 |
+| 2017 | search | 0.95 |
+| affordable prices | search | 0.80 |
+| air ticketing, visa processing, holiday packages, and global tours | search | 0.90 |
+| affordable journey | search | 0.80 |
+| Tafa Travel | search | 0.95 |
+| domestic and international tour packages, air ticket booking, visa assistance, a | search | 0.90 |
+| best travel agency in Bangladesh | search | 0.70 |
+| air tickets, hotels, tour packages | search | 0.90 |
+| online travel agency | search | 0.95 |
+| best rates, hassle-free travel solutions, seamless booking, exceptional value | search | 0.90 |

@@ -2,8 +2,8 @@
 sector: jewellery
 last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.739
-evidence_ids: ['4f8bee4c-166', 'f0ced508-b68', 'acedce6b-7f0', '3db88ecf-4ed']
+confidence: 0.741
+evidence_ids: ['c928c9ee-c26', '21f1c664-0bc', 'a5de0406-a17', 'f779801c-365', '9fde6e94-0fe']
 ---
 
 # Jewellery — Bangladesh Market
@@ -105,22 +105,19 @@ evidence_ids: ['4f8bee4c-166', 'f0ced508-b68', 'acedce6b-7f0', '3db88ecf-4ed']
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| imitation jewellery | search | 0.95 |
-| low pricing | search | 0.90 |
-| retail and wholesale | search | 0.95 |
-| Best & Low Price | search | 0.95 |
-| ['01776060200', '01755559738', '01977722990'] | search | 0.95 |
-| 22k or 916 | search | 0.95 |
-| 2 vori 14 ana 2.6 poyent (46.43 ana, 33.85 gram) | search | 0.95 |
-| hallmark kora | search | 0.95 |
-| 300000 | search | 0.90 |
-| 22000 | search | 0.80 |
+| 26 years | search | 0.95 |
 | Dhaka | search | 0.95 |
-| 2016 | search | 0.90 |
-| 9% less | search | 0.85 |
-| 22k or 916 | search | 0.95 |
-| 2 vori 14 ana 2.6 poyent (46.43 ana, 33.85 gram) | search | 0.95 |
+| gold jewellery | search | 0.95 |
+| 10,000 to 1,00,000 | search | 0.90 |
+| gold jewellery | search | 0.90 |
+| 200 to 3,000 | search | 0.95 |
+| daily and festive wear | search | 0.95 |
+| 22k | search | 0.95 |
+| gold jewellery (rings, chains, coins, bracelets, lockets, earrings, necklaces) | search | 0.95 |
+| 1,990.00 | search | 0.95 |
+| pearl jewelry | search | 0.95 |
