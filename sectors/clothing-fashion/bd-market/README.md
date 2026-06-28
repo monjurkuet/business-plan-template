@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.733
-evidence_ids: ['0975581e-ea8', '097eb41d-8f4', 'e0cde46a-c17', '4d10e424-8e4', '9f2a3284-24e']
+confidence: 0.738
+evidence_ids: ['15eb277e-dc6', '7ebcb517-8b0', '7e7a969b-e86', '32465392-140']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -124,22 +124,18 @@ evidence_ids: ['0975581e-ea8', '097eb41d-8f4', 'e0cde46a-c17', '4d10e424-8e4', '
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| baggy pants | search | 0.90 |
-| limited stock | search | 0.80 |
-| fast delivery across Bangladesh | search | 0.90 |
-| 11.11 Global Shopping Festival | search | 0.90 |
-| Anniversary Sale | search | 0.90 |
-| Summer Sale | search | 0.90 |
-| Bangladesh | search | 0.90 |
-| Mom & Kids | search | 0.90 |
-| Men's Clothing | search | 0.90 |
-| ['t-shirts', 'polo shirts', 'casual shirts', 'summer wear'] | search | 0.90 |
-| fast delivery across Bangladesh | search | 0.90 |
-| women's three-piece sets | search | 0.90 |
-| affordable | search | 0.80 |
-| wholesale deals | search | 0.90 |
-| SiATEX Global | search | 0.90 |
+| baggy pants | search | 0.95 |
+| boys, youth | search | 0.90 |
+| all over Bangladesh | search | 0.95 |
+| affordable price | search | 0.85 |
+| ['free shipping', 'fast delivery', 'free return'] | search | 0.90 |
+| women's three-piece sets | search | 0.95 |
+| affordable, compare prices, wholesale deals | search | 0.90 |
+| custom apparel, t-shirts | search | 0.95 |
+| best factory prices | search | 0.90 |
+| trusted and reliable clothing manufacturer in Bangladesh | search | 0.95 |

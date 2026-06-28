@@ -2,8 +2,8 @@
 sector: jewellery
 last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.733
-evidence_ids: ['f5f57a14-3d2', '7b6b88f9-833', '202d97d4-5e7']
+confidence: 0.735
+evidence_ids: ['f964d911-997', '16fbb134-f88', 'e4b95bd3-173']
 ---
 
 # Jewellery — Bangladesh Market
@@ -102,12 +102,14 @@ evidence_ids: ['f5f57a14-3d2', '7b6b88f9-833', '202d97d4-5e7']
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Above price changes are impacted on all gold jewellers in Bangladesh | search | 0.90 |
-| churi, chain, gold bracelet | search | 0.95 |
+| impacted on all gold jewellers in Bangladesh | search | 0.90 |
+| ['churi', 'chain', 'gold bracelet'] | search | 0.90 |
 | 200 to 3000 | search | 0.95 |
-| daily and festive wear | search | 0.90 |
-| affordable | search | 0.80 |
+| ['daily wear', 'festive wear'] | search | 0.90 |
+| most trusted gold and diamond shop in Bangladesh | search | 0.90 |
+| affordable | search | 0.85 |

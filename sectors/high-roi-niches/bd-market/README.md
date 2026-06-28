@@ -2,8 +2,8 @@
 sector: high-roi-niches
 last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.689
-evidence_ids: ['9821369d-a80', '5625eaf6-8eb']
+confidence: 0.738
+evidence_ids: ['a41b6ca6-137', '1d9535f8-4e1', 'b8251d54-5a8']
 ---
 
 # High-ROI Niches — Bangladesh Market
@@ -109,14 +109,19 @@ This sector captures high-growth, high-margin niche opportunities in Bangladesh.
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| HIT LIFE cat food | search | 0.80 |
-| grain-free cat food | search | 0.85 |
-| ['cat food price', 'pet care Bangladesh', 'cat adoption cost'] | search | 0.80 |
-| PetCareBangladesh | search | 0.90 |
+| Candy's Cat Food | search | 0.90 |
+| HIT LIFE cat food | search | 0.90 |
+| grain-free cat food | search | 0.90 |
+| kitchen flavor Bangladesh | search | 0.85 |
+| PetZone BD | search | 0.95 |
+| Pampered Paws Bangladesh | search | 0.95 |
+| petzonebd.com | search | 0.95 |
+| Pet Care Bangladesh | search | 0.95 |
 | MH Imran | search | 0.90 |
 | Managing Director | search | 0.90 |
-| Bangladesh Veterinary and Pet Care Network (BVPN) | search | 0.90 |
+| Bangladesh Veterinary and Pet Care Network (BVPN) | search | 0.95 |

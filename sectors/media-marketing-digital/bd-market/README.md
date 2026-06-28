@@ -2,8 +2,8 @@
 sector: media-marketing-digital
 last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.738
-evidence_ids: ['2113d821-425', 'dbb5c4c5-b34', 'b12087ad-661']
+confidence: 0.737
+evidence_ids: ['1bfcb86e-a6d', 'ad29f0bb-2ee', '89a87bc4-4bd', 'e0639150-173', '30f876f2-5d5', '25129ee5-845', 'bd208263-c31']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market
@@ -112,6 +112,7 @@ evidence_ids: ['2113d821-425', 'dbb5c4c5-b34', 'b12087ad-661']
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
@@ -120,5 +121,14 @@ evidence_ids: ['2113d821-425', 'dbb5c4c5-b34', 'b12087ad-661']
 | pay only for what you use | search | 0.90 |
 | 2026 | search | 0.95 |
 | actual cost of digital marketing in Bangladesh for 2026, service by service | search | 0.90 |
-| 207 | search | 0.95 |
-| Bangladesh-based IT companies started to export software around two decades ago, | search | 0.90 |
+| hourly rates | search | 0.85 |
+| Digital Marketing Specialist (Account Recovery Expert) | search | 0.95 |
+| Facebook Recovery and Gmail Recovery | search | 0.95 |
+| CyberAware BD | search | 0.90 |
+| Digital Marketing: We Are Digital Warriors Group | search | 0.95 |
+| Largest Friendly Online Community on Digital Marketing | search | 0.90 |
+| LinkedIn Sales Navigator Premium — Smart Access, Better Value | search | 0.95 |
+| Up to 999 fresh seats available daily | search | 0.90 |
+| Try first, pay later — 100% risk-free | search | 0.95 |
+| Instant activation | search | 0.90 |
+| Digital Marketing Bangladesh ডিজিটাল মার্কেটিং বাংলাদেশ | search | 0.95 |

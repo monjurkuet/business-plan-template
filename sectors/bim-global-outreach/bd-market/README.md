@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.742
-evidence_ids: ['3c4f708c-6c7', '0f128fb7-83d', 'f0b41f69-f56', '43780d79-248', '016f5d56-f76', '888cd9b6-403', 'b96b83a5-99a', 'f16adf46-04b', '5a7f08d3-6e3']
+confidence: 0.698
+evidence_ids: ['749075ec-ccd', '6269ee87-b43']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -129,22 +129,13 @@ evidence_ids: ['3c4f708c-6c7', '0f128fb7-83d', 'f0b41f69-f56', '43780d79-248', '
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
 | 600 | search | 0.90 |
-| Small residential | search | 0.90 |
-| 2026-04-23 | search | 0.95 |
-| saves contractors money | search | 0.90 |
-| 2025 | search | 0.95 |
+| small residential | search | 0.95 |
+| 2026-04-23 | search | 0.80 |
 | 2026-01-12 | search | 0.95 |
 | 2025-01-12 | search | 0.95 |
-| BIMBOSS | search | 1.00 |
-| BIM outsourcing and consulting | search | 1.00 |
-| ['USA', 'UK', 'India'] | search | 1.00 |
-| ['contractors', 'engineering design firms', 'architects'] | search | 1.00 |
-| 600 | search | 0.90 |
-| small residential | search | 0.90 |
-| 2026-04-23 | search | 0.95 |
-| 30000-80000 | search | 0.90 |

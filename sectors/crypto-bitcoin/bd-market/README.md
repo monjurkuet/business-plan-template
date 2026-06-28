@@ -2,8 +2,8 @@
 sector: crypto-bitcoin
 last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.74
-evidence_ids: ['96c8e4a6-598', '93195db4-b78', '3420577e-0bd', '33aa1a6c-5ac', '585edf90-d23', 'a43e84f6-2df', '1087d231-8f5', '94636bc5-58e', 'cac6f281-682']
+confidence: 0.736
+evidence_ids: ['614ff9f4-6ac', '2786f6da-543', '67c14178-b99', '6094fcf7-efd', 'bfe55c97-809', 'c4bcfe2f-939', '7a3008f4-560']
 ---
 
 # Crypto & Bitcoin — Bangladesh Market
@@ -105,22 +105,23 @@ evidence_ids: ['96c8e4a6-598', '93195db4-b78', '3420577e-0bd', '33aa1a6c-5ac', '
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| List of crypto exchanges for Bangladesh to buy and sell popular cryptocurrencies | search | 0.95 |
-| Tezos | search | 0.90 |
-| legal | search | 1.00 |
+| TezosBangladesh lists crypto exchanges for Bangladesh | search | 0.90 |
+| legal | search | 0.95 |
 | ['SanzidTech', 'cryptohossain', 'Invest2.Profit', 'EarningRashu', 'Johire786'] | search | 0.95 |
+| YouTube | search | 0.95 |
 | 2026-06 | search | 0.90 |
-| cryptocurrency trading account | search | 0.95 |
-| Bangladesh cryptocurrency exchange or trading platform | search | 0.90 |
-| not legalized but not outright banned | search | 0.95 |
+| Bangladesh cryptocurrency trading accounts available | search | 0.95 |
+| crypto trading platforms | search | 0.90 |
+| not legalized but not banned | search | 0.95 |
 | Bangladesh Bank | search | 0.95 |
-| volatility warning | search | 0.90 |
-| EmpireCryptoData | search | 0.85 |
-| banned | search | 0.95 |
-| ['arrest', 'frozen accounts', 'prison'] | search | 0.90 |
-| ['money laundering laws', 'foreign exchange laws'] | search | 0.90 |
-| Avoid Emotional Trading in Cryptocurrency | search | 0.95 |
+| warns about crypto's volatility | search | 0.90 |
+| Available in Dhaka, Bangladesh | search | 0.85 |
+| Emotional Trading in Cryptocurrency | search | 0.90 |
+| Available for Bangladesh | search | 0.90 |
+| Smart Money Concept for crypto enthusiasts | search | 0.85 |
+| Dhaka, Bangladesh | search | 0.90 |
