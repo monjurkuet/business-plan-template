@@ -2,8 +2,8 @@
 sector: jewellery
 last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.644
-evidence_ids: ['132a6417-d9a']
+confidence: 0.643
+evidence_ids: ['af172128-e13']
 ---
 
 # Jewellery — Bangladesh Market
@@ -107,12 +107,11 @@ evidence_ids: ['132a6417-d9a']
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
+| up to 50% | search | 0.90 |
+| Summer Sale 2026 | search | 0.95 |
 | jewellery | search | 1.00 |
-| pricing | search | 1.00 |
-| price hikes | search | 0.90 |
-| Trump Tariffs | search | 0.90 |
-| 2024-04-03 | search | 1.00 |

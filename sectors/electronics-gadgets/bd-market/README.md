@@ -2,8 +2,8 @@
 sector: electronics-gadgets
 last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.74
-evidence_ids: ['e1d09c4b-cf8', 'b622b440-21b', '4750f57c-f91', '484216a8-018', '42630b22-252', '5a30ee93-1f8', 'd884db7c-fd7']
+confidence: 0.741
+evidence_ids: ['d939b2ca-c40', '77acc139-8c4', '31271a26-56f', '06cdfa79-2da', 'a384931f-33e']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -116,22 +116,21 @@ evidence_ids: ['e1d09c4b-cf8', 'b622b440-21b', '4750f57c-f91', '484216a8-018', '
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| home appliances, ACs, refrigerators, washing machines, smart TVs, ovens | search | 0.90 |
-| official warranty, EMI facilities, fast home delivery | search | 0.90 |
-| seamless online shopping experience, premium quality products | search | 0.90 |
-| authentic products, official warranty, 0% EMI, 16 superstores nationwide | search | 0.95 |
-| Electronics Bangladesh | search | 0.95 |
-| 51734 | search | 0.95 |
-| 8783 | search | 0.95 |
-| 5 | search | 0.95 |
-| TVs, fridges, ACs | search | 0.90 |
-| 30% | search | 0.95 |
-| 67255 | search | 0.95 |
-| 24 | search | 0.95 |
-| 1 | search | 0.95 |
-| 52% | search | 0.95 |
-| EID ধামাকা অফার | search | 0.95 |
+| smartphones | search | 0.95 |
+| ['Samsung', 'Xiaomi', 'OnePlus', 'Vivo', 'HONOR', 'Infinix', 'Tecno'] | search | 0.95 |
+| 100% genuine with official warranty | search | 0.95 |
+| competitive smartphone price in BD | search | 0.90 |
+| TV & Home Appliances | search | 0.95 |
+| energy-efficient, designed for convenience and durability | search | 0.90 |
+| latest prices in Bangladesh | search | 0.90 |
+| ['TVs', 'fridges', 'ACs'] | search | 0.95 |
+| mobile phones | search | 0.95 |
+| 14,699 to 31,899 | search | 0.95 |
+| Express Delivery | search | 0.95 |
+| official warranty | search | 0.95 |
+| ['TVs', 'fridges', 'ACs'] | search | 0.95 |

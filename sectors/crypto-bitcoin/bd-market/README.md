@@ -2,8 +2,8 @@
 sector: crypto-bitcoin
 last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.745
-evidence_ids: ['ac5f22b9-3b9', 'd10a1518-9e5', '5e98cf61-806', 'cae455ff-039', '5201b7f0-f8c', 'd0f5d185-0bb', 'ed8b7b85-919', 'becdc26a-f34', 'e8012f26-d65']
+confidence: 0.75
+evidence_ids: ['f85cdc3d-303', '45c18060-22a', 'bd2609cb-8d4', '8a91a5b5-9b1', 'fd26135f-571']
 ---
 
 # Crypto & Bitcoin — Bangladesh Market
@@ -109,22 +109,22 @@ evidence_ids: ['ac5f22b9-3b9', 'd10a1518-9e5', '5e98cf61-806', 'cae455ff-039', '
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| crypto-bitcoin | search | 1.00 |
-| default | search | 1.00 |
-| ['BDT P2P liquidity', 'bKash and Nagad support', 'low fees', 'platform reliabili | search | 1.00 |
-| 2026 | search | 1.00 |
-| crypto-bitcoin | search | 1.00 |
-| default | search | 1.00 |
-| ['buy', 'sell', 'trade Bitcoin and altcoins'] | search | 1.00 |
-| BDT | search | 1.00 |
-| local payment methods | search | 0.90 |
-| crypto-bitcoin | search | 1.00 |
-| default | search | 1.00 |
-| ['fees', 'supported coins', 'leverage', 'safety'] | search | 1.00 |
-| 2026-06-10 | search | 1.00 |
-| crypto-bitcoin | search | 1.00 |
-| default | search | 1.00 |
+| Cryptocurrency is a type of digital asset that uses distributed ledger, or block | search | 1.00 |
+| blockchain | search | 1.00 |
+| secure transaction records, control the creation of additional coins, and verify | search | 1.00 |
+| cryptocurrency prices and charts by market capitalization | search | 1.00 |
+| current and historic data for Bitcoin and thousands of altcoins | search | 1.00 |
+| buy, sell, store, and trade cryptocurrencies | search | 1.00 |
+| 400+ | search | 1.00 |
+| secure and trusted crypto exchange platform | search | 1.00 |
+| Binance | search | 1.00 |
+| cryptocurrency exchange | search | 1.00 |
+| deep liquidity, low crypto trading fees, Spot and P2P markets | search | 1.00 |
+| track crypto live prices, explore new cryptocurrencies, discover top gaining or  | search | 1.00 |
+| live cryptocurrency price and portfolio tracker | search | 1.00 |
+| historical charts, latest coin markets from crypto exchanges, volume, liquidity, | search | 1.00 |

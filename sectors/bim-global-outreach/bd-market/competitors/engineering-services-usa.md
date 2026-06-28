@@ -114,14 +114,15 @@ freshness: fresh
 
 
 
+
 ## Recent Findings (2026-06-28)
 
-- **www.bppa.gov.bd** (conf: 0.75): Apr 5,2026·BPPA is the national authority responsible for public procurement policy,regulations, and e-GP systems to ensure transparent and efficient procurement inBangladesh.
+- **en.wikipedia.org** (conf: 0.74): 1 week ago -TheBangladeshInstitute of Management (BIM) is a management Institute and the first deemed professional public university ofBangladeshby Act 54 of 2023, established in 1961. Major activitie
 
-- **tahmidurrahman.com** (conf: 0.75): 3 days ago ·Comprehensive guide to foreign investmentregulationsinBangladeshinBangladesh. Expert legal analysis by Tahmidur Rahman Remura Wahid (TRW) Law Firm covering legal framework, procedures, and
+- **www.taaltech.com** (conf: 0.73): February 21, 2026 -Key Steps for Firms Preparing for 2026 As the global landscape continues to evolve, here are practical steps firms can take now: Conduct a BIM capability audit across tools, teams, 
 
-- **www.powerkh.com** (conf: 0.74): Feb 25, 2025 ·14 Best Companies for BIM Outsourcing in the USA (2026) Building Information Modeling (BIM) is transforming the construction industry, making projects more efficient and cost-effective. 
+- **www.teslaoutsourcingservices.com** (conf: 0.73): February 23, 2026 -Nonetheless, BIM outsourcing is ... be clarified. ... BIM standards management and ownership. ...After 2026, BIM outsourcing is no longer a nice-to-have....
 
-- **mitchellstover.com** (conf: 0.74): Feb 19,2026·EngagingBim Outsourcing USAresources can unlock cost advantages, access to specialised expertise, and enhanced throughput for complex projects. By distributing work to experienced teams, f
+- **en.wikipedia.org** (conf: 0.75): Building information modeling(BIM) is an approach involving the generation and management of digital representations of the physical and functional characteristics of buildings or other physical asset
 
-- **customs.gov.bd** (conf: 0.74): Md. Abdur Rahman Khan, FCMA Chairman, National Board of Revenue
+- **www.autodesk.com** (conf: 0.74): Building information modeling(BIM) is the holistic process of creating and managing information for a built asset.

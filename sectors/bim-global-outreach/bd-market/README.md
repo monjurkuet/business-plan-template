@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.742
-evidence_ids: ['8b48dcf5-ec9', 'a3ea9a9c-dca', '3320a156-1d6', '59ec7f8e-fdc', '4bc601df-725', '86f818f0-812', '6d8fa566-1db', '92e3739d-b3d', 'aebdb139-dbd']
+confidence: 0.74
+evidence_ids: ['be07e2f4-197', 'feb7073f-bd9', '117b0e9b-cd2', '25b0b775-28f', '073197f0-942', '8f5e0dea-19c', 'bdb023ae-6aa']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -134,22 +134,23 @@ evidence_ids: ['8b48dcf5-ec9', 'a3ea9a9c-dca', '3320a156-1d6', '59ec7f8e-fdc', '
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Bangladesh Public Procurement Authority (BPPA) | search | 1.00 |
-| public_procurement_policy | search | 0.90 |
-| ['procurement_policy', 'regulations', 'e-GP_systems'] | search | 1.00 |
-| 2026-04-05 | search | 1.00 |
-| legal_guide | search | 1.00 |
-| foreign_investment_regulations | search | 1.00 |
-| Tahmidur Rahman Remura Wahid (TRW) Law Firm | search | 1.00 |
-| ['legal_framework', 'procedures', 'practical_advice'] | search | 1.00 |
-| Building Information Modeling (BIM) is transforming the construction industry, m | search | 0.90 |
-| BIM outsourcing services are available in the USA for architects, engineers, and | search | 0.90 |
-| 2026 | search | 0.95 |
-| Cost advantages, access to specialised expertise, and enhanced throughput for co | search | 0.90 |
-| Model-based cost estimation and multidisciplinary coordination | search | 0.90 |
-| 2026 | search | 0.95 |
-| Bangladesh Customs | search | 0.95 |
+| Bangladesh Institute of Management (BIM) | search | 1.00 |
+| 1961 | search | 1.00 |
+| deemed professional public university | search | 0.90 |
+| Act 54 of 2023 | search | 0.90 |
+| executive education, mid-level management training, research, and consultancy | search | 0.90 |
+| ISO 19650 | search | 0.90 |
+| Conduct a BIM capability audit across tools, teams, and workflows | search | 0.90 |
+| Train project staff in global standards like ISO 19650 | search | 0.90 |
+| Establish a structured Common Data Environment for all major projects | search | 0.90 |
+| Develop reusable templates for public tender submissions | search | 0.90 |
+| Collaborate with experienced BIM consultants or outsourcing partners | search | 0.90 |
+| Monitor regulatory updates | search | 0.90 |
+| After 2026, BIM outsourcing is no longer a nice-to-have | search | 0.90 |
+| Building information modeling (BIM) is an approach involving the generation and  | search | 0.95 |
+| bim-global-outreach | search | 1.00 |
