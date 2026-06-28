@@ -2,8 +2,8 @@
 sector: high-roi-niches
 last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.738
-evidence_ids: ['a41b6ca6-137', '1d9535f8-4e1', 'b8251d54-5a8']
+confidence: 0.743
+evidence_ids: ['5490e995-005', '912336a7-10a', '76cf1ab8-7d9', '0bf71b79-666', '77a73ad4-956', '6bc1f95d-d93']
 ---
 
 # High-ROI Niches — Bangladesh Market
@@ -110,18 +110,23 @@ This sector captures high-growth, high-margin niche opportunities in Bangladesh.
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Candy's Cat Food | search | 0.90 |
-| HIT LIFE cat food | search | 0.90 |
-| grain-free cat food | search | 0.90 |
-| kitchen flavor Bangladesh | search | 0.85 |
-| PetZone BD | search | 0.95 |
-| Pampered Paws Bangladesh | search | 0.95 |
-| petzonebd.com | search | 0.95 |
-| Pet Care Bangladesh | search | 0.95 |
-| MH Imran | search | 0.90 |
-| Managing Director | search | 0.90 |
-| Bangladesh Veterinary and Pet Care Network (BVPN) | search | 0.95 |
+| affordable | search | 0.90 |
+| best prices | search | 0.80 |
+| PetCare Bangladesh | search | 1.00 |
+| 34 | search | 1.00 |
+| ['Buy', 'Sell', 'Care'] | search | 1.00 |
+| 2025-02-20 | search | 1.00 |
+| Cat & Dog Adoption & Supplies | Pet Care Bangladesh | search | 1.00 |
+| ['Buy and sell pets', 'Expert pet care advice', 'Top-quality pet supplies'] | search | 1.00 |
+| 2025-02-09 | search | 1.00 |
+| ['Veterinary support', 'Certified vets'] | search | 1.00 |
+| Precise Petcare | search | 1.00 |
+| Dhaka | search | 1.00 |
+| 310 | search | 1.00 |
+| 2 | search | 1.00 |
+| Pet Supplies | search | 1.00 |

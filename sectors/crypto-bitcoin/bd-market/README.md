@@ -2,8 +2,8 @@
 sector: crypto-bitcoin
 last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.736
-evidence_ids: ['614ff9f4-6ac', '2786f6da-543', '67c14178-b99', '6094fcf7-efd', 'bfe55c97-809', 'c4bcfe2f-939', '7a3008f4-560']
+confidence: 0.742
+evidence_ids: ['b9ec59d5-0e2', '28a40627-661', '01afaadf-b2a', '17841588-136', 'cdf285a0-aaf', '0ac39b26-99e', 'ba12a6d1-866', '6cdb0b44-cac', '43890e59-0c1']
 ---
 
 # Crypto & Bitcoin — Bangladesh Market
@@ -106,22 +106,23 @@ evidence_ids: ['614ff9f4-6ac', '2786f6da-543', '67c14178-b99', '6094fcf7-efd', '
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| TezosBangladesh lists crypto exchanges for Bangladesh | search | 0.90 |
-| legal | search | 0.95 |
-| ['SanzidTech', 'cryptohossain', 'Invest2.Profit', 'EarningRashu', 'Johire786'] | search | 0.95 |
-| YouTube | search | 0.95 |
-| 2026-06 | search | 0.90 |
-| Bangladesh cryptocurrency trading accounts available | search | 0.95 |
-| crypto trading platforms | search | 0.90 |
-| not legalized but not banned | search | 0.95 |
-| Bangladesh Bank | search | 0.95 |
-| warns about crypto's volatility | search | 0.90 |
-| Available in Dhaka, Bangladesh | search | 0.85 |
-| Emotional Trading in Cryptocurrency | search | 0.90 |
-| Available for Bangladesh | search | 0.90 |
-| Smart Money Concept for crypto enthusiasts | search | 0.85 |
-| Dhaka, Bangladesh | search | 0.90 |
+| BDT P2P liquidity, bKash and Nagad support | search | 0.90 |
+| 2026 | search | 1.00 |
+| BDT and local payment methods support | search | 0.90 |
+| 2026 | search | 1.00 |
+| June 2026 | search | 1.00 |
+| over 3 million | search | 0.95 |
+| 35 | search | 0.95 |
+| banned in practice, but popular | search | 0.90 |
+| 2025 | search | 1.00 |
+| 35 | search | 0.95 |
+| banned in practice, yet wildly popular | search | 0.90 |
+| 2025 | search | 1.00 |
+| Cryptocurrency trading education | search | 0.90 |
+| Dhaka, Bangladesh | search | 0.95 |
+| legal | search | 1.00 |

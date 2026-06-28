@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.698
-evidence_ids: ['749075ec-ccd', '6269ee87-b43']
+confidence: 0.74
+evidence_ids: ['05da852a-a4d', '38a27010-961', '392de5f5-1be', '5a8bca65-403', 'f86868fc-8af', '94641a8d-f7d', 'af3bbd41-02d']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -130,12 +130,23 @@ evidence_ids: ['749075ec-ccd', '6269ee87-b43']
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 600 | search | 0.90 |
-| small residential | search | 0.95 |
-| 2026-04-23 | search | 0.80 |
-| 2026-01-12 | search | 0.95 |
-| 2025-01-12 | search | 0.95 |
+| Customs Regulations and Compliance | search | 0.95 |
+| international trade, import and export of goods | search | 0.95 |
+| essential for businesses and individuals engaged in trade | search | 0.90 |
+| BIM outsourcing transforming the construction industry | search | 0.95 |
+| more efficient and cost-effective projects | search | 0.95 |
+| USA | search | 0.95 |
+| 2025-02-25 | search | 0.95 |
+| Bangladesh Bank Order, 1972 | search | 0.95 |
+| Bangladesh Bank (BB) | search | 0.95 |
+| banking | search | 0.95 |
+| 2026 | search | 0.90 |
+| BIM outsourcing | search | 0.95 |
+| USA | search | 0.95 |
+| 2026 | search | 0.90 |
+| National Board of Revenue | search | 0.95 |

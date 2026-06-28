@@ -2,8 +2,8 @@
 sector: automotive-car-care
 last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.736
-evidence_ids: ['b0e3dae1-36f', '9f860c52-f42', '29ef336d-484', '0d138ab8-533', 'feeb4023-512']
+confidence: 0.74
+evidence_ids: ['1d2477a8-a38', '5288c11a-ad5', 'c9b550bc-916', 'abc41a15-116']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -141,19 +141,19 @@ evidence_ids: ['b0e3dae1-36f', '9f860c52-f42', '29ef336d-484', '0d138ab8-533', '
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Premium Car Detailing Service, Ceramic Coating, Polish, Deep Clean, Home Service | search | 0.90 |
-| WhatsApp | search | 0.95 |
-| +88018920898735 | search | 0.95 |
-| Dhaka, Bangladesh | search | 0.90 |
-| Real Japan auction price for Toyota, Honda & SUV cars | search | 0.90 |
-| Pre-order process for cars in Bangladesh | search | 0.85 |
-| Price comparison and updated prices for products in Bangladesh | search | 0.90 |
-| Gasoline, Diesel, Petrol, Crude Oil, LPG, Electricity | search | 0.95 |
-| Commercial and residential tariff for energy prices in Bangladesh | search | 0.90 |
-| Car Care | search | 0.90 |
+| car price information | search | 0.95 |
+| Japan auction | search | 0.95 |
+| ['Toyota', 'Honda', 'SUV'] | search | 0.90 |
+| 2026 | search | 0.90 |
+| price comparison and reviews | search | 0.95 |
+| vehicles for sale | search | 0.95 |
+| 1 | search | 0.90 |
+| 27527 | search | 0.95 |
+| Car Care, Dhaka,Bangladesh | search | 0.90 |
 | Dhaka, Bangladesh | search | 0.95 |
 | 127 | search | 0.90 |
