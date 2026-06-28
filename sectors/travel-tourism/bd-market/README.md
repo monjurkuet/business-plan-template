@@ -2,8 +2,8 @@
 sector: travel-tourism
 last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.732
-evidence_ids: ['334d6856-083', '205d5380-6f8', 'bebc6b47-05b', 'aba1504c-882', '63c065ec-cf8']
+confidence: 0.739
+evidence_ids: ['1d4683ff-677', '9c0e3c19-e43', '644cfc47-778', '93f058d8-833', '2b60be3f-431']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -91,20 +91,23 @@ evidence_ids: ['334d6856-083', '205d5380-6f8', 'bebc6b47-05b', 'aba1504c-882', '
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Hotels, visa, tours, and flight booking | search | 0.90 |
-| Trusted travel team providing integrated travel services | search | 0.80 |
-| IATA-certified | search | 1.00 |
-| 2017 | search | 1.00 |
+| 2017 | search | 0.95 |
 | honest service, affordable prices, and real support | search | 0.90 |
-| Dhaka, Bangladesh | search | 1.00 |
-| air ticketing, visa processing, holiday packages, and global tours | search | 0.90 |
-| smooth, safe, and affordable journey | search | 0.80 |
-| domestic and international tour packages, air ticket booking, visa assistance, a | search | 0.90 |
-| best travel agency in Bangladesh | search | 0.80 |
-| air tickets, hotels, and tour packages | search | 0.90 |
-| Bangladesh's leading online travel agency | search | 0.80 |
-| best rates, hassle-free travel solutions, seamless booking, and exceptional valu | search | 0.90 |
+| IATA-certified | search | 0.95 |
+| smooth, safe, and affordable journey | search | 0.90 |
+| best rates, hassle-free travel solutions, exceptional value | search | 0.90 |
+| Gateway Holidays Ltd. | search | 0.95 |
+| Dhaka | search | 0.95 |
+| luxurious travel experiences at affordable rates | search | 0.90 |
+| 322853 | search | 0.95 |
+| 1376 | search | 0.95 |
+| 144 were here | search | 0.95 |
+| Traveltek BD | search | 0.95 |
+| air tickets, visa support, tour packages | search | 0.95 |
+| Gateway Holidays Ltd. | search | 0.95 |
+| Dhaka | search | 0.95 |

@@ -2,8 +2,8 @@
 sector: electronics-gadgets
 last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.745
-evidence_ids: ['6d848774-852', 'ecdf78ea-42a', '9558c366-649', '84b0f86b-237', '38c67d63-f49', '582a9ea9-456', 'bb93ba72-164', 'b38a56a9-e07', 'b12f9d8e-6e9', '0a5c5a21-517', '0ad9faae-4b8']
+confidence: 0.734
+evidence_ids: ['f08ce34d-95d', '27ce0a9b-5ee', 'ace5ca27-ffa', '62928a64-2cf', '53bb2eb5-65a', '1e7351fd-8fe']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -114,22 +114,23 @@ evidence_ids: ['6d848774-852', 'ecdf78ea-42a', '9558c366-649', '84b0f86b-237', '
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| smartphones | search | 0.95 |
-| ['Samsung', 'Xiaomi', 'OnePlus', 'Vivo', 'HONOR', 'Infinix', 'Tecno'] | search | 0.95 |
-| 100% genuine with official warranty | search | 0.95 |
-| competitive smartphone price in BD | search | 0.90 |
-| ['TV', 'Home Appliances'] | search | 0.95 |
-| energy-efficient, designed for convenience and durability | search | 0.90 |
-| 2026-04-06 | search | 0.95 |
-| latest prices in Bangladesh | search | 0.90 |
-| ['TVs', 'fridges', 'ACs'] | search | 0.95 |
-| online | search | 0.95 |
-| 14,699 to 31,899 | search | 0.95 |
-| mobile phones | search | 0.95 |
-| Express Delivery | search | 0.95 |
-| official warranty | search | 0.95 |
-| ['TVs', 'fridges', 'ACs'] | search | 0.95 |
+| electronics | search | 0.90 |
+| e-commerce shop for electronics | search | 0.90 |
+| ['ACs', 'refrigerators', 'washing machines', 'smart TVs', 'ovens'] | search | 0.90 |
+| ['official warranty', 'EMI facilities', 'fast home delivery'] | search | 0.90 |
+| unbeatable prices | search | 0.80 |
+| authorized multi-brand electronics retailer | search | 0.90 |
+| ['authentic products', 'official warranty', '0% EMI', '16 superstores nationwide | search | 0.90 |
+| one-stop shop for electronic and electrical products | search | 0.90 |
+| e-commerce shop for electronics | search | 0.90 |
+| ['ACs', 'refrigerators', 'washing machines', 'smart TVs', 'ovens'] | search | 0.90 |
+| ['official warranty', 'EMI facilities', 'fast home delivery'] | search | 0.90 |
+| unbeatable prices | search | 0.80 |
+| consumer electronics online shopping platform | search | 0.90 |
+| premium quality products | search | 0.90 |
+| seamless online shopping experience | search | 0.90 |

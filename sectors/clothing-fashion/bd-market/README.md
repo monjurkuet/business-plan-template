@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.73
-evidence_ids: ['6fec2e61-e76', '61b2967b-5aa', '14eb5cc6-f0d', '70c0316d-d10', '3cf4f5e6-dfe', '0533a08f-798']
+confidence: 0.635
+evidence_ids: ['7a7a3474-15f']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -126,22 +126,12 @@ evidence_ids: ['6fec2e61-e76', '61b2967b-5aa', '14eb5cc6-f0d', '70c0316d-d10', '
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| lowest price available | search | 0.80 |
-| June 2026 | search | 0.90 |
-| Best prices in home delivery | search | 0.80 |
-| 299 | search | 0.95 |
-| Premium Summer T-shirt | search | 0.95 |
-| 3 | search | 0.95 |
-| ['M', 'L', 'XL', 'XXL'] | search | 0.95 |
-| 2-3 Days | search | 0.95 |
-| All Over Bangladesh | search | 0.95 |
-| 01617823334 | search | 0.95 |
-| affordable price | search | 0.80 |
-| দেশের সকল ব্র্যান্ড এর ডিসকাউন্ট অফার | search | 0.90 |
-| clothing supplier, exporter, wholesale company | search | 0.90 |
-| top quality clothes | search | 0.80 |
-| affordable price | search | 0.70 |
+| online fashion store | search | 0.90 |
+| ['clothes', 'dresses', 'shoes'] | search | 0.90 |
+| ['men', 'women', 'kids'] | search | 0.90 |
+| home delivery | search | 0.90 |

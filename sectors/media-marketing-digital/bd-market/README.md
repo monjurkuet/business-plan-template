@@ -2,8 +2,8 @@
 sector: media-marketing-digital
 last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.7
-evidence_ids: ['f073b2b1-891', '447d1492-f8d']
+confidence: 0.733
+evidence_ids: ['6a0bf43f-550', 'b72bb6c5-8ae', '739d5e62-802', '30720bc4-c60']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market
@@ -114,12 +114,16 @@ evidence_ids: ['f073b2b1-891', '447d1492-f8d']
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| digital marketing | search | 0.95 |
-| ['GEEKY SOCIAL LTD.', 'OneLittleWeb', 'BrandViser', 'MonsterClaw LLC', 'Notionhi | search | 0.90 |
-| 2026 | search | 0.90 |
-| ['Bulk SMS', 'Email Marketing', 'Interactive Voice'] | search | 0.95 |
-| Bangladesh | search | 0.95 |
+| affordable | search | 0.90 |
+| Bulk SMS, Email Marketing, Voice Marketing | search | 0.95 |
+| best price in digital marketing Bangladesh | search | 0.80 |
+| Bulk SMS, Email Marketing, Voice Marketing | search | 0.95 |
+| best price in digital marketing Bangladesh | search | 0.80 |
+| Get LinkedIn Sales Navigator Premium — Smart Access, Better Value. Connect with  | search | 0.90 |
+| Up to 999 fresh seats available daily | search | 0.90 |
+| Try first, pay later — 100% risk-free | search | 0.90 |
