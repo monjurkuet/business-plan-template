@@ -2,8 +2,8 @@
 sector: travel-tourism
 last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.734
-evidence_ids: ['a8e5ba05-35c', '196468e6-80b', 'cf19ce1d-fa9', 'bb38a778-130', 'd8148d81-beb', '614cac0e-6b1', '97a88b1d-33c', '50a352fd-83d', 'f1df847d-cc6', '208f557e-30b']
+confidence: 0.742
+evidence_ids: ['0191c917-326', 'b3ae552a-f3e', 'e53719da-295', '95ffaafd-beb']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -93,22 +93,23 @@ evidence_ids: ['a8e5ba05-35c', '196468e6-80b', 'cf19ce1d-fa9', 'bb38a778-130', '
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Travel Agency Bangladesh | search | 0.95 |
-| Hotels, visa, tours, and flight booking | search | 0.90 |
-| goFLY Limited | search | 0.95 |
-| IATA-certified | search | 0.95 |
-| Dhaka, Bangladesh | search | 0.95 |
-| 2017 | search | 0.95 |
-| affordable prices | search | 0.80 |
-| air ticketing, visa processing, holiday packages, and global tours | search | 0.90 |
-| affordable journey | search | 0.80 |
-| Tafa Travel | search | 0.95 |
-| domestic and international tour packages, air ticket booking, visa assistance, a | search | 0.90 |
-| best travel agency in Bangladesh | search | 0.70 |
-| air tickets, hotels, tour packages | search | 0.90 |
-| online travel agency | search | 0.95 |
-| best rates, hassle-free travel solutions, seamless booking, exceptional value | search | 0.90 |
+| 322853 | search | 0.95 |
+| 1376 | search | 0.95 |
+| 144 | search | 0.95 |
+| luxurious travel experiences at affordable rates | search | 0.90 |
+| 1393 | search | 0.95 |
+| 1 | search | 0.95 |
+| ['air tickets', 'visa support', 'tour packages'] | search | 0.95 |
+| {'route': 'Kuala Lumpur - Dhaka (1WAY)', 'airline': 'Malaysia Airlines', 'flight | search | 0.95 |
+| 903 | search | 0.95 |
+| 2 | search | 0.95 |
+| {'route': 'Kuala Lumpur - Dhaka (1WAY)', 'airline': 'Malaysia Airlines', 'flight | search | 0.95 |
+| 16685 | search | 0.95 |
+| 250 | search | 0.95 |
+| 903 | search | 0.95 |
+| ['FAMILY TOUR', 'GROUP TOUR', 'UMRAH PACKAGES', 'VISA SUPPORT', 'AIR TICKET', 'C | search | 0.95 |

@@ -102,6 +102,7 @@ freshness: fresh
 
 
 
+
 ## Recent Findings (2026-06-28)
 
-- **www.garirbazar.com** (conf: 0.74): May 9, 2026 -GarirBazar provides you exclusive access the best car prices in Bangladesh, used car price in Bangladesh, BD recondition car price, BD car loans and schedule viewings with the best car sh
+- **www.garirbazar.com** (conf: 0.75): May 9, 2026 -GarirBazar provides you exclusive access the best car prices in Bangladesh, used car price in Bangladesh, BD recondition car price, BD car loans and schedule viewings with the best car sh

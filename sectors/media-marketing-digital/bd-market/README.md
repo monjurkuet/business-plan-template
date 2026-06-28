@@ -2,8 +2,8 @@
 sector: media-marketing-digital
 last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.733
-evidence_ids: ['6a0bf43f-550', 'b72bb6c5-8ae', '739d5e62-802', '30720bc4-c60']
+confidence: 0.737
+evidence_ids: ['f10a0285-68e', '40947ef0-4b7', '648e6125-dd5', 'a556308f-e40']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market
@@ -115,15 +115,20 @@ evidence_ids: ['6a0bf43f-550', 'b72bb6c5-8ae', '739d5e62-802', '30720bc4-c60']
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| affordable | search | 0.90 |
-| Bulk SMS, Email Marketing, Voice Marketing | search | 0.95 |
-| best price in digital marketing Bangladesh | search | 0.80 |
-| Bulk SMS, Email Marketing, Voice Marketing | search | 0.95 |
-| best price in digital marketing Bangladesh | search | 0.80 |
-| Get LinkedIn Sales Navigator Premium — Smart Access, Better Value. Connect with  | search | 0.90 |
+| ['GEEKY SOCIAL LTD.', 'OneLittleWeb', 'BrandViser', 'MonsterClaw LLC', 'Notionhi | search | 0.90 |
+| Bulk SMS, Email Marketing, interactive Voice | search | 0.95 |
+| The best price in digital marketing Bangladesh | search | 0.80 |
+| media-marketing-digital | search | 1.00 |
+| pricing | search | 1.00 |
+| ['GEEKY SOCIAL LTD.', 'OneLittleWeb', 'BrandViser', 'MonsterClaw LLC', 'Notionhi | search | 1.00 |
+| Digital Marketing Training Course | search | 0.90 |
+| Creative IT | search | 0.90 |
+| ['keyword research', 'SEO', 'competitor analysis', 'affiliate marketing'] | search | 0.90 |
+| LinkedIn Sales Navigator Premium – Smart Access, Better Value | search | 0.95 |
 | Up to 999 fresh seats available daily | search | 0.90 |
-| Try first, pay later — 100% risk-free | search | 0.90 |
+| Try first, pay later – 100% risk-free | search | 0.95 |

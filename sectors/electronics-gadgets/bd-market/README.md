@@ -2,8 +2,8 @@
 sector: electronics-gadgets
 last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.734
-evidence_ids: ['f08ce34d-95d', '27ce0a9b-5ee', 'ace5ca27-ffa', '62928a64-2cf', '53bb2eb5-65a', '1e7351fd-8fe']
+confidence: 0.74
+evidence_ids: ['e1d09c4b-cf8', 'b622b440-21b', '4750f57c-f91', '484216a8-018', '42630b22-252', '5a30ee93-1f8', 'd884db7c-fd7']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -115,22 +115,23 @@ evidence_ids: ['f08ce34d-95d', '27ce0a9b-5ee', 'ace5ca27-ffa', '62928a64-2cf', '
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| electronics | search | 0.90 |
-| e-commerce shop for electronics | search | 0.90 |
-| ['ACs', 'refrigerators', 'washing machines', 'smart TVs', 'ovens'] | search | 0.90 |
-| ['official warranty', 'EMI facilities', 'fast home delivery'] | search | 0.90 |
-| unbeatable prices | search | 0.80 |
-| authorized multi-brand electronics retailer | search | 0.90 |
-| ['authentic products', 'official warranty', '0% EMI', '16 superstores nationwide | search | 0.90 |
-| one-stop shop for electronic and electrical products | search | 0.90 |
-| e-commerce shop for electronics | search | 0.90 |
-| ['ACs', 'refrigerators', 'washing machines', 'smart TVs', 'ovens'] | search | 0.90 |
-| ['official warranty', 'EMI facilities', 'fast home delivery'] | search | 0.90 |
-| unbeatable prices | search | 0.80 |
-| consumer electronics online shopping platform | search | 0.90 |
-| premium quality products | search | 0.90 |
-| seamless online shopping experience | search | 0.90 |
+| home appliances, ACs, refrigerators, washing machines, smart TVs, ovens | search | 0.90 |
+| official warranty, EMI facilities, fast home delivery | search | 0.90 |
+| seamless online shopping experience, premium quality products | search | 0.90 |
+| authentic products, official warranty, 0% EMI, 16 superstores nationwide | search | 0.95 |
+| Electronics Bangladesh | search | 0.95 |
+| 51734 | search | 0.95 |
+| 8783 | search | 0.95 |
+| 5 | search | 0.95 |
+| TVs, fridges, ACs | search | 0.90 |
+| 30% | search | 0.95 |
+| 67255 | search | 0.95 |
+| 24 | search | 0.95 |
+| 1 | search | 0.95 |
+| 52% | search | 0.95 |
+| EID ধামাকা অফার | search | 0.95 |

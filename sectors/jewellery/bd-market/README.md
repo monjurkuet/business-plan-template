@@ -2,8 +2,8 @@
 sector: jewellery
 last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.741
-evidence_ids: ['c928c9ee-c26', '21f1c664-0bc', 'a5de0406-a17', 'f779801c-365', '9fde6e94-0fe']
+confidence: 0.644
+evidence_ids: ['132a6417-d9a']
 ---
 
 # Jewellery — Bangladesh Market
@@ -106,18 +106,13 @@ evidence_ids: ['c928c9ee-c26', '21f1c664-0bc', 'a5de0406-a17', 'f779801c-365', '
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 26 years | search | 0.95 |
-| Dhaka | search | 0.95 |
-| gold jewellery | search | 0.95 |
-| 10,000 to 1,00,000 | search | 0.90 |
-| gold jewellery | search | 0.90 |
-| 200 to 3,000 | search | 0.95 |
-| daily and festive wear | search | 0.95 |
-| 22k | search | 0.95 |
-| gold jewellery (rings, chains, coins, bracelets, lockets, earrings, necklaces) | search | 0.95 |
-| 1,990.00 | search | 0.95 |
-| pearl jewelry | search | 0.95 |
+| jewellery | search | 1.00 |
+| pricing | search | 1.00 |
+| price hikes | search | 0.90 |
+| Trump Tariffs | search | 0.90 |
+| 2024-04-03 | search | 1.00 |

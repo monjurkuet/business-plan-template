@@ -3,7 +3,7 @@ sector: clothing-fashion
 last_verified: 2026-06-28
 freshness: fresh
 confidence: 0.74
-evidence_ids: ['b1180844-a71', '8929b459-0f8', 'b00c13aa-422', '00ee936b-bdc', 'e27a0293-58f', '867f8ff0-d46', '80ba7a65-aee', 'fba15ab6-95b', '71a36c56-3f5', 'daa4daba-485', '1c9d6f9f-bb4']
+evidence_ids: ['eac117e1-ba3', 'e8dc4874-57e', 'db8b25c5-6b0', '0cae2330-a4e', 'e2f7e96b-c61', '8fdfa72e-c6c', 'bfbd2f00-461', '265f4315-df5', 'd61e3eaa-318', '2f19701b-81e', '9e858c7e-d80']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -128,22 +128,23 @@ evidence_ids: ['b1180844-a71', '8929b459-0f8', 'b00c13aa-422', '00ee936b-bdc', '
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Womens Clothing | search | 1.00 |
-| Lowest price available in Bangladesh | search | 0.80 |
-| Sales or promotions in June 2026 | search | 0.70 |
-| Tyzo | search | 1.00 |
-| Modern Bangladeshi clothing brand offering stylish, comfortable, and affordable  | search | 0.90 |
-| Premium-quality outfits, perfect fits, fast delivery, reliable service | search | 0.90 |
-| Bangladesh | search | 1.00 |
-| Twelve Clothing | search | 1.00 |
-| Bangladesh’s leading fashion brand offering premium clothing | search | 0.90 |
-| Menswear, womenswear, kidswear, panjabi, kurti, gowns, t-shirts, polos | search | 0.95 |
-| Sailor | search | 1.00 |
+| Womens Clothing | search | 0.95 |
+| What is the lowest Womens Clothing price available in Bangladesh? | search | 0.90 |
+| Which Womens Clothing model sells the most in Bangladesh? | search | 0.90 |
+| Are there Womens Clothing sales or promotions in June 2026? | search | 0.90 |
+| Where to buy genuine Womens Clothing online in Bangladesh? | search | 0.90 |
+| Twelve Clothing | search | 0.95 |
+| Bangladesh’s leading fashion brand offering premium clothing, trendy menswear, w | search | 0.90 |
+| Sailor | search | 0.95 |
 | One of the best fashion retail brands in Bangladesh, offering trendy menswear, w | search | 0.90 |
 | Epyllion Group | search | 0.90 |
-| sailor.clothing | search | 1.00 |
-| Bangladesh's largest online fashion store offering clothes, dresses, shoes and m | search | 0.90 |
+| sailor.clothing | search | 0.95 |
+| JamaKapor | search | 0.95 |
+| Bangladesh's largest online fashion store for clothes, dresses, shoes and more f | search | 0.90 |
+| Best prices in home delivery | search | 0.90 |
+| Gentle Park | search | 0.95 |

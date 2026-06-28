@@ -2,8 +2,8 @@
 sector: automotive-car-care
 last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.742
-evidence_ids: ['db10900a-a2f', 'b0ca5e15-016', '93e39696-a8a', 'e795a4f4-ca8']
+confidence: 0.748
+evidence_ids: ['02ef2d9e-4ec', '3abde498-883', 'be7b2935-d38', 'bb352402-f40', 'c028fcbd-635', '4ccc4328-7be']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -144,18 +144,23 @@ evidence_ids: ['db10900a-a2f', 'b0ca5e15-016', '93e39696-a8a', 'e795a4f4-ca8']
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Dhaka, Bangladesh | search | 0.95 |
-| Car Care | search | 0.95 |
-| Gasoline (Petrol), Diesel, LPG, Kerosene, Heating Oil | search | 0.90 |
-| BDT | search | 1.00 |
-| Litre, Barrel, Gallon | search | 0.90 |
-| Gold | search | 1.00 |
-| BDT | search | 1.00 |
-| Daily, according to live spot prices | search | 0.90 |
-| Car Care | search | 0.95 |
-| Dhaka, Bangladesh | search | 0.95 |
-| Take care of your car in the garage | search | 0.90 |
+| car_price_listing | search | 1.00 |
+| brand_new_and_recondition_cars | search | 1.00 |
+| ['Toyota', 'Nissan', 'Honda'] | search | 1.00 |
+| 2026-02-05 | search | 1.00 |
+| car_price_listing | search | 1.00 |
+| brand_new_cars | search | 1.00 |
+| ['specifications', 'installment_details', 'down_payment', 'availability'] | search | 1.00 |
+| car_sales_platform | search | 1.00 |
+| ['used_cars', 'recondition_cars'] | search | 1.00 |
+| ['car_loans', 'schedule_viewings'] | search | 1.00 |
+| Dhaka | search | 1.00 |
+| 2026-05-09 | search | 1.00 |
+| car_price_listing | search | 1.00 |
+| buy_and_sell_cars | search | 1.00 |
+| ['Toyota', 'Nissan', 'Mazda', 'Mitsubishi', 'Honda', 'Hyundai', 'Suzuki', 'Lexus | search | 1.00 |

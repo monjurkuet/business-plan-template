@@ -113,14 +113,15 @@ freshness: fresh
 
 
 
+
 ## Recent Findings (2026-06-28)
 
-- **tahmidurrahman.com** (conf: 0.74): 7 hours ago ·Bangladeshhas emerged as a significant player in the global marketplace, making it crucial for businesses to navigate the complex landscape ofBangladeshinternational traderegulations. The
+- **www.bppa.gov.bd** (conf: 0.75): Apr 5,2026·BPPA is the national authority responsible for public procurement policy,regulations, and e-GP systems to ensure transparent and efficient procurement inBangladesh.
 
-- **www.bppa.gov.bd** (conf: 0.74): Apr 5,2026·BPPA is the national authority responsible for public procurement policy,regulations, and e-GP systems to ensure transparent and efficient procurement inBangladesh.
+- **tahmidurrahman.com** (conf: 0.75): 3 days ago ·Comprehensive guide to foreign investmentregulationsinBangladeshinBangladesh. Expert legal analysis by Tahmidur Rahman Remura Wahid (TRW) Law Firm covering legal framework, procedures, and
 
 - **www.powerkh.com** (conf: 0.74): Feb 25, 2025 ·14 Best Companies for BIM Outsourcing in the USA (2026) Building Information Modeling (BIM) is transforming the construction industry, making projects more efficient and cost-effective. 
 
 - **mitchellstover.com** (conf: 0.74): Feb 19,2026·EngagingBim Outsourcing USAresources can unlock cost advantages, access to specialised expertise, and enhanced throughput for complex projects. By distributing work to experienced teams, f
 
-- **www.bimprous.com** (conf: 0.74): Mar 13, 2025 ·Building Information Modeling (BIM)outsourcinghas become an essential practice in the architectural, engineering, and construction (AEC) industry in the United States. With the rapid ado
+- **customs.gov.bd** (conf: 0.74): Md. Abdur Rahman Khan, FCMA Chairman, National Board of Revenue

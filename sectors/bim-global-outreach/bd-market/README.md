@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-06-28
 freshness: fresh
-confidence: 0.738
-evidence_ids: ['b09b4f03-827', '30a77e3b-c74', '5fa2f3f7-de8', '3067f81b-766', 'e373850a-648', '7108d28e-ffc', '57072809-3c8', 'f022c714-d67']
+confidence: 0.742
+evidence_ids: ['8b48dcf5-ec9', 'a3ea9a9c-dca', '3320a156-1d6', '59ec7f8e-fdc', '4bc601df-725', '86f818f0-812', '6d8fa566-1db', '92e3739d-b3d', 'aebdb139-dbd']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -133,22 +133,23 @@ evidence_ids: ['b09b4f03-827', '30a77e3b-c74', '5fa2f3f7-de8', '3067f81b-766', '
 
 
 
+
 ## Auto-Updated Data (2026-06-28)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Bangladesh international trade regulations govern the import and export of goods | search | 0.90 |
+| Bangladesh Public Procurement Authority (BPPA) | search | 1.00 |
+| public_procurement_policy | search | 0.90 |
+| ['procurement_policy', 'regulations', 'e-GP_systems'] | search | 1.00 |
+| 2026-04-05 | search | 1.00 |
+| legal_guide | search | 1.00 |
+| foreign_investment_regulations | search | 1.00 |
+| Tahmidur Rahman Remura Wahid (TRW) Law Firm | search | 1.00 |
+| ['legal_framework', 'procedures', 'practical_advice'] | search | 1.00 |
+| Building Information Modeling (BIM) is transforming the construction industry, m | search | 0.90 |
+| BIM outsourcing services are available in the USA for architects, engineers, and | search | 0.90 |
 | 2026 | search | 0.95 |
-| Bangladesh Public Procurement Authority (BPPA) regulations | search | 0.95 |
-| Public procurement policy, regulations, and e-GP systems to ensure transparent a | search | 0.90 |
+| Cost advantages, access to specialised expertise, and enhanced throughput for co | search | 0.90 |
+| Model-based cost estimation and multidisciplinary coordination | search | 0.90 |
 | 2026 | search | 0.95 |
-| 14 | search | 0.95 |
-| USA | search | 0.95 |
-| 2026 | search | 0.95 |
-| Cost advantages, access to specialised expertise, enhanced throughput for comple | search | 0.90 |
-| USA | search | 0.95 |
-| 2026 | search | 0.95 |
-| Access to specialized expertise, reduce operational costs, handle BIM-related ta | search | 0.90 |
-| Architectural, engineering, and construction (AEC) industry in the United States | search | 0.95 |
-| essential practice in the architectural, engineering, and construction (AEC) ind | search | 0.90 |
-| access to specialized expertise, reduce operational costs, handle BIM-related ta | search | 0.85 |
+| Bangladesh Customs | search | 0.95 |
