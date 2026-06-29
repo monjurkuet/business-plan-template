@@ -1,9 +1,9 @@
 ---
 sector: travel-tourism
-last_verified: 2026-06-29
+last_verified: 2026-06-30
 freshness: fresh
-confidence: 0.74
-evidence_ids: ['f1c59a15-c68', '074e71f2-fa9', 'e920cead-04b']
+confidence: 0.736
+evidence_ids: ['c16ee4ca-25e', 'd0ab254e-d6f', '4a1d5822-568', 'd21f45a4-7ac']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -95,12 +95,18 @@ evidence_ids: ['f1c59a15-c68', '074e71f2-fa9', 'e920cead-04b']
 
 
 
-## Auto-Updated Data (2026-06-29)
+
+## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| amazing tour and travel packages at affordable price | search | 0.90 |
-| cheap air tickets | search | 0.95 |
-| ShareTrip | search | 1.00 |
-| tickets and other amenities at affordable prices | search | 0.90 |
-| 2014-04-01 | search | 0.95 |
+| low-cost travel packages | search | 0.90 |
+| budget-friendly plans | search | 0.85 |
+| Transparent Pricing. No hidden fees — complete clarity on all rates and commissi | search | 0.95 |
+| +880 1846-937579 | search | 0.95 |
+| House 59, Block G, Road 3, Banasree, Rampura, Dhaka | search | 0.95 |
+| cheap air tickets | search | 0.90 |
+| affordable prices | search | 0.90 |
+| ShareTrip | search | 0.95 |
+| 2014-04-01 | search | 0.90 |
+| Booking BD | search | 0.90 |

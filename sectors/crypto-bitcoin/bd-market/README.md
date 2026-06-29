@@ -1,9 +1,9 @@
 ---
 sector: crypto-bitcoin
-last_verified: 2026-06-29
+last_verified: 2026-06-30
 freshness: fresh
-confidence: 0.745
-evidence_ids: ['a659ea9b-8d9', '9cebc2b1-055', 'b638362e-c53', '97c0b8c3-b3d', '079ff60e-a87', '0d5f0507-e73']
+confidence: 0.74
+evidence_ids: ['bfd677bb-033', '71deb065-433', '0e3ca873-8e1', '80867c70-d06', 'a6ced41b-8e9', '9f875f5e-3fb', '5ddd8854-403', '339ef755-d11', 'd92cd856-2ff', '5c6b61dd-11b']
 ---
 
 # Crypto & Bitcoin — Bangladesh Market
@@ -111,22 +111,23 @@ evidence_ids: ['a659ea9b-8d9', '9cebc2b1-055', 'b638362e-c53', '97c0b8c3-b3d', '
 
 
 
-## Auto-Updated Data (2026-06-29)
+
+## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Crypto.com | search | 0.95 |
-| buy, sell, store, trade cryptocurrencies | search | 0.95 |
-| 400+ | search | 0.90 |
-| Binance | search | 1.00 |
-| deep liquidity, low trading fees, Spot and P2P markets, live price tracking, cry | search | 1.00 |
-| cryptocurrency exchange | search | 1.00 |
-| cryptocurrency price and chart provider | search | 1.00 |
-| real-time crypto prices, interactive charts, historical quotes, technical analys | search | 1.00 |
-| cryptocurrency guide | search | 1.00 |
-| how cryptocurrency works, how coins gain value, investment potential | search | 1.00 |
-| 2026-04-28 | search | 1.00 |
-| cryptocurrency in Dhaka, Bangladesh | search | 0.95 |
-| TikTok | search | 0.95 |
-| @saifulratan2 | search | 0.95 |
-| ['cryptocurrency', 'digital currency', 'blockchain', 'Dhaka', 'Bangladesh', 'cry | search | 0.90 |
+| Bangladesh residents can buy cryptos or bet on Augur results | search | 0.90 |
+| Bitcoin | search | 0.95 |
+| Bangladesh residents need a crypto trading account to buy and sell cryptocurrenc | search | 0.90 |
+| ['SanzidTech', 'cryptohossain', 'Invest2.Profit', 'EarningRashu', 'Johire786'] | search | 0.95 |
+| 2026-06 | search | 0.90 |
+| ['Bybit', 'Binance'] | search | 0.95 |
+| ['bKash', 'Nagad'] | search | 0.90 |
+| Bybit and Binance are top choices due to robust security and low fees | search | 0.90 |
+| 2025 | search | 0.95 |
+| 1300000000 | search | 0.90 |
+| 2024 | search | 0.95 |
+| North Korean hackers | search | 0.90 |
+| Cryptocurrency is a type of digital asset that uses distributed ledger, or block | search | 0.95 |
+| Current and historic data for Bitcoin and thousands of altcoins | search | 0.95 |
+| Buy, sell, store, and trade over 400+ cryptocurrencies | search | 0.95 |

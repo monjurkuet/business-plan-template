@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T16:46:08.539069+00:00",
+  "generated_at": "2026-06-29T18:35:53.802793+00:00",
   "summary": {
     "fresh": 39,
     "stale": 87,
@@ -71,7 +71,7 @@
       "priority": "P0",
       "stale_after_days": 7,
       "critical_after_days": 21,
-      "reason": "Contains stale year references: 2023, 2024"
+      "reason": "Contains stale year references: 2024"
     },
     {
       "path": "sectors/bim-global-outreach/bd-market/seasonality.md",
@@ -143,7 +143,7 @@
       "path": "sectors/crypto-bitcoin/bd-market/README.md",
       "sector": "crypto-bitcoin",
       "category": "default",
-      "age_days": 1,
+      "age_days": 0,
       "stale_type": "stale_reference",
       "priority": "P0",
       "stale_after_days": 90,
@@ -561,7 +561,7 @@
       "path": "sectors/automotive-car-care/bd-market/README.md",
       "sector": "automotive-car-care",
       "category": "default",
-      "age_days": 1,
+      "age_days": 0,
       "stale_type": "stale_reference",
       "priority": "P1",
       "stale_after_days": 90,
@@ -660,12 +660,12 @@
       "path": "sectors/bim-global-outreach/bd-market/README.md",
       "sector": "bim-global-outreach",
       "category": "default",
-      "age_days": 1,
+      "age_days": 0,
       "stale_type": "stale_reference",
       "priority": "P1",
       "stale_after_days": 90,
       "critical_after_days": 180,
-      "reason": "Contains stale year references: 2023, 2024"
+      "reason": "Contains stale year references: 2024"
     },
     {
       "path": "sectors/bim-global-outreach/bd-market/go-to-market.md",
@@ -676,7 +676,7 @@
       "priority": "P1",
       "stale_after_days": 90,
       "critical_after_days": 180,
-      "reason": "Contains stale year references: 2023, 2024"
+      "reason": "Contains stale year references: 2024"
     },
     {
       "path": "sectors/bim-global-outreach/bd-market/risk-register.md",
@@ -687,7 +687,7 @@
       "priority": "P1",
       "stale_after_days": 90,
       "critical_after_days": 180,
-      "reason": "Contains stale year references: 2023, 2024"
+      "reason": "Contains stale year references: 2024"
     },
     {
       "path": "sectors/bim-global-outreach/bd-market/strategy-canvas.md",
@@ -698,7 +698,7 @@
       "priority": "P1",
       "stale_after_days": 14,
       "critical_after_days": 30,
-      "reason": "Contains stale year references: 2023, 2024"
+      "reason": "Contains stale year references: 2024"
     },
     {
       "path": "sectors/bim-global-outreach/bd-market/pricing-guide.md",
@@ -709,7 +709,7 @@
       "priority": "P1",
       "stale_after_days": 14,
       "critical_after_days": 30,
-      "reason": "Contains stale year references: 2023, 2024"
+      "reason": "Contains stale year references: 2024"
     },
     {
       "path": "sectors/bim-global-outreach/bd-market/sentiment-analysis.md",
@@ -720,13 +720,13 @@
       "priority": "P1",
       "stale_after_days": 21,
       "critical_after_days": 42,
-      "reason": "Contains stale year references: 2023, 2024"
+      "reason": "Contains stale year references: 2024"
     },
     {
       "path": "sectors/clothing-fashion/bd-market/README.md",
       "sector": "clothing-fashion",
       "category": "default",
-      "age_days": 1,
+      "age_days": 0,
       "stale_type": "stale_reference",
       "priority": "P1",
       "stale_after_days": 90,
@@ -836,7 +836,7 @@
       "path": "sectors/electronics-gadgets/bd-market/README.md",
       "sector": "electronics-gadgets",
       "category": "default",
-      "age_days": 1,
+      "age_days": 0,
       "stale_type": "stale_reference",
       "priority": "P1",
       "stale_after_days": 90,
@@ -935,7 +935,7 @@
       "path": "sectors/high-roi-niches/bd-market/README.md",
       "sector": "high-roi-niches",
       "category": "default",
-      "age_days": 1,
+      "age_days": 0,
       "stale_type": "stale_reference",
       "priority": "P1",
       "stale_after_days": 90,
@@ -1034,7 +1034,7 @@
       "path": "sectors/jewellery/bd-market/README.md",
       "sector": "jewellery",
       "category": "default",
-      "age_days": 1,
+      "age_days": 0,
       "stale_type": "stale_reference",
       "priority": "P1",
       "stale_after_days": 90,
@@ -1232,7 +1232,7 @@
       "path": "sectors/travel-tourism/bd-market/README.md",
       "sector": "travel-tourism",
       "category": "default",
-      "age_days": 1,
+      "age_days": 0,
       "stale_type": "stale_reference",
       "priority": "P1",
       "stale_after_days": 90,

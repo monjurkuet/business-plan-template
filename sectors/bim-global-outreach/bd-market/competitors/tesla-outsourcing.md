@@ -1,6 +1,6 @@
 ---
 sector: bim-global-outreach
-last_verified: 2026-06-29
+last_verified: 2026-06-30
 freshness: fresh
 ---
 
@@ -116,12 +116,11 @@ freshness: fresh
 
 
 
-## Recent Findings (2026-06-29)
 
-- **freead1.net** (conf: 0.75): valid until: 12 Jan2026date published: 12 Jan 2025.In building and remodeling projects,outsourcingguarantees accurate, high-qualityBIMmodels that are customized to project requirements, improving team
+## Recent Findings (2026-06-30)
 
-- **optimarprecon.com** (conf: 0.74): Optimar Precon’s ConstructionBIMoutsourcingUSAreduces costs to $30,000–$80,000, delivering superior results. Lower Upfront Costs: No investment in BIM software or training. Predictable Budgeting: Fixe
+- **freead1.net** (conf: 0.75): valid until: 28 Jan2026date published: 28 Jan 2025.In building and remodeling projects,outsourcingguarantees accurate, high-qualityBIMmodels that are customized to project requirements, improving team
 
-- **freead1.net** (conf: 0.74): valid until: 12 Jan2026date published: 12 Jan 2025.In building and remodeling projects,outsourcingguarantees accurate, high-qualityBIMmodels that are customized to project requirements, improving team
+- **en.wikipedia.org** (conf: 0.75): Building information modeling(BIM) is an approach involving the generation and management of digital representations of the physical and functional characteristics of buildings or other physical asset
 
-- **www.slideshare.net** (conf: 0.74): BIMBOSS is a leadingBIMoutsourcingcompany providing consulting services to contractors, engineering design firms, and architects in theUSA, UK India. - Download as a PDF or view online for free.
+- **www.autodesk.com** (conf: 0.75): Building information modeling(BIM) is the holistic process of creating and managing information for a built asset.

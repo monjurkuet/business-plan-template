@@ -1,9 +1,9 @@
 ---
 sector: media-marketing-digital
-last_verified: 2026-06-28
+last_verified: 2026-06-30
 freshness: fresh
 confidence: 0.639
-evidence_ids: ['834fcb56-fdc']
+evidence_ids: ['55e8439b-4ae']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market
@@ -117,9 +117,10 @@ evidence_ids: ['834fcb56-fdc']
 
 
 
-## Auto-Updated Data (2026-06-28)
+
+## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| affordable | search | 0.90 |
-| small businesses in Bangladesh | search | 0.95 |
+| pay-per-use | search | 0.90 |
+| digital multichannel marketing campaigns | search | 0.95 |

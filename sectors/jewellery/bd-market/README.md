@@ -1,9 +1,9 @@
 ---
 sector: jewellery
-last_verified: 2026-06-29
+last_verified: 2026-06-30
 freshness: fresh
-confidence: 0.744
-evidence_ids: ['c0b65783-0e8', 'f04c507a-ec8', '72044f38-962', 'e6559091-2b5', '4e779429-7ef']
+confidence: 0.735
+evidence_ids: ['5420c905-5bb', '5065390a-a2e', 'ee0d73f8-bf1', 'd6ef4ce6-d8a', '57f7446e-278']
 ---
 
 # Jewellery — Bangladesh Market
@@ -109,16 +109,16 @@ evidence_ids: ['c0b65783-0e8', 'f04c507a-ec8', '72044f38-962', 'e6559091-2b5', '
 
 
 
-## Auto-Updated Data (2026-06-29)
+
+## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 26 years | search | 1.00 |
-| daily | search | 0.90 |
-| 10000 to 100000 | search | 1.00 |
-| 200 to 3000 | search | 1.00 |
-| 22k gold jewellery | search | 0.90 |
-| ['rings', 'chains', 'coins', 'bracelets', 'lockets', 'earrings', 'necklaces'] | search | 0.95 |
-| pearl jewelry | search | 0.90 |
-| 1990.00 | search | 0.95 |
-| 2020-02-05 | search | 0.90 |
+| 26 | search | 0.90 |
+| Al-Amin Jewellers | search | 0.90 |
+| Dhaka, Bangladesh | search | 0.90 |
+| 10,000 to 1,00,000 | search | 0.90 |
+| 200 to 3,000 | search | 0.90 |
+| 22k | search | 0.90 |
+| 1,990.00 | search | 0.90 |
+| Pearl Jewelry | search | 0.90 |

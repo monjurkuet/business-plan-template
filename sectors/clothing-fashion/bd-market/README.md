@@ -1,9 +1,9 @@
 ---
 sector: clothing-fashion
-last_verified: 2026-06-29
+last_verified: 2026-06-30
 freshness: fresh
-confidence: 0.738
-evidence_ids: ['a1fd5fd2-574', 'f53ea569-518', 'ce851084-28e', 'ffa6d6e7-9bf', '773a2351-2d7']
+confidence: 0.743
+evidence_ids: ['4dbf5c16-915', 'fd2c39c3-4ff', 'ce8cfa0e-eb3', '30400dfd-0d1']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -130,18 +130,19 @@ evidence_ids: ['a1fd5fd2-574', 'f53ea569-518', 'ce851084-28e', 'ffa6d6e7-9bf', '
 
 
 
-## Auto-Updated Data (2026-06-29)
+
+## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ['11.11 Global Shopping Festival', 'Anniversary Sale', 'Summer Sale'] | search | 0.90 |
-| old money outfits | search | 0.95 |
-| 2025 | search | 0.90 |
-| two-piece dresses | search | 0.95 |
-| verified | search | 0.90 |
-| RIR OUTFITS | search | 0.95 |
-| premium men's clothing | search | 0.95 |
-| 2026-07-16 | search | 0.90 |
-| SiATEX Global | search | 0.95 |
-| trusted and reliable | search | 0.90 |
-| best factory prices | search | 0.90 |
+| baggy pants | search | 1.00 |
+| affordable | search | 0.90 |
+| all over Bangladesh | search | 1.00 |
+| two-piece dresses | search | 1.00 |
+| affordable | search | 0.90 |
+| men's clothing (t-shirts, stylish designs) | search | 1.00 |
+| affordable | search | 0.90 |
+| Grand Opening | search | 1.00 |
+| 2026-07-16 | search | 1.00 |
+| Black Aura – Black & Cream Polka Dot Luxury Pret 3-Piece | search | 0.90 |
+| luxury clothing | search | 0.95 |

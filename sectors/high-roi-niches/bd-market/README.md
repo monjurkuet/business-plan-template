@@ -1,9 +1,9 @@
 ---
 sector: high-roi-niches
-last_verified: 2026-06-29
+last_verified: 2026-06-30
 freshness: fresh
-confidence: 0.738
-evidence_ids: ['000fafc3-9aa', '943540a4-7d0', '7796812f-807', 'f4d0619e-315']
+confidence: 0.748
+evidence_ids: ['c397fbc9-305', '249da87e-8ac', '56bba856-1a7']
 ---
 
 # High-ROI Niches — Bangladesh Market
@@ -113,19 +113,15 @@ This sector captures high-growth, high-margin niche opportunities in Bangladesh.
 
 
 
-## Auto-Updated Data (2026-06-29)
+
+## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| HIT LIFE cat food | search | 0.90 |
-| grain-free cat food | search | 0.90 |
-| kitchen flavor | search | 0.80 |
-| Bangladesh | search | 0.90 |
-| Shuvo Minhaj | search | 1.00 |
-| Happy Tails Pet Care | search | 1.00 |
-| Chattogram, Bangladesh | search | 1.00 |
-| Chittagong Veterinary and Animal Sciences University | search | 1.00 |
-| Vet & Pet Care Bangladesh | search | 1.00 |
-| Sher-e-Bangla Agricultural University, Dhaka-1207 | search | 1.00 |
-| agriculture, pet care | search | 1.00 |
-| Covetrus Pet Care Bangladesh | search | 0.80 |
+| 20 to 8000 | search | 1.00 |
+| pet supplies | search | 1.00 |
+| 210.00 | search | 1.00 |
+| pet food & accessories | search | 1.00 |
+| Dhaka | search | 1.00 |
+| pet food, cat litter, treats, health care products | search | 1.00 |
+| affordable | search | 0.90 |

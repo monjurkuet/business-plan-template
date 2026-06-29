@@ -1,9 +1,9 @@
 ---
 sector: electronics-gadgets
-last_verified: 2026-06-29
+last_verified: 2026-06-30
 freshness: fresh
-confidence: 0.639
-evidence_ids: ['ebefc75b-db1']
+confidence: 0.74
+evidence_ids: ['0142d866-1bc', 'dc4b3a80-b8e', 'ca92bba7-97d', 'dc767816-d82', 'dc84be3b-400', '469551c1-ed7']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -118,11 +118,23 @@ evidence_ids: ['ebefc75b-db1']
 
 
 
-## Auto-Updated Data (2026-06-29)
+
+## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| TCL TV | search | 0.95 |
-| 25500-102900 | search | 0.95 |
-| Express Delivery | search | 0.90 |
-| official warranty | search | 0.90 |
+| TCL TV | search | 1.00 |
+| 25500-102900 | search | 1.00 |
+| Express Delivery | search | 1.00 |
+| official warranty | search | 1.00 |
+| competitive prices | search | 0.90 |
+| premium electronics | search | 0.90 |
+| Gadgets & Premium Accessories | search | 1.00 |
+| best prices | search | 0.90 |
+| Free Shipping | search | 1.00 |
+| best prices, offers, and discounts | search | 0.95 |
+| electronics | search | 1.00 |
+| 15.00 | search | 0.70 |
+| BRANDS MEGA LTD | search | 0.90 |
+| Navana Tower (Level-18) 45 Gulshan Avenue, Gulshan-1 Dhaka -1212, Bangladesh | search | 0.90 |
+| Electronics is a scientific and engineering discipline that studies and applies  | search | 0.95 |

@@ -1,9 +1,9 @@
 ---
 sector: bim-global-outreach
-last_verified: 2026-06-29
+last_verified: 2026-06-30
 freshness: fresh
-confidence: 0.741
-evidence_ids: ['9c80a4d6-924', 'b1390839-f91', 'fc3caf51-a3d', '0d4cf540-df8']
+confidence: 0.75
+evidence_ids: ['661be7a8-f74', '877204ef-a7e', '6b01a5a4-cba']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -136,18 +136,13 @@ evidence_ids: ['9c80a4d6-924', 'b1390839-f91', 'fc3caf51-a3d', '0d4cf540-df8']
 
 
 
-## Auto-Updated Data (2026-06-29)
+
+## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 2026-01-12 | search | 1.00 |
-| 2025-01-12 | search | 1.00 |
-| $30,000–$80,000 | search | 0.95 |
-| Take-off and Estimation services | search | 0.90 |
-| Fixed pricing | search | 0.90 |
-| 2026-01-12 | search | 0.95 |
-| 2025-01-12 | search | 0.95 |
-| Scan to BIM outsourcing | search | 0.90 |
-| BIMBOSS | search | 0.95 |
-| BIM outsourcing consulting services | search | 0.90 |
-| ['USA', 'UK', 'India'] | search | 0.90 |
+| 2026-01-28 | search | 1.00 |
+| 2025-01-28 | search | 1.00 |
+| Building information modeling (BIM) is an approach involving the generation and  | search | 1.00 |
+| various tools, processes, technologies and contracts | search | 1.00 |
+| Building information modeling (BIM) is the holistic process of creating and mana | search | 1.00 |
