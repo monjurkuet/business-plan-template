@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-06-30
 freshness: fresh
-confidence: 0.748
-evidence_ids: ['7f02e91a-db8', '907a0ff7-117', '2692f477-11b', '496ed973-a6a', '69992ee2-483']
+confidence: 0.742
+evidence_ids: ['7f4265d8-a7f', '3e798343-33c', 'ccf4b2de-efb', '9c44d386-8a2', 'f5c25555-215', '9d8d4ddc-48e', '7a59ea41-434']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -139,15 +139,23 @@ evidence_ids: ['7f02e91a-db8', '907a0ff7-117', '2692f477-11b', '496ed973-a6a', '
 
 
 
+
 ## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 2026-01-12 | search | 1.00 |
-| 2025-01-12 | search | 1.00 |
-| BIMBOSS | search | 1.00 |
-| ['USA', 'UK', 'India'] | search | 1.00 |
-| Building information modeling (BIM) is an approach involving the generation and  | search | 0.95 |
-| Building information modeling (BIM) is the holistic process of creating and mana | search | 1.00 |
-| BIM360 Project Management | search | 1.00 |
-| Efficient collaboration, project tracking, and document management for construct | search | 1.00 |
+| 600 | search | 0.90 |
+| small residential | search | 0.95 |
+| 2026-01-12 | search | 0.95 |
+| 2025-01-12 | search | 0.95 |
+| 600 | search | 0.95 |
+| Small residential project | search | 0.95 |
+| 2026-04-23 | search | 0.95 |
+| 30000–80000 | search | 0.95 |
+| Lower upfront costs: no investment in BIM software or training | search | 0.95 |
+| Predictable budgeting: fixed pricing for take-off and estimation services | search | 0.95 |
+| 2026-01-12 | search | 0.95 |
+| 2025-01-12 | search | 0.95 |
+| Accurate, high-quality BIM models customized to project requirements | search | 0.95 |
+| Improves teamwork and productivity | search | 0.95 |
+| BIM outsourcing services have become more popular in the USA | search | 0.95 |

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T21:45:35.027884+00:00",
-  "total_files": 467,
+  "generated_at": "2026-06-29T23:19:41.230894+00:00",
+  "total_files": 468,
   "sectors_audited": 9,
   "all_missing_files": [
     "bim-global-outreach/seasonality.md"
@@ -9,7 +9,6 @@
     "automotive-car-care: 2024",
     "automotive-car-care: 2023",
     "bim-global-outreach: 2024",
-    "bim-global-outreach: 2023",
     "clothing-fashion: 2024",
     "clothing-fashion: 2023",
     "crypto-bitcoin: 2024",
@@ -67,8 +66,7 @@
         "seasonality.md"
       ],
       "stale_references": [
-        "2024",
-        "2023"
+        "2024"
       ],
       "frontmatter_missing": [],
       "competitor_count": 12,

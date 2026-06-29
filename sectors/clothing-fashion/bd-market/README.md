@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-06-30
 freshness: fresh
-confidence: 0.738
-evidence_ids: ['a3788101-b87', '32c43533-310', '6e828a64-5b5', 'e4d1018f-569', '7f0aa7da-66f']
+confidence: 0.735
+evidence_ids: ['09aa71dd-275', 'f4279bf1-e18', 'dac21dc2-951', '4bd49fc8-696', '4c13bc14-711']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -133,19 +133,20 @@ evidence_ids: ['a3788101-b87', '32c43533-310', '6e828a64-5b5', 'e4d1018f-569', '
 
 
 
+
 ## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| old money outfits | search | 0.90 |
-| 2025 | search | 0.90 |
-| two-piece dresses | search | 0.95 |
-| affordable | search | 0.80 |
+| Men's Clothing (t-shirts, polo shirts, casual shirts, summer wear) | search | 0.95 |
+| Fast delivery across Bangladesh | search | 0.90 |
 | RIR OUTFITS | search | 0.95 |
-| premium men's clothing | search | 0.95 |
+| Premium Men's Clothing (t-shirts, stylish designs) | search | 0.95 |
 | 2026-07-16 | search | 0.90 |
-| affordable | search | 0.80 |
-| SiATEX Global | search | 0.95 |
-| best factory prices | search | 0.90 |
-| custom apparel | search | 0.90 |
-| Big and tall sizes for adults and extended sizes for kids | search | 1.00 |
+| luxury clothing bangladesh | search | 0.95 |
+| 2 | search | 0.90 |
+| ['11.11 Global Shopping Festival', 'Anniversary Sale', 'Summer Sale'] | search | 0.90 |
+| new users | search | 0.80 |
+| winter clothes for women | search | 0.95 |
+| high-quality | search | 0.80 |
+| verified | search | 0.85 |

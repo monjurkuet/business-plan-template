@@ -2,8 +2,8 @@
 sector: travel-tourism
 last_verified: 2026-06-30
 freshness: fresh
-confidence: 0.732
-evidence_ids: ['f47782c6-6c5', '9ef56a06-c37', 'e3ff8a8e-eaa', '9c5b7ced-c0d', 'b7431d7e-c28']
+confidence: 0.734
+evidence_ids: ['5e8c15fb-212', '6acfbb56-e47', '8c860660-e6f', 'b6adf7de-ecb']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -98,14 +98,17 @@ evidence_ids: ['f47782c6-6c5', '9ef56a06-c37', 'e3ff8a8e-eaa', '9c5b7ced-c0d', '
 
 
 
+
 ## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| vacation packages, hotels, car rentals, flights | search | 0.90 |
-| bundled discounts | search | 0.80 |
-| cheap airline tickets, cheap flights, vacation packages | search | 0.90 |
-| travel guides, expert tips, itineraries | search | 0.90 |
-| every budget and travel style | search | 0.80 |
-| travel and leisure inspiration, membership experiences, vacation ownership | search | 0.90 |
-| Price caps | search | 0.90 |
+| ['tour packages', 'air tickets', 'visa support'] | search | 0.95 |
+| trusted | search | 0.80 |
+| online | search | 0.90 |
+| 2026-06-13T10:13:00 | search | 0.95 |
+| Dhaka District, Dhaka | search | 0.90 |
+| ['study abroad', 'visa services', 'cheap air tickets'] | search | 0.95 |
+| ['UK', 'Canada', 'Russia', 'USA'] | search | 0.90 |
+| ['Bangladesh', 'Chittagong', 'Sharjah', 'Dubai', 'Noakhali', 'Ajman', 'UAE'] | search | 0.90 |
+| travel agency vacancies | search | 0.85 |

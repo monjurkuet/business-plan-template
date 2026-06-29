@@ -2,8 +2,8 @@
 sector: automotive-car-care
 last_verified: 2026-06-30
 freshness: fresh
-confidence: 0.637
-evidence_ids: ['2abaf00f-0e0']
+confidence: 0.635
+evidence_ids: ['703c5a7a-9a0']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -149,11 +149,9 @@ evidence_ids: ['2abaf00f-0e0']
 
 
 
+
 ## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| My Romance Car Air Freshener | search | 0.95 |
-| CarBase Bangladesh | search | 0.90 |
-| all over Bangladesh | search | 0.90 |
-| FLIP PLATE | search | 0.90 |
+| 9788 | search | 0.90 |
