@@ -2,8 +2,8 @@
 sector: travel-tourism
 last_verified: 2026-06-30
 freshness: fresh
-confidence: 0.741
-evidence_ids: ['39eab79b-612', '55d5bdbc-0e5', '276e48f2-216', '0a008c24-da4', '24dc4f02-85e', '21310c08-3e5']
+confidence: 0.732
+evidence_ids: ['f47782c6-6c5', '9ef56a06-c37', 'e3ff8a8e-eaa', '9c5b7ced-c0d', 'b7431d7e-c28']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -97,16 +97,15 @@ evidence_ids: ['39eab79b-612', '55d5bdbc-0e5', '276e48f2-216', '0a008c24-da4', '
 
 
 
+
 ## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| vacation homes, hotels, car rentals, flights | search | 1.00 |
-| save more with bundles | search | 0.80 |
-| cheap flights | search | 1.00 |
-| discount airfare | search | 0.90 |
-| last minute travel deals, vacation packages | search | 1.00 |
-| escorted tours, small group tours, river cruises, walking tours, independent tra | search | 1.00 |
-| more of the world for less | search | 0.80 |
-| packages, hotels, flights, cars, cruises | search | 1.00 |
-| price caps | search | 0.90 |
+| vacation packages, hotels, car rentals, flights | search | 0.90 |
+| bundled discounts | search | 0.80 |
+| cheap airline tickets, cheap flights, vacation packages | search | 0.90 |
+| travel guides, expert tips, itineraries | search | 0.90 |
+| every budget and travel style | search | 0.80 |
+| travel and leisure inspiration, membership experiences, vacation ownership | search | 0.90 |
+| Price caps | search | 0.90 |

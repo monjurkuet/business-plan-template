@@ -2,8 +2,8 @@
 sector: jewellery
 last_verified: 2026-06-30
 freshness: fresh
-confidence: 0.735
-evidence_ids: ['5420c905-5bb', '5065390a-a2e', 'ee0d73f8-bf1', 'd6ef4ce6-d8a', '57f7446e-278']
+confidence: 0.736
+evidence_ids: ['399348ea-7fa', 'aeffc6e6-aff', 'ef3a9d05-499', '45bbb2f5-f49']
 ---
 
 # Jewellery — Bangladesh Market
@@ -110,15 +110,15 @@ evidence_ids: ['5420c905-5bb', '5065390a-a2e', 'ee0d73f8-bf1', 'd6ef4ce6-d8a', '
 
 
 
+
 ## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 26 | search | 0.90 |
-| Al-Amin Jewellers | search | 0.90 |
-| Dhaka, Bangladesh | search | 0.90 |
-| 10,000 to 1,00,000 | search | 0.90 |
-| 200 to 3,000 | search | 0.90 |
-| 22k | search | 0.90 |
-| 1,990.00 | search | 0.90 |
-| Pearl Jewelry | search | 0.90 |
+| Love Pearl Necklace Gift Box Freshwater Pearl Jewelry | search | 0.90 |
+| pearl jewellery | search | 0.95 |
+| 2025 | search | 0.90 |
+| ['pendant necklaces', 'statement necklaces', 'choker necklaces'] | search | 0.90 |
+| red gold | search | 0.95 |
+| ['verified suppliers', 'purity check', 'AR try-on', 'lifetime buyback'] | search | 0.90 |
+| wedding jewellery | search | 0.90 |

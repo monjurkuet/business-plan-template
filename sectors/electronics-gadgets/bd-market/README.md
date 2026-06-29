@@ -2,8 +2,8 @@
 sector: electronics-gadgets
 last_verified: 2026-06-30
 freshness: fresh
-confidence: 0.749
-evidence_ids: ['5703e4c1-e22', 'adde2e33-e08', '808f9719-de8', 'de645dad-ba1']
+confidence: 0.748
+evidence_ids: ['e46f4034-581', '72cea4bd-8bc', '8d9c5e81-e4e']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -120,21 +120,15 @@ evidence_ids: ['5703e4c1-e22', 'adde2e33-e08', '808f9719-de8', 'de645dad-ba1']
 
 
 
+
 ## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
 | 25500-102900 | search | 1.00 |
 | TCL TV | search | 1.00 |
-| Express Delivery | search | 1.00 |
-| official warranty | search | 1.00 |
-| Trusted Online Shop for Gadget Accessories | search | 1.00 |
+| Gadgets & Premium Accessories | search | 1.00 |
 | Free Shipping | search | 1.00 |
+| 15 | search | 0.90 |
 | BRANDS MEGA LTD | search | 1.00 |
 | Navana Tower (Level-18) 45 Gulshan Avenue, Gulshan-1 Dhaka -1212, Bangladesh | search | 1.00 |
-| 15.00 | search | 0.90 |
-| Raspberry Pi 5 (8GB) Made in UK | search | 1.00 |
-| UK | search | 1.00 |
-| 2-3x | search | 1.00 |
-| VideoCore VII | search | 1.00 |
-| dual 4Kp60 displays | search | 1.00 |

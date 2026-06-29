@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-06-30
 freshness: fresh
-confidence: 0.745
-evidence_ids: ['39001994-bcf', '661776c5-5e6', 'a239163a-7a8', '0bead2b2-875']
+confidence: 0.738
+evidence_ids: ['a3788101-b87', '32c43533-310', '6e828a64-5b5', 'e4d1018f-569', '7f0aa7da-66f']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -132,20 +132,20 @@ evidence_ids: ['39001994-bcf', '661776c5-5e6', 'a239163a-7a8', '0bead2b2-875']
 
 
 
+
 ## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 3.5 | search | 1.00 |
-| 300 COTTON TERRY CLOTH CLEANING RAGS / SHOP TOWELS / 12X12- 25 DOZ. / WHOLESALE | search | 1.00 |
-| Bangladesh | search | 0.90 |
-| RD style women black dress warm size M Knitted | search | 0.90 |
-| old money outfits | search | 1.00 |
-| shirts | search | 1.00 |
-| 2025 | search | 1.00 |
-| two-piece dresses | search | 1.00 |
-| affordable | search | 0.90 |
-| RIR OUTFITS | search | 1.00 |
-| premium men's clothing | search | 1.00 |
-| 2026-07-16 | search | 1.00 |
-| affordable | search | 0.90 |
+| old money outfits | search | 0.90 |
+| 2025 | search | 0.90 |
+| two-piece dresses | search | 0.95 |
+| affordable | search | 0.80 |
+| RIR OUTFITS | search | 0.95 |
+| premium men's clothing | search | 0.95 |
+| 2026-07-16 | search | 0.90 |
+| affordable | search | 0.80 |
+| SiATEX Global | search | 0.95 |
+| best factory prices | search | 0.90 |
+| custom apparel | search | 0.90 |
+| Big and tall sizes for adults and extended sizes for kids | search | 1.00 |

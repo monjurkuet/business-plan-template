@@ -2,8 +2,8 @@
 sector: crypto-bitcoin
 last_verified: 2026-06-30
 freshness: fresh
-confidence: 0.741
-evidence_ids: ['7dfb49c5-8e5', '7010ed4f-ea4', '48504037-227', 'c311f0cf-981', '0ccc8d87-aba', '6a38fbf1-a99', '69b19b61-938', '25a3e56d-cac']
+confidence: 0.74
+evidence_ids: ['24c3225d-553', '83d4e323-fc6', 'f432f3a1-4cd', '360d48ea-f38']
 ---
 
 # Crypto & Bitcoin — Bangladesh Market
@@ -113,22 +113,19 @@ evidence_ids: ['7dfb49c5-8e5', '7010ed4f-ea4', '48504037-227', 'c311f0cf-981', '
 
 
 
+
 ## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Buy and sell cryptocurrencies, bet on Tezos results | search | 0.90 |
+| buy and sell cryptocurrencies | search | 0.95 |
 | Tezos | search | 0.95 |
-| Bangladesh | search | 1.00 |
-| YouTube | search | 1.00 |
+| Bangladesh | search | 0.95 |
 | ['SanzidTech', 'cryptohossain', 'Invest2.Profit', 'EarningRashu', 'Johire786'] | search | 0.95 |
-| 10 | search | 0.90 |
 | 2026-06 | search | 0.90 |
-| Bangladesh | search | 1.00 |
-| Trade cryptocurrencies | search | 0.95 |
-| Open a Bangladesh cryptocurrency trading account with a Bangladesh cryptocurrenc | search | 0.95 |
-| Bangladesh | search | 1.00 |
+| Bangladesh cryptocurrency trading account with a Bangladesh cryptocurrency excha | search | 0.95 |
 | 2026 | search | 0.90 |
-| Bangladesh Bank | search | 1.00 |
-| Not legalized, no outright ban | search | 0.95 |
-| Volatility warning, proceed with caution | search | 0.95 |
+| not legalized but no outright ban | search | 0.95 |
+| volatility warning, proceed cautiously | search | 0.95 |
+| Bangladesh Bank | search | 0.95 |
+| EmpireCryptoData | search | 0.90 |

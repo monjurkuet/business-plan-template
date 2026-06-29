@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T20:14:12.225115+00:00",
+  "generated_at": "2026-06-29T21:48:05.881943+00:00",
   "models_used": [
     "gemini-2.5-flash-lite",
     "deepseek-ai/deepseek-v4-pro",
@@ -19,10 +19,165 @@
       "recommendations": []
     },
     {
-      "model": "mistral/mistral-large-latest",
-      "error": "timed out",
-      "gaps": [],
-      "recommendations": []
+      "repo_critical_issues": [
+        {
+          "issue": "Stale year references (2023, 2024) in policy, pricing, and competitor files across multiple sectors",
+          "severity": "critical",
+          "affected_sectors": [
+            "automotive-car-care",
+            "bim-global-outreach",
+            "clothing-fashion",
+            "crypto-bitcoin",
+            "electronics-gadgets"
+          ]
+        },
+        {
+          "issue": "Pricing data older than 54 days in automotive-car-care, clothing-fashion, crypto-bitcoin, and electronics-gadgets",
+          "severity": "critical",
+          "affected_sectors": [
+            "automotive-car-care",
+            "clothing-fashion",
+            "crypto-bitcoin",
+            "electronics-gadgets"
+          ]
+        },
+        {
+          "issue": "Missing seasonality file in bim-global-outreach sector",
+          "severity": "high",
+          "affected_sectors": [
+            "bim-global-outreach"
+          ]
+        },
+        {
+          "issue": "Sentiment data older than 54 days in automotive-car-care, clothing-fashion, crypto-bitcoin, and electronics-gadgets",
+          "severity": "high",
+          "affected_sectors": [
+            "automotive-car-care",
+            "clothing-fashion",
+            "crypto-bitcoin",
+            "electronics-gadgets"
+          ]
+        },
+        {
+          "issue": "Policy files older than 54 days in automotive-car-care, clothing-fashion, crypto-bitcoin, and electronics-gadgets",
+          "severity": "high",
+          "affected_sectors": [
+            "automotive-car-care",
+            "clothing-fashion",
+            "crypto-bitcoin",
+            "electronics-gadgets"
+          ]
+        }
+      ],
+      "sector_priorities": [
+        {
+          "sector": "crypto-bitcoin",
+          "priority": 10,
+          "reason": "High volatility sector with critical regulatory updates expected in 2025-2026. Stale data across all files."
+        },
+        {
+          "sector": "automotive-car-care",
+          "priority": 9,
+          "reason": "Pricing and policy updates required for 2025 compliance. High consumer sentiment impact."
+        },
+        {
+          "sector": "electronics-gadgets",
+          "priority": 8,
+          "reason": "Fast-moving sector with frequent pricing and regulatory changes. Stale data affects competitiveness."
+        },
+        {
+          "sector": "clothing-fashion",
+          "priority": 7,
+          "reason": "Seasonal pricing and policy updates needed. Sentiment data outdated."
+        },
+        {
+          "sector": "bim-global-outreach",
+          "priority": 6,
+          "reason": "Missing seasonality data and stale policy references. Cross-sector relevance."
+        }
+      ],
+      "search_hypotheses": [
+        {
+          "sector": "crypto-bitcoin",
+          "hypothesis": "Bangladesh Bank has issued new crypto trading guidelines for 2025-2026",
+          "suggested_queries": [
+            "Bangladesh Bank crypto trading circular 2025",
+            "Bangladesh cryptocurrency regulation 2025 PDF",
+            "BB crypto policy update 2025 site:bb.org.bd",
+            "Bangladesh crypto tax law 2025"
+          ],
+          "confidence": 0.9
+        },
+        {
+          "sector": "automotive-car-care",
+          "hypothesis": "New import duties on car care products announced in 2025 budget",
+          "suggested_queries": [
+            "Bangladesh 2025 budget car care products",
+            "NBR import duty car care 2025",
+            "Bangladesh HS code car care products 2025",
+            "Bangladesh car care product tax circular 2025"
+          ],
+          "confidence": 0.8
+        },
+        {
+          "sector": "electronics-gadgets",
+          "hypothesis": "BTRC has updated type approval requirements for 2025",
+          "suggested_queries": [
+            "BTRC type approval 2025 circular",
+            "Bangladesh electronics import regulation 2025",
+            "BTRC certification update 2025 site:btrc.gov.bd",
+            "Bangladesh mobile phone import rules 2025"
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "high_value_missing_angles": [
+        "Cross-sector analysis of Bangladesh's 2025 budget impact on import-dependent sectors (electronics, automotive, clothing)",
+        "Comparison of Bangladesh's crypto regulations with neighboring countries (India, Pakistan, Sri Lanka)",
+        "Impact of upcoming national elections on business sentiment across sectors",
+        "Analysis of Facebook/Instagram ad spend trends in Bangladesh for 2025",
+        "Verification of competitor Facebook handles and social media engagement metrics",
+        "Localization strategies for global brands in Bangladesh (language, payment methods, logistics)",
+        "Analysis of Bangladesh's e-commerce return policies and consumer protection laws"
+      ],
+      "recommended_actions": [
+        {
+          "action": "Update all policy files with 2025-2026 regulatory references. Verify against Bangladesh Bank, NBR, BTRC, and Ministry of Commerce circulars.",
+          "priority": "P0",
+          "effort": "high"
+        },
+        {
+          "action": "Refresh pricing data for automotive-car-care, clothing-fashion, crypto-bitcoin, and electronics-gadgets. Include BDT values and source verification.",
+          "priority": "P0",
+          "effort": "medium"
+        },
+        {
+          "action": "Create missing seasonality file for bim-global-outreach sector. Include Ramadan, Eid, and monsoon impact analysis.",
+          "priority": "P0",
+          "effort": "low"
+        },
+        {
+          "action": "Verify all competitor Facebook handles. Check for functional links, follower counts, and recent engagement metrics.",
+          "priority": "P1",
+          "effort": "medium"
+        },
+        {
+          "action": "Conduct cross-sector analysis of 2025 budget impact. Focus on import duties, VAT changes, and sector-specific incentives.",
+          "priority": "P1",
+          "effort": "high"
+        },
+        {
+          "action": "Update sentiment data for automotive-car-care, clothing-fashion, crypto-bitcoin, and electronics-gadgets. Include recent news, social media trends, and consumer surveys.",
+          "priority": "P1",
+          "effort": "medium"
+        },
+        {
+          "action": "Add localization strategy section to go-to-market files. Include language preferences, payment methods, and logistics challenges.",
+          "priority": "P2",
+          "effort": "low"
+        }
+      ],
+      "model": "mistral/mistral-large-latest"
     }
   ],
   "total_queries": 60,
@@ -80,7 +235,7 @@
       "sector": "bim-global-outreach",
       "family": "policy_tracker",
       "priority": "P0",
-      "reason": "Contains stale year references: 2024",
+      "reason": "Contains stale year references: 2023, 2024",
       "source_model": "freshness_policy"
     },
     {
@@ -88,7 +243,7 @@
       "sector": "bim-global-outreach",
       "family": "policy_tracker",
       "priority": "P0",
-      "reason": "Contains stale year references: 2024",
+      "reason": "Contains stale year references: 2023, 2024",
       "source_model": "freshness_policy"
     },
     {
@@ -320,7 +475,7 @@
       "sector": "bim-global-outreach",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "Contains stale year references: 2024",
+      "reason": "Contains stale year references: 2023, 2024",
       "source_model": "freshness_policy"
     },
     {
@@ -328,7 +483,7 @@
       "sector": "bim-global-outreach",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "Contains stale year references: 2024",
+      "reason": "Contains stale year references: 2023, 2024",
       "source_model": "freshness_policy"
     },
     {
@@ -336,7 +491,7 @@
       "sector": "bim-global-outreach",
       "family": "pricing",
       "priority": "P1",
-      "reason": "Contains stale year references: 2024",
+      "reason": "Contains stale year references: 2023, 2024",
       "source_model": "freshness_policy"
     },
     {
@@ -344,7 +499,7 @@
       "sector": "bim-global-outreach",
       "family": "pricing",
       "priority": "P1",
-      "reason": "Contains stale year references: 2024",
+      "reason": "Contains stale year references: 2023, 2024",
       "source_model": "freshness_policy"
     },
     {
@@ -352,7 +507,7 @@
       "sector": "bim-global-outreach",
       "family": "sentiment",
       "priority": "P1",
-      "reason": "Contains stale year references: 2024",
+      "reason": "Contains stale year references: 2023, 2024",
       "source_model": "freshness_policy"
     },
     {
@@ -360,7 +515,7 @@
       "sector": "bim-global-outreach",
       "family": "sentiment",
       "priority": "P1",
-      "reason": "Contains stale year references: 2024",
+      "reason": "Contains stale year references: 2023, 2024",
       "source_model": "freshness_policy"
     },
     {
