@@ -1,9 +1,9 @@
 ---
 sector: crypto-bitcoin
-last_verified: 2026-06-28
+last_verified: 2026-06-29
 freshness: fresh
-confidence: 0.75
-evidence_ids: ['f85cdc3d-303', '45c18060-22a', 'bd2609cb-8d4', '8a91a5b5-9b1', 'fd26135f-571']
+confidence: 0.745
+evidence_ids: ['a659ea9b-8d9', '9cebc2b1-055', 'b638362e-c53', '97c0b8c3-b3d', '079ff60e-a87', '0d5f0507-e73']
 ---
 
 # Crypto & Bitcoin — Bangladesh Market
@@ -110,21 +110,23 @@ evidence_ids: ['f85cdc3d-303', '45c18060-22a', 'bd2609cb-8d4', '8a91a5b5-9b1', '
 
 
 
-## Auto-Updated Data (2026-06-28)
+
+## Auto-Updated Data (2026-06-29)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Cryptocurrency is a type of digital asset that uses distributed ledger, or block | search | 1.00 |
-| blockchain | search | 1.00 |
-| secure transaction records, control the creation of additional coins, and verify | search | 1.00 |
-| cryptocurrency prices and charts by market capitalization | search | 1.00 |
-| current and historic data for Bitcoin and thousands of altcoins | search | 1.00 |
-| buy, sell, store, and trade cryptocurrencies | search | 1.00 |
-| 400+ | search | 1.00 |
-| secure and trusted crypto exchange platform | search | 1.00 |
+| Crypto.com | search | 0.95 |
+| buy, sell, store, trade cryptocurrencies | search | 0.95 |
+| 400+ | search | 0.90 |
 | Binance | search | 1.00 |
+| deep liquidity, low trading fees, Spot and P2P markets, live price tracking, cry | search | 1.00 |
 | cryptocurrency exchange | search | 1.00 |
-| deep liquidity, low crypto trading fees, Spot and P2P markets | search | 1.00 |
-| track crypto live prices, explore new cryptocurrencies, discover top gaining or  | search | 1.00 |
-| live cryptocurrency price and portfolio tracker | search | 1.00 |
-| historical charts, latest coin markets from crypto exchanges, volume, liquidity, | search | 1.00 |
+| cryptocurrency price and chart provider | search | 1.00 |
+| real-time crypto prices, interactive charts, historical quotes, technical analys | search | 1.00 |
+| cryptocurrency guide | search | 1.00 |
+| how cryptocurrency works, how coins gain value, investment potential | search | 1.00 |
+| 2026-04-28 | search | 1.00 |
+| cryptocurrency in Dhaka, Bangladesh | search | 0.95 |
+| TikTok | search | 0.95 |
+| @saifulratan2 | search | 0.95 |
+| ['cryptocurrency', 'digital currency', 'blockchain', 'Dhaka', 'Bangladesh', 'cry | search | 0.90 |

@@ -1,9 +1,9 @@
 ---
 sector: clothing-fashion
-last_verified: 2026-06-28
+last_verified: 2026-06-29
 freshness: fresh
-confidence: 0.74
-evidence_ids: ['eac117e1-ba3', 'e8dc4874-57e', 'db8b25c5-6b0', '0cae2330-a4e', 'e2f7e96b-c61', '8fdfa72e-c6c', 'bfbd2f00-461', '265f4315-df5', 'd61e3eaa-318', '2f19701b-81e', '9e858c7e-d80']
+confidence: 0.738
+evidence_ids: ['a1fd5fd2-574', 'f53ea569-518', 'ce851084-28e', 'ffa6d6e7-9bf', '773a2351-2d7']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -129,22 +129,19 @@ evidence_ids: ['eac117e1-ba3', 'e8dc4874-57e', 'db8b25c5-6b0', '0cae2330-a4e', '
 
 
 
-## Auto-Updated Data (2026-06-28)
+
+## Auto-Updated Data (2026-06-29)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Womens Clothing | search | 0.95 |
-| What is the lowest Womens Clothing price available in Bangladesh? | search | 0.90 |
-| Which Womens Clothing model sells the most in Bangladesh? | search | 0.90 |
-| Are there Womens Clothing sales or promotions in June 2026? | search | 0.90 |
-| Where to buy genuine Womens Clothing online in Bangladesh? | search | 0.90 |
-| Twelve Clothing | search | 0.95 |
-| Bangladesh’s leading fashion brand offering premium clothing, trendy menswear, w | search | 0.90 |
-| Sailor | search | 0.95 |
-| One of the best fashion retail brands in Bangladesh, offering trendy menswear, w | search | 0.90 |
-| Epyllion Group | search | 0.90 |
-| sailor.clothing | search | 0.95 |
-| JamaKapor | search | 0.95 |
-| Bangladesh's largest online fashion store for clothes, dresses, shoes and more f | search | 0.90 |
-| Best prices in home delivery | search | 0.90 |
-| Gentle Park | search | 0.95 |
+| ['11.11 Global Shopping Festival', 'Anniversary Sale', 'Summer Sale'] | search | 0.90 |
+| old money outfits | search | 0.95 |
+| 2025 | search | 0.90 |
+| two-piece dresses | search | 0.95 |
+| verified | search | 0.90 |
+| RIR OUTFITS | search | 0.95 |
+| premium men's clothing | search | 0.95 |
+| 2026-07-16 | search | 0.90 |
+| SiATEX Global | search | 0.95 |
+| trusted and reliable | search | 0.90 |
+| best factory prices | search | 0.90 |

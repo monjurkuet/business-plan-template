@@ -1,9 +1,9 @@
 ---
 sector: travel-tourism
-last_verified: 2026-06-28
+last_verified: 2026-06-29
 freshness: fresh
-confidence: 0.742
-evidence_ids: ['0191c917-326', 'b3ae552a-f3e', 'e53719da-295', '95ffaafd-beb']
+confidence: 0.74
+evidence_ids: ['f1c59a15-c68', '074e71f2-fa9', 'e920cead-04b']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -94,22 +94,13 @@ evidence_ids: ['0191c917-326', 'b3ae552a-f3e', 'e53719da-295', '95ffaafd-beb']
 
 
 
-## Auto-Updated Data (2026-06-28)
+
+## Auto-Updated Data (2026-06-29)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 322853 | search | 0.95 |
-| 1376 | search | 0.95 |
-| 144 | search | 0.95 |
-| luxurious travel experiences at affordable rates | search | 0.90 |
-| 1393 | search | 0.95 |
-| 1 | search | 0.95 |
-| ['air tickets', 'visa support', 'tour packages'] | search | 0.95 |
-| {'route': 'Kuala Lumpur - Dhaka (1WAY)', 'airline': 'Malaysia Airlines', 'flight | search | 0.95 |
-| 903 | search | 0.95 |
-| 2 | search | 0.95 |
-| {'route': 'Kuala Lumpur - Dhaka (1WAY)', 'airline': 'Malaysia Airlines', 'flight | search | 0.95 |
-| 16685 | search | 0.95 |
-| 250 | search | 0.95 |
-| 903 | search | 0.95 |
-| ['FAMILY TOUR', 'GROUP TOUR', 'UMRAH PACKAGES', 'VISA SUPPORT', 'AIR TICKET', 'C | search | 0.95 |
+| amazing tour and travel packages at affordable price | search | 0.90 |
+| cheap air tickets | search | 0.95 |
+| ShareTrip | search | 1.00 |
+| tickets and other amenities at affordable prices | search | 0.90 |
+| 2014-04-01 | search | 0.95 |

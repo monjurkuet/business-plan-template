@@ -1,9 +1,9 @@
 ---
 sector: electronics-gadgets
-last_verified: 2026-06-28
+last_verified: 2026-06-29
 freshness: fresh
-confidence: 0.741
-evidence_ids: ['d939b2ca-c40', '77acc139-8c4', '31271a26-56f', '06cdfa79-2da', 'a384931f-33e']
+confidence: 0.639
+evidence_ids: ['ebefc75b-db1']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -117,20 +117,12 @@ evidence_ids: ['d939b2ca-c40', '77acc139-8c4', '31271a26-56f', '06cdfa79-2da', '
 
 
 
-## Auto-Updated Data (2026-06-28)
+
+## Auto-Updated Data (2026-06-29)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| smartphones | search | 0.95 |
-| ['Samsung', 'Xiaomi', 'OnePlus', 'Vivo', 'HONOR', 'Infinix', 'Tecno'] | search | 0.95 |
-| 100% genuine with official warranty | search | 0.95 |
-| competitive smartphone price in BD | search | 0.90 |
-| TV & Home Appliances | search | 0.95 |
-| energy-efficient, designed for convenience and durability | search | 0.90 |
-| latest prices in Bangladesh | search | 0.90 |
-| ['TVs', 'fridges', 'ACs'] | search | 0.95 |
-| mobile phones | search | 0.95 |
-| 14,699 to 31,899 | search | 0.95 |
-| Express Delivery | search | 0.95 |
-| official warranty | search | 0.95 |
-| ['TVs', 'fridges', 'ACs'] | search | 0.95 |
+| TCL TV | search | 0.95 |
+| 25500-102900 | search | 0.95 |
+| Express Delivery | search | 0.90 |
+| official warranty | search | 0.90 |

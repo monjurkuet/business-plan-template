@@ -1,7 +1,7 @@
 {
   "queries": {
     "\"auto detailing Dhaka\" policy Bangladesh 2026": {
-      "score": 0.0496,
+      "score": 0.0471,
       "hits": 385,
       "high_conf_hits": 6,
       "total_facts": 45,
@@ -10,10 +10,10 @@
       ],
       "first_seen": "2026-05-06T16:12:50.913680+00:00",
       "last_seen": "2026-06-25T03:10:55.114411+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347397+00:00"
+      "decayed_at": "2026-06-29T16:48:59.963228+00:00"
     },
     "\"clothing Bangladesh\" regulation Bangladesh 2026": {
-      "score": 0.0015,
+      "score": 0.0014,
       "hits": 387,
       "high_conf_hits": 6,
       "total_facts": 23,
@@ -22,10 +22,10 @@
       ],
       "first_seen": "2026-05-06T16:12:50.913693+00:00",
       "last_seen": "2026-06-17T05:07:36.276491+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347424+00:00"
+      "decayed_at": "2026-06-29T16:48:59.963268+00:00"
     },
     "\"clothing Bangladesh\" policy Bangladesh 2026": {
-      "score": 0.0021,
+      "score": 0.002,
       "hits": 400,
       "high_conf_hits": 9,
       "total_facts": 32,
@@ -34,7 +34,7 @@
       ],
       "first_seen": "2026-05-06T16:12:50.913710+00:00",
       "last_seen": "2026-06-17T05:07:36.276509+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347427+00:00"
+      "decayed_at": "2026-06-29T16:48:59.963271+00:00"
     },
     "\"fashion brand Dhaka\" regulation Bangladesh 2026": {
       "score": 0.0009,
@@ -46,7 +46,7 @@
       ],
       "first_seen": "2026-05-06T16:12:50.913733+00:00",
       "last_seen": "2026-06-17T05:07:36.276531+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347429+00:00"
+      "decayed_at": "2026-06-29T16:48:59.963274+00:00"
     },
     "site:gov.bd \"clothing Bangladesh\" circular": {
       "score": 0.0009,
@@ -58,46 +58,46 @@
       ],
       "first_seen": "2026-05-06T16:15:35.169064+00:00",
       "last_seen": "2026-06-17T05:07:36.276520+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347431+00:00"
+      "decayed_at": "2026-06-29T16:48:59.963277+00:00"
     },
     "\"crypto Bangladesh\" Bangladesh top companies": {
       "score": 1.0,
-      "hits": 644,
-      "high_conf_hits": 47,
-      "total_facts": 520,
+      "hits": 649,
+      "high_conf_hits": 50,
+      "total_facts": 531,
       "sectors": [
         "crypto-bitcoin"
       ],
       "first_seen": "2026-05-06T16:23:38.142111+00:00",
-      "last_seen": "2026-06-28T11:22:54.347577+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347433+00:00"
+      "last_seen": "2026-06-29T16:48:59.963472+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963279+00:00"
     },
     "site:facebook.com \"crypto Bangladesh\" Bangladesh": {
-      "score": 0.0022,
-      "hits": 465,
+      "score": 0.0021,
+      "hits": 470,
       "high_conf_hits": 8,
       "total_facts": 18,
       "sectors": [
         "crypto-bitcoin"
       ],
       "first_seen": "2026-05-06T16:23:38.142146+00:00",
-      "last_seen": "2026-06-28T11:22:54.347760+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347435+00:00"
+      "last_seen": "2026-06-29T16:48:59.963724+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963282+00:00"
     },
     "\"bitcoin BD\" Bangladesh top companies": {
-      "score": 0.0017,
-      "hits": 400,
+      "score": 0.0016,
+      "hits": 405,
       "high_conf_hits": 5,
       "total_facts": 14,
       "sectors": [
         "crypto-bitcoin"
       ],
       "first_seen": "2026-05-06T16:23:38.142164+00:00",
-      "last_seen": "2026-06-28T11:22:54.347847+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347439+00:00"
+      "last_seen": "2026-06-29T16:48:59.963848+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963288+00:00"
     },
     "\"crypto Bangladesh\" price Bangladesh": {
-      "score": 0.001,
+      "score": 0.0009,
       "hits": 361,
       "high_conf_hits": 3,
       "total_facts": 4,
@@ -106,22 +106,22 @@
       ],
       "first_seen": "2026-05-06T16:23:38.142192+00:00",
       "last_seen": "2026-05-30T19:58:50.469229+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347442+00:00"
+      "decayed_at": "2026-06-29T16:48:59.963292+00:00"
     },
     "\"bitcoin BD\" Dhaka Facebook": {
-      "score": 0.0018,
-      "hits": 390,
+      "score": 0.0017,
+      "hits": 395,
       "high_conf_hits": 5,
       "total_facts": 18,
       "sectors": [
         "crypto-bitcoin"
       ],
       "first_seen": "2026-05-06T22:30:32.095032+00:00",
-      "last_seen": "2026-06-28T09:48:36.804550+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347444+00:00"
+      "last_seen": "2026-06-29T16:48:59.964015+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963295+00:00"
     },
     "\"car care Bangladesh\" regulation Bangladesh 2026": {
-      "score": 0.0274,
+      "score": 0.026,
       "hits": 169,
       "high_conf_hits": 5,
       "total_facts": 18,
@@ -130,10 +130,10 @@
       ],
       "first_seen": "2026-05-26T23:40:55.419105+00:00",
       "last_seen": "2026-06-25T03:10:55.114381+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347446+00:00"
+      "decayed_at": "2026-06-29T16:48:59.963297+00:00"
     },
     "\"car care Bangladesh\" policy Bangladesh 2026": {
-      "score": 0.0768,
+      "score": 0.073,
       "hits": 207,
       "high_conf_hits": 20,
       "total_facts": 38,
@@ -142,10 +142,10 @@
       ],
       "first_seen": "2026-05-26T23:40:55.419125+00:00",
       "last_seen": "2026-06-25T03:10:55.114393+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347448+00:00"
+      "decayed_at": "2026-06-29T16:48:59.963299+00:00"
     },
     "site:gov.bd \"car care Bangladesh\" circular": {
-      "score": 0.0122,
+      "score": 0.0116,
       "hits": 50,
       "high_conf_hits": 2,
       "total_facts": 2,
@@ -154,10 +154,10 @@
       ],
       "first_seen": "2026-05-26T23:40:55.419146+00:00",
       "last_seen": "2026-06-23T07:44:19.762353+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347450+00:00"
+      "decayed_at": "2026-06-29T16:48:59.963302+00:00"
     },
     "\"auto detailing Dhaka\" regulation Bangladesh 2026": {
-      "score": 0.0422,
+      "score": 0.0401,
       "hits": 174,
       "high_conf_hits": 8,
       "total_facts": 54,
@@ -166,130 +166,130 @@
       ],
       "first_seen": "2026-05-26T23:40:55.419161+00:00",
       "last_seen": "2026-06-25T03:10:55.114404+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347452+00:00"
+      "decayed_at": "2026-06-29T16:48:59.963304+00:00"
     },
     "\"car care Bangladesh\" price Bangladesh": {
-      "score": 1.0,
-      "hits": 476,
+      "score": 0.95,
+      "hits": 484,
       "high_conf_hits": 33,
-      "total_facts": 369,
+      "total_facts": 379,
       "sectors": [
         "automotive-car-care"
       ],
       "first_seen": "2026-06-16T22:56:16.106140+00:00",
-      "last_seen": "2026-06-28T11:22:54.347592+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347454+00:00"
+      "last_seen": "2026-06-29T16:48:59.963525+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963306+00:00"
     },
     "site:facebook.com \"car care Bangladesh\" offer price": {
-      "score": 0.0908,
-      "hits": 318,
+      "score": 0.0863,
+      "hits": 323,
       "high_conf_hits": 7,
       "total_facts": 88,
       "sectors": [
         "automotive-car-care"
       ],
       "first_seen": "2026-06-16T22:56:16.106171+00:00",
-      "last_seen": "2026-06-28T11:22:54.347679+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347456+00:00"
+      "last_seen": "2026-06-29T16:48:59.963612+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963309+00:00"
     },
     "\"car care Bangladesh\" Bangladesh price list": {
-      "score": 0.033,
-      "hits": 418,
+      "score": 0.0314,
+      "hits": 423,
       "high_conf_hits": 5,
       "total_facts": 36,
       "sectors": [
         "automotive-car-care"
       ],
       "first_seen": "2026-06-16T22:56:16.106186+00:00",
-      "last_seen": "2026-06-28T11:22:54.347749+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347458+00:00"
+      "last_seen": "2026-06-29T16:48:59.963701+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963311+00:00"
     },
     "\"auto detailing Dhaka\" price Bangladesh": {
-      "score": 0.1284,
-      "hits": 279,
+      "score": 0.122,
+      "hits": 284,
       "high_conf_hits": 27,
       "total_facts": 115,
       "sectors": [
         "automotive-car-care"
       ],
       "first_seen": "2026-06-16T22:56:16.106209+00:00",
-      "last_seen": "2026-06-28T11:22:54.347794+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347460+00:00"
+      "last_seen": "2026-06-29T16:48:59.963862+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963314+00:00"
     },
     "site:facebook.com \"auto detailing Dhaka\" offer price": {
-      "score": 0.1053,
-      "hits": 276,
+      "score": 0.1,
+      "hits": 281,
       "high_conf_hits": 14,
       "total_facts": 53,
       "sectors": [
         "automotive-car-care"
       ],
       "first_seen": "2026-06-16T22:56:16.106223+00:00",
-      "last_seen": "2026-06-28T11:22:54.347868+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347462+00:00"
+      "last_seen": "2026-06-29T16:48:59.964003+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963316+00:00"
     },
     "\"auto detailing Dhaka\" Bangladesh price list": {
-      "score": 0.1015,
-      "hits": 281,
+      "score": 0.0964,
+      "hits": 286,
       "high_conf_hits": 17,
       "total_facts": 66,
       "sectors": [
         "automotive-car-care"
       ],
       "first_seen": "2026-06-16T22:56:16.106239+00:00",
-      "last_seen": "2026-06-28T07:29:09.195404+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347463+00:00"
+      "last_seen": "2026-06-29T16:48:59.964087+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963318+00:00"
     },
     "\"clothing Bangladesh\" price Bangladesh": {
-      "score": 0.5987,
-      "hits": 465,
+      "score": 0.5688,
+      "hits": 473,
       "high_conf_hits": 46,
-      "total_facts": 473,
+      "total_facts": 484,
       "sectors": [
         "clothing-fashion"
       ],
       "first_seen": "2026-06-16T22:56:16.106303+00:00",
-      "last_seen": "2026-06-28T09:48:36.804245+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347465+00:00"
+      "last_seen": "2026-06-29T16:48:59.963452+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963320+00:00"
     },
     "\"clothing Bangladesh\" Bangladesh price list": {
-      "score": 0.0642,
-      "hits": 486,
+      "score": 0.061,
+      "hits": 491,
       "high_conf_hits": 8,
       "total_facts": 41,
       "sectors": [
         "clothing-fashion"
       ],
       "first_seen": "2026-06-16T22:56:16.106336+00:00",
-      "last_seen": "2026-06-28T11:22:54.347777+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347467+00:00"
+      "last_seen": "2026-06-29T16:48:59.963767+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963322+00:00"
     },
     "\"fashion brand Dhaka\" price Bangladesh": {
-      "score": 0.0269,
-      "hits": 441,
+      "score": 0.0256,
+      "hits": 446,
       "high_conf_hits": 5,
       "total_facts": 9,
       "sectors": [
         "clothing-fashion"
       ],
       "first_seen": "2026-06-16T22:56:16.106350+00:00",
-      "last_seen": "2026-06-28T11:22:54.347857+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347469+00:00"
+      "last_seen": "2026-06-29T16:48:59.963905+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963325+00:00"
     },
     "site:facebook.com \"fashion brand Dhaka\" offer price": {
-      "score": 0.0243,
-      "hits": 335,
+      "score": 0.0231,
+      "hits": 340,
       "high_conf_hits": 4,
       "total_facts": 28,
       "sectors": [
         "clothing-fashion"
       ],
       "first_seen": "2026-06-16T22:56:16.106369+00:00",
-      "last_seen": "2026-06-28T09:48:36.804572+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347471+00:00"
+      "last_seen": "2026-06-29T16:48:59.964062+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963327+00:00"
     },
     "\"car care Bangladesh\" review Bangladesh": {
-      "score": 0.1152,
+      "score": 0.1094,
       "hits": 183,
       "high_conf_hits": 15,
       "total_facts": 67,
@@ -298,10 +298,10 @@
       ],
       "first_seen": "2026-06-17T08:14:02.662077+00:00",
       "last_seen": "2026-06-25T03:10:55.114422+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347473+00:00"
+      "decayed_at": "2026-06-29T16:48:59.963329+00:00"
     },
     "\"car care Bangladesh\" customer complaints Bangladesh": {
-      "score": 0.0589,
+      "score": 0.056,
       "hits": 107,
       "high_conf_hits": 8,
       "total_facts": 38,
@@ -310,10 +310,10 @@
       ],
       "first_seen": "2026-06-17T08:14:02.662113+00:00",
       "last_seen": "2026-06-25T03:10:55.114439+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347474+00:00"
+      "decayed_at": "2026-06-29T16:48:59.963336+00:00"
     },
     "\"auto detailing Dhaka\" review Bangladesh": {
-      "score": 0.1256,
+      "score": 0.1193,
       "hits": 108,
       "high_conf_hits": 19,
       "total_facts": 81,
@@ -322,10 +322,10 @@
       ],
       "first_seen": "2026-06-17T08:14:02.662127+00:00",
       "last_seen": "2026-06-25T03:10:55.114451+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347476+00:00"
+      "decayed_at": "2026-06-29T16:48:59.963339+00:00"
     },
     "site:facebook.com \"auto detailing Dhaka\" reviews": {
-      "score": 0.1159,
+      "score": 0.1101,
       "hits": 108,
       "high_conf_hits": 27,
       "total_facts": 90,
@@ -334,10 +334,10 @@
       ],
       "first_seen": "2026-06-17T08:14:02.662135+00:00",
       "last_seen": "2026-06-25T03:10:55.114454+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347478+00:00"
+      "decayed_at": "2026-06-29T16:48:59.963341+00:00"
     },
     "\"auto detailing Dhaka\" customer complaints Bangladesh": {
-      "score": 0.1258,
+      "score": 0.1195,
       "hits": 105,
       "high_conf_hits": 24,
       "total_facts": 71,
@@ -346,334 +346,334 @@
       ],
       "first_seen": "2026-06-17T08:14:02.662150+00:00",
       "last_seen": "2026-06-25T03:10:55.114471+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347480+00:00"
+      "decayed_at": "2026-06-29T16:48:59.963343+00:00"
     },
     "site:facebook.com \"clothing Bangladesh\" offer price": {
-      "score": 0.878,
-      "hits": 215,
+      "score": 0.8341,
+      "hits": 220,
       "high_conf_hits": 16,
       "total_facts": 281,
       "sectors": [
         "clothing-fashion"
       ],
       "first_seen": "2026-06-24T14:48:24.194901+00:00",
-      "last_seen": "2026-06-28T11:22:54.347661+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347482+00:00"
+      "last_seen": "2026-06-29T16:48:59.963600+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963346+00:00"
     },
     "\"electronics Bangladesh\" price Bangladesh": {
-      "score": 0.6983,
-      "hits": 262,
+      "score": 0.6634,
+      "hits": 267,
       "high_conf_hits": 39,
-      "total_facts": 444,
+      "total_facts": 448,
       "sectors": [
         "electronics-gadgets"
       ],
       "first_seen": "2026-06-25T07:28:13.371643+00:00",
-      "last_seen": "2026-06-28T11:22:54.347621+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347483+00:00"
+      "last_seen": "2026-06-29T16:48:59.963576+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963348+00:00"
     },
     "\"pet care Bangladesh\" price Bangladesh": {
-      "score": 0.3095,
-      "hits": 217,
-      "high_conf_hits": 9,
-      "total_facts": 302,
+      "score": 0.494,
+      "hits": 223,
+      "high_conf_hits": 11,
+      "total_facts": 314,
       "sectors": [
         "high-roi-niches"
       ],
       "first_seen": "2026-06-25T07:28:13.371668+00:00",
-      "last_seen": "2026-06-28T11:22:54.347632+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347485+00:00"
+      "last_seen": "2026-06-29T16:48:59.963491+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963350+00:00"
     },
     "\"jewellery Bangladesh\" price Bangladesh": {
-      "score": 0.675,
-      "hits": 263,
-      "high_conf_hits": 25,
-      "total_facts": 288,
+      "score": 0.8412,
+      "hits": 271,
+      "high_conf_hits": 27,
+      "total_facts": 297,
       "sectors": [
         "jewellery"
       ],
       "first_seen": "2026-06-25T07:28:13.371685+00:00",
-      "last_seen": "2026-06-28T11:22:54.347610+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347487+00:00"
+      "last_seen": "2026-06-29T16:48:59.963561+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963352+00:00"
     },
     "\"digital marketing Bangladesh\" price Bangladesh": {
-      "score": 0.3901,
-      "hits": 264,
+      "score": 0.3706,
+      "hits": 269,
       "high_conf_hits": 10,
       "total_facts": 233,
       "sectors": [
         "media-marketing-digital"
       ],
       "first_seen": "2026-06-25T07:28:13.371700+00:00",
-      "last_seen": "2026-06-28T11:22:54.347650+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347489+00:00"
+      "last_seen": "2026-06-29T16:48:59.963504+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963355+00:00"
     },
     "\"travel agency Bangladesh\" price Bangladesh": {
-      "score": 0.2404,
-      "hits": 272,
+      "score": 0.2284,
+      "hits": 277,
       "high_conf_hits": 6,
-      "total_facts": 280,
+      "total_facts": 285,
       "sectors": [
         "travel-tourism"
       ],
       "first_seen": "2026-06-25T07:28:13.371715+00:00",
-      "last_seen": "2026-06-28T11:22:54.347668+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347491+00:00"
+      "last_seen": "2026-06-29T16:48:59.963587+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963357+00:00"
     },
     "\"crypto Bangladesh\" Dhaka Facebook": {
-      "score": 0.3476,
-      "hits": 181,
+      "score": 0.3302,
+      "hits": 186,
       "high_conf_hits": 6,
-      "total_facts": 316,
+      "total_facts": 323,
       "sectors": [
         "crypto-bitcoin"
       ],
       "first_seen": "2026-06-25T07:28:13.371757+00:00",
-      "last_seen": "2026-06-28T09:48:36.804335+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347493+00:00"
+      "last_seen": "2026-06-29T16:48:59.963652+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963359+00:00"
     },
     "site:facebook.com \"electronics Bangladesh\" offer price": {
-      "score": 0.7888,
-      "hits": 185,
+      "score": 0.7494,
+      "hits": 190,
       "high_conf_hits": 13,
       "total_facts": 201,
       "sectors": [
         "electronics-gadgets"
       ],
       "first_seen": "2026-06-25T07:28:13.371770+00:00",
-      "last_seen": "2026-06-28T09:48:36.804347+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347494+00:00"
+      "last_seen": "2026-06-29T16:48:59.963625+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963361+00:00"
     },
     "site:facebook.com \"pet care Bangladesh\" offer price": {
-      "score": 0.4372,
-      "hits": 178,
+      "score": 0.4153,
+      "hits": 183,
       "high_conf_hits": 7,
       "total_facts": 40,
       "sectors": [
         "high-roi-niches"
       ],
       "first_seen": "2026-06-25T07:28:13.371793+00:00",
-      "last_seen": "2026-06-28T11:22:54.347690+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347496+00:00"
+      "last_seen": "2026-06-29T16:48:59.963664+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963363+00:00"
     },
     "site:facebook.com \"digital marketing Bangladesh\" offer price": {
-      "score": 0.0812,
-      "hits": 200,
+      "score": 0.0771,
+      "hits": 205,
       "high_conf_hits": 1,
       "total_facts": 28,
       "sectors": [
         "media-marketing-digital"
       ],
       "first_seen": "2026-06-25T07:28:13.371871+00:00",
-      "last_seen": "2026-06-28T11:22:54.347713+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347498+00:00"
+      "last_seen": "2026-06-29T16:48:59.963689+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963365+00:00"
     },
     "\"BIM outsourcing USA\" regulation Bangladesh 2026": {
-      "score": 0.8301,
-      "hits": 180,
-      "high_conf_hits": 26,
-      "total_facts": 359,
+      "score": 0.8886,
+      "hits": 185,
+      "high_conf_hits": 27,
+      "total_facts": 361,
       "sectors": [
         "bim-global-outreach"
       ],
       "first_seen": "2026-06-25T12:40:55.933294+00:00",
-      "last_seen": "2026-06-28T11:22:54.347603+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347504+00:00"
+      "last_seen": "2026-06-29T16:48:59.963539+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963367+00:00"
     },
     "\"BIM outsourcing USA\" policy Bangladesh 2026": {
-      "score": 0.2542,
-      "hits": 170,
+      "score": 0.2415,
+      "hits": 175,
       "high_conf_hits": 3,
-      "total_facts": 389,
+      "total_facts": 398,
       "sectors": [
         "bim-global-outreach"
       ],
       "first_seen": "2026-06-25T12:40:55.933371+00:00",
-      "last_seen": "2026-06-28T09:48:36.804309+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347506+00:00"
+      "last_seen": "2026-06-29T16:48:59.963638+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963369+00:00"
     },
     "\"fashion brand Dhaka\" Bangladesh price list": {
-      "score": 0.1886,
-      "hits": 132,
+      "score": 0.1792,
+      "hits": 140,
       "high_conf_hits": 0,
       "total_facts": 0,
       "sectors": [
         "clothing-fashion"
       ],
       "first_seen": "2026-06-26T15:22:38.682592+00:00",
-      "last_seen": "2026-06-28T11:22:54.347969+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347507+00:00"
+      "last_seen": "2026-06-29T16:48:59.964141+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963371+00:00"
     },
     "site:facebook.com \"travel agency Bangladesh\" offer price": {
-      "score": 0.2437,
-      "hits": 70,
+      "score": 0.2315,
+      "hits": 75,
       "high_conf_hits": 0,
       "total_facts": 56,
       "sectors": [
         "travel-tourism"
       ],
       "first_seen": "2026-06-27T10:26:03.690092+00:00",
-      "last_seen": "2026-06-28T09:48:36.804359+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347509+00:00"
+      "last_seen": "2026-06-29T16:48:59.963712+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963373+00:00"
     },
     "site:facebook.com \"jewellery Bangladesh\" offer price": {
-      "score": 0.2437,
-      "hits": 65,
+      "score": 0.2315,
+      "hits": 70,
       "high_conf_hits": 0,
       "total_facts": 62,
       "sectors": [
         "jewellery"
       ],
       "first_seen": "2026-06-27T10:26:03.690107+00:00",
-      "last_seen": "2026-06-28T11:22:54.347702+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347511+00:00"
+      "last_seen": "2026-06-29T16:48:59.963677+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963375+00:00"
     },
     "\"electronics Bangladesh\" Bangladesh price list": {
-      "score": 0.2437,
-      "hits": 83,
+      "score": 0.2315,
+      "hits": 91,
       "high_conf_hits": 0,
       "total_facts": 14,
       "sectors": [
         "electronics-gadgets"
       ],
       "first_seen": "2026-06-27T10:26:03.690172+00:00",
-      "last_seen": "2026-06-28T11:22:54.347784+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347513+00:00"
+      "last_seen": "2026-06-29T16:48:59.963744+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963377+00:00"
     },
     "\"pet care Bangladesh\" Bangladesh price list": {
-      "score": 0.2437,
-      "hits": 66,
+      "score": 0.2315,
+      "hits": 71,
       "high_conf_hits": 0,
       "total_facts": 0,
       "sectors": [
         "high-roi-niches"
       ],
       "first_seen": "2026-06-27T10:26:03.690186+00:00",
-      "last_seen": "2026-06-28T09:48:36.804418+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347515+00:00"
+      "last_seen": "2026-06-29T16:48:59.963779+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963379+00:00"
     },
     "\"travel agency Bangladesh\" Bangladesh price list": {
-      "score": 0.2437,
-      "hits": 90,
+      "score": 0.2315,
+      "hits": 98,
       "high_conf_hits": 0,
       "total_facts": 0,
       "sectors": [
         "travel-tourism"
       ],
       "first_seen": "2026-06-27T10:26:03.690199+00:00",
-      "last_seen": "2026-06-28T11:22:54.347825+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347516+00:00"
+      "last_seen": "2026-06-29T16:48:59.963836+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963381+00:00"
     },
     "\"jewellery Bangladesh\" Bangladesh price list": {
-      "score": 0.2437,
-      "hits": 102,
+      "score": 0.2315,
+      "hits": 110,
       "high_conf_hits": 0,
       "total_facts": 0,
       "sectors": [
         "jewellery"
       ],
       "first_seen": "2026-06-27T10:26:03.690222+00:00",
-      "last_seen": "2026-06-28T11:22:54.347812+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347518+00:00"
+      "last_seen": "2026-06-29T16:48:59.963798+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963383+00:00"
     },
     "\"digital marketing Bangladesh\" Bangladesh price list": {
-      "score": 0.2437,
-      "hits": 93,
+      "score": 0.2315,
+      "hits": 101,
       "high_conf_hits": 0,
       "total_facts": 0,
       "sectors": [
         "media-marketing-digital"
       ],
       "first_seen": "2026-06-27T10:26:03.690241+00:00",
-      "last_seen": "2026-06-28T11:22:54.347818+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347520+00:00"
+      "last_seen": "2026-06-29T16:48:59.963817+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963385+00:00"
     },
     "\"gadget shop Dhaka\" price Bangladesh": {
-      "score": 0.2437,
-      "hits": 65,
+      "score": 0.2315,
+      "hits": 70,
       "high_conf_hits": 0,
       "total_facts": 0,
       "sectors": [
         "electronics-gadgets"
       ],
       "first_seen": "2026-06-27T10:26:03.690290+00:00",
-      "last_seen": "2026-06-28T11:22:54.347890+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347522+00:00"
+      "last_seen": "2026-06-29T16:48:59.963923+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963388+00:00"
     },
     "\"ad agency Dhaka\" price Bangladesh": {
-      "score": 0.2437,
-      "hits": 81,
+      "score": 0.2315,
+      "hits": 86,
       "high_conf_hits": 0,
       "total_facts": 0,
       "sectors": [
         "media-marketing-digital"
       ],
       "first_seen": "2026-06-27T10:26:03.690317+00:00",
-      "last_seen": "2026-06-28T11:22:54.347915+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347524+00:00"
+      "last_seen": "2026-06-29T16:48:59.963978+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963390+00:00"
     },
     "\"gold jewellery Dhaka\" price Bangladesh": {
-      "score": 0.2437,
-      "hits": 67,
+      "score": 0.2315,
+      "hits": 72,
       "high_conf_hits": 0,
       "total_facts": 0,
       "sectors": [
         "jewellery"
       ],
       "first_seen": "2026-06-27T10:26:03.690333+00:00",
-      "last_seen": "2026-06-28T11:22:54.347903+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347525+00:00"
+      "last_seen": "2026-06-29T16:48:59.963964+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963392+00:00"
     },
     "\"tourism Dhaka\" price Bangladesh": {
-      "score": 0.2437,
-      "hits": 85,
+      "score": 0.2315,
+      "hits": 90,
       "high_conf_hits": 0,
       "total_facts": 0,
       "sectors": [
         "travel-tourism"
       ],
       "first_seen": "2026-06-27T10:26:03.690345+00:00",
-      "last_seen": "2026-06-28T11:22:54.347920+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347527+00:00"
+      "last_seen": "2026-06-29T16:48:59.964027+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963394+00:00"
     },
     "\"creator economy BD\" price Bangladesh": {
-      "score": 0.2437,
-      "hits": 62,
+      "score": 0.2315,
+      "hits": 67,
       "high_conf_hits": 0,
       "total_facts": 0,
       "sectors": [
         "high-roi-niches"
       ],
       "first_seen": "2026-06-27T10:26:03.690363+00:00",
-      "last_seen": "2026-06-28T11:22:54.347879+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347529+00:00"
+      "last_seen": "2026-06-29T16:48:59.963942+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963396+00:00"
     },
     "site:facebook.com \"gadget shop Dhaka\" offer price": {
-      "score": 0.2437,
-      "hits": 55,
+      "score": 0.2315,
+      "hits": 60,
       "high_conf_hits": 0,
       "total_facts": 0,
       "sectors": [
         "electronics-gadgets"
       ],
       "first_seen": "2026-06-27T10:26:03.690414+00:00",
-      "last_seen": "2026-06-28T11:22:54.347941+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347531+00:00"
+      "last_seen": "2026-06-29T16:48:59.964076+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963398+00:00"
     },
     "site:facebook.com \"tourism Dhaka\" offer price": {
-      "score": 0.2437,
-      "hits": 70,
+      "score": 0.2315,
+      "hits": 75,
       "high_conf_hits": 0,
       "total_facts": 0,
       "sectors": [
         "travel-tourism"
       ],
       "first_seen": "2026-06-27T10:26:03.690427+00:00",
-      "last_seen": "2026-06-28T11:22:54.347963+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347533+00:00"
+      "last_seen": "2026-06-29T16:48:59.964122+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963400+00:00"
     },
     "site:facebook.com \"creator economy BD\" offer price": {
-      "score": 0.2437,
+      "score": 0.2315,
       "hits": 55,
       "high_conf_hits": 0,
       "total_facts": 0,
@@ -682,67 +682,68 @@
       ],
       "first_seen": "2026-06-27T10:26:03.690440+00:00",
       "last_seen": "2026-06-28T11:22:54.347952+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347534+00:00"
+      "decayed_at": "2026-06-29T16:48:59.963402+00:00"
     },
     "site:facebook.com \"ad agency Dhaka\" offer price": {
-      "score": 0.2437,
-      "hits": 65,
+      "score": 0.2315,
+      "hits": 70,
       "high_conf_hits": 0,
       "total_facts": 0,
       "sectors": [
         "media-marketing-digital"
       ],
       "first_seen": "2026-06-27T10:26:03.690453+00:00",
-      "last_seen": "2026-06-28T09:48:36.804583+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347536+00:00"
+      "last_seen": "2026-06-29T16:48:59.964110+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963404+00:00"
     },
     "site:facebook.com \"gold jewellery Dhaka\" offer price": {
-      "score": 0.2437,
-      "hits": 10,
+      "score": 0.2315,
+      "hits": 15,
       "high_conf_hits": 0,
       "total_facts": 0,
       "sectors": [
         "jewellery"
       ],
       "first_seen": "2026-06-27T10:26:03.690466+00:00",
-      "last_seen": "2026-06-28T01:02:07.946705+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347538+00:00"
+      "last_seen": "2026-06-29T16:48:59.964099+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963406+00:00"
     },
     "\"Revit modeling services\" regulation Bangladesh 2026": {
-      "score": 0.2992,
-      "hits": 45,
+      "score": 0.2842,
+      "hits": 50,
       "high_conf_hits": 0,
       "total_facts": 0,
       "sectors": [
         "bim-global-outreach"
       ],
       "first_seen": "2026-06-27T16:53:56.536932+00:00",
-      "last_seen": "2026-06-28T11:22:54.347836+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347541+00:00"
+      "last_seen": "2026-06-29T16:48:59.963887+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963408+00:00"
     },
     "\"Revit modeling services\" policy Bangladesh 2026": {
-      "score": 0.2992,
-      "hits": 55,
+      "score": 0.2842,
+      "hits": 60,
       "high_conf_hits": 0,
       "total_facts": 0,
       "sectors": [
         "bim-global-outreach"
       ],
       "first_seen": "2026-06-27T16:53:56.537091+00:00",
-      "last_seen": "2026-06-28T11:22:54.347931+00:00",
-      "decayed_at": "2026-06-28T11:22:54.347543+00:00"
+      "last_seen": "2026-06-29T16:48:59.963990+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963411+00:00"
     },
     "site:gov.bd \"BIM outsourcing USA\" circular": {
-      "score": 0.5,
-      "hits": 5,
+      "score": 0.475,
+      "hits": 10,
       "high_conf_hits": 0,
       "total_facts": 6,
       "sectors": [
         "bim-global-outreach"
       ],
       "first_seen": "2026-06-28T11:22:54.347715+00:00",
-      "last_seen": "2026-06-28T11:22:54.347731+00:00"
+      "last_seen": "2026-06-29T16:48:59.963755+00:00",
+      "decayed_at": "2026-06-29T16:48:59.963413+00:00"
     }
   },
-  "updated_at": "2026-06-28T11:22:54.347982+00:00"
+  "updated_at": "2026-06-29T16:48:59.964157+00:00"
 }

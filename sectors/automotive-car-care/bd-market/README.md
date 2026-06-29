@@ -1,9 +1,9 @@
 ---
 sector: automotive-car-care
-last_verified: 2026-06-28
+last_verified: 2026-06-29
 freshness: fresh
-confidence: 0.741
-evidence_ids: ['acbbf4ed-bb2', 'a92634a9-75b', 'ecd6118a-b57', '0ab0383c-b5c']
+confidence: 0.698
+evidence_ids: ['85920d80-b0e', '8d436ba5-d27']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -146,17 +146,18 @@ evidence_ids: ['acbbf4ed-bb2', 'a92634a9-75b', 'ecd6118a-b57', '0ab0383c-b5c']
 
 
 
-## Auto-Updated Data (2026-06-28)
+
+## Auto-Updated Data (2026-06-29)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 2026-02-05 | search | 1.00 |
-| car prices and specifications in Bangladesh | search | 1.00 |
-| Toyota, Nissan, Honda | search | 1.00 |
-| brand new, recondition, and used car prices | search | 1.00 |
-| brand new car prices in Bangladesh | search | 1.00 |
-| specifications, installment details, down payment, availability | search | 1.00 |
-| 1-285000 | search | 0.90 |
-| Car Care Products | search | 0.90 |
-| Online | search | 0.90 |
-| Home delivery available | search | 0.80 |
+| My Romance Car Air Freshener | search | 0.95 |
+| CarCareBangladesh | search | 0.95 |
+| Microfiber Towel - Scratch-free cleaning, high absorbency, streak-free finish | search | 0.90 |
+| Flamingo Car Care Tech Co., Ltd. | search | 0.95 |
+| Car care products, spray paint, special coating, industrial cleaning, surface tr | search | 0.95 |
+| Guangzhou, China | search | 0.90 |
+| Flamingo Bangladesh | search | 0.90 |
+| 4519 | search | 0.90 |
+| 36 | search | 0.90 |
+| 17 | search | 0.90 |

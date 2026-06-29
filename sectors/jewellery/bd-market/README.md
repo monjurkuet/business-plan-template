@@ -1,9 +1,9 @@
 ---
 sector: jewellery
-last_verified: 2026-06-28
+last_verified: 2026-06-29
 freshness: fresh
-confidence: 0.643
-evidence_ids: ['af172128-e13']
+confidence: 0.744
+evidence_ids: ['c0b65783-0e8', 'f04c507a-ec8', '72044f38-962', 'e6559091-2b5', '4e779429-7ef']
 ---
 
 # Jewellery — Bangladesh Market
@@ -108,10 +108,17 @@ evidence_ids: ['af172128-e13']
 
 
 
-## Auto-Updated Data (2026-06-28)
+
+## Auto-Updated Data (2026-06-29)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| up to 50% | search | 0.90 |
-| Summer Sale 2026 | search | 0.95 |
-| jewellery | search | 1.00 |
+| 26 years | search | 1.00 |
+| daily | search | 0.90 |
+| 10000 to 100000 | search | 1.00 |
+| 200 to 3000 | search | 1.00 |
+| 22k gold jewellery | search | 0.90 |
+| ['rings', 'chains', 'coins', 'bracelets', 'lockets', 'earrings', 'necklaces'] | search | 0.95 |
+| pearl jewelry | search | 0.90 |
+| 1990.00 | search | 0.95 |
+| 2020-02-05 | search | 0.90 |

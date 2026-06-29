@@ -1,9 +1,9 @@
 ---
 sector: bim-global-outreach
-last_verified: 2026-06-28
+last_verified: 2026-06-29
 freshness: fresh
-confidence: 0.74
-evidence_ids: ['be07e2f4-197', 'feb7073f-bd9', '117b0e9b-cd2', '25b0b775-28f', '073197f0-942', '8f5e0dea-19c', 'bdb023ae-6aa']
+confidence: 0.741
+evidence_ids: ['9c80a4d6-924', 'b1390839-f91', 'fc3caf51-a3d', '0d4cf540-df8']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -135,22 +135,19 @@ evidence_ids: ['be07e2f4-197', 'feb7073f-bd9', '117b0e9b-cd2', '25b0b775-28f', '
 
 
 
-## Auto-Updated Data (2026-06-28)
+
+## Auto-Updated Data (2026-06-29)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Bangladesh Institute of Management (BIM) | search | 1.00 |
-| 1961 | search | 1.00 |
-| deemed professional public university | search | 0.90 |
-| Act 54 of 2023 | search | 0.90 |
-| executive education, mid-level management training, research, and consultancy | search | 0.90 |
-| ISO 19650 | search | 0.90 |
-| Conduct a BIM capability audit across tools, teams, and workflows | search | 0.90 |
-| Train project staff in global standards like ISO 19650 | search | 0.90 |
-| Establish a structured Common Data Environment for all major projects | search | 0.90 |
-| Develop reusable templates for public tender submissions | search | 0.90 |
-| Collaborate with experienced BIM consultants or outsourcing partners | search | 0.90 |
-| Monitor regulatory updates | search | 0.90 |
-| After 2026, BIM outsourcing is no longer a nice-to-have | search | 0.90 |
-| Building information modeling (BIM) is an approach involving the generation and  | search | 0.95 |
-| bim-global-outreach | search | 1.00 |
+| 2026-01-12 | search | 1.00 |
+| 2025-01-12 | search | 1.00 |
+| $30,000–$80,000 | search | 0.95 |
+| Take-off and Estimation services | search | 0.90 |
+| Fixed pricing | search | 0.90 |
+| 2026-01-12 | search | 0.95 |
+| 2025-01-12 | search | 0.95 |
+| Scan to BIM outsourcing | search | 0.90 |
+| BIMBOSS | search | 0.95 |
+| BIM outsourcing consulting services | search | 0.90 |
+| ['USA', 'UK', 'India'] | search | 0.90 |
