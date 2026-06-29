@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-06-30
 freshness: fresh
-confidence: 0.75
-evidence_ids: ['661be7a8-f74', '877204ef-a7e', '6b01a5a4-cba']
+confidence: 0.742
+evidence_ids: ['f48c6753-948', 'c44e5c01-e2e', 'b6fdbd29-f82', 'd7f8577e-8a7', '241e8f82-187', '9078e29f-acd']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -137,12 +137,23 @@ evidence_ids: ['661be7a8-f74', '877204ef-a7e', '6b01a5a4-cba']
 
 
 
+
 ## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 2026-01-28 | search | 1.00 |
-| 2025-01-28 | search | 1.00 |
-| Building information modeling (BIM) is an approach involving the generation and  | search | 1.00 |
-| various tools, processes, technologies and contracts | search | 1.00 |
-| Building information modeling (BIM) is the holistic process of creating and mana | search | 1.00 |
+| Bangladesh Institute of Management | search | 1.00 |
+| 1961 | search | 1.00 |
+| Act 54 of 2023 | search | 1.00 |
+| deemed professional public university | search | 1.00 |
+| ISO 19650 | search | 1.00 |
+| Conduct a BIM capability audit across tools, teams, and workflows | search | 1.00 |
+| Train project staff in global standards like ISO 19650 | search | 1.00 |
+| Establish a structured Common Data Environment for all major projects | search | 1.00 |
+| Develop reusable templates for public tender submissions | search | 1.00 |
+| Collaborate with experienced BIM consultants or outsourcing partners | search | 1.00 |
+| Monitor regulatory updates | search | 1.00 |
+| 2026 | search | 1.00 |
+| BIM PGD Prospectus | search | 0.90 |
+| After 2026, BIM outsourcing is no longer a nice-to-have | search | 0.90 |
+| 2026 | search | 1.00 |

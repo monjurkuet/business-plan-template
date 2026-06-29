@@ -2,8 +2,8 @@
 sector: crypto-bitcoin
 last_verified: 2026-06-30
 freshness: fresh
-confidence: 0.74
-evidence_ids: ['bfd677bb-033', '71deb065-433', '0e3ca873-8e1', '80867c70-d06', 'a6ced41b-8e9', '9f875f5e-3fb', '5ddd8854-403', '339ef755-d11', 'd92cd856-2ff', '5c6b61dd-11b']
+confidence: 0.741
+evidence_ids: ['7dfb49c5-8e5', '7010ed4f-ea4', '48504037-227', 'c311f0cf-981', '0ccc8d87-aba', '6a38fbf1-a99', '69b19b61-938', '25a3e56d-cac']
 ---
 
 # Crypto & Bitcoin — Bangladesh Market
@@ -112,22 +112,23 @@ evidence_ids: ['bfd677bb-033', '71deb065-433', '0e3ca873-8e1', '80867c70-d06', '
 
 
 
+
 ## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Bangladesh residents can buy cryptos or bet on Augur results | search | 0.90 |
-| Bitcoin | search | 0.95 |
-| Bangladesh residents need a crypto trading account to buy and sell cryptocurrenc | search | 0.90 |
+| Buy and sell cryptocurrencies, bet on Tezos results | search | 0.90 |
+| Tezos | search | 0.95 |
+| Bangladesh | search | 1.00 |
+| YouTube | search | 1.00 |
 | ['SanzidTech', 'cryptohossain', 'Invest2.Profit', 'EarningRashu', 'Johire786'] | search | 0.95 |
+| 10 | search | 0.90 |
 | 2026-06 | search | 0.90 |
-| ['Bybit', 'Binance'] | search | 0.95 |
-| ['bKash', 'Nagad'] | search | 0.90 |
-| Bybit and Binance are top choices due to robust security and low fees | search | 0.90 |
-| 2025 | search | 0.95 |
-| 1300000000 | search | 0.90 |
-| 2024 | search | 0.95 |
-| North Korean hackers | search | 0.90 |
-| Cryptocurrency is a type of digital asset that uses distributed ledger, or block | search | 0.95 |
-| Current and historic data for Bitcoin and thousands of altcoins | search | 0.95 |
-| Buy, sell, store, and trade over 400+ cryptocurrencies | search | 0.95 |
+| Bangladesh | search | 1.00 |
+| Trade cryptocurrencies | search | 0.95 |
+| Open a Bangladesh cryptocurrency trading account with a Bangladesh cryptocurrenc | search | 0.95 |
+| Bangladesh | search | 1.00 |
+| 2026 | search | 0.90 |
+| Bangladesh Bank | search | 1.00 |
+| Not legalized, no outright ban | search | 0.95 |
+| Volatility warning, proceed with caution | search | 0.95 |

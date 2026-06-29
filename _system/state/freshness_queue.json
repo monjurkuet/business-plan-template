@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T18:35:53.802793+00:00",
+  "generated_at": "2026-06-29T20:11:14.003885+00:00",
   "summary": {
     "fresh": 39,
     "stale": 87,
@@ -1133,7 +1133,7 @@
       "path": "sectors/media-marketing-digital/bd-market/README.md",
       "sector": "media-marketing-digital",
       "category": "default",
-      "age_days": 1,
+      "age_days": 0,
       "stale_type": "stale_reference",
       "priority": "P1",
       "stale_after_days": 90,

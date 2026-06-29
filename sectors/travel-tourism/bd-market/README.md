@@ -2,8 +2,8 @@
 sector: travel-tourism
 last_verified: 2026-06-30
 freshness: fresh
-confidence: 0.736
-evidence_ids: ['c16ee4ca-25e', 'd0ab254e-d6f', '4a1d5822-568', 'd21f45a4-7ac']
+confidence: 0.741
+evidence_ids: ['39eab79b-612', '55d5bdbc-0e5', '276e48f2-216', '0a008c24-da4', '24dc4f02-85e', '21310c08-3e5']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -96,17 +96,17 @@ evidence_ids: ['c16ee4ca-25e', 'd0ab254e-d6f', '4a1d5822-568', 'd21f45a4-7ac']
 
 
 
+
 ## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| low-cost travel packages | search | 0.90 |
-| budget-friendly plans | search | 0.85 |
-| Transparent Pricing. No hidden fees — complete clarity on all rates and commissi | search | 0.95 |
-| +880 1846-937579 | search | 0.95 |
-| House 59, Block G, Road 3, Banasree, Rampura, Dhaka | search | 0.95 |
-| cheap air tickets | search | 0.90 |
-| affordable prices | search | 0.90 |
-| ShareTrip | search | 0.95 |
-| 2014-04-01 | search | 0.90 |
-| Booking BD | search | 0.90 |
+| vacation homes, hotels, car rentals, flights | search | 1.00 |
+| save more with bundles | search | 0.80 |
+| cheap flights | search | 1.00 |
+| discount airfare | search | 0.90 |
+| last minute travel deals, vacation packages | search | 1.00 |
+| escorted tours, small group tours, river cruises, walking tours, independent tra | search | 1.00 |
+| more of the world for less | search | 0.80 |
+| packages, hotels, flights, cars, cruises | search | 1.00 |
+| price caps | search | 0.90 |

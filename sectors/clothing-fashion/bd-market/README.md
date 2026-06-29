@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-06-30
 freshness: fresh
-confidence: 0.743
-evidence_ids: ['4dbf5c16-915', 'fd2c39c3-4ff', 'ce8cfa0e-eb3', '30400dfd-0d1']
+confidence: 0.745
+evidence_ids: ['39001994-bcf', '661776c5-5e6', 'a239163a-7a8', '0bead2b2-875']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -131,18 +131,21 @@ evidence_ids: ['4dbf5c16-915', 'fd2c39c3-4ff', 'ce8cfa0e-eb3', '30400dfd-0d1']
 
 
 
+
 ## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| baggy pants | search | 1.00 |
-| affordable | search | 0.90 |
-| all over Bangladesh | search | 1.00 |
+| 3.5 | search | 1.00 |
+| 300 COTTON TERRY CLOTH CLEANING RAGS / SHOP TOWELS / 12X12- 25 DOZ. / WHOLESALE | search | 1.00 |
+| Bangladesh | search | 0.90 |
+| RD style women black dress warm size M Knitted | search | 0.90 |
+| old money outfits | search | 1.00 |
+| shirts | search | 1.00 |
+| 2025 | search | 1.00 |
 | two-piece dresses | search | 1.00 |
 | affordable | search | 0.90 |
-| men's clothing (t-shirts, stylish designs) | search | 1.00 |
-| affordable | search | 0.90 |
-| Grand Opening | search | 1.00 |
+| RIR OUTFITS | search | 1.00 |
+| premium men's clothing | search | 1.00 |
 | 2026-07-16 | search | 1.00 |
-| Black Aura – Black & Cream Polka Dot Luxury Pret 3-Piece | search | 0.90 |
-| luxury clothing | search | 0.95 |
+| affordable | search | 0.90 |

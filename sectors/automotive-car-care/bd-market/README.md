@@ -1,9 +1,9 @@
 ---
 sector: automotive-car-care
-last_verified: 2026-06-29
+last_verified: 2026-06-30
 freshness: fresh
-confidence: 0.698
-evidence_ids: ['85920d80-b0e', '8d436ba5-d27']
+confidence: 0.635
+evidence_ids: ['f43d39b1-35d']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -147,17 +147,10 @@ evidence_ids: ['85920d80-b0e', '8d436ba5-d27']
 
 
 
-## Auto-Updated Data (2026-06-29)
+
+## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| My Romance Car Air Freshener | search | 0.95 |
-| CarCareBangladesh | search | 0.95 |
-| Microfiber Towel - Scratch-free cleaning, high absorbency, streak-free finish | search | 0.90 |
-| Flamingo Car Care Tech Co., Ltd. | search | 0.95 |
-| Car care products, spray paint, special coating, industrial cleaning, surface tr | search | 0.95 |
-| Guangzhou, China | search | 0.90 |
-| Flamingo Bangladesh | search | 0.90 |
-| 4519 | search | 0.90 |
-| 36 | search | 0.90 |
-| 17 | search | 0.90 |
+| $20,000 | search | 0.90 |
+| $10,000 | search | 0.90 |

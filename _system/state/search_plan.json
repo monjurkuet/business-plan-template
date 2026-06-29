@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T18:39:59.120069+00:00",
+  "generated_at": "2026-06-29T20:14:12.225115+00:00",
   "models_used": [
     "gemini-2.5-flash-lite",
     "deepseek-ai/deepseek-v4-pro",
@@ -7,166 +7,20 @@
   ],
   "reviews": [
     {
-      "repo_critical_issues": [
-        {
-          "issue": "Significant number of P0 freshness issues across multiple sectors, indicating a lack of regular updates for critical data like pricing, policy, and sentiment. Stale year references (2023, 2024) are prevalent.",
-          "severity": "critical",
-          "affected_sectors": [
-            "automotive-car-care",
-            "bim-global-outreach",
-            "clothing-fashion",
-            "crypto-bitcoin",
-            "electronics-gadgets"
-          ]
-        },
-        {
-          "issue": "Missing 'seasonality' file in 'bim-global-outreach' sector, which is flagged as P0.",
-          "severity": "high",
-          "affected_sectors": [
-            "bim-global-outreach"
-          ]
-        },
-        {
-          "issue": "Low number of 'High confidence' facts (6) and total extracted facts (76) relative to the total number of files (465) and evidence items (248), suggesting potential issues with the depth and reliability of the research.",
-          "severity": "medium",
-          "affected_sectors": []
-        }
-      ],
-      "sector_priorities": [
-        {
-          "sector": "crypto-bitcoin",
-          "priority": 10,
-          "reason": "Highest number of P0 freshness issues and stale year references, indicating urgent need for updates. Also, the legal status of crypto trading in Bangladesh is a critical point to ensure accuracy."
-        },
-        {
-          "sector": "automotive-car-care",
-          "priority": 9,
-          "reason": "Multiple P0 freshness issues for pricing, policy, and sentiment, along with stale year references, requiring immediate attention."
-        },
-        {
-          "sector": "electronics-gadgets",
-          "priority": 8,
-          "reason": "Similar to automotive, this sector has critical P0 freshness issues for pricing, policy, and sentiment, and stale year references."
-        },
-        {
-          "sector": "clothing-fashion",
-          "priority": 7,
-          "reason": "Affected by P0 freshness issues for pricing, policy, and sentiment, and stale year references."
-        },
-        {
-          "sector": "bim-global-outreach",
-          "priority": 6,
-          "reason": "Has P0 freshness issues for policy and a critical missing seasonality file, impacting strategic planning."
-        }
-      ],
-      "search_hypotheses": [
-        {
-          "sector": "crypto-bitcoin",
-          "hypothesis": "The repository's data on crypto-bitcoin is outdated and may not reflect the current regulatory landscape or market dynamics in Bangladesh, despite crypto trading being legal.",
-          "suggested_queries": [
-            "Bangladesh crypto regulations 2025 2026",
-            "Bangladesh cryptocurrency market trends 2025 2026",
-            "Bangladesh Bitcoin adoption rate 2025 2026",
-            "Central Bank of Bangladesh digital currency policy",
-            "Bangladesh financial technology innovation crypto"
-          ],
-          "confidence": 0.9
-        },
-        {
-          "sector": "automotive-car-care",
-          "hypothesis": "Pricing, policy, and consumer sentiment data for the automotive car care sector in Bangladesh is stale, potentially leading to misinformed strategic decisions.",
-          "suggested_queries": [
-            "Bangladesh automotive car care market size 2025 2026",
-            "Bangladesh car maintenance service pricing trends 2025 2026",
-            "Bangladesh automotive industry regulations 2025 2026",
-            "Consumer sentiment automotive services Bangladesh 2025 2026",
-            "New car sales Bangladesh 2025 2026 impact on car care"
-          ],
-          "confidence": 0.85
-        },
-        {
-          "sector": "electronics-gadgets",
-          "hypothesis": "Outdated pricing, policy, and sentiment data for electronics and gadgets in Bangladesh may not accurately represent current market conditions or consumer preferences.",
-          "suggested_queries": [
-            "Bangladesh consumer electronics market trends 2025 2026",
-            "Bangladesh smartphone market share 2025 2026",
-            "Import regulations electronics Bangladesh 2025 2026",
-            "Online electronics retail Bangladesh 2025 2026",
-            "Consumer electronics pricing Bangladesh 2025 2026"
-          ],
-          "confidence": 0.8
-        },
-        {
-          "sector": "bim-global-outreach",
-          "hypothesis": "The absence of seasonality data and outdated policy information for BIM Global Outreach hinders effective strategic planning and market entry.",
-          "suggested_queries": [
-            "BIM region economic outlook 2025 2026",
-            "BIM trade agreements 2025 2026",
-            "Seasonality impact on business in BIM countries",
-            "Regulatory environment for foreign investment BIM 2025 2026",
-            "Key industries BIM region 2025 2026"
-          ],
-          "confidence": 0.75
-        }
-      ],
-      "high_value_missing_angles": [
-        "Detailed competitor financial performance with verifiable sources (not just estimates).",
-        "Up-to-date regulatory information for 2025-2026 across all sectors, including specific government circulars and references.",
-        "Verified pricing data in BDT for a wider range of products/services across sectors.",
-        "Analysis of cross-sector trends and their impact on individual sectors (e.g., how e-commerce growth affects electronics and clothing retail).",
-        "Actionable insights derived from sentiment analysis, not just raw data.",
-        "Seasonality analysis for sectors where it's relevant but missing (e.g., BIM Global Outreach).",
-        "Verification and functionality check of all social media handles (e.g., Facebook).",
-        "Deeper dive into competitor strategies beyond basic profiles, including their market positioning and unique selling propositions."
-      ],
-      "recommended_actions": [
-        {
-          "action": "Initiate an immediate data refresh and validation process for all P0 flagged files across all sectors, prioritizing those with stale year references and missing critical data like pricing and policy.",
-          "priority": "P0",
-          "effort": "high"
-        },
-        {
-          "action": "Develop and implement a robust data freshness policy with defined update cadences for different data types (pricing, policy, sentiment, etc.) and automated alerts for stale data.",
-          "priority": "P0",
-          "effort": "medium"
-        },
-        {
-          "action": "Conduct a thorough audit of the 'evidence' layer to improve the quality and quantity of 'High confidence' facts, focusing on sourcing and verification.",
-          "priority": "P1",
-          "effort": "medium"
-        },
-        {
-          "action": "Prioritize research efforts on the 'crypto-bitcoin' sector to ensure accuracy regarding its legal status and current market conditions in Bangladesh, and update all stale references.",
-          "priority": "P0",
-          "effort": "high"
-        },
-        {
-          "action": "Create a standardized template for competitor profiles that explicitly requires sourcing for financial data and a clear distinction between estimates and verified figures.",
-          "priority": "P1",
-          "effort": "low"
-        },
-        {
-          "action": "Establish a process for regularly checking and verifying all social media links (e.g., Facebook handles) to ensure they are active and relevant.",
-          "priority": "P2",
-          "effort": "low"
-        },
-        {
-          "action": "Develop a framework for identifying and documenting cross-sector trends to enrich the analysis within individual sector reports.",
-          "priority": "P2",
-          "effort": "medium"
-        }
-      ],
-      "model": "gemini-2.5-flash-lite"
+      "model": "gemini-2.5-flash-lite",
+      "error": "Expecting value: line 1 column 1 (char 0)",
+      "gaps": [],
+      "recommendations": []
     },
     {
       "model": "deepseek-ai/deepseek-v4-pro",
-      "error": "The read operation timed out",
+      "error": "HTTP Error 404: Not Found",
       "gaps": [],
       "recommendations": []
     },
     {
       "model": "mistral/mistral-large-latest",
-      "error": "The read operation timed out",
+      "error": "timed out",
       "gaps": [],
       "recommendations": []
     }
