@@ -7,12 +7,12 @@ sectors:
     status: active
     priority_weight: 0.6
     keywords:
-      en: ["car care Bangladesh", "auto detailing Dhaka", "car wash Bangladesh", "automotive service BD",
-           "car dealer", "car repair", "auto parts", "car rental", "tire shop", "garage",
-           "auto accessories", "car accessories", "car servicing", "auto mechanic",
-           "car showroom", "motorcycle", "bike repair", "auto body shop"]
+      en: ["car wash Bangladesh", "auto detailing Dhaka", "car care Bangladesh", "automotive service BD",
+           "car dealer bangladesh", "auto parts bangladesh",
+           "car mechanic", "motorcycle dealer", "auto accessories bangladesh",
+           "car servicing bangladesh", "car showroom bangladesh"]
       bn: ["গাড়ি যত্ন বাংলাদেশ", "কার ওয়াশ ঢাকা", "গাড়ী সারাইয়ের দোকান", "গাড়ি ভাড়া",
-           "কার রেন্টাল এজেন্সি", "অটো মোবাইল", "মোটরসাইকেল", "বাইক সারাই"]
+           "কার রেন্টাল এজেন্সি", "অটো মোবাইল", "মোটরসাইকেল সারাই"]
     competitor_target: 12
     subsegments: ["detailing", "car wash", "ceramic coating", "PPF", "accessories"]
     policy_sensitivity: low

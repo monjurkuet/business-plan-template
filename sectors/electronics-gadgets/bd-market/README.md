@@ -1,9 +1,9 @@
 ---
 sector: electronics-gadgets
-last_verified: 2026-06-30
+last_verified: 2026-07-01
 freshness: fresh
-confidence: 0.735
-evidence_ids: ['6f42a5a7-18a', 'cd549a01-883', '898550a5-9fd']
+confidence: 0.75
+evidence_ids: ['dfbcde4f-e58', '7dcaff0d-e94', 'b2ae6220-67c']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -127,12 +127,12 @@ evidence_ids: ['6f42a5a7-18a', 'cd549a01-883', '898550a5-9fd']
 
 
 
-## Auto-Updated Data (2026-06-30)
+
+## Auto-Updated Data (2026-07-01)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| great prices and deals | search | 0.90 |
 | electronics | search | 1.00 |
-| great prices and deals | search | 0.80 |
 | electronics | search | 1.00 |
-| low prices and great deals | search | 0.80 |
+| electronics | search | 1.00 |
+| 45575 Dulles Eastern Plz, Sterling, VA | search | 1.00 |

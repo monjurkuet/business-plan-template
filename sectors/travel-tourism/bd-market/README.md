@@ -1,9 +1,9 @@
 ---
 sector: travel-tourism
-last_verified: 2026-06-30
+last_verified: 2026-07-01
 freshness: fresh
-confidence: 0.695
-evidence_ids: ['ff6c5d45-458', '09ee4a12-8b4']
+confidence: 0.65
+evidence_ids: ['bca90279-7f8']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -103,9 +103,10 @@ evidence_ids: ['ff6c5d45-458', '09ee4a12-8b4']
 
 
 
-## Auto-Updated Data (2026-06-30)
+
+## Auto-Updated Data (2026-07-01)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 150 | search | 0.90 |
-| price caps | search | 0.90 |
+| 1.2 million | search | 1.00 |
+| 5000 | search | 1.00 |
