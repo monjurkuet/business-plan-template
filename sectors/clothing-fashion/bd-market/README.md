@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-06-30
 freshness: fresh
-confidence: 0.735
-evidence_ids: ['09aa71dd-275', 'f4279bf1-e18', 'dac21dc2-951', '4bd49fc8-696', '4c13bc14-711']
+confidence: 0.74
+evidence_ids: ['d82a5a76-df3', '112c6bc1-0d1', '8b2ab44a-bf8', 'd8f19be2-f37', '95136043-f77', '8efbffb1-6a8']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -134,19 +134,23 @@ evidence_ids: ['09aa71dd-275', 'f4279bf1-e18', 'dac21dc2-951', '4bd49fc8-696', '
 
 
 
+
 ## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Men's Clothing (t-shirts, polo shirts, casual shirts, summer wear) | search | 0.95 |
-| Fast delivery across Bangladesh | search | 0.90 |
-| RIR OUTFITS | search | 0.95 |
-| Premium Men's Clothing (t-shirts, stylish designs) | search | 0.95 |
-| 2026-07-16 | search | 0.90 |
-| luxury clothing bangladesh | search | 0.95 |
-| 2 | search | 0.90 |
-| ['11.11 Global Shopping Festival', 'Anniversary Sale', 'Summer Sale'] | search | 0.90 |
-| new users | search | 0.80 |
-| winter clothes for women | search | 0.95 |
-| high-quality | search | 0.80 |
-| verified | search | 0.85 |
+| 300 COTTON TERRY CLOTH CLEANING RAGS / SHOP TOWELS / 12X12- 25 DOZ. / WHOLESALE | search | 0.90 |
+| Bangladesh | search | 0.95 |
+| women black dress warm size M Knitted | search | 0.90 |
+| baggy pants | search | 0.95 |
+| latest baggy pants trends in Bangladesh at unbeatable prices | search | 0.90 |
+| 11.11 Global Shopping Festival, Anniversary Sale or Summer Sale | search | 0.95 |
+| Bangladesh | search | 0.95 |
+| Men's Clothing | search | 0.95 |
+| t-shirts, polo shirts, casual shirts, and summer wear | search | 0.95 |
+| Bangladesh | search | 0.95 |
+| two-piece dresses | search | 0.95 |
+| Bangladesh | search | 0.95 |
+| verified suppliers | search | 0.90 |
+| cotton | search | 0.95 |
+| fell over the past month | search | 0.95 |

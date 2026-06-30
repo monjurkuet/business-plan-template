@@ -2,8 +2,8 @@
 sector: jewellery
 last_verified: 2026-06-30
 freshness: fresh
-confidence: 0.748
-evidence_ids: ['fce30d27-970', '61ac9f42-6c8', 'd9e96476-6e3', 'a9dfe00c-c6c', '1d092532-4ea']
+confidence: 0.627
+evidence_ids: ['4e399988-177']
 ---
 
 # Jewellery — Bangladesh Market
@@ -112,13 +112,10 @@ evidence_ids: ['fce30d27-970', '61ac9f42-6c8', 'd9e96476-6e3', 'a9dfe00c-c6c', '
 
 
 
+
 ## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 26 | search | 1.00 |
-| True | search | 0.90 |
-| 10,000 to 1,00,000 | search | 1.00 |
-| 200 to 3,000 | search | 1.00 |
-| 22k | search | 1.00 |
-| 1990 | search | 1.00 |
+| red gold jewellery | search | 0.90 |
+| competitive pricing, reliable quality, strong buyer support | search | 0.80 |

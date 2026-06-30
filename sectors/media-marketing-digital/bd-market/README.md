@@ -2,8 +2,8 @@
 sector: media-marketing-digital
 last_verified: 2026-06-30
 freshness: fresh
-confidence: 0.75
-evidence_ids: ['2fcf0901-817', '1f79c497-a67', '5c4f6450-559']
+confidence: 0.737
+evidence_ids: ['91c16ad8-a1b', '77db4646-8ca', '8cda2396-2b7', 'b7f3c677-dcf']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market
@@ -119,14 +119,14 @@ evidence_ids: ['2fcf0901-817', '1f79c497-a67', '5c4f6450-559']
 
 
 
+
 ## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| pay-per-use | search | 1.00 |
-| ['Bulk SMS', 'Email', 'Voice'] | search | 1.00 |
-| Digital Marketing Cost in Bangladesh (2026 Guide) | search | 1.00 |
-| break down actual cost of digital marketing in Bangladesh for 2026, service by s | search | 1.00 |
-| Goodfirms | search | 1.00 |
-| connect with Bangladesh's top digital marketing companies | search | 1.00 |
-| ['verified reviews', 'hourly rates', 'portfolios'] | search | 1.00 |
+| payment per use | search | 0.90 |
+| pay only for what you use | search | 0.95 |
+| 2026 | search | 0.95 |
+| price benchmarks for digital marketing services | search | 0.90 |
+| verified reviews, hourly rates, and portfolios for digital marketing agencies | search | 0.90 |
+| verified client reviews for digital marketing agencies | search | 0.90 |

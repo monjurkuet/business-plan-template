@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-06-30
 freshness: fresh
-confidence: 0.742
-evidence_ids: ['7f4265d8-a7f', '3e798343-33c', 'ccf4b2de-efb', '9c44d386-8a2', 'f5c25555-215', '9d8d4ddc-48e', '7a59ea41-434']
+confidence: 0.739
+evidence_ids: ['de655af4-485', '928e6640-327', 'c14d3044-b2b', 'db13627d-b66', 'e82caeba-9a4', 'd9eef837-f35']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -140,22 +140,23 @@ evidence_ids: ['7f4265d8-a7f', '3e798343-33c', 'ccf4b2de-efb', '9c44d386-8a2', '
 
 
 
+
 ## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
 | 600 | search | 0.90 |
-| small residential | search | 0.95 |
-| 2026-01-12 | search | 0.95 |
-| 2025-01-12 | search | 0.95 |
-| 600 | search | 0.95 |
-| Small residential project | search | 0.95 |
 | 2026-04-23 | search | 0.95 |
-| 30000–80000 | search | 0.95 |
-| Lower upfront costs: no investment in BIM software or training | search | 0.95 |
-| Predictable budgeting: fixed pricing for take-off and estimation services | search | 0.95 |
-| 2026-01-12 | search | 0.95 |
-| 2025-01-12 | search | 0.95 |
-| Accurate, high-quality BIM models customized to project requirements | search | 0.95 |
-| Improves teamwork and productivity | search | 0.95 |
-| BIM outsourcing services have become more popular in the USA | search | 0.95 |
+| Revit BIM outsourcing | search | 0.90 |
+| Tekla detailing services | search | 0.90 |
+| USA | search | 0.95 |
+| ISO 19650 | search | 0.90 |
+| 200–400 | search | 0.90 |
+| BIM outsourcing | search | 0.95 |
+| access specialized expertise | search | 0.90 |
+| reduce operational costs | search | 0.90 |
+| improve project turnaround times | search | 0.90 |
+| BIM outsourcing | search | 0.95 |
+| USA | search | 0.95 |
+| 30000–80000 | search | 0.90 |
+| Take-off and Estimation services | search | 0.90 |

@@ -2,8 +2,8 @@
 sector: crypto-bitcoin
 last_verified: 2026-06-30
 freshness: fresh
-confidence: 0.748
-evidence_ids: ['e588acb1-1ba', '213a50e8-b0e', 'f6f0704b-61d', '13ed4135-d74']
+confidence: 0.741
+evidence_ids: ['087eb28a-3f2', 'f4c6b73b-a15', '35778cbd-a44', '4ffa0499-159', '23dc4c9e-05a', '4c9f920d-9c9', 'badad627-21b']
 ---
 
 # Crypto & Bitcoin — Bangladesh Market
@@ -115,18 +115,23 @@ evidence_ids: ['e588acb1-1ba', '213a50e8-b0e', 'f6f0704b-61d', '13ed4135-d74']
 
 
 
+
 ## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| True | search | 1.00 |
-| buy and sell cryptocurrencies | search | 0.90 |
-| True | search | 1.00 |
-| open a Bangladesh cryptocurrency trading account | search | 1.00 |
+| Bangladesh residents can buy and sell popular cryptocurrencies | search | 0.90 |
+| Tezos | search | 1.00 |
+| Open a Bangladesh cryptocurrency trading account with a Bangladesh cryptocurrenc | search | 0.95 |
 | ['SanzidTech', 'cryptohossain', 'Invest2.Profit', 'EarningRashu', 'Johire786'] | search | 1.00 |
-| YouTube | search | 1.00 |
-| 2026-06 | search | 1.00 |
-| not legalized, no outright ban | search | 1.00 |
-| Bangladesh Bank | search | 1.00 |
-| crypto volatility, proceed cautiously | search | 1.00 |
-| EmpireCryptoData | search | 1.00 |
+| 2026-06 | search | 0.95 |
+| Not legalized but not outright banned | search | 0.90 |
+| Bangladesh Bank warns about crypto's volatility and urges caution | search | 0.95 |
+| EmpireCryptoData | search | 0.90 |
+| Top 5 crypto wallets for 2024 | search | 0.90 |
+| Dhaka, Bangladesh | search | 0.95 |
+| cryptocurrency | search | 0.95 |
+| Dhaka, Bangladesh | search | 0.95 |
+| educational video | search | 0.90 |
+| Telegram | search | 0.95 |
+| Bangladesh | search | 0.95 |

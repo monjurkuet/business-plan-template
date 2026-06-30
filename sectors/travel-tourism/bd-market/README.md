@@ -2,8 +2,8 @@
 sector: travel-tourism
 last_verified: 2026-06-30
 freshness: fresh
-confidence: 0.734
-evidence_ids: ['5e8c15fb-212', '6acfbb56-e47', '8c860660-e6f', 'b6adf7de-ecb']
+confidence: 0.74
+evidence_ids: ['bd52e334-cf0', '41edc747-bae', 'b79d387d-ef8', 'a6b523a4-cd3', '1c63abea-023']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -99,16 +99,19 @@ evidence_ids: ['5e8c15fb-212', '6acfbb56-e47', '8c860660-e6f', 'b6adf7de-ecb']
 
 
 
+
 ## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ['tour packages', 'air tickets', 'visa support'] | search | 0.95 |
-| trusted | search | 0.80 |
-| online | search | 0.90 |
+| ['tourist visas', 'student visas', 'work visas', 'Umrah packages 2026', 'interna | search | 0.95 |
+| ['Dubai', 'Georgia', 'Armenia', 'Europe'] | search | 0.95 |
+| Bangladesh's #1 travel agency | search | 0.90 |
+| ['affordable tour packages', 'air tickets', 'visa support'] | search | 0.95 |
+| amazing tour and travel packages at affordable price | search | 0.95 |
+| Provide proper information and useful presentation to explore the tourism of Ban | search | 0.90 |
 | 2026-06-13T10:13:00 | search | 0.95 |
-| Dhaka District, Dhaka | search | 0.90 |
-| ['study abroad', 'visa services', 'cheap air tickets'] | search | 0.95 |
-| ['UK', 'Canada', 'Russia', 'USA'] | search | 0.90 |
-| ['Bangladesh', 'Chittagong', 'Sharjah', 'Dubai', 'Noakhali', 'Ajman', 'UAE'] | search | 0.90 |
-| travel agency vacancies | search | 0.85 |
+| Dhaka District, Dhaka | search | 0.95 |
+| Online platform for planning and booking travel | search | 0.90 |
+| ['air ticket purchases', 'hotel bookings', 'tour packages', 'visa processing'] | search | 0.95 |
+| Best online travel agency for one-stop services | search | 0.90 |

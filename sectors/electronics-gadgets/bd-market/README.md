@@ -3,7 +3,7 @@ sector: electronics-gadgets
 last_verified: 2026-06-30
 freshness: fresh
 confidence: 0.737
-evidence_ids: ['50e65ee4-f57', '1cdbe152-ad9', '6dbd5b25-a3f', 'c730946b-153']
+evidence_ids: ['2ec01e34-b7f', 'c6984b0c-954', 'a8739362-316', '36b5a446-d6d', '1802e69e-a14']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -122,19 +122,18 @@ evidence_ids: ['50e65ee4-f57', '1cdbe152-ad9', '6dbd5b25-a3f', 'c730946b-153']
 
 
 
+
 ## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 25500-102900 | search | 0.95 |
-| TCL TV | search | 0.95 |
-| Gadgets & Premium Accessories | search | 0.95 |
-| Free Shipping | search | 0.90 |
-| 0৳ - 0৳ | search | 0.80 |
-| 1 in stock, 1 on discount | search | 0.85 |
-| 2026-02-06 | search | 0.90 |
-| 01719117333 | search | 0.95 |
-| 100% Authentic & Quality Products as an Authorized Shop | search | 0.90 |
-| 15.00 | search | 0.85 |
+| 25500 to 102900 | search | 1.00 |
+| TCL TV | search | 1.00 |
+| competitive prices on all products | search | 0.90 |
+| massive selection of Gadgets & Premium Accessories | search | 0.90 |
+| best prices | search | 0.80 |
+| Free Shipping | search | 0.95 |
+| best prices, offers, and discounts on electronics | search | 0.85 |
+| 15.00 | search | 0.95 |
 | BRANDS MEGA LTD | search | 0.95 |
-| Navana Tower (Level-18) 45 Gulshan Avenue, Gulshan-1 Dhaka -1212, Bangladesh | search | 0.90 |
+| Navana Tower (Level-18) 45 Gulshan Avenue, Gulshan-1 Dhaka -1212, Bangladesh | search | 0.95 |
