@@ -2,8 +2,8 @@
 sector: media-marketing-digital
 last_verified: 2026-06-30
 freshness: fresh
-confidence: 0.734
-evidence_ids: ['eeebdf45-4ba', '2901c6bd-c55', 'cd1bb09c-c97', '228091ee-677']
+confidence: 0.74
+evidence_ids: ['500c59ec-e07', '6dc06925-20c', '4c9af0e4-934']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market
@@ -122,16 +122,11 @@ evidence_ids: ['eeebdf45-4ba', '2901c6bd-c55', 'cd1bb09c-c97', '228091ee-677']
 
 
 
+
 ## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| digital multichannel marketing campaigns | search | 0.90 |
-| pay only for what you use | search | 0.90 |
-| Bangladesh | search | 0.95 |
-| digital marketing | search | 0.95 |
-| ['GEEKY SOCIAL LTD.', 'OneLittleWeb', 'BrandViser', 'MonsterClaw LLC', 'Ecomclip | search | 0.95 |
-| Bangladesh | search | 0.95 |
-| ['fixed-price', 'time and material', 'dedicated teams'] | search | 0.90 |
-| 5-200+ | search | 0.90 |
-| 100000000 | search | 0.80 |
+| 25000–50000 | search | 0.95 |
+| pay-per-use | search | 0.90 |
+| 207 | search | 0.95 |

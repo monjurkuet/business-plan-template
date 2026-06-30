@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-06-30
 freshness: fresh
-confidence: 0.7
-evidence_ids: ['833e83a9-80f', '990d96b0-cfe']
+confidence: 0.684
+evidence_ids: ['a4c3c0f5-d36', 'd6cdecf1-a16']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -137,13 +137,11 @@ evidence_ids: ['833e83a9-80f', '990d96b0-cfe']
 
 
 
+
 ## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 88 | search | 0.95 |
-| decline | search | 0.90 |
-| July NY/ICE | search | 0.95 |
-| skyrocketing | search | 0.90 |
-| closure of the Strait of Hormuz | search | 0.95 |
-| fast fashion | search | 0.95 |
+| under 20 | search | 0.80 |
+| 88 | search | 0.90 |
+| 2026-06 | search | 0.80 |

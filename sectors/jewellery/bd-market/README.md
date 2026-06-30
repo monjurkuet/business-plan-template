@@ -2,8 +2,8 @@
 sector: jewellery
 last_verified: 2026-06-30
 freshness: fresh
-confidence: 0.65
-evidence_ids: ['e989d24e-c06']
+confidence: 0.642
+evidence_ids: ['8e1492de-c33']
 ---
 
 # Jewellery — Bangladesh Market
@@ -115,9 +115,9 @@ evidence_ids: ['e989d24e-c06']
 
 
 
+
 ## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 27 | search | 1.00 |
-| ['repair', 'custom jewelry design', 'browsing'] | search | 1.00 |
+| 100% trade-in value for diamond jewelry purchased at KAY | search | 0.95 |

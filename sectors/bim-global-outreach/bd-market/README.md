@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-06-30
 freshness: fresh
-confidence: 0.746
-evidence_ids: ['4149dbe5-0f5', 'd8de52e3-c48', '75874c6d-842', '7d43442a-3e8', '796ebdf5-199', '8820783d-c98', '3380b8eb-13c', '14472727-a07', '63ceb3ec-ec5', '21fa6fa5-41d']
+confidence: 0.737
+evidence_ids: ['c7abe245-1a6', 'a99a87ba-c0d', '4c83b4f5-cf9', '1ade4624-98a', 'a54f4114-7cf', '746ef4b0-bff', '2c476778-498', 'cbc14858-15a', '3ec4dabb-546', '726ad52a-7fd']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -143,22 +143,23 @@ evidence_ids: ['4149dbe5-0f5', 'd8de52e3-c48', '75874c6d-842', '7d43442a-3e8', '
 
 
 
+
 ## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Building information modeling (BIM) is an approach involving the generation and  | search | 1.00 |
-| tools, processes, technologies and contracts | search | 1.00 |
-| Free Revit families & BIM content | search | 1.00 |
-| over 2000 | search | 1.00 |
-| ['SketchUp', 'Autodesk', 'Vectorworks', 'ArchiCAD'] | search | 1.00 |
-| Building information modeling (BIM) is the holistic process of creating and mana | search | 1.00 |
-| Building Information Modeling (BIM) is the process of creating an intelligent, d | search | 1.00 |
-| BIM stands for Building Information Modeling. It is a collaborative process for  | search | 1.00 |
-| 2024-04-16 | search | 1.00 |
-| ISO 19650 | search | 0.95 |
-| 200–400 | search | 0.95 |
-| ['Revit', 'Tekla', 'Navisworks'] | search | 0.95 |
-| ['Modeling', 'sheets', 'schedules', 'steel & concrete shop drawings', 'BIM coord | search | 0.95 |
-| ['access specialized expertise', 'reduce operational costs', 'improve project tu | search | 0.95 |
-| ['challenges that firms must address to ensure seamless project execution'] | search | 0.90 |
+| 600 | search | 0.90 |
+| Depends on project size. Small residential starts around $600 | search | 0.80 |
+| 2026-04-23 | search | 0.95 |
+| Revit BIM models for architecture and structure at LOD 200–300 | search | 0.90 |
+| US architects and engineers | search | 0.90 |
+| saves contractors money | search | 0.80 |
+| 2025 | search | 0.90 |
+| California | search | 0.90 |
+| Building Information Modelling (BIM) Infrastructure Design Services | search | 0.90 |
+| USA, International | search | 0.90 |
+| improving project efficiency, cutting costs, and streamlining processes | search | 0.90 |
+| USA | search | 0.90 |
+| Revit BIM outsourcing (USA) | search | 1.00 |
+| Tekla detailing services USA | search | 1.00 |
+| ISO 19650 | search | 1.00 |

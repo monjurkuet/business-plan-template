@@ -3,7 +3,7 @@ sector: crypto-bitcoin
 last_verified: 2026-06-30
 freshness: fresh
 confidence: 0.741
-evidence_ids: ['e0a5c7b1-daf', 'fe497e67-c1b', '55e789ab-b59', 'cc57193b-eeb', '0fc99dc7-bc3', '74e37847-2fa']
+evidence_ids: ['c714255e-d13', '0f9e8443-0b8', '2dc83b83-d87', 'a915f43c-745', 'fd965c3e-559']
 ---
 
 # Crypto & Bitcoin — Bangladesh Market
@@ -118,22 +118,15 @@ evidence_ids: ['e0a5c7b1-daf', 'fe497e67-c1b', '55e789ab-b59', 'cc57193b-eeb', '
 
 
 
+
 ## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| buy and sell cryptocurrencies | search | 0.95 |
-| Tezos | search | 0.95 |
-| Bangladesh | search | 1.00 |
-| ['SanzidTech', 'cryptohossain', 'Invest2.Profit', 'EarningRashu', 'Johire786'] | search | 0.95 |
-| Bangladesh | search | 1.00 |
-| 2026-06 | search | 0.90 |
-| Bangladesh cryptocurrency trading account with a Bangladesh cryptocurrency excha | search | 0.95 |
-| Bangladesh | search | 1.00 |
-| 2026 | search | 0.90 |
-| Top 5 Crypto wallets for 2024 | search | 0.90 |
-| Dhaka, Bangladesh | search | 0.95 |
-| not explicitly illegal | search | 0.80 |
-| Bangladesh | search | 1.00 |
-| 2022 | search | 0.90 |
+| A type of digital asset that uses distributed ledger, or blockchain, technology  | search | 0.95 |
+| 400+ | search | 0.90 |
+| crypto exchange | search | 0.95 |
+| 400+ | search | 0.90 |
+| ['Bitcoin', 'Ethereum', 'XRP', 'Solana'] | search | 0.95 |
 | digital asset that uses distributed ledger, or blockchain, technology to enable  | search | 0.95 |
+| current and historic data for Bitcoin and thousands of altcoins | search | 0.95 |
