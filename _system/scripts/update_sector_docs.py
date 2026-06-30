@@ -62,10 +62,7 @@ def read_existing_file(path: Path) -> str:
 
 
 def update_frontmatter(content: str, sector: str, updates: dict) -> str:
-    """Update or add YAML frontmatter to a markdown file."""
-    fm_lines = ["---"]
-    fm_lines.append(f"sector: {sector}")
-    
+    """Update or add YAML frontmatter to a markdown file. Merges with existing fields."""
     if content.startswith("---"):
         # Parse existing frontmatter
         end = content.find("---", 3)
@@ -76,15 +73,26 @@ def update_frontmatter(content: str, sector: str, updates: dict) -> str:
                 if ":" in line:
                     k, v = line.split(":", 1)
                     existing[k.strip()] = v.strip()
-            # Merge updates
-            existing.update(updates)
-            for k, v in existing.items():
+            # Merge updates, ensuring sector key is set once
+            merged = {"sector": sector}
+            merged.update(existing)
+            merged.update(updates)
+            fm_lines = ["---"]
+            for k, v in merged.items():
+                # Skip sector if already set by the updates dict (no double-write)
+                if k == "sector" and "sector" in updates and v == sector:
+                    continue
                 fm_lines.append(f"{k}: {v}")
             fm_lines.append("---")
             body = content[end+3:].lstrip("\n")
             return "\n".join(fm_lines) + "\n\n" + body
     else:
+        # No existing frontmatter — create one
+        fm_lines = ["---"]
+        fm_lines.append(f"sector: {sector}")
         for k, v in updates.items():
+            if k == "sector":
+                continue
             fm_lines.append(f"{k}: {v}")
         fm_lines.append("---")
         return "\n".join(fm_lines) + "\n\n" + content

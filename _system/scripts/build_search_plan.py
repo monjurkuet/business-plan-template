@@ -24,11 +24,17 @@ from lib.llm_client import call_llm, call_llm_json, load_prompt, DEFAULT_BASE_UR
 LLM_MODELS_ENDPOINT = DEFAULT_BASE_URL
 
 MODEL_FALLBACKS = {
-    "breadth_scan": ["gemini-2.5-flash-lite", "gpt-5.4-mini"],
-    "deep_analysis": ["deepseek-ai/deepseek-v4-pro", "deepseek-ai/deepseek-r1-distill-qwen-32b", "gpt-5.4-mini"],
+    "breadth_scan": ["gemini-2.5-flash-lite", "gpt-5.4-mini", "mistral/mistral-large-latest"],
+    "deep_analysis": ["deepseek-ai/deepseek-v4-pro", "deepseek-ai/deepseek-r1-distill-qwen-32b", "gpt-5.4-mini", "mistral/mistral-large-latest"],
     "synthesis": ["mistral/mistral-large-latest", "gpt-5.4", "gpt-5.5", "gpt-5.4-mini"],
-    "trend_gap": ["gemini-3.1-flash-lite-preview", "gemini-3-flash-preview", "gemini-2.5-flash-lite"],
+    "trend_gap": ["gemini-3.1-flash-lite-preview", "gemini-3-flash-preview", "gemini-2.5-flash-lite", "gpt-5.4-mini"],
 }
+
+# Model key → role name lookup for fallback resolution
+_MODEL_TO_ROLE = {}
+for _role, _models in MODEL_FALLBACKS.items():
+    for _m in _models:
+        _MODEL_TO_ROLE[_m] = _role
 
 
 def list_available_models() -> set[str]:
@@ -133,8 +139,11 @@ def review_with_model(model: str, context: str) -> dict:
         )
     except Exception as ex:
         msg = str(ex)
-        if ("404" in msg or "308" in msg) and model in MODEL_FALLBACKS:
-            for fallback in MODEL_FALLBACKS[model]:
+        # Look up fallback chain for this model via its role
+        role = _MODEL_TO_ROLE.get(model, "synthesis")
+        fallback_chain = MODEL_FALLBACKS.get(role, ["gpt-5.4-mini"])
+        if "404" in msg or "308" in msg:
+            for fallback in fallback_chain:
                 if fallback == model:
                     continue
                 log.warning(f"Review failed with {model}: {ex}; retrying with fallback {fallback}")

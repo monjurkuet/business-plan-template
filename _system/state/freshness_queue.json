@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-30T17:17:18.489448+00:00",
+  "generated_at": "2026-06-30T17:45:44.427397+00:00",
   "summary": {
     "fresh": 39,
-    "stale": 87,
+    "stale": 17,
     "critical": 33,
     "approaching_stale": 0
   },
@@ -30,17 +30,6 @@
       "reason": "File age 55d exceeds freshness threshold for policy"
     },
     {
-      "path": "sectors/automotive-car-care/bd-market/regulatory.md",
-      "sector": "automotive-car-care",
-      "category": "policy",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P0",
-      "stale_after_days": 7,
-      "critical_after_days": 21,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
       "path": "sectors/automotive-car-care/bd-market/pricing-guide.md",
       "sector": "automotive-car-care",
       "category": "pricing",
@@ -61,17 +50,6 @@
       "stale_after_days": 21,
       "critical_after_days": 42,
       "reason": "File age 55d exceeds freshness threshold for sentiment"
-    },
-    {
-      "path": "sectors/bim-global-outreach/bd-market/regulatory.md",
-      "sector": "bim-global-outreach",
-      "category": "policy",
-      "age_days": 5,
-      "stale_type": "stale_reference",
-      "priority": "P0",
-      "stale_after_days": 7,
-      "critical_after_days": 21,
-      "reason": "Contains stale year references: 2024"
     },
     {
       "path": "sectors/bim-global-outreach/bd-market/seasonality.md",
@@ -107,17 +85,6 @@
       "reason": "File age 55d exceeds freshness threshold for policy"
     },
     {
-      "path": "sectors/clothing-fashion/bd-market/regulatory.md",
-      "sector": "clothing-fashion",
-      "category": "policy",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P0",
-      "stale_after_days": 7,
-      "critical_after_days": 21,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
       "path": "sectors/clothing-fashion/bd-market/pricing-guide.md",
       "sector": "clothing-fashion",
       "category": "pricing",
@@ -151,28 +118,6 @@
       "reason": "Contains stale year references: 2023, 2024"
     },
     {
-      "path": "sectors/crypto-bitcoin/bd-market/go-to-market.md",
-      "sector": "crypto-bitcoin",
-      "category": "default",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P0",
-      "stale_after_days": 90,
-      "critical_after_days": 180,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
-      "path": "sectors/crypto-bitcoin/bd-market/risk-register.md",
-      "sector": "crypto-bitcoin",
-      "category": "default",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P0",
-      "stale_after_days": 90,
-      "critical_after_days": 180,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
       "path": "sectors/crypto-bitcoin/bd-market/strategy-canvas.md",
       "sector": "crypto-bitcoin",
       "category": "pricing",
@@ -182,17 +127,6 @@
       "stale_after_days": 2,
       "critical_after_days": 7,
       "reason": "File age 55d exceeds freshness threshold for pricing"
-    },
-    {
-      "path": "sectors/crypto-bitcoin/bd-market/strategy-canvas.md",
-      "sector": "crypto-bitcoin",
-      "category": "pricing",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P0",
-      "stale_after_days": 2,
-      "critical_after_days": 7,
-      "reason": "Contains stale year references: 2023, 2024"
     },
     {
       "path": "sectors/crypto-bitcoin/bd-market/regulatory.md",
@@ -206,17 +140,6 @@
       "reason": "File age 55d exceeds freshness threshold for policy"
     },
     {
-      "path": "sectors/crypto-bitcoin/bd-market/regulatory.md",
-      "sector": "crypto-bitcoin",
-      "category": "policy",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P0",
-      "stale_after_days": 3,
-      "critical_after_days": 7,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
       "path": "sectors/crypto-bitcoin/bd-market/pricing-guide.md",
       "sector": "crypto-bitcoin",
       "category": "pricing",
@@ -228,17 +151,6 @@
       "reason": "File age 55d exceeds freshness threshold for pricing"
     },
     {
-      "path": "sectors/crypto-bitcoin/bd-market/pricing-guide.md",
-      "sector": "crypto-bitcoin",
-      "category": "pricing",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P0",
-      "stale_after_days": 2,
-      "critical_after_days": 7,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
       "path": "sectors/crypto-bitcoin/bd-market/sentiment-analysis.md",
       "sector": "crypto-bitcoin",
       "category": "sentiment",
@@ -248,39 +160,6 @@
       "stale_after_days": 21,
       "critical_after_days": 42,
       "reason": "File age 55d exceeds freshness threshold for sentiment"
-    },
-    {
-      "path": "sectors/crypto-bitcoin/bd-market/sentiment-analysis.md",
-      "sector": "crypto-bitcoin",
-      "category": "sentiment",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P0",
-      "stale_after_days": 21,
-      "critical_after_days": 42,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
-      "path": "sectors/crypto-bitcoin/bd-market/seasonality.md",
-      "sector": "crypto-bitcoin",
-      "category": "seasonality",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P0",
-      "stale_after_days": 180,
-      "critical_after_days": 365,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
-      "path": "sectors/crypto-bitcoin/bd-market/research/2026-05-06-full-landscape-report.md",
-      "sector": "crypto-bitcoin",
-      "category": "competitor_core_profile",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P0",
-      "stale_after_days": 45,
-      "critical_after_days": 90,
-      "reason": "Contains stale year references: 2023, 2024"
     },
     {
       "path": "sectors/electronics-gadgets/bd-market/strategy-canvas.md",
@@ -303,17 +182,6 @@
       "stale_after_days": 7,
       "critical_after_days": 21,
       "reason": "File age 55d exceeds freshness threshold for policy"
-    },
-    {
-      "path": "sectors/electronics-gadgets/bd-market/regulatory.md",
-      "sector": "electronics-gadgets",
-      "category": "policy",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P0",
-      "stale_after_days": 7,
-      "critical_after_days": 21,
-      "reason": "Contains stale year references: 2023, 2024"
     },
     {
       "path": "sectors/electronics-gadgets/bd-market/pricing-guide.md",
@@ -360,17 +228,6 @@
       "reason": "File age 55d exceeds freshness threshold for policy"
     },
     {
-      "path": "sectors/high-roi-niches/bd-market/regulatory.md",
-      "sector": "high-roi-niches",
-      "category": "policy",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P0",
-      "stale_after_days": 7,
-      "critical_after_days": 21,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
       "path": "sectors/high-roi-niches/bd-market/pricing-guide.md",
       "sector": "high-roi-niches",
       "category": "pricing",
@@ -413,17 +270,6 @@
       "stale_after_days": 7,
       "critical_after_days": 21,
       "reason": "File age 55d exceeds freshness threshold for policy"
-    },
-    {
-      "path": "sectors/jewellery/bd-market/regulatory.md",
-      "sector": "jewellery",
-      "category": "policy",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P0",
-      "stale_after_days": 7,
-      "critical_after_days": 21,
-      "reason": "Contains stale year references: 2023, 2024"
     },
     {
       "path": "sectors/jewellery/bd-market/pricing-guide.md",
@@ -470,17 +316,6 @@
       "reason": "File age 55d exceeds freshness threshold for policy"
     },
     {
-      "path": "sectors/media-marketing-digital/bd-market/regulatory.md",
-      "sector": "media-marketing-digital",
-      "category": "policy",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P0",
-      "stale_after_days": 7,
-      "critical_after_days": 21,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
       "path": "sectors/media-marketing-digital/bd-market/pricing-guide.md",
       "sector": "media-marketing-digital",
       "category": "pricing",
@@ -523,17 +358,6 @@
       "stale_after_days": 7,
       "critical_after_days": 21,
       "reason": "File age 55d exceeds freshness threshold for policy"
-    },
-    {
-      "path": "sectors/travel-tourism/bd-market/regulatory.md",
-      "sector": "travel-tourism",
-      "category": "policy",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P0",
-      "stale_after_days": 7,
-      "critical_after_days": 21,
-      "reason": "Contains stale year references: 2023, 2024"
     },
     {
       "path": "sectors/travel-tourism/bd-market/pricing-guide.md",
@@ -569,72 +393,6 @@
       "reason": "Contains stale year references: 2023, 2024"
     },
     {
-      "path": "sectors/automotive-car-care/bd-market/go-to-market.md",
-      "sector": "automotive-car-care",
-      "category": "default",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 90,
-      "critical_after_days": 180,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
-      "path": "sectors/automotive-car-care/bd-market/risk-register.md",
-      "sector": "automotive-car-care",
-      "category": "default",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 90,
-      "critical_after_days": 180,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
-      "path": "sectors/automotive-car-care/bd-market/strategy-canvas.md",
-      "sector": "automotive-car-care",
-      "category": "pricing",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 14,
-      "critical_after_days": 30,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
-      "path": "sectors/automotive-car-care/bd-market/pricing-guide.md",
-      "sector": "automotive-car-care",
-      "category": "pricing",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 14,
-      "critical_after_days": 30,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
-      "path": "sectors/automotive-car-care/bd-market/sentiment-analysis.md",
-      "sector": "automotive-car-care",
-      "category": "sentiment",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 21,
-      "critical_after_days": 42,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
-      "path": "sectors/automotive-car-care/bd-market/seasonality.md",
-      "sector": "automotive-car-care",
-      "category": "seasonality",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 180,
-      "critical_after_days": 365,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
       "path": "sectors/automotive-car-care/bd-market/research/2026-05-06-full-landscape-report.md",
       "sector": "automotive-car-care",
       "category": "competitor_core_profile",
@@ -646,17 +404,6 @@
       "reason": "File age 55d exceeds freshness threshold for competitor_core_profile"
     },
     {
-      "path": "sectors/automotive-car-care/bd-market/research/2026-05-06-full-landscape-report.md",
-      "sector": "automotive-car-care",
-      "category": "competitor_core_profile",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 45,
-      "critical_after_days": 90,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
       "path": "sectors/bim-global-outreach/bd-market/README.md",
       "sector": "bim-global-outreach",
       "category": "default",
@@ -665,62 +412,7 @@
       "priority": "P1",
       "stale_after_days": 90,
       "critical_after_days": 180,
-      "reason": "Contains stale year references: 2024"
-    },
-    {
-      "path": "sectors/bim-global-outreach/bd-market/go-to-market.md",
-      "sector": "bim-global-outreach",
-      "category": "default",
-      "age_days": 5,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 90,
-      "critical_after_days": 180,
-      "reason": "Contains stale year references: 2024"
-    },
-    {
-      "path": "sectors/bim-global-outreach/bd-market/risk-register.md",
-      "sector": "bim-global-outreach",
-      "category": "default",
-      "age_days": 5,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 90,
-      "critical_after_days": 180,
-      "reason": "Contains stale year references: 2024"
-    },
-    {
-      "path": "sectors/bim-global-outreach/bd-market/strategy-canvas.md",
-      "sector": "bim-global-outreach",
-      "category": "pricing",
-      "age_days": 5,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 14,
-      "critical_after_days": 30,
-      "reason": "Contains stale year references: 2024"
-    },
-    {
-      "path": "sectors/bim-global-outreach/bd-market/pricing-guide.md",
-      "sector": "bim-global-outreach",
-      "category": "pricing",
-      "age_days": 5,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 14,
-      "critical_after_days": 30,
-      "reason": "Contains stale year references: 2024"
-    },
-    {
-      "path": "sectors/bim-global-outreach/bd-market/sentiment-analysis.md",
-      "sector": "bim-global-outreach",
-      "category": "sentiment",
-      "age_days": 5,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 21,
-      "critical_after_days": 42,
-      "reason": "Contains stale year references: 2024"
+      "reason": "Contains stale year references: 2023, 2024"
     },
     {
       "path": "sectors/clothing-fashion/bd-market/README.md",
@@ -734,72 +426,6 @@
       "reason": "Contains stale year references: 2023, 2024"
     },
     {
-      "path": "sectors/clothing-fashion/bd-market/go-to-market.md",
-      "sector": "clothing-fashion",
-      "category": "default",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 90,
-      "critical_after_days": 180,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
-      "path": "sectors/clothing-fashion/bd-market/risk-register.md",
-      "sector": "clothing-fashion",
-      "category": "default",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 90,
-      "critical_after_days": 180,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
-      "path": "sectors/clothing-fashion/bd-market/strategy-canvas.md",
-      "sector": "clothing-fashion",
-      "category": "pricing",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 14,
-      "critical_after_days": 30,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
-      "path": "sectors/clothing-fashion/bd-market/pricing-guide.md",
-      "sector": "clothing-fashion",
-      "category": "pricing",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 14,
-      "critical_after_days": 30,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
-      "path": "sectors/clothing-fashion/bd-market/sentiment-analysis.md",
-      "sector": "clothing-fashion",
-      "category": "sentiment",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 21,
-      "critical_after_days": 42,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
-      "path": "sectors/clothing-fashion/bd-market/seasonality.md",
-      "sector": "clothing-fashion",
-      "category": "seasonality",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 180,
-      "critical_after_days": 365,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
       "path": "sectors/clothing-fashion/bd-market/research/2026-05-06-full-landscape-report.md",
       "sector": "clothing-fashion",
       "category": "competitor_core_profile",
@@ -809,17 +435,6 @@
       "stale_after_days": 45,
       "critical_after_days": 90,
       "reason": "File age 55d exceeds freshness threshold for competitor_core_profile"
-    },
-    {
-      "path": "sectors/clothing-fashion/bd-market/research/2026-05-06-full-landscape-report.md",
-      "sector": "clothing-fashion",
-      "category": "competitor_core_profile",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 45,
-      "critical_after_days": 90,
-      "reason": "Contains stale year references: 2023, 2024"
     },
     {
       "path": "sectors/crypto-bitcoin/bd-market/research/2026-05-06-full-landscape-report.md",
@@ -844,72 +459,6 @@
       "reason": "Contains stale year references: 2023, 2024"
     },
     {
-      "path": "sectors/electronics-gadgets/bd-market/go-to-market.md",
-      "sector": "electronics-gadgets",
-      "category": "default",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 90,
-      "critical_after_days": 180,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
-      "path": "sectors/electronics-gadgets/bd-market/risk-register.md",
-      "sector": "electronics-gadgets",
-      "category": "default",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 90,
-      "critical_after_days": 180,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
-      "path": "sectors/electronics-gadgets/bd-market/strategy-canvas.md",
-      "sector": "electronics-gadgets",
-      "category": "pricing",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 7,
-      "critical_after_days": 14,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
-      "path": "sectors/electronics-gadgets/bd-market/pricing-guide.md",
-      "sector": "electronics-gadgets",
-      "category": "pricing",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 7,
-      "critical_after_days": 14,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
-      "path": "sectors/electronics-gadgets/bd-market/sentiment-analysis.md",
-      "sector": "electronics-gadgets",
-      "category": "sentiment",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 21,
-      "critical_after_days": 42,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
-      "path": "sectors/electronics-gadgets/bd-market/seasonality.md",
-      "sector": "electronics-gadgets",
-      "category": "seasonality",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 180,
-      "critical_after_days": 365,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
       "path": "sectors/electronics-gadgets/bd-market/research/2026-05-06-full-landscape-report.md",
       "sector": "electronics-gadgets",
       "category": "competitor_core_profile",
@@ -919,17 +468,6 @@
       "stale_after_days": 45,
       "critical_after_days": 90,
       "reason": "File age 55d exceeds freshness threshold for competitor_core_profile"
-    },
-    {
-      "path": "sectors/electronics-gadgets/bd-market/research/2026-05-06-full-landscape-report.md",
-      "sector": "electronics-gadgets",
-      "category": "competitor_core_profile",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 45,
-      "critical_after_days": 90,
-      "reason": "Contains stale year references: 2023, 2024"
     },
     {
       "path": "sectors/high-roi-niches/bd-market/README.md",
@@ -943,72 +481,6 @@
       "reason": "Contains stale year references: 2023, 2024"
     },
     {
-      "path": "sectors/high-roi-niches/bd-market/go-to-market.md",
-      "sector": "high-roi-niches",
-      "category": "default",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 90,
-      "critical_after_days": 180,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
-      "path": "sectors/high-roi-niches/bd-market/risk-register.md",
-      "sector": "high-roi-niches",
-      "category": "default",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 90,
-      "critical_after_days": 180,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
-      "path": "sectors/high-roi-niches/bd-market/strategy-canvas.md",
-      "sector": "high-roi-niches",
-      "category": "pricing",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 14,
-      "critical_after_days": 30,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
-      "path": "sectors/high-roi-niches/bd-market/pricing-guide.md",
-      "sector": "high-roi-niches",
-      "category": "pricing",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 14,
-      "critical_after_days": 30,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
-      "path": "sectors/high-roi-niches/bd-market/sentiment-analysis.md",
-      "sector": "high-roi-niches",
-      "category": "sentiment",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 21,
-      "critical_after_days": 42,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
-      "path": "sectors/high-roi-niches/bd-market/seasonality.md",
-      "sector": "high-roi-niches",
-      "category": "seasonality",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 180,
-      "critical_after_days": 365,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
       "path": "sectors/high-roi-niches/bd-market/research/2026-05-06-full-landscape-report.md",
       "sector": "high-roi-niches",
       "category": "competitor_core_profile",
@@ -1018,17 +490,6 @@
       "stale_after_days": 45,
       "critical_after_days": 90,
       "reason": "File age 55d exceeds freshness threshold for competitor_core_profile"
-    },
-    {
-      "path": "sectors/high-roi-niches/bd-market/research/2026-05-06-full-landscape-report.md",
-      "sector": "high-roi-niches",
-      "category": "competitor_core_profile",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 45,
-      "critical_after_days": 90,
-      "reason": "Contains stale year references: 2023, 2024"
     },
     {
       "path": "sectors/jewellery/bd-market/README.md",
@@ -1042,72 +503,6 @@
       "reason": "Contains stale year references: 2023, 2024"
     },
     {
-      "path": "sectors/jewellery/bd-market/go-to-market.md",
-      "sector": "jewellery",
-      "category": "default",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 90,
-      "critical_after_days": 180,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
-      "path": "sectors/jewellery/bd-market/risk-register.md",
-      "sector": "jewellery",
-      "category": "default",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 90,
-      "critical_after_days": 180,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
-      "path": "sectors/jewellery/bd-market/strategy-canvas.md",
-      "sector": "jewellery",
-      "category": "pricing",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 14,
-      "critical_after_days": 30,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
-      "path": "sectors/jewellery/bd-market/pricing-guide.md",
-      "sector": "jewellery",
-      "category": "pricing",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 14,
-      "critical_after_days": 30,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
-      "path": "sectors/jewellery/bd-market/sentiment-analysis.md",
-      "sector": "jewellery",
-      "category": "sentiment",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 21,
-      "critical_after_days": 42,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
-      "path": "sectors/jewellery/bd-market/seasonality.md",
-      "sector": "jewellery",
-      "category": "seasonality",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 180,
-      "critical_after_days": 365,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
       "path": "sectors/jewellery/bd-market/research/2026-05-06-full-landscape-report.md",
       "sector": "jewellery",
       "category": "competitor_core_profile",
@@ -1117,17 +512,6 @@
       "stale_after_days": 45,
       "critical_after_days": 90,
       "reason": "File age 55d exceeds freshness threshold for competitor_core_profile"
-    },
-    {
-      "path": "sectors/jewellery/bd-market/research/2026-05-06-full-landscape-report.md",
-      "sector": "jewellery",
-      "category": "competitor_core_profile",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 45,
-      "critical_after_days": 90,
-      "reason": "Contains stale year references: 2023, 2024"
     },
     {
       "path": "sectors/media-marketing-digital/bd-market/README.md",
@@ -1141,72 +525,6 @@
       "reason": "Contains stale year references: 2023, 2024"
     },
     {
-      "path": "sectors/media-marketing-digital/bd-market/go-to-market.md",
-      "sector": "media-marketing-digital",
-      "category": "default",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 90,
-      "critical_after_days": 180,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
-      "path": "sectors/media-marketing-digital/bd-market/risk-register.md",
-      "sector": "media-marketing-digital",
-      "category": "default",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 90,
-      "critical_after_days": 180,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
-      "path": "sectors/media-marketing-digital/bd-market/strategy-canvas.md",
-      "sector": "media-marketing-digital",
-      "category": "pricing",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 14,
-      "critical_after_days": 30,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
-      "path": "sectors/media-marketing-digital/bd-market/pricing-guide.md",
-      "sector": "media-marketing-digital",
-      "category": "pricing",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 14,
-      "critical_after_days": 30,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
-      "path": "sectors/media-marketing-digital/bd-market/sentiment-analysis.md",
-      "sector": "media-marketing-digital",
-      "category": "sentiment",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 21,
-      "critical_after_days": 42,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
-      "path": "sectors/media-marketing-digital/bd-market/seasonality.md",
-      "sector": "media-marketing-digital",
-      "category": "seasonality",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 180,
-      "critical_after_days": 365,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
       "path": "sectors/media-marketing-digital/bd-market/research/2026-05-06-full-landscape-report.md",
       "sector": "media-marketing-digital",
       "category": "competitor_core_profile",
@@ -1216,17 +534,6 @@
       "stale_after_days": 45,
       "critical_after_days": 90,
       "reason": "File age 55d exceeds freshness threshold for competitor_core_profile"
-    },
-    {
-      "path": "sectors/media-marketing-digital/bd-market/research/2026-05-06-full-landscape-report.md",
-      "sector": "media-marketing-digital",
-      "category": "competitor_core_profile",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 45,
-      "critical_after_days": 90,
-      "reason": "Contains stale year references: 2023, 2024"
     },
     {
       "path": "sectors/travel-tourism/bd-market/README.md",
@@ -1240,72 +547,6 @@
       "reason": "Contains stale year references: 2023, 2024"
     },
     {
-      "path": "sectors/travel-tourism/bd-market/go-to-market.md",
-      "sector": "travel-tourism",
-      "category": "default",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 90,
-      "critical_after_days": 180,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
-      "path": "sectors/travel-tourism/bd-market/risk-register.md",
-      "sector": "travel-tourism",
-      "category": "default",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 90,
-      "critical_after_days": 180,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
-      "path": "sectors/travel-tourism/bd-market/strategy-canvas.md",
-      "sector": "travel-tourism",
-      "category": "pricing",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 14,
-      "critical_after_days": 30,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
-      "path": "sectors/travel-tourism/bd-market/pricing-guide.md",
-      "sector": "travel-tourism",
-      "category": "pricing",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 14,
-      "critical_after_days": 30,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
-      "path": "sectors/travel-tourism/bd-market/sentiment-analysis.md",
-      "sector": "travel-tourism",
-      "category": "sentiment",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 21,
-      "critical_after_days": 42,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
-      "path": "sectors/travel-tourism/bd-market/seasonality.md",
-      "sector": "travel-tourism",
-      "category": "seasonality",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 180,
-      "critical_after_days": 365,
-      "reason": "Contains stale year references: 2023, 2024"
-    },
-    {
       "path": "sectors/travel-tourism/bd-market/research/2026-05-06-full-landscape-report.md",
       "sector": "travel-tourism",
       "category": "competitor_core_profile",
@@ -1315,17 +556,6 @@
       "stale_after_days": 45,
       "critical_after_days": 90,
       "reason": "File age 55d exceeds freshness threshold for competitor_core_profile"
-    },
-    {
-      "path": "sectors/travel-tourism/bd-market/research/2026-05-06-full-landscape-report.md",
-      "sector": "travel-tourism",
-      "category": "competitor_core_profile",
-      "age_days": 55,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 45,
-      "critical_after_days": 90,
-      "reason": "Contains stale year references: 2023, 2024"
     }
   ]
 }

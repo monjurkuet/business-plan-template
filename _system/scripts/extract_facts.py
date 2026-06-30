@@ -19,7 +19,6 @@ from lib.llm_client import call_llm_json, load_prompt
 
 MODEL_FALLBACKS = [
     "mistral/mistral-large-latest",
-    "mistral/mistral-large-latest",
     "gpt-5.4-mini",
     "gemini-2.5-flash-lite",
 ]

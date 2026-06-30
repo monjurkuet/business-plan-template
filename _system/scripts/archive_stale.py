@@ -58,7 +58,7 @@ def main():
     for item in critical_items:
         sector = item.get("sector", "")
         category = item.get("category", "")
-        file_path = item.get("file_path", "")
+        file_path = item.get("path", "")
 
         if not file_path:
             continue

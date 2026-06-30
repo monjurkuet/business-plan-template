@@ -276,6 +276,15 @@ def main():
     log.info(f"Evidence saved to: {evidence_path}")
     log.info(f"Search plan saved to: {search_plan_path}")
 
+    # ── Clean up old evidence files ──
+    MAX_EVIDENCE_FILES = int(os.environ.get("MAX_EVIDENCE_FILES", "80"))
+    all_files = sorted(evidence_dir.glob("*.json"))
+    if len(all_files) > MAX_EVIDENCE_FILES:
+        to_remove = all_files[:-MAX_EVIDENCE_FILES]
+        for f in to_remove:
+            f.unlink()
+        log.info(f"Cleaned {len(to_remove)} old evidence files (kept {MAX_EVIDENCE_FILES})")
+
     return evidence
 
 

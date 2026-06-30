@@ -54,7 +54,7 @@ def generate_entry() -> str:
     # Audit summary
     if audit:
         total = audit.get("total_files", 0)
-        sectors = len(audit.get("sectors", {}))
+        sectors = len(audit.get("sector_audits", []))
         lines.append(f"**Repo Audit**: {total} files across {sectors} sectors")
     
     # Freshness queue

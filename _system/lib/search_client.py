@@ -56,7 +56,10 @@ def search_images(query: str, max_results: int = 10, region: str = "bd-bn", **kw
 
 
 def _search(endpoint: str, query: str, max_results: int, region: str, **kwargs) -> list[dict]:
-    """Core search function."""
+    """Core search function. Only query-relevant kwargs are forwarded to the API."""
+    # Extract timeout from kwargs (used for HTTP timeout) — don't pass to URL params
+    http_timeout = kwargs.pop("timeout", 30)
+    
     params = {
         "query": query,
         "max_results": max_results,
@@ -70,7 +73,7 @@ def _search(endpoint: str, query: str, max_results: int, region: str, **kwargs) 
     
     try:
         req = urllib.request.Request(url, headers={"User-Agent": "business-plan-research/1.0"})
-        with urllib.request.urlopen(req, timeout=30) as resp:
+        with urllib.request.urlopen(req, timeout=http_timeout) as resp:
             data = json.loads(resp.read().decode())
         
         results = data if isinstance(data, list) else data.get("results", data.get("data", []))

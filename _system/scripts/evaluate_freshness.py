@@ -88,6 +88,7 @@ def main():
     for sa in audit.get("sector_audits", []):
         sector = sa["sector"]
         stale_years = sorted(sa.get("stale_references", []))
+        stale_ref_added_for_sector = False
 
         # Process each present file
         for fname in sa.get("present_files", []):
@@ -120,7 +121,8 @@ def main():
                     "reason": f"File age {age_days}d exceeds freshness threshold for {category}",
                 })
 
-            if stale_years:
+            if stale_years and not stale_ref_added_for_sector:
+                stale_ref_added_for_sector = True
                 stale_priority = "P0" if category == "policy" or sector == "crypto-bitcoin" else "P1"
                 queue.append({
                     "path": rel_path,
