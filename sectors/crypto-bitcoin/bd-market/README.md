@@ -2,8 +2,8 @@
 sector: crypto-bitcoin
 last_verified: 2026-06-30
 freshness: fresh
-confidence: 0.744
-evidence_ids: ['5e80d332-d20', 'e48f3cf8-202', 'a89392e4-beb', '4dcbe135-f27', '0d7a51ec-7d5', 'b64ff030-3c0', '5588e45e-ce5', 'fbfb4105-bfc']
+confidence: 0.741
+evidence_ids: ['e0a5c7b1-daf', 'fe497e67-c1b', '55e789ab-b59', 'cc57193b-eeb', '0fc99dc7-bc3', '74e37847-2fa']
 ---
 
 # Crypto & Bitcoin — Bangladesh Market
@@ -117,22 +117,23 @@ evidence_ids: ['5e80d332-d20', 'e48f3cf8-202', 'a89392e4-beb', '4dcbe135-f27', '
 
 
 
+
 ## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| top crypto exchanges for Bangladesh | search | 0.90 |
-| Bangladesh | search | 0.95 |
+| buy and sell cryptocurrencies | search | 0.95 |
+| Tezos | search | 0.95 |
+| Bangladesh | search | 1.00 |
 | ['SanzidTech', 'cryptohossain', 'Invest2.Profit', 'EarningRashu', 'Johire786'] | search | 0.95 |
-| YouTube | search | 0.95 |
+| Bangladesh | search | 1.00 |
 | 2026-06 | search | 0.90 |
-| ['Bybit', 'Binance'] | search | 0.95 |
-| ['bKash', 'Nagad'] | search | 0.95 |
-| 2025 | search | 0.90 |
-| coinmarketcap.com | search | 1.00 |
-| ['prices', 'charts', 'market capitalizations'] | search | 1.00 |
-| Crypto.com | search | 1.00 |
-| 400+ | search | 0.90 |
-| ['buy', 'sell', 'store', 'trade'] | search | 1.00 |
-| crypto.com | search | 1.00 |
-| ['prices', 'market cap', 'live charts', 'trading volume', 'key metrics'] | search | 1.00 |
+| Bangladesh cryptocurrency trading account with a Bangladesh cryptocurrency excha | search | 0.95 |
+| Bangladesh | search | 1.00 |
+| 2026 | search | 0.90 |
+| Top 5 Crypto wallets for 2024 | search | 0.90 |
+| Dhaka, Bangladesh | search | 0.95 |
+| not explicitly illegal | search | 0.80 |
+| Bangladesh | search | 1.00 |
+| 2022 | search | 0.90 |
+| digital asset that uses distributed ledger, or blockchain, technology to enable  | search | 0.95 |

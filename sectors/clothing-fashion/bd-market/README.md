@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-06-30
 freshness: fresh
-confidence: 0.74
-evidence_ids: ['a96ebb97-8da', '2601ecd8-236', '137430bc-c54', '4e171e84-6af']
+confidence: 0.7
+evidence_ids: ['833e83a9-80f', '990d96b0-cfe']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -136,15 +136,14 @@ evidence_ids: ['a96ebb97-8da', '2601ecd8-236', '137430bc-c54', '4e171e84-6af']
 
 
 
+
 ## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 300 COTTON TERRY CLOTH CLEANING RAGS / SHOP TOWELS / 12X12- 25 DOZ. / WHOLESALE | search | 0.90 |
-| 3.5 | search | 0.95 |
-| Bangladesh | search | 0.95 |
-| 2026-07-16 | search | 0.95 |
-| Affordable | search | 0.90 |
-| luxury clothing | search | 0.95 |
-| ['popularity', 'average rating', 'latest', 'price: low to high', 'price: high to | search | 0.90 |
-| ['best match', 'price', 'free shipping', 'fast delivery', 'free return'] | search | 0.95 |
+| 88 | search | 0.95 |
+| decline | search | 0.90 |
+| July NY/ICE | search | 0.95 |
+| skyrocketing | search | 0.90 |
+| closure of the Strait of Hormuz | search | 0.95 |
+| fast fashion | search | 0.95 |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T05:24:01.115091+00:00",
+  "generated_at": "2026-06-30T11:15:28.060422+00:00",
   "models_used": [
     "gemini-2.5-flash-lite",
     "deepseek-ai/deepseek-v4-pro",
@@ -7,109 +7,21 @@
   ],
   "reviews": [
     {
-      "repo_critical_issues": [
-        {
-          "issue": "Systemic data staleness across all core sectors; pricing and policy data are >54 days old, rendering market analysis unreliable for 2025-2026 planning.",
-          "severity": "critical",
-          "affected_sectors": [
-            "automotive-car-care",
-            "clothing-fashion",
-            "crypto-bitcoin",
-            "electronics-gadgets"
-          ]
-        },
-        {
-          "issue": "Missing seasonality data for BIM (Building Information Modeling) sector, preventing accurate project lifecycle forecasting.",
-          "severity": "high",
-          "affected_sectors": [
-            "bim-global-outreach"
-          ]
-        },
-        {
-          "issue": "Regulatory and policy documentation contains legacy 2023/2024 references, failing to account for recent fiscal policy shifts in Bangladesh.",
-          "severity": "high",
-          "affected_sectors": [
-            "automotive-car-care",
-            "clothing-fashion",
-            "crypto-bitcoin",
-            "electronics-gadgets",
-            "bim-global-outreach"
-          ]
-        }
-      ],
-      "sector_priorities": [
-        {
-          "sector": "crypto-bitcoin",
-          "priority": 10,
-          "reason": "High volatility and regulatory sensitivity require immediate 2025 update to ensure compliance and accurate pricing models."
-        },
-        {
-          "sector": "automotive-car-care",
-          "priority": 8,
-          "reason": "Pricing sensitivity is high due to import duty fluctuations; current data is outdated for competitive benchmarking."
-        },
-        {
-          "sector": "bim-global-outreach",
-          "priority": 7,
-          "reason": "Missing seasonality data creates a blind spot for B2B procurement cycles in the construction tech space."
-        }
-      ],
-      "search_hypotheses": [
-        {
-          "sector": "crypto-bitcoin",
-          "hypothesis": "Local exchange liquidity and BDT-to-crypto conversion spreads have shifted due to 2025 banking circulars.",
-          "suggested_queries": [
-            "Bangladesh Bank crypto trading circular 2025",
-            "BDT to crypto exchange liquidity report 2025",
-            "Bangladesh digital asset regulatory framework 2025"
-          ],
-          "confidence": 0.85
-        },
-        {
-          "sector": "automotive-car-care",
-          "hypothesis": "Recent import duty adjustments on car care chemicals and parts have significantly altered retail pricing structures.",
-          "suggested_queries": [
-            "Bangladesh import duty on automotive chemicals 2025",
-            "NBR SRO automotive parts 2025",
-            "retail price index automotive services Dhaka 2025"
-          ],
-          "confidence": 0.75
-        }
-      ],
-      "high_value_missing_angles": [
-        "Cross-sector impact of BDT devaluation on imported consumer goods pricing.",
-        "Verification of Facebook/social commerce conversion rates for clothing/fashion in 2025.",
-        "Integration of NBR (National Board of Revenue) circulars into the risk-register for all sectors."
-      ],
-      "recommended_actions": [
-        {
-          "action": "Bulk update all policy/pricing files to reflect 2025 fiscal year data; purge 2023 references.",
-          "priority": "P0",
-          "effort": "high"
-        },
-        {
-          "action": "Develop a 'Seasonality' template for BIM and apply it to all sectors to standardize temporal analysis.",
-          "priority": "P1",
-          "effort": "medium"
-        },
-        {
-          "action": "Verify all social media handles and update the evidence layer with 2025 engagement metrics.",
-          "priority": "P1",
-          "effort": "medium"
-        }
-      ],
-      "model": "gemini-2.5-flash-lite"
+      "model": "gemini-2.5-flash-lite",
+      "error": "Expecting value: line 1 column 1 (char 0)",
+      "gaps": [],
+      "recommendations": []
     },
     {
       "model": "deepseek-ai/deepseek-v4-pro",
-      "error": "The read operation timed out",
+      "error": "HTTP Error 404: Not Found",
       "gaps": [],
       "recommendations": []
     },
     {
       "repo_critical_issues": [
         {
-          "issue": "Stale regulatory and policy references (2023-2024) across multiple sectors, failing to reflect 2025-2026 requirements",
+          "issue": "Stale regulatory references (2023-2024) in policy files across multiple sectors",
           "severity": "critical",
           "affected_sectors": [
             "automotive-car-care",
@@ -120,8 +32,8 @@
           ]
         },
         {
-          "issue": "Pricing data outdated (54+ days old) in high-velocity sectors (crypto, electronics, fashion), risking inaccurate market positioning",
-          "severity": "critical",
+          "issue": "Pricing data older than 55 days without refresh",
+          "severity": "high",
           "affected_sectors": [
             "automotive-car-care",
             "clothing-fashion",
@@ -130,15 +42,15 @@
           ]
         },
         {
-          "issue": "Missing seasonality data for BIM-global-outreach sector, critical for export-driven businesses",
+          "issue": "Missing seasonality file in bim-global-outreach sector",
           "severity": "high",
           "affected_sectors": [
             "bim-global-outreach"
           ]
         },
         {
-          "issue": "Sentiment analysis files outdated (54+ days) in consumer-facing sectors, potentially misrepresenting current brand perceptions",
-          "severity": "high",
+          "issue": "Sentiment data older than 55 days without refresh",
+          "severity": "medium",
           "affected_sectors": [
             "automotive-car-care",
             "clothing-fashion",
@@ -147,8 +59,8 @@
           ]
         },
         {
-          "issue": "Competitor financials in crypto-bitcoin sector rely on 2023-2024 data without source verification",
-          "severity": "high",
+          "issue": "Competitor core profile contains stale year references (2023-2024)",
+          "severity": "medium",
           "affected_sectors": [
             "crypto-bitcoin"
           ]
@@ -158,113 +70,112 @@
         {
           "sector": "crypto-bitcoin",
           "priority": 10,
-          "reason": "Regulatory environment is evolving rapidly (2025-2026 circulars needed), pricing volatility requires real-time data, and competitor financials lack source validation"
+          "reason": "Regulatory environment volatile; requires immediate update for 2025-2026 compliance. Pricing and sentiment data stale. High market sensitivity to policy changes."
         },
         {
-          "sector": "electronics-gadgets",
+          "sector": "automotive-car-care",
           "priority": 9,
-          "reason": "High consumer demand volatility with outdated pricing/sentiment data, and regulatory changes pending for 2026"
+          "reason": "Policy and pricing files stale. Sector heavily regulated with frequent circular updates."
         },
         {
           "sector": "clothing-fashion",
           "priority": 8,
-          "reason": "Fast-moving consumer trends with outdated pricing/sentiment data, and import-export policy changes expected in 2026"
+          "reason": "Policy and pricing files stale. Seasonal trends require up-to-date sentiment data."
+        },
+        {
+          "sector": "electronics-gadgets",
+          "priority": 7,
+          "reason": "Policy and pricing files stale. High import dependency with frequent regulatory shifts."
         },
         {
           "sector": "bim-global-outreach",
-          "priority": 7,
-          "reason": "Missing seasonality data critical for export planning, and stale policy references"
-        },
-        {
-          "sector": "automotive-car-care",
           "priority": 6,
-          "reason": "Outdated pricing and sentiment data, though sector moves slower than others"
+          "reason": "Missing seasonality file. Policy references stale. Cross-border operations require current compliance data."
         }
       ],
       "search_hypotheses": [
         {
           "sector": "crypto-bitcoin",
-          "hypothesis": "Bangladesh Bank has issued new crypto trading guidelines for 2025-2026 that expand licensed exchange operations",
+          "hypothesis": "Bangladesh Bank has issued new crypto trading guidelines for 2025-2026",
           "suggested_queries": [
             "Bangladesh Bank crypto trading circular 2025",
-            "Bangladesh licensed crypto exchanges 2026",
-            "BB digital asset regulations 2025 PDF",
-            "Bangladesh crypto tax policy 2026"
+            "Bangladesh crypto regulation 2026",
+            "Bangladesh Bank virtual asset service provider guidelines 2025",
+            "BTRC crypto trading rules 2025"
           ],
-          "confidence": 0.85
+          "confidence": 0.9
         },
         {
-          "sector": "electronics-gadgets",
-          "hypothesis": "New import tariffs on mobile devices and laptops were introduced in Q1 2025, affecting pricing strategies",
+          "sector": "automotive-car-care",
+          "hypothesis": "New import duty circulars for automotive parts issued in 2025",
           "suggested_queries": [
-            "Bangladesh NBR electronics import tariffs 2025",
-            "Mobile phone import duty Bangladesh 2025 circular",
-            "Laptop tax policy Bangladesh 2026",
-            "NBR SRO electronics 2025"
+            "Bangladesh NBR automotive parts import duty 2025",
+            "Bangladesh car care products tax circular 2025",
+            "Bangladesh automotive lubricants import policy 2025"
           ],
           "confidence": 0.8
         },
         {
           "sector": "clothing-fashion",
-          "hypothesis": "The government has implemented new textile export incentives in 2025 to boost RMG sector competitiveness",
+          "hypothesis": "Bangladesh government has updated textile export incentives for 2025-2026",
           "suggested_queries": [
             "Bangladesh textile export incentive 2025",
-            "RMG sector stimulus package 2026",
-            "EPB textile export circular 2025",
-            "Bangladesh garment export policy 2026"
+            "Bangladesh fashion industry policy 2026",
+            "Bangladesh EPB clothing export circular 2025"
           ],
-          "confidence": 0.75
+          "confidence": 0.8
         },
         {
-          "sector": "bim-global-outreach",
-          "hypothesis": "Seasonal demand patterns for BIM services have shifted post-pandemic, with new peak periods emerging in 2025",
+          "sector": "electronics-gadgets",
+          "hypothesis": "New BTRC type approval requirements for 2025-2026",
           "suggested_queries": [
-            "BIM industry seasonality trends 2025",
-            "Global construction sector demand cycles 2025-2026",
-            "Bangladesh BIM export peak periods 2025",
-            "International BIM project timelines 2026"
+            "BTRC type approval circular 2025",
+            "Bangladesh electronics import policy 2025",
+            "Bangladesh mobile phone import duty 2025"
           ],
           "confidence": 0.7
         }
       ],
       "high_value_missing_angles": [
-        "Cross-sector analysis of digital payment adoption (critical for crypto, electronics, and fashion sectors)",
-        "Impact of upcoming 2026 national budget on import-dependent sectors (electronics, automotive)",
-        "Facebook/Instagram handle verification status for top competitors in all sectors",
-        "Localization strategies for international brands in Bangladesh (language, cultural adaptation)",
-        "Supply chain resilience metrics post-Red Sea crisis (affecting clothing and electronics)",
-        "Government digital transformation initiatives affecting B2B sectors (BIM, automotive services)"
+        "Cross-sector analysis of Bangladesh's 2025-2026 budget impact on regulated sectors",
+        "Comparison of Bangladesh's regulatory environment with regional peers (India, Pakistan, Sri Lanka)",
+        "Impact of upcoming national elections on sector-specific policies",
+        "Analysis of Facebook/Instagram commerce trends in Bangladesh for 2025",
+        "Verification of competitor Facebook handles and social media presence",
+        "BDT-denominated pricing data with source citations for all sectors",
+        "Government circular references with direct URLs or document IDs",
+        "Seasonality patterns for all sectors with 2024-2025 data"
       ],
       "recommended_actions": [
         {
-          "action": "Immediate regulatory update sprint: Assign team to verify and update all policy files with 2025-2026 circulars across all sectors",
+          "action": "Update all policy files with 2025-2026 regulatory references. Verify against Bangladesh Bank, NBR, BTRC, and EPB circulars. Add direct URLs or document IDs.",
           "priority": "P0",
           "effort": "high"
         },
         {
-          "action": "Pricing data refresh: Implement automated BDT pricing scrapers for crypto, electronics, and fashion sectors with daily updates",
+          "action": "Refresh pricing data for all sectors. Ensure BDT values with source citations. Cross-check with Bangladesh Tariff Commission and industry associations.",
           "priority": "P0",
           "effort": "medium"
         },
         {
-          "action": "Seasonality study: Commission primary research to establish 2025-2026 seasonality patterns for BIM-global-outreach sector",
-          "priority": "P1",
-          "effort": "high"
-        },
-        {
-          "action": "Competitor financial validation: Cross-check crypto sector competitor financials with Bangladesh Bank reports and exchange filings",
-          "priority": "P1",
+          "action": "Create missing seasonality file for bim-global-outreach sector. Include 2024-2025 data with source citations.",
+          "priority": "P0",
           "effort": "medium"
         },
         {
-          "action": "Social media audit: Verify and update all Facebook/Instagram handles in competitor profiles, flagging inactive or changed accounts",
+          "action": "Verify and update all competitor Facebook handles. Check functionality and note last active date.",
           "priority": "P1",
           "effort": "low"
         },
         {
-          "action": "Cross-sector trend analysis: Develop matrix showing digital adoption, regulatory impact, and supply chain risks across sectors",
-          "priority": "P2",
+          "action": "Conduct cross-sector analysis of 2025-2026 budget impact. Focus on tax, duty, and incentive changes.",
+          "priority": "P1",
           "effort": "high"
+        },
+        {
+          "action": "Add regional regulatory comparison for each sector. Include India, Pakistan, and Sri Lanka.",
+          "priority": "P2",
+          "effort": "medium"
         }
       ],
       "model": "mistral/mistral-large-latest"
@@ -277,7 +188,7 @@
       "sector": "automotive-car-care",
       "family": "pricing",
       "priority": "P0",
-      "reason": "File age 54d exceeds freshness threshold for pricing",
+      "reason": "File age 55d exceeds freshness threshold for pricing",
       "source_model": "freshness_policy"
     },
     {
@@ -285,7 +196,7 @@
       "sector": "automotive-car-care",
       "family": "pricing",
       "priority": "P0",
-      "reason": "File age 54d exceeds freshness threshold for pricing",
+      "reason": "File age 55d exceeds freshness threshold for pricing",
       "source_model": "freshness_policy"
     },
     {
@@ -293,7 +204,7 @@
       "sector": "automotive-car-care",
       "family": "policy_tracker",
       "priority": "P0",
-      "reason": "File age 54d exceeds freshness threshold for policy",
+      "reason": "File age 55d exceeds freshness threshold for policy",
       "source_model": "freshness_policy"
     },
     {
@@ -301,7 +212,7 @@
       "sector": "automotive-car-care",
       "family": "policy_tracker",
       "priority": "P0",
-      "reason": "File age 54d exceeds freshness threshold for policy",
+      "reason": "File age 55d exceeds freshness threshold for policy",
       "source_model": "freshness_policy"
     },
     {
@@ -309,7 +220,7 @@
       "sector": "automotive-car-care",
       "family": "sentiment",
       "priority": "P0",
-      "reason": "File age 54d exceeds freshness threshold for sentiment",
+      "reason": "File age 55d exceeds freshness threshold for sentiment",
       "source_model": "freshness_policy"
     },
     {
@@ -317,7 +228,7 @@
       "sector": "automotive-car-care",
       "family": "sentiment",
       "priority": "P0",
-      "reason": "File age 54d exceeds freshness threshold for sentiment",
+      "reason": "File age 55d exceeds freshness threshold for sentiment",
       "source_model": "freshness_policy"
     },
     {
@@ -357,7 +268,7 @@
       "sector": "clothing-fashion",
       "family": "pricing",
       "priority": "P0",
-      "reason": "File age 54d exceeds freshness threshold for pricing",
+      "reason": "File age 55d exceeds freshness threshold for pricing",
       "source_model": "freshness_policy"
     },
     {
@@ -365,7 +276,7 @@
       "sector": "clothing-fashion",
       "family": "pricing",
       "priority": "P0",
-      "reason": "File age 54d exceeds freshness threshold for pricing",
+      "reason": "File age 55d exceeds freshness threshold for pricing",
       "source_model": "freshness_policy"
     },
     {
@@ -373,7 +284,7 @@
       "sector": "clothing-fashion",
       "family": "policy_tracker",
       "priority": "P0",
-      "reason": "File age 54d exceeds freshness threshold for policy",
+      "reason": "File age 55d exceeds freshness threshold for policy",
       "source_model": "freshness_policy"
     },
     {
@@ -381,7 +292,7 @@
       "sector": "clothing-fashion",
       "family": "policy_tracker",
       "priority": "P0",
-      "reason": "File age 54d exceeds freshness threshold for policy",
+      "reason": "File age 55d exceeds freshness threshold for policy",
       "source_model": "freshness_policy"
     },
     {
@@ -389,7 +300,7 @@
       "sector": "clothing-fashion",
       "family": "sentiment",
       "priority": "P0",
-      "reason": "File age 54d exceeds freshness threshold for sentiment",
+      "reason": "File age 55d exceeds freshness threshold for sentiment",
       "source_model": "freshness_policy"
     },
     {
@@ -397,7 +308,7 @@
       "sector": "clothing-fashion",
       "family": "sentiment",
       "priority": "P0",
-      "reason": "File age 54d exceeds freshness threshold for sentiment",
+      "reason": "File age 55d exceeds freshness threshold for sentiment",
       "source_model": "freshness_policy"
     },
     {
@@ -421,7 +332,7 @@
       "sector": "crypto-bitcoin",
       "family": "pricing",
       "priority": "P0",
-      "reason": "File age 54d exceeds freshness threshold for pricing",
+      "reason": "File age 55d exceeds freshness threshold for pricing",
       "source_model": "freshness_policy"
     },
     {
@@ -429,7 +340,7 @@
       "sector": "crypto-bitcoin",
       "family": "pricing",
       "priority": "P0",
-      "reason": "File age 54d exceeds freshness threshold for pricing",
+      "reason": "File age 55d exceeds freshness threshold for pricing",
       "source_model": "freshness_policy"
     },
     {
@@ -437,7 +348,7 @@
       "sector": "crypto-bitcoin",
       "family": "policy_tracker",
       "priority": "P0",
-      "reason": "File age 54d exceeds freshness threshold for policy",
+      "reason": "File age 55d exceeds freshness threshold for policy",
       "source_model": "freshness_policy"
     },
     {
@@ -445,7 +356,7 @@
       "sector": "crypto-bitcoin",
       "family": "policy_tracker",
       "priority": "P0",
-      "reason": "File age 54d exceeds freshness threshold for policy",
+      "reason": "File age 55d exceeds freshness threshold for policy",
       "source_model": "freshness_policy"
     },
     {
@@ -453,7 +364,7 @@
       "sector": "crypto-bitcoin",
       "family": "sentiment",
       "priority": "P0",
-      "reason": "File age 54d exceeds freshness threshold for sentiment",
+      "reason": "File age 55d exceeds freshness threshold for sentiment",
       "source_model": "freshness_policy"
     },
     {
@@ -461,7 +372,7 @@
       "sector": "crypto-bitcoin",
       "family": "sentiment",
       "priority": "P0",
-      "reason": "File age 54d exceeds freshness threshold for sentiment",
+      "reason": "File age 55d exceeds freshness threshold for sentiment",
       "source_model": "freshness_policy"
     },
     {
@@ -501,7 +412,7 @@
       "sector": "electronics-gadgets",
       "family": "pricing",
       "priority": "P0",
-      "reason": "File age 54d exceeds freshness threshold for pricing",
+      "reason": "File age 55d exceeds freshness threshold for pricing",
       "source_model": "freshness_policy"
     },
     {
@@ -509,7 +420,7 @@
       "sector": "electronics-gadgets",
       "family": "pricing",
       "priority": "P0",
-      "reason": "File age 54d exceeds freshness threshold for pricing",
+      "reason": "File age 55d exceeds freshness threshold for pricing",
       "source_model": "freshness_policy"
     },
     {

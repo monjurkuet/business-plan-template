@@ -1,6 +1,6 @@
 ---
 sector: bim-global-outreach
-last_verified: 2026-06-28
+last_verified: 2026-06-30
 freshness: fresh
 ---
 
@@ -89,6 +89,7 @@ freshness: fresh
 
 
 
-## Recent Findings (2026-06-28)
 
-- **www.bimobject.com** (conf: 0.74): Download Free Revit families &BIMcontent from over 2 000 manufacturers. Choose amongBIMobjects for SketchUp, Autodesk, Vectorworks or ArchiCAD.
+## Recent Findings (2026-06-30)
+
+- **www.bimobject.com** (conf: 0.75): Download Free Revit families &BIMcontent from over 2 000 manufacturers. Choose amongBIMobjects for SketchUp, Autodesk, Vectorworks or ArchiCAD.

@@ -2,8 +2,8 @@
 sector: automotive-car-care
 last_verified: 2026-06-30
 freshness: fresh
-confidence: 0.635
-evidence_ids: ['cd40e0eb-939']
+confidence: 0.7
+evidence_ids: ['faaf0e12-29b', '42a3df1a-248']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -152,10 +152,13 @@ evidence_ids: ['cd40e0eb-939']
 
 
 
+
 ## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
 | FLIP PLATE | search | 0.90 |
 | CarBaseBangladesh | search | 0.90 |
-| all over Bangladesh | search | 0.90 |
+| all over Bangladesh | search | 0.95 |
+| 2025-02-01 | search | 0.95 |
+| Best Practices for Choosing Tires in Bangladesh | search | 0.95 |

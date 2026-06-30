@@ -87,6 +87,7 @@ freshness: fresh
 
 
 
+
 ## Recent Findings (2026-06-30)
 
 - **d-inc.in** (conf: 0.74): Design Inc Global Studio a BIM Consulting Firm in India, Our expert consultants provide cost-effective 2D, 3DBIMOutsourcingFirm acrossUSA.
