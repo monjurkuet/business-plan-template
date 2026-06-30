@@ -3,7 +3,7 @@ sector: jewellery
 last_verified: 2026-06-30
 freshness: fresh
 confidence: 0.627
-evidence_ids: ['4e399988-177']
+evidence_ids: ['aa5e97cc-98f']
 ---
 
 # Jewellery — Bangladesh Market
@@ -113,9 +113,10 @@ evidence_ids: ['4e399988-177']
 
 
 
+
 ## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| red gold jewellery | search | 0.90 |
-| competitive pricing, reliable quality, strong buyer support | search | 0.80 |
+| red gold | search | 0.90 |
+| AR try-on, lifetime buyback | search | 0.80 |

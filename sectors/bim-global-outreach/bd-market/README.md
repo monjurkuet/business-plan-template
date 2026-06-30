@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-06-30
 freshness: fresh
-confidence: 0.739
-evidence_ids: ['de655af4-485', '928e6640-327', 'c14d3044-b2b', 'db13627d-b66', 'e82caeba-9a4', 'd9eef837-f35']
+confidence: 0.738
+evidence_ids: ['dbddede0-1c1', '7bd92a67-6a0', '9eecaf49-917', 'bf4d5fef-d06', 'ce2faa96-623', '5b5f2766-2e2', 'b2e75df8-013', '4c5337b8-1fd']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -141,22 +141,23 @@ evidence_ids: ['de655af4-485', '928e6640-327', 'c14d3044-b2b', 'db13627d-b66', '
 
 
 
+
 ## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 600 | search | 0.90 |
-| 2026-04-23 | search | 0.95 |
-| Revit BIM outsourcing | search | 0.90 |
-| Tekla detailing services | search | 0.90 |
-| USA | search | 0.95 |
-| ISO 19650 | search | 0.90 |
-| 200–400 | search | 0.90 |
-| BIM outsourcing | search | 0.95 |
-| access specialized expertise | search | 0.90 |
-| reduce operational costs | search | 0.90 |
-| improve project turnaround times | search | 0.90 |
-| BIM outsourcing | search | 0.95 |
-| USA | search | 0.95 |
-| 30000–80000 | search | 0.90 |
+| $30,000–$80,000 | search | 0.95 |
 | Take-off and Estimation services | search | 0.90 |
+| Fixed pricing | search | 0.90 |
+| Building information modeling management, clash detection, design solution, infr | search | 0.90 |
+| ['USA', 'UK', 'India'] | search | 0.95 |
+| ['contractors', 'engineering design firms', 'architects'] | search | 0.90 |
+| 2026-04-23 | search | 0.90 |
+| BIM outsourcing services cost in USA | search | 0.95 |
+| 30000-80000 | search | 0.90 |
+| Construction BIM outsourcing, Take-off and Estimation services | search | 0.95 |
+| Fixed pricing | search | 0.90 |
+| 2026-01-12 | search | 0.95 |
+| 2025-01-12 | search | 0.95 |
+| Scan to BIM outsourcing | search | 0.95 |
+| BIMBOSS Consultants | search | 0.95 |
