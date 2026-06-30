@@ -2,8 +2,8 @@
 sector: automotive-car-care
 last_verified: 2026-06-30
 freshness: fresh
-confidence: 0.7
-evidence_ids: ['faaf0e12-29b', '42a3df1a-248']
+confidence: 0.74
+evidence_ids: ['09af6be7-0ea', 'c47ebdae-8f9', '56d914b9-69a', '503ff2a7-cba', '4ff1f382-6fa']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -153,12 +153,19 @@ evidence_ids: ['faaf0e12-29b', '42a3df1a-248']
 
 
 
+
 ## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| FLIP PLATE | search | 0.90 |
-| CarBaseBangladesh | search | 0.90 |
-| all over Bangladesh | search | 0.95 |
-| 2025-02-01 | search | 0.95 |
-| Best Practices for Choosing Tires in Bangladesh | search | 0.95 |
+| varies by brand and condition | search | 0.90 |
+| Brand New & Recondition | search | 0.95 |
+| ['Toyota', 'Nissan', 'Honda'] | search | 0.95 |
+| brand new Cars price in Bangladesh | search | 0.95 |
+| specifications, installment details, down payment, availability | search | 0.90 |
+| best car prices in Bangladesh, used car price, BD recondition car price | search | 0.95 |
+| ['car loans', 'schedule viewings'] | search | 0.90 |
+| Dhaka | search | 0.95 |
+| Car Price in Bangladesh 2026 | search | 0.95 |
+| low price | search | 0.90 |
+| home delivery available | search | 0.95 |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T14:15:34.767132+00:00",
+  "generated_at": "2026-06-30T17:20:15.244623+00:00",
   "models_used": [
     "gemini-2.5-flash-lite",
     "deepseek-ai/deepseek-v4-pro",
@@ -19,10 +19,157 @@
       "recommendations": []
     },
     {
-      "model": "mistral/mistral-large-latest",
-      "error": "timed out",
-      "gaps": [],
-      "recommendations": []
+      "repo_critical_issues": [
+        {
+          "issue": "Stale year references (2023, 2024) in policy/pricing/sentiment files across multiple sectors",
+          "severity": "critical",
+          "affected_sectors": [
+            "automotive-car-care",
+            "clothing-fashion",
+            "crypto-bitcoin",
+            "electronics-gadgets",
+            "bim-global-outreach"
+          ]
+        },
+        {
+          "issue": "Missing seasonality file in bim-global-outreach sector",
+          "severity": "high",
+          "affected_sectors": [
+            "bim-global-outreach"
+          ]
+        },
+        {
+          "issue": "Pricing data older than 55 days without refresh",
+          "severity": "high",
+          "affected_sectors": [
+            "automotive-car-care",
+            "clothing-fashion",
+            "crypto-bitcoin",
+            "electronics-gadgets"
+          ]
+        },
+        {
+          "issue": "Policy documents not updated to reflect 2025-2026 regulatory requirements",
+          "severity": "critical",
+          "affected_sectors": [
+            "automotive-car-care",
+            "clothing-fashion",
+            "crypto-bitcoin",
+            "electronics-gadgets"
+          ]
+        }
+      ],
+      "sector_priorities": [
+        {
+          "sector": "crypto-bitcoin",
+          "priority": 10,
+          "reason": "Regulatory environment volatile; stale references in all critical files; crypto trading legal in Bangladesh but requires current compliance data"
+        },
+        {
+          "sector": "automotive-car-care",
+          "priority": 9,
+          "reason": "Policy and pricing files stale; automotive sector sensitive to import regulations and tax changes"
+        },
+        {
+          "sector": "electronics-gadgets",
+          "priority": 8,
+          "reason": "High import dependency; pricing and policy files stale; sensitive to customs duty changes"
+        },
+        {
+          "sector": "clothing-fashion",
+          "priority": 7,
+          "reason": "Policy and pricing files stale; export-oriented sector with frequent regulatory updates"
+        },
+        {
+          "sector": "bim-global-outreach",
+          "priority": 6,
+          "reason": "Missing seasonality file; policy references stale; global outreach requires current market trends"
+        }
+      ],
+      "search_hypotheses": [
+        {
+          "sector": "crypto-bitcoin",
+          "hypothesis": "Bangladesh Bank has issued new circulars in 2025 relaxing crypto trading conditions for licensed entities",
+          "suggested_queries": [
+            "Bangladesh Bank crypto trading circular 2025",
+            "BB crypto license requirements 2025",
+            "Bangladesh crypto exchange regulations 2025-2026",
+            "site:bb.org.bd crypto trading"
+          ],
+          "confidence": 0.8
+        },
+        {
+          "sector": "automotive-car-care",
+          "hypothesis": "National Board of Revenue (NBR) has updated import duties for automotive parts in 2025 budget",
+          "suggested_queries": [
+            "NBR automotive import duty 2025",
+            "Bangladesh car parts tax circular 2025",
+            "site:nbr.gov.bd automotive HS codes 2025"
+          ],
+          "confidence": 0.9
+        },
+        {
+          "sector": "electronics-gadgets",
+          "hypothesis": "Bangladesh Telecommunication Regulatory Commission (BTRC) has revised type approval requirements for 2025",
+          "suggested_queries": [
+            "BTRC type approval 2025",
+            "Bangladesh electronics import regulations 2025",
+            "site:btrc.gov.bd type approval circular"
+          ],
+          "confidence": 0.85
+        },
+        {
+          "sector": "clothing-fashion",
+          "hypothesis": "Export Promotion Bureau (EPB) has updated export incentives for RMG sector in 2025",
+          "suggested_queries": [
+            "EPB export incentive 2025",
+            "Bangladesh RMG export policy 2025",
+            "site:epb.gov.bd textile export circular"
+          ],
+          "confidence": 0.8
+        }
+      ],
+      "high_value_missing_angles": [
+        "Cross-sector analysis of Bangladesh's 2025-2026 budget impact on import-dependent sectors (automotive, electronics)",
+        "Verification of Facebook/Instagram handles for top competitors in each sector (last verified date missing)",
+        "BDT-denominated pricing data with source references (current files show USD or no currency)",
+        "Government circular references with direct URLs (current citations lack verifiable links)",
+        "Seasonality patterns for B2B sectors (bim-global-outreach missing file)",
+        "Competitor financials with source-backed data (current files show estimates without citations)"
+      ],
+      "recommended_actions": [
+        {
+          "action": "Update all policy files with 2025-2026 regulatory references. Verify against Bangladesh Bank, NBR, BTRC, EPB websites. Add direct circular URLs.",
+          "priority": "P0",
+          "effort": "high"
+        },
+        {
+          "action": "Refresh pricing data for automotive-car-care, clothing-fashion, crypto-bitcoin, electronics-gadgets. Ensure BDT values with source timestamps.",
+          "priority": "P0",
+          "effort": "medium"
+        },
+        {
+          "action": "Create missing seasonality file for bim-global-outreach. Include quarterly trends for 2023-2025 with source references.",
+          "priority": "P0",
+          "effort": "medium"
+        },
+        {
+          "action": "Verify and timestamp all competitor social media handles. Add last-verified date to competitor profiles.",
+          "priority": "P1",
+          "effort": "low"
+        },
+        {
+          "action": "Add cross-sector budget impact analysis. Focus on import-dependent sectors (automotive, electronics) and export-oriented sectors (clothing).",
+          "priority": "P1",
+          "effort": "high"
+        },
+        {
+          "action": "Audit competitor financials. Replace estimates with source-backed data (annual reports, Bangladesh Bank disclosures, DSE filings).",
+          "priority": "P1",
+          "effort": "high"
+        }
+      ],
+      "model": "mistral/mistral-large-latest"
     }
   ],
   "total_queries": 60,
@@ -304,7 +451,7 @@
       "sector": "automotive-car-care",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "File age 54d exceeds freshness threshold for competitor_core_profile",
+      "reason": "File age 55d exceeds freshness threshold for competitor_core_profile",
       "source_model": "freshness_policy"
     },
     {
@@ -312,7 +459,7 @@
       "sector": "automotive-car-care",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "File age 54d exceeds freshness threshold for competitor_core_profile",
+      "reason": "File age 55d exceeds freshness threshold for competitor_core_profile",
       "source_model": "freshness_policy"
     },
     {
@@ -400,7 +547,7 @@
       "sector": "clothing-fashion",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "File age 54d exceeds freshness threshold for competitor_core_profile",
+      "reason": "File age 55d exceeds freshness threshold for competitor_core_profile",
       "source_model": "freshness_policy"
     },
     {
@@ -408,7 +555,7 @@
       "sector": "clothing-fashion",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "File age 54d exceeds freshness threshold for competitor_core_profile",
+      "reason": "File age 55d exceeds freshness threshold for competitor_core_profile",
       "source_model": "freshness_policy"
     },
     {
@@ -448,7 +595,7 @@
       "sector": "electronics-gadgets",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "File age 54d exceeds freshness threshold for competitor_core_profile",
+      "reason": "File age 55d exceeds freshness threshold for competitor_core_profile",
       "source_model": "freshness_policy"
     },
     {
@@ -456,7 +603,7 @@
       "sector": "electronics-gadgets",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "File age 54d exceeds freshness threshold for competitor_core_profile",
+      "reason": "File age 55d exceeds freshness threshold for competitor_core_profile",
       "source_model": "freshness_policy"
     },
     {
@@ -496,7 +643,7 @@
       "sector": "high-roi-niches",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "File age 54d exceeds freshness threshold for competitor_core_profile",
+      "reason": "File age 55d exceeds freshness threshold for competitor_core_profile",
       "source_model": "freshness_policy"
     },
     {
@@ -504,7 +651,7 @@
       "sector": "high-roi-niches",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "File age 54d exceeds freshness threshold for competitor_core_profile",
+      "reason": "File age 55d exceeds freshness threshold for competitor_core_profile",
       "source_model": "freshness_policy"
     }
   ]

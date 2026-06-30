@@ -7,8 +7,12 @@ sectors:
     status: active
     priority_weight: 0.6
     keywords:
-      en: ["car care Bangladesh", "auto detailing Dhaka", "car wash Bangladesh", "automotive service BD"]
-      bn: ["গাড়ি যত্ন বাংলাদেশ", "কার ওয়াশ ঢাকা"]
+      en: ["car care Bangladesh", "auto detailing Dhaka", "car wash Bangladesh", "automotive service BD",
+           "car dealer", "car repair", "auto parts", "car rental", "tire shop", "garage",
+           "auto accessories", "car accessories", "car servicing", "auto mechanic",
+           "car showroom", "motorcycle", "bike repair", "auto body shop"]
+      bn: ["গাড়ি যত্ন বাংলাদেশ", "কার ওয়াশ ঢাকা", "গাড়ী সারাইয়ের দোকান", "গাড়ি ভাড়া",
+           "কার রেন্টাল এজেন্সি", "অটো মোবাইল", "মোটরসাইকেল", "বাইক সারাই"]
     competitor_target: 12
     subsegments: ["detailing", "car wash", "ceramic coating", "PPF", "accessories"]
     policy_sensitivity: low
@@ -18,8 +22,14 @@ sectors:
     status: active
     priority_weight: 0.7
     keywords:
-      en: ["clothing Bangladesh", "fashion brand Dhaka", "boutique Bangladesh", "garments retail BD"]
-      bn: ["ফ্যাশন বাংলাদেশ", "পোশাক ঢাকা"]
+      en: ["clothing Bangladesh", "fashion brand Dhaka", "boutique Bangladesh", "garments retail BD",
+           "clothing store", "fashion house", "cloth shop", "tailor", "textile",
+           "apparel", "garment factory", "fabric shop", "menswear", "womenswear",
+           "uniform", "dress shop", "shirt boutique", "saree shop",
+           "shoe shop", "footwear", "juta", "showroom"]
+      bn: ["ফ্যাশন বাংলাদেশ", "পোশাক ঢাকা", "কাপড়ের দোকান", "পোশাকের দোকান",
+           "মহিলাদের পোশাকের দোকান", "পুরুষের পোশাকের দোকান", "ফ্যাশন মালপত্রের দোকান",
+           "বুটিক", "জুতোর দোকান", "টেইলার্স", "শার্ট", "থ্রি-পিস"]
     competitor_target: 12
     subsegments: ["boutique", "fast fashion", "social commerce", "ethnic wear", "western wear"]
     policy_sensitivity: low
@@ -43,8 +53,16 @@ sectors:
     status: active
     priority_weight: 0.7
     keywords:
-      en: ["electronics Bangladesh", "gadget shop Dhaka", "smartphone BD", "laptop price Bangladesh"]
-      bn: ["ইলেকট্রনিক্স বাংলাদেশ", "মোবাইল দাম ঢাকা"]
+      en: ["electronics Bangladesh", "gadget shop Dhaka", "smartphone BD", "laptop price Bangladesh",
+           "mobile phone shop", "computer shop", "electronics store", "tv shop", "electronics shop",
+           "home appliance", "air conditioner", "refrigerator", "software company",
+           "computer repair", "mobile repair", "it service", "electronics repair",
+           "cable tv", "isp", "internet service", "network", "ac repair"]
+      bn: ["ইলেকট্রনিক্স বাংলাদেশ", "মোবাইল দাম ঢাকা", "ইলেকট্রনিক সরঞ্জামের দোকান",
+           "মোবাইল ফোনের দোকান", "কম্পিউটারের দোকান", "সফ্টওয়্যার কোম্পানি",
+           "কম্পিউটারের আনুষঙ্গিক জিনিসের দোকান", "ইলেকট্রনিক্স কোম্পানি",
+           "মোবাইল ফোন সারাইয়ের দোকান", "কম্পিউটার শিক্ষা কেন্দ্র",
+           "কম্পিউটার সহায়তা ও পরিষেবা", "আই এস পি", "ইলেকট্রনিক্স"]
     competitor_target: 12
     subsegments: ["smartphone", "laptop", "accessories", "home appliance", "gaming"]
     policy_sensitivity: medium
@@ -65,8 +83,11 @@ sectors:
     status: active
     priority_weight: 0.7
     keywords:
-      en: ["jewellery Bangladesh", "gold jewellery Dhaka", "diamond BD", "ornament shop Bangladesh"]
-      bn: ["গহনা বাংলাদেশ", "স্বর্ণালংকার ঢাকা"]
+      en: ["jewellery Bangladesh", "gold jewellery Dhaka", "diamond BD", "ornament shop Bangladesh",
+           "jewelry store", "gold shop", "gold", "diamond shop", "silver jewelry",
+           "golden", "jewellers"]
+      bn: ["গহনা বাংলাদেশ", "স্বর্ণালংকার ঢাকা", "গয়নার দোকান", "স্বর্ণের দোকান",
+           "অলংকারের দোকান", "জুয়েলারি"]
     competitor_target: 10
     subsegments: ["gold", "diamond", "silver", "fashion jewellery", "traditional"]
     policy_sensitivity: medium
@@ -76,8 +97,21 @@ sectors:
     status: active
     priority_weight: 0.65
     keywords:
-      en: ["digital marketing Bangladesh", "ad agency Dhaka", "social media BD", "content marketing Bangladesh"]
-      bn: ["ডিজিটাল মার্কেটিং বাংলাদেশ", "এড এজেন্সি ঢাকা"]
+      en: ["digital marketing Bangladesh", "ad agency Dhaka", "social media BD", "content marketing Bangladesh",
+           "marketing agency", "digital agency", "web design", "graphic design", "seo service",
+           "social media marketing", "advertising agency", "printing press", "printing shop",
+           "video production", "media production", "ecommerce", "e-commerce",
+           "web developer", "software development", "digital service",
+           "marketing consultant", "public relations", "branding",
+           "it consultant", "online marketing", "freelancer", "creative agency",
+           "photography", "photo studio", "event management", "training center"]
+      bn: ["ডিজিটাল মার্কেটিং বাংলাদেশ", "এড এজেন্সি ঢাকা",
+           "মার্কেটিং এজেন্সি", "ইন্টারনেট বিপণন পরিষেবা", "সফ্টওয়্যার কোম্পানি",
+           "মার্কেটিং কনসাল্টেন্ট", "ওয়েব ডিজাইনার", "ই-কমার্স সেবা",
+           "বিজ্ঞাপন সংস্থা", "গ্রাফিক ডিজাইনার", "প্রিন্টিং প্রেস",
+           "প্রশিক্ষণ কেন্দ্র", "মুদ্রণের দোকান", "ভিডিও প্রোডাকশান পরিষেবা",
+           "ফটোগ্রাফার", "ইভেন্ট ম্যানেজমেন্ট", "আইটি সার্ভিস",
+           "কম্পিউটার প্রশিক্ষণ", "বিপণন সেবা"]
     competitor_target: 10
     subsegments: ["agency", "freelance", "influencer marketing", "SEO/SEM", "content production"]
     policy_sensitivity: low
@@ -87,8 +121,12 @@ sectors:
     status: active
     priority_weight: 0.75
     keywords:
-      en: ["travel agency Bangladesh", "tourism Dhaka", "tour operator BD", "visa service Bangladesh"]
-      bn: ["ট্রাভেল এজেন্সি বাংলাদেশ", "পর্যটন ঢাকা"]
+      en: ["travel agency Bangladesh", "tourism Dhaka", "tour operator BD", "visa service Bangladesh",
+           "travel agent", "tour package", "airline ticket", "hotel booking",
+           "resort", "airport transfer", "travel service", "umrah service",
+           "hajj service", "tourist attraction", "guest house", "motel"]
+      bn: ["ট্রাভেল এজেন্সি বাংলাদেশ", "পর্যটন ঢাকা",
+           "ভ্রমণ সংস্থা", "পর্যটন সংস্থা", "হোটেল", "রিসোর্ট"]
     competitor_target: 12
     subsegments: ["tour operator", "visa service", "hotel booking", "domestic tourism", "airline ticketing"]
     policy_sensitivity: medium

@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-06-30
 freshness: fresh
-confidence: 0.737
-evidence_ids: ['c7abe245-1a6', 'a99a87ba-c0d', '4c83b4f5-cf9', '1ade4624-98a', 'a54f4114-7cf', '746ef4b0-bff', '2c476778-498', 'cbc14858-15a', '3ec4dabb-546', '726ad52a-7fd']
+confidence: 0.748
+evidence_ids: ['358aeaf7-518', '56c8e1f5-418', '1356c5bd-ae8', 'f8a3724f-bb9', '4664f623-aee', '5d52f1cc-50e', '367241b1-c91']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -144,22 +144,23 @@ evidence_ids: ['c7abe245-1a6', 'a99a87ba-c0d', '4c83b4f5-cf9', '1ade4624-98a', '
 
 
 
+
 ## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 600 | search | 0.90 |
-| Depends on project size. Small residential starts around $600 | search | 0.80 |
-| 2026-04-23 | search | 0.95 |
-| Revit BIM models for architecture and structure at LOD 200–300 | search | 0.90 |
-| US architects and engineers | search | 0.90 |
-| saves contractors money | search | 0.80 |
-| 2025 | search | 0.90 |
-| California | search | 0.90 |
-| Building Information Modelling (BIM) Infrastructure Design Services | search | 0.90 |
-| USA, International | search | 0.90 |
-| improving project efficiency, cutting costs, and streamlining processes | search | 0.90 |
-| USA | search | 0.90 |
-| Revit BIM outsourcing (USA) | search | 1.00 |
-| Tekla detailing services USA | search | 1.00 |
-| ISO 19650 | search | 1.00 |
+| Bangladesh Institute of Management | search | 1.00 |
+| 1961 | search | 1.00 |
+| Act 54 of 2023 | search | 1.00 |
+| deemed professional public university | search | 1.00 |
+| ['executive education', 'mid-level management training', 'research', 'consultanc | search | 1.00 |
+| ['Conduct a BIM capability audit across tools, teams, and workflows', 'Train pro | search | 1.00 |
+| 2026-02-21 | search | 1.00 |
+| BIM PGD Prospectus | search | 0.90 |
+| no longer a nice-to-have | search | 1.00 |
+| 2026-02-23 | search | 1.00 |
+| Building information modeling (BIM) is an approach involving the generation and  | search | 1.00 |
+| tools, processes, technologies and contracts | search | 1.00 |
+| Building information modeling (BIM) is the holistic process of creating and mana | search | 1.00 |
+| Autodesk BIM 360 Project Management | search | 1.00 |
+| enables efficient collaboration, project tracking, and document management for c | search | 1.00 |

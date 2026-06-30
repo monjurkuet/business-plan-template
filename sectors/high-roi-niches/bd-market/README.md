@@ -2,8 +2,8 @@
 sector: high-roi-niches
 last_verified: 2026-06-30
 freshness: fresh
-confidence: 0.695
-evidence_ids: ['108aa7c8-aa7', '199f1826-a21']
+confidence: 0.741
+evidence_ids: ['5dbaf7a7-621', '59036f38-74f', 'ed2ebb6c-cef', 'bd17b164-b1e']
 ---
 
 # High-ROI Niches — Bangladesh Market
@@ -120,11 +120,15 @@ This sector captures high-growth, high-margin niche opportunities in Bangladesh.
 
 
 
+
 ## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ['cat food price', 'HIT LIFE cat food', "Candy's cat", 'pet food details', 'grai | search | 0.90 |
-| PetCareBangladesh | search | 0.90 |
-| MH Imran | search | 0.90 |
-| Managing Director | search | 0.90 |
+| 20 to 8000 | search | 0.95 |
+| small accessories, feeding bowls, leashes cost less; fish tanks, pet houses, gro | search | 0.95 |
+| 210.00 | search | 0.95 |
+| pet sitters | search | 0.95 |
+| Dhaka | search | 0.95 |
+| affordable prices | search | 0.90 |
+| Dhaka | search | 0.95 |

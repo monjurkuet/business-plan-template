@@ -2,8 +2,8 @@
 sector: electronics-gadgets
 last_verified: 2026-06-30
 freshness: fresh
-confidence: 0.738
-evidence_ids: ['25e95e77-855', '44c7f59c-9ca', 'b70aac34-645', '93ac5adc-9d7', '288a5f9f-b18', '2ed1bed7-c3e', 'aa9bdecb-eea']
+confidence: 0.735
+evidence_ids: ['6f42a5a7-18a', 'cd549a01-883', '898550a5-9fd']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -126,22 +126,13 @@ evidence_ids: ['25e95e77-855', '44c7f59c-9ca', 'b70aac34-645', '93ac5adc-9d7', '
 
 
 
+
 ## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| smartphones | search | 0.95 |
-| ['Samsung', 'Xiaomi', 'OnePlus', 'Vivo', 'HONOR', 'Infinix', 'Tecno'] | search | 0.95 |
-| official warranty | search | 0.95 |
-| competitive smartphone price in BD | search | 0.90 |
-| TV & home appliances | search | 0.95 |
-| latest prices in Bangladesh | search | 0.90 |
-| 53345 | search | 0.95 |
-| 16960 | search | 0.95 |
-| 5 | search | 0.95 |
-| ['TVs', 'fridges', 'ACs'] | search | 0.90 |
-| 14699-31899 | search | 0.95 |
-| Express Delivery | search | 0.90 |
-| official | search | 0.90 |
-| ['TVs', 'fridges', 'ACs'] | search | 0.90 |
-| ['fruits', 'vegetables', 'vehicles', 'electronics', 'crude oil', 'toys'] | search | 0.90 |
+| great prices and deals | search | 0.90 |
+| electronics | search | 1.00 |
+| great prices and deals | search | 0.80 |
+| electronics | search | 1.00 |
+| low prices and great deals | search | 0.80 |

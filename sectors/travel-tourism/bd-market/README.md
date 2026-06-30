@@ -2,8 +2,8 @@
 sector: travel-tourism
 last_verified: 2026-06-30
 freshness: fresh
-confidence: 0.735
-evidence_ids: ['5e554db5-4cd', '47db8525-47c', '06cc159b-bec', '4e03557d-87b']
+confidence: 0.695
+evidence_ids: ['ff6c5d45-458', '09ee4a12-8b4']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -102,13 +102,10 @@ evidence_ids: ['5e554db5-4cd', '47db8525-47c', '06cc159b-bec', '4e03557d-87b']
 
 
 
+
 ## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ['tourist visas', 'student visas', 'work visas', 'Umrah packages 2026', 'interna | search | 0.95 |
-| ['Dubai', 'Georgia', 'Armenia', 'Europe'] | search | 0.95 |
-| ['tour packages', 'air tickets', 'visa support'] | search | 0.95 |
-| affordable price | search | 0.80 |
-| Price caps | search | 0.90 |
-| Asia | search | 0.90 |
+| 150 | search | 0.90 |
+| price caps | search | 0.90 |

@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-06-30
 freshness: fresh
-confidence: 0.684
-evidence_ids: ['a4c3c0f5-d36', 'd6cdecf1-a16']
+confidence: 0.706
+evidence_ids: ['047ec153-4f7', 'cfa5a724-7b1']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -138,10 +138,13 @@ evidence_ids: ['a4c3c0f5-d36', 'd6cdecf1-a16']
 
 
 
+
 ## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| under 20 | search | 0.80 |
-| 88 | search | 0.90 |
-| 2026-06 | search | 0.80 |
+| 300 COTTON TERRY CLOTH CLEANING RAGS / SHOP TOWELS / 12X12- 25 DOZ. / WHOLESALE | search | 1.00 |
+| 3.5 | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| RD style women black dress warm size M Knitted | search | 1.00 |
+| 88 | search | 0.95 |

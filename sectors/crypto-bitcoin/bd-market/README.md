@@ -2,8 +2,8 @@
 sector: crypto-bitcoin
 last_verified: 2026-06-30
 freshness: fresh
-confidence: 0.741
-evidence_ids: ['c714255e-d13', '0f9e8443-0b8', '2dc83b83-d87', 'a915f43c-745', 'fd965c3e-559']
+confidence: 0.635
+evidence_ids: ['a78ee364-80f']
 ---
 
 # Crypto & Bitcoin — Bangladesh Market
@@ -119,14 +119,9 @@ evidence_ids: ['c714255e-d13', '0f9e8443-0b8', '2dc83b83-d87', 'a915f43c-745', '
 
 
 
+
 ## Auto-Updated Data (2026-06-30)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| A type of digital asset that uses distributed ledger, or blockchain, technology  | search | 0.95 |
-| 400+ | search | 0.90 |
-| crypto exchange | search | 0.95 |
-| 400+ | search | 0.90 |
-| ['Bitcoin', 'Ethereum', 'XRP', 'Solana'] | search | 0.95 |
-| digital asset that uses distributed ledger, or blockchain, technology to enable  | search | 0.95 |
-| current and historic data for Bitcoin and thousands of altcoins | search | 0.95 |
+| 1300000000 | search | 0.90 |
