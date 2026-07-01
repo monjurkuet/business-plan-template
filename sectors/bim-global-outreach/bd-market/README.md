@@ -1,9 +1,9 @@
 ---
 sector: bim-global-outreach
-last_verified: 2026-06-30
+last_verified: 2026-07-02
 freshness: fresh
-confidence: 0.748
-evidence_ids: ['358aeaf7-518', '56c8e1f5-418', '1356c5bd-ae8', 'f8a3724f-bb9', '4664f623-aee', '5d52f1cc-50e', '367241b1-c91']
+confidence: 0.749
+evidence_ids: ['5a30bd47-028', '89391fc7-205', '3221f2c8-b2f', '1e08dc8d-a13', 'c1920d80-d9c', 'cb16bfb5-246', '88a9136a-381', '75748621-d48']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -145,22 +145,23 @@ evidence_ids: ['358aeaf7-518', '56c8e1f5-418', '1356c5bd-ae8', 'f8a3724f-bb9', '
 
 
 
-## Auto-Updated Data (2026-06-30)
+
+## Auto-Updated Data (2026-07-02)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Bangladesh Institute of Management | search | 1.00 |
-| 1961 | search | 1.00 |
-| Act 54 of 2023 | search | 1.00 |
-| deemed professional public university | search | 1.00 |
-| ['executive education', 'mid-level management training', 'research', 'consultanc | search | 1.00 |
-| ['Conduct a BIM capability audit across tools, teams, and workflows', 'Train pro | search | 1.00 |
-| 2026-02-21 | search | 1.00 |
-| BIM PGD Prospectus | search | 0.90 |
-| no longer a nice-to-have | search | 1.00 |
-| 2026-02-23 | search | 1.00 |
-| Building information modeling (BIM) is an approach involving the generation and  | search | 1.00 |
-| tools, processes, technologies and contracts | search | 1.00 |
-| Building information modeling (BIM) is the holistic process of creating and mana | search | 1.00 |
-| Autodesk BIM 360 Project Management | search | 1.00 |
-| enables efficient collaboration, project tracking, and document management for c | search | 1.00 |
+| BIM outsourcing services | search | 1.00 |
+| ['Revit', 'Tekla'] | search | 1.00 |
+| 200–300 | search | 1.00 |
+| US architects and engineers | search | 1.00 |
+| BIM outsourcing services | search | 1.00 |
+| USA | search | 1.00 |
+| BIM outsourcing services | search | 1.00 |
+| California | search | 1.00 |
+| adapts to small renovations or large commercial builds | search | 1.00 |
+| Optimar Precon | search | 1.00 |
+| ['Structural BIM services', 'Architectural BIM services'] | search | 1.00 |
+| USA | search | 1.00 |
+| BIMHome Studio | search | 1.00 |
+| ['Precision & Accuracy to U.S. standards', 'Efficiency & Speed with advanced BIM | search | 1.00 |
+| BIM outsourcing services | search | 1.00 |

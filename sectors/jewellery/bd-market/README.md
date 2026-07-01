@@ -1,9 +1,9 @@
 ---
 sector: jewellery
-last_verified: 2026-06-30
+last_verified: 2026-07-02
 freshness: fresh
-confidence: 0.642
-evidence_ids: ['8e1492de-c33']
+confidence: 0.749
+evidence_ids: ['ec37fa72-4d7', 'c051d698-a92', 'f6ff2445-7ff', '232b82d7-02c']
 ---
 
 # Jewellery — Bangladesh Market
@@ -116,8 +116,19 @@ evidence_ids: ['8e1492de-c33']
 
 
 
-## Auto-Updated Data (2026-06-30)
+
+## Auto-Updated Data (2026-07-02)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 100% trade-in value for diamond jewelry purchased at KAY | search | 0.95 |
+| ['Pearl Necklace', 'Women Ornaments', 'Freshwater Pearl Jewelry', 'Pearl Necklac | search | 1.00 |
+| 2025-10-19 | search | 0.90 |
+| Bangladesh | search | 1.00 |
+| ['jewellery'] | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| ['pendant necklaces', 'statement necklaces', 'choker necklaces'] | search | 1.00 |
+| Red Gold | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| ['verified suppliers', 'purity check', 'secure shopping', 'AR try-on', 'lifetime | search | 1.00 |
+| Wedding Jewellery | search | 1.00 |
+| Bangladesh | search | 1.00 |

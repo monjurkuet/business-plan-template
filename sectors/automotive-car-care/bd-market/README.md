@@ -1,9 +1,9 @@
 ---
 sector: automotive-car-care
-last_verified: 2026-06-30
+last_verified: 2026-07-02
 freshness: fresh
-confidence: 0.74
-evidence_ids: ['09af6be7-0ea', 'c47ebdae-8f9', '56d914b9-69a', '503ff2a7-cba', '4ff1f382-6fa']
+confidence: 0.745
+evidence_ids: ['504b1491-b67', '404f5f66-d51', '83a68845-53a', 'f989c6c6-2a3', '9e1bed72-b81']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -154,18 +154,23 @@ evidence_ids: ['09af6be7-0ea', 'c47ebdae-8f9', '56d914b9-69a', '503ff2a7-cba', '
 
 
 
-## Auto-Updated Data (2026-06-30)
+
+## Auto-Updated Data (2026-07-02)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| varies by brand and condition | search | 0.90 |
-| Brand New & Recondition | search | 0.95 |
-| ['Toyota', 'Nissan', 'Honda'] | search | 0.95 |
-| brand new Cars price in Bangladesh | search | 0.95 |
-| specifications, installment details, down payment, availability | search | 0.90 |
-| best car prices in Bangladesh, used car price, BD recondition car price | search | 0.95 |
-| ['car loans', 'schedule viewings'] | search | 0.90 |
-| Dhaka | search | 0.95 |
-| Car Price in Bangladesh 2026 | search | 0.95 |
-| low price | search | 0.90 |
-| home delivery available | search | 0.95 |
+| Kärcher Bike & Car Wash Bangladesh event | search | 1.00 |
+| Savar, Dhaka | search | 1.00 |
+| Kärcher | search | 1.00 |
+| Germany | search | 1.00 |
+| car wash | search | 1.00 |
+| premium | search | 0.90 |
+| detailing and quality care | search | 0.90 |
+| $$ | search | 0.90 |
+| 94 | search | 0.95 |
+| 58 | search | 0.95 |
+| carpro.bangladesh@gmail.com | search | 1.00 |
+| carpro.com.bd | search | 1.00 |
+| 45/3, 2nd colony, Mazar road, Mirpur-1, Dhaka-1216, Dhaka, Bangladesh | search | 1.00 |
+| +880 1794-135901 | search | 1.00 |
+| tanvirhn50@gmail.com | search | 1.00 |

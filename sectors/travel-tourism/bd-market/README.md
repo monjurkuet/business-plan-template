@@ -1,9 +1,9 @@
 ---
 sector: travel-tourism
-last_verified: 2026-07-01
+last_verified: 2026-07-02
 freshness: fresh
-confidence: 0.65
-evidence_ids: ['bca90279-7f8']
+confidence: 0.748
+evidence_ids: ['30bf06e7-1ab', '94f8d3c9-71a', 'd0a6758f-e85']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -104,9 +104,13 @@ evidence_ids: ['bca90279-7f8']
 
 
 
-## Auto-Updated Data (2026-07-01)
+
+## Auto-Updated Data (2026-07-02)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 1.2 million | search | 1.00 |
-| 5000 | search | 1.00 |
+| 2017 | search | 1.00 |
+| IATA | search | 1.00 |
+| affordable prices, honest service, real support | search | 0.90 |
+| hajj and umrah packages, international tour packages, visa services, air ticket  | search | 1.00 |
+| Bangladesh's leading online travel agency. Book air tickets, hotels, tour packag | search | 1.00 |

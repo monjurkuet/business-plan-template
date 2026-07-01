@@ -1,6 +1,6 @@
 ---
 sector: travel-tourism
-last_verified: 2026-06-30
+last_verified: 2026-07-02
 freshness: fresh
 ---
 
@@ -111,6 +111,7 @@ Full-stack OTA: flights + hotels + buses. Volume play with discount-driven acqui
 
 
 
-## Recent Findings (2026-06-30)
 
-- **goroli.com** (conf: 0.74): ShareTrip is another populartravelagencyinBangladeshthat easily offers travelers tickets and other amenities at affordableprices. Thistravelagencywas started on April 1, 2014. It’s company was earlier
+## Recent Findings (2026-07-02)
+
+- **sharetrip.net** (conf: 0.75): Bangladesh's leading online travel agency. Book air tickets, hotels, tour packages & more without any hassle at the most affordable rates with ShareTrip.

@@ -1,9 +1,9 @@
 ---
 sector: clothing-fashion
-last_verified: 2026-07-01
+last_verified: 2026-07-02
 freshness: fresh
-confidence: 0.635
-evidence_ids: ['2dfe0c52-821']
+confidence: 0.743
+evidence_ids: ['9d987b06-c5d', '9433a20f-690', '0cb43c7f-fdd', '2d9942e7-744']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -140,8 +140,22 @@ evidence_ids: ['2dfe0c52-821']
 
 
 
-## Auto-Updated Data (2026-07-01)
+
+## Auto-Updated Data (2026-07-02)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
 | 88 | search | 0.90 |
+| Premium Summer T-shirt | search | 1.00 |
+| 299 | search | 1.00 |
+| 3 | search | 1.00 |
+| M, L, XL, XXL | search | 1.00 |
+| 2-3 Days | search | 1.00 |
+| All Over Bangladesh | search | 1.00 |
+| 01617823334 | search | 1.00 |
+| 2025-04-21 | search | 1.00 |
+| দেশের সকল ব্র্যান্ড এর ডিসকাউন্ট অফার | search | 1.00 |
+| 2026-02-02 | search | 1.00 |
+| affordable price | search | 0.90 |
+| affordable price | search | 0.90 |
+| exporter & wholesale company | search | 1.00 |

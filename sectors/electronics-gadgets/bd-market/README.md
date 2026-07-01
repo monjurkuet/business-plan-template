@@ -1,9 +1,9 @@
 ---
 sector: electronics-gadgets
-last_verified: 2026-07-01
+last_verified: 2026-07-02
 freshness: fresh
-confidence: 0.75
-evidence_ids: ['dfbcde4f-e58', '7dcaff0d-e94', 'b2ae6220-67c']
+confidence: 0.749
+evidence_ids: ['e9d47093-a63', '833a985c-0ff', '63cd6e34-f25', '4a4efa37-a9d']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -128,11 +128,23 @@ evidence_ids: ['dfbcde4f-e58', '7dcaff0d-e94', 'b2ae6220-67c']
 
 
 
-## Auto-Updated Data (2026-07-01)
+
+## Auto-Updated Data (2026-07-02)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| electronics | search | 1.00 |
-| electronics | search | 1.00 |
-| electronics | search | 1.00 |
-| 45575 Dulles Eastern Plz, Sterling, VA | search | 1.00 |
+| smartphones | search | 1.00 |
+| ['Samsung', 'Xiaomi', 'OnePlus', 'Vivo', 'HONOR', 'Infinix', 'Tecno'] | search | 1.00 |
+| 100% genuine with official warranty | search | 1.00 |
+| competitive | search | 0.90 |
+| TV & home appliances | search | 1.00 |
+| energy-efficient, convenient, durable | search | 1.00 |
+| 2026-04-06 | search | 1.00 |
+| Electronics Bangladesh | search | 1.00 |
+| 53345 | search | 1.00 |
+| 16960 | search | 1.00 |
+| 5 | search | 1.00 |
+| ['TVs', 'fridges', 'ACs'] | search | 1.00 |
+| 14699-31899 | search | 1.00 |
+| mobile phones | search | 1.00 |
+| Express Delivery | search | 1.00 |

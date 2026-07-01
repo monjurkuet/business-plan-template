@@ -1,9 +1,9 @@
 ---
 sector: media-marketing-digital
-last_verified: 2026-06-30
+last_verified: 2026-07-02
 freshness: fresh
-confidence: 0.749
-evidence_ids: ['06d0d46b-8bc', 'e4077989-42f', '72cf4236-762', '27e9ebf8-696']
+confidence: 0.705
+evidence_ids: ['125ede71-300', '914822d3-55f']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market
@@ -124,22 +124,15 @@ evidence_ids: ['06d0d46b-8bc', 'e4077989-42f', '72cf4236-762', '27e9ebf8-696']
 
 
 
-## Auto-Updated Data (2026-06-30)
+
+## Auto-Updated Data (2026-07-02)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| increase website Domain Authority (MOZ DA) and Ahrefs Domain Rating (DR) | search | 1.00 |
-| 30-40+ | search | 1.00 |
-| 50-70+ | search | 1.00 |
-| affordable | search | 0.90 |
-| Ramadan Special Offer | search | 1.00 |
-| Fresh & Premium Date Fruits | search | 1.00 |
-| 35 | search | 1.00 |
-| Limited Time Only | search | 1.00 |
-| +8801796263326 | search | 1.00 |
-| ['Search Engine Optimization (SEO)', 'Social Media Marketing (SMM)', 'Paid Ads P | search | 1.00 |
-| startup, SME, or established brand | search | 1.00 |
-| stipend | search | 1.00 |
-| ['Hands-on experience in sales and digital marketing', 'Opportunity to work with | search | 1.00 |
-| 2025-09-26 | search | 1.00 |
-| First applicants may get priority | search | 1.00 |
+| pricing_guide | search | 1.00 |
+| 2026 | search | 1.00 |
+| digital_marketing | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| pay_per_use | search | 0.90 |
+| bulk_sms_email_voice_marketing | search | 0.90 |
+| Bangladesh | search | 1.00 |

@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-07-01T12:14:20.827912+00:00",
+  "generated_at": "2026-07-01T18:30:43.165880+00:00",
   "models_used": [
-    "gemini-2.5-flash-lite",
-    "deepseek-ai/deepseek-v4-pro",
     "mistral/mistral-large-latest"
   ],
   "reviews": [
     {
-      "model": "gemini-2.5-flash-lite",
-      "error": "<urlopen error timed out>",
-      "gaps": [],
-      "recommendations": []
-    },
-    {
-      "model": "deepseek-ai/deepseek-v4-pro",
-      "error": "<urlopen error timed out>",
-      "gaps": [],
-      "recommendations": []
-    },
-    {
       "model": "mistral/mistral-large-latest",
-      "error": "<urlopen error timed out>",
+      "error": "timed out",
       "gaps": [],
       "recommendations": []
     }
@@ -288,7 +274,7 @@
       "sector": "automotive-car-care",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "File age 55d exceeds freshness threshold for competitor_core_profile",
+      "reason": "File age 56d exceeds freshness threshold for competitor_core_profile",
       "source_model": "freshness_policy"
     },
     {
@@ -296,7 +282,7 @@
       "sector": "automotive-car-care",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "File age 55d exceeds freshness threshold for competitor_core_profile",
+      "reason": "File age 56d exceeds freshness threshold for competitor_core_profile",
       "source_model": "freshness_policy"
     },
     {
@@ -336,7 +322,7 @@
       "sector": "clothing-fashion",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "File age 55d exceeds freshness threshold for competitor_core_profile",
+      "reason": "File age 56d exceeds freshness threshold for competitor_core_profile",
       "source_model": "freshness_policy"
     },
     {
@@ -344,7 +330,7 @@
       "sector": "clothing-fashion",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "File age 55d exceeds freshness threshold for competitor_core_profile",
+      "reason": "File age 56d exceeds freshness threshold for competitor_core_profile",
       "source_model": "freshness_policy"
     },
     {
@@ -352,7 +338,7 @@
       "sector": "crypto-bitcoin",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "File age 55d exceeds freshness threshold for competitor_core_profile",
+      "reason": "File age 56d exceeds freshness threshold for competitor_core_profile",
       "source_model": "freshness_policy"
     },
     {
@@ -360,7 +346,7 @@
       "sector": "crypto-bitcoin",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "File age 55d exceeds freshness threshold for competitor_core_profile",
+      "reason": "File age 56d exceeds freshness threshold for competitor_core_profile",
       "source_model": "freshness_policy"
     },
     {
@@ -384,7 +370,7 @@
       "sector": "electronics-gadgets",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "File age 55d exceeds freshness threshold for competitor_core_profile",
+      "reason": "File age 56d exceeds freshness threshold for competitor_core_profile",
       "source_model": "freshness_policy"
     },
     {
@@ -392,7 +378,7 @@
       "sector": "electronics-gadgets",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "File age 55d exceeds freshness threshold for competitor_core_profile",
+      "reason": "File age 56d exceeds freshness threshold for competitor_core_profile",
       "source_model": "freshness_policy"
     },
     {
@@ -416,7 +402,7 @@
       "sector": "high-roi-niches",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "File age 55d exceeds freshness threshold for competitor_core_profile",
+      "reason": "File age 56d exceeds freshness threshold for competitor_core_profile",
       "source_model": "freshness_policy"
     },
     {
@@ -424,7 +410,7 @@
       "sector": "high-roi-niches",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "File age 55d exceeds freshness threshold for competitor_core_profile",
+      "reason": "File age 56d exceeds freshness threshold for competitor_core_profile",
       "source_model": "freshness_policy"
     },
     {
@@ -448,7 +434,7 @@
       "sector": "jewellery",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "File age 55d exceeds freshness threshold for competitor_core_profile",
+      "reason": "File age 56d exceeds freshness threshold for competitor_core_profile",
       "source_model": "freshness_policy"
     },
     {
@@ -456,7 +442,7 @@
       "sector": "jewellery",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "File age 55d exceeds freshness threshold for competitor_core_profile",
+      "reason": "File age 56d exceeds freshness threshold for competitor_core_profile",
       "source_model": "freshness_policy"
     },
     {
@@ -480,7 +466,7 @@
       "sector": "media-marketing-digital",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "File age 55d exceeds freshness threshold for competitor_core_profile",
+      "reason": "File age 56d exceeds freshness threshold for competitor_core_profile",
       "source_model": "freshness_policy"
     },
     {
@@ -488,7 +474,7 @@
       "sector": "media-marketing-digital",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "File age 55d exceeds freshness threshold for competitor_core_profile",
+      "reason": "File age 56d exceeds freshness threshold for competitor_core_profile",
       "source_model": "freshness_policy"
     },
     {

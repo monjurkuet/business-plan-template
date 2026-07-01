@@ -1,12 +1,7 @@
 ---
-entity_type: competitor
 sector: bim-global-outreach
-entity_slug: bimex
-last_verified_at: 2026-06-25T12:00:00Z
-freshness_status: fresh
-confidence_score: 0.75
-primary_sources:
-  - research_all_20260625
+last_verified: 2026-07-02
+freshness: fresh
 ---
 
 # BIMEX Engineering
@@ -85,3 +80,8 @@ primary_sources:
 - Revit, Navisworks, AutoCAD, Tekla, BIM 360, SketchUp
 
 *Last updated: 2026-06-25*
+
+## Recent Findings (2026-07-02)
+
+- **www.bimhomestudio.com** (conf: 0.75): Key Benefits of Structural & ArchitecturalBIMServices.OutsourcingtoBIMexperts likeBIMHome Studio offers multiple advantages: Precision & Accuracy: Every detail is captured to U.S. standards. Efficienc
+

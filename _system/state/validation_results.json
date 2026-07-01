@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-01T12:14:20.950664+00:00",
+  "generated_at": "2026-07-01T18:30:43.321948+00:00",
   "summary": {
     "files_checked": 159,
-    "violations": 221,
+    "violations": 219,
     "warnings": 0
   },
   "violations": [
@@ -200,16 +200,6 @@
       "file": "sectors/bim-global-outreach/bd-market/competitors/bimelite.md",
       "type": "missing_field",
       "detail": "Missing required field: confidence"
-    },
-    {
-      "file": "sectors/bim-global-outreach/bd-market/competitors/bimex.md",
-      "type": "missing_field",
-      "detail": "Missing required field: last_verified"
-    },
-    {
-      "file": "sectors/bim-global-outreach/bd-market/competitors/bimex.md",
-      "type": "missing_field",
-      "detail": "Missing required field: freshness"
     },
     {
       "file": "sectors/bim-global-outreach/bd-market/competitors/bimex.md",
