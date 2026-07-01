@@ -2,8 +2,8 @@
 sector: media-marketing-digital
 last_verified: 2026-07-02
 freshness: fresh
-confidence: 0.705
-evidence_ids: ['125ede71-300', '914822d3-55f']
+confidence: 0.572
+evidence_ids: ['2c5d987e-312', 'b7da033e-a67', '9e256569-884', '14a50389-dbe', '6d1cf11f-0a9', 'a45548fa-6a3', '80e87c9b-9fa', 'ec26655a-b3c', '32f53a82-4ea', '19047f68-3a2', '3676b004-aa5', '42a3fbfe-228', 'c08a044f-19b', '0a567252-201', '09770d89-2cf', '06af2fd5-c45', 'c41ca61e-a60', 'a09c9cc9-bfb', '21b739e2-8cf', '6dd3791f-413']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market
@@ -125,14 +125,24 @@ evidence_ids: ['125ede71-300', '914822d3-55f']
 
 
 
+
+
 ## Auto-Updated Data (2026-07-02)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| pricing_guide | search | 1.00 |
-| 2026 | search | 1.00 |
-| digital_marketing | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| pay_per_use | search | 0.90 |
-| bulk_sms_email_voice_marketing | search | 0.90 |
-| Bangladesh | search | 1.00 |
+| payment per use | search | 0.90 |
+| pay only for what you use | search | 0.95 |
+| 2026 | search | 0.95 |
+| price guide | search | 0.90 |
+| digital marketing companies | search | 0.95 |
+| verified reviews, hourly rates, portfolios | search | 0.90 |
+| eCommerce marketing, conversion optimization, advertising | search | 0.95 |
+| timely delivery, effective project management, ability to boost sales and conver | search | 0.90 |
+| increase website's Domain Authority (MOZ DA) | search | 0.95 |
+| 30+ to 70+ | search | 0.95 |
+| 30 to 70+ | search | 0.95 |
+| 30+ | search | 0.95 |
+| affordable | search | 0.90 |
+| LinkedIn Sales Navigator Premium access | search | 0.95 |
+| Up to 999 fresh seats available daily | search | 0.95 |

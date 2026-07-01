@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-07-02
 freshness: fresh
-confidence: 0.743
-evidence_ids: ['9d987b06-c5d', '9433a20f-690', '0cb43c7f-fdd', '2d9942e7-744']
+confidence: 0.574
+evidence_ids: ['8a86f522-4ed', '8d1e9f27-c8c', 'e9cc58ee-7d6', '19301279-d33', '29a892cb-d4f', 'd272cc2b-90d', '959012f9-1db', '290fc606-768', '0dcfd013-822', 'af770191-40a', '95c753b5-12c', 'ecee1616-b1b', '5cbcdc94-aee', 'e18dd2cc-38b', '866d3aa7-40d', '0ab08421-094', '3f7d55ba-194', '9fa40da7-6bd', '27d47436-fea', 'ff6c7059-fd4']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -141,21 +141,24 @@ evidence_ids: ['9d987b06-c5d', '9433a20f-690', '0cb43c7f-fdd', '2d9942e7-744']
 
 
 
+
+
 ## Auto-Updated Data (2026-07-02)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
+| Baggy Pants | search | 1.00 |
+| affordable | search | 0.90 |
+| boys, youth | search | 1.00 |
+| all over Bangladesh | search | 1.00 |
+| online clothing shop | search | 1.00 |
+| two-piece dresses | search | 0.90 |
+| Bangladesh | search | 1.00 |
+| affordable | search | 0.80 |
+| T-shirt manufacturer | search | 1.00 |
+| trusted and reliable clothing manufacturer in Bangladesh | search | 1.00 |
+| best factory prices | search | 0.90 |
+| highest-quality custom apparel | search | 0.90 |
 | 88 | search | 0.90 |
-| Premium Summer T-shirt | search | 1.00 |
-| 299 | search | 1.00 |
-| 3 | search | 1.00 |
-| M, L, XL, XXL | search | 1.00 |
-| 2-3 Days | search | 1.00 |
-| All Over Bangladesh | search | 1.00 |
-| 01617823334 | search | 1.00 |
-| 2025-04-21 | search | 1.00 |
-| দেশের সকল ব্র্যান্ড এর ডিসকাউন্ট অফার | search | 1.00 |
-| 2026-02-02 | search | 1.00 |
-| affordable price | search | 0.90 |
-| affordable price | search | 0.90 |
-| exporter & wholesale company | search | 1.00 |
+| cotton | search | 1.00 |
+| fell over the past month | search | 0.90 |

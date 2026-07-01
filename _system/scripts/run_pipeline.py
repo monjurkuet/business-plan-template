@@ -40,6 +40,20 @@ def run_script(name: str, dry_run: bool = False) -> bool:
     log.info(f"Running: {name}")
     log.info(f"{'='*60}")
     
+    # Load cron.env into subprocess environment so scripts see pipeline config
+    import os as _os
+    cron_env = {}
+    cron_env_path = REPO_ROOT / "_system" / "config" / "cron.env"
+    if cron_env_path.exists():
+        for raw in cron_env_path.read_text().splitlines():
+            line = raw.strip()
+            if not line or line.startswith("#") or "=" not in line:
+                continue
+            key, val = line.split("=", 1)
+            cron_env[key.strip()] = val.strip().strip('"').strip("'")
+    
+    env = {**_os.environ, **cron_env}
+    
     try:
         result = subprocess.run(
             [sys.executable, str(script_path)],
@@ -47,6 +61,7 @@ def run_script(name: str, dry_run: bool = False) -> bool:
             text=True,
             timeout=900,
             cwd=str(REPO_ROOT),
+            env=env,
         )
         if result.stdout:
             log.info(result.stdout[-2000:])  # Last 2000 chars

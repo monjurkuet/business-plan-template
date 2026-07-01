@@ -1,17 +1,206 @@
 {
-  "generated_at": "2026-07-01T18:30:43.165880+00:00",
+  "generated_at": "2026-07-01T21:27:26.813304+00:00",
   "models_used": [
+    "gemini-2.5-flash-lite",
+    "deepseek-ai/deepseek-v4-pro",
     "mistral/mistral-large-latest"
   ],
   "reviews": [
     {
+      "repo_critical_issues": [
+        {
+          "issue": "Multiple sectors have pricing, policy, and sentiment data exceeding the 56-day freshness threshold. This indicates a lack of regular updates for critical market intelligence.",
+          "severity": "high",
+          "affected_sectors": [
+            "automotive-car-care",
+            "clothing-fashion",
+            "crypto-bitcoin",
+            "electronics-gadgets",
+            "high-roi-niches",
+            "jewellery",
+            "media-marketing-digital"
+          ]
+        },
+        {
+          "issue": "The 'bim-global-outreach' sector is missing a required 'seasonality' file, indicating a significant gap in understanding market dynamics for this sector.",
+          "severity": "high",
+          "affected_sectors": [
+            "bim-global-outreach"
+          ]
+        },
+        {
+          "issue": "The 'crypto-bitcoin' sector references stale year data (2023, 2024) in its default file, suggesting outdated information and a potential lack of current market analysis.",
+          "severity": "medium",
+          "affected_sectors": [
+            "crypto-bitcoin"
+          ]
+        },
+        {
+          "issue": "A low number of 'high confidence' facts (0) extracted from 'Latest Evidence' suggests potential issues with the quality or depth of the research data, or the extraction process itself.",
+          "severity": "medium",
+          "affected_sectors": []
+        }
+      ],
+      "sector_priorities": [
+        {
+          "sector": "crypto-bitcoin",
+          "priority": 10,
+          "reason": "High freshness issues across pricing, policy, and sentiment, coupled with stale year references, demand immediate attention. This sector is also highly dynamic and requires up-to-date information."
+        },
+        {
+          "sector": "automotive-car-care",
+          "priority": 9,
+          "reason": "Critical freshness issues in pricing, policy, and sentiment data. The automotive sector is a significant part of the economy and requires current insights."
+        },
+        {
+          "sector": "clothing-fashion",
+          "priority": 9,
+          "reason": "Similar to automotive, critical freshness issues in pricing, policy, and sentiment. Fashion is a fast-moving consumer goods sector where timeliness is crucial."
+        },
+        {
+          "sector": "electronics-gadgets",
+          "priority": 8,
+          "reason": "High freshness issues in pricing, policy, and sentiment. The electronics market is rapidly evolving, making up-to-date data essential."
+        },
+        {
+          "sector": "media-marketing-digital",
+          "priority": 8,
+          "reason": "Critical freshness issues in pricing, policy, and sentiment. The digital marketing landscape changes rapidly, necessitating current data."
+        },
+        {
+          "sector": "jewellery",
+          "priority": 7,
+          "reason": "High freshness issues in pricing, policy, and sentiment. While potentially less volatile than tech or fashion, current pricing and policy are still important."
+        },
+        {
+          "sector": "high-roi-niches",
+          "priority": 7,
+          "reason": "High freshness issues in pricing, policy, and sentiment. The 'high ROI' nature implies a need for current data to identify and capitalize on opportunities."
+        },
+        {
+          "sector": "bim-global-outreach",
+          "priority": 6,
+          "reason": "Missing a critical 'seasonality' file. This is a fundamental gap that needs to be addressed to understand market dynamics."
+        }
+      ],
+      "search_hypotheses": [
+        {
+          "sector": "crypto-bitcoin",
+          "hypothesis": "The 'crypto-bitcoin' sector's stale year references and outdated data suggest a manual update process that is not keeping pace with market changes. There may be a lack of automated data ingestion or a backlog of manual research.",
+          "suggested_queries": [
+            "Bangladesh crypto regulations 2025",
+            "Bangladesh Bitcoin market trends 2025",
+            "Latest crypto exchange news Bangladesh",
+            "Central Bank of Bangladesh digital currency stance",
+            "Peer-to-peer Bitcoin trading volume Bangladesh"
+          ],
+          "confidence": 0.9
+        },
+        {
+          "sector": "automotive-car-care",
+          "hypothesis": "The consistent 56-day freshness issue across multiple data types (pricing, policy, sentiment) for 'automotive-car-care' indicates a systemic problem with data collection or update frequency for this sector. This could be due to reliance on specific data sources that are updated infrequently or a lack of dedicated resources for this sector.",
+          "suggested_queries": [
+            "Bangladesh automotive repair market size 2025",
+            "New car sales trends Bangladesh 2025",
+            "Used car market regulations Bangladesh",
+            "Automotive parts import duties Bangladesh",
+            "Electric vehicle adoption Bangladesh"
+          ],
+          "confidence": 0.85
+        },
+        {
+          "sector": "clothing-fashion",
+          "hypothesis": "The 'clothing-fashion' sector's data freshness issues point to a challenge in tracking rapidly changing consumer preferences, pricing, and policy updates in a dynamic market. This could be exacerbated by the informal nature of some market segments.",
+          "suggested_queries": [
+            "Bangladesh apparel export trends 2025",
+            "Local fashion brand market share Bangladesh",
+            "Online clothing retail Bangladesh growth",
+            "Textile import regulations Bangladesh",
+            "Consumer spending on fashion Bangladesh"
+          ],
+          "confidence": 0.8
+        },
+        {
+          "sector": "bim-global-outreach",
+          "hypothesis": "The missing 'seasonality' file in 'bim-global-outreach' suggests a potential oversight in the initial repository setup or a gap in understanding the importance of seasonal market fluctuations for this sector. Research efforts should focus on identifying and quantifying these seasonal impacts.",
+          "suggested_queries": [
+            "Seasonal demand for [specific BIM service/product] in Bangladesh",
+            "Impact of monsoon season on construction projects Bangladesh",
+            "Bangladesh construction industry seasonality",
+            "Global BIM adoption trends by region",
+            "Bangladesh infrastructure development projects timeline"
+          ],
+          "confidence": 0.75
+        }
+      ],
+      "high_value_missing_angles": [
+        "Detailed competitor financial analysis with sourced data (not just estimates) across all sectors.",
+        "Up-to-date regulatory information for 2025-2026, including specific government circulars and references, for all sectors.",
+        "Comprehensive pricing data in BDT for all sectors, including breakdowns by product/service type and volume.",
+        "Verification and functional status of Facebook handles for all listed competitors.",
+        "Identification and analysis of cross-sector trends and their impact on individual sectors (e.g., how digital marketing trends affect electronics sales).",
+        "Analysis of government incentives, subsidies, and policy shifts impacting key sectors.",
+        "Detailed risk assessments for each sector, including mitigation strategies.",
+        "Go-to-market strategies tailored to specific Bangladeshi market segments and consumer behaviors."
+      ],
+      "recommended_actions": [
+        {
+          "action": "Implement an automated data freshness monitoring system with alerts for files exceeding defined thresholds (e.g., 30 days for pricing/policy, 90 days for landscape reports).",
+          "priority": "P0",
+          "effort": "medium"
+        },
+        {
+          "action": "Prioritize updating pricing, policy, and sentiment data for 'crypto-bitcoin', 'automotive-car-care', 'clothing-fashion', 'electronics-gadgets', and 'media-marketing-digital' sectors immediately.",
+          "priority": "P0",
+          "effort": "high"
+        },
+        {
+          "action": "Create and populate the missing 'seasonality' file for the 'bim-global-outreach' sector.",
+          "priority": "P1",
+          "effort": "medium"
+        },
+        {
+          "action": "Conduct a thorough review of the 'crypto-bitcoin' sector data to replace stale year references and ensure all information is current.",
+          "priority": "P1",
+          "effort": "medium"
+        },
+        {
+          "action": "Develop a standardized process for verifying competitor financial data sources and clearly indicating when data is estimated versus sourced.",
+          "priority": "P1",
+          "effort": "medium"
+        },
+        {
+          "action": "Establish a dedicated research stream for monitoring and updating regulatory information (2025-2026) for all key sectors, including tracking government circulars.",
+          "priority": "P1",
+          "effort": "high"
+        },
+        {
+          "action": "Initiate a data quality audit focusing on the 'Latest Evidence' extraction process to understand the low 'high confidence' fact count and improve data reliability.",
+          "priority": "P2",
+          "effort": "medium"
+        },
+        {
+          "action": "Systematically verify and update Facebook handles for all competitors, ensuring they are functional and relevant.",
+          "priority": "P2",
+          "effort": "low"
+        }
+      ],
+      "model": "gemini-2.5-flash-lite"
+    },
+    {
+      "model": "deepseek-ai/deepseek-v4-pro",
+      "error": "The read operation timed out",
+      "gaps": [],
+      "recommendations": []
+    },
+    {
       "model": "mistral/mistral-large-latest",
-      "error": "timed out",
+      "error": "The read operation timed out",
       "gaps": [],
       "recommendations": []
     }
   ],
-  "total_queries": 60,
+  "total_queries": 50,
   "queries": [
     {
       "query": "\"car wash Bangladesh\" price Bangladesh",
@@ -214,46 +403,6 @@
       "source_model": "freshness_policy"
     },
     {
-      "query": "\"electronics Bangladesh\" policy Bangladesh 2026",
-      "sector": "electronics-gadgets",
-      "family": "policy_tracker",
-      "priority": "P0",
-      "reason": "File age 56d exceeds freshness threshold for policy",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"electronics Bangladesh\" review Bangladesh",
-      "sector": "electronics-gadgets",
-      "family": "sentiment",
-      "priority": "P0",
-      "reason": "File age 56d exceeds freshness threshold for sentiment",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "site:facebook.com \"electronics Bangladesh\" reviews",
-      "sector": "electronics-gadgets",
-      "family": "sentiment",
-      "priority": "P0",
-      "reason": "File age 56d exceeds freshness threshold for sentiment",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"pet care Bangladesh\" price Bangladesh",
-      "sector": "high-roi-niches",
-      "family": "pricing",
-      "priority": "P0",
-      "reason": "File age 56d exceeds freshness threshold for pricing",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "site:facebook.com \"pet care Bangladesh\" offer price",
-      "sector": "high-roi-niches",
-      "family": "pricing",
-      "priority": "P0",
-      "reason": "File age 56d exceeds freshness threshold for pricing",
-      "source_model": "freshness_policy"
-    },
-    {
       "query": "\"car wash Bangladesh\" Bangladesh top companies",
       "sector": "automotive-car-care",
       "family": "competitor_discovery",
@@ -290,7 +439,7 @@
       "sector": "bim-global-outreach",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "Contains stale year references: 2023, 2024",
+      "reason": "Contains stale year references: 2024",
       "source_model": "freshness_policy"
     },
     {
@@ -298,7 +447,7 @@
       "sector": "bim-global-outreach",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "Contains stale year references: 2023, 2024",
+      "reason": "Contains stale year references: 2024",
       "source_model": "freshness_policy"
     },
     {
@@ -448,46 +597,6 @@
     {
       "query": "\"digital marketing Bangladesh\" Bangladesh top companies",
       "sector": "media-marketing-digital",
-      "family": "competitor_discovery",
-      "priority": "P1",
-      "reason": "Contains stale year references: 2023, 2024",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"digital marketing Bangladesh\" Dhaka Facebook",
-      "sector": "media-marketing-digital",
-      "family": "competitor_discovery",
-      "priority": "P1",
-      "reason": "Contains stale year references: 2023, 2024",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"digital marketing Bangladesh\" Bangladesh top companies",
-      "sector": "media-marketing-digital",
-      "family": "competitor_discovery",
-      "priority": "P1",
-      "reason": "File age 56d exceeds freshness threshold for competitor_core_profile",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"digital marketing Bangladesh\" Dhaka Facebook",
-      "sector": "media-marketing-digital",
-      "family": "competitor_discovery",
-      "priority": "P1",
-      "reason": "File age 56d exceeds freshness threshold for competitor_core_profile",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"travel agency Bangladesh\" Bangladesh top companies",
-      "sector": "travel-tourism",
-      "family": "competitor_discovery",
-      "priority": "P1",
-      "reason": "Contains stale year references: 2023, 2024",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"travel agency Bangladesh\" Dhaka Facebook",
-      "sector": "travel-tourism",
       "family": "competitor_discovery",
       "priority": "P1",
       "reason": "Contains stale year references: 2023, 2024",

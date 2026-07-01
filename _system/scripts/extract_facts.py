@@ -33,8 +33,10 @@ def _call_llm_json_with_fallback(messages: list[dict], model: str, temperature: 
         except Exception as ex:
             last_ex = ex
             msg = str(ex)
-            if "404" not in msg and "308" not in msg:
+            # Only bail immediately on unrecoverable errors (401, 403)
+            if "401" in msg or "403" in msg:
                 raise
+            # All other errors (timeout, 500, 404, 429, 502, 503) → try next model
             log.warning(f"Model {candidate} returned error ({type(ex).__name__}); trying next fallback")
     if last_ex:
         raise last_ex
@@ -44,7 +46,7 @@ log = logging.getLogger("extract_facts")
 
 # Limit per run to control costs
 MAX_EVIDENCE_PER_RUN = int(os.environ.get("MAX_EVIDENCE_PER_RUN", "80"))
-BATCH_SIZE = 10  # Process evidence in batches to reduce API calls
+BATCH_SIZE = 5  # Process evidence in batches to reduce API calls (smaller batch = faster, less timeout risk)
 
 
 def build_extraction_prompt(evidence_batch: list[dict]) -> str:

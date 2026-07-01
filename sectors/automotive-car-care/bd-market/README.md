@@ -2,8 +2,8 @@
 sector: automotive-car-care
 last_verified: 2026-07-02
 freshness: fresh
-confidence: 0.745
-evidence_ids: ['504b1491-b67', '404f5f66-d51', '83a68845-53a', 'f989c6c6-2a3', '9e1bed72-b81']
+confidence: 0.553
+evidence_ids: ['770dcc36-a43', 'ac7c1cc7-9c6', 'c8fc8052-134', '1e647353-515', '62a633b6-2a6', '54de9138-3dc', '429c650a-4fb', '097a77d2-be3', '859480db-c20', 'c75c4f05-f54', 'c31c7088-ae0', 'ba39a0ec-3fc', '7f6b35e4-b4e', '7fad516e-1c9', '7d850c27-e0e', '6704cd4b-8ef', '529e60c2-694', '6af2744b-081', 'f1d72636-82c', '05cd9098-912']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -155,22 +155,15 @@ evidence_ids: ['504b1491-b67', '404f5f66-d51', '83a68845-53a', 'f989c6c6-2a3', '
 
 
 
+
+
 ## Auto-Updated Data (2026-07-02)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Kärcher Bike & Car Wash Bangladesh event | search | 1.00 |
-| Savar, Dhaka | search | 1.00 |
-| Kärcher | search | 1.00 |
-| Germany | search | 1.00 |
-| car wash | search | 1.00 |
-| premium | search | 0.90 |
-| detailing and quality care | search | 0.90 |
-| $$ | search | 0.90 |
-| 94 | search | 0.95 |
-| 58 | search | 0.95 |
-| carpro.bangladesh@gmail.com | search | 1.00 |
-| carpro.com.bd | search | 1.00 |
-| 45/3, 2nd colony, Mazar road, Mirpur-1, Dhaka-1216, Dhaka, Bangladesh | search | 1.00 |
-| +880 1794-135901 | search | 1.00 |
-| tanvirhn50@gmail.com | search | 1.00 |
+| Free Bike & Car Wash with Kärcher Machines | search | 0.95 |
+| Savar, Dhaka | search | 0.95 |
+| Germany | search | 0.95 |
+| Kärcher | search | 0.95 |
+| CarWashBD | search | 0.95 |
+| best car wash services | search | 0.90 |

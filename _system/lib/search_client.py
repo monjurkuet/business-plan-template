@@ -59,6 +59,7 @@ def _search(endpoint: str, query: str, max_results: int, region: str, **kwargs) 
     """Core search function. Only query-relevant kwargs are forwarded to the API."""
     # Extract timeout from kwargs (used for HTTP timeout) — don't pass to URL params
     http_timeout = kwargs.pop("timeout", 30)
+    retries = kwargs.pop("retries", 2)
     
     params = {
         "query": query,
@@ -71,20 +72,37 @@ def _search(endpoint: str, query: str, max_results: int, region: str, **kwargs) 
     
     log.info(f"Searching: {query!r} ({endpoint})")
     
-    try:
-        req = urllib.request.Request(url, headers={"User-Agent": "business-plan-research/1.0"})
-        with urllib.request.urlopen(req, timeout=http_timeout) as resp:
-            data = json.loads(resp.read().decode())
-        
-        results = data if isinstance(data, list) else data.get("results", data.get("data", []))
-        log.info(f"  → {len(results)} results")
-        return results
-    except urllib.error.HTTPError as e:
-        log.warning(f"  → HTTP {e.code}: {e.reason}")
-        return []
-    except Exception as e:
-        log.warning(f"  → Error: {e}")
-        return []
+    last_ex = None
+    for attempt in range(1, retries + 2):  # 1 initial + retries
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": "business-plan-research/1.0"})
+            with urllib.request.urlopen(req, timeout=http_timeout) as resp:
+                data = json.loads(resp.read().decode())
+            
+            results = data if isinstance(data, list) else data.get("results", data.get("data", []))
+            log.info(f"  → {len(results)} results")
+            return results
+        except urllib.error.HTTPError as e:
+            if e.code == 500 and attempt <= retries:
+                backoff = 2.0 * attempt
+                log.warning(f"  → HTTP 500: {e.reason} | retrying in {backoff:.1f}s (attempt {attempt}/{retries+1})")
+                time.sleep(backoff)
+                last_ex = e
+                continue
+            log.warning(f"  → HTTP {e.code}: {e.reason}")
+            return []
+        except Exception as e:
+            if attempt <= retries:
+                backoff = 1.5 * attempt
+                log.warning(f"  → Error: {e} | retrying in {backoff:.1f}s (attempt {attempt}/{retries+1})")
+                time.sleep(backoff)
+                last_ex = e
+                continue
+            log.warning(f"  → Error: {e}")
+            return []
+    
+    log.warning(f"  → All retries exhausted for {query[:60]!r}")
+    return []
 
 
 def batch_search(queries: list[str], endpoint: str = "text", max_results: int = 10,

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T18:26:14.252288+00:00",
+  "generated_at": "2026-07-01T21:17:55.610176+00:00",
   "total_files": 400,
   "sectors_audited": 9,
   "all_missing_files": [
@@ -8,7 +8,6 @@
   "all_stale_references": [
     "automotive-car-care: 2023",
     "automotive-car-care: 2024",
-    "bim-global-outreach: 2023",
     "bim-global-outreach: 2024",
     "clothing-fashion: 2023",
     "clothing-fashion: 2024",
@@ -67,7 +66,6 @@
         "seasonality.md"
       ],
       "stale_references": [
-        "2023",
         "2024"
       ],
       "frontmatter_missing": [],

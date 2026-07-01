@@ -2,8 +2,8 @@
 sector: travel-tourism
 last_verified: 2026-07-02
 freshness: fresh
-confidence: 0.748
-evidence_ids: ['30bf06e7-1ab', '94f8d3c9-71a', 'd0a6758f-e85']
+confidence: 0.558
+evidence_ids: ['9e728186-892', '8c7899f9-542', '91bb6582-028', 'cfeb1203-2e9', '4258746d-1b4', '63f2f63e-fd6', '69f0243e-73f', 'abb1df4a-a55', '0f7ceb10-75b', '702c2f2a-7f9', '5f4a8b5e-777', 'fd738c83-0e7', '6f9de7b0-560', '0aaf1942-29a', '02af1352-332', '789ae021-51e', '9f5b6faf-eb7', '75afa36b-ae5', 'edd9d836-e83', '91f65dd0-e1b']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -105,12 +105,16 @@ evidence_ids: ['30bf06e7-1ab', '94f8d3c9-71a', 'd0a6758f-e85']
 
 
 
+
+
 ## Auto-Updated Data (2026-07-02)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 2017 | search | 1.00 |
-| IATA | search | 1.00 |
-| affordable prices, honest service, real support | search | 0.90 |
-| hajj and umrah packages, international tour packages, visa services, air ticket  | search | 1.00 |
-| Bangladesh's leading online travel agency. Book air tickets, hotels, tour packag | search | 1.00 |
+| affordable tour packages, air tickets, and visa support | search | 0.90 |
+| affordable | search | 0.80 |
+| affordable | search | 0.90 |
+| 2026-06-13 | search | 0.90 |
+| Dhaka District, Dhaka | search | 0.95 |
+| 2020 | search | 0.90 |
+| ['Hajj packages', 'Umrah packages', 'visa services', 'flight bookings', 'passpor | search | 0.95 |

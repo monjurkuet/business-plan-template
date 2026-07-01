@@ -166,6 +166,9 @@ def main():
     log.info(f"Scoring {len(evidence)} evidence items from: {latest}")
 
     source_weights = get_source_weights()
+    # Unwrap top-level key if YAML has 'source_weights' envelope
+    if "source_weights" in source_weights and isinstance(source_weights["source_weights"], dict):
+        source_weights = source_weights["source_weights"]
     scoring_rules = get_scoring_rules()
     freshness_policy = get_freshness_policy()
 

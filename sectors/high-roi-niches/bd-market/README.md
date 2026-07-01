@@ -1,9 +1,9 @@
 ---
 sector: high-roi-niches
-last_verified: 2026-06-30
+last_verified: 2026-07-02
 freshness: fresh
-confidence: 0.741
-evidence_ids: ['5dbaf7a7-621', '59036f38-74f', 'ed2ebb6c-cef', 'bd17b164-b1e']
+confidence: 0.581
+evidence_ids: ['e7308f16-57b', 'e070fa6e-195', '93977fac-101', 'b454409f-d5a', '4daf3d6c-25d', '8c962aa0-2cc', '6674c481-bc4', 'bee61e7a-2d9', '7afd1473-666', '161228cc-27b', '3261555d-f47', '3c33ab60-22f', '98348e33-4bd', '66d5f75b-d0b', '81d035e4-ed4', 'b6015732-0e8', '6b485457-147', '940ecacd-7cc', '86e9cbae-141', '4d97a68c-815']
 ---
 
 # High-ROI Niches — Bangladesh Market
@@ -121,14 +121,24 @@ This sector captures high-growth, high-margin niche opportunities in Bangladesh.
 
 
 
-## Auto-Updated Data (2026-06-30)
+
+
+## Auto-Updated Data (2026-07-02)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 20 to 8000 | search | 0.95 |
-| small accessories, feeding bowls, leashes cost less; fish tanks, pet houses, gro | search | 0.95 |
-| 210.00 | search | 0.95 |
-| pet sitters | search | 0.95 |
-| Dhaka | search | 0.95 |
-| affordable prices | search | 0.90 |
-| Dhaka | search | 0.95 |
+| HIT LIFE cat food | search | 0.90 |
+| grain-free cat food | search | 0.90 |
+| cat food price, pet care Bangladesh, cat adoption cost | search | 0.95 |
+| PetZone BD | search | 0.95 |
+| petzonebd.com | search | 0.95 |
+| Pampered Paws Bangladesh | search | 0.90 |
+| PetCare Bangladesh | search | 1.00 |
+| 34 | search | 0.90 |
+| Buy, Sell, Care | search | 0.90 |
+| It is the ultimate platform for Bangladeshi pet lovers! We provide a trusted spa | search | 1.00 |
+| Buy and sell pets, access expert pet care advice, shop for pet supplies, connect | search | 0.95 |
+| Precise Petcare | search | 1.00 |
+| Dhaka | search | 1.00 |
+| 310 | search | 0.90 |
+| 2 | search | 0.90 |

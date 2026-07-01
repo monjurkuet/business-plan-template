@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-07-02
 freshness: fresh
-confidence: 0.749
-evidence_ids: ['5a30bd47-028', '89391fc7-205', '3221f2c8-b2f', '1e08dc8d-a13', 'c1920d80-d9c', 'cb16bfb5-246', '88a9136a-381', '75748621-d48']
+confidence: 0.569
+evidence_ids: ['be18541d-a27', 'eda6e618-c78', 'f5a448c0-09b', '139896f6-31a', '2e8bf6f9-c7f', 'df10b79f-42b', '4b720f1f-056', 'f60d31a7-b1a', '3161b740-e59', '4c1058c2-c0a', 'fb0d60ba-5f1', '2f71ceb0-490', '42d2b424-a3e', 'dbd46de3-e0e', 'bc40951b-da5', '67d51a6d-254', 'd0bee9be-991', 'b092d394-fa1', '3e3c3fe2-cfc', '3b7db210-41b']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -146,22 +146,24 @@ evidence_ids: ['5a30bd47-028', '89391fc7-205', '3221f2c8-b2f', '1e08dc8d-a13', '
 
 
 
+
+
 ## Auto-Updated Data (2026-07-02)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| BIM outsourcing services | search | 1.00 |
-| ['Revit', 'Tekla'] | search | 1.00 |
-| 200–300 | search | 1.00 |
-| US architects and engineers | search | 1.00 |
-| BIM outsourcing services | search | 1.00 |
-| USA | search | 1.00 |
-| BIM outsourcing services | search | 1.00 |
-| California | search | 1.00 |
-| adapts to small renovations or large commercial builds | search | 1.00 |
-| Optimar Precon | search | 1.00 |
-| ['Structural BIM services', 'Architectural BIM services'] | search | 1.00 |
-| USA | search | 1.00 |
-| BIMHome Studio | search | 1.00 |
-| ['Precision & Accuracy to U.S. standards', 'Efficiency & Speed with advanced BIM | search | 1.00 |
-| BIM outsourcing services | search | 1.00 |
+| Eid | search | 1.00 |
+| boosts the national economy | search | 0.90 |
+| apparel sales | search | 1.00 |
+| ['social media influencers', 'digital retail'] | search | 0.95 |
+| ['online', 'offline'] | search | 0.90 |
+| Eid al-Adha | search | 1.00 |
+| sale of albino buffalo nicknamed 'Donald Trump' | search | 1.00 |
+| 2026-05-23 | search | 0.90 |
+| ahead of last year’s pace | search | 0.90 |
+| three to six maunds | search | 0.95 |
+| medium-sized cows | search | 0.95 |
+| Eid Cattle Market Bangladesh 2026 | search | 0.95 |
+| 2026-05-22 | search | 0.90 |
+| ['Pabna', 'Sirajganj'] | search | 0.95 |
+| growing | search | 0.90 |

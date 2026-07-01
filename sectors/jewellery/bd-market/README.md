@@ -2,8 +2,8 @@
 sector: jewellery
 last_verified: 2026-07-02
 freshness: fresh
-confidence: 0.749
-evidence_ids: ['ec37fa72-4d7', 'c051d698-a92', 'f6ff2445-7ff', '232b82d7-02c']
+confidence: 0.58
+evidence_ids: ['35c9e302-896', 'de9b0a08-9a9', '6a76de83-d18', 'ff812977-1aa', 'f740fa4f-128', '89c293d5-08e', 'e6f882c8-695', 'f0615010-121', '30629600-73c', 'bc6c2466-96b', '3e33ded8-05e', 'd20eceb4-631', '22b0ad6f-ea7', '861fda78-033', 'e96082ea-2c2', 'c6773046-5d4', 'c7aebbf0-6f2', '7481c8ba-698', '28828c21-c55', '0b3ff718-7ef']
 ---
 
 # Jewellery — Bangladesh Market
@@ -117,18 +117,24 @@ evidence_ids: ['ec37fa72-4d7', 'c051d698-a92', 'f6ff2445-7ff', '232b82d7-02c']
 
 
 
+
+
 ## Auto-Updated Data (2026-07-02)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ['Pearl Necklace', 'Women Ornaments', 'Freshwater Pearl Jewelry', 'Pearl Necklac | search | 1.00 |
-| 2025-10-19 | search | 0.90 |
-| Bangladesh | search | 1.00 |
-| ['jewellery'] | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| ['pendant necklaces', 'statement necklaces', 'choker necklaces'] | search | 1.00 |
-| Red Gold | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| ['verified suppliers', 'purity check', 'secure shopping', 'AR try-on', 'lifetime | search | 1.00 |
-| Wedding Jewellery | search | 1.00 |
-| Bangladesh | search | 1.00 |
+| Love Pearl Necklace Gift Box Freshwater Pearl Jewelry | search | 0.95 |
+| ['Pearl Necklace Set', 'women necklace', 'women ornaments'] | search | 0.95 |
+| stylish woman | search | 0.90 |
+| 2025-10-19 | search | 0.80 |
+| ['pendant necklaces', 'statement necklaces', 'choker necklaces'] | search | 0.90 |
+| jewellery | search | 0.95 |
+| Bangladeshi red gold | search | 0.90 |
+| available | search | 0.80 |
+| ['AR try-on', 'lifetime buyback'] | search | 0.90 |
+| Wedding jewellery and stage decoration pricing mentioned in Bangladesh | search | 0.70 |
+| retail and wholesale | search | 0.90 |
+| imitation jewellery | search | 0.95 |
+| low pricing | search | 0.90 |
+| low price | search | 0.95 |
+| ['01776060200', '01755559738', '01977722990'] | search | 0.95 |
