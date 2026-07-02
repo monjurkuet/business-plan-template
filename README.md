@@ -15,14 +15,14 @@ A structured repository for researching, analyzing, and documenting business ide
 | 7 | iPhone, Electronics & Gadgets | `sectors/electronics-gadgets/` | 7 | 8/9 | 🟢 Good |
 | 8 | High-ROI Niches | `sectors/high-roi-niches/` | 7 | 8/9 | 🟢 Good |
 | 9 | BIM Global Outreach | `sectors/bim-global-outreach/` | — | — | 🆕 Active (YAML) |
-| 10 | Healthcare & Pharma | (YAML only) | — | — | 🆕 Active |
-| 11 | Construction & Real Estate | (YAML only) | — | — | 🆕 Active |
-| 12 | Food & Beverage | (YAML only) | — | — | 🆕 Active |
-| 13 | Education & Training | (YAML only) | — | — | 🆕 Active |
-| 14 | Logistics & Transport | (YAML only) | — | — | 🆕 Active |
-| 15 | Agriculture & Agro-processing | (YAML only) | — | — | 🆕 Active |
+| 10 | Healthcare & Pharma | `sectors/healthcare-pharma/` | — | 1/9 | 🔴 Critical |
+| 11 | Construction & Real Estate | `sectors/construction-real-estate/` | — | 1/9 | 🔴 Critical |
+| 12 | Food & Beverage | `sectors/food-beverage/` | — | 1/9 | 🔴 Critical |
+| 13 | Education & Training | `sectors/education-training/` | — | 1/9 | 🔴 Critical |
+| 14 | Logistics & Transport | `sectors/logistics-transport/` | — | 1/9 | 🔴 Critical |
+| 15 | Agriculture & Agro-processing | `sectors/agriculture-agro/` | — | 1/9 | 🔴 Critical |
 
-**Total:** 15 sectors (9 with full research docs, 6 with YAML config for GMaps lead generation)
+**Total:** 15 sectors (165 files, ~2,183 evidence items). 9 sectors fully researched, 6 with scaffolded READMEs — self-evolving pipeline will auto-populate remaining docs.
 
 > **Status key:** `9/9 docs` = all standard sector docs present (incl. financial-model). `8/9` = missing financial-model. 🆕 Active (YAML) = sector defined in `_system/config/sectors.yaml` for GMaps lead pipeline; research docs not yet scaffolded. See `make health` for full dashboard.
 
@@ -84,12 +84,12 @@ make freshness
 │   ├── electronics-gadgets/
 │   ├── high-roi-niches/
 │   ├── bim-global-outreach/    # BIM/architecture global outreach
-│   ├── healthcare-pharma/      🆕 YAML — GMaps pipeline only
-│   ├── construction-real-estate/ 🆕 YAML — GMaps pipeline only
-│   ├── food-beverage/          🆕 YAML — GMaps pipeline only
-│   ├── education-training/     🆕 YAML — GMaps pipeline only
-│   ├── logistics-transport/    🆕 YAML — GMaps pipeline only
-│   └── agriculture-agro/       🆕 YAML — GMaps pipeline only
+│   ├── healthcare-pharma/      # Healthcare & Pharma (pipeline-ready, research pending)
+│   ├── construction-real-estate/ # Construction & Real Estate (pipeline-ready)
+│   ├── food-beverage/          # Food & Beverage (pipeline-ready)
+│   ├── education-training/     # Education & Training (pipeline-ready)
+│   ├── logistics-transport/    # Logistics & Transport (pipeline-ready)
+│   └── agriculture-agro/       # Agriculture & Agro-processing (pipeline-ready)
 │
 └── _archive/                # Deprecated or abandoned plans (don't delete, archive)
 ```
