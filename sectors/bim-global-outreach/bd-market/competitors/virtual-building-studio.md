@@ -91,11 +91,12 @@ freshness: fresh
 
 
 
+
 ## Recent Findings (2026-07-02)
 
-- **inframedarchitects.com** (conf: 0.69): Toparchitecture& design studio in Dhaka,Bangladesh— architectural design, interior design, landscape, and construction consultancy.
+- **www.studiodhakaltd.com** (conf: 0.69): StudioDhakais a multidisciplinary architectural and interior design firm based inDhaka, delivering creative, sustainable, and context-driven design solutions.
 
-- **www.archilovers.com** (conf: 0.69): Our studio is based onDhaka, Bangladesh. We provide complete solution related to design, approval and construction.Address Road no: 8, House no: 477, Baridhara DOHS,Dhaka, Bangladesh, 1206Dhaka| Bangl
+- **avenuesangma.com** (conf: 0.69): Jan 6, 2026 ·Discover the leading architecturefirmsinBangladesh. Explore the philosophy, sustainability, and iconic projects of thetop10 studios reshaping the nation.
 
 - **www.facebook.com** (conf: 0.69): Institute of ArchitectsBangladesh, Dhaka. 39,378 likes · 1,953 talking about this · 9,135 were here. This is the officialFacebookPage of the Institute of ArchitectsBangladesh(IAB).Jan 5, 2026 ·SPACE, 
 

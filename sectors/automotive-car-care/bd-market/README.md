@@ -2,8 +2,8 @@
 sector: automotive-car-care
 last_verified: 2026-07-02
 freshness: fresh
-confidence: 0.672
-evidence_ids: ['bd30c82a-6f5', '1dabd59c-17c', 'd66f9b72-d00', '93619912-c0b', '626121ff-8fb', '2e7d1f9d-3b2', '696e5077-10f', '2bca43c9-ad2', '0f5d25ab-931', 'f73be237-151', '2fbf2368-8d9', '922ef567-c23', '0a363888-320', '652f6914-fc0', 'b5f6c726-de7', 'c581342a-299', '62dc48c9-4d7', '2252f3d0-b37', '1fa0af5b-de8', '794e6bd2-252']
+confidence: 0.676
+evidence_ids: ['e6f67cb6-28b', 'caa006a8-eb9', '59138497-550', '3b8a603b-0e0', 'a5650d8c-bd5', '9a265afa-390', 'd52bcb89-f66', '20064a4e-413', '63d42575-209', '2661b1d4-e74', '336eeac5-de8', '9085ac88-c1c', '7e33b472-7d3', 'f96ba88e-865', '5ee980d1-6f8', 'cbf0d8b5-4e7', '160b3066-a3f', 'a10dbb6e-85f', '10c5858c-6bc', '4eb46c86-025']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -158,21 +158,20 @@ evidence_ids: ['bd30c82a-6f5', '1dabd59c-17c', 'd66f9b72-d00', '93619912-c0b', '
 
 
 
+
 ## Auto-Updated Data (2026-07-02)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| free quote | search | 0.90 |
-| free air fresheners and bonus free washes | search | 0.90 |
-| unlimited wash club membership | search | 0.90 |
-| affordable cost | search | 0.80 |
-| advanced cleaning technologies | search | 0.90 |
-| eco-friendly products | search | 0.90 |
-| Dhanmondi, Dhaka, Bangladesh | search | 0.95 |
-| +8801762499688 | search | 0.95 |
-| 24 Hours | search | 0.95 |
-| Free Bike & Car Wash with Kärcher Machines | search | 0.90 |
-| Savar, Dhaka | search | 0.90 |
-| Germany | search | 0.90 |
-| premium car wash services that transform your vehicle | search | 0.80 |
-| top prices for detailing and quality care | search | 0.80 |
+| 900 | search | 1.00 |
+| 2500 | search | 1.00 |
+| Exterior wash | search | 1.00 |
+| Interior deep cleaning | search | 1.00 |
+| Affordable | search | 0.80 |
+| 270 | search | 0.95 |
+| 390 | search | 0.95 |
+| 910 | search | 0.95 |
+| 1 | search | 0.95 |
+| 2 | search | 0.95 |
+| 5 | search | 0.95 |
+| Sunup Car Wash Shampoo | search | 0.95 |

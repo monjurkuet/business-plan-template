@@ -2,8 +2,8 @@
 sector: travel-tourism
 last_verified: 2026-07-02
 freshness: fresh
-confidence: 0.691
-evidence_ids: ['d46c1ef4-ee3', '08d3de17-7e7', '26b75556-f95', '275129fa-075', '27b3233c-789', '3abc2c05-034', '7afa3353-adb', 'bcf8df95-1e7', 'c37cbd4e-4ba', '26993700-bad', '9cb59b75-ce7', '1be15e7c-6d1', '540e190d-0f7', '15c4d286-88a', '4fc348d9-34d', '2880a8ac-b97', 'b62eaece-410', 'c1109ec0-e97', 'd07ed5af-259', '13ce1f8c-0d7']
+confidence: 0.683
+evidence_ids: ['b17522d7-e26', 'd9eaad14-615', '3b940607-df9', 'd79b5587-ede', '9c1e6f1d-8bc', '4bde7a87-0d6', '7ae1a43c-722', '9714726a-ee5', 'd8d9fd8c-4a8', '29afb0a3-223', 'b3f70413-16f', 'dc3391af-0bb', 'e74f1c32-80c', 'a154fd6c-932', '13d76bed-5e9', '21808223-901', '0fee33cf-32a', '759f1f8a-543', 'c03a0b50-f46', '38e1c1c0-54d']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -108,6 +108,7 @@ evidence_ids: ['d46c1ef4-ee3', '08d3de17-7e7', '26b75556-f95', '275129fa-075', '
 
 
 
+
 ## Auto-Updated Data (2026-07-02)
 
 | Fact | Source | Confidence |
@@ -116,12 +117,8 @@ evidence_ids: ['d46c1ef4-ee3', '08d3de17-7e7', '26b75556-f95', '275129fa-075', '
 | #1 travel agency in Bangladesh | search | 0.90 |
 | ['affordable tour packages', 'air tickets', 'visa support'] | search | 0.95 |
 | affordable | search | 0.90 |
-| affordable price | search | 0.90 |
+| affordable | search | 0.90 |
 | ['tour packages', 'travel packages'] | search | 0.95 |
-| ['online travel agency services', 'planning and booking travel'] | search | 0.95 |
-| Dhaka District, Dhaka | search | 0.90 |
+| online travel agency platform | search | 0.95 |
 | 2026-06-13 | search | 0.90 |
-| study abroad, visa services, air tickets | search | 0.90 |
-| ['UK', 'Canada', 'Russia', 'USA'] | search | 0.90 |
-| cheap air tickets | search | 0.80 |
-| price caps | search | 0.70 |
+| Dhaka District, Dhaka | search | 0.95 |

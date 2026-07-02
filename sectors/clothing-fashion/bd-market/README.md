@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-07-02
 freshness: fresh
-confidence: 0.73
-evidence_ids: ['ff032e1a-fe5', '7f01b6c1-682', '51c19928-4c5', '06ad2144-2ae', '2fc34b63-51e', '0439235e-974', '56fa6b88-e40', 'd78ea3a6-c87', 'b959e9a2-3e3', 'dbaa14a7-fdb', 'a77b3e72-936', '23517b80-2e2', '15fddd93-9bd', '2f14df1a-398', '5d7d6384-987', 'a507f3ea-543', '0ba1e448-b03', '522b1cd9-81f', '73eb5b78-97b', '8be05127-afd']
+confidence: 0.706
+evidence_ids: ['0362cb30-129', 'da5fed85-f29', 'ddb2c4db-7f7', 'f8c32577-89b', '3670c266-638', '99a2373f-6f8', 'cb855b7e-f92', '553bb765-eb3', '7c20c4d1-eca', 'b099a3de-701', 'ae212787-c3e', 'e0f44c38-f0e', '68537d74-3fd', 'a5d64bba-e62', 'b9941897-e7a', 'c35f2689-7da', 'a2e1cbd4-b0d', 'c7a7d752-9bd', '6d687ef3-092', '865b34f0-76e']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -144,22 +144,23 @@ evidence_ids: ['ff032e1a-fe5', '7f01b6c1-682', '51c19928-4c5', '06ad2144-2ae', '
 
 
 
+
 ## Auto-Updated Data (2026-07-02)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| affordable | search | 0.90 |
-| all over Bangladesh | search | 0.95 |
-| ['free shipping', 'fast delivery', 'free return'] | search | 0.90 |
-| across Bangladesh | search | 0.95 |
 | ['t-shirts', 'polo shirts', 'casual shirts', 'summer wear'] | search | 0.95 |
-| affordable | search | 0.90 |
-| two-piece dresses | search | 0.95 |
-| verified suppliers | search | 0.95 |
-| trusted and reliable clothing manufacturer in Bangladesh | search | 0.90 |
-| best factory prices and highest-quality custom apparel | search | 0.80 |
-| 88 | search | 0.90 |
-| fell over the past month | search | 0.90 |
-| NY/ICE futures contract (July) | search | 0.90 |
-| closure of the Strait of Hormuz sends oil and gas prices skyrocketing | search | 0.90 |
-| fast fashion companies reliant on cheap synthetic materials | search | 0.90 |
+| fast delivery across Bangladesh | search | 0.90 |
+| Premium Men's Clothing Brand in Bangladesh | search | 0.95 |
+| 2026-07-16 | search | 0.95 |
+| ['premium t-shirts', 'stylish designs'] | search | 0.90 |
+| Affordable Price | search | 0.85 |
+| Black Aura – Black & Cream Polka Dot Luxury Pret 3-Piece | search | 0.90 |
+| luxury pret | search | 0.90 |
+| winter clothes for women | search | 0.90 |
+| affordable | search | 0.80 |
+| 88 | search | 0.95 |
+| cotton | search | 0.95 |
+| decreasing | search | 0.90 |
+| NY/ICE July | search | 0.90 |
+| Strait of Hormuz closure | search | 0.90 |

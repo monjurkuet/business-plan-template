@@ -2,8 +2,8 @@
 sector: electronics-gadgets
 last_verified: 2026-07-02
 freshness: fresh
-confidence: 0.699
-evidence_ids: ['4dce312a-262', '8e899f1b-5a1', 'daed49d7-a68', '491cb9da-9cb', '5d5889e2-61a', 'c44fdc53-f0c', 'e0c79ecd-7be', 'e369595d-f22', 'ba326b87-07e', '48abb73a-873', '53127507-8de', '87349837-c97', '94ec51b9-fa5', '5cf27e3f-b4c', '4766f651-63b', 'a6a7e98d-665', 'd8af95d5-a21', '9ad27b6e-196', 'f2e241da-768', 'c303e7f7-bb2']
+confidence: 0.695
+evidence_ids: ['9755ab1a-86f', '0a7bcd0e-854', 'b766cfac-58e', '1799c110-d28', '1444fe1b-342', 'f9ac9441-d9b', '96cac137-5d3', 'a268515a-c6c', 'd6bebe0e-57b', '5a4743f7-1d8', 'f2460538-49b', '166752bd-108', '6f6f5892-7ab', '6aa13358-6c8', 'f29b61cf-98d', '0d6289ef-7a6', '1266579a-4fb', 'e539f315-bc3', 'abc806fb-4d4', '6de9015d-ae5']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -132,22 +132,23 @@ evidence_ids: ['4dce312a-262', '8e899f1b-5a1', 'daed49d7-a68', '491cb9da-9cb', '
 
 
 
+
 ## Auto-Updated Data (2026-07-02)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| competitive prices | search | 0.90 |
-| best prices | search | 0.90 |
-| Free Shipping | search | 0.95 |
-| 15.00 | search | 0.90 |
-| BRANDS MEGA LTD | search | 1.00 |
-| Navana Tower (Level-18) 45 Gulshan Avenue, Gulshan-1 Dhaka -1212, Bangladesh | search | 1.00 |
-| 51734 | search | 0.90 |
-| 8783 | search | 0.90 |
-| 5 | search | 0.90 |
-| 67255 | search | 0.90 |
-| 24 | search | 0.90 |
-| 1 | search | 0.90 |
-| 399000 | search | 0.90 |
-| 30000 | search | 0.90 |
-| 30 | search | 0.90 |
+| smartphones | search | 0.95 |
+| ['Samsung', 'Xiaomi', 'OnePlus', 'Vivo', 'HONOR', 'Infinix', 'Tecno'] | search | 0.95 |
+| 100% genuine with official warranty | search | 0.95 |
+| competitive smartphone price in BD | search | 0.90 |
+| TV & Home Appliances | search | 0.95 |
+| energy-efficient, designed for convenience and durability | search | 0.90 |
+| latest prices in Bangladesh | search | 0.90 |
+| homes and businesses | search | 0.90 |
+| 53345 | search | 1.00 |
+| 16960 | search | 1.00 |
+| 5 | search | 1.00 |
+| ['TVs', 'fridges', 'ACs'] | search | 1.00 |
+| 14699-31899 | search | 1.00 |
+| mobile_phone | search | 1.00 |
+| Express Delivery | search | 1.00 |

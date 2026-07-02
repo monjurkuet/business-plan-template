@@ -2,8 +2,8 @@
 sector: jewellery
 last_verified: 2026-07-02
 freshness: fresh
-confidence: 0.702
-evidence_ids: ['f2285e12-c87', '427ec3a3-c23', '0069a0bf-505', 'c0f24529-1fa', 'e106ce34-393', '7e9fd754-4e8', 'f9e8b161-616', '54fcda59-d2b', '18eb3420-f24', 'eb44fe34-f51', 'e356cdc3-a55', 'f6bfe669-8b1', 'f4f5a60f-385', 'f4d5e422-e03', '4833a4a9-067', '18a81705-e00', '97629876-8ce', '454c9599-80b', '554beda0-d11', '27204644-ec2']
+confidence: 0.71
+evidence_ids: ['2c90ff85-5e1', '6a3096ff-082', 'be2a91d2-80f', '1f644c2e-ed1', 'b2885485-a2b', 'ea36a27c-87a', 'b4ba21eb-ad2', '865142d7-099', '8d01d583-26d', '6356560f-eed', '9147d8ea-07f', '69d6c067-563', '816ba95c-5e5', '78031592-daf', '1bdda64c-b26', 'db0ffbc4-f23', 'e0017313-9d7', '6c27e1d5-12a', '5398c41f-f3b', '2406afb5-431']
 ---
 
 # Jewellery — Bangladesh Market
@@ -120,6 +120,7 @@ evidence_ids: ['f2285e12-c87', '427ec3a3-c23', '0069a0bf-505', 'c0f24529-1fa', '
 
 
 
+
 ## Auto-Updated Data (2026-07-02)
 
 | Fact | Source | Confidence |
@@ -127,8 +128,15 @@ evidence_ids: ['f2285e12-c87', '427ec3a3-c23', '0069a0bf-505', 'c0f24529-1fa', '
 | Love Pearl Necklace Gift Box Freshwater Pearl Jewelry | search | 0.90 |
 | Pearl Necklace Set | search | 0.90 |
 | women | search | 0.90 |
-| ['pendant necklaces', 'statement necklaces', 'choker necklaces'] | search | 0.90 |
-| jewellery | search | 0.95 |
-| red gold | search | 0.90 |
-| authentic Bangladeshi red gold | search | 0.90 |
-| ['verified suppliers', 'purity check', 'secure shopping', 'AR try-on', 'lifetime | search | 0.95 |
+| ['pendant necklaces', 'statement necklaces', 'choker necklaces'] | search | 0.80 |
+| Bangladeshi red gold | search | 0.95 |
+| ['verified suppliers', 'purity check', 'secure shopping', 'AR try-on', 'lifetime | search | 0.90 |
+| High quality and low pricing | search | 0.90 |
+| retail and wholesale imitation jewellery | search | 0.95 |
+| Best & LowPrice, Best Service in the city | search | 0.95 |
+| ['01776060200', '01755559738', '01977722990'] | search | 1.00 |
+| 2016 | search | 0.95 |
+| Premium diamond jewelry retailer | search | 0.95 |
+| 300000 | search | 0.80 |
+| 2 vori 14 ana 2.6 poyent (46.43 ana, 33.85 gram) | search | 0.90 |
+| 22k or 916 (hallmark) | search | 0.95 |

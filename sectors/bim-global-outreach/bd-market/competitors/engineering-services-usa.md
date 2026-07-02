@@ -128,14 +128,7 @@ freshness: fresh
 
 
 
+
 ## Recent Findings (2026-07-02)
 
-- **rmgbd.net** (conf: 0.74): Apr 6, 2026 ·Rafiad RuhiEidinBangladeshis a major fashion season, with families buying new clothes that reflect cultural identity and festive celebration. Social media influencers and digital retail s
-
-- **www.powerkh.com** (conf: 0.55): Feb 25, 2025 ·Looking for reliableBIM outsourcingin theUSA? Discover top companies offering 2D to 3D CAD conversion, outsourcedBIMservices, andBIM4D modeling.
-
-- **www.rediff.com** (conf: 0.74): May 23, 2026 ·A rare albino buffalo nicknamed 'Donald Trump' due to its distinctive hairstyle has been sold inBangladeshahead ofEidal-Adha, capturing widespread attention on social media and local new
-
-- **cadoutsourcing.net** (conf: 0.55): CADOutsourcingprovide building information modeling serviceUSA. Architectural, Structural, Civil, MEP, Plumbing, Electrical, Mechanical, Point Cloud survey, Scan toBIM, Clash Detection & Prefabricatio
-
-- **www.thedailystar.net** (conf: 0.74): May 22, 2026 ·EidCattle MarketBangladesh2026: Sacrificial animalsalesare running ahead of last year’s pace in Pabna and Sirajganj, with medium-sized cows, weighing three to six maunds, clearing fastes
+- **www.littlepeng.com** (conf: 0.69): Little P.Eng. forEngineeringServices in Piping design & stress Analysis; Located in Houston, Texas & serving our clients across Canada, USA. We serve oil & gas and commercial projects in mechanical an
