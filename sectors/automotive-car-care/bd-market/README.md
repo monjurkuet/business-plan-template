@@ -1,9 +1,9 @@
 ---
 sector: automotive-car-care
-last_verified: 2026-07-02
+last_verified: 2026-07-03
 freshness: fresh
-confidence: 0.676
-evidence_ids: ['e6f67cb6-28b', 'caa006a8-eb9', '59138497-550', '3b8a603b-0e0', 'a5650d8c-bd5', '9a265afa-390', 'd52bcb89-f66', '20064a4e-413', '63d42575-209', '2661b1d4-e74', '336eeac5-de8', '9085ac88-c1c', '7e33b472-7d3', 'f96ba88e-865', '5ee980d1-6f8', 'cbf0d8b5-4e7', '160b3066-a3f', 'a10dbb6e-85f', '10c5858c-6bc', '4eb46c86-025']
+confidence: 0.666
+evidence_ids: ['3963ce49-0f2', '2ab60f9d-6f0', '52c027ce-b2d', '6723af97-124', 'f9499a47-13e', 'ec372a63-db6', '4b76b0c7-441', 'e4ff587a-629', 'bc8b43f7-a0c', '56970e4d-429', '3c9ac431-720', '6e804cf5-8cc', '55f291c3-359', '89486742-27d', '74539f2e-b98', '89ebac41-dd2', '353bd98e-5b4', '7af2505a-ef3', '6c1f38fe-82a', '9fb422b8-09d']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -159,19 +159,12 @@ evidence_ids: ['e6f67cb6-28b', 'caa006a8-eb9', '59138497-550', '3b8a603b-0e0', '
 
 
 
-## Auto-Updated Data (2026-07-02)
+
+## Auto-Updated Data (2026-07-03)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 900 | search | 1.00 |
-| 2500 | search | 1.00 |
-| Exterior wash | search | 1.00 |
-| Interior deep cleaning | search | 1.00 |
-| Affordable | search | 0.80 |
-| 270 | search | 0.95 |
-| 390 | search | 0.95 |
-| 910 | search | 0.95 |
-| 1 | search | 0.95 |
-| 2 | search | 0.95 |
-| 5 | search | 0.95 |
-| Sunup Car Wash Shampoo | search | 0.95 |
+| $2,000 to $422,990 | search | 0.90 |
+| Runs primarily on roads, seats 1-8 people, has four wheels, mainly transports pe | search | 0.95 |
+| 1.6 billion | search | 0.90 |
+| 2025 | search | 0.90 |

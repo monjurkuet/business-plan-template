@@ -1,9 +1,9 @@
 ---
 sector: electronics-gadgets
-last_verified: 2026-07-02
+last_verified: 2026-07-03
 freshness: fresh
-confidence: 0.695
-evidence_ids: ['9755ab1a-86f', '0a7bcd0e-854', 'b766cfac-58e', '1799c110-d28', '1444fe1b-342', 'f9ac9441-d9b', '96cac137-5d3', 'a268515a-c6c', 'd6bebe0e-57b', '5a4743f7-1d8', 'f2460538-49b', '166752bd-108', '6f6f5892-7ab', '6aa13358-6c8', 'f29b61cf-98d', '0d6289ef-7a6', '1266579a-4fb', 'e539f315-bc3', 'abc806fb-4d4', '6de9015d-ae5']
+confidence: 0.699
+evidence_ids: ['7cf9d24b-f5a', '69f39274-90c', '372e5135-62c', 'c0e3e027-009', 'ed24dd32-61b', '53295846-0e3', 'a8d93740-f72', 'cb246777-9b2', 'bdf867b6-9f1', '9dd51821-036', 'fbd288bc-078', '99de85ef-b99', 'f133322e-2d8', '7869e6d1-708', '68ac1310-9a5', 'dc07d525-15a', '7883ce3a-dd4', '5e93bf48-224', '56bec228-e57', '17049d2c-9e0']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -133,22 +133,15 @@ evidence_ids: ['9755ab1a-86f', '0a7bcd0e-854', 'b766cfac-58e', '1799c110-d28', '
 
 
 
-## Auto-Updated Data (2026-07-02)
+
+## Auto-Updated Data (2026-07-03)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| smartphones | search | 0.95 |
-| ['Samsung', 'Xiaomi', 'OnePlus', 'Vivo', 'HONOR', 'Infinix', 'Tecno'] | search | 0.95 |
-| 100% genuine with official warranty | search | 0.95 |
-| competitive smartphone price in BD | search | 0.90 |
-| TV & Home Appliances | search | 0.95 |
-| energy-efficient, designed for convenience and durability | search | 0.90 |
-| latest prices in Bangladesh | search | 0.90 |
-| homes and businesses | search | 0.90 |
-| 53345 | search | 1.00 |
-| 16960 | search | 1.00 |
-| 5 | search | 1.00 |
-| ['TVs', 'fridges', 'ACs'] | search | 1.00 |
-| 14699-31899 | search | 1.00 |
-| mobile_phone | search | 1.00 |
-| Express Delivery | search | 1.00 |
+| competitive prices on all our products | search | 0.90 |
+| best prices | search | 0.90 |
+| Free Shipping | search | 0.95 |
+| best prices, offers, and discounts on electronics | search | 0.90 |
+| 15.00 | search | 0.90 |
+| BRANDS MEGA LTD | search | 1.00 |
+| Navana Tower (Level-18) 45 Gulshan Avenue, Gulshan-1 Dhaka -1212, Bangladesh | search | 1.00 |

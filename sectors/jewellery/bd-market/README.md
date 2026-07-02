@@ -1,9 +1,9 @@
 ---
 sector: jewellery
-last_verified: 2026-07-02
+last_verified: 2026-07-03
 freshness: fresh
-confidence: 0.71
-evidence_ids: ['2c90ff85-5e1', '6a3096ff-082', 'be2a91d2-80f', '1f644c2e-ed1', 'b2885485-a2b', 'ea36a27c-87a', 'b4ba21eb-ad2', '865142d7-099', '8d01d583-26d', '6356560f-eed', '9147d8ea-07f', '69d6c067-563', '816ba95c-5e5', '78031592-daf', '1bdda64c-b26', 'db0ffbc4-f23', 'e0017313-9d7', '6c27e1d5-12a', '5398c41f-f3b', '2406afb5-431']
+confidence: 0.702
+evidence_ids: ['eb702caa-7c2', '9c133ab0-2b2', '551491bf-1b0', 'd26c2eab-d0b', '9aee023b-456', 'f8321f04-7a6', 'c20d2f1e-703', '47b8c483-148', '6714a13a-492', '790e499b-cb6', '4145a077-9cf', 'fa0c5a08-14a', 'c6cc2a7f-2b4', 'fd26e649-af7', '9a7ce277-9f9', 'f118c42e-f4a', 'f238901e-bc9', '7e71671a-806', '4820071c-b6f', 'de27c508-54b']
 ---
 
 # Jewellery — Bangladesh Market
@@ -121,22 +121,21 @@ evidence_ids: ['2c90ff85-5e1', '6a3096ff-082', 'be2a91d2-80f', '1f644c2e-ed1', '
 
 
 
-## Auto-Updated Data (2026-07-02)
+
+## Auto-Updated Data (2026-07-03)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Love Pearl Necklace Gift Box Freshwater Pearl Jewelry | search | 0.90 |
-| Pearl Necklace Set | search | 0.90 |
-| women | search | 0.90 |
-| ['pendant necklaces', 'statement necklaces', 'choker necklaces'] | search | 0.80 |
-| Bangladeshi red gold | search | 0.95 |
-| ['verified suppliers', 'purity check', 'secure shopping', 'AR try-on', 'lifetime | search | 0.90 |
-| High quality and low pricing | search | 0.90 |
-| retail and wholesale imitation jewellery | search | 0.95 |
-| Best & LowPrice, Best Service in the city | search | 0.95 |
-| ['01776060200', '01755559738', '01977722990'] | search | 1.00 |
-| 2016 | search | 0.95 |
-| Premium diamond jewelry retailer | search | 0.95 |
-| 300000 | search | 0.80 |
-| 2 vori 14 ana 2.6 poyent (46.43 ana, 33.85 gram) | search | 0.90 |
-| 22k or 916 (hallmark) | search | 0.95 |
+| Wish Pearl Necklace | search | 0.90 |
+| low price | search | 0.80 |
+| Limited stock jewelry sale | search | 0.90 |
+| Pearl lovers in Bangladesh | search | 0.90 |
+| Affordable elegant jewelry | search | 0.90 |
+| BD | search | 0.90 |
+| Multiple necklace styles including pendant necklaces, statement necklaces, and c | search | 0.90 |
+| Bangladeshi Red Gold | search | 0.95 |
+| AR try-on, lifetime buyback | search | 0.90 |
+| 14k Yellow Gold, 14k White Gold, Diamond Jewelry | search | 0.90 |
+| rock-bottom prices you will not find anywhere else | search | 0.80 |
+| Up to 50% | search | 0.95 |
+| Summer Sale 2026 | search | 0.90 |

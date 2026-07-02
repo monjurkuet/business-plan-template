@@ -1,9 +1,9 @@
 ---
 sector: travel-tourism
-last_verified: 2026-07-02
+last_verified: 2026-07-03
 freshness: fresh
-confidence: 0.683
-evidence_ids: ['b17522d7-e26', 'd9eaad14-615', '3b940607-df9', 'd79b5587-ede', '9c1e6f1d-8bc', '4bde7a87-0d6', '7ae1a43c-722', '9714726a-ee5', 'd8d9fd8c-4a8', '29afb0a3-223', 'b3f70413-16f', 'dc3391af-0bb', 'e74f1c32-80c', 'a154fd6c-932', '13d76bed-5e9', '21808223-901', '0fee33cf-32a', '759f1f8a-543', 'c03a0b50-f46', '38e1c1c0-54d']
+confidence: 0.687
+evidence_ids: ['2891bbb0-3b8', 'c12936bf-b61', 'f8dc2d4d-195', '2cedf54a-714', 'd2b60e51-a3d', 'f0518337-648', 'da559ed5-e5e', '8cfd9170-d13', '36956421-d36', 'ace9b7de-8f5', '21934aaf-cf0', '615dc292-3b5', 'a4f2ed24-f18', '4f9ca55d-63d', '77649e88-3d5', 'dffe0556-489', '908de73b-d5c', 'c91dc393-59c', 'dbe6b0b4-e0d', '4e2007f5-369']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -109,16 +109,20 @@ evidence_ids: ['b17522d7-e26', 'd9eaad14-615', '3b940607-df9', 'd79b5587-ede', '
 
 
 
-## Auto-Updated Data (2026-07-02)
+
+## Auto-Updated Data (2026-07-03)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ['tourist visas', 'student visas', 'work visas', 'Umrah packages 2026', 'interna | search | 0.95 |
-| #1 travel agency in Bangladesh | search | 0.90 |
-| ['affordable tour packages', 'air tickets', 'visa support'] | search | 0.95 |
-| affordable | search | 0.90 |
-| affordable | search | 0.90 |
-| ['tour packages', 'travel packages'] | search | 0.95 |
-| online travel agency platform | search | 0.95 |
-| 2026-06-13 | search | 0.90 |
-| Dhaka District, Dhaka | search | 0.95 |
+| tourist, student & work visas; Umrah packages 2026; international flights; holid | search | 0.90 |
+| Dubai, Georgia, Armenia, Europe | search | 0.90 |
+| #1 travel agency in Bangladesh | search | 0.80 |
+| tour packages, air tickets, visa support | search | 0.90 |
+| affordable | search | 0.80 |
+| affordable | search | 0.80 |
+| online travel agency platform | search | 0.90 |
+| 2026-06-13 | search | 0.95 |
+| Dhaka District, Dhaka | search | 0.90 |
+| study abroad, visa services, air tickets | search | 0.90 |
+| cheap | search | 0.80 |
+| ['UK', 'Canada', 'Russia', 'USA'] | search | 0.90 |

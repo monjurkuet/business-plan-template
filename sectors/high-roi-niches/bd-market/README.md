@@ -1,9 +1,9 @@
 ---
 sector: high-roi-niches
-last_verified: 2026-07-02
+last_verified: 2026-07-03
 freshness: fresh
 confidence: 0.704
-evidence_ids: ['d980b788-bfd', '335a64d9-5bd', '4a9a4913-b91', 'd70df85c-376', 'e47d735a-a00', '969346d8-60c', '97a53070-192', 'aea875ed-0c2', '8751624b-6e8', '190d505b-8b7', 'c27a3599-d97', '52df3526-d2c', 'cf4561ee-235', '0c1c16f1-1e6', 'bb58ee6f-3b2', '9a30d18b-29a', 'ec3623ef-41c', '3a43badd-3d7', '4cbb2720-404', 'f99728b2-c67']
+evidence_ids: ['80d00389-15a', '8fc1b718-0f0', '304f8d74-6e0', 'fb3e7801-63e', '37b56619-83c', 'e225cd23-665', '958eaeff-f95', '126fe731-bea', '7ad1554a-b61', '56bb35f0-bbf', '9842df6d-8f4', '320a4994-ee5', '1d5394d8-3a6', 'b89cd39f-83e', '32d97244-44c', '24642e46-fca', 'e73be68e-416', '4352a8b9-2c0', '881984d4-208', '80165549-7e4']
 ---
 
 # High-ROI Niches — Bangladesh Market
@@ -125,17 +125,23 @@ This sector captures high-growth, high-margin niche opportunities in Bangladesh.
 
 
 
-## Auto-Updated Data (2026-07-02)
+
+## Auto-Updated Data (2026-07-03)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 20 to 8000 | search | 1.00 |
-| pet supplies | search | 1.00 |
-| 210.00 | search | 1.00 |
-| pet food & accessories | search | 1.00 |
-| pet sitters | search | 1.00 |
-| Dhaka | search | 1.00 |
-| 7 | search | 1.00 |
-| Shop from a curated selection of nutritious pet food, including grain-free and o | search | 0.90 |
-| Dhaka | search | 0.95 |
-| affordable prices | search | 0.85 |
+| HIT LIFE cat food | search | 0.90 |
+| grain-free cat food | search | 0.90 |
+| kitchen flavor | search | 0.80 |
+| cat food price, cat adoption cost | search | 0.70 |
+| PetZone BD | search | 0.90 |
+| petzonebd.com | search | 0.90 |
+| Pampered Paws Bangladesh | search | 0.80 |
+| Covetrus Pet Care Bangladesh | search | 0.70 |
+| Pet Care Bangladesh | search | 0.90 |
+| MH Imran | search | 0.90 |
+| Managing Director | search | 0.90 |
+| Bangladesh Veterinary and Pet Care Network (BVPN) | search | 0.80 |
+| Self-service dog wash | search | 0.90 |
+| orders over $35+ | search | 0.90 |
+| same day | search | 0.90 |

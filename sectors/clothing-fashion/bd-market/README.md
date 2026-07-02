@@ -1,9 +1,9 @@
 ---
 sector: clothing-fashion
-last_verified: 2026-07-02
+last_verified: 2026-07-03
 freshness: fresh
-confidence: 0.706
-evidence_ids: ['0362cb30-129', 'da5fed85-f29', 'ddb2c4db-7f7', 'f8c32577-89b', '3670c266-638', '99a2373f-6f8', 'cb855b7e-f92', '553bb765-eb3', '7c20c4d1-eca', 'b099a3de-701', 'ae212787-c3e', 'e0f44c38-f0e', '68537d74-3fd', 'a5d64bba-e62', 'b9941897-e7a', 'c35f2689-7da', 'a2e1cbd4-b0d', 'c7a7d752-9bd', '6d687ef3-092', '865b34f0-76e']
+confidence: 0.699
+evidence_ids: ['518096d1-828', 'cec4f583-5a6', 'f9688b72-6b9', '1e2d9efa-186', '3357499d-69a', '4e5a9c66-016', 'daff43ad-56d', 'c66338bd-6cf', 'f4df34e8-90e', '51eb88e6-f25', '96936c4d-c74', '85aa3abe-cc3', 'df9634fb-78f', '2eb5d7ee-c93', '9d086a64-f98', '23681bff-9a9', '19577507-f8e', '2a030449-85b', '77ac3e7f-32e', 'df0aa57b-e61']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -145,22 +145,21 @@ evidence_ids: ['0362cb30-129', 'da5fed85-f29', 'ddb2c4db-7f7', 'f8c32577-89b', '
 
 
 
-## Auto-Updated Data (2026-07-02)
+
+## Auto-Updated Data (2026-07-03)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ['t-shirts', 'polo shirts', 'casual shirts', 'summer wear'] | search | 0.95 |
-| fast delivery across Bangladesh | search | 0.90 |
-| Premium Men's Clothing Brand in Bangladesh | search | 0.95 |
-| 2026-07-16 | search | 0.95 |
-| ['premium t-shirts', 'stylish designs'] | search | 0.90 |
-| Affordable Price | search | 0.85 |
-| Black Aura – Black & Cream Polka Dot Luxury Pret 3-Piece | search | 0.90 |
-| luxury pret | search | 0.90 |
-| winter clothes for women | search | 0.90 |
-| affordable | search | 0.80 |
+| Nordstrom | search | 1.00 |
+| ['shoes', 'clothing', 'jewelry', 'dresses', 'makeup'] | search | 1.00 |
+| Free shipping | search | 1.00 |
+| Free returns | search | 1.00 |
+| Macy's | search | 1.00 |
+| ['clothing', 'shoes', 'beauty', 'home'] | search | 1.00 |
+| Free shipping options | search | 1.00 |
+| Fast pickup | search | 1.00 |
 | 88 | search | 0.95 |
-| cotton | search | 0.95 |
-| decreasing | search | 0.90 |
-| NY/ICE July | search | 0.90 |
-| Strait of Hormuz closure | search | 0.90 |
+| decreased | search | 0.90 |
+| July | search | 0.90 |
+| increased costs due to oil and gas price surge | search | 0.90 |
+| closure of the Strait of Hormuz | search | 0.95 |

@@ -1,6 +1,6 @@
 ---
 sector: bim-global-outreach
-last_verified: 2026-07-02
+last_verified: 2026-07-03
 freshness: fresh
 ---
 
@@ -92,14 +92,7 @@ freshness: fresh
 
 
 
-## Recent Findings (2026-07-02)
 
-- **www.studiodhakaltd.com** (conf: 0.69): StudioDhakais a multidisciplinary architectural and interior design firm based inDhaka, delivering creative, sustainable, and context-driven design solutions.
+## Recent Findings (2026-07-03)
 
-- **avenuesangma.com** (conf: 0.69): Jan 6, 2026 ·Discover the leading architecturefirmsinBangladesh. Explore the philosophy, sustainability, and iconic projects of thetop10 studios reshaping the nation.
-
-- **www.facebook.com** (conf: 0.69): Institute of ArchitectsBangladesh, Dhaka. 39,378 likes · 1,953 talking about this · 9,135 were here. This is the officialFacebookPage of the Institute of ArchitectsBangladesh(IAB).Jan 5, 2026 ·SPACE, 
-
-- **www.facebook.com** (conf: 0.69): Jan 5, 2026 ·SPACE, Dhaka. 2,592 likes · 159 were here. Consultancy, Construction and DevelopmentJun 5, 2026 ·Architect / Project Architect Location: Dhaka,BangladeshCompany: Interior Design & Archite
-
-- **www.facebook.com** (conf: 0.69): Jun 5, 2026 ·Architect / Project Architect Location: Dhaka,BangladeshCompany: Interior Design & ArchitectureFirmEmployment Type: Full-Time About the Role We are looking for a talented Architect to joi
+- **www.archilovers.com** (conf: 0.69): Founded in 2005, Marina Tabassum Architects (MTA) is an internationally recognisedarchitectureand studio-based practice located inDhaka, Bangladesh.
