@@ -14,10 +14,17 @@ A structured repository for researching, analyzing, and documenting business ide
 | 6 | Bitcoin & Cryptocurrency | `sectors/crypto-bitcoin/` | 4 | 9/9 | 🟢 Good |
 | 7 | iPhone, Electronics & Gadgets | `sectors/electronics-gadgets/` | 7 | 8/9 | 🟢 Good |
 | 8 | High-ROI Niches | `sectors/high-roi-niches/` | 7 | 8/9 | 🟢 Good |
+| 9 | BIM Global Outreach | `sectors/bim-global-outreach/` | — | — | 🆕 Active (YAML) |
+| 10 | Healthcare & Pharma | (YAML only) | — | — | 🆕 Active |
+| 11 | Construction & Real Estate | (YAML only) | — | — | 🆕 Active |
+| 12 | Food & Beverage | (YAML only) | — | — | 🆕 Active |
+| 13 | Education & Training | (YAML only) | — | — | 🆕 Active |
+| 14 | Logistics & Transport | (YAML only) | — | — | 🆕 Active |
+| 15 | Agriculture & Agro-processing | (YAML only) | — | — | 🆕 Active |
 
-**Total:** 132 files, 8 sectors, 58 competitor profiles, 2 financial models
+**Total:** 15 sectors (9 with full research docs, 6 with YAML config for GMaps lead generation)
 
-> **Status key:** `9/9 docs` = all standard sector docs present (incl. financial-model). `8/9` = missing financial-model. See `make health` for full dashboard.
+> **Status key:** `9/9 docs` = all standard sector docs present (incl. financial-model). `8/9` = missing financial-model. 🆕 Active (YAML) = sector defined in `_system/config/sectors.yaml` for GMaps lead pipeline; research docs not yet scaffolded. See `make health` for full dashboard.
 
 ## Quick Start
 
@@ -40,7 +47,7 @@ make freshness
 - **Financial models** for automotive & crypto sectors (`financial-model.md`)
 - **`Makefile`** — convenience targets for pipeline steps (`make audit`, `make freshness`, `make search`, ...)
 - **Sector health dashboard** — `make health` or `python _system/scripts/sector_health.py`
-- **Fair pipeline distribution** — round-robin query allocation across all 8 sectors (not just the busiest 2)
+- **Fair pipeline distribution** — round-robin query allocation across all 15 sectors (not just the busiest 2)
 - **Zero-evidence detection** — pipeline auto-injects P0 data collection for sectors with no evidence
 
 ---
@@ -75,7 +82,14 @@ make freshness
 │   ├── media-marketing-digital/
 │   ├── crypto-bitcoin/
 │   ├── electronics-gadgets/
-│   └── high-roi-niches/
+│   ├── high-roi-niches/
+│   ├── bim-global-outreach/    # BIM/architecture global outreach
+│   ├── healthcare-pharma/      🆕 YAML — GMaps pipeline only
+│   ├── construction-real-estate/ 🆕 YAML — GMaps pipeline only
+│   ├── food-beverage/          🆕 YAML — GMaps pipeline only
+│   ├── education-training/     🆕 YAML — GMaps pipeline only
+│   ├── logistics-transport/    🆕 YAML — GMaps pipeline only
+│   └── agriculture-agro/       🆕 YAML — GMaps pipeline only
 │
 └── _archive/                # Deprecated or abandoned plans (don't delete, archive)
 ```

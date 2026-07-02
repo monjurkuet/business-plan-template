@@ -1,5 +1,18 @@
 # Changelog
 
+## 2026-07-03 — Sector Expansion (15 Sectors)
+
+**Added 6 new sectors** to `_system/config/sectors.yaml` for GMaps lead generation:
+- Healthcare & Pharma (24 EN / 17 BN keywords)
+- Construction & Real Estate (26 EN / 17 BN)
+- Food & Beverage (26 EN / 26 BN)
+- Education & Training (25 EN / 19 BN)
+- Logistics & Transport (24 EN / 17 BN)
+- Agriculture & Agro-processing (27 EN / 20 BN)
+
+**Query pool**: 9,592 → 21,356 unique queries (2.2× increase). Global-eligible sectors: 5 → 11.
+**Docs updated**: README, ARCHITECTURE.md, AGENTS.md (new). InfiniteCrawler AGENTS.md + README.md synced.
+
 ## 2026-07-02 18:16 UTC
 
 **Repo Audit**: 400 files across 9 sectors

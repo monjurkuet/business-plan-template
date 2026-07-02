@@ -162,3 +162,166 @@ sectors:
       "construction documentation", "visualization"
     ]
     policy_sensitivity: low
+
+  # ── NEW SECTORS (2026-07-03) ───────────────────────────────────────────────
+
+  healthcare-pharma:
+    display_name: "Healthcare & Pharma"
+    status: active
+    priority_weight: 0.75
+    keywords:
+      en: ["pharmacy Bangladesh", "medical store near me", "diagnostic center Bangladesh",
+           "clinic BD", "hospital Bangladesh", "medical equipment Bangladesh",
+           "pharmaceutical company BD", "medicine shop", "healthcare Bangladesh",
+           "doctor chamber", "dentist Bangladesh", "eye hospital",
+           "physiotherapy Bangladesh", "blood test lab", "x-ray clinic",
+           "ultrasound center", "medical supply", "surgical equipment",
+           "herbal medicine", "Unani medicine", "homeopathy Bangladesh",
+           "ambulance service", "nursing home", "mental health Bangladesh"]
+      bn: ["ফার্মেসি বাংলাদেশ", "ঔষধের দোকান", "ডায়াগনস্টিক সেন্টার",
+           "ক্লিনিক", "হাসপাতাল", "চিকিৎসা সরঞ্জাম",
+           "ডাক্তার চেম্বার", "ডেন্টিস্ট", "চক্ষু হাসপাতাল",
+           "ফিজিওথেরাপি", "রক্ত পরীক্ষা ল্যাব", "এক্স-রে ক্লিনিক",
+           "আলট্রাসনোগ্রাফি সেন্টার", "নার্সিং হোম",
+           "হোমিওপ্যাথি", "হারবাল মেডিসিন", "এম্বুলেন্স সার্ভিস"]
+    competitor_target: 15
+    subsegments: ["pharmacy", "diagnostic lab", "clinic", "hospital", "medical equipment",
+                  "pharmaceutical manufacturer", "dental", "eye care", "physiotherapy",
+                  "medical supply chain"]
+    policy_sensitivity: medium
+
+  construction-real-estate:
+    display_name: "Construction & Real Estate"
+    status: active
+    priority_weight: 0.70
+    keywords:
+      en: ["building material Bangladesh", "hardware shop BD", "construction company Bangladesh",
+           "real estate developer Dhaka", "brick manufacturer Bangladesh", "cement dealer",
+           "steel supplier BD", "sanitary ware shop", "tiles shop Bangladesh",
+           "paint shop BD", "electrical shop", "plumbing supplier",
+           "rod-cement shop", "sand supplier", "stone chips supplier",
+           "glass shop", "aluminum shop", "wood supplier",
+           "furniture hardware", "construction equipment rental",
+           "property developer", "land developer", "apartment builder",
+           "building contractor", "roofing material", "interior decorator"]
+      bn: ["বিল্ডিং ম্যাটেরিয়াল", "হার্ডওয়্যারের দোকান", "কনস্ট্রাকশন কোম্পানি",
+           "রিয়েল এস্টেট ডেভেলপার", "ইট প্রস্তুতকারক", "সিমেন্ট ডিলার",
+           "রড সিমেন্টের দোকান", "স্যানিটারি দ্রব্যের দোকান", "টাইলসের দোকান",
+           "পেইন্টের দোকান", "বালু সরবরাহকারী", "পাথর চিপস সরবরাহকারী",
+           "কাঁচের দোকান", "অ্যালুমিনিয়ামের দোকান", "কাঠ সরবরাহকারী",
+           "ডেভেলপার কোম্পানি", "বিল্ডিং কন্ট্রাকটর"]
+    competitor_target: 15
+    subsegments: ["building materials", "hardware", "cement-steel", "sanitary-tiles",
+                  "paint-electrical", "developer", "contractor", "interior-decoration"]
+    policy_sensitivity: low
+
+  food-beverage:
+    display_name: "Food & Beverage"
+    status: active
+    priority_weight: 0.65
+    keywords:
+      en: ["restaurant Bangladesh", "food processing company BD", "catering service Bangladesh",
+           "bakery Bangladesh", "grocery store BD", "food supplier Bangladesh",
+           "beverage company BD", "snacks manufacturer Bangladesh", "spice company BD",
+           "food packaging Bangladesh", "cold storage Bangladesh", "wholesale grocery",
+           "meat supplier BD", "fish supplier Bangladesh", "rice mill Bangladesh",
+           "flour mill BD", "edible oil Bangladesh", "dairy farm Bangladesh",
+           "ice cream manufacturer BD", "juice company Bangladesh", "bottled water BD",
+           "tea company Bangladesh", "confectionery BD", "fast food Bangladesh",
+           "online food delivery BD", "cloud kitchen Bangladesh"]
+      bn: ["রেস্টুরেন্ট বাংলাদেশ", "খাদ্য প্রক্রিয়াজাতকরণ", "কেটারিং সার্ভিস",
+           "বেকারি", "মুদি দোকান", "খাদ্য সরবরাহকারী",
+           "পানীয় কোম্পানি", "স্ন্যাকস প্রস্তুতকারক", "মশলা কোম্পানি",
+           "ফুড প্যাকেজিং", "কোল্ড স্টোরেজ", "পাইকারি মুদি",
+           "মাংস সরবরাহকারী", "মাছ সরবরাহকারী", "রাইস মিল",
+           "আটা মিল", "ভোজ্য তেল", "ডেইরি ফার্ম",
+           "আইসক্রিম প্রস্তুতকারক", "জুস কোম্পানি", "বোতলজাত পানি",
+           "চা কোম্পানি", "মিষ্টান্ন", "ফাস্ট ফুড",
+           "অনলাইন ফুড ডেলিভারি", "ক্লাউড কিচেন"]
+    competitor_target: 15
+    subsegments: ["restaurant", "food processing", "catering", "bakery",
+                  "grocery-wholesale", "beverage", "dairy", "snacks-confectionery",
+                  "cold-storage", "online-food"]
+    policy_sensitivity: low
+
+  education-training:
+    display_name: "Education & Training"
+    status: active
+    priority_weight: 0.65
+    keywords:
+      en: ["coaching center Bangladesh", "private university BD", "English medium school Bangladesh",
+           "training institute BD", "online course Bangladesh", "skill development center BD",
+           "IELTS coaching Dhaka", "GRE GMAT preparation Bangladesh", "vocational training BD",
+           "driving school Bangladesh", "language center BD", "computer training Bangladesh",
+           "admission coaching BD", "madrasa Bangladesh", "kindergarten school BD",
+           "education consultant Bangladesh", "study abroad agency BD",
+           "corporate training Bangladesh", "professional certification BD",
+           "music school", "art school", "dance school",
+           "martial arts training", "swimming coaching", "sports academy Bangladesh"]
+      bn: ["কোচিং সেন্টার বাংলাদেশ", "বেসরকারি বিশ্ববিদ্যালয়", "ইংরেজি মাধ্যম স্কুল",
+           "প্রশিক্ষণ কেন্দ্র", "অনলাইন কোর্স", "স্কিল ডেভেলপমেন্ট সেন্টার",
+           "আইইএলটিএস কোচিং", "ভোকেশনাল ট্রেনিং", "ড্রাইভিং স্কুল",
+           "ভাষা শিক্ষা কেন্দ্র", "কম্পিউটার প্রশিক্ষণ কেন্দ্র",
+           "ভর্তি কোচিং", "মাদ্রাসা", "কিন্ডারগার্টেন স্কুল",
+           "শিক্ষা পরামর্শক", "স্টাডি অ্যাব্রোড এজেন্সি",
+           "মিউজিক স্কুল", "আর্ট স্কুল", "সাঁতার কোচিং"]
+    competitor_target: 12
+    subsegments: ["coaching-center", "private-university", "english-school",
+                  "vocational-training", "online-education", "language-center",
+                  "skill-development", "education-consultancy"]
+    policy_sensitivity: low
+
+  logistics-transport:
+    display_name: "Logistics & Transport"
+    status: active
+    priority_weight: 0.60
+    keywords:
+      en: ["courier service Bangladesh", "freight forwarder BD", "truck transport Bangladesh",
+           "cargo service Dhaka", "shipping company Bangladesh", "logistics company BD",
+           "warehouse Bangladesh", "cold chain logistics BD", "parcel delivery Bangladesh",
+           "moving company Bangladesh", "bus company BD", "truck rental Bangladesh",
+           "pickup van rental BD", "covered van Bangladesh", "lorry transport",
+           "air freight Bangladesh", "sea freight BD", "supply chain company Bangladesh",
+           "3PL logistics BD", "last mile delivery Bangladesh", "ecommerce logistics",
+           "customs clearance BD", "port service Bangladesh", "container transport"]
+      bn: ["কুরিয়ার সার্ভিস বাংলাদেশ", "মালবাহী ফরওয়ার্ডার", "ট্রাক পরিবহন",
+           "কার্গো সার্ভিস", "শিপিং কোম্পানি", "লজিস্টিক কোম্পানি",
+           "গুদাম বাংলাদেশ", "পার্সেল ডেলিভারি", "মুভিং কোম্পানি",
+           "বাস কোম্পানি", "ট্রাক ভাড়া", "পিকআপ ভ্যান ভাড়া",
+           "কাভার্ড ভ্যান", "লরি পরিবহন", "এয়ার ফ্রেইট",
+           "সাপ্লাই চেইন কোম্পানি", "ইকমার্স লজিস্টিকস"]
+    competitor_target: 12
+    subsegments: ["courier", "freight-forwarding", "truck-transport",
+                  "shipping", "warehousing", "cold-chain", "ecommerce-logistics",
+                  "last-mile-delivery", "3PL"]
+    policy_sensitivity: low
+
+  agriculture-agro:
+    display_name: "Agriculture & Agro-processing"
+    status: active
+    priority_weight: 0.70
+    keywords:
+      en: ["fertilizer Bangladesh", "seed company BD", "pesticide Bangladesh",
+           "agricultural machinery Bangladesh", "irrigation pump BD",
+           "cold storage BD", "rice processing Bangladesh", "grain supplier BD",
+           "agro farm Bangladesh", "fish hatchery BD", "poultry farm Bangladesh",
+           "dairy farm Bangladesh", "shrimp processing Bangladesh",
+           "vegetable supplier Bangladesh", "agriculture equipment BD",
+           "tractor Bangladesh", "power tiller BD", "harvest machine Bangladesh",
+           "agro processing company BD", "fruit processing Bangladesh",
+           "spice processing BD", "jute mill Bangladesh", "tea garden BD",
+           "rubber plantation Bangladesh", "organic farm BD",
+           "agriculture consultant Bangladesh", "agri input supplier"]
+      bn: ["সার বাংলাদেশ", "বীজ কোম্পানি", "কীটনাশক",
+           "কৃষি যন্ত্রপাতি বাংলাদেশ", "সেচ পাম্প",
+           "কোল্ড স্টোরেজ", "ধান প্রক্রিয়াজাতকরণ", "খাদ্যশস্য সরবরাহকারী",
+           "কৃষি খামার বাংলাদেশ", "মাছের হ্যাচারি", "পোল্ট্রি ফার্ম",
+           "ডেইরি ফার্ম", "চিংড়ি প্রক্রিয়াজাতকরণ",
+           "ট্রাক্টর বাংলাদেশ", "পাওয়ার টিলার",
+           "কৃষি প্রক্রিয়াজাতকরণ কোম্পানি", "পাটকল বাংলাদেশ",
+           "চা বাগান", "অর্গানিক ফার্ম", "কৃষি পরামর্শক"]
+    competitor_target: 15
+    subsegments: ["fertilizer-seed", "farm-machinery", "irrigation",
+                  "poultry-dairy", "fish-shrimp", "rice-grain",
+                  "cold-storage", "agro-processing", "organic"]
+    policy_sensitivity: low

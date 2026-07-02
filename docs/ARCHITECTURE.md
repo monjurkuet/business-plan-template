@@ -110,7 +110,7 @@ business-plan-template/
 │   ├── evidence/                    # ~100+ timestamped raw evidence JSON files
 │   │   └── YYYYMMDD-HHMMSS.json
 │   ├── competitors/                 # JSON sidecars: aggregate, per-sector, per-competitor
-│   │   ├── all_competitors.json     # 65 competitors across 8 sectors
+│   │   ├── all_competitors.json     # competitors across 15 sectors
 │   │   ├── crypto-bitcoin.json      # Per-sector index
 │   │   ├── YYYY-MM-DD-slug.json     # Per-competitor sidecar
 │   │   └── ...
