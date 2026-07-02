@@ -90,6 +90,15 @@ freshness: fresh
 
 
 
+
 ## Recent Findings (2026-07-02)
 
-- **www.bimhomestudio.com** (conf: 0.74): Jul 29, 2025 ·ExploreBIMmodelling services inUSA—benefits, market growth & how to succeed in the U.S. AEC industry withBIMHome Studio’s expert.
+- **inframedarchitects.com** (conf: 0.69): Toparchitecture& design studio in Dhaka,Bangladesh— architectural design, interior design, landscape, and construction consultancy.
+
+- **www.archilovers.com** (conf: 0.69): Our studio is based onDhaka, Bangladesh. We provide complete solution related to design, approval and construction.Address Road no: 8, House no: 477, Baridhara DOHS,Dhaka, Bangladesh, 1206Dhaka| Bangl
+
+- **www.facebook.com** (conf: 0.69): Institute of ArchitectsBangladesh, Dhaka. 39,378 likes · 1,953 talking about this · 9,135 were here. This is the officialFacebookPage of the Institute of ArchitectsBangladesh(IAB).Jan 5, 2026 ·SPACE, 
+
+- **www.facebook.com** (conf: 0.69): Jan 5, 2026 ·SPACE, Dhaka. 2,592 likes · 159 were here. Consultancy, Construction and DevelopmentJun 5, 2026 ·Architect / Project Architect Location: Dhaka,BangladeshCompany: Interior Design & Archite
+
+- **www.facebook.com** (conf: 0.69): Jun 5, 2026 ·Architect / Project Architect Location: Dhaka,BangladeshCompany: Interior Design & ArchitectureFirmEmployment Type: Full-Time About the Role We are looking for a talented Architect to joi

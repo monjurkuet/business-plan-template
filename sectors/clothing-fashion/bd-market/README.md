@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-07-02
 freshness: fresh
-confidence: 0.574
-evidence_ids: ['8a86f522-4ed', '8d1e9f27-c8c', 'e9cc58ee-7d6', '19301279-d33', '29a892cb-d4f', 'd272cc2b-90d', '959012f9-1db', '290fc606-768', '0dcfd013-822', 'af770191-40a', '95c753b5-12c', 'ecee1616-b1b', '5cbcdc94-aee', 'e18dd2cc-38b', '866d3aa7-40d', '0ab08421-094', '3f7d55ba-194', '9fa40da7-6bd', '27d47436-fea', 'ff6c7059-fd4']
+confidence: 0.73
+evidence_ids: ['ff032e1a-fe5', '7f01b6c1-682', '51c19928-4c5', '06ad2144-2ae', '2fc34b63-51e', '0439235e-974', '56fa6b88-e40', 'd78ea3a6-c87', 'b959e9a2-3e3', 'dbaa14a7-fdb', 'a77b3e72-936', '23517b80-2e2', '15fddd93-9bd', '2f14df1a-398', '5d7d6384-987', 'a507f3ea-543', '0ba1e448-b03', '522b1cd9-81f', '73eb5b78-97b', '8be05127-afd']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -143,22 +143,23 @@ evidence_ids: ['8a86f522-4ed', '8d1e9f27-c8c', 'e9cc58ee-7d6', '19301279-d33', '
 
 
 
+
 ## Auto-Updated Data (2026-07-02)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Baggy Pants | search | 1.00 |
 | affordable | search | 0.90 |
-| boys, youth | search | 1.00 |
-| all over Bangladesh | search | 1.00 |
-| online clothing shop | search | 1.00 |
-| two-piece dresses | search | 0.90 |
-| Bangladesh | search | 1.00 |
-| affordable | search | 0.80 |
-| T-shirt manufacturer | search | 1.00 |
-| trusted and reliable clothing manufacturer in Bangladesh | search | 1.00 |
-| best factory prices | search | 0.90 |
-| highest-quality custom apparel | search | 0.90 |
+| all over Bangladesh | search | 0.95 |
+| ['free shipping', 'fast delivery', 'free return'] | search | 0.90 |
+| across Bangladesh | search | 0.95 |
+| ['t-shirts', 'polo shirts', 'casual shirts', 'summer wear'] | search | 0.95 |
+| affordable | search | 0.90 |
+| two-piece dresses | search | 0.95 |
+| verified suppliers | search | 0.95 |
+| trusted and reliable clothing manufacturer in Bangladesh | search | 0.90 |
+| best factory prices and highest-quality custom apparel | search | 0.80 |
 | 88 | search | 0.90 |
-| cotton | search | 1.00 |
 | fell over the past month | search | 0.90 |
+| NY/ICE futures contract (July) | search | 0.90 |
+| closure of the Strait of Hormuz sends oil and gas prices skyrocketing | search | 0.90 |
+| fast fashion companies reliant on cheap synthetic materials | search | 0.90 |

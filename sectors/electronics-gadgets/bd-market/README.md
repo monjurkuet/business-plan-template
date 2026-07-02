@@ -2,8 +2,8 @@
 sector: electronics-gadgets
 last_verified: 2026-07-02
 freshness: fresh
-confidence: 0.579
-evidence_ids: ['e80b378f-aad', '1ced4466-6b4', '76ba7cde-10d', '0cfa9df5-72a', '27e20390-132', 'a72721b0-356', '9d5296e9-9d3', '3544a958-22d', 'db59bb80-91d', '962ee537-76e', '35918a54-089', '85b5f3fb-d04', 'f937da9c-ac4', '29ae3976-a22', '044af61d-7fc', 'ff945ab2-081', '70e6c13e-99e', '7cb6f545-480', '0edab29e-499', 'cbb9e20d-a89']
+confidence: 0.699
+evidence_ids: ['4dce312a-262', '8e899f1b-5a1', 'daed49d7-a68', '491cb9da-9cb', '5d5889e2-61a', 'c44fdc53-f0c', 'e0c79ecd-7be', 'e369595d-f22', 'ba326b87-07e', '48abb73a-873', '53127507-8de', '87349837-c97', '94ec51b9-fa5', '5cf27e3f-b4c', '4766f651-63b', 'a6a7e98d-665', 'd8af95d5-a21', '9ad27b6e-196', 'f2e241da-768', 'c303e7f7-bb2']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -131,22 +131,23 @@ evidence_ids: ['e80b378f-aad', '1ced4466-6b4', '76ba7cde-10d', '0cfa9df5-72a', '
 
 
 
+
 ## Auto-Updated Data (2026-07-02)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 11900-130900 | search | 0.95 |
-| Speaker & Soundbar | search | 0.95 |
-| Samsung Microwave Oven | search | 0.95 |
-| Express Delivery | search | 0.90 |
-| official warranty | search | 0.90 |
-| Gadgets & Premium Accessories | search | 0.95 |
-| Free Shipping | search | 0.90 |
-| 15.00 | search | 0.80 |
-| BRANDS MEGA LTD | search | 0.95 |
-| Navana Tower (Level-18) 45 Gulshan Avenue, Gulshan-1 Dhaka -1212, Bangladesh | search | 0.95 |
-| ['electronics', 'fruits', 'vegetables', 'vehicles', 'crude oil', 'toys'] | search | 0.90 |
-| may go up | search | 0.80 |
-| ElectronicsBangladesh | search | 0.95 |
-| Dhaka | search | 0.95 |
-| 51734 | search | 0.95 |
+| competitive prices | search | 0.90 |
+| best prices | search | 0.90 |
+| Free Shipping | search | 0.95 |
+| 15.00 | search | 0.90 |
+| BRANDS MEGA LTD | search | 1.00 |
+| Navana Tower (Level-18) 45 Gulshan Avenue, Gulshan-1 Dhaka -1212, Bangladesh | search | 1.00 |
+| 51734 | search | 0.90 |
+| 8783 | search | 0.90 |
+| 5 | search | 0.90 |
+| 67255 | search | 0.90 |
+| 24 | search | 0.90 |
+| 1 | search | 0.90 |
+| 399000 | search | 0.90 |
+| 30000 | search | 0.90 |
+| 30 | search | 0.90 |

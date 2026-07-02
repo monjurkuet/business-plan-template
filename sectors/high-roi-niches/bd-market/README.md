@@ -2,8 +2,8 @@
 sector: high-roi-niches
 last_verified: 2026-07-02
 freshness: fresh
-confidence: 0.581
-evidence_ids: ['e7308f16-57b', 'e070fa6e-195', '93977fac-101', 'b454409f-d5a', '4daf3d6c-25d', '8c962aa0-2cc', '6674c481-bc4', 'bee61e7a-2d9', '7afd1473-666', '161228cc-27b', '3261555d-f47', '3c33ab60-22f', '98348e33-4bd', '66d5f75b-d0b', '81d035e4-ed4', 'b6015732-0e8', '6b485457-147', '940ecacd-7cc', '86e9cbae-141', '4d97a68c-815']
+confidence: 0.709
+evidence_ids: ['51b56aab-e7a', 'ebc832be-852', 'e62a09fa-5ed', 'cdd9fab3-732', '415fb5cc-bf9', '316dd1a9-3ca', '115f9ce8-9d2', 'f55f3153-118', '0bab29d4-339', '57e38c77-6f4', 'b76dd301-f14', '4a0807fe-da5', 'd5ea7ee2-b87', 'c337adf5-85a', '91c4ca41-d61', '7f79f7af-7d5', '63f42271-c77', '38c2ebb3-191', '3ff01317-24d', '4fa44e2a-5e5']
 ---
 
 # High-ROI Niches — Bangladesh Market
@@ -123,22 +123,23 @@ This sector captures high-growth, high-margin niche opportunities in Bangladesh.
 
 
 
+
 ## Auto-Updated Data (2026-07-02)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
 | HIT LIFE cat food | search | 0.90 |
 | grain-free cat food | search | 0.90 |
-| cat food price, pet care Bangladesh, cat adoption cost | search | 0.95 |
+| cat foodprice, kitchen flavor bangladesh | search | 0.80 |
+| cat adoption cost | search | 0.80 |
+| petcareBangladesh | search | 0.95 |
+| Vet in PetCareBangladesh | search | 0.90 |
+| 01912251312 | search | 0.90 |
 | PetZone BD | search | 0.95 |
 | petzonebd.com | search | 0.95 |
-| Pampered Paws Bangladesh | search | 0.90 |
-| PetCare Bangladesh | search | 1.00 |
+| Pampered PawsBangladesh | search | 0.90 |
+| AirconBangladesh | search | 0.90 |
+| airconbangladesh.com | search | 0.90 |
+| Pet Care Bangladesh | search | 1.00 |
 | 34 | search | 0.90 |
-| Buy, Sell, Care | search | 0.90 |
-| It is the ultimate platform for Bangladeshi pet lovers! We provide a trusted spa | search | 1.00 |
-| Buy and sell pets, access expert pet care advice, shop for pet supplies, connect | search | 0.95 |
-| Precise Petcare | search | 1.00 |
-| Dhaka | search | 1.00 |
-| 310 | search | 0.90 |
-| 2 | search | 0.90 |
+| 2025-02-20 | search | 0.90 |

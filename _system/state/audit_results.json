@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T21:17:55.610176+00:00",
+  "generated_at": "2026-07-02T00:06:24.912881+00:00",
   "total_files": 400,
   "sectors_audited": 9,
   "all_missing_files": [
@@ -11,8 +11,8 @@
     "bim-global-outreach: 2024",
     "clothing-fashion: 2023",
     "clothing-fashion: 2024",
-    "crypto-bitcoin: 2023",
     "crypto-bitcoin: 2024",
+    "crypto-bitcoin: 2023",
     "electronics-gadgets: 2023",
     "electronics-gadgets: 2024",
     "high-roi-niches: 2023",
@@ -115,8 +115,8 @@
       ],
       "missing_files": [],
       "stale_references": [
-        "2023",
-        "2024"
+        "2024",
+        "2023"
       ],
       "frontmatter_missing": [],
       "competitor_count": 11,

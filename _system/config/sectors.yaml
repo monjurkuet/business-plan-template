@@ -137,8 +137,28 @@ sectors:
     status: active
     priority_weight: 0.80
     keywords:
-      en: ["BIM outsourcing USA", "Revit modeling services", "MEP coordination", "BIM consultant UK", "architectural BIM services", "scan to BIM", "construction documentation", "BIM production partner"]
-      bn: []
+      en: [
+        # BD businesses to sell BIM services to
+        "architecture firm", "engineering consultant", "construction company",
+        "interior design", "real estate developer", "structural engineer",
+        "MEP consultant", "civil engineer", "building design",
+        "architectural design", "3D modeling service", "project management consultancy",
+        "urban planning", "quantity surveyor", "building contractor", "land surveyor",
+        "drafting service", "CAD service", "landscape architect",
+        # Global/US/UK clients for BIM outsourcing
+        "BIM outsourcing", "Revit modeling service",
+        "MEP coordination", "BIM consultant", "architectural BIM service",
+        "scan to BIM", "construction documentation", "BIM production partner"
+      ]
+      bn: ["আর্কিটেকচার ফার্ম", "ইঞ্জিনিয়ারিং কনসালটেন্ট", "কনস্ট্রাকশন কোম্পানি",
+           "স্ট্রাকচারাল ইঞ্জিনিয়ার", "সিভিল ইঞ্জিনিয়ার", "বিল্ডিং ডিজাইন",
+           "জমি জরিপ", "ড্রাফটিং সার্ভিস", "ডেভেলপার কোম্পানি"]
     competitor_target: 12
-    subsegments: ["architectural BIM", "MEP coordination", "scan-to-BIM", "BIM consulting", "construction documentation", "visualization", "structural BIM"]
+    subsegments: [
+      "architecture", "structural engineering", "MEP design",
+      "BIM modeling", "construction management", "interior design",
+      "urban planning", "land surveying", "drafting",
+      "BIM outsourcing", "scan-to-BIM", "BIM consulting",
+      "construction documentation", "visualization"
+    ]
     policy_sensitivity: low

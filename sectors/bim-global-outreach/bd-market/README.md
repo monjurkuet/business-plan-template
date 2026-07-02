@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-07-02
 freshness: fresh
-confidence: 0.569
-evidence_ids: ['be18541d-a27', 'eda6e618-c78', 'f5a448c0-09b', '139896f6-31a', '2e8bf6f9-c7f', 'df10b79f-42b', '4b720f1f-056', 'f60d31a7-b1a', '3161b740-e59', '4c1058c2-c0a', 'fb0d60ba-5f1', '2f71ceb0-490', '42d2b424-a3e', 'dbd46de3-e0e', 'bc40951b-da5', '67d51a6d-254', 'd0bee9be-991', 'b092d394-fa1', '3e3c3fe2-cfc', '3b7db210-41b']
+confidence: 0.696
+evidence_ids: ['f17768c4-ad8', 'c3ea4303-a89', '4f781841-a86', '6febffc5-daf', '27bc77aa-d10', 'b5474f9d-991', '9347a83e-3cf', '7ddc1243-315', 'f82940f3-eb3', '6271cb0b-c0c', 'cd5145a4-d42', '969d68c4-005', '00ea1368-209', 'e9c1252e-2c7', 'b3ed32e2-ec8', '1c26ae89-e24', '20c115b3-7b9', '555f52b2-205', 'c875f979-7a7', 'e2aa159a-a84']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -148,22 +148,23 @@ evidence_ids: ['be18541d-a27', 'eda6e618-c78', 'f5a448c0-09b', '139896f6-31a', '
 
 
 
+
 ## Auto-Updated Data (2026-07-02)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Eid | search | 1.00 |
-| boosts the national economy | search | 0.90 |
-| apparel sales | search | 1.00 |
-| ['social media influencers', 'digital retail'] | search | 0.95 |
-| ['online', 'offline'] | search | 0.90 |
-| Eid al-Adha | search | 1.00 |
-| sale of albino buffalo nicknamed 'Donald Trump' | search | 1.00 |
-| 2026-05-23 | search | 0.90 |
-| ahead of last year’s pace | search | 0.90 |
-| three to six maunds | search | 0.95 |
-| medium-sized cows | search | 0.95 |
-| Eid Cattle Market Bangladesh 2026 | search | 0.95 |
-| 2026-05-22 | search | 0.90 |
-| ['Pabna', 'Sirajganj'] | search | 0.95 |
-| growing | search | 0.90 |
+| EID Architecture Showcase | search | 0.95 |
+| Panda Pavilions | search | 0.95 |
+| 2020-12-05 | search | 0.95 |
+| 1 Mins | search | 0.90 |
+| 3000 | search | 0.90 |
+| AVA Architects | search | 0.95 |
+| purposeful, human-centric architectural solutions | search | 0.90 |
+| minimal, typography-led visuals; refined tone; durability, utility, and beauty | search | 0.90 |
+| EID Architecture | search | 0.95 |
+| Medog Meteorological Center (MMC) | search | 0.95 |
+| Nyingchi prefecture, Tibet, China | search | 0.95 |
+| ['Hong Kong', 'Shanghai'] | search | 0.95 |
+| Khosla Associates | search | 0.90 |
+| Bangalore, India | search | 0.90 |
+| bars, restaurants, hotels | search | 0.90 |
