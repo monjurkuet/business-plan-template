@@ -1,21 +1,10 @@
 {
-  "generated_at": "2026-07-03T12:12:00.950707+00:00",
+  "generated_at": "2026-07-03T13:13:58.492595+00:00",
   "summary": {
-    "files_checked": 206,
-    "violations": 2,
+    "files_checked": 214,
+    "violations": 0,
     "warnings": 0
   },
-  "violations": [
-    {
-      "file": "sectors/bim-global-outreach/bd-market/competitors/virtual-building-studio.md",
-      "type": "missing_field",
-      "detail": "Missing required field: confidence"
-    },
-    {
-      "file": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-sailor.md",
-      "type": "missing_field",
-      "detail": "Missing required field: confidence"
-    }
-  ],
+  "violations": [],
   "warnings": []
 }

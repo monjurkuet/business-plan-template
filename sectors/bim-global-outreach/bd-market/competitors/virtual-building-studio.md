@@ -2,6 +2,7 @@
 sector: bim-global-outreach
 last_verified: 2026-07-03
 freshness: fresh
+confidence: 0.50
 ---
 
 # Virtual Building Studio
