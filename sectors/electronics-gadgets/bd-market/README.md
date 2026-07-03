@@ -2,8 +2,8 @@
 sector: electronics-gadgets
 last_verified: 2026-07-03
 freshness: fresh
-confidence: 0.705
-evidence_ids: ['cebbb491-a45', '1cdd1437-340', '67e5945c-ad5', 'a55e65c1-19e', 'e3388bfd-aec', '0f9b4072-abe', '944aa44e-3bc', 'bba7ae77-36f', '6d802cc7-8e5', '9c60ad75-848', '1f46ad59-b96', '1ae2b505-86d', 'b4d5fd34-1ee', '16f7588d-d1d', '1976b580-5d8', '567fffe4-116', 'd99e8944-116', '0cb88a89-e43', 'de70b1bf-1c8', 'e96f7d4d-872']
+confidence: 0.733
+evidence_ids: ['30c10f1e-469', 'aba3b266-ad9', 'dc4942e0-f61', '18dd114c-316', 'eb1469af-8da', 'b92ab489-b77', 'c1387e69-d78', '0a1fee7c-51c', '421bfae5-ce1', '65fe2d75-78a', 'f9305dbd-bcd', '8f478e74-192', '717aa2b7-749', 'fcf094c1-20e', '1e0b3b9f-48e', '7db857d0-be5', 'faefd632-1ec', '7cd5d078-9f2', 'e873c79f-b71', '285e3af1-b70']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -136,22 +136,23 @@ evidence_ids: ['cebbb491-a45', '1cdd1437-340', '67e5945c-ad5', 'a55e65c1-19e', '
 
 
 
+
 ## Auto-Updated Data (2026-07-03)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| smartphones | search | 0.95 |
-| ['Samsung', 'Xiaomi', 'OnePlus', 'Vivo', 'HONOR', 'Infinix', 'Tecno'] | search | 0.98 |
-| 100% genuine with official warranty | search | 0.95 |
-| competitive smartphone price in BD | search | 0.90 |
-| TV & Home Appliances | search | 0.95 |
-| energy-efficient, convenience, durability | search | 0.90 |
-| latest prices in Bangladesh | search | 0.90 |
-| homes and businesses | search | 0.90 |
-| Electronics Bangladesh | search | 0.98 |
-| Dhaka | search | 0.98 |
-| 53345 | search | 0.98 |
-| 16960 | search | 0.98 |
-| 5 | search | 0.95 |
-| ['TVs', 'fridges', 'ACs'] | search | 0.95 |
-| 14,699 - 31,899 | search | 0.98 |
+| ['ACs', 'refrigerators', 'washing machines', 'smart TVs', 'ovens'] | search | 1.00 |
+| ['official warranty', 'EMI facilities', 'fast home delivery'] | search | 1.00 |
+| E-Commerce shop for Electronics | search | 1.00 |
+| highest rated and most trusted consumer electronics online shopping platform | search | 0.90 |
+| premium quality products | search | 0.90 |
+| seamless online shopping experience | search | 0.90 |
+| Original Electronic Appliances | search | 1.00 |
+| one-stop shop for electronic and electrical products | search | 1.00 |
+| authorized multi-brand electronics retailer | search | 1.00 |
+| 0% EMI | search | 1.00 |
+| 16 | search | 1.00 |
+| nationwide | search | 1.00 |
+| 53483 | search | 1.00 |
+| 13335 | search | 1.00 |
+| 5 | search | 1.00 |

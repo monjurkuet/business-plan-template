@@ -2,8 +2,8 @@
 sector: education-training
 last_verified: 2026-07-03
 freshness: fresh
-confidence: 0.641
-evidence_ids: ['5b2996dd-b79', '094e230e-e73', '469069b9-c0c', '432d87ee-c78', '6b607bff-725', 'b500fd86-c0a', 'b94d3d74-bf1', '53e5381f-8cb', '32da98f5-a17', '8b32f2be-58b', '1e4b942b-8a4', '2c940dad-e76', 'd55b6fdc-ee4', '2ab42a06-b97', '6b93e53b-451', '064f452b-b2c', '3fab63dc-51d', '05e0c943-8e3', '4cf872e8-0da', '29419540-de5']
+confidence: 0.708
+evidence_ids: ['c129214c-59c', 'e08f1fdc-3c3', '88fa7813-969', '794123c3-fba', 'a386b6e3-338', 'ede69338-02a', '4ce0c773-942', 'c7dd6755-836', '69776d8a-e26', '0d27ad92-871', '217a91f2-055', 'f41245f6-125', '1d21f790-ccb', 'f25564f5-dd1', 'd8fc19f5-57f', '773f1e5a-f01', '72dfb504-cf8', '4a3e084e-349', '9a472a46-b73', 'd1f5c9d2-b32']
 ---
 
 # Education & Training — Bangladesh Market
@@ -36,22 +36,18 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 - Pricing guide
 - Financial model
 
+
 ## Auto-Updated Data (2026-07-03)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Online Hindi Classes | search | 0.90 |
-| CBSE/ICSE coaching, Spoken Hindi | search | 0.90 |
-| Bangladesh | search | 0.95 |
-| coaching center | search | 0.90 |
-| Online NCLEX Coaching | search | 0.95 |
-| Mantram Nursing Academy | search | 0.90 |
-| Bangladesh | search | 0.95 |
-| coaching center | search | 0.95 |
-| Easy Learning Coaching Center | search | 0.95 |
-| Yakin Uddin Akib | search | 0.95 |
-| National University, Bangladesh | search | 0.90 |
-| Chattogram, Bangladesh | search | 0.95 |
-| coaching center | search | 0.95 |
-| Easy Coaching Center (E.C.C) | search | 0.95 |
-| Jaleshwaritola, Bogra, Bangladesh | search | 0.95 |
+| corporate coaching services | search | 1.00 |
+| 2026-05-28 | search | 1.00 |
+| corporate training | search | 0.95 |
+| ['IELTS', 'medical admissions', 'O/A levels', 'study abroad'] | search | 0.90 |
+| Dhaka | search | 0.80 |
+| 4654 | search | 0.95 |
+| 2026-04 | search | 0.90 |
+| ['Digicon Technologies Ltd', 'E-Learning & Earning LTD', 'U S Software Ltd', 'PM | search | 0.95 |
+| ['Training Pundit', 'ENSDI - ইন্সডি (training & consultancy)'] | search | 0.90 |
+| ['Training Pundit', 'ENSDI - ইন্সডি (training & consultancy)'] | search | 0.95 |

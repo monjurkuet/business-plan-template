@@ -1,6 +1,17 @@
 {
-  "total": 9,
+  "total": 14,
   "entries": [
+    {
+      "doc_type": "pricing_guide",
+      "sector": "agriculture-agro",
+      "last_verified_at": "",
+      "freshness_status": "unknown",
+      "confidence_score": 0.0,
+      "pricing_entries": [],
+      "total_entries": 0,
+      "has_data": false,
+      "file_path": "sectors/agriculture-agro/bd-market/pricing-guide.md"
+    },
     {
       "doc_type": "pricing_guide",
       "sector": "automotive-car-care",
@@ -36,6 +47,17 @@
     },
     {
       "doc_type": "pricing_guide",
+      "sector": "construction-real-estate",
+      "last_verified_at": "",
+      "freshness_status": "unknown",
+      "confidence_score": 0.0,
+      "pricing_entries": [],
+      "total_entries": 0,
+      "has_data": false,
+      "file_path": "sectors/construction-real-estate/bd-market/pricing-guide.md"
+    },
+    {
+      "doc_type": "pricing_guide",
       "sector": "crypto-bitcoin",
       "last_verified_at": "",
       "freshness_status": "unknown",
@@ -47,6 +69,17 @@
     },
     {
       "doc_type": "pricing_guide",
+      "sector": "education-training",
+      "last_verified_at": "",
+      "freshness_status": "unknown",
+      "confidence_score": 0.0,
+      "pricing_entries": [],
+      "total_entries": 0,
+      "has_data": false,
+      "file_path": "sectors/education-training/bd-market/pricing-guide.md"
+    },
+    {
+      "doc_type": "pricing_guide",
       "sector": "electronics-gadgets",
       "last_verified_at": "",
       "freshness_status": "unknown",
@@ -55,6 +88,28 @@
       "total_entries": 0,
       "has_data": false,
       "file_path": "sectors/electronics-gadgets/bd-market/pricing-guide.md"
+    },
+    {
+      "doc_type": "pricing_guide",
+      "sector": "food-beverage",
+      "last_verified_at": "",
+      "freshness_status": "unknown",
+      "confidence_score": 0.0,
+      "pricing_entries": [],
+      "total_entries": 0,
+      "has_data": false,
+      "file_path": "sectors/food-beverage/bd-market/pricing-guide.md"
+    },
+    {
+      "doc_type": "pricing_guide",
+      "sector": "healthcare-pharma",
+      "last_verified_at": "",
+      "freshness_status": "unknown",
+      "confidence_score": 0.0,
+      "pricing_entries": [],
+      "total_entries": 0,
+      "has_data": false,
+      "file_path": "sectors/healthcare-pharma/bd-market/pricing-guide.md"
     },
     {
       "doc_type": "pricing_guide",

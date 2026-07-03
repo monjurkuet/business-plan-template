@@ -6,7 +6,8 @@
   "frontmatter": {
     "sector": "bim-global-outreach",
     "last_verified": "2026-07-03",
-    "freshness": "fresh"
+    "freshness": "fresh",
+    "confidence": "0.50"
   },
   "profile_category": "",
   "entity_slug": "xs-cad",

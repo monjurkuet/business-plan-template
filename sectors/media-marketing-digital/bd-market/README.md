@@ -2,8 +2,8 @@
 sector: media-marketing-digital
 last_verified: 2026-07-03
 freshness: fresh
-confidence: 0.696
-evidence_ids: ['277f1803-329', '916f309d-e17', 'ed5ddf4e-525', '39435592-a02', '5d9b3d15-6c5', '02a9f9ee-bb8', '34a0aacf-0a9', '417bb702-d09', '661afd71-8af', '0055c82f-a25', '8741d967-4d8', '2ff4d387-8f9', 'c86ffa2a-6e2', '0811c638-5c9', 'bc9c36ec-76f', '46a18ffa-3d9', 'f7c60478-b03', 'c0ec4310-2e1', '3fe785da-054', 'e6d33a87-a46']
+confidence: 0.691
+evidence_ids: ['11d59289-dad', '0bf502f3-bef', '9997a356-1b9', '2c596ff1-e7c', '1e6d3a2b-50e', 'b4269770-67a', 'b531bbca-bb3', '2b50bde4-190', 'b4dbf730-61b', '9815d0c3-feb', '17080a92-b6a', '1bc3f69d-dfc', '08a49c7b-138', '8b315a39-8be', 'f4afb99e-11b', '4244d604-1ca', '15c7150e-07d', '5d3d7d3c-871', 'efc45143-f96', '10de49ab-a8d']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market
@@ -131,20 +131,23 @@ evidence_ids: ['277f1803-329', '916f309d-e17', 'ed5ddf4e-525', '39435592-a02', '
 
 
 
+
 ## Auto-Updated Data (2026-07-03)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| pay only for what you use | search | 0.90 |
-| digital multichannel marketing campaigns (Bulk SMS, Email, Voice) | search | 0.95 |
-| Bangladesh | search | 0.95 |
-| 2026 | search | 0.95 |
-| Provides price benchmarks for digital marketing services in Bangladesh to aid bu | search | 0.90 |
-| ['GEEKY SOCIAL LTD.', 'OneLittleWeb', 'BrandViser', 'MonsterClaw LLC', 'Ecomclip | search | 1.00 |
-| Clutch.co | search | 1.00 |
-| 2026-06 | search | 0.90 |
-| Connect with Bangladesh's top digital marketing companies based on verified revi | search | 0.95 |
-| Goodfirms | search | 1.00 |
-| 207 | search | 1.00 |
-| Bangladesh-based IT companies started exporting software around two decades ago  | search | 0.90 |
-| TechBehemoths | search | 1.00 |
+| Bulk SMS | search | 0.90 |
+| Email Marketing | search | 0.90 |
+| Interactive Voice | search | 0.90 |
+| best price in digital marketing Bangladesh | search | 0.80 |
+| GEEKY SOCIAL LTD. | search | 0.95 |
+| OneLittleWeb | search | 0.95 |
+| BrandViser | search | 0.95 |
+| MonsterClaw LLC | search | 0.95 |
+| Ecomclips | search | 0.95 |
+| Notionhive | search | 0.95 |
+| VISER X | search | 0.95 |
+| Beyond | search | 0.90 |
+| Marketorr BD | search | 0.95 |
+| SEO | search | 0.90 |
+| Web Development | search | 0.90 |

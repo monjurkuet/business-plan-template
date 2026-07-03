@@ -43,6 +43,7 @@ EXPECTED_SUBDIRS = {
 STALE_YEAR_PATTERNS = [
     re.compile(r'\b2023\b'),
     re.compile(r'\b2024\b'),
+    re.compile(r'\b2025\b'),
 ]
 
 

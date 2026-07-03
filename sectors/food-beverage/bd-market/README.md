@@ -2,8 +2,8 @@
 sector: food-beverage
 last_verified: 2026-07-03
 freshness: fresh
-confidence: 0.731
-evidence_ids: ['9527c0af-a9c', '2315cf8c-a26', '4a3bdd54-aa7', 'e3f85d76-11f', '5ee1091e-c01', 'd56eaba2-79d', '775c08c0-52f', '8d0ede48-e2b', 'c0a17585-e95', '92571bac-5ba', '4037da07-08d', 'e056b892-f35', 'f43b59fa-7d9', '98bc2813-11c', 'c7adec3c-8de', '29f67b67-7f6', '251c316d-e9d', 'a978e77d-18e', 'fbd0ff04-c80', '86b4a90b-49f']
+confidence: 0.724
+evidence_ids: ['8b24165f-38d', 'f82bd772-100', '2d3ec0f1-d2e', '4c1a5dda-f4e', 'c8cf9728-83e', 'c396f6c2-040', '39026bc8-b98', 'ac902927-3e9', 'b50662ba-c3e', 'e62e1696-901', 'f4768b4a-b92', '51f9dd30-7e8', '348680bd-a0f', 'dddb9da4-093', 'b99bb3d8-103', '9fe03522-ade', '0cfe194b-f3e', 'c9ab648d-540', '6bb90993-12a', '3cf1d16c-814']
 ---
 
 # Food & Beverage — Bangladesh Market
@@ -36,22 +36,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 - Pricing guide
 - Financial model
 
+
 ## Auto-Updated Data (2026-07-03)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Best Rooftop Restaurant in Bangladesh | search | 0.90 |
-| 20 minutes from downtown Montreal | search | 0.80 |
-| stunning views and delicious cuisine | search | 0.90 |
-| Famous Biryani Restaurant In Bangladesh | search | 0.90 |
-| Delhi Belly Restaurant | search | 0.90 |
-| Bangladeshi Food | search | 0.90 |
-| 16 | search | 0.80 |
-| Bangladesh Tandoori Restaurant | search | 1.00 |
-| Campbeltown | search | 1.00 |
-| 4.1 | search | 1.00 |
-| 10 | search | 1.00 |
-| ['Indian', 'Asian', 'Bangladeshi'] | search | 1.00 |
-| food photography | search | 1.00 |
-| Boss Man Digital Marketing Agency | search | 1.00 |
+| Bangladesh's premier restaurant discovery platform | search | 0.90 |
+| 2020 | search | 0.90 |
+| 31547 | search | 0.95 |
+| 942 | search | 0.95 |
+| Dhaka City, Dhaka Division | search | 1.00 |
+| ['Bangladeshi cuisine', 'family restaurants', 'local restaurants', 'fine dining' | search | 0.90 |
+| ['Dhaka', 'Uttara', 'Dhanmondi'] | search | 0.95 |
+| Top 20 Restaurant in Dhaka | search | 0.95 |
+| international restaurants | search | 0.90 |
 | Dhaka | search | 1.00 |
+| cheap buffet restaurants | search | 0.90 |
+| Trying out new tastes around the city has become a trend among food lovers in Ba | search | 0.95 |
+| Despite hundreds of new restaurants opening regularly, demand remains stable | search | 0.95 |
+| Local fast food shops shifting from single locations to franchise models | search | 0.90 |
+| 2022-09-18 | search | 1.00 |

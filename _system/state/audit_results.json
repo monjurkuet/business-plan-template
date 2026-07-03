@@ -1,26 +1,9 @@
 {
-  "generated_at": "2026-07-03T06:05:04.988712+00:00",
-  "total_files": 406,
+  "generated_at": "2026-07-03T12:02:46.231810+00:00",
+  "total_files": 439,
   "sectors_audited": 15,
   "all_missing_files": [
-    "agriculture-agro/go-to-market.md",
-    "agriculture-agro/risk-register.md",
-    "agriculture-agro/strategy-canvas.md",
-    "agriculture-agro/regulatory.md",
-    "agriculture-agro/pricing-guide.md",
-    "agriculture-agro/sentiment-analysis.md",
-    "agriculture-agro/seasonality.md",
-    "agriculture-agro/research/landscape-report.md",
     "agriculture-agro/competitors/ (directory)",
-    "bim-global-outreach/seasonality.md",
-    "construction-real-estate/go-to-market.md",
-    "construction-real-estate/risk-register.md",
-    "construction-real-estate/strategy-canvas.md",
-    "construction-real-estate/regulatory.md",
-    "construction-real-estate/pricing-guide.md",
-    "construction-real-estate/sentiment-analysis.md",
-    "construction-real-estate/seasonality.md",
-    "construction-real-estate/research/landscape-report.md",
     "construction-real-estate/competitors/ (directory)",
     "education-training/go-to-market.md",
     "education-training/risk-register.md",
@@ -31,23 +14,7 @@
     "education-training/seasonality.md",
     "education-training/research/landscape-report.md",
     "education-training/competitors/ (directory)",
-    "food-beverage/go-to-market.md",
-    "food-beverage/risk-register.md",
-    "food-beverage/strategy-canvas.md",
-    "food-beverage/regulatory.md",
-    "food-beverage/pricing-guide.md",
-    "food-beverage/sentiment-analysis.md",
-    "food-beverage/seasonality.md",
-    "food-beverage/research/landscape-report.md",
     "food-beverage/competitors/ (directory)",
-    "healthcare-pharma/go-to-market.md",
-    "healthcare-pharma/risk-register.md",
-    "healthcare-pharma/strategy-canvas.md",
-    "healthcare-pharma/regulatory.md",
-    "healthcare-pharma/pricing-guide.md",
-    "healthcare-pharma/sentiment-analysis.md",
-    "healthcare-pharma/seasonality.md",
-    "healthcare-pharma/research/landscape-report.md",
     "healthcare-pharma/competitors/ (directory)",
     "logistics-transport/go-to-market.md",
     "logistics-transport/risk-register.md",
@@ -62,31 +29,39 @@
   "all_stale_references": [
     "automotive-car-care: 2024",
     "automotive-car-care: 2023",
+    "automotive-car-care: 2025",
     "bim-global-outreach: 2024",
+    "bim-global-outreach: 2025",
     "clothing-fashion: 2024",
     "clothing-fashion: 2023",
-    "construction-real-estate: 2024",
+    "clothing-fashion: 2025",
     "crypto-bitcoin: 2024",
     "crypto-bitcoin: 2023",
+    "crypto-bitcoin: 2025",
     "electronics-gadgets: 2024",
     "electronics-gadgets: 2023",
+    "electronics-gadgets: 2025",
+    "food-beverage: 2025",
+    "healthcare-pharma: 2025",
     "high-roi-niches: 2024",
     "high-roi-niches: 2023",
+    "high-roi-niches: 2025",
     "jewellery: 2024",
     "jewellery: 2023",
+    "jewellery: 2025",
     "media-marketing-digital: 2024",
     "media-marketing-digital: 2023",
+    "media-marketing-digital: 2025",
     "travel-tourism: 2024",
-    "travel-tourism: 2023"
+    "travel-tourism: 2023",
+    "travel-tourism: 2025"
   ],
   "all_frontmatter_missing": [],
   "sector_audits": [
     {
       "sector": "agriculture-agro",
       "present_files": [
-        "README.md"
-      ],
-      "missing_files": [
+        "README.md",
         "go-to-market.md",
         "risk-register.md",
         "strategy-canvas.md",
@@ -94,7 +69,9 @@
         "pricing-guide.md",
         "sentiment-analysis.md",
         "seasonality.md",
-        "research/landscape-report.md",
+        "research/landscape-report.md"
+      ],
+      "missing_files": [
         "competitors/ (directory)"
       ],
       "stale_references": [],
@@ -102,8 +79,8 @@
       "competitor_count": 0,
       "competitor_target": 15,
       "files_expected": 9,
-      "files_present": 1,
-      "health_score": 0.256
+      "files_present": 9,
+      "health_score": 0.7
     },
     {
       "sector": "automotive-car-care",
@@ -121,7 +98,8 @@
       "missing_files": [],
       "stale_references": [
         "2024",
-        "2023"
+        "2023",
+        "2025"
       ],
       "frontmatter_missing": [],
       "competitor_count": 12,
@@ -139,20 +117,20 @@
         "strategy-canvas.md",
         "regulatory.md",
         "pricing-guide.md",
-        "sentiment-analysis.md"
-      ],
-      "missing_files": [
+        "sentiment-analysis.md",
         "seasonality.md"
       ],
+      "missing_files": [],
       "stale_references": [
-        "2024"
+        "2024",
+        "2025"
       ],
       "frontmatter_missing": [],
       "competitor_count": 12,
       "competitor_target": 12,
       "files_expected": 9,
-      "files_present": 7,
-      "health_score": 0.889
+      "files_present": 8,
+      "health_score": 0.944
     },
     {
       "sector": "clothing-fashion",
@@ -170,7 +148,8 @@
       "missing_files": [],
       "stale_references": [
         "2024",
-        "2023"
+        "2023",
+        "2025"
       ],
       "frontmatter_missing": [],
       "competitor_count": 8,
@@ -182,9 +161,7 @@
     {
       "sector": "construction-real-estate",
       "present_files": [
-        "README.md"
-      ],
-      "missing_files": [
+        "README.md",
         "go-to-market.md",
         "risk-register.md",
         "strategy-canvas.md",
@@ -192,18 +169,18 @@
         "pricing-guide.md",
         "sentiment-analysis.md",
         "seasonality.md",
-        "research/landscape-report.md",
+        "research/landscape-report.md"
+      ],
+      "missing_files": [
         "competitors/ (directory)"
       ],
-      "stale_references": [
-        "2024"
-      ],
+      "stale_references": [],
       "frontmatter_missing": [],
       "competitor_count": 0,
       "competitor_target": 15,
       "files_expected": 9,
-      "files_present": 1,
-      "health_score": 0.256
+      "files_present": 9,
+      "health_score": 0.7
     },
     {
       "sector": "crypto-bitcoin",
@@ -221,7 +198,8 @@
       "missing_files": [],
       "stale_references": [
         "2024",
-        "2023"
+        "2023",
+        "2025"
       ],
       "frontmatter_missing": [],
       "competitor_count": 11,
@@ -270,7 +248,8 @@
       "missing_files": [],
       "stale_references": [
         "2024",
-        "2023"
+        "2023",
+        "2025"
       ],
       "frontmatter_missing": [],
       "competitor_count": 7,
@@ -282,9 +261,7 @@
     {
       "sector": "food-beverage",
       "present_files": [
-        "README.md"
-      ],
-      "missing_files": [
+        "README.md",
         "go-to-market.md",
         "risk-register.md",
         "strategy-canvas.md",
@@ -292,23 +269,25 @@
         "pricing-guide.md",
         "sentiment-analysis.md",
         "seasonality.md",
-        "research/landscape-report.md",
+        "research/landscape-report.md"
+      ],
+      "missing_files": [
         "competitors/ (directory)"
       ],
-      "stale_references": [],
+      "stale_references": [
+        "2025"
+      ],
       "frontmatter_missing": [],
       "competitor_count": 0,
       "competitor_target": 15,
       "files_expected": 9,
-      "files_present": 1,
-      "health_score": 0.256
+      "files_present": 9,
+      "health_score": 0.7
     },
     {
       "sector": "healthcare-pharma",
       "present_files": [
-        "README.md"
-      ],
-      "missing_files": [
+        "README.md",
         "go-to-market.md",
         "risk-register.md",
         "strategy-canvas.md",
@@ -316,16 +295,20 @@
         "pricing-guide.md",
         "sentiment-analysis.md",
         "seasonality.md",
-        "research/landscape-report.md",
+        "research/landscape-report.md"
+      ],
+      "missing_files": [
         "competitors/ (directory)"
       ],
-      "stale_references": [],
+      "stale_references": [
+        "2025"
+      ],
       "frontmatter_missing": [],
       "competitor_count": 0,
       "competitor_target": 15,
       "files_expected": 9,
-      "files_present": 1,
-      "health_score": 0.256
+      "files_present": 9,
+      "health_score": 0.7
     },
     {
       "sector": "high-roi-niches",
@@ -343,7 +326,8 @@
       "missing_files": [],
       "stale_references": [
         "2024",
-        "2023"
+        "2023",
+        "2025"
       ],
       "frontmatter_missing": [],
       "competitor_count": 7,
@@ -368,7 +352,8 @@
       "missing_files": [],
       "stale_references": [
         "2024",
-        "2023"
+        "2023",
+        "2025"
       ],
       "frontmatter_missing": [],
       "competitor_count": 6,
@@ -417,7 +402,8 @@
       "missing_files": [],
       "stale_references": [
         "2024",
-        "2023"
+        "2023",
+        "2025"
       ],
       "frontmatter_missing": [],
       "competitor_count": 7,
@@ -442,7 +428,8 @@
       "missing_files": [],
       "stale_references": [
         "2024",
-        "2023"
+        "2023",
+        "2025"
       ],
       "frontmatter_missing": [],
       "competitor_count": 7,

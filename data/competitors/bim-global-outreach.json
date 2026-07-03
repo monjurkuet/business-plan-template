@@ -59,7 +59,8 @@
       "frontmatter": {
         "sector": "bim-global-outreach",
         "last_verified": "2026-07-02",
-        "freshness": "fresh"
+        "freshness": "fresh",
+        "confidence": "0.50"
       },
       "profile_category": "",
       "entity_slug": "bimex",
@@ -201,7 +202,8 @@
       "frontmatter": {
         "sector": "bim-global-outreach",
         "last_verified": "2026-07-03",
-        "freshness": "fresh"
+        "freshness": "fresh",
+        "confidence": "0.50"
       },
       "profile_category": "",
       "entity_slug": "engineering-services-usa",
@@ -342,7 +344,8 @@
       "frontmatter": {
         "sector": "bim-global-outreach",
         "last_verified": "2026-07-03",
-        "freshness": "fresh"
+        "freshness": "fresh",
+        "confidence": "0.50"
       },
       "profile_category": "",
       "entity_slug": "silicon-valley-cad",
@@ -386,7 +389,8 @@
       "frontmatter": {
         "sector": "bim-global-outreach",
         "last_verified": "2026-07-02",
-        "freshness": "fresh"
+        "freshness": "fresh",
+        "confidence": "0.50"
       },
       "profile_category": "",
       "entity_slug": "tesla-outsourcing",
@@ -524,7 +528,8 @@
       "frontmatter": {
         "sector": "bim-global-outreach",
         "last_verified": "2026-07-03",
-        "freshness": "fresh"
+        "freshness": "fresh",
+        "confidence": "0.50"
       },
       "profile_category": "",
       "entity_slug": "xs-cad",

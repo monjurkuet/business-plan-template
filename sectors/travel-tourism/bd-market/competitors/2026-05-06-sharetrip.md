@@ -2,6 +2,7 @@
 sector: travel-tourism
 last_verified: 2026-07-02
 freshness: fresh
+confidence: 0.50
 ---
 
 # Competitor: Sharetrip

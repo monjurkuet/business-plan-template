@@ -1,6 +1,19 @@
 {
-  "total": 9,
+  "total": 14,
   "entries": [
+    {
+      "doc_type": "regulatory",
+      "sector": "agriculture-agro",
+      "last_verified_at": "",
+      "freshness_status": "unknown",
+      "confidence_score": 0.0,
+      "legal_status": "",
+      "registration_requirements": [],
+      "sector_specific_requirements": [],
+      "regulatory_bodies": [],
+      "has_data": false,
+      "file_path": "sectors/agriculture-agro/bd-market/regulatory.md"
+    },
     {
       "doc_type": "regulatory",
       "sector": "automotive-car-care",
@@ -125,6 +138,19 @@
     },
     {
       "doc_type": "regulatory",
+      "sector": "construction-real-estate",
+      "last_verified_at": "",
+      "freshness_status": "unknown",
+      "confidence_score": 0.0,
+      "legal_status": "",
+      "registration_requirements": [],
+      "sector_specific_requirements": [],
+      "regulatory_bodies": [],
+      "has_data": false,
+      "file_path": "sectors/construction-real-estate/bd-market/regulatory.md"
+    },
+    {
+      "doc_type": "regulatory",
       "sector": "crypto-bitcoin",
       "last_verified_at": "",
       "freshness_status": "unknown",
@@ -179,6 +205,19 @@
       ],
       "has_data": true,
       "file_path": "sectors/crypto-bitcoin/bd-market/regulatory.md"
+    },
+    {
+      "doc_type": "regulatory",
+      "sector": "education-training",
+      "last_verified_at": "",
+      "freshness_status": "unknown",
+      "confidence_score": 0.0,
+      "legal_status": "",
+      "registration_requirements": [],
+      "sector_specific_requirements": [],
+      "regulatory_bodies": [],
+      "has_data": false,
+      "file_path": "sectors/education-training/bd-market/regulatory.md"
     },
     {
       "doc_type": "regulatory",
@@ -241,6 +280,32 @@
       ],
       "has_data": true,
       "file_path": "sectors/electronics-gadgets/bd-market/regulatory.md"
+    },
+    {
+      "doc_type": "regulatory",
+      "sector": "food-beverage",
+      "last_verified_at": "",
+      "freshness_status": "unknown",
+      "confidence_score": 0.0,
+      "legal_status": "",
+      "registration_requirements": [],
+      "sector_specific_requirements": [],
+      "regulatory_bodies": [],
+      "has_data": false,
+      "file_path": "sectors/food-beverage/bd-market/regulatory.md"
+    },
+    {
+      "doc_type": "regulatory",
+      "sector": "healthcare-pharma",
+      "last_verified_at": "",
+      "freshness_status": "unknown",
+      "confidence_score": 0.0,
+      "legal_status": "",
+      "registration_requirements": [],
+      "sector_specific_requirements": [],
+      "regulatory_bodies": [],
+      "has_data": false,
+      "file_path": "sectors/healthcare-pharma/bd-market/regulatory.md"
     },
     {
       "doc_type": "regulatory",

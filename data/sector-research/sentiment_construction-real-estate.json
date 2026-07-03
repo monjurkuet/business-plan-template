@@ -1,0 +1,13 @@
+{
+  "doc_type": "sentiment_analysis",
+  "sector": "construction-real-estate",
+  "last_verified_at": "",
+  "freshness_status": "unknown",
+  "confidence_score": 0.0,
+  "overall_sentiment": "",
+  "positive_themes": [],
+  "negative_themes": [],
+  "review_volume": [],
+  "has_data": false,
+  "file_path": "sectors/construction-real-estate/bd-market/sentiment-analysis.md"
+}

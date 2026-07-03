@@ -21,6 +21,12 @@ from lib.config_loader import now_iso
 
 log = logging.getLogger("validate_markdown")
 
+# Accept both short names and JSON-schema names (last_verified ↔ last_verified_at, etc.)
+_FM_ALIASES = {
+    "last_verified": "last_verified_at",
+    "freshness": "freshness_status",
+    "confidence": "confidence_score",
+}
 REQUIRED_FRONTMATTER_FIELDS = ["sector", "last_verified", "freshness"]
 COMPETITOR_FRONTMATTER_FIELDS = ["sector", "last_verified", "freshness", "confidence"]
 VALID_FRESHNESS_VALUES = {"fresh", "stale", "critical"}
@@ -76,31 +82,37 @@ def validate_frontmatter(file_path: Path, content: str) -> list[dict]:
         })
         return violations
 
-    # Check required fields.
-    # The repo currently uses sector-style markdown frontmatter for sector docs
-    # and a looser presentation format in some generated files, so validate the
-    # common contract instead of enforcing a single narrow schema.
+    # Check required fields — accept both short names and JSON-schema aliases.
+    # The repo uses last_verified_at / freshness_status / confidence_score in frontmatter
+    # (matching competitor.schema.json) but the validator checks the short contract names.
+    def _has_field(meta: dict, name: str) -> bool:
+        return name in meta or (_FM_ALIASES.get(name) in meta)
+
     required_fields = COMPETITOR_FRONTMATTER_FIELDS if "/competitors/" in rel_path else REQUIRED_FRONTMATTER_FIELDS
     for field in required_fields:
-        if field not in metadata:
+        if not _has_field(metadata, field):
             violations.append({
                 "file": rel_path,
                 "type": "missing_field",
                 "detail": f"Missing required field: {field}",
             })
 
-    # Validate freshness values
-    if "freshness" in metadata and metadata["freshness"] not in VALID_FRESHNESS_VALUES:
+    # Validate freshness values (also check aliased name)
+    freshness_key = _FM_ALIASES.get("freshness", "freshness")
+    freshness_val = metadata.get("freshness") or metadata.get(freshness_key)
+    if freshness_val and freshness_val not in VALID_FRESHNESS_VALUES:
         violations.append({
             "file": rel_path,
             "type": "invalid_field",
-            "detail": f"Invalid freshness value: {metadata['freshness']} (expected: fresh/stale/critical)",
+            "detail": f"Invalid freshness value: {freshness_val} (expected: fresh/stale/critical)",
         })
 
-    # Validate confidence
-    if "confidence" in metadata:
+    # Validate confidence (also check aliased name)
+    confidence_key = _FM_ALIASES.get("confidence", "confidence")
+    confidence_val = metadata.get("confidence") or metadata.get(confidence_key)
+    if confidence_val is not None:
         try:
-            conf = float(metadata["confidence"])
+            conf = float(confidence_val)
             if not (0.0 <= conf <= 1.0):
                 violations.append({
                     "file": rel_path,
@@ -111,12 +123,14 @@ def validate_frontmatter(file_path: Path, content: str) -> list[dict]:
             violations.append({
                 "file": rel_path,
                 "type": "invalid_field",
-                "detail": f"Confidence not a number: {metadata['confidence']}",
+                "detail": f"Confidence not a number: {confidence_val}",
             })
 
-    # Validate last_verified format
-    if "last_verified" in metadata:
-        val = str(metadata["last_verified"])
+    # Validate last_verified format (also check aliased name)
+    lv_key = _FM_ALIASES.get("last_verified", "last_verified")
+    lv_val = metadata.get("last_verified") or metadata.get(lv_key)
+    if lv_val is not None:
+        val = str(lv_val)
         if not re.match(r'^\d{4}-\d{2}-\d{2}', val):
             violations.append({
                 "file": rel_path,

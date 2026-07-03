@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-07-03
 freshness: fresh
-confidence: 0.715
-evidence_ids: ['1936bb77-8e9', '86cf1702-78a', '80c42bd3-1b7', 'd7c1b86f-55c', '3813a778-bbd', 'bf896914-e89', '403fd7e7-f7e', 'aeb44524-033', '87574a38-133', '03ea7d9e-667', '39c6033a-64e', '15305b89-b33', '49fe4680-3c9', '16e476ae-411', '1025ff26-012', '7e528bfd-83a', '54a912f5-b9d', '8ea9ce00-a4e', '02542371-208', '5c63d828-bf7']
+confidence: 0.713
+evidence_ids: ['cce49a78-e0a', '52d47247-4fe', 'eb5f16fc-225', 'e97b2eea-79a', 'ea48aeb1-2c1', '4e91ca81-e8d', '24f9efac-8a9', '3e50bac8-0a3', '35223b58-266', '4c2bd503-0ab', '70042f20-681', '27090f32-6e8', 'aee38511-5da', 'e0ed762c-9b1', '0e5d7853-0f1', '4b6df460-101', 'f3109d04-843', '2fcfe7c0-4fa', 'aa68caea-4b2', 'c2314166-713']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -148,22 +148,23 @@ evidence_ids: ['1936bb77-8e9', '86cf1702-78a', '80c42bd3-1b7', 'd7c1b86f-55c', '
 
 
 
+
 ## Auto-Updated Data (2026-07-03)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Baggy Pants | search | 0.95 |
-| boys, youth | search | 0.90 |
-| premium quality fabric | search | 0.85 |
-| affordable | search | 0.90 |
-| online clothing shop Bangladesh, home delivery all over Bangladesh | search | 0.95 |
-| summer outfit, winter outfit | search | 0.90 |
-| ['best match', 'price', 'free shipping', 'fast delivery', 'free return'] | search | 0.90 |
-| 2026-07-16 | search | 0.95 |
-| Affordable | search | 0.80 |
-| ['popularity', 'average rating', 'latest', 'price: low to high', 'price: high to | search | 0.90 |
-| luxury clothing | search | 0.95 |
-| 88 | search | 0.95 |
-| fell over the past month | search | 0.90 |
-| 2026-06 | search | 0.90 |
-| oil and gas prices skyrocketing may affect clothing prices due to reliance on ch | search | 0.80 |
+| TwelveClothing | search | 1.00 |
+| ['premium clothing', 'menswear', 'womenswear', 'kidswear', 'panjabi', 'kurti', ' | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| Tyzo | search | 1.00 |
+| stylish, comfortable, and affordable apparel | search | 1.00 |
+| ['premium-quality outfits', 'perfect fits', 'fast delivery', 'reliable service'] | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| Top 20 Clothing Brands in Bangladesh: The Ultimate Guide | search | 1.00 |
+| 2025-11-14 | search | 1.00 |
+| ['brand overviews', 'pricing', 'online shopping trends', 'consumer insights'] | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| JamaKapor | search | 1.00 |
+| Bangladesh's largest online fashion store | search | 1.00 |
+| ['clothes', 'dresses', 'shoes'] | search | 1.00 |
+| ['men', 'women', 'kids'] | search | 1.00 |

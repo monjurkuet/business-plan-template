@@ -1,6 +1,19 @@
 {
-  "total": 9,
+  "total": 14,
   "entries": [
+    {
+      "doc_type": "sentiment_analysis",
+      "sector": "agriculture-agro",
+      "last_verified_at": "",
+      "freshness_status": "unknown",
+      "confidence_score": 0.0,
+      "overall_sentiment": "",
+      "positive_themes": [],
+      "negative_themes": [],
+      "review_volume": [],
+      "has_data": false,
+      "file_path": "sectors/agriculture-agro/bd-market/sentiment-analysis.md"
+    },
     {
       "doc_type": "sentiment_analysis",
       "sector": "automotive-car-care",
@@ -102,6 +115,19 @@
     },
     {
       "doc_type": "sentiment_analysis",
+      "sector": "construction-real-estate",
+      "last_verified_at": "",
+      "freshness_status": "unknown",
+      "confidence_score": 0.0,
+      "overall_sentiment": "",
+      "positive_themes": [],
+      "negative_themes": [],
+      "review_volume": [],
+      "has_data": false,
+      "file_path": "sectors/construction-real-estate/bd-market/sentiment-analysis.md"
+    },
+    {
+      "doc_type": "sentiment_analysis",
       "sector": "crypto-bitcoin",
       "last_verified_at": "",
       "freshness_status": "unknown",
@@ -145,6 +171,19 @@
     },
     {
       "doc_type": "sentiment_analysis",
+      "sector": "education-training",
+      "last_verified_at": "",
+      "freshness_status": "unknown",
+      "confidence_score": 0.0,
+      "overall_sentiment": "",
+      "positive_themes": [],
+      "negative_themes": [],
+      "review_volume": [],
+      "has_data": false,
+      "file_path": "sectors/education-training/bd-market/sentiment-analysis.md"
+    },
+    {
+      "doc_type": "sentiment_analysis",
       "sector": "electronics-gadgets",
       "last_verified_at": "",
       "freshness_status": "unknown",
@@ -185,6 +224,32 @@
       ],
       "has_data": true,
       "file_path": "sectors/electronics-gadgets/bd-market/sentiment-analysis.md"
+    },
+    {
+      "doc_type": "sentiment_analysis",
+      "sector": "food-beverage",
+      "last_verified_at": "",
+      "freshness_status": "unknown",
+      "confidence_score": 0.0,
+      "overall_sentiment": "",
+      "positive_themes": [],
+      "negative_themes": [],
+      "review_volume": [],
+      "has_data": false,
+      "file_path": "sectors/food-beverage/bd-market/sentiment-analysis.md"
+    },
+    {
+      "doc_type": "sentiment_analysis",
+      "sector": "healthcare-pharma",
+      "last_verified_at": "",
+      "freshness_status": "unknown",
+      "confidence_score": 0.0,
+      "overall_sentiment": "",
+      "positive_themes": [],
+      "negative_themes": [],
+      "review_volume": [],
+      "has_data": false,
+      "file_path": "sectors/healthcare-pharma/bd-market/sentiment-analysis.md"
     },
     {
       "doc_type": "sentiment_analysis",

@@ -2,6 +2,7 @@
 sector: automotive-car-care
 last_verified: 2026-06-30
 freshness: fresh
+confidence: 0.50
 ---
 
 # Competitor: Garirbazar

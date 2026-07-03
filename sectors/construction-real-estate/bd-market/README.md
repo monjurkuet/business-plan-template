@@ -2,8 +2,8 @@
 sector: construction-real-estate
 last_verified: 2026-07-03
 freshness: fresh
-confidence: 0.687
-evidence_ids: ['e7f0244e-f95', 'e24c6c5d-f3e', 'bb0a009d-9ec', '693ce3b7-f15', '8b0139bb-73d', '0e2f19ec-ff2', '39325d07-cb5', 'e426c67f-ff0', '22f49a9b-dfe', '7f9853f2-5e7', '7221dc6e-5e8', '7e197441-b3c', '4ef452f6-9b2', 'b515fc40-09f', '347b64b5-92b', '74522960-6b6', 'ca400a9e-69a', 'f3eb5e4d-80b', '2061c0ed-b66', 'ef993214-e77']
+confidence: 0.714
+evidence_ids: ['c5320792-efc', '10e58364-02e', 'f2a44fb3-7e3', '1e9814b4-5bb', '3858992b-62f', '1a47c194-8b2', '3854d207-5a7', '73b4a221-476', 'b25748a4-3da', 'c6f92f47-649', '3ba29792-6b7', 'ac84e5ba-bb9', '3961ee07-3ae', 'd27bba8f-8f7', 'f1d693b6-c81', 'd2cb9d8c-690', '37d592ca-96f', '3810c6ba-1ca', 'ab93adc3-7b9', '69f33647-f28']
 ---
 
 # Construction & Real Estate — Bangladesh Market
@@ -37,22 +37,22 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 - Financial model
 
 
+
 ## Auto-Updated Data (2026-07-03)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ['residential buildings', 'commercial buildings'] | search | 0.90 |
-| ['apartment blocks', 'houses'] | search | 0.90 |
-| ['restaurants', 'stores', 'office buildings'] | search | 0.90 |
-| a usually roofed and walled structure built for permanent use | search | 0.95 |
-| to moderate the effects of climate | search | 0.90 |
-| simple dwellings | search | 0.90 |
-| a structure with walls and a roof, such as a house or factory | search | 0.95 |
-| the process or business of constructing buildings | search | 0.90 |
-| Beximco | search | 0.90 |
-| Salman F. Rahman | search | 0.95 |
-| Vice Chairman | search | 0.95 |
-| 10-day remand for interrogation over the death of a hawker during student protes | search | 0.90 |
-| Mass layoffs in Bangladesh garment sector due to plummeting orders | search | 0.90 |
-| IndustriALL Global Union calls for EU to divest from Myanmar | search | 0.90 |
-| textile | search | 0.85 |
+| ['ALM Steel Building Technology Ltd', 'ALM Tensile Membrane Structure Limited',  | search | 0.95 |
+| 65 | search | 0.90 |
+| ['CHB Engineering Ltd', 'Alibaba Construction Ltd'] | search | 0.95 |
+| 2026 | search | 0.80 |
+| ['akbarsha', 'Perfect Solution'] | search | 0.90 |
+| [{'company': 'akbarsha', 'location': 'Firozshah, Chittagong Sadar, Chittagong'}, | search | 0.90 |
+| ['fabrication and supply of construction materials', 'Steel Sheet Piles', 'Indus | search | 0.90 |
+| ['DEG', 'IDCOL'] | search | 0.95 |
+| 2023-06-15 | search | 0.90 |
+| 51 | search | 0.90 |
+| ['Sheltech Ceramics', 'LafargeHolcim Bangladesh', 'RAK Paints', 'Fu-Wang Ceramic | search | 0.95 |
+| 2024-03-07 | search | 0.90 |
+| 34 | search | 0.90 |
+| Dhaka, Bangladesh | search | 0.95 |

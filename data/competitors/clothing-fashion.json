@@ -112,7 +112,8 @@
       "frontmatter": {
         "sector": "clothing-fashion",
         "last_verified": "2026-07-03",
-        "freshness": "fresh"
+        "freshness": "fresh",
+        "confidence": "0.50"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-ecstasy",
@@ -311,7 +312,7 @@
       "sector": "clothing-fashion",
       "frontmatter": {
         "sector": "clothing-fashion",
-        "last_verified": "2026-06-28",
+        "last_verified": "2026-07-03",
         "freshness": "fresh"
       },
       "profile_category": "",

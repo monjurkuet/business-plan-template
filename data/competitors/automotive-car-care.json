@@ -163,7 +163,8 @@
       "frontmatter": {
         "sector": "automotive-car-care",
         "last_verified": "2026-06-30",
-        "freshness": "fresh"
+        "freshness": "fresh",
+        "confidence": "0.50"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-garirbazar",

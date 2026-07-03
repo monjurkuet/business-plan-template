@@ -1,8 +1,56 @@
 [
   {
+    "path": "sectors/agriculture-agro/bd-market/strategy-canvas.md",
+    "size_bytes": 2291,
+    "last_modified": "2026-07-03T10:58:23.688545+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/agriculture-agro/bd-market/regulatory.md",
+    "size_bytes": 2142,
+    "last_modified": "2026-07-03T10:58:23.692545+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/agriculture-agro/bd-market/seasonality.md",
+    "size_bytes": 2412,
+    "last_modified": "2026-07-03T10:58:23.688545+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/agriculture-agro/bd-market/go-to-market.md",
+    "size_bytes": 2816,
+    "last_modified": "2026-07-03T10:58:23.692545+00:00",
+    "extension": ".md"
+  },
+  {
     "path": "sectors/agriculture-agro/bd-market/README.md",
-    "size_bytes": 2472,
-    "last_modified": "2026-07-03T00:13:20.785421+00:00",
+    "size_bytes": 2460,
+    "last_modified": "2026-07-03T06:12:23.166704+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/agriculture-agro/bd-market/risk-register.md",
+    "size_bytes": 2291,
+    "last_modified": "2026-07-03T10:58:23.692545+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/agriculture-agro/bd-market/sentiment-analysis.md",
+    "size_bytes": 2571,
+    "last_modified": "2026-07-03T10:58:23.688545+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/agriculture-agro/bd-market/pricing-guide.md",
+    "size_bytes": 2573,
+    "last_modified": "2026-07-03T10:58:23.692545+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/agriculture-agro/bd-market/research/landscape-report.md",
+    "size_bytes": 3976,
+    "last_modified": "2026-07-03T10:58:23.916545+00:00",
     "extension": ".md"
   },
   {
@@ -32,7 +80,7 @@
   {
     "path": "sectors/high-roi-niches/bd-market/README.md",
     "size_bytes": 4197,
-    "last_modified": "2026-07-03T00:13:20.789421+00:00",
+    "last_modified": "2026-07-03T06:12:23.166704+00:00",
     "extension": ".md"
   },
   {
@@ -102,15 +150,111 @@
     "extension": ".md"
   },
   {
+    "path": "sectors/construction-real-estate/bd-market/strategy-canvas.md",
+    "size_bytes": 2197,
+    "last_modified": "2026-07-03T11:01:50.520498+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/construction-real-estate/bd-market/regulatory.md",
+    "size_bytes": 2117,
+    "last_modified": "2026-07-03T11:01:50.504498+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/construction-real-estate/bd-market/seasonality.md",
+    "size_bytes": 2408,
+    "last_modified": "2026-07-03T11:01:50.500498+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/construction-real-estate/bd-market/go-to-market.md",
+    "size_bytes": 2172,
+    "last_modified": "2026-07-03T11:01:50.496498+00:00",
+    "extension": ".md"
+  },
+  {
     "path": "sectors/construction-real-estate/bd-market/README.md",
-    "size_bytes": 2527,
-    "last_modified": "2026-07-03T00:13:20.785421+00:00",
+    "size_bytes": 2694,
+    "last_modified": "2026-07-03T06:12:23.162704+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/construction-real-estate/bd-market/risk-register.md",
+    "size_bytes": 2091,
+    "last_modified": "2026-07-03T11:01:50.496498+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/construction-real-estate/bd-market/sentiment-analysis.md",
+    "size_bytes": 2813,
+    "last_modified": "2026-07-03T11:01:50.500498+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/construction-real-estate/bd-market/pricing-guide.md",
+    "size_bytes": 2639,
+    "last_modified": "2026-07-03T11:01:50.484498+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/construction-real-estate/bd-market/research/landscape-report.md",
+    "size_bytes": 3913,
+    "last_modified": "2026-07-03T11:01:50.524498+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/healthcare-pharma/bd-market/strategy-canvas.md",
+    "size_bytes": 1692,
+    "last_modified": "2026-07-03T11:45:33.691926+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/healthcare-pharma/bd-market/regulatory.md",
+    "size_bytes": 2521,
+    "last_modified": "2026-07-03T11:45:33.783926+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/healthcare-pharma/bd-market/seasonality.md",
+    "size_bytes": 2378,
+    "last_modified": "2026-07-03T11:45:33.823926+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/healthcare-pharma/bd-market/go-to-market.md",
+    "size_bytes": 2372,
+    "last_modified": "2026-07-03T11:45:33.803926+00:00",
     "extension": ".md"
   },
   {
     "path": "sectors/healthcare-pharma/bd-market/README.md",
-    "size_bytes": 1729,
-    "last_modified": "2026-07-03T00:13:20.789421+00:00",
+    "size_bytes": 2051,
+    "last_modified": "2026-07-03T06:12:23.166704+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/healthcare-pharma/bd-market/risk-register.md",
+    "size_bytes": 2024,
+    "last_modified": "2026-07-03T11:45:33.659926+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/healthcare-pharma/bd-market/sentiment-analysis.md",
+    "size_bytes": 2759,
+    "last_modified": "2026-07-03T11:45:33.743926+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/healthcare-pharma/bd-market/pricing-guide.md",
+    "size_bytes": 2373,
+    "last_modified": "2026-07-03T11:45:33.683926+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/healthcare-pharma/bd-market/research/landscape-report.md",
+    "size_bytes": 3840,
+    "last_modified": "2026-07-03T11:45:33.659926+00:00",
     "extension": ".md"
   },
   {
@@ -145,8 +289,8 @@
   },
   {
     "path": "sectors/crypto-bitcoin/bd-market/README.md",
-    "size_bytes": 3815,
-    "last_modified": "2026-07-03T00:13:20.797421+00:00",
+    "size_bytes": 3827,
+    "last_modified": "2026-07-03T06:12:23.138703+00:00",
     "extension": ".md"
   },
   {
@@ -265,8 +409,8 @@
   },
   {
     "path": "sectors/jewellery/bd-market/README.md",
-    "size_bytes": 3404,
-    "last_modified": "2026-07-03T00:13:20.785421+00:00",
+    "size_bytes": 3293,
+    "last_modified": "2026-07-03T06:12:23.166704+00:00",
     "extension": ".md"
   },
   {
@@ -331,8 +475,8 @@
   },
   {
     "path": "sectors/logistics-transport/bd-market/README.md",
-    "size_bytes": 2196,
-    "last_modified": "2026-07-03T00:13:20.797421+00:00",
+    "size_bytes": 1973,
+    "last_modified": "2026-07-03T06:12:23.186705+00:00",
     "extension": ".md"
   },
   {
@@ -361,8 +505,8 @@
   },
   {
     "path": "sectors/travel-tourism/bd-market/README.md",
-    "size_bytes": 3371,
-    "last_modified": "2026-07-03T00:13:20.797421+00:00",
+    "size_bytes": 3127,
+    "last_modified": "2026-07-03T06:12:23.166704+00:00",
     "extension": ".md"
   },
   {
@@ -385,8 +529,8 @@
   },
   {
     "path": "sectors/travel-tourism/bd-market/competitors/2026-05-06-sharetrip.md",
-    "size_bytes": 2045,
-    "last_modified": "2026-07-01T18:30:43.273854+00:00",
+    "size_bytes": 2062,
+    "last_modified": "2026-07-03T07:01:41.646690+00:00",
     "extension": ".md"
   },
   {
@@ -434,7 +578,7 @@
   {
     "path": "sectors/education-training/bd-market/README.md",
     "size_bytes": 2419,
-    "last_modified": "2026-07-03T00:13:20.789421+00:00",
+    "last_modified": "2026-07-03T06:12:23.186705+00:00",
     "extension": ".md"
   },
   {
@@ -469,8 +613,8 @@
   },
   {
     "path": "sectors/automotive-car-care/bd-market/README.md",
-    "size_bytes": 5202,
-    "last_modified": "2026-07-03T00:13:20.793421+00:00",
+    "size_bytes": 5269,
+    "last_modified": "2026-07-03T06:12:23.150704+00:00",
     "extension": ".md"
   },
   {
@@ -511,8 +655,8 @@
   },
   {
     "path": "sectors/automotive-car-care/bd-market/competitors/2026-05-06-garirbazar.md",
-    "size_bytes": 1823,
-    "last_modified": "2026-06-30T17:20:15.358308+00:00",
+    "size_bytes": 1840,
+    "last_modified": "2026-07-03T07:01:28.902364+00:00",
     "extension": ".md"
   },
   {
@@ -570,9 +714,57 @@
     "extension": ".md"
   },
   {
+    "path": "sectors/food-beverage/bd-market/strategy-canvas.md",
+    "size_bytes": 1480,
+    "last_modified": "2026-07-03T11:23:40.928215+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/food-beverage/bd-market/regulatory.md",
+    "size_bytes": 2103,
+    "last_modified": "2026-07-03T11:23:40.952215+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/food-beverage/bd-market/seasonality.md",
+    "size_bytes": 2568,
+    "last_modified": "2026-07-03T11:23:40.920215+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/food-beverage/bd-market/go-to-market.md",
+    "size_bytes": 2608,
+    "last_modified": "2026-07-03T11:23:40.952215+00:00",
+    "extension": ".md"
+  },
+  {
     "path": "sectors/food-beverage/bd-market/README.md",
-    "size_bytes": 1592,
-    "last_modified": "2026-07-03T00:13:20.801421+00:00",
+    "size_bytes": 2325,
+    "last_modified": "2026-07-03T06:12:23.166704+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/food-beverage/bd-market/risk-register.md",
+    "size_bytes": 2103,
+    "last_modified": "2026-07-03T11:23:40.940215+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/food-beverage/bd-market/sentiment-analysis.md",
+    "size_bytes": 2433,
+    "last_modified": "2026-07-03T11:23:40.960215+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/food-beverage/bd-market/pricing-guide.md",
+    "size_bytes": 2789,
+    "last_modified": "2026-07-03T11:23:40.940215+00:00",
+    "extension": ".md"
+  },
+  {
+    "path": "sectors/food-beverage/bd-market/research/landscape-report.md",
+    "size_bytes": 3444,
+    "last_modified": "2026-07-03T11:23:40.952215+00:00",
     "extension": ".md"
   },
   {
@@ -601,8 +793,8 @@
   },
   {
     "path": "sectors/electronics-gadgets/bd-market/README.md",
-    "size_bytes": 3951,
-    "last_modified": "2026-07-03T00:13:20.773421+00:00",
+    "size_bytes": 4479,
+    "last_modified": "2026-07-03T06:12:23.170704+00:00",
     "extension": ".md"
   },
   {
@@ -697,8 +889,8 @@
   },
   {
     "path": "sectors/clothing-fashion/bd-market/README.md",
-    "size_bytes": 4687,
-    "last_modified": "2026-07-03T00:13:20.785421+00:00",
+    "size_bytes": 4800,
+    "last_modified": "2026-07-03T06:12:23.166704+00:00",
     "extension": ".md"
   },
   {
@@ -757,14 +949,14 @@
   },
   {
     "path": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-sailor.md",
-    "size_bytes": 2063,
-    "last_modified": "2026-06-28T09:48:36.403455+00:00",
+    "size_bytes": 2080,
+    "last_modified": "2026-07-03T07:01:40.342657+00:00",
     "extension": ".md"
   },
   {
     "path": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-ecstasy.md",
-    "size_bytes": 2054,
-    "last_modified": "2026-07-02T18:16:32.347673+00:00",
+    "size_bytes": 2071,
+    "last_modified": "2026-07-03T07:01:39.062624+00:00",
     "extension": ".md"
   },
   {
@@ -792,6 +984,12 @@
     "extension": ".md"
   },
   {
+    "path": "sectors/bim-global-outreach/bd-market/seasonality.md",
+    "size_bytes": 1641,
+    "last_modified": "2026-07-03T08:23:45.942559+00:00",
+    "extension": ".md"
+  },
+  {
     "path": "sectors/bim-global-outreach/bd-market/go-to-market.md",
     "size_bytes": 2702,
     "last_modified": "2026-06-25T10:24:46.516445+00:00",
@@ -800,7 +998,7 @@
   {
     "path": "sectors/bim-global-outreach/bd-market/README.md",
     "size_bytes": 6417,
-    "last_modified": "2026-07-03T00:13:20.793421+00:00",
+    "last_modified": "2026-07-03T06:12:23.182704+00:00",
     "extension": ".md"
   },
   {
@@ -823,32 +1021,32 @@
   },
   {
     "path": "sectors/bim-global-outreach/bd-market/competitors/engineering-services-usa.md",
-    "size_bytes": 3426,
-    "last_modified": "2026-07-03T00:13:20.793421+00:00",
+    "size_bytes": 3444,
+    "last_modified": "2026-07-03T07:01:31.498430+00:00",
     "extension": ".md"
   },
   {
     "path": "sectors/bim-global-outreach/bd-market/competitors/xs-cad.md",
-    "size_bytes": 3993,
-    "last_modified": "2026-07-01T21:27:26.912360+00:00",
+    "size_bytes": 3137,
+    "last_modified": "2026-07-03T07:01:36.890568+00:00",
     "extension": ".md"
   },
   {
     "path": "sectors/bim-global-outreach/bd-market/competitors/virtual-building-studio.md",
-    "size_bytes": 2970,
-    "last_modified": "2026-07-02T18:16:32.367674+00:00",
+    "size_bytes": 2987,
+    "last_modified": "2026-07-03T07:01:35.494533+00:00",
     "extension": ".md"
   },
   {
     "path": "sectors/bim-global-outreach/bd-market/competitors/silicon-valley-cad.md",
-    "size_bytes": 3916,
-    "last_modified": "2026-07-01T21:27:26.912360+00:00",
+    "size_bytes": 3060,
+    "last_modified": "2026-07-03T07:01:32.826464+00:00",
     "extension": ".md"
   },
   {
     "path": "sectors/bim-global-outreach/bd-market/competitors/bimex.md",
-    "size_bytes": 3168,
-    "last_modified": "2026-07-01T18:30:43.273854+00:00",
+    "size_bytes": 3185,
+    "last_modified": "2026-07-03T07:01:30.214397+00:00",
     "extension": ".md"
   },
   {
@@ -859,8 +1057,8 @@
   },
   {
     "path": "sectors/bim-global-outreach/bd-market/competitors/tesla-outsourcing.md",
-    "size_bytes": 4122,
-    "last_modified": "2026-07-01T21:27:26.912360+00:00",
+    "size_bytes": 4139,
+    "last_modified": "2026-07-03T07:01:34.198499+00:00",
     "extension": ".md"
   },
   {
@@ -919,8 +1117,8 @@
   },
   {
     "path": "sectors/media-marketing-digital/bd-market/README.md",
-    "size_bytes": 4351,
-    "last_modified": "2026-07-03T00:13:20.797421+00:00",
+    "size_bytes": 4704,
+    "last_modified": "2026-07-03T06:12:23.186705+00:00",
     "extension": ".md"
   },
   {
@@ -991,8 +1189,8 @@
   },
   {
     "path": "data/query_memory.json",
-    "size_bytes": 50435,
-    "last_modified": "2026-07-03T00:13:21.365436+00:00",
+    "size_bytes": 52321,
+    "last_modified": "2026-07-03T06:12:23.610716+00:00",
     "extension": ".json"
   },
   {
@@ -1047,6 +1245,12 @@
     "path": "data/evidence/20260628-094525.json",
     "size_bytes": 222156,
     "last_modified": "2026-06-28T09:48:03.990555+00:00",
+    "extension": ".json"
+  },
+  {
+    "path": "data/evidence/20260703-060916.json",
+    "size_bytes": 415657,
+    "last_modified": "2026-07-03T06:11:50.341861+00:00",
     "extension": ".json"
   },
   {
@@ -1239,12 +1443,6 @@
     "path": "data/evidence/20260626-200409.json",
     "size_bytes": 250545,
     "last_modified": "2026-06-26T20:06:46.941787+00:00",
-    "extension": ".json"
-  },
-  {
-    "path": "data/evidence/20260623-141002.json",
-    "size_bytes": 79505,
-    "last_modified": "2026-06-24T17:35:50.283308+00:00",
     "extension": ".json"
   },
   {
@@ -1478,697 +1676,697 @@
   {
     "path": "data/competitors/2026-06-25-remitano-bd.json",
     "size_bytes": 4758,
-    "last_modified": "2026-07-03T00:13:21.193432+00:00",
+    "last_modified": "2026-07-03T06:12:23.506713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-jda-oil-bangladesh.json",
     "size_bytes": 2042,
-    "last_modified": "2026-07-03T00:13:21.189431+00:00",
+    "last_modified": "2026-07-03T06:12:23.502713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-ride-on-reference.json",
     "size_bytes": 2577,
-    "last_modified": "2026-07-03T00:13:21.189431+00:00",
+    "last_modified": "2026-07-03T06:12:23.502713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-sadakalo.json",
     "size_bytes": 1727,
-    "last_modified": "2026-07-03T00:13:21.193432+00:00",
+    "last_modified": "2026-07-03T06:12:23.506713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-auto-mania.json",
     "size_bytes": 1402,
-    "last_modified": "2026-07-03T00:13:21.189431+00:00",
+    "last_modified": "2026-07-03T06:12:23.502713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/virtual-building-studio.json",
     "size_bytes": 1850,
-    "last_modified": "2026-07-03T00:13:21.189431+00:00",
+    "last_modified": "2026-07-03T06:12:23.506713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-irfan-imports.json",
     "size_bytes": 1991,
-    "last_modified": "2026-07-03T00:13:21.189431+00:00",
+    "last_modified": "2026-07-03T06:12:23.502713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/truecadd.json",
     "size_bytes": 2015,
-    "last_modified": "2026-07-03T00:13:21.189431+00:00",
+    "last_modified": "2026-07-03T06:12:23.506713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-aarong-jewellery.json",
     "size_bytes": 1508,
-    "last_modified": "2026-07-03T00:13:21.197432+00:00",
+    "last_modified": "2026-07-03T06:12:23.510713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-obokash.json",
     "size_bytes": 1669,
-    "last_modified": "2026-07-03T00:13:21.201432+00:00",
+    "last_modified": "2026-07-03T06:12:23.514713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-romel-car-house.json",
     "size_bytes": 2104,
-    "last_modified": "2026-07-03T00:13:21.189431+00:00",
+    "last_modified": "2026-07-03T06:12:23.502713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-pathao-food.json",
     "size_bytes": 1621,
-    "last_modified": "2026-07-03T00:13:21.197432+00:00",
+    "last_modified": "2026-07-03T06:12:23.510713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/engcad.json",
     "size_bytes": 2089,
-    "last_modified": "2026-07-03T00:13:21.189431+00:00",
+    "last_modified": "2026-07-03T06:12:23.502713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-shell-ranks-petroleum.json",
     "size_bytes": 2233,
-    "last_modified": "2026-07-03T00:13:21.189431+00:00",
+    "last_modified": "2026-07-03T06:12:23.502713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/bimelite.json",
     "size_bytes": 2079,
-    "last_modified": "2026-07-03T00:13:21.189431+00:00",
+    "last_modified": "2026-07-03T06:12:23.502713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/clothing-fashion.json",
     "size_bytes": 15087,
-    "last_modified": "2026-07-03T00:13:21.185431+00:00",
+    "last_modified": "2026-07-03T06:12:23.498713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-parts-choice.json",
     "size_bytes": 1969,
-    "last_modified": "2026-07-03T00:13:21.189431+00:00",
+    "last_modified": "2026-07-03T06:12:23.502713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-jewel-fashion.json",
     "size_bytes": 1524,
-    "last_modified": "2026-07-03T00:13:21.197432+00:00",
+    "last_modified": "2026-07-03T06:12:23.510713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-crypto-education.json",
     "size_bytes": 829,
-    "last_modified": "2026-07-03T00:13:21.193432+00:00",
+    "last_modified": "2026-07-03T06:12:23.506713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/media-marketing-digital.json",
     "size_bytes": 12908,
-    "last_modified": "2026-07-03T00:13:21.185431+00:00",
+    "last_modified": "2026-07-03T06:12:23.502713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-aarong.json",
     "size_bytes": 1795,
-    "last_modified": "2026-07-03T00:13:21.189431+00:00",
+    "last_modified": "2026-07-03T06:12:23.506713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/bim-global-outreach.json",
     "size_bytes": 26340,
-    "last_modified": "2026-07-03T00:13:21.185431+00:00",
+    "last_modified": "2026-07-03T06:12:23.498713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-06-25-kucoin-bd.json",
     "size_bytes": 4383,
-    "last_modified": "2026-07-03T00:13:21.193432+00:00",
+    "last_modified": "2026-07-03T06:12:23.506713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-bd-freelancer-community.json",
     "size_bytes": 1757,
-    "last_modified": "2026-07-03T00:13:21.193432+00:00",
+    "last_modified": "2026-07-03T06:12:23.510713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-flight-expert.json",
     "size_bytes": 1608,
-    "last_modified": "2026-07-03T00:13:21.197432+00:00",
+    "last_modified": "2026-07-03T06:12:23.514713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-tracker10.json",
     "size_bytes": 1701,
-    "last_modified": "2026-07-03T00:13:21.197432+00:00",
+    "last_modified": "2026-07-03T06:12:23.514713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-sharetrip.json",
     "size_bytes": 1506,
-    "last_modified": "2026-07-03T00:13:21.201432+00:00",
+    "last_modified": "2026-07-03T06:12:23.514713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-10-minute-school.json",
     "size_bytes": 1702,
-    "last_modified": "2026-07-03T00:13:21.193432+00:00",
+    "last_modified": "2026-07-03T06:12:23.510713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-the-travel-earth.json",
     "size_bytes": 1650,
-    "last_modified": "2026-07-03T00:13:21.201432+00:00",
+    "last_modified": "2026-07-03T06:12:23.514713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-gadget-monkey.json",
     "size_bytes": 1711,
-    "last_modified": "2026-07-03T00:13:21.193432+00:00",
+    "last_modified": "2026-07-03T06:12:23.510713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-daraz.json",
     "size_bytes": 1739,
-    "last_modified": "2026-07-03T00:13:21.193432+00:00",
+    "last_modified": "2026-07-03T06:12:23.510713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-blockchain-dev-shops.json",
     "size_bytes": 845,
-    "last_modified": "2026-07-03T00:13:21.193432+00:00",
+    "last_modified": "2026-07-03T06:12:23.506713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-06-25-okx-bd.json",
     "size_bytes": 4522,
-    "last_modified": "2026-07-03T00:13:21.193432+00:00",
+    "last_modified": "2026-07-03T06:12:23.506713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-sailor.json",
     "size_bytes": 1512,
-    "last_modified": "2026-07-03T00:13:21.193432+00:00",
+    "last_modified": "2026-07-03T06:12:23.506713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-ditmela.json",
     "size_bytes": 1481,
-    "last_modified": "2026-07-03T00:13:21.197432+00:00",
+    "last_modified": "2026-07-03T06:12:23.510713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-gozayaan.json",
     "size_bytes": 1660,
-    "last_modified": "2026-07-03T00:13:21.197432+00:00",
+    "last_modified": "2026-07-03T06:12:23.514713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/high-roi-niches.json",
     "size_bytes": 13198,
-    "last_modified": "2026-07-03T00:13:21.185431+00:00",
+    "last_modified": "2026-07-03T06:12:23.498713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-mitsubishi-rangs.json",
     "size_bytes": 2301,
-    "last_modified": "2026-07-03T00:13:21.189431+00:00",
+    "last_modified": "2026-07-03T06:12:23.502713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/bimex.json",
     "size_bytes": 1960,
-    "last_modified": "2026-07-03T00:13:21.189431+00:00",
+    "last_modified": "2026-07-03T06:12:23.502713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-iphone-market-bd.json",
     "size_bytes": 1757,
-    "last_modified": "2026-07-03T00:13:21.193432+00:00",
+    "last_modified": "2026-07-03T06:12:23.510713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-bongo.json",
     "size_bytes": 1627,
-    "last_modified": "2026-07-03T00:13:21.197432+00:00",
+    "last_modified": "2026-07-03T06:12:23.510713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-prioti-jewellers.json",
     "size_bytes": 1508,
-    "last_modified": "2026-07-03T00:13:21.197432+00:00",
+    "last_modified": "2026-07-03T06:12:23.510713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-webasha.json",
     "size_bytes": 1668,
-    "last_modified": "2026-07-03T00:13:21.197432+00:00",
+    "last_modified": "2026-07-03T06:12:23.514713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-star-tech.json",
     "size_bytes": 1759,
-    "last_modified": "2026-07-03T00:13:21.193432+00:00",
+    "last_modified": "2026-07-03T06:12:23.510713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-foodpanda-bd.json",
     "size_bytes": 1662,
-    "last_modified": "2026-07-03T00:13:21.197432+00:00",
+    "last_modified": "2026-07-03T06:12:23.510713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-garirbazar.json",
     "size_bytes": 1224,
-    "last_modified": "2026-07-03T00:13:21.189431+00:00",
+    "last_modified": "2026-07-03T06:12:23.502713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-ecstasy.json",
     "size_bytes": 1571,
-    "last_modified": "2026-07-03T00:13:21.193432+00:00",
+    "last_modified": "2026-07-03T06:12:23.506713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-flyste.json",
     "size_bytes": 1693,
-    "last_modified": "2026-07-03T00:13:21.197432+00:00",
+    "last_modified": "2026-07-03T06:12:23.514713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-discovery-bangladesh.json",
     "size_bytes": 1680,
-    "last_modified": "2026-07-03T00:13:21.197432+00:00",
+    "last_modified": "2026-07-03T06:12:23.514713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-shikho.json",
     "size_bytes": 1394,
-    "last_modified": "2026-07-03T00:13:21.197432+00:00",
+    "last_modified": "2026-07-03T06:12:23.514713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-pet-club-bd.json",
     "size_bytes": 1642,
-    "last_modified": "2026-07-03T00:13:21.197432+00:00",
+    "last_modified": "2026-07-03T06:12:23.510713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-06-25-paxful-bd.json",
     "size_bytes": 4695,
-    "last_modified": "2026-07-03T00:13:21.193432+00:00",
+    "last_modified": "2026-07-03T06:12:23.506713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-anjalee-swar.json",
     "size_bytes": 1525,
-    "last_modified": "2026-07-03T00:13:21.197432+00:00",
+    "last_modified": "2026-07-03T06:12:23.510713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-dorjee.json",
     "size_bytes": 1665,
-    "last_modified": "2026-07-03T00:13:21.189431+00:00",
+    "last_modified": "2026-07-03T06:12:23.506713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-binance-bd.json",
     "size_bytes": 805,
-    "last_modified": "2026-07-03T00:13:21.193432+00:00",
+    "last_modified": "2026-07-03T06:12:23.506713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/electronics-gadgets.json",
     "size_bytes": 13692,
-    "last_modified": "2026-07-03T00:13:21.185431+00:00",
+    "last_modified": "2026-07-03T06:12:23.498713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-labh.json",
     "size_bytes": 1735,
-    "last_modified": "2026-07-03T00:13:21.193432+00:00",
+    "last_modified": "2026-07-03T06:12:23.506713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/automotive-car-care.json",
     "size_bytes": 26076,
-    "last_modified": "2026-07-03T00:13:21.181431+00:00",
+    "last_modified": "2026-07-03T06:12:23.498713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-pickaboo.json",
     "size_bytes": 1698,
-    "last_modified": "2026-07-03T00:13:21.193432+00:00",
+    "last_modified": "2026-07-03T06:12:23.510713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/all_competitors.json",
     "size_bytes": 168217,
-    "last_modified": "2026-07-03T00:13:21.181431+00:00",
+    "last_modified": "2026-07-03T06:12:23.494713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-car-expert-bd.json",
     "size_bytes": 2155,
-    "last_modified": "2026-07-03T00:13:21.189431+00:00",
+    "last_modified": "2026-07-03T06:12:23.502713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/silicon-valley-cad.json",
     "size_bytes": 1879,
-    "last_modified": "2026-07-03T00:13:21.189431+00:00",
+    "last_modified": "2026-07-03T06:12:23.506713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/xs-cad.json",
     "size_bytes": 1929,
-    "last_modified": "2026-07-03T00:13:21.189431+00:00",
+    "last_modified": "2026-07-03T06:12:23.506713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-lubnan.json",
     "size_bytes": 1695,
-    "last_modified": "2026-07-03T00:13:21.193432+00:00",
+    "last_modified": "2026-07-03T06:12:23.506713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/pinnacle-infotech.json",
     "size_bytes": 1945,
-    "last_modified": "2026-07-03T00:13:21.189431+00:00",
+    "last_modified": "2026-07-03T06:12:23.506713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/jewellery.json",
     "size_bytes": 10160,
-    "last_modified": "2026-07-03T00:13:21.185431+00:00",
+    "last_modified": "2026-07-03T06:12:23.502713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-zereze.json",
     "size_bytes": 1458,
-    "last_modified": "2026-07-03T00:13:21.197432+00:00",
+    "last_modified": "2026-07-03T06:12:23.510713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-06-25-bybit-bd.json",
     "size_bytes": 4442,
-    "last_modified": "2026-07-03T00:13:21.193432+00:00",
+    "last_modified": "2026-07-03T06:12:23.506713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-car-care-bd.json",
     "size_bytes": 2062,
-    "last_modified": "2026-07-03T00:13:21.189431+00:00",
+    "last_modified": "2026-07-03T06:12:23.502713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-naspro-auto-detailing.json",
     "size_bytes": 1457,
-    "last_modified": "2026-07-03T00:13:21.189431+00:00",
+    "last_modified": "2026-07-03T06:12:23.502713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-zakia-travels.json",
     "size_bytes": 1598,
-    "last_modified": "2026-07-03T00:13:21.201432+00:00",
+    "last_modified": "2026-07-03T06:12:23.514713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-local-p2p-otc.json",
     "size_bytes": 817,
-    "last_modified": "2026-07-03T00:13:21.193432+00:00",
+    "last_modified": "2026-07-03T06:12:23.506713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-popupads.json",
     "size_bytes": 1673,
-    "last_modified": "2026-07-03T00:13:21.197432+00:00",
+    "last_modified": "2026-07-03T06:12:23.514713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/cadd-centre.json",
     "size_bytes": 2110,
-    "last_modified": "2026-07-03T00:13:21.189431+00:00",
+    "last_modified": "2026-07-03T06:12:23.502713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-06-25-bd-crypto-signal-groups.json",
     "size_bytes": 4746,
-    "last_modified": "2026-07-03T00:13:21.193432+00:00",
+    "last_modified": "2026-07-03T06:12:23.506713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-walton-smart-home.json",
     "size_bytes": 1686,
-    "last_modified": "2026-07-03T00:13:21.197432+00:00",
+    "last_modified": "2026-07-03T06:12:23.510713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/engineering-services-usa.json",
     "size_bytes": 2073,
-    "last_modified": "2026-07-03T00:13:21.189431+00:00",
+    "last_modified": "2026-07-03T06:12:23.502713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-bytecraft.json",
     "size_bytes": 1668,
-    "last_modified": "2026-07-03T00:13:21.197432+00:00",
+    "last_modified": "2026-07-03T06:12:23.514713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-gadget-and-gear.json",
     "size_bytes": 1802,
-    "last_modified": "2026-07-03T00:13:21.193432+00:00",
+    "last_modified": "2026-07-03T06:12:23.510713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-ryans-computers.json",
     "size_bytes": 1718,
-    "last_modified": "2026-07-03T00:13:21.193432+00:00",
+    "last_modified": "2026-07-03T06:12:23.510713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/tesla-outsourcing.json",
     "size_bytes": 1975,
-    "last_modified": "2026-07-03T00:13:21.189431+00:00",
+    "last_modified": "2026-07-03T06:12:23.506713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-05-06-yellow.json",
     "size_bytes": 1700,
-    "last_modified": "2026-07-03T00:13:21.193432+00:00",
+    "last_modified": "2026-07-03T06:12:23.506713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/travel-tourism.json",
     "size_bytes": 12850,
-    "last_modified": "2026-07-03T00:13:21.185431+00:00",
+    "last_modified": "2026-07-03T06:12:23.502713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/microdesk.json",
     "size_bytes": 2101,
-    "last_modified": "2026-07-03T00:13:21.189431+00:00",
+    "last_modified": "2026-07-03T06:12:23.506713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/2026-06-25-cryptotech24-bd.json",
     "size_bytes": 4794,
-    "last_modified": "2026-07-03T00:13:21.193432+00:00",
+    "last_modified": "2026-07-03T06:12:23.506713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/competitors/crypto-bitcoin.json",
     "size_bytes": 38512,
-    "last_modified": "2026-07-03T00:13:21.185431+00:00",
+    "last_modified": "2026-07-03T06:12:23.498713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/sector-research/sentiment_travel-tourism.json",
     "size_bytes": 908,
-    "last_modified": "2026-07-03T00:13:21.209432+00:00",
+    "last_modified": "2026-07-03T06:12:23.522713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/sector-research/regulatory_crypto-bitcoin.json",
     "size_bytes": 2598,
-    "last_modified": "2026-07-03T00:13:21.213432+00:00",
+    "last_modified": "2026-07-03T06:12:23.526713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/sector-research/regulatory_high-roi-niches.json",
     "size_bytes": 2029,
-    "last_modified": "2026-07-03T00:13:21.213432+00:00",
+    "last_modified": "2026-07-03T06:12:23.526713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/sector-research/sentiment_high-roi-niches.json",
     "size_bytes": 910,
-    "last_modified": "2026-07-03T00:13:21.205432+00:00",
+    "last_modified": "2026-07-03T06:12:23.522713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/sector-research/pricing_bim-global-outreach.json",
     "size_bytes": 313,
-    "last_modified": "2026-07-03T00:13:21.201432+00:00",
+    "last_modified": "2026-07-03T06:12:23.518713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/sector-research/pricing_electronics-gadgets.json",
     "size_bytes": 295,
-    "last_modified": "2026-07-03T00:13:21.201432+00:00",
+    "last_modified": "2026-07-03T06:12:23.518713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/sector-research/regulatory_jewellery.json",
     "size_bytes": 2534,
-    "last_modified": "2026-07-03T00:13:21.213432+00:00",
+    "last_modified": "2026-07-03T06:12:23.526713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/sector-research/sentiment_automotive-car-care.json",
     "size_bytes": 918,
-    "last_modified": "2026-07-03T00:13:21.205432+00:00",
+    "last_modified": "2026-07-03T06:12:23.518713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/sector-research/pricing_all.json",
     "size_bytes": 3076,
-    "last_modified": "2026-07-03T00:13:21.205432+00:00",
+    "last_modified": "2026-07-03T06:12:23.518713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/sector-research/pricing_automotive-car-care.json",
     "size_bytes": 295,
-    "last_modified": "2026-07-03T00:13:21.201432+00:00",
+    "last_modified": "2026-07-03T06:12:23.518713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/sector-research/regulatory_electronics-gadgets.json",
     "size_bytes": 2682,
-    "last_modified": "2026-07-03T00:13:21.213432+00:00",
+    "last_modified": "2026-07-03T06:12:23.526713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/sector-research/sentiment_bim-global-outreach.json",
     "size_bytes": 376,
-    "last_modified": "2026-07-03T00:13:21.205432+00:00",
+    "last_modified": "2026-07-03T06:12:23.522713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/sector-research/regulatory_media-marketing-digital.json",
     "size_bytes": 2663,
-    "last_modified": "2026-07-03T00:13:21.213432+00:00",
+    "last_modified": "2026-07-03T06:12:23.526713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/sector-research/regulatory_clothing-fashion.json",
     "size_bytes": 2656,
-    "last_modified": "2026-07-03T00:13:21.213432+00:00",
+    "last_modified": "2026-07-03T06:12:23.526713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/sector-research/pricing_high-roi-niches.json",
     "size_bytes": 287,
-    "last_modified": "2026-07-03T00:13:21.201432+00:00",
+    "last_modified": "2026-07-03T06:12:23.518713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/sector-research/sentiment_jewellery.json",
     "size_bytes": 898,
-    "last_modified": "2026-07-03T00:13:21.209432+00:00",
+    "last_modified": "2026-07-03T06:12:23.522713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/sector-research/sentiment_media-marketing-digital.json",
     "size_bytes": 926,
-    "last_modified": "2026-07-03T00:13:21.209432+00:00",
+    "last_modified": "2026-07-03T06:12:23.522713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/sector-research/regulatory_automotive-car-care.json",
     "size_bytes": 2325,
-    "last_modified": "2026-07-03T00:13:21.209432+00:00",
+    "last_modified": "2026-07-03T06:12:23.526713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/sector-research/regulatory_travel-tourism.json",
     "size_bytes": 2832,
-    "last_modified": "2026-07-03T00:13:21.213432+00:00",
+    "last_modified": "2026-07-03T06:12:23.526713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/sector-research/pricing_crypto-bitcoin.json",
     "size_bytes": 285,
-    "last_modified": "2026-07-03T00:13:21.201432+00:00",
+    "last_modified": "2026-07-03T06:12:23.518713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/sector-research/sentiment_electronics-gadgets.json",
     "size_bytes": 918,
-    "last_modified": "2026-07-03T00:13:21.205432+00:00",
+    "last_modified": "2026-07-03T06:12:23.522713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/sector-research/sentiment_crypto-bitcoin.json",
     "size_bytes": 908,
-    "last_modified": "2026-07-03T00:13:21.205432+00:00",
+    "last_modified": "2026-07-03T06:12:23.522713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/sector-research/regulatory_bim-global-outreach.json",
     "size_bytes": 382,
-    "last_modified": "2026-07-03T00:13:21.209432+00:00",
+    "last_modified": "2026-07-03T06:12:23.526713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/sector-research/sentiment_all.json",
     "size_bytes": 9155,
-    "last_modified": "2026-07-03T00:13:21.209432+00:00",
+    "last_modified": "2026-07-03T06:12:23.522713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/sector-research/regulatory_all.json",
     "size_bytes": 22642,
-    "last_modified": "2026-07-03T00:13:21.213432+00:00",
+    "last_modified": "2026-07-03T06:12:23.526713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/sector-research/pricing_jewellery.json",
     "size_bytes": 275,
-    "last_modified": "2026-07-03T00:13:21.201432+00:00",
+    "last_modified": "2026-07-03T06:12:23.518713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/sector-research/pricing_clothing-fashion.json",
     "size_bytes": 289,
-    "last_modified": "2026-07-03T00:13:21.201432+00:00",
+    "last_modified": "2026-07-03T06:12:23.518713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/sector-research/pricing_travel-tourism.json",
     "size_bytes": 285,
-    "last_modified": "2026-07-03T00:13:21.201432+00:00",
+    "last_modified": "2026-07-03T06:12:23.518713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/sector-research/sentiment_clothing-fashion.json",
     "size_bytes": 912,
-    "last_modified": "2026-07-03T00:13:21.205432+00:00",
+    "last_modified": "2026-07-03T06:12:23.522713+00:00",
     "extension": ".json"
   },
   {
     "path": "data/sector-research/pricing_media-marketing-digital.json",
     "size_bytes": 303,
-    "last_modified": "2026-07-03T00:13:21.201432+00:00",
+    "last_modified": "2026-07-03T06:12:23.518713+00:00",
     "extension": ".json"
   },
   {
@@ -2401,38 +2599,38 @@
   },
   {
     "path": "_system/state/file_inventory.json",
-    "size_bytes": 72708,
-    "last_modified": "2026-07-03T00:05:53.561948+00:00",
+    "size_bytes": 72890,
+    "last_modified": "2026-07-03T09:47:18.329472+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/validation_results.json",
-    "size_bytes": 40570,
-    "last_modified": "2026-07-03T00:13:20.893424+00:00",
+    "size_bytes": 179,
+    "last_modified": "2026-07-03T09:47:18.161472+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/audit_results.json",
-    "size_bytes": 12845,
-    "last_modified": "2026-07-03T00:05:53.561948+00:00",
+    "size_bytes": 12836,
+    "last_modified": "2026-07-03T09:47:18.329472+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/last_pipeline_run.json",
-    "size_bytes": 453,
-    "last_modified": "2026-07-03T00:13:28.921630+00:00",
+    "size_bytes": 451,
+    "last_modified": "2026-07-03T06:53:48.794538+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/freshness_queue.json",
-    "size_bytes": 49573,
-    "last_modified": "2026-07-03T00:05:53.925957+00:00",
+    "size_bytes": 37234,
+    "last_modified": "2026-07-03T06:54:02.078879+00:00",
     "extension": ".json"
   },
   {
     "path": "_system/state/search_plan.json",
-    "size_bytes": 32005,
-    "last_modified": "2026-07-03T00:13:18.889372+00:00",
+    "size_bytes": 29063,
+    "last_modified": "2026-07-03T06:12:21.122652+00:00",
     "extension": ".json"
   }
 ]

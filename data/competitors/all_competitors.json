@@ -162,7 +162,8 @@
       "frontmatter": {
         "sector": "automotive-car-care",
         "last_verified": "2026-06-30",
-        "freshness": "fresh"
+        "freshness": "fresh",
+        "confidence": "0.50"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-garirbazar",
@@ -673,7 +674,8 @@
       "frontmatter": {
         "sector": "bim-global-outreach",
         "last_verified": "2026-07-02",
-        "freshness": "fresh"
+        "freshness": "fresh",
+        "confidence": "0.50"
       },
       "profile_category": "",
       "entity_slug": "bimex",
@@ -815,7 +817,8 @@
       "frontmatter": {
         "sector": "bim-global-outreach",
         "last_verified": "2026-07-03",
-        "freshness": "fresh"
+        "freshness": "fresh",
+        "confidence": "0.50"
       },
       "profile_category": "",
       "entity_slug": "engineering-services-usa",
@@ -956,7 +959,8 @@
       "frontmatter": {
         "sector": "bim-global-outreach",
         "last_verified": "2026-07-03",
-        "freshness": "fresh"
+        "freshness": "fresh",
+        "confidence": "0.50"
       },
       "profile_category": "",
       "entity_slug": "silicon-valley-cad",
@@ -1000,7 +1004,8 @@
       "frontmatter": {
         "sector": "bim-global-outreach",
         "last_verified": "2026-07-02",
-        "freshness": "fresh"
+        "freshness": "fresh",
+        "confidence": "0.50"
       },
       "profile_category": "",
       "entity_slug": "tesla-outsourcing",
@@ -1138,7 +1143,8 @@
       "frontmatter": {
         "sector": "bim-global-outreach",
         "last_verified": "2026-07-03",
-        "freshness": "fresh"
+        "freshness": "fresh",
+        "confidence": "0.50"
       },
       "profile_category": "",
       "entity_slug": "xs-cad",
@@ -1285,7 +1291,8 @@
       "frontmatter": {
         "sector": "clothing-fashion",
         "last_verified": "2026-07-03",
-        "freshness": "fresh"
+        "freshness": "fresh",
+        "confidence": "0.50"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-ecstasy",
@@ -1484,7 +1491,7 @@
       "sector": "clothing-fashion",
       "frontmatter": {
         "sector": "clothing-fashion",
-        "last_verified": "2026-06-28",
+        "last_verified": "2026-07-03",
         "freshness": "fresh"
       },
       "profile_category": "",
@@ -3812,7 +3819,8 @@
       "frontmatter": {
         "sector": "travel-tourism",
         "last_verified": "2026-07-02",
-        "freshness": "fresh"
+        "freshness": "fresh",
+        "confidence": "0.50"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-sharetrip",

@@ -2,8 +2,8 @@
 sector: travel-tourism
 last_verified: 2026-07-03
 freshness: fresh
-confidence: 0.696
-evidence_ids: ['0de2d9f1-c32', 'ab4ce172-b93', 'b13703f9-543', 'fcbb6f07-9ba', 'a7d84148-24e', '895e3d60-eb4', '0a875ef9-0e5', 'e5f6531a-0b2', '508129a9-91c', 'ea67f2a5-246', '10042c87-5c1', 'd9ee9dfd-e42', '5bcf91de-e49', '31326940-36d', 'cb62026b-eb8', 'fb2655bf-1f2', 'd75d5cf2-290', 'e031c4f1-694', '1b8ec3a0-293', '5d1002ba-d69']
+confidence: 0.71
+evidence_ids: ['683bbed6-e9c', 'ac606c1f-65d', 'f4d82c35-f8a', '3e85b3ff-e50', 'b6f86089-def', '47118b04-b19', '358df59f-9bb', 'de638d90-11c', '16f2a10d-15f', 'a1c9512f-ae0', '671bb178-3b4', 'dfa637d7-bab', '2291ffd6-9d7', '13b77f44-df7', '2df468d5-365', '78e3f042-87b', '252b6c33-b3d', '98fec9ac-cfe', '07479581-1bc', '263dd832-71b']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -112,18 +112,23 @@ evidence_ids: ['0de2d9f1-c32', 'ab4ce172-b93', 'b13703f9-543', 'fcbb6f07-9ba', '
 
 
 
+
 ## Auto-Updated Data (2026-07-03)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Eammu Holidays | search | 1.00 |
+| goFLY Limited | search | 1.00 |
 | travel agency | search | 1.00 |
-| ['tourist visas', 'student visas', 'work visas', 'Umrah packages 2026', 'interna | search | 1.00 |
-| ['Dubai', 'Georgia', 'Armenia', 'Europe'] | search | 1.00 |
-| Golden Bengal Tours | search | 1.00 |
+| Dhaka, Bangladesh | search | 1.00 |
+| IATA-certified | search | 1.00 |
+| 2017 | search | 1.00 |
+| affordable prices, honest service, real support | search | 0.95 |
+| TravelAgency Bangladesh | search | 1.00 |
 | travel agency | search | 1.00 |
-| affordable price | search | 0.90 |
-| 7% | search | 0.95 |
-| 500000 | search | 0.95 |
-| 2017 | search | 0.95 |
-| 42337956 | search | 0.95 |
+| hotels, visa, tours, flight booking | search | 1.00 |
+| travel agency | search | 1.00 |
+| air ticketing, visa processing, holiday packages, global tours | search | 1.00 |
+| leisure travelers, business travelers, Hajj pilgrims, study abroad students | search | 0.95 |
+| air tickets, hotels, and tour packages | search | 0.90 |
+| best rates | search | 0.80 |
+| exceptional value | search | 0.80 |

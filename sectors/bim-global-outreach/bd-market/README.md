@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-07-03
 freshness: fresh
-confidence: 0.639
-evidence_ids: ['fc10c663-7a7', 'a08add09-aa1', '81d65907-fa9', '2249bb73-763', 'ee0c8fdf-0b5', '96677b39-e58', 'b295063a-0b7', '39f9e5fa-627', 'fef0e4ba-0e2', '51db8112-95a', '3c36d769-d57', '73605605-48d', '6b5a8ca9-1be', '8b0de433-821', '58ae25d5-a70', 'cd987161-25f', 'c49b1f20-2a8', '9d5d34c1-245', '26114a15-d15', '642ea5a1-f24']
+confidence: 0.739
+evidence_ids: ['0f8ab541-7af', '0af98970-c03', '08b71a4b-335', 'c12b661f-3b3', '2b552ea4-f7d', '58a9e366-b47', 'd431bdb4-f8b', '180ee644-5e9', 'fa997c85-883', '97663488-031', '298e2d7e-de3', 'ca96a7e8-f77', 'fa898160-903', '85101ae2-895', '78942367-ae9', '32c5f731-9f8', 'e1fa3b6a-972', 'f77a4488-cf7', '58e4a625-918', 'b2727e55-0ed']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -151,22 +151,23 @@ evidence_ids: ['fc10c663-7a7', 'a08add09-aa1', '81d65907-fa9', '2249bb73-763', '
 
 
 
+
 ## Auto-Updated Data (2026-07-03)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| EID Architecture | search | 0.90 |
-| Panda Pavilions | search | 0.90 |
-| Eid | search | 0.80 |
-| Architect Gautam & Associates | search | 0.95 |
-| Patna, Bihar | search | 0.95 |
-| residential, commercial, and real estate projects | search | 0.90 |
-| EID Architecture | search | 0.95 |
-| Hong Kong and Shanghai | search | 0.95 |
-| Medog Meteorological Center (MMC) | search | 0.95 |
-| Nyingchi prefecture, Tibet, China | search | 0.95 |
-| AVA Architects | search | 0.95 |
-| purposeful, human-centric architectural solutions | search | 0.90 |
-| minimal, typography-led visuals; refined tone; durability, utility, and beauty | search | 0.90 |
-| Fratantoni Design | search | 0.95 |
-| luxury residential architecture | search | 0.95 |
+| LIMRS Construction and Interior | search | 1.00 |
+| Blends architecture with creative construction | search | 1.00 |
+| Artificersarc | search | 1.00 |
+| Young firm, but growing fast with solid residential work | search | 1.00 |
+| Evangel Architects | search | 1.00 |
+| Offers complete design-build solutions | search | 1.00 |
+| 2025-10-13 | search | 1.00 |
+| SAL | search | 1.00 |
+| Leader in top architecture and engineering companies in Bangladesh 2025, with a  | search | 1.00 |
+| Shellmark Limited | search | 1.00 |
+| Top architectural firm in Bangladesh for safe, budget-friendly designs | search | 1.00 |
+| 2012 | search | 1.00 |
+| 2014 | search | 1.00 |
+| 2023-02-14 | search | 1.00 |
+| NPDL | search | 1.00 |
