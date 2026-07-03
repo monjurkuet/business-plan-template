@@ -2,8 +2,8 @@
 sector: high-roi-niches
 last_verified: 2026-07-03
 freshness: fresh
-confidence: 0.704
-evidence_ids: ['80d00389-15a', '8fc1b718-0f0', '304f8d74-6e0', 'fb3e7801-63e', '37b56619-83c', 'e225cd23-665', '958eaeff-f95', '126fe731-bea', '7ad1554a-b61', '56bb35f0-bbf', '9842df6d-8f4', '320a4994-ee5', '1d5394d8-3a6', 'b89cd39f-83e', '32d97244-44c', '24642e46-fca', 'e73be68e-416', '4352a8b9-2c0', '881984d4-208', '80165549-7e4']
+confidence: 0.705
+evidence_ids: ['51e90763-ee2', '60261b65-f86', 'f622f41d-c8e', '7db0c30d-fff', '09268460-e24', '389425c5-71b', '8d4fe905-5d3', '0110d875-c4d', 'ffd82866-57b', '4f36407e-4df', '1d3ac507-7ef', 'abaff0e5-b5e', '6c47c76f-251', '0e6c654b-5ad', '97ad1e5e-242', 'c56d4465-f1e', '9810cd2f-9eb', 'c07782ce-7a9', '91acd1b9-730', '6c8d961f-cc5']
 ---
 
 # High-ROI Niches — Bangladesh Market
@@ -126,22 +126,23 @@ This sector captures high-growth, high-margin niche opportunities in Bangladesh.
 
 
 
+
 ## Auto-Updated Data (2026-07-03)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
 | HIT LIFE cat food | search | 0.90 |
 | grain-free cat food | search | 0.90 |
-| kitchen flavor | search | 0.80 |
-| cat food price, cat adoption cost | search | 0.70 |
+| cat food price, cat adoption cost | search | 0.80 |
+| pet care Bangladesh | search | 0.95 |
+| PetCareBangladesh | search | 0.90 |
+| 01912251312 | search | 0.95 |
 | PetZone BD | search | 0.90 |
-| petzonebd.com | search | 0.90 |
-| Pampered Paws Bangladesh | search | 0.80 |
-| Covetrus Pet Care Bangladesh | search | 0.70 |
-| Pet Care Bangladesh | search | 0.90 |
+| petzonebd.com | search | 0.95 |
+| Pampered Paws Bangladesh | search | 0.90 |
+| PetCareBangladesh | search | 0.95 |
 | MH Imran | search | 0.90 |
 | Managing Director | search | 0.90 |
-| Bangladesh Veterinary and Pet Care Network (BVPN) | search | 0.80 |
-| Self-service dog wash | search | 0.90 |
-| orders over $35+ | search | 0.90 |
-| same day | search | 0.90 |
+| Bangladesh Veterinary and Pet Care Network (BVPN) | search | 0.90 |
+| Agrovet Bio Solutions | search | 0.90 |
+| Sifat Ara Khanam | search | 0.90 |

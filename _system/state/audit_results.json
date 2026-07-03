@@ -1,9 +1,63 @@
 {
-  "generated_at": "2026-07-02T18:09:37.187024+00:00",
-  "total_files": 400,
-  "sectors_audited": 9,
+  "generated_at": "2026-07-03T00:05:53.540326+00:00",
+  "total_files": 406,
+  "sectors_audited": 15,
   "all_missing_files": [
-    "bim-global-outreach/seasonality.md"
+    "agriculture-agro/go-to-market.md",
+    "agriculture-agro/risk-register.md",
+    "agriculture-agro/strategy-canvas.md",
+    "agriculture-agro/regulatory.md",
+    "agriculture-agro/pricing-guide.md",
+    "agriculture-agro/sentiment-analysis.md",
+    "agriculture-agro/seasonality.md",
+    "agriculture-agro/research/landscape-report.md",
+    "agriculture-agro/competitors/ (directory)",
+    "bim-global-outreach/seasonality.md",
+    "construction-real-estate/go-to-market.md",
+    "construction-real-estate/risk-register.md",
+    "construction-real-estate/strategy-canvas.md",
+    "construction-real-estate/regulatory.md",
+    "construction-real-estate/pricing-guide.md",
+    "construction-real-estate/sentiment-analysis.md",
+    "construction-real-estate/seasonality.md",
+    "construction-real-estate/research/landscape-report.md",
+    "construction-real-estate/competitors/ (directory)",
+    "education-training/go-to-market.md",
+    "education-training/risk-register.md",
+    "education-training/strategy-canvas.md",
+    "education-training/regulatory.md",
+    "education-training/pricing-guide.md",
+    "education-training/sentiment-analysis.md",
+    "education-training/seasonality.md",
+    "education-training/research/landscape-report.md",
+    "education-training/competitors/ (directory)",
+    "food-beverage/go-to-market.md",
+    "food-beverage/risk-register.md",
+    "food-beverage/strategy-canvas.md",
+    "food-beverage/regulatory.md",
+    "food-beverage/pricing-guide.md",
+    "food-beverage/sentiment-analysis.md",
+    "food-beverage/seasonality.md",
+    "food-beverage/research/landscape-report.md",
+    "food-beverage/competitors/ (directory)",
+    "healthcare-pharma/go-to-market.md",
+    "healthcare-pharma/risk-register.md",
+    "healthcare-pharma/strategy-canvas.md",
+    "healthcare-pharma/regulatory.md",
+    "healthcare-pharma/pricing-guide.md",
+    "healthcare-pharma/sentiment-analysis.md",
+    "healthcare-pharma/seasonality.md",
+    "healthcare-pharma/research/landscape-report.md",
+    "healthcare-pharma/competitors/ (directory)",
+    "logistics-transport/go-to-market.md",
+    "logistics-transport/risk-register.md",
+    "logistics-transport/strategy-canvas.md",
+    "logistics-transport/regulatory.md",
+    "logistics-transport/pricing-guide.md",
+    "logistics-transport/sentiment-analysis.md",
+    "logistics-transport/seasonality.md",
+    "logistics-transport/research/landscape-report.md",
+    "logistics-transport/competitors/ (directory)"
   ],
   "all_stale_references": [
     "automotive-car-care: 2023",
@@ -24,8 +78,41 @@
     "travel-tourism: 2023",
     "travel-tourism: 2024"
   ],
-  "all_frontmatter_missing": [],
+  "all_frontmatter_missing": [
+    "agriculture-agro/README.md",
+    "construction-real-estate/README.md",
+    "education-training/README.md",
+    "food-beverage/README.md",
+    "healthcare-pharma/README.md",
+    "logistics-transport/README.md"
+  ],
   "sector_audits": [
+    {
+      "sector": "agriculture-agro",
+      "present_files": [
+        "README.md"
+      ],
+      "missing_files": [
+        "go-to-market.md",
+        "risk-register.md",
+        "strategy-canvas.md",
+        "regulatory.md",
+        "pricing-guide.md",
+        "sentiment-analysis.md",
+        "seasonality.md",
+        "research/landscape-report.md",
+        "competitors/ (directory)"
+      ],
+      "stale_references": [],
+      "frontmatter_missing": [
+        "README.md"
+      ],
+      "competitor_count": 0,
+      "competitor_target": 15,
+      "files_expected": 9,
+      "files_present": 1,
+      "health_score": 0.056
+    },
     {
       "sector": "automotive-car-care",
       "present_files": [
@@ -101,6 +188,32 @@
       "health_score": 0.9
     },
     {
+      "sector": "construction-real-estate",
+      "present_files": [
+        "README.md"
+      ],
+      "missing_files": [
+        "go-to-market.md",
+        "risk-register.md",
+        "strategy-canvas.md",
+        "regulatory.md",
+        "pricing-guide.md",
+        "sentiment-analysis.md",
+        "seasonality.md",
+        "research/landscape-report.md",
+        "competitors/ (directory)"
+      ],
+      "stale_references": [],
+      "frontmatter_missing": [
+        "README.md"
+      ],
+      "competitor_count": 0,
+      "competitor_target": 15,
+      "files_expected": 9,
+      "files_present": 1,
+      "health_score": 0.056
+    },
+    {
       "sector": "crypto-bitcoin",
       "present_files": [
         "README.md",
@@ -126,6 +239,32 @@
       "health_score": 0.975
     },
     {
+      "sector": "education-training",
+      "present_files": [
+        "README.md"
+      ],
+      "missing_files": [
+        "go-to-market.md",
+        "risk-register.md",
+        "strategy-canvas.md",
+        "regulatory.md",
+        "pricing-guide.md",
+        "sentiment-analysis.md",
+        "seasonality.md",
+        "research/landscape-report.md",
+        "competitors/ (directory)"
+      ],
+      "stale_references": [],
+      "frontmatter_missing": [
+        "README.md"
+      ],
+      "competitor_count": 0,
+      "competitor_target": 12,
+      "files_expected": 9,
+      "files_present": 1,
+      "health_score": 0.056
+    },
+    {
       "sector": "electronics-gadgets",
       "present_files": [
         "README.md",
@@ -149,6 +288,58 @@
       "files_expected": 9,
       "files_present": 9,
       "health_score": 0.875
+    },
+    {
+      "sector": "food-beverage",
+      "present_files": [
+        "README.md"
+      ],
+      "missing_files": [
+        "go-to-market.md",
+        "risk-register.md",
+        "strategy-canvas.md",
+        "regulatory.md",
+        "pricing-guide.md",
+        "sentiment-analysis.md",
+        "seasonality.md",
+        "research/landscape-report.md",
+        "competitors/ (directory)"
+      ],
+      "stale_references": [],
+      "frontmatter_missing": [
+        "README.md"
+      ],
+      "competitor_count": 0,
+      "competitor_target": 15,
+      "files_expected": 9,
+      "files_present": 1,
+      "health_score": 0.056
+    },
+    {
+      "sector": "healthcare-pharma",
+      "present_files": [
+        "README.md"
+      ],
+      "missing_files": [
+        "go-to-market.md",
+        "risk-register.md",
+        "strategy-canvas.md",
+        "regulatory.md",
+        "pricing-guide.md",
+        "sentiment-analysis.md",
+        "seasonality.md",
+        "research/landscape-report.md",
+        "competitors/ (directory)"
+      ],
+      "stale_references": [],
+      "frontmatter_missing": [
+        "README.md"
+      ],
+      "competitor_count": 0,
+      "competitor_target": 15,
+      "files_expected": 9,
+      "files_present": 1,
+      "health_score": 0.056
     },
     {
       "sector": "high-roi-niches",
@@ -199,6 +390,32 @@
       "files_expected": 9,
       "files_present": 9,
       "health_score": 0.88
+    },
+    {
+      "sector": "logistics-transport",
+      "present_files": [
+        "README.md"
+      ],
+      "missing_files": [
+        "go-to-market.md",
+        "risk-register.md",
+        "strategy-canvas.md",
+        "regulatory.md",
+        "pricing-guide.md",
+        "sentiment-analysis.md",
+        "seasonality.md",
+        "research/landscape-report.md",
+        "competitors/ (directory)"
+      ],
+      "stale_references": [],
+      "frontmatter_missing": [
+        "README.md"
+      ],
+      "competitor_count": 0,
+      "competitor_target": 12,
+      "files_expected": 9,
+      "files_present": 1,
+      "health_score": 0.056
     },
     {
       "sector": "media-marketing-digital",

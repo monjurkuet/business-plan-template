@@ -2,8 +2,8 @@
 sector: travel-tourism
 last_verified: 2026-07-03
 freshness: fresh
-confidence: 0.687
-evidence_ids: ['2891bbb0-3b8', 'c12936bf-b61', 'f8dc2d4d-195', '2cedf54a-714', 'd2b60e51-a3d', 'f0518337-648', 'da559ed5-e5e', '8cfd9170-d13', '36956421-d36', 'ace9b7de-8f5', '21934aaf-cf0', '615dc292-3b5', 'a4f2ed24-f18', '4f9ca55d-63d', '77649e88-3d5', 'dffe0556-489', '908de73b-d5c', 'c91dc393-59c', 'dbe6b0b4-e0d', '4e2007f5-369']
+confidence: 0.703
+evidence_ids: ['0d34d363-6c6', '5912e81b-a63', '9ac7777b-8ad', 'e933b67b-c2b', '2ea8569b-ddc', 'e48924c7-ac5', '738455b0-554', '577e7e75-f23', '5438af06-a92', '5a365844-39d', 'a6fad890-3fd', 'a2541d9e-6e6', '3b9f89d7-61a', '0b2b61bd-86a', '2e777049-ede', '45797d6e-18d', '452dc8e7-674', 'c0b08a19-9a4', '60c1b2a2-74f', '08be13f0-8d5']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -110,19 +110,22 @@ evidence_ids: ['2891bbb0-3b8', 'c12936bf-b61', 'f8dc2d4d-195', '2cedf54a-714', '
 
 
 
+
 ## Auto-Updated Data (2026-07-03)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| tourist, student & work visas; Umrah packages 2026; international flights; holid | search | 0.90 |
-| Dubai, Georgia, Armenia, Europe | search | 0.90 |
-| #1 travel agency in Bangladesh | search | 0.80 |
-| tour packages, air tickets, visa support | search | 0.90 |
-| affordable | search | 0.80 |
+| ['tourist visas', 'student visas', 'work visas', 'Umrah packages 2026', 'interna | search | 0.95 |
+| ['Dubai', 'Georgia', 'Armenia', 'Europe'] | search | 0.95 |
+| #1 travel agency in Bangladesh | search | 0.90 |
+| ['tour packages', 'air tickets', 'visa support'] | search | 0.95 |
+| affordable | search | 0.90 |
+| across Bangladesh | search | 0.95 |
+| tour and travel packages | search | 0.90 |
 | affordable | search | 0.80 |
 | online travel agency platform | search | 0.90 |
 | 2026-06-13 | search | 0.95 |
 | Dhaka District, Dhaka | search | 0.90 |
-| study abroad, visa services, air tickets | search | 0.90 |
+| study abroad, visa services, air tickets | search | 0.95 |
 | cheap | search | 0.80 |
 | ['UK', 'Canada', 'Russia', 'USA'] | search | 0.90 |

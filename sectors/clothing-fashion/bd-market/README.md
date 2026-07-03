@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-07-03
 freshness: fresh
-confidence: 0.699
-evidence_ids: ['518096d1-828', 'cec4f583-5a6', 'f9688b72-6b9', '1e2d9efa-186', '3357499d-69a', '4e5a9c66-016', 'daff43ad-56d', 'c66338bd-6cf', 'f4df34e8-90e', '51eb88e6-f25', '96936c4d-c74', '85aa3abe-cc3', 'df9634fb-78f', '2eb5d7ee-c93', '9d086a64-f98', '23681bff-9a9', '19577507-f8e', '2a030449-85b', '77ac3e7f-32e', 'df0aa57b-e61']
+confidence: 0.714
+evidence_ids: ['64f33830-953', 'ebafbf78-b74', 'a4869167-fd7', '4d52a52b-4fd', '461f2eaa-bc0', '507815c3-70a', 'f7ae3e73-7bb', '8594453d-3c0', '1c3fe5f1-713', '9250321e-c0c', '4f8f56aa-276', '6677948b-e3b', 'af983c8f-a9c', '57b9daf2-fb3', '1b538550-55b', 'f744564a-70b', 'a78581cf-553', 'b697d864-c26', '47d9a0dd-115', '7cf0b536-7d0']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -146,20 +146,23 @@ evidence_ids: ['518096d1-828', 'cec4f583-5a6', 'f9688b72-6b9', '1e2d9efa-186', '
 
 
 
+
 ## Auto-Updated Data (2026-07-03)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Nordstrom | search | 1.00 |
-| ['shoes', 'clothing', 'jewelry', 'dresses', 'makeup'] | search | 1.00 |
-| Free shipping | search | 1.00 |
-| Free returns | search | 1.00 |
-| Macy's | search | 1.00 |
-| ['clothing', 'shoes', 'beauty', 'home'] | search | 1.00 |
-| Free shipping options | search | 1.00 |
-| Fast pickup | search | 1.00 |
-| 88 | search | 0.95 |
-| decreased | search | 0.90 |
-| July | search | 0.90 |
-| increased costs due to oil and gas price surge | search | 0.90 |
-| closure of the Strait of Hormuz | search | 0.95 |
+| baggy pants | search | 0.90 |
+| boys, youth | search | 0.90 |
+| all over Bangladesh | search | 0.90 |
+| affordable | search | 0.80 |
+| ['best match', 'price', 'free shipping', 'fast delivery', 'free return'] | search | 0.90 |
+| Bangladesh | search | 1.00 |
+| ['t-shirts', 'polo shirts', 'casual shirts', 'summer wear'] | search | 0.90 |
+| across Bangladesh | search | 0.90 |
+| men | search | 0.90 |
+| women's three-piece sets | search | 0.90 |
+| affordable | search | 0.80 |
+| wholesale deals | search | 0.90 |
+| women | search | 0.90 |
+| trusted and reliable clothing manufacturer in Bangladesh | search | 0.90 |
+| custom apparel | search | 0.90 |

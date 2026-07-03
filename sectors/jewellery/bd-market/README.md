@@ -2,8 +2,8 @@
 sector: jewellery
 last_verified: 2026-07-03
 freshness: fresh
-confidence: 0.702
-evidence_ids: ['eb702caa-7c2', '9c133ab0-2b2', '551491bf-1b0', 'd26c2eab-d0b', '9aee023b-456', 'f8321f04-7a6', 'c20d2f1e-703', '47b8c483-148', '6714a13a-492', '790e499b-cb6', '4145a077-9cf', 'fa0c5a08-14a', 'c6cc2a7f-2b4', 'fd26e649-af7', '9a7ce277-9f9', 'f118c42e-f4a', 'f238901e-bc9', '7e71671a-806', '4820071c-b6f', 'de27c508-54b']
+confidence: 0.672
+evidence_ids: ['919b881f-4db', 'e7bdc58a-709', '95c23780-fb9', '5f5b69f4-4ab', 'f56b040e-ba8', 'e91debdf-286', '41b359d6-8d0', '999b245f-a42', 'ba58beae-3b9', '725b992d-37b', 'bf26cac3-ee5', '9e2e4cdd-604', '39a21d13-fc8', 'd4f433b0-941', '7cfbb28c-026', '3967d311-9ec', '051185b2-74b', 'a04ac09e-2e5', '09dae5d6-98c', '2bec34ce-e4b']
 ---
 
 # Jewellery — Bangladesh Market
@@ -122,20 +122,12 @@ evidence_ids: ['eb702caa-7c2', '9c133ab0-2b2', '551491bf-1b0', 'd26c2eab-d0b', '
 
 
 
+
 ## Auto-Updated Data (2026-07-03)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Wish Pearl Necklace | search | 0.90 |
-| low price | search | 0.80 |
-| Limited stock jewelry sale | search | 0.90 |
-| Pearl lovers in Bangladesh | search | 0.90 |
-| Affordable elegant jewelry | search | 0.90 |
-| BD | search | 0.90 |
-| Multiple necklace styles including pendant necklaces, statement necklaces, and c | search | 0.90 |
-| Bangladeshi Red Gold | search | 0.95 |
-| AR try-on, lifetime buyback | search | 0.90 |
-| 14k Yellow Gold, 14k White Gold, Diamond Jewelry | search | 0.90 |
-| rock-bottom prices you will not find anywhere else | search | 0.80 |
-| Up to 50% | search | 0.95 |
-| Summer Sale 2026 | search | 0.90 |
+| 50 | search | 0.90 |
+| Summer Sale 2026 | search | 0.95 |
+| price hikes loom | search | 0.80 |
+| Trump Tariffs impact on luxury prices | search | 0.90 |
