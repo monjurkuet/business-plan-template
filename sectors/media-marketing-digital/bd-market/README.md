@@ -2,8 +2,8 @@
 sector: media-marketing-digital
 last_verified: 2026-07-03
 freshness: fresh
-confidence: 0.682
-evidence_ids: ['1950810d-d47', '3305da90-3aa', '410a5b51-028', 'bda73795-5bd', '5655c73a-d5a', 'ba459c88-3df', '0bc871d1-cf8', 'b2bd4b56-41b', '431c49f5-174', '238240f8-074', 'af48d789-702', '123cf8a4-702', '79875d56-ab0', '12bbd130-086', '13471fea-6d1', '47bee045-602', 'eca86d68-2a2', '2034ed4d-6df', '5b1bad70-319', '04afa37d-ccb']
+confidence: 0.696
+evidence_ids: ['277f1803-329', '916f309d-e17', 'ed5ddf4e-525', '39435592-a02', '5d9b3d15-6c5', '02a9f9ee-bb8', '34a0aacf-0a9', '417bb702-d09', '661afd71-8af', '0055c82f-a25', '8741d967-4d8', '2ff4d387-8f9', 'c86ffa2a-6e2', '0811c638-5c9', 'bc9c36ec-76f', '46a18ffa-3d9', 'f7c60478-b03', 'c0ec4310-2e1', '3fe785da-054', 'e6d33a87-a46']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market
@@ -130,13 +130,21 @@ evidence_ids: ['1950810d-d47', '3305da90-3aa', '410a5b51-028', 'bda73795-5bd', '
 
 
 
+
 ## Auto-Updated Data (2026-07-03)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| payment per use | search | 0.90 |
-| pay only for what you use | search | 0.95 |
+| pay only for what you use | search | 0.90 |
+| digital multichannel marketing campaigns (Bulk SMS, Email, Voice) | search | 0.95 |
+| Bangladesh | search | 0.95 |
 | 2026 | search | 0.95 |
-| actual cost of digital marketing in Bangladesh for 2026, service by service | search | 0.90 |
-| eCommerce marketing, conversion optimization, and advertising | search | 0.95 |
-| timely delivery, effective project management, ability to boost sales and conver | search | 0.90 |
+| Provides price benchmarks for digital marketing services in Bangladesh to aid bu | search | 0.90 |
+| ['GEEKY SOCIAL LTD.', 'OneLittleWeb', 'BrandViser', 'MonsterClaw LLC', 'Ecomclip | search | 1.00 |
+| Clutch.co | search | 1.00 |
+| 2026-06 | search | 0.90 |
+| Connect with Bangladesh's top digital marketing companies based on verified revi | search | 0.95 |
+| Goodfirms | search | 1.00 |
+| 207 | search | 1.00 |
+| Bangladesh-based IT companies started exporting software around two decades ago  | search | 0.90 |
+| TechBehemoths | search | 1.00 |

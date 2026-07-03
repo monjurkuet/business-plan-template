@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-07-03
 freshness: fresh
-confidence: 0.714
-evidence_ids: ['64f33830-953', 'ebafbf78-b74', 'a4869167-fd7', '4d52a52b-4fd', '461f2eaa-bc0', '507815c3-70a', 'f7ae3e73-7bb', '8594453d-3c0', '1c3fe5f1-713', '9250321e-c0c', '4f8f56aa-276', '6677948b-e3b', 'af983c8f-a9c', '57b9daf2-fb3', '1b538550-55b', 'f744564a-70b', 'a78581cf-553', 'b697d864-c26', '47d9a0dd-115', '7cf0b536-7d0']
+confidence: 0.715
+evidence_ids: ['1936bb77-8e9', '86cf1702-78a', '80c42bd3-1b7', 'd7c1b86f-55c', '3813a778-bbd', 'bf896914-e89', '403fd7e7-f7e', 'aeb44524-033', '87574a38-133', '03ea7d9e-667', '39c6033a-64e', '15305b89-b33', '49fe4680-3c9', '16e476ae-411', '1025ff26-012', '7e528bfd-83a', '54a912f5-b9d', '8ea9ce00-a4e', '02542371-208', '5c63d828-bf7']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -147,22 +147,23 @@ evidence_ids: ['64f33830-953', 'ebafbf78-b74', 'a4869167-fd7', '4d52a52b-4fd', '
 
 
 
+
 ## Auto-Updated Data (2026-07-03)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| baggy pants | search | 0.90 |
+| Baggy Pants | search | 0.95 |
 | boys, youth | search | 0.90 |
-| all over Bangladesh | search | 0.90 |
-| affordable | search | 0.80 |
+| premium quality fabric | search | 0.85 |
+| affordable | search | 0.90 |
+| online clothing shop Bangladesh, home delivery all over Bangladesh | search | 0.95 |
+| summer outfit, winter outfit | search | 0.90 |
 | ['best match', 'price', 'free shipping', 'fast delivery', 'free return'] | search | 0.90 |
-| Bangladesh | search | 1.00 |
-| ['t-shirts', 'polo shirts', 'casual shirts', 'summer wear'] | search | 0.90 |
-| across Bangladesh | search | 0.90 |
-| men | search | 0.90 |
-| women's three-piece sets | search | 0.90 |
-| affordable | search | 0.80 |
-| wholesale deals | search | 0.90 |
-| women | search | 0.90 |
-| trusted and reliable clothing manufacturer in Bangladesh | search | 0.90 |
-| custom apparel | search | 0.90 |
+| 2026-07-16 | search | 0.95 |
+| Affordable | search | 0.80 |
+| ['popularity', 'average rating', 'latest', 'price: low to high', 'price: high to | search | 0.90 |
+| luxury clothing | search | 0.95 |
+| 88 | search | 0.95 |
+| fell over the past month | search | 0.90 |
+| 2026-06 | search | 0.90 |
+| oil and gas prices skyrocketing may affect clothing prices due to reliance on ch | search | 0.80 |

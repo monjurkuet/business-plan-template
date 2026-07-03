@@ -2,8 +2,8 @@
 sector: jewellery
 last_verified: 2026-07-03
 freshness: fresh
-confidence: 0.672
-evidence_ids: ['919b881f-4db', 'e7bdc58a-709', '95c23780-fb9', '5f5b69f4-4ab', 'f56b040e-ba8', 'e91debdf-286', '41b359d6-8d0', '999b245f-a42', 'ba58beae-3b9', '725b992d-37b', 'bf26cac3-ee5', '9e2e4cdd-604', '39a21d13-fc8', 'd4f433b0-941', '7cfbb28c-026', '3967d311-9ec', '051185b2-74b', 'a04ac09e-2e5', '09dae5d6-98c', '2bec34ce-e4b']
+confidence: 0.683
+evidence_ids: ['cccb8e6b-36d', 'c068c0ab-fd3', '132ddb1f-303', 'cbf30d6d-bb2', 'ea5d1557-3d3', 'fcaebafd-4e2', '4e3208df-c5c', '32e463ae-452', '409639ca-277', '19057975-772', '3ea2b25f-062', '6fb85c1c-0f1', 'eead8512-94d', '5ea2b888-a43', '67975192-cbf', '8d4a3f32-09a', '4e926530-096', 'ad1c47fc-092', '44cc41e0-ecb', '90d213c8-ae2']
 ---
 
 # Jewellery — Bangladesh Market
@@ -123,11 +123,9 @@ evidence_ids: ['919b881f-4db', 'e7bdc58a-709', '95c23780-fb9', '5f5b69f4-4ab', '
 
 
 
+
 ## Auto-Updated Data (2026-07-03)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 50 | search | 0.90 |
-| Summer Sale 2026 | search | 0.95 |
-| price hikes loom | search | 0.80 |
-| Trump Tariffs impact on luxury prices | search | 0.90 |
+| most competitive price | search | 0.80 |

@@ -2,8 +2,8 @@
 sector: food-beverage
 last_verified: 2026-07-03
 freshness: fresh
-confidence: 0.647
-evidence_ids: ['1c42b6bf-b77', 'cfcbb720-1bd', '285f135d-683', 'caa155fc-0e0', 'f2357f64-113', 'b29c7470-030', '324dca0a-895', '10258c83-d9e', '61ee33b8-1e4', '9b65962f-fe9', 'b02b1c49-5e3', 'ac873578-ded', '62e39591-7b9', 'c0afa946-1bd', '55d5fb88-f3f', '9f9eca7b-4a5', 'ed039096-734', 'f796ed87-686', '536bb8e7-322', '027eb7d5-223']
+confidence: 0.731
+evidence_ids: ['9527c0af-a9c', '2315cf8c-a26', '4a3bdd54-aa7', 'e3f85d76-11f', '5ee1091e-c01', 'd56eaba2-79d', '775c08c0-52f', '8d0ede48-e2b', 'c0a17585-e95', '92571bac-5ba', '4037da07-08d', 'e056b892-f35', 'f43b59fa-7d9', '98bc2813-11c', 'c7adec3c-8de', '29f67b67-7f6', '251c316d-e9d', 'a978e77d-18e', 'fbd0ff04-c80', '86b4a90b-49f']
 ---
 
 # Food & Beverage — Bangladesh Market
@@ -35,3 +35,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 - Risk register
 - Pricing guide
 - Financial model
+
+## Auto-Updated Data (2026-07-03)
+
+| Fact | Source | Confidence |
+|------|--------|------------|
+| Best Rooftop Restaurant in Bangladesh | search | 0.90 |
+| 20 minutes from downtown Montreal | search | 0.80 |
+| stunning views and delicious cuisine | search | 0.90 |
+| Famous Biryani Restaurant In Bangladesh | search | 0.90 |
+| Delhi Belly Restaurant | search | 0.90 |
+| Bangladeshi Food | search | 0.90 |
+| 16 | search | 0.80 |
+| Bangladesh Tandoori Restaurant | search | 1.00 |
+| Campbeltown | search | 1.00 |
+| 4.1 | search | 1.00 |
+| 10 | search | 1.00 |
+| ['Indian', 'Asian', 'Bangladeshi'] | search | 1.00 |
+| food photography | search | 1.00 |
+| Boss Man Digital Marketing Agency | search | 1.00 |
+| Dhaka | search | 1.00 |

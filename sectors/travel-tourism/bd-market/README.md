@@ -2,8 +2,8 @@
 sector: travel-tourism
 last_verified: 2026-07-03
 freshness: fresh
-confidence: 0.703
-evidence_ids: ['0d34d363-6c6', '5912e81b-a63', '9ac7777b-8ad', 'e933b67b-c2b', '2ea8569b-ddc', 'e48924c7-ac5', '738455b0-554', '577e7e75-f23', '5438af06-a92', '5a365844-39d', 'a6fad890-3fd', 'a2541d9e-6e6', '3b9f89d7-61a', '0b2b61bd-86a', '2e777049-ede', '45797d6e-18d', '452dc8e7-674', 'c0b08a19-9a4', '60c1b2a2-74f', '08be13f0-8d5']
+confidence: 0.696
+evidence_ids: ['0de2d9f1-c32', 'ab4ce172-b93', 'b13703f9-543', 'fcbb6f07-9ba', 'a7d84148-24e', '895e3d60-eb4', '0a875ef9-0e5', 'e5f6531a-0b2', '508129a9-91c', 'ea67f2a5-246', '10042c87-5c1', 'd9ee9dfd-e42', '5bcf91de-e49', '31326940-36d', 'cb62026b-eb8', 'fb2655bf-1f2', 'd75d5cf2-290', 'e031c4f1-694', '1b8ec3a0-293', '5d1002ba-d69']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -111,21 +111,19 @@ evidence_ids: ['0d34d363-6c6', '5912e81b-a63', '9ac7777b-8ad', 'e933b67b-c2b', '
 
 
 
+
 ## Auto-Updated Data (2026-07-03)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ['tourist visas', 'student visas', 'work visas', 'Umrah packages 2026', 'interna | search | 0.95 |
-| ['Dubai', 'Georgia', 'Armenia', 'Europe'] | search | 0.95 |
-| #1 travel agency in Bangladesh | search | 0.90 |
-| ['tour packages', 'air tickets', 'visa support'] | search | 0.95 |
-| affordable | search | 0.90 |
-| across Bangladesh | search | 0.95 |
-| tour and travel packages | search | 0.90 |
-| affordable | search | 0.80 |
-| online travel agency platform | search | 0.90 |
-| 2026-06-13 | search | 0.95 |
-| Dhaka District, Dhaka | search | 0.90 |
-| study abroad, visa services, air tickets | search | 0.95 |
-| cheap | search | 0.80 |
-| ['UK', 'Canada', 'Russia', 'USA'] | search | 0.90 |
+| Eammu Holidays | search | 1.00 |
+| travel agency | search | 1.00 |
+| ['tourist visas', 'student visas', 'work visas', 'Umrah packages 2026', 'interna | search | 1.00 |
+| ['Dubai', 'Georgia', 'Armenia', 'Europe'] | search | 1.00 |
+| Golden Bengal Tours | search | 1.00 |
+| travel agency | search | 1.00 |
+| affordable price | search | 0.90 |
+| 7% | search | 0.95 |
+| 500000 | search | 0.95 |
+| 2017 | search | 0.95 |
+| 42337956 | search | 0.95 |

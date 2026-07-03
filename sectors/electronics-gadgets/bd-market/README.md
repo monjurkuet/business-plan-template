@@ -2,8 +2,8 @@
 sector: electronics-gadgets
 last_verified: 2026-07-03
 freshness: fresh
-confidence: 0.674
-evidence_ids: ['6d844eea-ba8', '7eaa6571-04a', '5b6fccf1-0cf', '3714a7ca-b38', '6a7d1569-591', 'e5b8f526-23e', '0f46d77c-36d', '8e6b9908-b48', 'd5b71aa8-262', '92ae1c44-cd8', '6276c296-dbd', '9904574a-abf', '1830533f-290', 'b8cf2c5b-a9d', 'cd59831a-6e4', 'dec956fc-f2b', '6472147a-a27', '079cdd47-0dc', '362458d0-ff8', '26533380-90f']
+confidence: 0.705
+evidence_ids: ['cebbb491-a45', '1cdd1437-340', '67e5945c-ad5', 'a55e65c1-19e', 'e3388bfd-aec', '0f9b4072-abe', '944aa44e-3bc', 'bba7ae77-36f', '6d802cc7-8e5', '9c60ad75-848', '1f46ad59-b96', '1ae2b505-86d', 'b4d5fd34-1ee', '16f7588d-d1d', '1976b580-5d8', '567fffe4-116', 'd99e8944-116', '0cb88a89-e43', 'de70b1bf-1c8', 'e96f7d4d-872']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -135,9 +135,23 @@ evidence_ids: ['6d844eea-ba8', '7eaa6571-04a', '5b6fccf1-0cf', '3714a7ca-b38', '
 
 
 
+
 ## Auto-Updated Data (2026-07-03)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| may go up | search | 0.80 |
-| ['fruits', 'vegetables', 'vehicles', 'electronics', 'crude oil', 'toys'] | search | 0.90 |
+| smartphones | search | 0.95 |
+| ['Samsung', 'Xiaomi', 'OnePlus', 'Vivo', 'HONOR', 'Infinix', 'Tecno'] | search | 0.98 |
+| 100% genuine with official warranty | search | 0.95 |
+| competitive smartphone price in BD | search | 0.90 |
+| TV & Home Appliances | search | 0.95 |
+| energy-efficient, convenience, durability | search | 0.90 |
+| latest prices in Bangladesh | search | 0.90 |
+| homes and businesses | search | 0.90 |
+| Electronics Bangladesh | search | 0.98 |
+| Dhaka | search | 0.98 |
+| 53345 | search | 0.98 |
+| 16960 | search | 0.98 |
+| 5 | search | 0.95 |
+| ['TVs', 'fridges', 'ACs'] | search | 0.95 |
+| 14,699 - 31,899 | search | 0.98 |

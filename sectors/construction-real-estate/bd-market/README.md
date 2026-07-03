@@ -2,8 +2,8 @@
 sector: construction-real-estate
 last_verified: 2026-07-03
 freshness: fresh
-confidence: 0.685
-evidence_ids: ['6edba5ed-c28', '7e7c0c65-cfd', 'e3fcd5ea-fc3', 'f0613a49-52c', 'a73bc2cc-16f', 'a9b47035-039', '113abbb0-8a4', '83c830bb-4d6', '04269140-ab5', 'c9fd52ee-d70', 'a1349b14-099', 'ac181531-469', 'f979a470-98e', '62b05df1-3f4', '42511988-59d', '3f57c048-9cf', 'aaebb31e-921', '6ff116da-f38', '67fd2d1c-af3', '3b802dc6-c5a']
+confidence: 0.687
+evidence_ids: ['e7f0244e-f95', 'e24c6c5d-f3e', 'bb0a009d-9ec', '693ce3b7-f15', '8b0139bb-73d', '0e2f19ec-ff2', '39325d07-cb5', 'e426c67f-ff0', '22f49a9b-dfe', '7f9853f2-5e7', '7221dc6e-5e8', '7e197441-b3c', '4ef452f6-9b2', 'b515fc40-09f', '347b64b5-92b', '74522960-6b6', 'ca400a9e-69a', 'f3eb5e4d-80b', '2061c0ed-b66', 'ef993214-e77']
 ---
 
 # Construction & Real Estate — Bangladesh Market
@@ -36,22 +36,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 - Pricing guide
 - Financial model
 
+
 ## Auto-Updated Data (2026-07-03)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 65 | search | 0.90 |
-| ['ALM Steel Building Technology Ltd', 'ALM Tensile Membrane Structure Limited',  | search | 0.90 |
-| wholesale building materials | search | 0.90 |
-| 2024-01-04 | search | 0.90 |
-| ['CHB Engineering Ltd.', 'Alibaba Construction Ltd.'] | search | 0.95 |
-| building material suppliers | search | 0.90 |
-| Bangladesh | search | 1.00 |
-| ['Perfect Solution'] | search | 0.90 |
-| Nasirabad, Chittagong, Chittagong Sadar, Chittagong | search | 0.90 |
-| ['Industrial, Commercial, and residential Flooring', 'construction chemicals app | search | 0.85 |
-| ['Steel Sheet Piles'] | search | 0.80 |
-| ['DEG', 'IDCOL'] | search | 0.95 |
-| Building Materials | search | 0.90 |
-| Bangladesh | search | 1.00 |
-| 51 | search | 0.90 |
+| ['residential buildings', 'commercial buildings'] | search | 0.90 |
+| ['apartment blocks', 'houses'] | search | 0.90 |
+| ['restaurants', 'stores', 'office buildings'] | search | 0.90 |
+| a usually roofed and walled structure built for permanent use | search | 0.95 |
+| to moderate the effects of climate | search | 0.90 |
+| simple dwellings | search | 0.90 |
+| a structure with walls and a roof, such as a house or factory | search | 0.95 |
+| the process or business of constructing buildings | search | 0.90 |
+| Beximco | search | 0.90 |
+| Salman F. Rahman | search | 0.95 |
+| Vice Chairman | search | 0.95 |
+| 10-day remand for interrogation over the death of a hawker during student protes | search | 0.90 |
+| Mass layoffs in Bangladesh garment sector due to plummeting orders | search | 0.90 |
+| IndustriALL Global Union calls for EU to divest from Myanmar | search | 0.90 |
+| textile | search | 0.85 |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T00:05:53.540326+00:00",
+  "generated_at": "2026-07-03T06:05:04.988712+00:00",
   "total_files": 406,
   "sectors_audited": 15,
   "all_missing_files": [
@@ -60,32 +60,26 @@
     "logistics-transport/competitors/ (directory)"
   ],
   "all_stale_references": [
-    "automotive-car-care: 2023",
     "automotive-car-care: 2024",
+    "automotive-car-care: 2023",
     "bim-global-outreach: 2024",
-    "clothing-fashion: 2023",
     "clothing-fashion: 2024",
-    "crypto-bitcoin: 2023",
+    "clothing-fashion: 2023",
+    "construction-real-estate: 2024",
     "crypto-bitcoin: 2024",
-    "electronics-gadgets: 2023",
+    "crypto-bitcoin: 2023",
     "electronics-gadgets: 2024",
-    "high-roi-niches: 2023",
+    "electronics-gadgets: 2023",
     "high-roi-niches: 2024",
-    "jewellery: 2023",
+    "high-roi-niches: 2023",
     "jewellery: 2024",
-    "media-marketing-digital: 2023",
+    "jewellery: 2023",
     "media-marketing-digital: 2024",
-    "travel-tourism: 2023",
-    "travel-tourism: 2024"
+    "media-marketing-digital: 2023",
+    "travel-tourism: 2024",
+    "travel-tourism: 2023"
   ],
-  "all_frontmatter_missing": [
-    "agriculture-agro/README.md",
-    "construction-real-estate/README.md",
-    "education-training/README.md",
-    "food-beverage/README.md",
-    "healthcare-pharma/README.md",
-    "logistics-transport/README.md"
-  ],
+  "all_frontmatter_missing": [],
   "sector_audits": [
     {
       "sector": "agriculture-agro",
@@ -104,14 +98,12 @@
         "competitors/ (directory)"
       ],
       "stale_references": [],
-      "frontmatter_missing": [
-        "README.md"
-      ],
+      "frontmatter_missing": [],
       "competitor_count": 0,
       "competitor_target": 15,
       "files_expected": 9,
       "files_present": 1,
-      "health_score": 0.056
+      "health_score": 0.256
     },
     {
       "sector": "automotive-car-care",
@@ -128,8 +120,8 @@
       ],
       "missing_files": [],
       "stale_references": [
-        "2023",
-        "2024"
+        "2024",
+        "2023"
       ],
       "frontmatter_missing": [],
       "competitor_count": 12,
@@ -177,8 +169,8 @@
       ],
       "missing_files": [],
       "stale_references": [
-        "2023",
-        "2024"
+        "2024",
+        "2023"
       ],
       "frontmatter_missing": [],
       "competitor_count": 8,
@@ -203,15 +195,15 @@
         "research/landscape-report.md",
         "competitors/ (directory)"
       ],
-      "stale_references": [],
-      "frontmatter_missing": [
-        "README.md"
+      "stale_references": [
+        "2024"
       ],
+      "frontmatter_missing": [],
       "competitor_count": 0,
       "competitor_target": 15,
       "files_expected": 9,
       "files_present": 1,
-      "health_score": 0.056
+      "health_score": 0.256
     },
     {
       "sector": "crypto-bitcoin",
@@ -228,8 +220,8 @@
       ],
       "missing_files": [],
       "stale_references": [
-        "2023",
-        "2024"
+        "2024",
+        "2023"
       ],
       "frontmatter_missing": [],
       "competitor_count": 11,
@@ -255,14 +247,12 @@
         "competitors/ (directory)"
       ],
       "stale_references": [],
-      "frontmatter_missing": [
-        "README.md"
-      ],
+      "frontmatter_missing": [],
       "competitor_count": 0,
       "competitor_target": 12,
       "files_expected": 9,
       "files_present": 1,
-      "health_score": 0.056
+      "health_score": 0.256
     },
     {
       "sector": "electronics-gadgets",
@@ -279,8 +269,8 @@
       ],
       "missing_files": [],
       "stale_references": [
-        "2023",
-        "2024"
+        "2024",
+        "2023"
       ],
       "frontmatter_missing": [],
       "competitor_count": 7,
@@ -306,14 +296,12 @@
         "competitors/ (directory)"
       ],
       "stale_references": [],
-      "frontmatter_missing": [
-        "README.md"
-      ],
+      "frontmatter_missing": [],
       "competitor_count": 0,
       "competitor_target": 15,
       "files_expected": 9,
       "files_present": 1,
-      "health_score": 0.056
+      "health_score": 0.256
     },
     {
       "sector": "healthcare-pharma",
@@ -332,14 +320,12 @@
         "competitors/ (directory)"
       ],
       "stale_references": [],
-      "frontmatter_missing": [
-        "README.md"
-      ],
+      "frontmatter_missing": [],
       "competitor_count": 0,
       "competitor_target": 15,
       "files_expected": 9,
       "files_present": 1,
-      "health_score": 0.056
+      "health_score": 0.256
     },
     {
       "sector": "high-roi-niches",
@@ -356,8 +342,8 @@
       ],
       "missing_files": [],
       "stale_references": [
-        "2023",
-        "2024"
+        "2024",
+        "2023"
       ],
       "frontmatter_missing": [],
       "competitor_count": 7,
@@ -381,8 +367,8 @@
       ],
       "missing_files": [],
       "stale_references": [
-        "2023",
-        "2024"
+        "2024",
+        "2023"
       ],
       "frontmatter_missing": [],
       "competitor_count": 6,
@@ -408,14 +394,12 @@
         "competitors/ (directory)"
       ],
       "stale_references": [],
-      "frontmatter_missing": [
-        "README.md"
-      ],
+      "frontmatter_missing": [],
       "competitor_count": 0,
       "competitor_target": 12,
       "files_expected": 9,
       "files_present": 1,
-      "health_score": 0.056
+      "health_score": 0.256
     },
     {
       "sector": "media-marketing-digital",
@@ -432,8 +416,8 @@
       ],
       "missing_files": [],
       "stale_references": [
-        "2023",
-        "2024"
+        "2024",
+        "2023"
       ],
       "frontmatter_missing": [],
       "competitor_count": 7,
@@ -457,8 +441,8 @@
       ],
       "missing_files": [],
       "stale_references": [
-        "2023",
-        "2024"
+        "2024",
+        "2023"
       ],
       "frontmatter_missing": [],
       "competitor_count": 7,

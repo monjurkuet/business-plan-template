@@ -2,8 +2,8 @@
 sector: logistics-transport
 last_verified: 2026-07-03
 freshness: fresh
-confidence: 0.703
-evidence_ids: ['c5da4c41-f66', 'ac2d216c-e16', 'aa5435f5-9a0', 'f97b6ce6-51c', '10da3275-d3f', '4260d92f-1c3', 'ad6a16db-5cc', 'babcb725-f5e', '2d1b981d-43c', '39c4356b-3ab', '10b17f64-323', '3f99ead6-ca8', 'a4d40ce9-302', 'a10df372-51a', '5fe6580c-c2b', 'ee89d344-a2e', 'f8d7aaf1-6ca', 'dcb303be-1ad', 'a5bf5ae1-fa3', '4120839d-173']
+confidence: 0.704
+evidence_ids: ['bdf8b4dd-955', '34d51299-3d5', 'b1aea74c-c50', '9fb98766-df2', 'a796fbcd-2b0', '1b4a5c7b-55d', '6ab32033-07e', '9cbda868-865', '4540dd16-762', '362c5f9e-4ed', '4aaec10b-4dd', 'a236cde9-d16', '5d2db28a-d7e', 'f92b84fc-9eb', 'eca55fea-d9f', '4f587013-87b', 'd4083f9e-291', '4ec2cd46-cf6', 'f031f7e9-31d', '2c59312c-642']
 ---
 
 # Logistics & Transport — Bangladesh Market
@@ -36,16 +36,12 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 - Pricing guide
 - Financial model
 
+
 ## Auto-Updated Data (2026-07-03)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| same-day delivery | search | 0.90 |
-| NYC and throughout the Northeast | search | 0.90 |
-| one of the oldest and most well-respected courier services in New York City | search | 0.90 |
-| same-day courier services | search | 0.90 |
-| ['white-glove service', 'medical specimen delivery'] | search | 0.90 |
-| New York | search | 0.80 |
-| courier & messenger service | search | 0.90 |
-| NYC & Tri-State area | search | 0.90 |
-| fastest and most affordable | search | 0.80 |
+| messenger | search | 1.00 |
+| Same-day local package delivery using a ride-request model with live tracking, t | search | 0.90 |
+| Riverside, RI | search | 1.00 |
+| ['Same-day delivery', 'white glove', 'other courier services'] | search | 0.90 |
