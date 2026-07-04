@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-07-04
 freshness: fresh
-confidence: 0.74
-evidence_ids: ['14f248e6-641', 'c902b859-f6e', 'af21dd55-772', 'a8b856a9-4fc', 'b4641339-9db', '853aad32-7c4', 'eba73e84-4e5', '42adebdf-50c', '5ec3ecb2-c4a', '15b6432d-a71', 'e86b3450-729', 'dc6b0b51-b9c', '255f843d-410', 'c8cb279d-bb9', '425726c7-1bd', '6e2a7f61-bfd', '8f2b704f-232', '64a4d9fe-02f', '6d0cbf02-b47', 'db9dacee-baa']
+confidence: 0.745
+evidence_ids: ['6bec0414-a41', 'b65cb86e-b88', '8cc4c473-29a', '8f640ecd-1c0', '0622ed0a-497', 'd6996a40-eac', 'c89ef420-3b5', '41dda925-0d9', '28338dc5-612', 'd17878af-847', '9243c9c4-776', '27a2f41a-354', '345f43f2-a0c', 'b743295b-1b3', 'ea8ad657-2e3', 'd8076847-fbd', '1c714865-9ba', '71053024-852', '4f2f9c27-283', '1952b672-205']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -100,6 +100,7 @@ evidence_ids: ['14f248e6-641', 'c902b859-f6e', 'af21dd55-772', 'a8b856a9-4fc', '
 - ✅ "Scalable BIM Support Studio"
 
 *Last updated: 2026-06-25*
+
 
 
 

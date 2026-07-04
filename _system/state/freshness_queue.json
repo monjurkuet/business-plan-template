@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T10:54:14.214906+00:00",
+  "generated_at": "2026-07-04T12:01:02.048620+00:00",
   "summary": {
     "fresh": 93,
     "stale": 22,
@@ -621,7 +621,7 @@
       "priority": "P1",
       "stale_after_days": 90,
       "critical_after_days": 180,
-      "reason": "Contains stale year references: 2025"
+      "reason": "Contains stale year references: 2023, 2024, 2025"
     },
     {
       "path": "sectors/media-marketing-digital/bd-market/README.md",

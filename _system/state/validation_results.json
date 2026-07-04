@@ -1,13 +1,23 @@
 {
-  "generated_at": "2026-07-04T11:03:35.911248+00:00",
+  "generated_at": "2026-07-04T12:09:24.681513+00:00",
   "summary": {
     "files_checked": 214,
-    "violations": 1,
+    "violations": 3,
     "warnings": 0
   },
   "violations": [
     {
+      "file": "sectors/bim-global-outreach/bd-market/competitors/engineering-services-usa.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
       "file": "sectors/bim-global-outreach/bd-market/competitors/virtual-building-studio.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-sailor.md",
       "type": "missing_field",
       "detail": "Missing required field: confidence"
     }

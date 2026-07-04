@@ -2,8 +2,8 @@
 sector: media-marketing-digital
 last_verified: 2026-07-04
 freshness: fresh
-confidence: 0.704
-evidence_ids: ['81b14b61-b75', 'a59b71d4-bed', '56a9f112-4f7', '10d8efc6-5fc', 'd6839dff-d6a', '8ba2d886-40f', '3d4e97a4-1a5', '321b6860-b77', '14efe747-3c1', 'e93ae718-a1f', 'd8ab4d30-da2', 'ac211089-cd6', '3929db27-302', 'b698bd99-b62', '3b866fbc-584', '7cbbef78-8fa', '9fb7d13a-1f5', '68631a8a-95c', 'c36f9bc9-ce0', 'ca0dbad5-490']
+confidence: 0.699
+evidence_ids: ['147672ef-7d5', 'b9b7fcb8-715', 'fdfe43c3-d77', '4703b2ad-c7b', '607f8147-9ca', '0be4fb4a-a1a', '5e695cb1-354', '3d1325da-edd', '2e94cb0f-e76', '3ecea805-1fb', 'fd2a7d2c-373', '42957dfa-33f', 'aa4cf637-447', '138d2d82-7f0', 'b0ea61dd-9f0', '38ff9ef4-fb1', 'f763ec67-b76', 'affa10d4-090', '27b0ec7f-c41', '9347a235-578']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market
@@ -133,16 +133,15 @@ evidence_ids: ['81b14b61-b75', 'a59b71d4-bed', '56a9f112-4f7', '10d8efc6-5fc', '
 
 
 
+
 ## Auto-Updated Data (2026-07-04)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| pay per use | search | 1.00 |
-| ['Bulk SMS', 'Email', 'Voice'] | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| 207 | search | 1.00 |
-| Bangladesh-based IT companies started to export software around two decades ago, | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| PMAX - Total Performance Marketing | search | 1.00 |
-| ['eCommerce marketing', 'conversion optimization', 'advertising'] | search | 1.00 |
-| ['timely delivery', 'effective project management', 'ability to boost sales and  | search | 1.00 |
+| 2026-05-01 | search | 0.90 |
+| Digital Marketing Guide for Bangladesh | search | 0.95 |
+| ['SEO', 'Facebook Ads', 'Google Ads', 'Social Media', 'Email Marketing'] | search | 0.90 |
+| Bangladesh (Dhaka and beyond) | search | 0.90 |
+| Bulk SMS, Email Marketing, Interactive Voice | search | 0.90 |
+| best price in digital marketing Bangladesh | search | 0.80 |
+| SEO, social media marketing, online branding, promotion, email marketing | search | 0.90 |

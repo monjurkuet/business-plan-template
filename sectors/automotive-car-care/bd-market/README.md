@@ -2,8 +2,8 @@
 sector: automotive-car-care
 last_verified: 2026-07-04
 freshness: fresh
-confidence: 0.697
-evidence_ids: ['401e5fc2-318', '77600b60-0d0', '8acf0474-bb1', '4d78b36f-d54', '660f7132-8df', '7ff748db-ae8', '4cdeaf5f-926', '6f23a42a-bcf', 'cb1e28da-adb', '9801f79b-7b9', '9d319588-a26', 'f6623fcb-4fc', '88d21d59-f7a', '0fce7f8d-60b', '6a48d497-403', '5075ff55-f9d', '5c258e1e-182', 'c6604c47-714', '0f94ea07-d3f', '4ac08dcc-e18']
+confidence: 0.692
+evidence_ids: ['45e1ed42-189', '08c5779e-472', '66535a20-cae', '0d07c706-246', '1fe2ea3e-b55', '8c3fcbb7-96d', '5ffa54d7-286', 'f4e4e30b-f35', '6d119278-766', 'e559f70e-78c', 'a572f848-5b1', '830fa078-2f1', '94ac0359-4e9', 'e2acd99e-d31', '7aedc95f-031', '7e4e7377-fd9', '66184b8a-09e', '2a43028b-155', 'c76c265a-cfc', '11bc17da-516']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -163,14 +163,21 @@ evidence_ids: ['401e5fc2-318', '77600b60-0d0', '8acf0474-bb1', '4d78b36f-d54', '
 
 
 
+
 ## Auto-Updated Data (2026-07-04)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Metroshine Express Ltd | search | 0.90 |
-| 01933328888 | search | 0.95 |
-| waterless car wash | search | 0.90 |
-| premium car wash services | search | 0.80 |
-| top prices for detailing and quality care | search | 0.70 |
-| CarWashBD | search | 0.95 |
-| best car wash services in Bangladesh | search | 0.90 |
+| free quote for car wash service | search | 0.90 |
+| free air fresheners and bonus free washes | search | 0.90 |
+| unlimited wash club membership | search | 0.90 |
+| affordable cost | search | 0.80 |
+| revolutionizing the car wash experience | search | 0.90 |
+| advanced cleaning technologies | search | 0.90 |
+| eco-friendly products | search | 0.90 |
+| Dhaka, Bangladesh | search | 0.90 |
+| Dhanmondi, Dhaka, Bangladesh | search | 0.95 |
+| +8801762499688 | search | 0.95 |
+| {'Monday': '24 Hours', 'Tuesday': '24 Hours', 'Wednesday': '24 Hours', 'Thursday | search | 0.95 |
+| premium car wash services | search | 0.90 |
+| clients pay top prices for detailing and quality care | search | 0.80 |

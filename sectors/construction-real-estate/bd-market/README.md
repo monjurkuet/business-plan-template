@@ -2,8 +2,8 @@
 sector: construction-real-estate
 last_verified: 2026-07-04
 freshness: fresh
-confidence: 0.717
-evidence_ids: ['f3d4dfe5-7e9', '46392bf0-151', '7f865b3d-66c', 'a7044b99-4ca', '5994f273-63a', '975780ac-ca8', 'da52edf3-616', 'dde201d2-0d0', 'f0ec136e-71f', 'f7280de3-b71', '099fec49-d96', '86e4c510-86c', '947d1b8e-83a', 'a83754c7-247', 'e0263a09-9ac', 'e9147f10-acb', 'c622dcad-78c', '93b107d9-6e8', '246e3d69-de5', '9c8f2a27-2bf']
+confidence: 0.711
+evidence_ids: ['acc7a636-b13', 'c98ce813-6c9', 'f105502e-06a', '3cd61386-56b', 'e0410263-97d', 'af1597bd-843', '16892568-25f', '713924ad-86c', 'af4431a8-463', '28a75f2e-557', 'dfb2b716-a52', '33b01a5b-804', '60f536d6-207', 'fba902c4-e75', '1c5c062b-8c3', 'fe9adecb-b5c', '3e55c567-4d5', 'e67d3ae7-c5b', '16465a12-280', 'dfaa7612-d31']
 ---
 
 # Construction & Real Estate — Bangladesh Market
@@ -39,20 +39,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-04)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ['ALM Steel Building Technology Ltd', 'ALM Tensile Membrane Structure Limited',  | search | 0.95 |
-| 65 | search | 0.90 |
-| ['CHB Engineering Ltd', 'Alibaba Construction Ltd'] | search | 0.95 |
-| 2026 | search | 0.90 |
-| 51 | search | 0.90 |
-| ['DEG', 'IDCOL'] | search | 0.95 |
-| 2023-06-15 | search | 0.90 |
-| ['Bashundhara Group', 'LafargeHolcim Bangladesh Limited', 'Confidence Cement Ltd | search | 0.95 |
-| 2023-04-28 | search | 0.90 |
-| 34 | search | 0.90 |
-| ['Sheltech Ceramics', 'LafargeHolcim Bangladesh', 'RAK Paints', 'Fu-Wang Ceramic | search | 0.95 |
-| Dhaka, Bangladesh | search | 0.95 |
-| 2024-03-07 | search | 0.90 |
+| ['CHB Engineering Ltd.', 'Alibaba Construction Ltd.'] | search | 0.95 |
+| Building Material Suppliers | search | 0.95 |
+| Bangladesh | search | 1.00 |
+| RFL | search | 1.00 |
+| largest building materials supplier in Bangladesh | search | 0.95 |
+| Building Materials | search | 0.95 |
+| Bangladesh | search | 1.00 |
+| [{'company_name': 'Noman Group', 'estimated_revenue': 24200000000, 'unit': 'USD' | search | 0.95 |
+| Manufacturing | search | 0.95 |
+| Bangladesh | search | 1.00 |
+| 2026-07 | search | 0.90 |
+| Beximco | search | 1.00 |
+| private | search | 0.95 |
+| A S F Rahman | search | 0.95 |
+| Chairman | search | 0.95 |

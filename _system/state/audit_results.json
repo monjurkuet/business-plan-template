@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T10:54:13.933101+00:00",
-  "total_files": 470,
+  "generated_at": "2026-07-04T12:01:01.885573+00:00",
+  "total_files": 473,
   "sectors_audited": 15,
   "all_missing_files": [
     "agriculture-agro/competitors/ (directory)",
@@ -11,37 +11,39 @@
     "logistics-transport/competitors/ (directory)"
   ],
   "all_stale_references": [
-    "automotive-car-care: 2023",
     "automotive-car-care: 2025",
+    "automotive-car-care: 2023",
     "automotive-car-care: 2024",
-    "bim-global-outreach: 2023",
     "bim-global-outreach: 2025",
+    "bim-global-outreach: 2023",
     "bim-global-outreach: 2024",
-    "clothing-fashion: 2023",
     "clothing-fashion: 2025",
+    "clothing-fashion: 2023",
     "clothing-fashion: 2024",
     "construction-real-estate: 2023",
     "construction-real-estate: 2024",
-    "crypto-bitcoin: 2023",
     "crypto-bitcoin: 2025",
+    "crypto-bitcoin: 2023",
     "crypto-bitcoin: 2024",
-    "electronics-gadgets: 2023",
     "electronics-gadgets: 2025",
+    "electronics-gadgets: 2023",
     "electronics-gadgets: 2024",
     "food-beverage: 2025",
     "healthcare-pharma: 2025",
-    "high-roi-niches: 2023",
     "high-roi-niches: 2025",
+    "high-roi-niches: 2023",
     "high-roi-niches: 2024",
-    "jewellery: 2023",
     "jewellery: 2025",
+    "jewellery: 2023",
     "jewellery: 2024",
     "logistics-transport: 2025",
-    "media-marketing-digital: 2023",
+    "logistics-transport: 2023",
+    "logistics-transport: 2024",
     "media-marketing-digital: 2025",
+    "media-marketing-digital: 2023",
     "media-marketing-digital: 2024",
-    "travel-tourism: 2023",
     "travel-tourism: 2025",
+    "travel-tourism: 2023",
     "travel-tourism: 2024"
   ],
   "all_frontmatter_missing": [],
@@ -85,8 +87,8 @@
       ],
       "missing_files": [],
       "stale_references": [
-        "2023",
         "2025",
+        "2023",
         "2024"
       ],
       "frontmatter_missing": [],
@@ -110,8 +112,8 @@
       ],
       "missing_files": [],
       "stale_references": [
-        "2023",
         "2025",
+        "2023",
         "2024"
       ],
       "frontmatter_missing": [],
@@ -136,8 +138,8 @@
       ],
       "missing_files": [],
       "stale_references": [
-        "2023",
         "2025",
+        "2023",
         "2024"
       ],
       "frontmatter_missing": [],
@@ -189,8 +191,8 @@
       ],
       "missing_files": [],
       "stale_references": [
-        "2023",
         "2025",
+        "2023",
         "2024"
       ],
       "frontmatter_missing": [],
@@ -239,8 +241,8 @@
       ],
       "missing_files": [],
       "stale_references": [
-        "2023",
         "2025",
+        "2023",
         "2024"
       ],
       "frontmatter_missing": [],
@@ -317,8 +319,8 @@
       ],
       "missing_files": [],
       "stale_references": [
-        "2023",
         "2025",
+        "2023",
         "2024"
       ],
       "frontmatter_missing": [],
@@ -343,8 +345,8 @@
       ],
       "missing_files": [],
       "stale_references": [
-        "2023",
         "2025",
+        "2023",
         "2024"
       ],
       "frontmatter_missing": [],
@@ -371,7 +373,9 @@
         "competitors/ (directory)"
       ],
       "stale_references": [
-        "2025"
+        "2025",
+        "2023",
+        "2024"
       ],
       "frontmatter_missing": [],
       "competitor_count": 0,
@@ -395,8 +399,8 @@
       ],
       "missing_files": [],
       "stale_references": [
-        "2023",
         "2025",
+        "2023",
         "2024"
       ],
       "frontmatter_missing": [],
@@ -421,8 +425,8 @@
       ],
       "missing_files": [],
       "stale_references": [
-        "2023",
         "2025",
+        "2023",
         "2024"
       ],
       "frontmatter_missing": [],

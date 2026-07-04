@@ -2,8 +2,8 @@
 sector: education-training
 last_verified: 2026-07-04
 freshness: fresh
-confidence: 0.707
-evidence_ids: ['cfdb04a1-6a2', 'ff4b0ad1-899', '776a5a56-830', '48d4e6ed-023', 'ca8ad007-5f0', '42f2b356-f33', '8ac753c8-7f2', '06fdd998-095', '71829071-539', '9973241c-490', '6eab83f0-ed8', '32521f85-5dc', '5bdf06ce-2f3', '1efd3057-fed', '28a54da3-15b', '24a2f73e-794', '2ba9c7c8-5e8', '2746584c-c69', '303cc6e4-2f0', 'eb34a782-951']
+confidence: 0.708
+evidence_ids: ['400b3b3a-318', '10111f87-819', 'ca6182e7-e9f', '6c903f88-f64', '9c857895-8c4', 'f68f2ae4-06a', 'c0339d4f-65e', 'b772d788-1cb', '64998a4a-c15', 'bc53fd5c-13b', '75bf9331-33d', '966d3ccf-b5e', '23731893-b2c', 'b136078e-8c1', 'af91c73e-11a', '5bbcde87-f49', '8b833065-69b', '476b598a-23d', '81f14c17-538', '0cf505f0-a2b']
 ---
 
 # Education & Training — Bangladesh Market
@@ -38,22 +38,21 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-04)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Medico Coaching Center | search | 1.00 |
-| coaching services | search | 1.00 |
-| ['offline', 'online'] | search | 1.00 |
-| Medical and University Admission Test preparation | search | 1.00 |
-| Enroute Center for Development | search | 1.00 |
-| executive training | search | 1.00 |
-| tailored individual and group training for all employee levels | search | 1.00 |
-| top executive training organization in Bangladesh | search | 0.90 |
-| FutureLeaders (FLS) | search | 1.00 |
-| ['leadership training', 'soft skills training'] | search | 1.00 |
-| outdoor training (Outbound/Adventure training) | search | 1.00 |
-| no.1 outdoor training provider in Bangladesh | search | 1.00 |
-| ['top MNCs', 'national companies'] | search | 1.00 |
-| 2026-02-04 | search | 1.00 |
-| SQS Global Network | search | 1.00 |
+| Online Hindi Classes | search | 0.95 |
+| CBSE/ICSE coaching, Spoken Hindi | search | 0.95 |
+| Bangladesh | search | 0.95 |
+| flexible timing, free demo class | search | 0.90 |
+| Online NCLEX Coaching | search | 0.95 |
+| Bangladesh | search | 0.95 |
+| Mantram Nursing Academy | search | 0.95 |
+| NCLEX | search | 0.95 |
+| Easy Learning Coaching Center | search | 0.90 |
+| Chattogram | search | 0.95 |
+| National University, Bangladesh | search | 0.90 |
+| Easy Coaching Center (E.C.C) | search | 0.95 |
+| Jaleshwaritola, Bogra, Bangladesh | search | 0.95 |

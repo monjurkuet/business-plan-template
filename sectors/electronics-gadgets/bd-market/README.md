@@ -2,8 +2,8 @@
 sector: electronics-gadgets
 last_verified: 2026-07-04
 freshness: fresh
-confidence: 0.755
-evidence_ids: ['b6d6f5a8-616', 'f218eba2-53a', 'f2279fe6-71d', '48cb00c4-0ab', 'f54c1e2e-3ee', 'dc175956-242', '7a25d11b-957', 'f9ceb163-323', 'f6c25310-836', '8be69476-43c', '4db2205f-e6d', '2f19abc4-67c', 'd85bb854-212', 'e1ef778b-902', 'dd54abc6-a0b', '2a6825cf-5c0', '6cfc51a4-49d', 'b8ad82b5-deb', '1007b335-707', '5af812a6-141']
+confidence: 0.706
+evidence_ids: ['dbe901c2-8e3', '2205d347-a06', '9bc8e148-29f', '91b6c92e-e36', 'ab80e3dc-bbd', 'daa3adff-57e', 'b226e36a-6ea', '2b566d60-24a', '9d4c533a-faf', '6c96891e-ba2', '933ee734-ddc', '2462aa07-8d8', '8fadc181-e19', '82627238-3c4', '2992ff43-a45', '80da5410-2c1', '2a46e3b6-d9d', 'c7b78edc-688', 'fe554753-6f7', '156a8519-3b8']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -138,22 +138,16 @@ evidence_ids: ['b6d6f5a8-616', 'f218eba2-53a', 'f2279fe6-71d', '48cb00c4-0ab', '
 
 
 
+
 ## Auto-Updated Data (2026-07-04)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| smartphones | search | 0.95 |
-| ['Samsung', 'Xiaomi', 'OnePlus', 'Vivo', 'HONOR', 'Infinix', 'Tecno'] | search | 0.95 |
-| 100% genuine with official warranty | search | 0.95 |
-| competitive smartphone price in BD | search | 0.90 |
-| ['TV', 'Home Appliances'] | search | 0.95 |
-| energy-efficient, convenience, durability | search | 0.90 |
-| 2026-04-06 | search | 0.95 |
-| ['homes', 'businesses'] | search | 0.90 |
-| 53345 | search | 0.95 |
-| 16960 | search | 0.95 |
-| 5 | search | 0.95 |
-| ['TVs', 'fridges', 'ACs'] | search | 0.95 |
-| Dhaka | search | 0.95 |
-| 14699-31899 | search | 0.95 |
-| mobile phones | search | 0.95 |
+| competitive prices on premium electronics | search | 0.90 |
+| best prices | search | 0.80 |
+| Free Shipping | search | 0.90 |
+| 15.00 | search | 0.90 |
+| BRANDS MEGA LTD | search | 1.00 |
+| Navana Tower (Level-18) 45 Gulshan Avenue, Gulshan-1 Dhaka -1212, Bangladesh | search | 1.00 |
+| 35mm Crocodile Clip Big Size Pair (Battery Clip) | search | 0.90 |
+| 35mm-Crocodile-Clip-battery-clip-price-in-online-BD-Bangladesh | search | 0.80 |

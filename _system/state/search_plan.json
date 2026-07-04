@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T11:03:33.720178+00:00",
+  "generated_at": "2026-07-04T12:09:24.429139+00:00",
   "models_used": [
     "gemini-2.5-flash-lite",
     "deepseek-ai/deepseek-v4-pro",
@@ -7,10 +7,210 @@
   ],
   "reviews": [
     {
-      "model": "gemini-2.5-flash-lite",
-      "error": "The read operation timed out",
-      "gaps": [],
-      "recommendations": []
+      "repo_critical_issues": [
+        {
+          "issue": "Missing 'competitor_core_profile' files for multiple sectors indicate a significant gap in competitor analysis.",
+          "severity": "critical",
+          "affected_sectors": [
+            "agriculture-agro",
+            "construction-real-estate",
+            "education-training",
+            "food-beverage",
+            "healthcare-pharma"
+          ]
+        },
+        {
+          "issue": "Pricing, policy, and sentiment files exceeding freshness threshold (59 days) for multiple sectors require immediate updates to ensure data accuracy and relevance.",
+          "severity": "high",
+          "affected_sectors": [
+            "automotive-car-care",
+            "clothing-fashion",
+            "crypto-bitcoin",
+            "electronics-gadgets",
+            "high-roi-niches",
+            "jewellery"
+          ]
+        },
+        {
+          "issue": "Stale year references (2023, 2024, 2025) in 'crypto-bitcoin/default' file suggest outdated information and potential inaccuracies.",
+          "severity": "high",
+          "affected_sectors": [
+            "crypto-bitcoin"
+          ]
+        }
+      ],
+      "sector_priorities": [
+        {
+          "sector": "crypto-bitcoin",
+          "priority": 10,
+          "reason": "Critical freshness issues in pricing, policy, and sentiment, coupled with stale year references, demand immediate attention. The sector's dynamic nature requires up-to-date information."
+        },
+        {
+          "sector": "automotive-car-care",
+          "priority": 9,
+          "reason": "Multiple freshness alerts for pricing, policy, and sentiment files indicate a need for urgent data refresh to maintain repository integrity."
+        },
+        {
+          "sector": "clothing-fashion",
+          "priority": 9,
+          "reason": "Similar to automotive, critical freshness issues across pricing, policy, and sentiment necessitate prompt updates."
+        },
+        {
+          "sector": "electronics-gadgets",
+          "priority": 8,
+          "reason": "Freshness concerns in pricing, policy, and sentiment files require attention to ensure data relevance."
+        },
+        {
+          "sector": "jewellery",
+          "priority": 8,
+          "reason": "Urgent need to update pricing, policy, and sentiment files due to freshness alerts."
+        },
+        {
+          "sector": "high-roi-niches",
+          "priority": 7,
+          "reason": "Freshness issues in pricing, policy, and sentiment files need to be addressed to maintain data quality."
+        },
+        {
+          "sector": "agriculture-agro",
+          "priority": 6,
+          "reason": "Missing 'competitor_core_profile' is a critical gap that needs to be filled to understand the competitive landscape."
+        },
+        {
+          "sector": "construction-real-estate",
+          "priority": 6,
+          "reason": "Missing 'competitor_core_profile' file hinders comprehensive competitor analysis."
+        },
+        {
+          "sector": "food-beverage",
+          "priority": 6,
+          "reason": "The absence of 'competitor_core_profile' requires immediate action for a complete sector overview."
+        },
+        {
+          "sector": "healthcare-pharma",
+          "priority": 6,
+          "reason": "Critical gap due to missing 'competitor_core_profile' file, impacting competitive intelligence."
+        },
+        {
+          "sector": "education-training",
+          "priority": 5,
+          "reason": "Missing 'competitor_core_profile' file needs to be addressed for a thorough understanding of the sector."
+        }
+      ],
+      "search_hypotheses": [
+        {
+          "sector": "crypto-bitcoin",
+          "hypothesis": "The crypto market in Bangladesh is experiencing rapid evolution, necessitating frequent updates to regulatory interpretations, pricing trends, and public sentiment.",
+          "suggested_queries": [
+            "Bangladesh crypto regulations 2025",
+            "current Bitcoin price trends Bangladesh BDT",
+            "Bangladeshi sentiment towards cryptocurrency investment 2025",
+            "recent circulars Bangladesh Bank crypto",
+            "peer-to-peer crypto trading volume Bangladesh"
+          ],
+          "confidence": 0.9
+        },
+        {
+          "sector": "automotive-car-care",
+          "hypothesis": "Consumer demand for car maintenance services in Bangladesh is influenced by economic conditions and the availability of affordable, quality service providers, requiring up-to-date pricing and policy information.",
+          "suggested_queries": [
+            "car service pricing Bangladesh BDT 2025",
+            "automotive repair policy Bangladesh",
+            "consumer sentiment car maintenance Bangladesh",
+            "new car sales trends Bangladesh impact on car care",
+            "government incentives automotive sector Bangladesh"
+          ],
+          "confidence": 0.85
+        },
+        {
+          "sector": "clothing-fashion",
+          "hypothesis": "The Bangladeshi fashion market is highly sensitive to seasonal trends, global influences, and evolving consumer preferences, making up-to-date pricing, policy, and sentiment data crucial.",
+          "suggested_queries": [
+            "fashion retail pricing Bangladesh BDT 2025",
+            "textile import/export policy Bangladesh",
+            "fashion consumer trends Bangladesh",
+            "impact of fast fashion Bangladesh",
+            "sustainability in Bangladesh fashion industry"
+          ],
+          "confidence": 0.8
+        },
+        {
+          "sector": "agriculture-agro",
+          "hypothesis": "The agricultural sector in Bangladesh faces challenges related to supply chain efficiency, access to modern farming techniques, and government support, making competitor analysis vital for identifying growth opportunities.",
+          "suggested_queries": [
+            "major agro-businesses Bangladesh market share",
+            "government subsidies agriculture Bangladesh",
+            "agricultural technology adoption Bangladesh",
+            "challenges in Bangladesh agricultural supply chain",
+            "competitor analysis agrochemical companies Bangladesh"
+          ],
+          "confidence": 0.75
+        },
+        {
+          "sector": "construction-real-estate",
+          "hypothesis": "The real estate market in Bangladesh is driven by urbanization, housing demand, and regulatory frameworks, requiring a clear understanding of key players and market dynamics.",
+          "suggested_queries": [
+            "leading real estate developers Bangladesh",
+            "housing market trends Bangladesh 2025",
+            "real estate investment regulations Bangladesh",
+            "government housing projects Bangladesh",
+            "construction material prices Bangladesh"
+          ],
+          "confidence": 0.7
+        }
+      ],
+      "high_value_missing_angles": [
+        "Detailed financial performance of key competitors across all sectors, with sourced data where possible.",
+        "Up-to-date regulatory landscape for 2025-2026, including specific government circulars and their implications for businesses in each sector.",
+        "Verified and functional Facebook handles for competitors, crucial for social media engagement and sentiment analysis.",
+        "Cross-sector analysis to identify emerging trends, such as the impact of digital transformation on traditional industries or the growth of e-commerce influencing various sectors.",
+        "Specific BDT pricing data for products and services across all relevant sectors, not just estimates.",
+        "Risk registers that are regularly updated and reflect current geopolitical and economic conditions.",
+        "Strategy canvases that are comprehensive and reflect current market realities.",
+        "Evidence layer that is consistently populated with high-confidence facts and linked to specific sources."
+      ],
+      "recommended_actions": [
+        {
+          "action": "Prioritize updating all 'pricing', 'policy', and 'sentiment' files that have exceeded the 59-day freshness threshold. Assign owners and deadlines for each sector.",
+          "priority": "P0",
+          "effort": "medium"
+        },
+        {
+          "action": "Immediately address the missing 'competitor_core_profile' files for 'agriculture-agro', 'construction-real-estate', 'education-training', 'food-beverage', and 'healthcare-pharma'. Initiate research to populate these.",
+          "priority": "P0",
+          "effort": "high"
+        },
+        {
+          "action": "Review and update the 'crypto-bitcoin/default' file to remove stale year references and ensure all information reflects current or future projections (2025-2026).",
+          "priority": "P0",
+          "effort": "low"
+        },
+        {
+          "action": "Develop a systematic process for verifying and updating competitor Facebook handles across all sectors.",
+          "priority": "P1",
+          "effort": "low"
+        },
+        {
+          "action": "Conduct a deep dive into regulatory changes for 2025-2026 for high-priority sectors (e.g., crypto, automotive, fashion) and ensure all policy documents are updated accordingly, citing government circulars.",
+          "priority": "P1",
+          "effort": "high"
+        },
+        {
+          "action": "Implement a data validation process to distinguish between sourced competitor financials and estimates, and flag any data lacking clear sourcing.",
+          "priority": "P1",
+          "effort": "medium"
+        },
+        {
+          "action": "Initiate research to populate BDT pricing data for sectors currently lacking it, focusing on high-priority sectors first.",
+          "priority": "P1",
+          "effort": "medium"
+        },
+        {
+          "action": "Perform a cross-sector analysis to identify and document emerging trends and their potential impact on multiple industries.",
+          "priority": "P2",
+          "effort": "medium"
+        }
+      ],
+      "model": "gemini-2.5-flash-lite"
     },
     {
       "model": "deepseek-ai/deepseek-v4-pro",

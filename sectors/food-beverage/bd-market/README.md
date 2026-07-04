@@ -2,8 +2,8 @@
 sector: food-beverage
 last_verified: 2026-07-04
 freshness: fresh
-confidence: 0.708
-evidence_ids: ['b902c944-436', 'be8220b3-c6c', '1f534321-b02', 'ab28d390-614', 'ee2477cc-d91', '632cb632-ade', '6ecf3c4d-823', '97a069b5-8b5', 'd5747882-88a', '6e95a8e2-b96', 'c003286d-302', '4b3ff5bd-896', '366f7cc4-b59', '91853464-2ee', 'd6de209c-1e6', 'ed7089d2-eef', '1c33c187-ad1', '18908c81-10f', 'd73d328e-365', '52519ef6-94b']
+confidence: 0.706
+evidence_ids: ['a48f40e2-925', '65806ea5-946', '15d28d79-3f3', '6185a797-a11', '553265e5-e3a', '526baa0a-f14', '5f84c49b-35d', 'b99b8466-b28', '62b7466d-d9d', '2700d607-df6', '47a56c41-631', '54569bfe-6b8', 'e877912a-b1a', 'f15cae13-0ab', 'ce9cc3b3-16a', '8ce50630-4d8', 'dd7758bf-e0e', 'b5f41bd9-aad', '3533bd69-a0e', '784f4dc7-37e']
 ---
 
 # Food & Beverage — Bangladesh Market
@@ -38,22 +38,22 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-04)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 8am – 12am | search | 0.95 |
-| 09613505085 | search | 0.95 |
-| secretrecipebd.com | search | 0.95 |
-| Dhaka, Bangladesh | search | 0.90 |
-| Secret Recipe Bangladesh | search | 0.95 |
-| 20 minutes from downtown Montreal | search | 0.85 |
-| Rooftop Restaurant | search | 0.90 |
-| Bangladesh | search | 0.90 |
-| Bangladeshi | search | 0.95 |
-| Delhi Belly Restaurant | search | 0.80 |
-| 16 Top Bangladeshi Food for an Authentic Experience | search | 0.90 |
-| Bangladesh Tandoori Restaurant | search | 0.95 |
-| Campbeltown | search | 0.95 |
-| 4.1 | search | 0.95 |
-| 10 | search | 0.95 |
+| food-beverage | search | 1.00 |
+| restaurant discovery platform | search | 1.00 |
+| 2020 | search | 0.95 |
+| 31551 | search | 0.95 |
+| 942 | search | 0.95 |
+| Dhaka City, Dhaka Division | search | 1.00 |
+| ['Bangladeshi cuisine', 'family restaurants', 'local restaurants', 'fine dining' | search | 0.90 |
+| ['Dhaka', 'Uttara', 'Dhanmondi'] | search | 0.90 |
+| international restaurants | search | 0.90 |
+| Dhaka | search | 1.00 |
+| cheap buffet restaurants | search | 0.90 |
+| New restaurants open regularly, demand remains stable | search | 0.95 |
+| Shift from single locations to franchise models | search | 0.90 |
+| 2022-09-18 | search | 0.95 |

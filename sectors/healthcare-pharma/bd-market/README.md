@@ -2,8 +2,8 @@
 sector: healthcare-pharma
 last_verified: 2026-07-04
 freshness: fresh
-confidence: 0.694
-evidence_ids: ['111b9482-f84', 'a55ff5f4-867', '65a37831-867', '946699f8-eee', 'd863c2d1-829', 'ad15fef5-088', 'd8bf7d68-da2', 'bcbad76c-955', '53f0d65e-253', 'ed36a3c6-d2c', 'e2de0988-ac3', '8a760ef1-09b', '3170aa3d-2f5', '023cc316-69c', '7a3f45e4-d8a', 'c6b710e1-c57', '3c8ebbec-63c', '7a468169-efe', '2ae5bc61-0d7', 'c43639b9-52c']
+confidence: 0.683
+evidence_ids: ['48a4910b-765', 'a0eacbdc-ca3', 'e0db3086-2f0', '618be988-813', '84a91a44-886', 'a6e4133b-edc', 'bc2f257d-2c2', '76825219-de1', '72670987-16e', 'f1cd2cac-f1c', 'b99b7ea8-94a', '00808822-b2a', '667586c0-8db', 'ceb41b7c-640', 'e0ca11c1-0ba', 'f8805d6d-58d', 'bbda2047-d31', 'e6814811-187', '208ee99e-f1a', 'f467abd7-04a']
 ---
 
 # Healthcare & Pharma — Bangladesh Market
@@ -38,6 +38,7 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-04)
 
 | Fact | Source | Confidence |
@@ -45,12 +46,14 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 | Medisafe Pharmacy | search | 0.90 |
 | ['Medical device', 'Natural medicine', 'Allopathic medicine'] | search | 0.95 |
 | supplier_company | search | 0.90 |
+| Amin Pharmacy | search | 0.95 |
+| Astoria | search | 0.90 |
+| ['prescription medicine', 'OTC medicine'] | search | 0.95 |
+| Most insurances accepted | search | 0.90 |
 | Wellbeing Pharmacy | search | 0.95 |
-| community-based | search | 0.90 |
-| ['Compounding', 'Consulting', 'Prescription checking', 'Delivery'] | search | 0.95 |
-| individuals in the immediate local area | search | 0.90 |
+| community-based pharmacy | search | 0.95 |
+| ['Compounding', 'Consulting', 'Prescription checking', 'Medication delivery'] | search | 0.95 |
+| immediate local area | search | 0.90 |
 | Tani Pharmacy | search | 0.95 |
 | Mymensingh, Bangladesh | search | 0.95 |
-| ['Personalized services', 'Local delivery'] | search | 0.90 |
-| Madina Pharmacy | search | 0.95 |
-| local_business | search | 0.90 |
+| ['Personalized services', 'Local delivery'] | search | 0.95 |
