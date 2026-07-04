@@ -1,9 +1,9 @@
 ---
 sector: clothing-fashion
-last_verified: 2026-07-04
+last_verified: 2026-07-05
 freshness: fresh
-confidence: 0.699
-evidence_ids: ['14178d2a-8f9', '122e33af-fc3', '47849def-2d3', 'e06bc48c-d23', '84dbf47f-13f', 'd51a6728-298', '6b1459b0-db0', '451e3a99-a77', 'a23abd22-0f1', 'd447654b-6b4', '8bf9897f-f62', 'f02a6151-d86', '7397020c-53a', '81d7bbf0-1d7', '4ff1e1f0-903', '776aa5fc-cec', 'ae1e89e7-d08', 'b898a246-c36', '5ab1d730-7b0', '1bf1c27e-198']
+confidence: 0.707
+evidence_ids: ['c6d1d68a-a23', 'a99fbdf3-7d2', '9e3912ed-4ad', 'f46d1f6f-c2a', '4dc93688-c9d', 'a0930362-6b9', 'd0c5996f-9cb', 'b6b705c5-5f1', '51da0012-80e', '71813b76-df7', '628797d5-ed8', '91ecb3f8-08d', '110223af-10c', '087468c0-077', '9148c341-8a9', '4e5c31df-d64', '7ff07ea4-36e', 'be3a3095-ddc', 'e170206a-f79', 'b0abd795-0a4']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -151,12 +151,17 @@ evidence_ids: ['14178d2a-8f9', '122e33af-fc3', '47849def-2d3', 'e06bc48c-d23', '
 
 
 
-## Auto-Updated Data (2026-07-04)
+
+## Auto-Updated Data (2026-07-05)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| best price in BD | search | 0.70 |
-| Best prices in home delivery | search | 0.80 |
-| 88 | search | 0.90 |
-| decreasing | search | 0.80 |
-| oil and gas prices skyrocketing due to Strait of Hormuz closure may increase clo | search | 0.70 |
+| Baggy Pants | search | 0.95 |
+| boys, youth | search | 0.90 |
+| all over Bangladesh | search | 0.95 |
+| affordable | search | 0.80 |
+| online clothing shop | search | 0.90 |
+| shipping to Bangladesh | search | 0.95 |
+| ['best match', 'price', 'free shipping', 'fast delivery', 'free return'] | search | 0.90 |
+| best factory prices and the highest-quality custom apparel | search | 0.90 |
+| price: low to high, price: high to low | search | 0.95 |

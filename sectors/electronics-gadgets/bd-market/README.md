@@ -1,9 +1,9 @@
 ---
 sector: electronics-gadgets
-last_verified: 2026-07-04
+last_verified: 2026-07-05
 freshness: fresh
-confidence: 0.706
-evidence_ids: ['dbe901c2-8e3', '2205d347-a06', '9bc8e148-29f', '91b6c92e-e36', 'ab80e3dc-bbd', 'daa3adff-57e', 'b226e36a-6ea', '2b566d60-24a', '9d4c533a-faf', '6c96891e-ba2', '933ee734-ddc', '2462aa07-8d8', '8fadc181-e19', '82627238-3c4', '2992ff43-a45', '80da5410-2c1', '2a46e3b6-d9d', 'c7b78edc-688', 'fe554753-6f7', '156a8519-3b8']
+confidence: 0.722
+evidence_ids: ['0087c2e0-425', 'ab981de9-c95', '12f4a777-23a', '1c399a65-85c', 'ccb6228a-f6b', '142d2034-3ed', '56d50b57-2ff', '339d9f98-e27', '9ecf1adf-1a4', '45eca75e-83f', '2ff0c6bb-9a8', '51684984-f94', '8106b6a6-017', '2637cc78-333', '3601a3b8-798', '6e5e7239-0d6', 'be6cec1c-83e', 'ec351b31-22d', '4c4ec11b-d56', 'fdae4949-553']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -139,15 +139,23 @@ evidence_ids: ['dbe901c2-8e3', '2205d347-a06', '9bc8e148-29f', '91b6c92e-e36', '
 
 
 
-## Auto-Updated Data (2026-07-04)
+
+## Auto-Updated Data (2026-07-05)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| competitive prices on premium electronics | search | 0.90 |
-| best prices | search | 0.80 |
-| Free Shipping | search | 0.90 |
-| 15.00 | search | 0.90 |
-| BRANDS MEGA LTD | search | 1.00 |
-| Navana Tower (Level-18) 45 Gulshan Avenue, Gulshan-1 Dhaka -1212, Bangladesh | search | 1.00 |
-| 35mm Crocodile Clip Big Size Pair (Battery Clip) | search | 0.90 |
-| 35mm-Crocodile-Clip-battery-clip-price-in-online-BD-Bangladesh | search | 0.80 |
+| home appliances, ACs, refrigerators, washing machines, smart TVs, ovens | search | 0.95 |
+| official warranty, EMI facilities, fast home delivery | search | 0.95 |
+| unbeatable prices | search | 0.90 |
+| official warranty, 0% EMI, 16 superstores nationwide | search | 0.95 |
+| authorized multi-brand electronics retailer | search | 0.95 |
+| one of the highest rated and most trusted consumer electronics online shopping p | search | 0.95 |
+| premium quality products, Original Electronic Appliances | search | 0.95 |
+| seamless online shopping experience | search | 0.90 |
+| all kinds of electronic and electrical products | search | 0.95 |
+| one-stop shop for electronic and electrical products | search | 0.95 |
+| premium electronics, Smart TV, Air Conditions, home gadgets, lifestyle products | search | 0.95 |
+| fast delivery, authentic products | search | 0.95 |
+| unbeatable prices | search | 0.90 |
+| Bangladesh's most trusted eCommerce store | search | 0.95 |
+| ['electronics', 'fruits', 'vegetables', 'vehicles', 'crude oil', 'toys'] | search | 0.90 |

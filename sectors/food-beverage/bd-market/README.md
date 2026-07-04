@@ -1,9 +1,9 @@
 ---
 sector: food-beverage
-last_verified: 2026-07-04
+last_verified: 2026-07-05
 freshness: fresh
-confidence: 0.706
-evidence_ids: ['a48f40e2-925', '65806ea5-946', '15d28d79-3f3', '6185a797-a11', '553265e5-e3a', '526baa0a-f14', '5f84c49b-35d', 'b99b8466-b28', '62b7466d-d9d', '2700d607-df6', '47a56c41-631', '54569bfe-6b8', 'e877912a-b1a', 'f15cae13-0ab', 'ce9cc3b3-16a', '8ce50630-4d8', 'dd7758bf-e0e', 'b5f41bd9-aad', '3533bd69-a0e', '784f4dc7-37e']
+confidence: 0.708
+evidence_ids: ['8b231133-f23', 'b8f06b6a-f59', 'c3cfe6cb-3e4', '12e085be-cae', '4ccf402f-be4', '756a1ba0-a1b', 'de4266ef-4d2', '233ba5ce-988', '9c7cafee-205', '70503f2e-edb', 'd9747330-8aa', '9bd146e3-ed5', '47b71f89-365', '07a22d57-324', 'ed712b82-3fb', 'ad70c87b-c7a', '5d1f928b-38b', '12bc3c6b-586', '647760ee-90b', 'd113e268-cdd']
 ---
 
 # Food & Beverage — Bangladesh Market
@@ -39,21 +39,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
-## Auto-Updated Data (2026-07-04)
+
+## Auto-Updated Data (2026-07-05)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| food-beverage | search | 1.00 |
-| restaurant discovery platform | search | 1.00 |
-| 2020 | search | 0.95 |
-| 31551 | search | 0.95 |
-| 942 | search | 0.95 |
-| Dhaka City, Dhaka Division | search | 1.00 |
-| ['Bangladeshi cuisine', 'family restaurants', 'local restaurants', 'fine dining' | search | 0.90 |
-| ['Dhaka', 'Uttara', 'Dhanmondi'] | search | 0.90 |
-| international restaurants | search | 0.90 |
-| Dhaka | search | 1.00 |
-| cheap buffet restaurants | search | 0.90 |
-| New restaurants open regularly, demand remains stable | search | 0.95 |
-| Shift from single locations to franchise models | search | 0.90 |
-| 2022-09-18 | search | 0.95 |
+| 20 minutes from downtown Montreal | search | 0.85 |
+| rooftop restaurant | search | 0.90 |
+| stunning views and delicious cuisine | search | 0.90 |
+| Biryani | search | 0.80 |
+| Delhi Belly Restaurant | search | 0.85 |
+| Bangladeshi food | search | 0.90 |
+| Bangladesh Tandoori Restaurant | search | 1.00 |
+| Campbeltown | search | 1.00 |
+| 4.1 | search | 1.00 |
+| #10 | search | 1.00 |
+| ['Indian', 'Asian', 'Bangladeshi'] | search | 1.00 |
+| Mouban Resturent | search | 0.90 |
+| Kachari Bazar, Rangpur | search | 1.00 |
+| ['Bangladeshi'] | search | 1.00 |
+| ['Reis (Bhat)', 'Eier (Dim)', 'Chicken Biryani', 'Gemüse (Shobji)', 'Linsen (Dal | search | 1.00 |

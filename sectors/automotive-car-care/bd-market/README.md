@@ -1,9 +1,9 @@
 ---
 sector: automotive-car-care
-last_verified: 2026-07-04
+last_verified: 2026-07-05
 freshness: fresh
-confidence: 0.692
-evidence_ids: ['45e1ed42-189', '08c5779e-472', '66535a20-cae', '0d07c706-246', '1fe2ea3e-b55', '8c3fcbb7-96d', '5ffa54d7-286', 'f4e4e30b-f35', '6d119278-766', 'e559f70e-78c', 'a572f848-5b1', '830fa078-2f1', '94ac0359-4e9', 'e2acd99e-d31', '7aedc95f-031', '7e4e7377-fd9', '66184b8a-09e', '2a43028b-155', 'c76c265a-cfc', '11bc17da-516']
+confidence: 0.697
+evidence_ids: ['2900b625-687', '131c1697-8ee', '35e578ca-61d', 'b73a3d6f-017', '8b81913b-db7', 'ff9b9f64-576', 'a385d472-aa9', 'ee899c0b-629', 'b1b3bf19-3e7', '307962c6-7ca', 'a7d08736-800', '432b008b-ed5', '91151e23-516', '5090464b-8d2', '26cffaea-264', '66a2483e-755', '2614387c-ffc', 'ca3d476b-2b8', 'a4ef4add-98c', '73ad77c5-4f3']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -164,20 +164,18 @@ evidence_ids: ['45e1ed42-189', '08c5779e-472', '66535a20-cae', '0d07c706-246', '
 
 
 
-## Auto-Updated Data (2026-07-04)
+
+## Auto-Updated Data (2026-07-05)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| free quote for car wash service | search | 0.90 |
-| free air fresheners and bonus free washes | search | 0.90 |
-| unlimited wash club membership | search | 0.90 |
-| affordable cost | search | 0.80 |
-| revolutionizing the car wash experience | search | 0.90 |
-| advanced cleaning technologies | search | 0.90 |
-| eco-friendly products | search | 0.90 |
-| Dhaka, Bangladesh | search | 0.90 |
-| Dhanmondi, Dhaka, Bangladesh | search | 0.95 |
-| +8801762499688 | search | 0.95 |
-| {'Monday': '24 Hours', 'Tuesday': '24 Hours', 'Wednesday': '24 Hours', 'Thursday | search | 0.95 |
-| premium car wash services | search | 0.90 |
-| clients pay top prices for detailing and quality care | search | 0.80 |
+| 900 | search | 0.95 |
+| 2500 | search | 0.95 |
+| GariBuzz | search | 0.95 |
+| doorstep car wash | search | 0.95 |
+| Basic Car Wash | search | 1.00 |
+| Premium Car Wash | search | 1.00 |
+| Pressure Wash with Foam, Interior Dry Vacuum, General Wiping | search | 1.00 |
+| Dhaka, Bangladesh | search | 1.00 |
+| eco-friendly | search | 1.00 |
+| Affordable | search | 0.90 |

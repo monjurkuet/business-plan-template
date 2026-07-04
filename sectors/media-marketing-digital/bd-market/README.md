@@ -1,9 +1,9 @@
 ---
 sector: media-marketing-digital
-last_verified: 2026-07-04
+last_verified: 2026-07-05
 freshness: fresh
-confidence: 0.699
-evidence_ids: ['147672ef-7d5', 'b9b7fcb8-715', 'fdfe43c3-d77', '4703b2ad-c7b', '607f8147-9ca', '0be4fb4a-a1a', '5e695cb1-354', '3d1325da-edd', '2e94cb0f-e76', '3ecea805-1fb', 'fd2a7d2c-373', '42957dfa-33f', 'aa4cf637-447', '138d2d82-7f0', 'b0ea61dd-9f0', '38ff9ef4-fb1', 'f763ec67-b76', 'affa10d4-090', '27b0ec7f-c41', '9347a235-578']
+confidence: 0.703
+evidence_ids: ['40c66d4b-629', '3510d2dc-843', 'd772a7ec-ba8', 'e2e4b626-d95', '510b0a23-e0d', 'ce5edff5-620', 'e9d0514e-a93', 'ce917fa4-3f6', '359df24d-b27', '8f4af05f-b74', '9a3d1998-5c0', '87ebd11f-34b', 'c43e9067-88d', 'd0cf121b-1e6', '288417ac-2ed', '960a6166-b29', '716414bc-8ad', 'c6815065-6df', '95cc353f-78c', '4808e479-35f']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market
@@ -134,14 +134,15 @@ evidence_ids: ['147672ef-7d5', 'b9b7fcb8-715', 'fdfe43c3-d77', '4703b2ad-c7b', '
 
 
 
-## Auto-Updated Data (2026-07-04)
+
+## Auto-Updated Data (2026-07-05)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 2026-05-01 | search | 0.90 |
-| Digital Marketing Guide for Bangladesh | search | 0.95 |
-| ['SEO', 'Facebook Ads', 'Google Ads', 'Social Media', 'Email Marketing'] | search | 0.90 |
-| Bangladesh (Dhaka and beyond) | search | 0.90 |
-| Bulk SMS, Email Marketing, Interactive Voice | search | 0.90 |
-| best price in digital marketing Bangladesh | search | 0.80 |
-| SEO, social media marketing, online branding, promotion, email marketing | search | 0.90 |
+| pay per use | search | 0.90 |
+| ['Bulk SMS', 'Email', 'Voice'] | search | 0.95 |
+| prices without rivalry | search | 0.80 |
+| 2026 Guide for digital marketing costs in Bangladesh | search | 0.95 |
+| provide price benchmarks to avoid overpaying or underspending | search | 0.90 |
+| businesses budgeting for digital marketing | search | 0.85 |
+| hourly rates | search | 0.90 |

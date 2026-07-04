@@ -1,9 +1,9 @@
 ---
 sector: education-training
-last_verified: 2026-07-04
+last_verified: 2026-07-05
 freshness: fresh
-confidence: 0.708
-evidence_ids: ['400b3b3a-318', '10111f87-819', 'ca6182e7-e9f', '6c903f88-f64', '9c857895-8c4', 'f68f2ae4-06a', 'c0339d4f-65e', 'b772d788-1cb', '64998a4a-c15', 'bc53fd5c-13b', '75bf9331-33d', '966d3ccf-b5e', '23731893-b2c', 'b136078e-8c1', 'af91c73e-11a', '5bbcde87-f49', '8b833065-69b', '476b598a-23d', '81f14c17-538', '0cf505f0-a2b']
+confidence: 0.707
+evidence_ids: ['704ef038-fd4', '0c8e7733-887', '7e0827c3-d9d', '32fb5c86-e47', 'a407393b-49b', '41e99011-78b', 'c1f6f378-9a5', 'c8174b65-792', '124b3cfe-57a', '8dbcac3e-102', '3ebddc5d-03f', 'f031b3b6-23c', 'e698a967-d3c', 'e21d31d7-bd5', '504d4c13-9f5', 'afde3128-f1c', '9a7f0b8d-9d0', '9d001500-28b', '37e32f24-e30', 'efa41002-279']
 ---
 
 # Education & Training — Bangladesh Market
@@ -39,18 +39,21 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
-## Auto-Updated Data (2026-07-04)
+
+## Auto-Updated Data (2026-07-05)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
 | Online Hindi Classes | search | 0.95 |
-| CBSE/ICSE coaching, Spoken Hindi | search | 0.95 |
-| Bangladesh | search | 0.95 |
-| flexible timing, free demo class | search | 0.90 |
-| Online NCLEX Coaching | search | 0.95 |
-| Bangladesh | search | 0.95 |
-| Mantram Nursing Academy | search | 0.95 |
-| NCLEX | search | 0.95 |
+| CBSE/ICSE coaching, Spoken Hindi | search | 0.90 |
+| Bangladesh | search | 1.00 |
+| top-rated | search | 0.90 |
+| gaurihindiacademy.com | search | 1.00 |
+| Mantram Nursing Academy | search | 0.90 |
+| NCLEX Coaching | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| Online | search | 0.95 |
+| www.staffnursecoaching.com | search | 1.00 |
 | Easy Learning Coaching Center | search | 0.90 |
 | Chattogram | search | 0.95 |
 | National University, Bangladesh | search | 0.90 |

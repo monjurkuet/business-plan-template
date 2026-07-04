@@ -1,9 +1,9 @@
 ---
 sector: bim-global-outreach
-last_verified: 2026-07-04
+last_verified: 2026-07-05
 freshness: fresh
-confidence: 0.745
-evidence_ids: ['6bec0414-a41', 'b65cb86e-b88', '8cc4c473-29a', '8f640ecd-1c0', '0622ed0a-497', 'd6996a40-eac', 'c89ef420-3b5', '41dda925-0d9', '28338dc5-612', 'd17878af-847', '9243c9c4-776', '27a2f41a-354', '345f43f2-a0c', 'b743295b-1b3', 'ea8ad657-2e3', 'd8076847-fbd', '1c714865-9ba', '71053024-852', '4f2f9c27-283', '1952b672-205']
+confidence: 0.73
+evidence_ids: ['d41a430c-794', 'd5d918d2-ae5', '7d1bf567-303', 'e6403801-418', 'b04c4318-edd', '1b420a93-109', '1e9d0ab0-c2e', 'a3a188b6-604', 'be6c8a33-d51', 'e1ee6cad-d97', '58d9e5b0-04b', 'd20bef42-0d8', 'c2f18529-470', 'c3bd2ba3-3c0', 'fed84a3d-bee', '9db25c34-a23', '57825afd-e98', '7c8db117-dea', 'd46ed091-63e', '2e8a4410-747']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -154,22 +154,23 @@ evidence_ids: ['6bec0414-a41', 'b65cb86e-b88', '8cc4c473-29a', '8f640ecd-1c0', '
 
 
 
-## Auto-Updated Data (2026-07-04)
+
+## Auto-Updated Data (2026-07-05)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| LIMRS Construction and Interior | search | 1.00 |
-| Blends architecture with creative construction | search | 1.00 |
-| Artificersarc | search | 1.00 |
-| Young firm, but growing fast with solid residential work | search | 1.00 |
-| Evangel Architects | search | 1.00 |
-| Offers complete design-build solutions | search | 1.00 |
-| 2025-10-13 | search | 1.00 |
-| SAL | search | 1.00 |
-| Leader in top architecture and engineering companies in Bangladesh 2025, with a  | search | 1.00 |
-| Shellmark Limited | search | 1.00 |
-| Top architectural firm in Bangladesh for safe, budget-friendly designs | search | 1.00 |
-| 2012 | search | 1.00 |
-| 2014 | search | 1.00 |
-| 2023-02-14 | search | 1.00 |
-| NPDL | search | 1.00 |
+| Inframed Architects | search | 1.00 |
+| Dhaka, Bangladesh | search | 1.00 |
+| ['architectural design', 'interior design', 'landscape', 'construction consultan | search | 1.00 |
+| top architecture & design studio | search | 0.90 |
+| interior design | search | 1.00 |
+| Dhaka, Bangladesh | search | 1.00 |
+| top 10 interior design companies | search | 0.90 |
+| Globats | search | 0.95 |
+| systems architecture | search | 0.95 |
+| Bangladesh | search | 0.95 |
+| building automation-first business ecosystems | search | 0.90 |
+| Inframed Architects | search | 1.00 |
+| Dhaka | search | 1.00 |
+| ['Sustainable architectural design', 'Interior design', 'Building design', 'Land | search | 1.00 |
+| Award-winning | search | 1.00 |

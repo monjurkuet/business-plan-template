@@ -1,9 +1,9 @@
 ---
 sector: jewellery
-last_verified: 2026-07-04
+last_verified: 2026-07-05
 freshness: fresh
-confidence: 0.683
-evidence_ids: ['f7e37b16-21b', '56ef559f-ef0', 'a1ce192c-e7d', 'b952d6e9-cd3', 'd704ef19-564', 'a8f34295-816', '071997a1-3c9', '270235c0-914', 'd4e18ab6-63f', '6e1c4773-5b6', '40433982-236', '3ea93cb2-4a0', 'a736a58a-ad5', 'dd247ae2-a91', 'f184f371-4f4', 'e1777f94-960', 'b69e99fb-08f', '7299f4f5-534', '957c27e4-fa1', 'c00bb414-e76']
+confidence: 0.694
+evidence_ids: ['b54f2efe-545', '263e421c-fb2', 'e4534dd6-8d7', 'c892d44d-580', '1c91225c-3d5', '8dd3aa3c-9e1', '338b5e96-c7e', '173e100a-b25', 'c69c2ea4-519', 'ac297c3c-15e', '78cc1c71-ba6', '6efd19bc-722', '403a3a37-9a5', '6dac7751-fe9', 'fca26273-09a', '0c5e18b5-1de', '1c1aeb25-dd6', '038f2710-648', '1a3d8e36-552', '39253ee7-745']
 ---
 
 # Jewellery — Bangladesh Market
@@ -127,13 +127,11 @@ evidence_ids: ['f7e37b16-21b', '56ef559f-ef0', 'a1ce192c-e7d', 'b952d6e9-cd3', '
 
 
 
-## Auto-Updated Data (2026-07-04)
+
+## Auto-Updated Data (2026-07-05)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Wish Pearl Necklace | search | 0.90 |
-| low price | search | 0.80 |
-| Limited stock jewelry sale | search | 0.90 |
-| Pearl lovers in Bangladesh | search | 0.90 |
-| Affordable elegant jewelry | search | 0.90 |
-| Best budget jewelry BD | search | 0.90 |
+| 2025-11-03 | search | 0.90 |
+| September 2025 | search | 0.90 |
+| ['gold', 'silver', 'diamond', 'antique', 'earthen', 'wooden'] | search | 0.90 |

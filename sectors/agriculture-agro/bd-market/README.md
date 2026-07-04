@@ -1,9 +1,9 @@
 ---
 sector: agriculture-agro
-last_verified: 2026-07-04
+last_verified: 2026-07-05
 freshness: fresh
-confidence: 0.695
-evidence_ids: ['fab82041-5a1', '770b0bfa-14b', 'e59c6e7c-62e', '1867e248-bc9', '1d4fdb08-1dd', '4d2396e2-2ff', 'e28e3f25-fba', '84e0dfb6-818', '8c5f05ea-55e', 'a0e85ed8-9f5', '6c46c2d4-5a4', 'c0d3bb3e-f71', '897f76c9-d52', '5a539166-23a', 'f50030d6-cb6', '518cbbe7-e6f', 'b1b4a333-1c5', '3582fd56-fbc', '05c14261-35b', '076c6ed0-014']
+confidence: 0.723
+evidence_ids: ['b6fa0d8c-18e', '3d06dc28-4ad', '20000c32-edd', '88f6f22d-fdc', '6ddf15e0-e3e', 'eb0e5353-9aa', '18df26a4-88a', '3c8fdf7d-ab8', 'a6f8288c-22f', '74fd00c8-ac4', '73795598-9f8', '2b5abe55-01d', '0e31e951-564', 'b0886fb5-dbe', 'a0143cb2-b2c', 'cd8b4261-355', '05f6943a-4ac', 'a897ca58-e2b', '5ce8641e-5bd', '2d9d433f-5e0']
 ---
 
 # Agriculture & Agro-processing — Bangladesh Market
@@ -40,22 +40,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
-## Auto-Updated Data (2026-07-04)
+
+## Auto-Updated Data (2026-07-05)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Aftab Feed Products Limited | search | 1.00 |
-| livestock feed, agriculture | search | 0.90 |
-| indirectly relates to fertilizer through the agricultural ecosystem | search | 0.90 |
-| Organic Nutrition Ltd. | search | 1.00 |
-| Aftab Feed Products Limited | search | 1.00 |
-| organic fertilizer | search | 1.00 |
-| ACI Fertilizer | search | 1.00 |
-| ['organic fertilizer', 'macro & micronutrient', 'foliar fertilizers'] | search | 1.00 |
-| modern methods and technology in soil management practices | search | 0.90 |
-| ensure high yields of crops | search | 0.90 |
-| agriculture-agro | search | 1.00 |
-| fertilizer manufacturing | search | 1.00 |
-| ['NPK fertilizer', 'organic fertilizer'] | search | 0.95 |
-| fertilizers | search | 0.90 |
-| Iran war | search | 0.95 |
+| 1.7 | search | 0.95 |
+| 12 | search | 0.95 |
+| 2021 | search | 0.95 |
+| {'country': 'Morocco', 'import_value': 483, 'unit': 'USD_million'} | search | 0.95 |
+| Neptune's Harvest Fish & Seaweed Liquid Fertilizer | search | 0.95 |
+| FS136 32 Oz. Fish & Seaweed Blend Fertilizer 2-3-1 | search | 0.90 |
+| organic fertilizer | search | 0.95 |
+| ubuy.com.bd | search | 1.00 |
+| Syngenta Bangladesh Limited | search | 1.00 |
+| সিনজেন্টা বাংলাদেশ লিমিটেড | search | 1.00 |
+| fertilizer | search | 0.95 |
+| Supreme Seeds Company Limited | search | 1.00 |
+| সুপ্রিম সীড কোম্পানি লি. | search | 1.00 |
+| seeds | search | 0.90 |
+| Surovi Agro Industries Ltd. | search | 1.00 |

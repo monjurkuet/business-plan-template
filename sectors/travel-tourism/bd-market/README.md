@@ -1,9 +1,9 @@
 ---
 sector: travel-tourism
-last_verified: 2026-07-04
+last_verified: 2026-07-05
 freshness: fresh
-confidence: 0.686
-evidence_ids: ['e03fa2b9-03d', 'a666dd59-931', '06351102-a1c', '57e64034-4d0', '681ff405-7b9', 'e8ba0db2-d01', '756903b5-e9b', '9611541e-c5f', '89ac34a7-6b6', '29515507-9bc', '2c7ec805-3fe', '5f6beef5-7b7', '5a52dd93-ab9', 'bc713839-a2f', '9c88be91-361', '89efa6ef-64e', '90820dea-e46', 'f8284a13-fd8', '0b5c7602-508', '2866ff58-605']
+confidence: 0.709
+evidence_ids: ['91857fcd-c2e', '0e602d9f-ad1', 'e124b245-5c9', '04b3799e-571', 'bfc97a8d-d38', '99830252-618', 'eccfddf8-2db', '86e99946-480', '6109d69e-626', 'ce108fa7-d62', 'a88a54a7-b68', '1811bc1a-ee0', 'c2161f48-445', '260cbd40-422', '27c10664-156', 'b6396b45-1ab', '046c28e5-5a1', '7ecc5814-c92', 'af11e24d-6fb', '166065c4-259']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -115,13 +115,14 @@ evidence_ids: ['e03fa2b9-03d', 'a666dd59-931', '06351102-a1c', '57e64034-4d0', '
 
 
 
-## Auto-Updated Data (2026-07-04)
+
+## Auto-Updated Data (2026-07-05)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 2017 | search | 0.90 |
-| IATA-certified | search | 0.95 |
-| affordable prices | search | 0.80 |
-| affordable journey | search | 0.80 |
-| best rates | search | 0.85 |
-| online travel agency | search | 0.90 |
+| Umrah packages 2026 | search | 0.95 |
+| tourist, student & work visas, international flights, and holiday tours | search | 0.90 |
+| amazing tour and travel packages at affordable price | search | 0.90 |
+| 500000 | search | 0.95 |
+| 7% | search | 0.95 |
+| 2017 | search | 0.95 |

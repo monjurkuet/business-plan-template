@@ -1,9 +1,9 @@
 ---
 sector: construction-real-estate
-last_verified: 2026-07-04
+last_verified: 2026-07-05
 freshness: fresh
-confidence: 0.711
-evidence_ids: ['acc7a636-b13', 'c98ce813-6c9', 'f105502e-06a', '3cd61386-56b', 'e0410263-97d', 'af1597bd-843', '16892568-25f', '713924ad-86c', 'af4431a8-463', '28a75f2e-557', 'dfb2b716-a52', '33b01a5b-804', '60f536d6-207', 'fba902c4-e75', '1c5c062b-8c3', 'fe9adecb-b5c', '3e55c567-4d5', 'e67d3ae7-c5b', '16465a12-280', 'dfaa7612-d31']
+confidence: 0.721
+evidence_ids: ['3a959eb9-ccd', '60b7fd0f-df6', 'b5bc58ca-89c', 'dd31f421-9af', 'e8afe6e1-b5e', '52c57dcc-e5a', 'b21daf27-51a', '90132177-929', 'b0ef254b-cb8', '63e34232-e5e', 'cc13d1b0-fac', '93a7e576-97d', '34b771ac-9d9', '7a4f46d4-46a', 'a8be34a3-815', '98115b6b-1f2', '88df7a69-c7b', 'cbe9d8bd-5c9', '41e0d98a-c3a', 'c26b7d81-c3b']
 ---
 
 # Construction & Real Estate — Bangladesh Market
@@ -40,21 +40,22 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
-## Auto-Updated Data (2026-07-04)
+
+## Auto-Updated Data (2026-07-05)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ['CHB Engineering Ltd.', 'Alibaba Construction Ltd.'] | search | 0.95 |
-| Building Material Suppliers | search | 0.95 |
+| CHB Engineering Ltd. | search | 1.00 |
+| Alibaba Construction Ltd. | search | 1.00 |
+| Building Material Suppliers | search | 1.00 |
 | Bangladesh | search | 1.00 |
 | RFL | search | 1.00 |
-| largest building materials supplier in Bangladesh | search | 0.95 |
-| Building Materials | search | 0.95 |
+| largest building materials supplier in Bangladesh | search | 1.00 |
+| Building Materials | search | 1.00 |
 | Bangladesh | search | 1.00 |
-| [{'company_name': 'Noman Group', 'estimated_revenue': 24200000000, 'unit': 'USD' | search | 0.95 |
-| Manufacturing | search | 0.95 |
-| Bangladesh | search | 1.00 |
+| [{'rank': 1, 'company_name': 'Noman Group', 'estimated_revenue': 24.2}, {'rank': | search | 0.95 |
 | 2026-07 | search | 0.90 |
+| Bangladesh’s construction industry is one of the fastest-growing sectors in the  | search | 0.95 |
 | Beximco | search | 1.00 |
 | private | search | 0.95 |
 | A S F Rahman | search | 0.95 |

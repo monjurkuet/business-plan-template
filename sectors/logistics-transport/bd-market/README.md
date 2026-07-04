@@ -1,9 +1,9 @@
 ---
 sector: logistics-transport
-last_verified: 2026-07-04
+last_verified: 2026-07-05
 freshness: fresh
-confidence: 0.68
-evidence_ids: ['806f929b-439', '387ea8e2-dda', 'ad841b22-5d0', '36f4a709-fc9', '1438cfcd-d27', '59626ba0-4da', 'a841a5e5-87a', 'd4d44016-62f', '4be4edff-06c', '273fbd54-64b', '0a3916c4-e7b', 'd35cb50d-ad3', '1c5db165-d13', 'f9fb109e-b56', 'a059322f-317', 'dab87273-6a4', '22b53b5b-cbb', '9add1815-01b', 'c495dbf6-ddb', '4127e326-30b']
+confidence: 0.717
+evidence_ids: ['14ca6da2-4f3', 'bb214e8e-221', '33111401-ab0', '65765ba0-907', '4a4fab0d-60f', '750e612c-f62', '8ce98cb2-ac3', 'bb366c27-25c', '014c5143-8c4', 'e25f45f8-2d8', '4c825ff0-198', 'a53f9632-d83', '814009ab-6e3', 'b115f07e-84c', 'bdaa958b-1e2', '372872ad-803', '2db8c567-d37', 'e2b6f9bb-332', '56e20a3e-da7', 'b2bf51ef-176']
 ---
 
 # Logistics & Transport — Bangladesh Market
@@ -38,22 +38,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
-## Auto-Updated Data (2026-07-04)
+
+## Auto-Updated Data (2026-07-05)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Karatoa Courier Services | search | 0.95 |
+| DHL | search | 1.00 |
 | courier service | search | 1.00 |
-| largest courier service in Bangladesh | search | 0.90 |
-| ['efficient delivery', 'on-time delivery', 'nationwide network expansion'] | search | 0.95 |
-| 2023-02-15 | search | 0.90 |
-| courier service | search | 1.00 |
-| significant growth in Bangladesh | search | 0.95 |
-| ['e-commerce', 'deliveries', 'international shipping'] | search | 0.95 |
-| ['businesses', 'individuals'] | search | 0.90 |
-| courier service | search | 1.00 |
-| 2026-05-23 | search | 0.90 |
-| top 10 best courier service providers in Bangladesh 2026 | search | 0.95 |
-| ['fast delivery', 'nationwide coverage', 'pricing', 'tracking', 'reliability'] | search | 0.95 |
-| courier service | search | 1.00 |
-| 2024-03-12 | search | 0.90 |
+| international courier, door-to-door parcel sending | search | 1.00 |
+| Sundarban Courier Service | search | 1.00 |
+| top courier service in Bangladesh | search | 0.95 |
+| 25 | search | 0.90 |
+| door_to_door_courier | search | 0.90 |
+| ['Dubai', 'Abu Dhabi', 'Fujairah', 'Ajman'] | search | 0.90 |
+| Bangladesh | search | 0.90 |
+| S.R Courier Service | search | 0.95 |
+| top_level_courier_service | search | 0.90 |
+| ['DHL Express', 'GLS Courier Service'] | search | 0.85 |
+| Freight Transport Company in Bangladesh | search | 0.80 |
+| Padma Courier Service | search | 0.90 |
+| rapid growth in the past 2 years | search | 0.90 |
