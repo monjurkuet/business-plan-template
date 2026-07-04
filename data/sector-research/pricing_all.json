@@ -1,5 +1,5 @@
 {
-  "total": 14,
+  "total": 15,
   "entries": [
     {
       "doc_type": "pricing_guide",
@@ -132,6 +132,17 @@
       "total_entries": 0,
       "has_data": false,
       "file_path": "sectors/jewellery/bd-market/pricing-guide.md"
+    },
+    {
+      "doc_type": "pricing_guide",
+      "sector": "logistics-transport",
+      "last_verified_at": "",
+      "freshness_status": "unknown",
+      "confidence_score": 0.0,
+      "pricing_entries": [],
+      "total_entries": 0,
+      "has_data": false,
+      "file_path": "sectors/logistics-transport/bd-market/pricing-guide.md"
     },
     {
       "doc_type": "pricing_guide",

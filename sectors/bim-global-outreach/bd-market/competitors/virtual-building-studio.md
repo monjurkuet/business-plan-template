@@ -1,8 +1,7 @@
 ---
 sector: bim-global-outreach
-last_verified: 2026-07-03
+last_verified: 2026-07-04
 freshness: fresh
-confidence: 0.50
 ---
 
 # Virtual Building Studio
@@ -95,9 +94,12 @@ confidence: 0.50
 
 
 
-## Recent Findings (2026-07-03)
+
+## Recent Findings (2026-07-04)
 
 - **aavisstudio.com** (conf: 0.89): May 13, 2026 -Yes.Aavis Studiois headquartered in Khulna but actively delivers projects in Dhaka, Chittagong, and across Bangladesh. We have the team and project management infrastructure to handle na
+
+- **www.archilovers.com** (conf: 0.89): Our studio is based onDhaka, Bangladesh. We provide complete solution related to design, approval and construction.Address Road no: 8, House no: 477, Baridhara DOHS,Dhaka, Bangladesh, 1206Dhaka| Bangl
 
 - **www.facebook.com** (conf: 0.69): Institute of ArchitectsBangladesh, Dhaka. 39,378 likes · 1,953 talking about this · 9,135 were here. This is the officialFacebookPage of the Institute of ArchitectsBangladesh(IAB).Jun 5, 2026 ·Sthapot
 

@@ -1,9 +1,9 @@
 ---
 sector: education-training
-last_verified: 2026-07-03
+last_verified: 2026-07-04
 freshness: fresh
-confidence: 0.708
-evidence_ids: ['c129214c-59c', 'e08f1fdc-3c3', '88fa7813-969', '794123c3-fba', 'a386b6e3-338', 'ede69338-02a', '4ce0c773-942', 'c7dd6755-836', '69776d8a-e26', '0d27ad92-871', '217a91f2-055', 'f41245f6-125', '1d21f790-ccb', 'f25564f5-dd1', 'd8fc19f5-57f', '773f1e5a-f01', '72dfb504-cf8', '4a3e084e-349', '9a472a46-b73', 'd1f5c9d2-b32']
+confidence: 0.707
+evidence_ids: ['cfdb04a1-6a2', 'ff4b0ad1-899', '776a5a56-830', '48d4e6ed-023', 'ca8ad007-5f0', '42f2b356-f33', '8ac753c8-7f2', '06fdd998-095', '71829071-539', '9973241c-490', '6eab83f0-ed8', '32521f85-5dc', '5bdf06ce-2f3', '1efd3057-fed', '28a54da3-15b', '24a2f73e-794', '2ba9c7c8-5e8', '2746584c-c69', '303cc6e4-2f0', 'eb34a782-951']
 ---
 
 # Education & Training — Bangladesh Market
@@ -37,17 +37,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 - Financial model
 
 
-## Auto-Updated Data (2026-07-03)
+
+## Auto-Updated Data (2026-07-04)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| corporate coaching services | search | 1.00 |
-| 2026-05-28 | search | 1.00 |
-| corporate training | search | 0.95 |
-| ['IELTS', 'medical admissions', 'O/A levels', 'study abroad'] | search | 0.90 |
-| Dhaka | search | 0.80 |
-| 4654 | search | 0.95 |
-| 2026-04 | search | 0.90 |
-| ['Digicon Technologies Ltd', 'E-Learning & Earning LTD', 'U S Software Ltd', 'PM | search | 0.95 |
-| ['Training Pundit', 'ENSDI - ইন্সডি (training & consultancy)'] | search | 0.90 |
-| ['Training Pundit', 'ENSDI - ইন্সডি (training & consultancy)'] | search | 0.95 |
+| Medico Coaching Center | search | 1.00 |
+| coaching services | search | 1.00 |
+| ['offline', 'online'] | search | 1.00 |
+| Medical and University Admission Test preparation | search | 1.00 |
+| Enroute Center for Development | search | 1.00 |
+| executive training | search | 1.00 |
+| tailored individual and group training for all employee levels | search | 1.00 |
+| top executive training organization in Bangladesh | search | 0.90 |
+| FutureLeaders (FLS) | search | 1.00 |
+| ['leadership training', 'soft skills training'] | search | 1.00 |
+| outdoor training (Outbound/Adventure training) | search | 1.00 |
+| no.1 outdoor training provider in Bangladesh | search | 1.00 |
+| ['top MNCs', 'national companies'] | search | 1.00 |
+| 2026-02-04 | search | 1.00 |
+| SQS Global Network | search | 1.00 |

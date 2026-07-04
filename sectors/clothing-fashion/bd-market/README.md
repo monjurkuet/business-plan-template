@@ -1,9 +1,9 @@
 ---
 sector: clothing-fashion
-last_verified: 2026-07-03
+last_verified: 2026-07-04
 freshness: fresh
-confidence: 0.713
-evidence_ids: ['cce49a78-e0a', '52d47247-4fe', 'eb5f16fc-225', 'e97b2eea-79a', 'ea48aeb1-2c1', '4e91ca81-e8d', '24f9efac-8a9', '3e50bac8-0a3', '35223b58-266', '4c2bd503-0ab', '70042f20-681', '27090f32-6e8', 'aee38511-5da', 'e0ed762c-9b1', '0e5d7853-0f1', '4b6df460-101', 'f3109d04-843', '2fcfe7c0-4fa', 'aa68caea-4b2', 'c2314166-713']
+confidence: 0.733
+evidence_ids: ['2fbb13df-2f3', 'a69d1ffa-0e1', 'a78fb7d8-eba', '947ba02b-697', 'bf57db5c-4cb', '770e3ddb-097', '799761ee-21d', '74c9c982-c29', '3a556c24-de9', 'e11d7ef7-9eb', 'b7c124e8-e9e', '20569b78-c60', '26a5a4c0-624', '3b74029d-1e2', '3f725e97-632', '5017c101-fbb', '4ff868cc-29b', '11f30ed6-ee8', 'beb47a05-4fe', 'e59fc642-dfa']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -149,22 +149,23 @@ evidence_ids: ['cce49a78-e0a', '52d47247-4fe', 'eb5f16fc-225', 'e97b2eea-79a', '
 
 
 
-## Auto-Updated Data (2026-07-03)
+
+## Auto-Updated Data (2026-07-04)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| TwelveClothing | search | 1.00 |
-| ['premium clothing', 'menswear', 'womenswear', 'kidswear', 'panjabi', 'kurti', ' | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| Tyzo | search | 1.00 |
-| stylish, comfortable, and affordable apparel | search | 1.00 |
-| ['premium-quality outfits', 'perfect fits', 'fast delivery', 'reliable service'] | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| Top 20 Clothing Brands in Bangladesh: The Ultimate Guide | search | 1.00 |
-| 2025-11-14 | search | 1.00 |
-| ['brand overviews', 'pricing', 'online shopping trends', 'consumer insights'] | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| JamaKapor | search | 1.00 |
-| Bangladesh's largest online fashion store | search | 1.00 |
-| ['clothes', 'dresses', 'shoes'] | search | 1.00 |
-| ['men', 'women', 'kids'] | search | 1.00 |
+| baggy pants | search | 0.90 |
+| boys, youth | search | 0.90 |
+| all over Bangladesh | search | 0.90 |
+| affordable | search | 0.80 |
+| ['best match', 'price', 'free shipping', 'fast delivery', 'free return'] | search | 0.90 |
+| ['t-shirts', 'polo shirts', 'casual shirts', 'summer wear'] | search | 0.95 |
+| across Bangladesh | search | 0.90 |
+| trusted and reliable clothing manufacturer in Bangladesh | search | 0.95 |
+| best factory prices | search | 0.90 |
+| custom apparel | search | 0.90 |
+| luxury clothing | search | 0.95 |
+| Black Aura – Black & Cream Polka Dot Luxury Pret 3-Piece | search | 0.95 |
+| ['popularity', 'average rating', 'latest', 'price: low to high', 'price: high to | search | 0.90 |
+| Premium Summer T-shirt | search | 1.00 |
+| 299 | search | 1.00 |

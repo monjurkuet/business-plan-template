@@ -1,9 +1,9 @@
 ---
 sector: travel-tourism
-last_verified: 2026-07-03
+last_verified: 2026-07-04
 freshness: fresh
-confidence: 0.71
-evidence_ids: ['683bbed6-e9c', 'ac606c1f-65d', 'f4d82c35-f8a', '3e85b3ff-e50', 'b6f86089-def', '47118b04-b19', '358df59f-9bb', 'de638d90-11c', '16f2a10d-15f', 'a1c9512f-ae0', '671bb178-3b4', 'dfa637d7-bab', '2291ffd6-9d7', '13b77f44-df7', '2df468d5-365', '78e3f042-87b', '252b6c33-b3d', '98fec9ac-cfe', '07479581-1bc', '263dd832-71b']
+confidence: 0.698
+evidence_ids: ['de95776f-04f', 'fa561ba4-928', 'a50d368b-fa8', 'cf56fde8-241', '6e6cc16f-86f', 'd525ba56-fad', '5aa123a8-fd9', '1671b5d7-1b8', 'd777c258-93d', 'a9bcc071-625', '5f377c53-ba3', '19077448-366', '80f15f38-17b', '1edd1e4d-1e4', '366b6a4d-192', '768daee9-4c4', '21fd4962-e07', 'fa9ebde8-ba1', 'b6cc6aea-0ca', 'aff14870-7c4']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -113,22 +113,16 @@ evidence_ids: ['683bbed6-e9c', 'ac606c1f-65d', 'f4d82c35-f8a', '3e85b3ff-e50', '
 
 
 
-## Auto-Updated Data (2026-07-03)
+
+## Auto-Updated Data (2026-07-04)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| goFLY Limited | search | 1.00 |
-| travel agency | search | 1.00 |
-| Dhaka, Bangladesh | search | 1.00 |
-| IATA-certified | search | 1.00 |
-| 2017 | search | 1.00 |
-| affordable prices, honest service, real support | search | 0.95 |
-| TravelAgency Bangladesh | search | 1.00 |
-| travel agency | search | 1.00 |
-| hotels, visa, tours, flight booking | search | 1.00 |
-| travel agency | search | 1.00 |
-| air ticketing, visa processing, holiday packages, global tours | search | 1.00 |
-| leisure travelers, business travelers, Hajj pilgrims, study abroad students | search | 0.95 |
-| air tickets, hotels, and tour packages | search | 0.90 |
-| best rates | search | 0.80 |
-| exceptional value | search | 0.80 |
+| amazing tour and travel packages at affordable price | search | 0.90 |
+| 7% | search | 0.95 |
+| 500000 | search | 0.95 |
+| 2017 | search | 0.95 |
+| 42337956 | search | 0.95 |
+| study abroad, visa services, cheap air tickets | search | 0.90 |
+| ['UK', 'Canada', 'Russia', 'USA'] | search | 0.90 |
+| cheap air tickets | search | 0.80 |

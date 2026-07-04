@@ -1,0 +1,13 @@
+{
+  "doc_type": "regulatory",
+  "sector": "logistics-transport",
+  "last_verified_at": "",
+  "freshness_status": "unknown",
+  "confidence_score": 0.0,
+  "legal_status": "",
+  "registration_requirements": [],
+  "sector_specific_requirements": [],
+  "regulatory_bodies": [],
+  "has_data": false,
+  "file_path": "sectors/logistics-transport/bd-market/regulatory.md"
+}

@@ -1,9 +1,9 @@
 ---
 sector: media-marketing-digital
-last_verified: 2026-07-03
+last_verified: 2026-07-04
 freshness: fresh
-confidence: 0.691
-evidence_ids: ['11d59289-dad', '0bf502f3-bef', '9997a356-1b9', '2c596ff1-e7c', '1e6d3a2b-50e', 'b4269770-67a', 'b531bbca-bb3', '2b50bde4-190', 'b4dbf730-61b', '9815d0c3-feb', '17080a92-b6a', '1bc3f69d-dfc', '08a49c7b-138', '8b315a39-8be', 'f4afb99e-11b', '4244d604-1ca', '15c7150e-07d', '5d3d7d3c-871', 'efc45143-f96', '10de49ab-a8d']
+confidence: 0.704
+evidence_ids: ['81b14b61-b75', 'a59b71d4-bed', '56a9f112-4f7', '10d8efc6-5fc', 'd6839dff-d6a', '8ba2d886-40f', '3d4e97a4-1a5', '321b6860-b77', '14efe747-3c1', 'e93ae718-a1f', 'd8ab4d30-da2', 'ac211089-cd6', '3929db27-302', 'b698bd99-b62', '3b866fbc-584', '7cbbef78-8fa', '9fb7d13a-1f5', '68631a8a-95c', 'c36f9bc9-ce0', 'ca0dbad5-490']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market
@@ -132,22 +132,17 @@ evidence_ids: ['11d59289-dad', '0bf502f3-bef', '9997a356-1b9', '2c596ff1-e7c', '
 
 
 
-## Auto-Updated Data (2026-07-03)
+
+## Auto-Updated Data (2026-07-04)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Bulk SMS | search | 0.90 |
-| Email Marketing | search | 0.90 |
-| Interactive Voice | search | 0.90 |
-| best price in digital marketing Bangladesh | search | 0.80 |
-| GEEKY SOCIAL LTD. | search | 0.95 |
-| OneLittleWeb | search | 0.95 |
-| BrandViser | search | 0.95 |
-| MonsterClaw LLC | search | 0.95 |
-| Ecomclips | search | 0.95 |
-| Notionhive | search | 0.95 |
-| VISER X | search | 0.95 |
-| Beyond | search | 0.90 |
-| Marketorr BD | search | 0.95 |
-| SEO | search | 0.90 |
-| Web Development | search | 0.90 |
+| pay per use | search | 1.00 |
+| ['Bulk SMS', 'Email', 'Voice'] | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| 207 | search | 1.00 |
+| Bangladesh-based IT companies started to export software around two decades ago, | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| PMAX - Total Performance Marketing | search | 1.00 |
+| ['eCommerce marketing', 'conversion optimization', 'advertising'] | search | 1.00 |
+| ['timely delivery', 'effective project management', 'ability to boost sales and  | search | 1.00 |

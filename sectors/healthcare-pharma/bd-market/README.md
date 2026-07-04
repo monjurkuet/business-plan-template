@@ -1,9 +1,9 @@
 ---
 sector: healthcare-pharma
-last_verified: 2026-07-03
+last_verified: 2026-07-04
 freshness: fresh
-confidence: 0.686
-evidence_ids: ['a3b577e0-31c', '3d1fa5c8-f8e', '76e3d01f-b13', 'b7e16898-af5', '034645ef-7c9', 'd49986c8-488', '3d049262-153', '9b0c7ac2-776', '8ad8d946-f18', '407827e7-06c', '3c8935da-e59', 'd51ce71b-26d', '42eb885d-9d3', 'f76e3e46-1ed', '4f63f12d-f9e', 'd536f9d1-759']
+confidence: 0.694
+evidence_ids: ['111b9482-f84', 'a55ff5f4-867', '65a37831-867', '946699f8-eee', 'd863c2d1-829', 'ad15fef5-088', 'd8bf7d68-da2', 'bcbad76c-955', '53f0d65e-253', 'ed36a3c6-d2c', 'e2de0988-ac3', '8a760ef1-09b', '3170aa3d-2f5', '023cc316-69c', '7a3f45e4-d8a', 'c6b710e1-c57', '3c8ebbec-63c', '7a468169-efe', '2ae5bc61-0d7', 'c43639b9-52c']
 ---
 
 # Healthcare & Pharma — Bangladesh Market
@@ -37,16 +37,20 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 - Financial model
 
 
-## Auto-Updated Data (2026-07-03)
+
+## Auto-Updated Data (2026-07-04)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 1st Street Pharmacy | search | 0.90 |
-| Childersburg | search | 0.90 |
-| locally owned | search | 0.80 |
-| CVS Pharmacy | search | 0.90 |
-| 24 hour locations, passport photo labs | search | 0.90 |
-| 1st Street Pharmacy | search | 0.90 |
-| 1070 1st St NW, Childersburg, AL 35044 | search | 0.90 |
-| inside Piggly Wiggly | search | 0.90 |
-| 256-346 | search | 0.80 |
+| Medisafe Pharmacy | search | 0.90 |
+| ['Medical device', 'Natural medicine', 'Allopathic medicine'] | search | 0.95 |
+| supplier_company | search | 0.90 |
+| Wellbeing Pharmacy | search | 0.95 |
+| community-based | search | 0.90 |
+| ['Compounding', 'Consulting', 'Prescription checking', 'Delivery'] | search | 0.95 |
+| individuals in the immediate local area | search | 0.90 |
+| Tani Pharmacy | search | 0.95 |
+| Mymensingh, Bangladesh | search | 0.95 |
+| ['Personalized services', 'Local delivery'] | search | 0.90 |
+| Madina Pharmacy | search | 0.95 |
+| local_business | search | 0.90 |

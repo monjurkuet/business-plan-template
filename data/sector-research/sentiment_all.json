@@ -1,5 +1,5 @@
 {
-  "total": 14,
+  "total": 15,
   "entries": [
     {
       "doc_type": "sentiment_analysis",
@@ -336,6 +336,19 @@
       ],
       "has_data": true,
       "file_path": "sectors/jewellery/bd-market/sentiment-analysis.md"
+    },
+    {
+      "doc_type": "sentiment_analysis",
+      "sector": "logistics-transport",
+      "last_verified_at": "",
+      "freshness_status": "unknown",
+      "confidence_score": 0.0,
+      "overall_sentiment": "",
+      "positive_themes": [],
+      "negative_themes": [],
+      "review_volume": [],
+      "has_data": false,
+      "file_path": "sectors/logistics-transport/bd-market/sentiment-analysis.md"
     },
     {
       "doc_type": "sentiment_analysis",

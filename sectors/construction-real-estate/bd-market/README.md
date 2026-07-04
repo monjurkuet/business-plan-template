@@ -1,9 +1,9 @@
 ---
 sector: construction-real-estate
-last_verified: 2026-07-03
+last_verified: 2026-07-04
 freshness: fresh
-confidence: 0.714
-evidence_ids: ['c5320792-efc', '10e58364-02e', 'f2a44fb3-7e3', '1e9814b4-5bb', '3858992b-62f', '1a47c194-8b2', '3854d207-5a7', '73b4a221-476', 'b25748a4-3da', 'c6f92f47-649', '3ba29792-6b7', 'ac84e5ba-bb9', '3961ee07-3ae', 'd27bba8f-8f7', 'f1d693b6-c81', 'd2cb9d8c-690', '37d592ca-96f', '3810c6ba-1ca', 'ab93adc3-7b9', '69f33647-f28']
+confidence: 0.717
+evidence_ids: ['f3d4dfe5-7e9', '46392bf0-151', '7f865b3d-66c', 'a7044b99-4ca', '5994f273-63a', '975780ac-ca8', 'da52edf3-616', 'dde201d2-0d0', 'f0ec136e-71f', 'f7280de3-b71', '099fec49-d96', '86e4c510-86c', '947d1b8e-83a', 'a83754c7-247', 'e0263a09-9ac', 'e9147f10-acb', 'c622dcad-78c', '93b107d9-6e8', '246e3d69-de5', '9c8f2a27-2bf']
 ---
 
 # Construction & Real Estate — Bangladesh Market
@@ -38,21 +38,21 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
-## Auto-Updated Data (2026-07-03)
+
+## Auto-Updated Data (2026-07-04)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
 | ['ALM Steel Building Technology Ltd', 'ALM Tensile Membrane Structure Limited',  | search | 0.95 |
 | 65 | search | 0.90 |
 | ['CHB Engineering Ltd', 'Alibaba Construction Ltd'] | search | 0.95 |
-| 2026 | search | 0.80 |
-| ['akbarsha', 'Perfect Solution'] | search | 0.90 |
-| [{'company': 'akbarsha', 'location': 'Firozshah, Chittagong Sadar, Chittagong'}, | search | 0.90 |
-| ['fabrication and supply of construction materials', 'Steel Sheet Piles', 'Indus | search | 0.90 |
+| 2026 | search | 0.90 |
+| 51 | search | 0.90 |
 | ['DEG', 'IDCOL'] | search | 0.95 |
 | 2023-06-15 | search | 0.90 |
-| 51 | search | 0.90 |
-| ['Sheltech Ceramics', 'LafargeHolcim Bangladesh', 'RAK Paints', 'Fu-Wang Ceramic | search | 0.95 |
-| 2024-03-07 | search | 0.90 |
+| ['Bashundhara Group', 'LafargeHolcim Bangladesh Limited', 'Confidence Cement Ltd | search | 0.95 |
+| 2023-04-28 | search | 0.90 |
 | 34 | search | 0.90 |
+| ['Sheltech Ceramics', 'LafargeHolcim Bangladesh', 'RAK Paints', 'Fu-Wang Ceramic | search | 0.95 |
 | Dhaka, Bangladesh | search | 0.95 |
+| 2024-03-07 | search | 0.90 |

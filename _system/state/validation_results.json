@@ -1,10 +1,16 @@
 {
-  "generated_at": "2026-07-03T13:13:58.492595+00:00",
+  "generated_at": "2026-07-04T11:03:35.911248+00:00",
   "summary": {
     "files_checked": 214,
-    "violations": 0,
+    "violations": 1,
     "warnings": 0
   },
-  "violations": [],
+  "violations": [
+    {
+      "file": "sectors/bim-global-outreach/bd-market/competitors/virtual-building-studio.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    }
+  ],
   "warnings": []
 }

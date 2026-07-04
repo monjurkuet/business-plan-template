@@ -1,9 +1,9 @@
 ---
 sector: electronics-gadgets
-last_verified: 2026-07-03
+last_verified: 2026-07-04
 freshness: fresh
-confidence: 0.733
-evidence_ids: ['30c10f1e-469', 'aba3b266-ad9', 'dc4942e0-f61', '18dd114c-316', 'eb1469af-8da', 'b92ab489-b77', 'c1387e69-d78', '0a1fee7c-51c', '421bfae5-ce1', '65fe2d75-78a', 'f9305dbd-bcd', '8f478e74-192', '717aa2b7-749', 'fcf094c1-20e', '1e0b3b9f-48e', '7db857d0-be5', 'faefd632-1ec', '7cd5d078-9f2', 'e873c79f-b71', '285e3af1-b70']
+confidence: 0.755
+evidence_ids: ['b6d6f5a8-616', 'f218eba2-53a', 'f2279fe6-71d', '48cb00c4-0ab', 'f54c1e2e-3ee', 'dc175956-242', '7a25d11b-957', 'f9ceb163-323', 'f6c25310-836', '8be69476-43c', '4db2205f-e6d', '2f19abc4-67c', 'd85bb854-212', 'e1ef778b-902', 'dd54abc6-a0b', '2a6825cf-5c0', '6cfc51a4-49d', 'b8ad82b5-deb', '1007b335-707', '5af812a6-141']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -137,22 +137,23 @@ evidence_ids: ['30c10f1e-469', 'aba3b266-ad9', 'dc4942e0-f61', '18dd114c-316', '
 
 
 
-## Auto-Updated Data (2026-07-03)
+
+## Auto-Updated Data (2026-07-04)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ['ACs', 'refrigerators', 'washing machines', 'smart TVs', 'ovens'] | search | 1.00 |
-| ['official warranty', 'EMI facilities', 'fast home delivery'] | search | 1.00 |
-| E-Commerce shop for Electronics | search | 1.00 |
-| highest rated and most trusted consumer electronics online shopping platform | search | 0.90 |
-| premium quality products | search | 0.90 |
-| seamless online shopping experience | search | 0.90 |
-| Original Electronic Appliances | search | 1.00 |
-| one-stop shop for electronic and electrical products | search | 1.00 |
-| authorized multi-brand electronics retailer | search | 1.00 |
-| 0% EMI | search | 1.00 |
-| 16 | search | 1.00 |
-| nationwide | search | 1.00 |
-| 53483 | search | 1.00 |
-| 13335 | search | 1.00 |
-| 5 | search | 1.00 |
+| smartphones | search | 0.95 |
+| ['Samsung', 'Xiaomi', 'OnePlus', 'Vivo', 'HONOR', 'Infinix', 'Tecno'] | search | 0.95 |
+| 100% genuine with official warranty | search | 0.95 |
+| competitive smartphone price in BD | search | 0.90 |
+| ['TV', 'Home Appliances'] | search | 0.95 |
+| energy-efficient, convenience, durability | search | 0.90 |
+| 2026-04-06 | search | 0.95 |
+| ['homes', 'businesses'] | search | 0.90 |
+| 53345 | search | 0.95 |
+| 16960 | search | 0.95 |
+| 5 | search | 0.95 |
+| ['TVs', 'fridges', 'ACs'] | search | 0.95 |
+| Dhaka | search | 0.95 |
+| 14699-31899 | search | 0.95 |
+| mobile phones | search | 0.95 |

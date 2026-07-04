@@ -1,9 +1,9 @@
 ---
 sector: bim-global-outreach
-last_verified: 2026-07-03
+last_verified: 2026-07-04
 freshness: fresh
-confidence: 0.739
-evidence_ids: ['0f8ab541-7af', '0af98970-c03', '08b71a4b-335', 'c12b661f-3b3', '2b552ea4-f7d', '58a9e366-b47', 'd431bdb4-f8b', '180ee644-5e9', 'fa997c85-883', '97663488-031', '298e2d7e-de3', 'ca96a7e8-f77', 'fa898160-903', '85101ae2-895', '78942367-ae9', '32c5f731-9f8', 'e1fa3b6a-972', 'f77a4488-cf7', '58e4a625-918', 'b2727e55-0ed']
+confidence: 0.74
+evidence_ids: ['14f248e6-641', 'c902b859-f6e', 'af21dd55-772', 'a8b856a9-4fc', 'b4641339-9db', '853aad32-7c4', 'eba73e84-4e5', '42adebdf-50c', '5ec3ecb2-c4a', '15b6432d-a71', 'e86b3450-729', 'dc6b0b51-b9c', '255f843d-410', 'c8cb279d-bb9', '425726c7-1bd', '6e2a7f61-bfd', '8f2b704f-232', '64a4d9fe-02f', '6d0cbf02-b47', 'db9dacee-baa']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -152,7 +152,8 @@ evidence_ids: ['0f8ab541-7af', '0af98970-c03', '08b71a4b-335', 'c12b661f-3b3', '
 
 
 
-## Auto-Updated Data (2026-07-03)
+
+## Auto-Updated Data (2026-07-04)
 
 | Fact | Source | Confidence |
 |------|--------|------------|

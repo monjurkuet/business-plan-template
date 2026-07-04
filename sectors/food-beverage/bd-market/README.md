@@ -1,9 +1,9 @@
 ---
 sector: food-beverage
-last_verified: 2026-07-03
+last_verified: 2026-07-04
 freshness: fresh
-confidence: 0.724
-evidence_ids: ['8b24165f-38d', 'f82bd772-100', '2d3ec0f1-d2e', '4c1a5dda-f4e', 'c8cf9728-83e', 'c396f6c2-040', '39026bc8-b98', 'ac902927-3e9', 'b50662ba-c3e', 'e62e1696-901', 'f4768b4a-b92', '51f9dd30-7e8', '348680bd-a0f', 'dddb9da4-093', 'b99bb3d8-103', '9fe03522-ade', '0cfe194b-f3e', 'c9ab648d-540', '6bb90993-12a', '3cf1d16c-814']
+confidence: 0.708
+evidence_ids: ['b902c944-436', 'be8220b3-c6c', '1f534321-b02', 'ab28d390-614', 'ee2477cc-d91', '632cb632-ade', '6ecf3c4d-823', '97a069b5-8b5', 'd5747882-88a', '6e95a8e2-b96', 'c003286d-302', '4b3ff5bd-896', '366f7cc4-b59', '91853464-2ee', 'd6de209c-1e6', 'ed7089d2-eef', '1c33c187-ad1', '18908c81-10f', 'd73d328e-365', '52519ef6-94b']
 ---
 
 # Food & Beverage — Bangladesh Market
@@ -37,22 +37,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 - Financial model
 
 
-## Auto-Updated Data (2026-07-03)
+
+## Auto-Updated Data (2026-07-04)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Bangladesh's premier restaurant discovery platform | search | 0.90 |
-| 2020 | search | 0.90 |
-| 31547 | search | 0.95 |
-| 942 | search | 0.95 |
-| Dhaka City, Dhaka Division | search | 1.00 |
-| ['Bangladeshi cuisine', 'family restaurants', 'local restaurants', 'fine dining' | search | 0.90 |
-| ['Dhaka', 'Uttara', 'Dhanmondi'] | search | 0.95 |
-| Top 20 Restaurant in Dhaka | search | 0.95 |
-| international restaurants | search | 0.90 |
-| Dhaka | search | 1.00 |
-| cheap buffet restaurants | search | 0.90 |
-| Trying out new tastes around the city has become a trend among food lovers in Ba | search | 0.95 |
-| Despite hundreds of new restaurants opening regularly, demand remains stable | search | 0.95 |
-| Local fast food shops shifting from single locations to franchise models | search | 0.90 |
-| 2022-09-18 | search | 1.00 |
+| 8am – 12am | search | 0.95 |
+| 09613505085 | search | 0.95 |
+| secretrecipebd.com | search | 0.95 |
+| Dhaka, Bangladesh | search | 0.90 |
+| Secret Recipe Bangladesh | search | 0.95 |
+| 20 minutes from downtown Montreal | search | 0.85 |
+| Rooftop Restaurant | search | 0.90 |
+| Bangladesh | search | 0.90 |
+| Bangladeshi | search | 0.95 |
+| Delhi Belly Restaurant | search | 0.80 |
+| 16 Top Bangladeshi Food for an Authentic Experience | search | 0.90 |
+| Bangladesh Tandoori Restaurant | search | 0.95 |
+| Campbeltown | search | 0.95 |
+| 4.1 | search | 0.95 |
+| 10 | search | 0.95 |
