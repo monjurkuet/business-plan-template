@@ -2,8 +2,8 @@
 sector: electronics-gadgets
 last_verified: 2026-07-05
 freshness: fresh
-confidence: 0.722
-evidence_ids: ['0087c2e0-425', 'ab981de9-c95', '12f4a777-23a', '1c399a65-85c', 'ccb6228a-f6b', '142d2034-3ed', '56d50b57-2ff', '339d9f98-e27', '9ecf1adf-1a4', '45eca75e-83f', '2ff0c6bb-9a8', '51684984-f94', '8106b6a6-017', '2637cc78-333', '3601a3b8-798', '6e5e7239-0d6', 'be6cec1c-83e', 'ec351b31-22d', '4c4ec11b-d56', 'fdae4949-553']
+confidence: 0.701
+evidence_ids: ['6ff8defa-e8b', 'b9b2e111-17e', '4f05b420-0d1', '4071581e-d10', 'aafafb65-072', 'c74e50a7-349', '8c58afc4-bb4', '55257411-fba', '665c0a1c-83c', '84330f91-b9a', '835fbdb3-d0e', 'bbda0aaf-8c7', '9d23b2b4-c5f', '073a357b-3a3', '158fd164-2ef', '338b4629-889', '26eaf997-d71', '03d8e4a4-407', 'ef8cf5ee-e78', 'cce25a29-bd8']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -140,22 +140,16 @@ evidence_ids: ['0087c2e0-425', 'ab981de9-c95', '12f4a777-23a', '1c399a65-85c', '
 
 
 
+
 ## Auto-Updated Data (2026-07-05)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| home appliances, ACs, refrigerators, washing machines, smart TVs, ovens | search | 0.95 |
-| official warranty, EMI facilities, fast home delivery | search | 0.95 |
-| unbeatable prices | search | 0.90 |
-| official warranty, 0% EMI, 16 superstores nationwide | search | 0.95 |
-| authorized multi-brand electronics retailer | search | 0.95 |
-| one of the highest rated and most trusted consumer electronics online shopping p | search | 0.95 |
-| premium quality products, Original Electronic Appliances | search | 0.95 |
-| seamless online shopping experience | search | 0.90 |
-| all kinds of electronic and electrical products | search | 0.95 |
-| one-stop shop for electronic and electrical products | search | 0.95 |
-| premium electronics, Smart TV, Air Conditions, home gadgets, lifestyle products | search | 0.95 |
-| fast delivery, authentic products | search | 0.95 |
-| unbeatable prices | search | 0.90 |
-| Bangladesh's most trusted eCommerce store | search | 0.95 |
-| ['electronics', 'fruits', 'vegetables', 'vehicles', 'crude oil', 'toys'] | search | 0.90 |
+| ['ACs', 'refrigerators', 'washing machines', 'smart TVs', 'ovens'] | search | 1.00 |
+| ['official warranty', 'EMI facilities', 'fast home delivery'] | search | 1.00 |
+| authorized multi-brand electronics retailer | search | 1.00 |
+| ['authentic products', 'official warranty', '0% EMI'] | search | 1.00 |
+| 16 | search | 1.00 |
+| Redzent Online Shopping | search | 0.90 |
+| ['premium electronics', 'Smart TV', 'Air Conditions', 'home gadgets', 'lifestyle | search | 0.90 |
+| ['fast delivery', 'authentic products', 'unbeatable prices'] | search | 0.90 |

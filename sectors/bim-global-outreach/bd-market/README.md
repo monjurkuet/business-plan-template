@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-07-05
 freshness: fresh
-confidence: 0.73
-evidence_ids: ['d41a430c-794', 'd5d918d2-ae5', '7d1bf567-303', 'e6403801-418', 'b04c4318-edd', '1b420a93-109', '1e9d0ab0-c2e', 'a3a188b6-604', 'be6c8a33-d51', 'e1ee6cad-d97', '58d9e5b0-04b', 'd20bef42-0d8', 'c2f18529-470', 'c3bd2ba3-3c0', 'fed84a3d-bee', '9db25c34-a23', '57825afd-e98', '7c8db117-dea', 'd46ed091-63e', '2e8a4410-747']
+confidence: 0.74
+evidence_ids: ['578277ac-7c8', 'b684ffe1-f48', 'ce495ce1-d9e', '30f8f3f8-d82', '28bfed47-ef8', '875a7f69-e1b', 'b4a14156-49d', '690afb74-a4f', '8709fcbe-ca4', 'ab7eb701-7d5', '619bd849-20b', 'a41085ac-09c', 'ed79e716-e78', '3d848dfe-f9c', '98699259-aef', '4d289080-ca3', '90e2eae2-956', 'bb26c5ec-68c', 'ef98ed23-a25', '8b465194-c6f']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -155,22 +155,23 @@ evidence_ids: ['d41a430c-794', 'd5d918d2-ae5', '7d1bf567-303', 'e6403801-418', '
 
 
 
+
 ## Auto-Updated Data (2026-07-05)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Inframed Architects | search | 1.00 |
-| Dhaka, Bangladesh | search | 1.00 |
-| ['architectural design', 'interior design', 'landscape', 'construction consultan | search | 1.00 |
-| top architecture & design studio | search | 0.90 |
-| interior design | search | 1.00 |
-| Dhaka, Bangladesh | search | 1.00 |
-| top 10 interior design companies | search | 0.90 |
-| Globats | search | 0.95 |
-| systems architecture | search | 0.95 |
-| Bangladesh | search | 0.95 |
-| building automation-first business ecosystems | search | 0.90 |
-| Inframed Architects | search | 1.00 |
-| Dhaka | search | 1.00 |
-| ['Sustainable architectural design', 'Interior design', 'Building design', 'Land | search | 1.00 |
-| Award-winning | search | 1.00 |
+| RAJUK-registered | search | 0.95 |
+| sustainable architecture | search | 0.90 |
+| Dhaka | search | 0.95 |
+| sustainability | search | 0.90 |
+| reshaping the nation through architecture | search | 0.85 |
+| BNBC-2020 | search | 0.95 |
+| transparent pricing | search | 0.90 |
+| reliable project delivery | search | 0.90 |
+| ['Dhaka', 'Khulna', 'Chattogram'] | search | 0.95 |
+| growing faster than ever | search | 0.85 |
+| significant growth in architecture and construction industry | search | 0.95 |
+| ['urbanization', 'demand for modern infrastructure'] | search | 0.90 |
+| innovative and sustainable design solutions | search | 0.90 |
+| Geometric Architect & Interiors | search | 0.95 |
+| 22514 | search | 0.95 |

@@ -2,8 +2,8 @@
 sector: jewellery
 last_verified: 2026-07-05
 freshness: fresh
-confidence: 0.694
-evidence_ids: ['b54f2efe-545', '263e421c-fb2', 'e4534dd6-8d7', 'c892d44d-580', '1c91225c-3d5', '8dd3aa3c-9e1', '338b5e96-c7e', '173e100a-b25', 'c69c2ea4-519', 'ac297c3c-15e', '78cc1c71-ba6', '6efd19bc-722', '403a3a37-9a5', '6dac7751-fe9', 'fca26273-09a', '0c5e18b5-1de', '1c1aeb25-dd6', '038f2710-648', '1a3d8e36-552', '39253ee7-745']
+confidence: 0.72
+evidence_ids: ['130f6075-acf', 'afe37946-d9c', '38a60882-c78', '7572d3c3-9ae', 'ba4277ac-170', '6c150f9e-e01', '86534ff5-cf1', '9f2db19e-e71', 'dc591298-02b', 'ecef1942-955', 'd69909d6-5b3', '70465273-766', '9e6b5320-5c3', 'ee5b3b76-dd8', '43a976a8-448', 'ae751e7d-628', 'a139fddf-789', 'a9bce57b-666', '94ddc918-c74', '53446bae-9ba']
 ---
 
 # Jewellery — Bangladesh Market
@@ -128,10 +128,19 @@ evidence_ids: ['b54f2efe-545', '263e421c-fb2', 'e4534dd6-8d7', 'c892d44d-580', '
 
 
 
+
 ## Auto-Updated Data (2026-07-05)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 2025-11-03 | search | 0.90 |
-| September 2025 | search | 0.90 |
-| ['gold', 'silver', 'diamond', 'antique', 'earthen', 'wooden'] | search | 0.90 |
+| Above price changes are impacted on all gold jewellers in Bangladesh. | search | 0.90 |
+| ['churi', 'chain', 'gold bracelet'] | search | 0.95 |
+| All ornaments will be increased or decreased in Bangladesh. | search | 0.90 |
+| 200 to 3000 | search | 0.95 |
+| design and material | search | 0.95 |
+| daily and festive wear | search | 0.95 |
+| affordable | search | 0.90 |
+| 2019-10-11 | search | 0.95 |
+| Jamuna Future Park, Level-2, Block-C, Shop No.36 | search | 0.95 |
+| best price when buying gold from customers | search | 0.90 |
+| pioneer in online jewellery shop | search | 0.95 |

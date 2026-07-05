@@ -2,8 +2,8 @@
 sector: logistics-transport
 last_verified: 2026-07-05
 freshness: fresh
-confidence: 0.717
-evidence_ids: ['14ca6da2-4f3', 'bb214e8e-221', '33111401-ab0', '65765ba0-907', '4a4fab0d-60f', '750e612c-f62', '8ce98cb2-ac3', 'bb366c27-25c', '014c5143-8c4', 'e25f45f8-2d8', '4c825ff0-198', 'a53f9632-d83', '814009ab-6e3', 'b115f07e-84c', 'bdaa958b-1e2', '372872ad-803', '2db8c567-d37', 'e2b6f9bb-332', '56e20a3e-da7', 'b2bf51ef-176']
+confidence: 0.705
+evidence_ids: ['b37af723-414', 'c1f3e019-2d0', '87e20a43-0a6', '0e6b8f54-9a4', '2d5b7dc9-423', '3f0f736e-42e', '22a361c0-912', 'aa30fb9b-9b0', 'ac18d064-f08', '84049ec9-678', '82fcf3d0-060', 'ed0bd1c4-16c', '6b70f7a2-b8a', 'ec067d34-845', '8e5f2a14-d46', 'fe646e34-7c7', 'd8eaea3b-0df', '78e713b3-e50', '92524b19-d00', '9f0fdbc5-c74']
 ---
 
 # Logistics & Transport — Bangladesh Market
@@ -39,22 +39,16 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-05)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| DHL | search | 1.00 |
-| courier service | search | 1.00 |
-| international courier, door-to-door parcel sending | search | 1.00 |
-| Sundarban Courier Service | search | 1.00 |
-| top courier service in Bangladesh | search | 0.95 |
-| 25 | search | 0.90 |
-| door_to_door_courier | search | 0.90 |
-| ['Dubai', 'Abu Dhabi', 'Fujairah', 'Ajman'] | search | 0.90 |
-| Bangladesh | search | 0.90 |
-| S.R Courier Service | search | 0.95 |
-| top_level_courier_service | search | 0.90 |
-| ['DHL Express', 'GLS Courier Service'] | search | 0.85 |
-| Freight Transport Company in Bangladesh | search | 0.80 |
-| Padma Courier Service | search | 0.90 |
-| rapid growth in the past 2 years | search | 0.90 |
+| Karatoa Courier Services | search | 0.95 |
+| largest courier service in Bangladesh | search | 0.90 |
+| efficient, on-time delivery of important documents and packages | search | 0.90 |
+| trusted name | search | 0.85 |
+| The courier industry has grown significantly in Bangladesh | search | 0.90 |
+| meeting the demands of a developing economy with a growing consumer base | search | 0.85 |
+| fast delivery, nationwide coverage, pricing, tracking, and reliability | search | 0.90 |
+| very reliable form of buying and selling products online | search | 0.85 |

@@ -97,14 +97,15 @@ freshness: fresh
 
 
 
+
 ## Recent Findings (2026-07-05)
 
-- **inframedarchitects.com** (conf: 0.89): Toparchitecture& design studio in Dhaka,Bangladesh— architectural design, interior design, landscape, and construction consultancy.
+- **avenuesangma.com** (conf: 0.87): Jan 6, 2026 ·Discover the leading architecturefirmsinBangladesh. Explore the philosophy, sustainability, and iconic projects of thetop10 studios reshaping the nation.
 
-- **www.archilovers.com** (conf: 0.89): Our studio is based onDhaka, Bangladesh. We provide complete solution related to design, approval and construction.Address Road no: 8, House no: 477, Baridhara DOHS,Dhaka, Bangladesh, 1206Dhaka| Bangl
+- **www.facebook.com** (conf: 0.88): Geometric Architect & Interiors. 22,514 likes · 162 talking about this. Geometric Architect & Interiors is a full-service interior design & exterior design firm inDhaka, Bangladesh. Since 2018, we...J
+
+- **www.facebook.com** (conf: 0.88): Jan 5, 2026 ·SPACE,Dhaka. 2,592 likes · 159 were here. Consultancy, Construction and DevelopmentNakshabid is a progressive and ethical architectural practice. We design with empathy for the human cond
+
+- **www.studiodhakaltd.com** (conf: 0.89): StudioDhakais a multidisciplinary architectural and interior design firm based inDhaka, delivering creative, sustainable, and context-driven design solutions.
 
 - **www.facebook.com** (conf: 0.69): Institute of ArchitectsBangladesh, Dhaka. 39,378 likes · 1,953 talking about this · 9,135 were here. This is the officialFacebookPage of the Institute of ArchitectsBangladesh(IAB).Jun 5, 2026 ·Sthapot
-
-- **www.facebook.com** (conf: 0.69): Jun 5, 2026 ·Sthapotik/SharifUddin Ahammed, Dhaka. 12,895 likes · 17 talking about this · 112 were here. Sthapotik is an architectural design studio. established in 2006 by Ar. Sharif Uddin Ahammed wi
-
-- **clutch.co** (conf: 0.69): 1 day ago ·Recommended EngineeringcompaniesinBangladeshinclude Perfect Solution, Studio 16 Architects, ANB UNIQUE REAL ESTATE LTD, Patenga Shipbuilding & Engineering, Alifs Engineering, DOER Steel Lim

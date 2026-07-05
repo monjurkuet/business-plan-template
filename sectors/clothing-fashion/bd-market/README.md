@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-07-05
 freshness: fresh
-confidence: 0.707
-evidence_ids: ['c6d1d68a-a23', 'a99fbdf3-7d2', '9e3912ed-4ad', 'f46d1f6f-c2a', '4dc93688-c9d', 'a0930362-6b9', 'd0c5996f-9cb', 'b6b705c5-5f1', '51da0012-80e', '71813b76-df7', '628797d5-ed8', '91ecb3f8-08d', '110223af-10c', '087468c0-077', '9148c341-8a9', '4e5c31df-d64', '7ff07ea4-36e', 'be3a3095-ddc', 'e170206a-f79', 'b0abd795-0a4']
+confidence: 0.701
+evidence_ids: ['0f1d9bcf-15d', 'bf1edcdd-a73', '37668b9c-4bd', '805f427a-5d6', 'c2c9d711-ef9', 'fbaeed07-2fa', '82109918-68d', '222594d5-342', '9d442216-0a1', '7d9ec903-0ec', 'e7a7c5e6-c6f', '41fdc202-087', 'cb9f5acb-0f4', '2d74ad29-738', 'f521408c-666', 'eda83292-d28', '9062abea-92f', '5c432d2f-972', 'f49216af-8c2', '4190fdfd-5fb']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -152,16 +152,12 @@ evidence_ids: ['c6d1d68a-a23', 'a99fbdf3-7d2', '9e3912ed-4ad', 'f46d1f6f-c2a', '
 
 
 
+
 ## Auto-Updated Data (2026-07-05)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Baggy Pants | search | 0.95 |
-| boys, youth | search | 0.90 |
-| all over Bangladesh | search | 0.95 |
-| affordable | search | 0.80 |
-| online clothing shop | search | 0.90 |
-| shipping to Bangladesh | search | 0.95 |
-| ['best match', 'price', 'free shipping', 'fast delivery', 'free return'] | search | 0.90 |
-| best factory prices and the highest-quality custom apparel | search | 0.90 |
-| price: low to high, price: high to low | search | 0.95 |
+| Best prices in home delivery | search | 0.80 |
+| 88 | search | 0.90 |
+| declining | search | 0.80 |
+| oil and gas prices skyrocketing due to Strait of Hormuz closure affecting fast f | search | 0.85 |

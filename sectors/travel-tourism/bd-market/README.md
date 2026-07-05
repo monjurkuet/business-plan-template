@@ -2,8 +2,8 @@
 sector: travel-tourism
 last_verified: 2026-07-05
 freshness: fresh
-confidence: 0.709
-evidence_ids: ['91857fcd-c2e', '0e602d9f-ad1', 'e124b245-5c9', '04b3799e-571', 'bfc97a8d-d38', '99830252-618', 'eccfddf8-2db', '86e99946-480', '6109d69e-626', 'ce108fa7-d62', 'a88a54a7-b68', '1811bc1a-ee0', 'c2161f48-445', '260cbd40-422', '27c10664-156', 'b6396b45-1ab', '046c28e5-5a1', '7ecc5814-c92', 'af11e24d-6fb', '166065c4-259']
+confidence: 0.705
+evidence_ids: ['dec017ce-8fd', '7ffcbdd3-d1a', 'dfefb8be-708', '5bb274fb-74a', '726db221-bcd', '9d3c969a-e57', '8abc9474-81f', 'a33ae5cb-72d', 'a41dbfec-596', '221cbedc-13b', 'd0a134ec-985', '4eee45ba-ab5', 'e781bec7-b62', '979e7a8d-4b0', '57c5c3bd-a7d', 'e9bf6913-9ec', '4c0d8f6b-19d', 'f061c203-eec', '80e80f10-4a3', '310ca758-d4d']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -116,13 +116,18 @@ evidence_ids: ['91857fcd-c2e', '0e602d9f-ad1', 'e124b245-5c9', '04b3799e-571', '
 
 
 
+
 ## Auto-Updated Data (2026-07-05)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Umrah packages 2026 | search | 0.95 |
-| tourist, student & work visas, international flights, and holiday tours | search | 0.90 |
-| amazing tour and travel packages at affordable price | search | 0.90 |
-| 500000 | search | 0.95 |
-| 7% | search | 0.95 |
-| 2017 | search | 0.95 |
+| goFLY Limited | search | 1.00 |
+| IATA-certified | search | 1.00 |
+| Dhaka, Bangladesh | search | 1.00 |
+| 2017 | search | 1.00 |
+| Helping Bangladeshi travelers explore the world with honest service, affordable  | search | 0.95 |
+| smooth, safe, and affordable journey | search | 0.90 |
+| ['air ticketing', 'visa processing', 'holiday packages', 'global tours'] | search | 0.95 |
+| best rates | search | 0.85 |
+| ['air tickets', 'hotels', 'tour packages'] | search | 0.95 |
+| 1315 | search | 0.90 |

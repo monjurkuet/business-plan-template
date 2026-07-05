@@ -2,8 +2,8 @@
 sector: agriculture-agro
 last_verified: 2026-07-05
 freshness: fresh
-confidence: 0.723
-evidence_ids: ['b6fa0d8c-18e', '3d06dc28-4ad', '20000c32-edd', '88f6f22d-fdc', '6ddf15e0-e3e', 'eb0e5353-9aa', '18df26a4-88a', '3c8fdf7d-ab8', 'a6f8288c-22f', '74fd00c8-ac4', '73795598-9f8', '2b5abe55-01d', '0e31e951-564', 'b0886fb5-dbe', 'a0143cb2-b2c', 'cd8b4261-355', '05f6943a-4ac', 'a897ca58-e2b', '5ce8641e-5bd', '2d9d433f-5e0']
+confidence: 0.69
+evidence_ids: ['1ebea72d-f3a', '6d960ad4-086', 'd0b5417c-c44', '2d4d44e2-295', '2379732a-090', '4b152b5c-4d1', '53d370be-05d', '93bacdb3-5f1', '246dafc7-db3', 'ed16843b-c07', '5e622fcd-585', 'f5e5a5a2-275', 'a2726544-2db', '2892fa14-9b9', 'a044a00e-c9e', '25ea63ed-fcb', '4d786c08-bdb', 'bc82ef20-a32', 'db601d34-3b4', '93245d91-e65']
 ---
 
 # Agriculture & Agro-processing — Bangladesh Market
@@ -41,22 +41,22 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-05)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 1.7 | search | 0.95 |
-| 12 | search | 0.95 |
-| 2021 | search | 0.95 |
-| {'country': 'Morocco', 'import_value': 483, 'unit': 'USD_million'} | search | 0.95 |
-| Neptune's Harvest Fish & Seaweed Liquid Fertilizer | search | 0.95 |
-| FS136 32 Oz. Fish & Seaweed Blend Fertilizer 2-3-1 | search | 0.90 |
-| organic fertilizer | search | 0.95 |
-| ubuy.com.bd | search | 1.00 |
-| Syngenta Bangladesh Limited | search | 1.00 |
-| সিনজেন্টা বাংলাদেশ লিমিটেড | search | 1.00 |
+| Aftab Feed Products Limited | search | 0.95 |
+| high-quality livestock feed, indirectly related to fertilizer through agricultur | search | 0.90 |
+| ['Organic Nutrition Ltd.', 'Aftab Feed Products Limited'] | search | 0.95 |
+| organic fertilizer | search | 0.98 |
+| Bangladesh | search | 1.00 |
+| ACI Fertilizer | search | 0.98 |
 | fertilizer | search | 0.95 |
-| Supreme Seeds Company Limited | search | 1.00 |
-| সুপ্রিম সীড কোম্পানি লি. | search | 1.00 |
-| seeds | search | 0.90 |
-| Surovi Agro Industries Ltd. | search | 1.00 |
+| ['organic fertilizer', 'macro & micronutrient', 'foliar fertilizers'] | search | 0.95 |
+| Bangladesh | search | 1.00 |
+| fertilizer manufacturers | search | 0.98 |
+| Bangladesh | search | 1.00 |
+| ['quality fertilizers', 'NPK fertilizer', 'agro fertilizer', 'organic fertilizer | search | 0.90 |
+| fertilizers | search | 0.95 |
+| Iran war | search | 0.98 |
