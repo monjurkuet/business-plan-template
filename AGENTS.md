@@ -2,16 +2,16 @@
 
 ## Architecture
 
-This repo defines 15 business sectors (9 researched + 6 pipeline-only) for the BD market. It drives two downstream systems:
+This repo defines 15→16 sectors (9 researched + 7 pipeline-only) for the BD market. It drives two downstream systems:
 
 1. **Self-evolving research pipeline** (`c52a5f33e4e9` cron, every 6h) — audits, searches, extracts, and updates sector docs
-2. **InfiniteCrawler GMaps lead pipeline** — reads `_system/config/sectors.yaml` to generate Google Maps search queries across all 15 sectors
+2. **InfiniteCrawler GMaps lead pipeline** — reads `_system/config/sectors.yaml` to generate Google Maps search queries across all 16 sectors
 
 ## Sectors
 
-15 sectors defined in `_system/config/sectors.yaml`:
+16 sectors defined in `_system/config/sectors.yaml`:
 
-| Researched (9) | Pipeline-only (6) |
+| Researched (9) | Pipeline-only (7) |
 |----------------|-------------------|
 | automotive-car-care | healthcare-pharma |
 | clothing-fashion | construction-real-estate |
@@ -19,7 +19,7 @@ This repo defines 15 business sectors (9 researched + 6 pipeline-only) for the B
 | travel-tourism | education-training |
 | media-marketing-digital | logistics-transport |
 | crypto-bitcoin | agriculture-agro |
-| electronics-gadgets | |
+| electronics-gadgets | service-agents-distribution |
 | high-roi-niches | |
 | bim-global-outreach | |
 
@@ -45,13 +45,13 @@ make freshness      # Evaluate data freshness
 
 ## Integration with InfiniteCrawler
 
-`daemons/query_generator.py` (in `/root/codebase/vhd/infinitecrawler`) reads this repo's `sectors.yaml` to build 21,356 unique GMaps search queries across 3 pools:
+`daemons/query_generator.py` (in `/root/codebase/vhd/infinitecrawler`) reads this repo's `sectors.yaml` to build 23,460 unique GMaps search queries across 3 pools:
 
 | Pool | Size | Description |
 |------|------|-------------|
-| BD-Local | 17,130 | "{keyword} in {city}" × 15 cities × 15 sectors |
-| BD-National | 1,094 | "{keyword} Bangladesh" / "{keyword} outside Dhaka" |
-| Global | 3,132 | "{keyword} {country}" × 6 markets × 11 export-eligible sectors |
+| BD-Local | 18,780 | "{keyword} in {city}" × 15 cities × 16 sectors |
+| BD-National | 1,194 | "{keyword} Bangladesh" / "{keyword} outside Dhaka" |
+| Global | 3,486 | "{keyword} {country}" × 6 markets × 12 export-eligible sectors |
 
 ## Adding a Sector
 

@@ -325,3 +325,30 @@ sectors:
                   "poultry-dairy", "fish-shrimp", "rice-grain",
                   "cold-storage", "agro-processing", "organic"]
     policy_sensitivity: low
+
+  service-agents-distribution:
+    display_name: "Service Agents & Distribution"
+    status: active
+    priority_weight: 0.75
+    keywords:
+      en: ["C&F agent Bangladesh", "clearing forwarding agent BD", "importer Bangladesh",
+           "wholesale distributor Dhaka", "indenting agent BD", "buying house Bangladesh",
+           "commission agent BD", "liaison office Bangladesh", "trade agent BD",
+           "door to door sales Bangladesh", "direct sales Bangladesh", "MLM company BD",
+           "network marketing Bangladesh", "field sales agent BD", "sales representative Bangladesh",
+           "distributor company BD", "dealer network Bangladesh", "supply chain agent BD",
+           "procurement agent Dhaka", "customs broker Bangladesh", "bonded warehouse BD",
+           "commercial importer Bangladesh", "trading company Bangladesh", "outdoor sales BD",
+           "franchise distributor bangladesh", "sole distributor BD", "agency business Bangladesh"]
+      bn: ["সিএন্ডএফ এজেন্ট বাংলাদেশ", "ক্লিয়ারিং ফরওয়ার্ডিং এজেন্ট", "আমদানিকারক",
+           "পাইকারি ডিস্ট্রিবিউটর", "ইন্ডেন্টিং এজেন্ট", "বায়িং হাউস",
+           "কমিশন এজেন্ট", "লিয়াজো অফিস", "বাণিজ্য এজেন্ট",
+           "ডোর টু ডোর সেলস", "ডিরেক্ট সেলস", "এমএলএম কোম্পানি",
+           "ডিস্ট্রিবিউটর কোম্পানি", "ডিলার নেটওয়ার্ক", "সাপ্লাই চেইন এজেন্ট",
+           "কাস্টমস ব্রোকার", "ট্রেডিং কোম্পানি", "ফ্র্যাঞ্চাইজ ডিস্ট্রিবিউটর",
+           "সোল ডিস্ট্রিবিউটর", "এজেন্সি ব্যবসা"]
+    competitor_target: 15
+    subsegments: ["C&F agent", "customs broker", "importer", "wholesale distributor",
+                  "indenting agent", "buying house", "commission agent", "door-to-door sales",
+                  "direct sales", "MLM network", "franchise distribution", "trade agent"]
+    policy_sensitivity: medium
