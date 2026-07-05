@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-05T15:11:59.981365+00:00",
+  "generated_at": "2026-07-05T18:06:52.274531+00:00",
   "summary": {
     "fresh": 94,
     "stale": 21,
-    "critical": 52,
+    "critical": 47,
     "approaching_stale": 0
   },
   "queue": [
@@ -550,12 +550,12 @@
       "path": "sectors/automotive-car-care/bd-market/research/2026-05-06-full-landscape-report.md",
       "sector": "automotive-car-care",
       "category": "competitor_core_profile",
-      "age_days": 59,
+      "age_days": 60,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 45,
       "critical_after_days": 90,
-      "reason": "File age 59d exceeds freshness threshold for competitor_core_profile"
+      "reason": "File age 60d exceeds freshness threshold for competitor_core_profile"
     },
     {
       "path": "sectors/bim-global-outreach/bd-market/README.md",
@@ -594,23 +594,23 @@
       "path": "sectors/clothing-fashion/bd-market/research/2026-05-06-full-landscape-report.md",
       "sector": "clothing-fashion",
       "category": "competitor_core_profile",
-      "age_days": 59,
+      "age_days": 60,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 45,
       "critical_after_days": 90,
-      "reason": "File age 59d exceeds freshness threshold for competitor_core_profile"
+      "reason": "File age 60d exceeds freshness threshold for competitor_core_profile"
     },
     {
       "path": "sectors/crypto-bitcoin/bd-market/research/2026-05-06-full-landscape-report.md",
       "sector": "crypto-bitcoin",
       "category": "competitor_core_profile",
-      "age_days": 59,
+      "age_days": 60,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 45,
       "critical_after_days": 90,
-      "reason": "File age 59d exceeds freshness threshold for competitor_core_profile"
+      "reason": "File age 60d exceeds freshness threshold for competitor_core_profile"
     },
     {
       "path": "sectors/electronics-gadgets/bd-market/README.md",
@@ -627,12 +627,12 @@
       "path": "sectors/electronics-gadgets/bd-market/research/2026-05-06-full-landscape-report.md",
       "sector": "electronics-gadgets",
       "category": "competitor_core_profile",
-      "age_days": 59,
+      "age_days": 60,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 45,
       "critical_after_days": 90,
-      "reason": "File age 59d exceeds freshness threshold for competitor_core_profile"
+      "reason": "File age 60d exceeds freshness threshold for competitor_core_profile"
     },
     {
       "path": "sectors/food-beverage/bd-market/README.md",
@@ -671,12 +671,12 @@
       "path": "sectors/high-roi-niches/bd-market/research/2026-05-06-full-landscape-report.md",
       "sector": "high-roi-niches",
       "category": "competitor_core_profile",
-      "age_days": 59,
+      "age_days": 60,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 45,
       "critical_after_days": 90,
-      "reason": "File age 59d exceeds freshness threshold for competitor_core_profile"
+      "reason": "File age 60d exceeds freshness threshold for competitor_core_profile"
     },
     {
       "path": "sectors/jewellery/bd-market/README.md",
@@ -693,12 +693,12 @@
       "path": "sectors/jewellery/bd-market/research/2026-05-06-full-landscape-report.md",
       "sector": "jewellery",
       "category": "competitor_core_profile",
-      "age_days": 59,
+      "age_days": 60,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 45,
       "critical_after_days": 90,
-      "reason": "File age 59d exceeds freshness threshold for competitor_core_profile"
+      "reason": "File age 60d exceeds freshness threshold for competitor_core_profile"
     },
     {
       "path": "sectors/logistics-transport/bd-market/README.md",
@@ -726,12 +726,12 @@
       "path": "sectors/media-marketing-digital/bd-market/research/2026-05-06-full-landscape-report.md",
       "sector": "media-marketing-digital",
       "category": "competitor_core_profile",
-      "age_days": 59,
+      "age_days": 60,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 45,
       "critical_after_days": 90,
-      "reason": "File age 59d exceeds freshness threshold for competitor_core_profile"
+      "reason": "File age 60d exceeds freshness threshold for competitor_core_profile"
     },
     {
       "path": "sectors/travel-tourism/bd-market/README.md",
@@ -748,67 +748,12 @@
       "path": "sectors/travel-tourism/bd-market/research/2026-05-06-full-landscape-report.md",
       "sector": "travel-tourism",
       "category": "competitor_core_profile",
-      "age_days": 59,
+      "age_days": 60,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 45,
       "critical_after_days": 90,
-      "reason": "File age 59d exceeds freshness threshold for competitor_core_profile"
-    },
-    {
-      "path": "sectors/service-agents-distribution/bd-market/data_collection:pricing",
-      "sector": "service-agents-distribution",
-      "category": "pricing",
-      "age_days": 9999,
-      "stale_type": "missing",
-      "priority": "P1",
-      "stale_after_days": 0,
-      "critical_after_days": 0,
-      "reason": "Zero evidence collected for sector \u2014 initial data collection needed (pricing)"
-    },
-    {
-      "path": "sectors/service-agents-distribution/bd-market/data_collection:policy",
-      "sector": "service-agents-distribution",
-      "category": "policy",
-      "age_days": 9999,
-      "stale_type": "missing",
-      "priority": "P1",
-      "stale_after_days": 0,
-      "critical_after_days": 0,
-      "reason": "Zero evidence collected for sector \u2014 initial data collection needed (policy)"
-    },
-    {
-      "path": "sectors/service-agents-distribution/bd-market/data_collection:competitor_core_profile",
-      "sector": "service-agents-distribution",
-      "category": "competitor_core_profile",
-      "age_days": 9999,
-      "stale_type": "missing",
-      "priority": "P1",
-      "stale_after_days": 0,
-      "critical_after_days": 0,
-      "reason": "Zero evidence collected for sector \u2014 initial data collection needed (competitor_core_profile)"
-    },
-    {
-      "path": "sectors/service-agents-distribution/bd-market/data_collection:sentiment",
-      "sector": "service-agents-distribution",
-      "category": "sentiment",
-      "age_days": 9999,
-      "stale_type": "missing",
-      "priority": "P1",
-      "stale_after_days": 0,
-      "critical_after_days": 0,
-      "reason": "Zero evidence collected for sector \u2014 initial data collection needed (sentiment)"
-    },
-    {
-      "path": "sectors/service-agents-distribution/bd-market/data_collection:seasonality",
-      "sector": "service-agents-distribution",
-      "category": "seasonality",
-      "age_days": 9999,
-      "stale_type": "missing",
-      "priority": "P1",
-      "stale_after_days": 0,
-      "critical_after_days": 0,
-      "reason": "Zero evidence collected for sector \u2014 initial data collection needed (seasonality)"
+      "reason": "File age 60d exceeds freshness threshold for competitor_core_profile"
     }
   ]
 }

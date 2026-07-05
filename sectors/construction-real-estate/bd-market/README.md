@@ -1,9 +1,9 @@
 ---
 sector: construction-real-estate
-last_verified: 2026-07-05
+last_verified: 2026-07-06
 freshness: fresh
-confidence: 0.721
-evidence_ids: ['f8cb2b7e-f89', '6a2363d3-0af', 'abda0114-70a', '6d118977-f62', '8472b3fb-c26', '7dd14b82-867', '50c3ea5c-8f3', '560e8381-c87', 'c91b3aa5-601', '514bf8a0-df4', 'ebc47a03-b9c', '4f3e46ab-bd8', '0368ce05-e6d', '1dcb3dd9-1fe', 'aa446e56-c10', '25ed32a0-529', '1188139e-476', '30ba2e02-ca9', '92fe1e3b-a74', '91a68bad-637']
+confidence: 0.73
+evidence_ids: ['ed68393f-58a', '04ff41ed-507', '77b8bd2d-87a', '42316bd4-572', 'a126232c-e31', '8dbe4580-bbd', '04d56030-c16', 'f9a83d73-21a', '60b4471d-89c', 'd7740b76-fa7', '204cc689-095', '76be64ea-c7a', 'c721c6ba-79a', '52536aec-189', 'a8e77d7a-369', 'aed9dbf5-3f6', '296a7930-3ed', 'f32af1f2-f0b', '26b3b82c-324', '1df8373d-3bb']
 ---
 
 # Construction & Real Estate — Bangladesh Market
@@ -44,22 +44,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
-## Auto-Updated Data (2026-07-05)
+
+## Auto-Updated Data (2026-07-06)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ALM Steel Building Technology Ltd. | search | 1.00 |
-| ALM Tensile Membrane Structure Limited | search | 1.00 |
-| Akij Cement Company Ltd. | search | 1.00 |
-| Anwar Landmark Ltd. | search | 1.00 |
-| 65 | search | 0.90 |
-| wholesale building materials | search | 0.90 |
-| CHB Engineering Ltd. | search | 1.00 |
-| Alibaba Construction Ltd. | search | 1.00 |
-| building material suppliers | search | 0.90 |
-| Perfect Solution | search | 0.90 |
-| Nasirabad, Chittagong, Chittagong | search | 0.90 |
-| Industrial, Commercial, and residential Flooring and construction chemicals appl | search | 0.90 |
-| construction materials supply, Steel Sheet Piles, flooring, construction chemica | search | 0.80 |
-| DEG | search | 0.90 |
-| IDCOL | search | 0.90 |
+| 65 | search | 0.95 |
+| ALM Steel Building Technology Ltd. | search | 0.95 |
+| ALM Tensile Membrane Structure Limited | search | 0.95 |
+| Akij Cement Company Ltd. | search | 0.95 |
+| Anwar Landmark Ltd. | search | 0.95 |
+| Wholesale Building Materials | search | 0.90 |
+| CHB Engineering Ltd. | search | 0.95 |
+| Alibaba Construction Ltd. | search | 0.95 |
+| Building Material Suppliers | search | 0.90 |
+| akbarsha | search | 0.90 |
+| Firozshah, Chittagong Sadar, Chittagong | search | 0.90 |
+| Perfect Solution | search | 0.95 |
+| Industrial, Commercial, and Residential Flooring and Construction Chemicals Appl | search | 0.95 |
+| Nasirabad, Chittagong Sadar, Chittagong | search | 0.90 |
+| Steel Sheet Piles, Flooring, Construction Chemicals, Building Construction Works | search | 0.90 |

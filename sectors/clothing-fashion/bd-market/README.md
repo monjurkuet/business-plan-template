@@ -1,9 +1,9 @@
 ---
 sector: clothing-fashion
-last_verified: 2026-07-05
+last_verified: 2026-07-06
 freshness: fresh
-confidence: 0.716
-evidence_ids: ['dd1f5b60-f97', 'c62b44b2-072', '58a62df5-77f', '88aa1e66-3a9', '79755e86-ac5', 'd34822bc-bfb', 'cef191fe-842', '53d30b21-c7b', '1239ef48-4f3', '855c0148-e45', 'f9c6625b-876', 'aeb43927-2e1', 'a9ccfa83-f5b', 'b2a43941-b9c', '9a9483e4-3ab', '42a45ccb-3e7', 'b586e70b-657', '21b289f9-3d6', '4b675655-d84', '9a611ab7-9ef']
+confidence: 0.725
+evidence_ids: ['635ec983-622', 'd1ac176a-e4a', 'eddf07c1-313', '70f72b8a-1db', 'bbe4f267-77a', '4247f0e8-ff8', '58adaf44-be7', 'b1a1b9bf-439', 'f69b760c-d34', 'a3a4e1d6-c06', '410845f2-09b', '5bd01bcb-c86', '36a0a1dd-911', 'fa73116e-170', 'd3d36496-40e', '963aab3f-cc0', '2e974695-d45', '0e57caf6-71c', '8ff82f17-5e7', 'ec8cda82-32b']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -155,16 +155,23 @@ evidence_ids: ['dd1f5b60-f97', 'c62b44b2-072', '58a62df5-77f', '88aa1e66-3a9', '
 
 
 
-## Auto-Updated Data (2026-07-05)
+
+## Auto-Updated Data (2026-07-06)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 300 COTTON TERRY CLOTH CLEANING RAGS / SHOP TOWELS / 12X12- 25 DOZ. / WHOLESALE | search | 0.90 |
-| RD style women black dress warm size M Knitted Made In Bangladesh | search | 0.90 |
-| baggy pants | search | 0.95 |
-| affordable price, best baggy pants in BD, online clothing shop Bangladesh, home  | search | 0.90 |
-| free shipping, fast delivery, free return | search | 0.95 |
-| best factory prices and the highest-quality custom apparel | search | 0.90 |
-| 88 | search | 0.95 |
-| 2026-06 | search | 0.80 |
-| closure of the Strait of Hormuz continues to send oil and gas prices skyrocketin | search | 0.90 |
+| baggy pants | search | 0.90 |
+| boys, youth | search | 0.90 |
+| all over Bangladesh | search | 0.90 |
+| affordable | search | 0.80 |
+| shipping to Bangladesh | search | 0.90 |
+| ['best match', 'price', 'free shipping', 'fast delivery', 'free return'] | search | 0.90 |
+| ['t-shirts', 'polo shirts', 'casual shirts', 'summer wear'] | search | 0.90 |
+| across Bangladesh | search | 0.90 |
+| T-shirt manufacturer | search | 0.90 |
+| Bangladesh | search | 0.90 |
+| best factory prices | search | 0.90 |
+| highest-quality custom apparel | search | 0.90 |
+| luxury clothing | search | 0.90 |
+| Black Aura – Black & Cream Polka Dot Luxury Pret 3-Piece | search | 0.90 |
+| ['popularity', 'average rating', 'latest', 'price: low to high', 'price: high to | search | 0.90 |

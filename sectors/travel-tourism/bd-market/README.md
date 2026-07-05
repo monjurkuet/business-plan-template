@@ -1,9 +1,9 @@
 ---
 sector: travel-tourism
-last_verified: 2026-07-05
+last_verified: 2026-07-06
 freshness: fresh
-confidence: 0.689
-evidence_ids: ['63c5cfaa-a3d', 'cb3996c2-68d', '6ee14690-ecf', '1dd7d47e-0bf', 'd1f8b994-51a', '091e1f21-4bc', 'f5abd343-786', '8035af8c-049', '8b482831-6a4', 'c70d2161-656', '7f8e6be1-837', 'e2f1fb30-bcc', '280884d7-d68', 'd8c03f93-bb9', 'a2126d2c-c75', '96c70193-759', 'bc096e41-2e8', '5143325a-f19', 'aaab24a0-ac4', '20ae3aa9-825']
+confidence: 0.692
+evidence_ids: ['8ca00670-c42', '7d5697af-acb', '0894df38-624', '24468b0f-1ef', '5b2726ae-f3a', '39f36af3-8fa', '1e9111d7-7e6', '367461cb-5e9', '3347564c-2e1', 'a99caf40-0c7', '81c30456-1e4', '98c1a99d-253', 'aac500a3-202', '8d2698c5-762', '551769f0-c7d', 'b72e232f-450', 'b33f78d7-6fe', 'bd03cf45-8dd', '03ef1d0f-a22', 'c4436119-508']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -119,21 +119,19 @@ evidence_ids: ['63c5cfaa-a3d', 'cb3996c2-68d', '6ee14690-ecf', '1dd7d47e-0bf', '
 
 
 
-## Auto-Updated Data (2026-07-05)
+
+## Auto-Updated Data (2026-07-06)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ['tourist visas', 'student visas', 'work visas', 'Umrah packages 2026', 'interna | search | 0.95 |
-| ['Dubai', 'Georgia', 'Armenia', 'Europe'] | search | 0.95 |
-| Eammu Holidays | search | 1.00 |
-| #1 travel agency in Bangladesh | search | 0.90 |
-| ['tour packages', 'air tickets', 'visa support'] | search | 0.95 |
-| TravelAgencyBangladesh | search | 1.00 |
-| affordable | search | 0.80 |
-| Top 10 Travel Agencies in Dhaka (2026 Ranking & Data) | search | 1.00 |
-| ['customer ratings (Google Maps and Facebook averages as of June 2026)', 'servic | search | 0.95 |
-| Dhaka | search | 1.00 |
-| ['study abroad', 'visa services', 'cheap air tickets'] | search | 0.95 |
-| StairTouch | search | 1.00 |
-| ['UK', 'Canada', 'Russia', 'USA'] | search | 0.95 |
-| cheap | search | 0.80 |
+| goFLY Limited | search | 1.00 |
+| IATA-certified | search | 1.00 |
+| 2017 | search | 1.00 |
+| Dhaka, Bangladesh | search | 1.00 |
+| Affordable prices | search | 0.90 |
+| ['Hotels', 'Visa', 'Tours', 'Flight booking'] | search | 1.00 |
+| ['air ticketing', 'visa processing', 'holiday packages', 'global tours'] | search | 0.90 |
+| smooth, safe, and affordable journey | search | 0.80 |
+| ['air tickets', 'hotels', 'tour packages'] | search | 0.95 |
+| best rates | search | 0.80 |
+| online | search | 0.95 |

@@ -1,9 +1,9 @@
 ---
 sector: electronics-gadgets
-last_verified: 2026-07-05
+last_verified: 2026-07-06
 freshness: fresh
-confidence: 0.715
-evidence_ids: ['7a00b1b2-11a', '1ea294b5-fcd', 'c2540454-6b8', 'd55e0028-c07', '5770b22c-762', '8c9015b3-3e2', 'f4707279-434', 'a9f0fa62-4ff', 'f85f1e17-02b', '1f594159-112', '8791e631-266', '4a98360b-197', '99e9a5de-d50', 'f5f9ba23-454', '1726eb1f-195', '4c9ff989-19a', 'f716b9bc-99c', '7aecce12-12f', '847a058a-c61', 'c00143e5-50a']
+confidence: 0.712
+evidence_ids: ['44a979f3-b9d', '378e0901-069', 'fe303032-b0b', '2413f783-1a7', '301df7e5-c33', 'fe5388f6-8d2', '83d8b082-1eb', '79111930-4a7', 'f1c3c7c6-3aa', 'a273dcff-d51', 'ae589ab8-bf5', 'cf37c0ee-323', '6a51a1c9-07d', '8c3c0c9e-a2f', '30b4e312-e63', '1a507409-c8a', '9a98afca-12f', '3a73b6b5-622', '63575383-b80', '082ead3b-57f']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -143,16 +143,22 @@ evidence_ids: ['7a00b1b2-11a', '1ea294b5-fcd', 'c2540454-6b8', 'd55e0028-c07', '
 
 
 
-## Auto-Updated Data (2026-07-05)
+
+## Auto-Updated Data (2026-07-06)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| competitive prices | search | 0.90 |
-| best prices | search | 0.90 |
-| Free Shipping | search | 0.95 |
-| best prices, offers, and discounts | search | 0.90 |
-| 15.00 | search | 0.80 |
-| BRANDS MEGA LTD | search | 0.95 |
-| Navana Tower (Level-18) 45 Gulshan Avenue, Gulshan-1 Dhaka -1212, Bangladesh | search | 0.95 |
-| Phone (listed on website) | search | 0.80 |
-| ['electronics'] | search | 0.90 |
+| home appliances | search | 0.90 |
+| ['ACs', 'refrigerators', 'washing machines', 'smart TVs', 'ovens'] | search | 0.95 |
+| unbeatable prices | search | 0.80 |
+| ['official warranty', 'EMI facilities', 'fast home delivery'] | search | 0.95 |
+| consumer electronics online shopping platform | search | 0.95 |
+| premium quality products | search | 0.90 |
+| Original Electronic Appliances | search | 0.95 |
+| authorized multi-brand electronics retailer | search | 0.95 |
+| Authentic products | search | 0.95 |
+| ['official warranty', '0% EMI', '16 superstores nationwide'] | search | 0.95 |
+| best price in BD | search | 0.90 |
+| Cash on delivery | search | 0.95 |
+| electronics | search | 0.85 |
+| tariffs | search | 0.90 |

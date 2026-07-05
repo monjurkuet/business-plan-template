@@ -1,9 +1,9 @@
 ---
 sector: jewellery
-last_verified: 2026-07-05
+last_verified: 2026-07-06
 freshness: fresh
-confidence: 0.705
-evidence_ids: ['900c32c6-7c2', '9e99e93e-91d', '74ecc31a-b14', '9b93f245-1ca', 'cf9e48fa-c17', '51101dc7-6c9', '0403d954-16c', '7c5dbff4-334', 'cb855c98-1ba', '511b7436-43b', '27dfc638-d4a', '81cdc3c4-7f7', '5ad98543-0bc', 'a9213543-d71', '402b7b8c-046', '0f840f49-c3d', '5bb9c29c-306', '8b753969-8d8', 'c802a6d7-d1c', '87507bf1-90c']
+confidence: 0.711
+evidence_ids: ['eaa13af7-c62', '86fbd37a-28a', '31309ea5-9e5', '1ed98991-c86', '8e38e916-3d8', '13509944-f2d', 'f5489194-a7e', '2fdccf8a-64a', '257e7d71-462', '691cc3e6-24e', '5fe191bc-f49', '5ac7b462-042', '2ce88d82-d62', '8065e6f2-48b', '0e81accd-70c', '53457a68-5be', 'b4ed1784-259', '9c47a491-374', 'f3b0f950-05d', '57c5b765-b64']
 ---
 
 # Jewellery — Bangladesh Market
@@ -131,12 +131,14 @@ evidence_ids: ['900c32c6-7c2', '9e99e93e-91d', '74ecc31a-b14', '9b93f245-1ca', '
 
 
 
-## Auto-Updated Data (2026-07-05)
+
+## Auto-Updated Data (2026-07-06)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 377 | search | 0.90 |
-| jhumka earrings | search | 0.95 |
-| Bangladesh | search | 0.90 |
-| 32 | search | 0.80 |
-| ['gold', 'silver', 'diamond', 'antique', 'earthen', 'wooden'] | search | 0.90 |
+| Love Pearl Necklace Gift Box Freshwater Pearl Jewelry | search | 0.90 |
+| Pearl Necklace Set | search | 0.90 |
+| women | search | 0.90 |
+| pendant necklaces, statement necklaces, choker necklaces | search | 0.80 |
+| 32 | search | 0.70 |
+| gold, silver, diamond, silver jewellery, antique, earthen jewellery, wooden jewe | search | 0.90 |

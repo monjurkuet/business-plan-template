@@ -1,9 +1,9 @@
 ---
 sector: healthcare-pharma
-last_verified: 2026-07-05
+last_verified: 2026-07-06
 freshness: fresh
-confidence: 0.703
-evidence_ids: ['21a47f27-ebd', 'd07c5b1c-9f5', 'a8955c2f-f76', '41d77987-40a', '7495ee4d-0cd', 'c6ef5599-651', 'e49e8544-106', 'd0c81fc8-b58', '33c484d9-103', 'd8ef9986-bdc', '2f2c7f10-49f', '3fa65355-3f7', '6c1ab681-d14', '969d9d2d-aaf', 'dcd83063-204', 'fe5a5a42-052', '6f5b527c-413', '93ae26b8-a34', '7a42e925-a1d', '999772db-6b8']
+confidence: 0.671
+evidence_ids: ['854c0d82-845', 'cf49ed6d-b4c', '97a663b8-a39', 'a0657e63-6ba', 'c2642631-c35', 'a02f3d03-5a6', 'dade0a81-f42', '02082fc8-348', '2f72e0f8-290', 'b2aee748-39f', '996cd4e4-5dd', '8601b4b8-213', 'c340d3d5-6c5', '3c32826b-206', '5e95aad3-8da', 'f6b55f5e-b49', 'e94caf23-027', 'c5b16a91-3dd', 'aac0514d-a2c', '48e1a891-d53']
 ---
 
 # Healthcare & Pharma — Bangladesh Market
@@ -43,20 +43,21 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
-## Auto-Updated Data (2026-07-05)
+
+## Auto-Updated Data (2026-07-06)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
 | Medisafe Pharmacy | search | 0.95 |
 | ['Medical device', 'Natural medicine', 'Allopathic medicine'] | search | 0.90 |
 | healthcare-pharma | search | 1.00 |
-| supplier_company | search | 0.90 |
-| Amin Pharmacy | search | 0.95 |
-| Astoria | search | 0.90 |
-| ['prescription medicine', 'OTC medicine'] | search | 0.90 |
-| Most insurances accepted | search | 0.85 |
-| Bangladesh | search | 0.95 |
+| Bangladesh | search | 1.00 |
 | Wellbeing Pharmacy | search | 0.95 |
 | community-based | search | 0.90 |
-| ['Compounding', 'Consulting', 'Prescription checking', 'Medication delivery'] | search | 0.90 |
-| ['care', 'precision', 'legality'] | search | 0.85 |
+| ['Compounding', 'Consulting', 'Prescription checking', 'Delivery'] | search | 0.90 |
+| healthcare-pharma | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| Tani Pharmacy | search | 0.95 |
+| Mymensingh, Bangladesh | search | 0.90 |
+| ['Personalized services', 'Local delivery'] | search | 0.90 |
+| healthcare-pharma | search | 1.00 |

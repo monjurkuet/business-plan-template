@@ -1,9 +1,9 @@
 ---
 sector: media-marketing-digital
-last_verified: 2026-07-05
+last_verified: 2026-07-06
 freshness: fresh
-confidence: 0.706
-evidence_ids: ['2578497f-24e', 'bab1436f-0e7', 'f0f16872-bab', '7c54689c-777', '4349dd23-474', '23331cdd-6c2', '7fffeea0-bbc', 'aeca6ed1-5f4', '34164034-d6d', '39f60d33-f2d', '1989eb66-876', '1826a03d-f6e', '02a09871-a64', '996f50e9-bbb', 'd92f8529-7f7', '8a2c0580-15d', 'cbee37e0-592', '8065425d-f85', '4da594bb-496', '3b3fce25-23d']
+confidence: 0.7
+evidence_ids: ['dd13ffb9-6d4', '67971e64-a92', 'a0899e0d-270', '2eb1fb05-46e', '550d926c-642', '84307abe-1d8', '6db76b6d-0e3', 'b6ea74c6-8f7', 'a4c7fc89-404', '41031633-b3a', 'd35bb1b6-9f7', '6026a05d-22e', '242f23b3-77c', '59155357-617', '97bdd85e-d0e', '3a1b6fc2-975', '687a974e-cdb', '477e4487-692', '40ad5d5b-0d9', 'dfe28169-179']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market
@@ -136,17 +136,16 @@ evidence_ids: ['2578497f-24e', 'bab1436f-0e7', 'f0f16872-bab', '7c54689c-777', '
 
 
 
-## Auto-Updated Data (2026-07-05)
+
+## Auto-Updated Data (2026-07-06)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
 | 2026-05-01 | search | 0.90 |
-| ['SEO', 'Facebook Ads', 'Google Ads', 'social media', 'email marketing'] | search | 0.95 |
-| Bangladesh (Dhaka and beyond) | search | 0.95 |
-| Bulk SMS | search | 0.90 |
-| Email Marketing | search | 0.90 |
-| Interactive Voice | search | 0.90 |
-| The best price in digital marketing Bangladesh | search | 0.80 |
-| ['GEEKY SOCIAL LTD.', 'OneLittleWeb', 'BrandViser', 'MonsterClaw LLC', 'Ecomclip | search | 0.95 |
-| ['SEO', 'social media marketing', 'online branding', 'promotion', 'email marketi | search | 0.90 |
-| ['SEO', 'social media marketing', 'online branding', 'promotion', 'email marketi | search | 0.90 |
+| SEO, Facebook Ads, Google Ads, social media, email marketing | search | 1.00 |
+| Bangladesh businesses, Dhaka | search | 1.00 |
+| Bulk SMS, Email Marketing, Interactive Voice | search | 1.00 |
+| best price in digital marketing Bangladesh | search | 0.90 |
+| 4 days ago | search | 1.00 |
+| startup entrepreneurs in Bangladesh | search | 1.00 |
+| SEO, social media marketing, online branding, promotion, email marketing | search | 1.00 |

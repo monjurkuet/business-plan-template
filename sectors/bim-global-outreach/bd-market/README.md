@@ -1,9 +1,9 @@
 ---
 sector: bim-global-outreach
-last_verified: 2026-07-05
+last_verified: 2026-07-06
 freshness: fresh
-confidence: 0.703
-evidence_ids: ['4d0bfe99-c42', '35ea73ea-ded', '07b8899f-5b1', 'bf1b81ba-1ac', '0b440214-bdc', '36117873-a6c', '5d1341dd-550', 'f3b09758-e77', '822777b0-32c', 'c1e526fb-a96', '6c752f4b-475', '84c7e934-e9a', '87a23b9e-03d', '978d5f8c-9b9', '3144fc3b-51f', 'ea622d98-a5f', '9f09c2f4-052', 'ed67c587-e99', '0916ad55-95a', 'e4e3b0e3-20a']
+confidence: 0.752
+evidence_ids: ['552d88c0-e76', '2f26bc21-46f', 'bfdf7497-f9e', '17f2eb5b-711', '3047b0dd-b21', '013fe24f-6e6', '2b0430ee-6d7', '488d8329-bd5', '400d5ea4-ee5', 'e1918bc5-ded', '352381e2-bdd', 'e8fb8b0c-820', '230880a3-7b3', '9afb8a8b-30d', '0f10acdf-ff6', '551d327f-792', 'd4b56fd6-5d9', '6460cc5f-2f8', 'ce25fb9e-37d', '12fec22a-623']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -158,15 +158,23 @@ evidence_ids: ['4d0bfe99-c42', '35ea73ea-ded', '07b8899f-5b1', 'bf1b81ba-1ac', '
 
 
 
-## Auto-Updated Data (2026-07-05)
+
+## Auto-Updated Data (2026-07-06)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| RAJUK-registered | search | 0.90 |
-| Dhaka | search | 0.90 |
-| BNBC-2020 | search | 0.95 |
-| growing faster than ever | search | 0.80 |
-| ['Dhaka', 'Khulna', 'Chattogram'] | search | 0.90 |
-| hundreds | search | 0.80 |
-| significant growth in architecture and construction industry | search | 0.90 |
-| ['urbanization', 'demand for modern infrastructure'] | search | 0.90 |
+| Top 10 interior design companies in Dhaka, Bangladesh | search | 0.90 |
+| Systems architecture firm specializing in building automation-first business eco | search | 0.95 |
+| Bangladesh | search | 0.95 |
+| NBBJ | search | 1.00 |
+| architecture | search | 1.00 |
+| TIME Recognizes NBBJ as Only Architecture Firm Among Its Most Influential Compan | search | 1.00 |
+| Fast Company Honors NBBJ as One of the World’s Most Innovative Architecture Firm | search | 1.00 |
+| PlayOn 24 | search | 0.90 |
+| Information Technology Enabled Services (ITES) and Software & App Development | search | 0.90 |
+| 2016 | search | 0.90 |
+| Junior Project Architect (Architecture) | search | 0.90 |
+| Luminous Engineering | search | 0.90 |
+| Bangladesh | search | 1.00 |
+| Top 10 Architecture Firms in Dhaka | search | 0.90 |
+| Dhaka, Bangladesh | search | 1.00 |
