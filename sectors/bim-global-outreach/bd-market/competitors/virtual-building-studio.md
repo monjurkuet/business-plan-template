@@ -98,14 +98,11 @@ freshness: fresh
 
 
 
-## Recent Findings (2026-07-05)
 
-- **avenuesangma.com** (conf: 0.87): Jan 6, 2026 ·Discover the leading architecturefirmsinBangladesh. Explore the philosophy, sustainability, and iconic projects of thetop10 studios reshaping the nation.
+## Recent Findings (2026-07-05)
 
 - **www.facebook.com** (conf: 0.88): Geometric Architect & Interiors. 22,514 likes · 162 talking about this. Geometric Architect & Interiors is a full-service interior design & exterior design firm inDhaka, Bangladesh. Since 2018, we...J
 
 - **www.facebook.com** (conf: 0.88): Jan 5, 2026 ·SPACE,Dhaka. 2,592 likes · 159 were here. Consultancy, Construction and DevelopmentNakshabid is a progressive and ethical architectural practice. We design with empathy for the human cond
 
-- **www.studiodhakaltd.com** (conf: 0.89): StudioDhakais a multidisciplinary architectural and interior design firm based inDhaka, delivering creative, sustainable, and context-driven design solutions.
-
-- **www.facebook.com** (conf: 0.69): Institute of ArchitectsBangladesh, Dhaka. 39,378 likes · 1,953 talking about this · 9,135 were here. This is the officialFacebookPage of the Institute of ArchitectsBangladesh(IAB).Jun 5, 2026 ·Sthapot
+- **www.studiodhakaltd.com** (conf: 0.88): StudioDhakais a multidisciplinary architectural and interior design firm based inDhaka, delivering creative, sustainable, and context-driven design solutions.

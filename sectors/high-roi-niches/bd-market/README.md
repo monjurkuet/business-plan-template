@@ -2,8 +2,8 @@
 sector: high-roi-niches
 last_verified: 2026-07-05
 freshness: fresh
-confidence: 0.712
-evidence_ids: ['773f393e-7df', 'ee60d15e-eee', 'c1eab2eb-5a0', 'ca1f3c48-311', '76dca391-096', '7950bd03-381', '48cbfd44-e4d', '73428618-f00', 'b10868b9-9cf', 'f2aa2510-aa5', '0379915a-b35', '7dc80f97-e55', 'c6cd45f3-797', '8ccebd52-dc3', 'd785da5b-c31', '6dba5024-81b', '0b00f1fc-76a', 'd52dcb69-80b', 'f7c457de-4c1', 'a2f932a2-3d7']
+confidence: 0.704
+evidence_ids: ['387594b0-b85', '61d2b6dd-9a8', '25846f1a-4ae', '854029d3-090', 'd8acdb87-beb', '47b30d4d-c83', 'ced887c8-c07', 'a1fbccc9-faa', '3d2d91ba-0da', 'bb4b84f0-59f', '22f91bda-5dd', 'eaa2f4e6-54c', '3b5b6777-971', 'd7d5664a-612', 'ba8928b3-52f', 'd00ea16f-f4c', '6f232bf9-305', 'ecda91ea-a3e', '3d152202-939', '35a30fa0-5b2']
 ---
 
 # High-ROI Niches — Bangladesh Market
@@ -131,18 +131,19 @@ This sector captures high-growth, high-margin niche opportunities in Bangladesh.
 
 
 
+
 ## Auto-Updated Data (2026-07-05)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| online pet shop | search | 0.90 |
-| pet supplies delivery | search | 0.90 |
-| best prices | search | 0.80 |
-| Pet Town BD | search | 1.00 |
-| pet care supplies, cat food, toys, grooming products, accessories | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| PawCare | search | 1.00 |
-| online pet shop | search | 1.00 |
-| pet products, food, toys, accessories, delivery | search | 1.00 |
-| affordable prices | search | 0.90 |
-| Bangladesh | search | 1.00 |
+| HIT LIFE cat food | search | 0.90 |
+| grain-free cat food | search | 0.90 |
+| pet care Bangladesh | search | 0.95 |
+| 01912251312 | search | 0.95 |
+| veterinary care | search | 0.90 |
+| pet care Bangladesh | search | 0.95 |
+| PetCareBangladesh | search | 0.90 |
+| managing director | search | 0.90 |
+| MH Imran | search | 0.90 |
+| Agrovet Bio Solutions | search | 0.80 |
+| Bangladesh Veterinary and Pet Care Network (BVPN) | search | 0.80 |

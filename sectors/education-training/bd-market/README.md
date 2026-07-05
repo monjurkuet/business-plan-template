@@ -2,8 +2,8 @@
 sector: education-training
 last_verified: 2026-07-05
 freshness: fresh
-confidence: 0.698
-evidence_ids: ['1fd6d35c-65a', '70d9e1c6-075', 'c641428d-301', '6c9fd1b4-25e', 'ef17a123-beb', '1b1c4833-4c9', '1fa3cbb9-c93', 'a9c96e16-c1f', 'cd41e678-8da', 'fef405c5-e39', '658ab18a-534', '8ccd98d0-f5a', 'b1a22a2a-c21', 'f188f3ed-31b', '2147adc9-093', '2b649bc4-abb', '864f1ac2-a4d', '678cfeb0-3da', '2cda26a3-3bc', 'c88f4463-77f']
+confidence: 0.709
+evidence_ids: ['e1f1257f-270', 'af19e8bd-fea', '36f33763-0b8', '4b6cdec7-0a0', 'b746e836-4dd', 'fd588d82-9b0', 'ea8a09bb-6b5', 'dd2928a3-ee0', 'faf8f28e-6c6', 'dab13197-5c3', 'a8942b3c-7a9', '555c80e6-93c', 'e817db99-c28', '12fd231d-05d', '3afab09a-765', '85bbf4f3-ffa', '3763624e-8d2', '660dc69b-b1c', '10c00cda-ac5', '92263c0d-fcc']
 ---
 
 # Education & Training — Bangladesh Market
@@ -41,16 +41,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-05)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Coaching Classes and Centers | search | 1.00 |
+| Gauri Hindi Academy | search | 0.90 |
+| education-training | search | 1.00 |
+| Online Hindi Classes, CBSE/ICSE coaching, Spoken Hindi | search | 1.00 |
 | Bangladesh | search | 1.00 |
-| top 10 | search | 0.90 |
-| ['Digicon Technologies Ltd', 'E-Learning & Earning LTD', 'U S Software Ltd', 'PM | search | 0.95 |
-| 4654 | search | 0.98 |
-| 2026-04 | search | 0.95 |
-| 4654 | search | 0.98 |
-| 2026-04 | search | 0.95 |
-| ['Your Counselor', 'Jobs On Career'] | search | 0.95 |
+| top-rated tutor, flexible timing, free demo class | search | 0.90 |
+| NCLEX coaching | search | 0.95 |
+| Mantram Nursing Academy | search | 0.90 |
+| education-training | search | 1.00 |
+| Ujjal Coaching Center | search | 0.95 |
+| Jessore Sadar Upazila, Bangladesh | search | 0.90 |
+| Mehedi Islam | search | 0.95 |
+| Jashore University of Science and Technology | search | 0.90 |
+| Easy Coaching Center (E.C.C) | search | 0.95 |
+| Jaleshwaritola, Bogra, Bangladesh | search | 0.95 |
+| WordPress | search | 0.90 |

@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-07-05
 freshness: fresh
-confidence: 0.701
-evidence_ids: ['0f1d9bcf-15d', 'bf1edcdd-a73', '37668b9c-4bd', '805f427a-5d6', 'c2c9d711-ef9', 'fbaeed07-2fa', '82109918-68d', '222594d5-342', '9d442216-0a1', '7d9ec903-0ec', 'e7a7c5e6-c6f', '41fdc202-087', 'cb9f5acb-0f4', '2d74ad29-738', 'f521408c-666', 'eda83292-d28', '9062abea-92f', '5c432d2f-972', 'f49216af-8c2', '4190fdfd-5fb']
+confidence: 0.704
+evidence_ids: ['2b3c36b4-d80', 'd0ad485b-b79', 'bd1ac881-c51', 'af695aa8-715', 'e7685356-7b3', '9d495d8e-616', 'e4f00164-204', 'fa5a9447-23b', '0bc488d4-82a', '46036418-28d', '626548ea-a65', 'acb956ca-e04', '33287bf7-a39', 'a1b28077-215', 'ad447bb4-4aa', '1556f174-b36', 'a4b704e3-7d1', '8efef1a0-d3e', 'fbd6e256-d3b', '8febfce2-628']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -153,11 +153,23 @@ evidence_ids: ['0f1d9bcf-15d', 'bf1edcdd-a73', '37668b9c-4bd', '805f427a-5d6', '
 
 
 
+
 ## Auto-Updated Data (2026-07-05)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
+| COTTON TERRY CLOTH CLEANING RAGS / SHOP TOWELS | search | 0.95 |
+| 300 | search | 0.95 |
+| 12X12 | search | 0.90 |
+| 25 dozen per wholesale pack | search | 0.90 |
+| women black dress | search | 0.95 |
+| M | search | 0.95 |
+| knitted | search | 0.90 |
+| Made In Bangladesh | search | 0.95 |
+| A003056 | search | 0.95 |
+| best price in BD | search | 0.70 |
 | Best prices in home delivery | search | 0.80 |
 | 88 | search | 0.90 |
-| declining | search | 0.80 |
-| oil and gas prices skyrocketing due to Strait of Hormuz closure affecting fast f | search | 0.85 |
+| fell over the past month | search | 0.90 |
+| NY/ICE futures contract | search | 0.90 |
+| 2026-06 | search | 0.80 |

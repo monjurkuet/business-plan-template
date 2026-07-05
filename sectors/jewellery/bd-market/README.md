@@ -2,8 +2,8 @@
 sector: jewellery
 last_verified: 2026-07-05
 freshness: fresh
-confidence: 0.72
-evidence_ids: ['130f6075-acf', 'afe37946-d9c', '38a60882-c78', '7572d3c3-9ae', 'ba4277ac-170', '6c150f9e-e01', '86534ff5-cf1', '9f2db19e-e71', 'dc591298-02b', 'ecef1942-955', 'd69909d6-5b3', '70465273-766', '9e6b5320-5c3', 'ee5b3b76-dd8', '43a976a8-448', 'ae751e7d-628', 'a139fddf-789', 'a9bce57b-666', '94ddc918-c74', '53446bae-9ba']
+confidence: 0.725
+evidence_ids: ['748a70cc-35b', '99692d29-8c6', '268a2f4d-0a6', '8164bbf7-8fa', '15847b21-513', '95d20d7a-df7', 'b7692011-9cf', '91412f06-c8b', 'cca6cb0b-c86', '8a0cd9db-958', 'f0374ca4-348', '1e74ab24-84e', 'ebf8007c-48f', '88844817-d54', 'a9a34e24-30a', 'e6e772db-81c', '80807a0d-f88', '3187bb02-39c', '07cb1983-c42', '167a075e-8e2']
 ---
 
 # Jewellery — Bangladesh Market
@@ -129,18 +129,21 @@ evidence_ids: ['130f6075-acf', 'afe37946-d9c', '38a60882-c78', '7572d3c3-9ae', '
 
 
 
+
 ## Auto-Updated Data (2026-07-05)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Above price changes are impacted on all gold jewellers in Bangladesh. | search | 0.90 |
-| ['churi', 'chain', 'gold bracelet'] | search | 0.95 |
-| All ornaments will be increased or decreased in Bangladesh. | search | 0.90 |
-| 200 to 3000 | search | 0.95 |
-| design and material | search | 0.95 |
-| daily and festive wear | search | 0.95 |
-| affordable | search | 0.90 |
-| 2019-10-11 | search | 0.95 |
-| Jamuna Future Park, Level-2, Block-C, Shop No.36 | search | 0.95 |
+| Above price changes are impacted on all gold jewellers in Bangladesh | search | 0.90 |
+| ['churi', 'chain', 'gold bracelet'] | search | 0.90 |
+| 200 to 3000 | search | 1.00 |
+| Fashion Jewellery for daily and festive wear | search | 0.90 |
+| Diamond World Limited is the most trusted gold and diamond shop in Bangladesh | search | 0.90 |
+| affordable | search | 0.80 |
+| Gaurav Jewellers is one of the most well-known jewellers in Bangladesh | search | 0.90 |
+| 2019-10-11 | search | 1.00 |
+| Jamuna Future Park, Level-2, Block-C, Shop No.36 | search | 1.00 |
+| Al-Amin Jewellers | search | 1.00 |
+| jewellery | search | 1.00 |
+| pioneer in online jewellery shop in Bangladesh | search | 1.00 |
 | best price when buying gold from customers | search | 0.90 |
-| pioneer in online jewellery shop | search | 0.95 |

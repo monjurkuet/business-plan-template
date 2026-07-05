@@ -2,8 +2,8 @@
 sector: agriculture-agro
 last_verified: 2026-07-05
 freshness: fresh
-confidence: 0.69
-evidence_ids: ['1ebea72d-f3a', '6d960ad4-086', 'd0b5417c-c44', '2d4d44e2-295', '2379732a-090', '4b152b5c-4d1', '53d370be-05d', '93bacdb3-5f1', '246dafc7-db3', 'ed16843b-c07', '5e622fcd-585', 'f5e5a5a2-275', 'a2726544-2db', '2892fa14-9b9', 'a044a00e-c9e', '25ea63ed-fcb', '4d786c08-bdb', 'bc82ef20-a32', 'db601d34-3b4', '93245d91-e65']
+confidence: 0.705
+evidence_ids: ['ba79255e-839', '2cd3aa8a-2a1', 'f0edd2c1-518', '3cd7c737-09c', '9ec1ea4f-6bc', '61c22ca8-ce3', 'c144e092-00b', '69fff031-733', '963131d2-e64', '9cc409cf-a8a', 'fce3290f-8e1', '35c67bf9-17f', '5a0df88e-80f', '2243728d-93b', '64b23b26-64e', '15325ac7-c31', '3bb8d058-cfb', '7e67deab-242', '563bc8ef-a7f', 'b025b5a5-d5c']
 ---
 
 # Agriculture & Agro-processing — Bangladesh Market
@@ -42,21 +42,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-05)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Aftab Feed Products Limited | search | 0.95 |
-| high-quality livestock feed, indirectly related to fertilizer through agricultur | search | 0.90 |
-| ['Organic Nutrition Ltd.', 'Aftab Feed Products Limited'] | search | 0.95 |
-| organic fertilizer | search | 0.98 |
-| Bangladesh | search | 1.00 |
-| ACI Fertilizer | search | 0.98 |
-| fertilizer | search | 0.95 |
-| ['organic fertilizer', 'macro & micronutrient', 'foliar fertilizers'] | search | 0.95 |
-| Bangladesh | search | 1.00 |
-| fertilizer manufacturers | search | 0.98 |
-| Bangladesh | search | 1.00 |
-| ['quality fertilizers', 'NPK fertilizer', 'agro fertilizer', 'organic fertilizer | search | 0.90 |
-| fertilizers | search | 0.95 |
-| Iran war | search | 0.98 |
+| 1.7 | search | 0.95 |
+| 12 | search | 0.95 |
+| Morocco | search | 0.95 |
+| 483 | search | 0.95 |
+| 2021 | search | 0.95 |
+| Neptune's Harvest Fish & Seaweed Liquid Fertilizer | search | 0.95 |
+| FS136 32 Oz. Fish & Seaweed Blend Fertilizer 2-3-1 | search | 0.95 |
+| organic fertilizer | search | 0.95 |
+| Ubuy Bangladesh | search | 0.95 |
+| Syngenta Bangladesh Limited | search | 0.95 |
+| সিনজেন্টা বাংলাদেশ লিমিটেড | search | 0.95 |
+| Supreme Seeds Company Limited | search | 0.95 |
+| সুপ্রিম সীড কোম্পানি লি. | search | 0.95 |
+| Surovi Agro Industries Ltd. | search | 0.95 |
+| Bangladesh Agricultural And Forest Development Ltd. | search | 0.95 |

@@ -2,8 +2,8 @@
 sector: construction-real-estate
 last_verified: 2026-07-05
 freshness: fresh
-confidence: 0.706
-evidence_ids: ['d9950417-9a4', '66045629-d5a', '3ca8aded-136', '448e865c-a57', '97168bff-f72', 'd4987ff3-fe4', '395f591b-9c1', 'd908e168-755', '5ff004cc-a3b', '0f5c3b6c-e79', '24b864cb-27f', '14afcd1e-e10', '3a16d1bb-ed4', '368008d7-671', '8f6f14af-824', 'a5e1b570-532', '6f8000e5-87f', 'a5aac905-784', 'e1a82148-c9e', 'da4f346f-0e0']
+confidence: 0.701
+evidence_ids: ['8dfaafb3-bc1', 'd6ef3f3a-dfd', 'e3ce7d72-476', '7b63cc59-be4', '588856ad-933', '46287c34-d2d', '80b618f6-2c3', 'c9ab94ae-30a', 'a7af812e-ace', '25fc1963-194', '2afa8725-847', 'd161a478-476', '108a36c2-8ba', 'f91f8d7a-17d', '4e884fe3-bda', 'cea5e521-e1a', '1aaa7878-0fa', '5b2270ab-cdc', '23251db0-308', 'b07754cb-b47']
 ---
 
 # Construction & Real Estate — Bangladesh Market
@@ -42,21 +42,19 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-05)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Small, medium and large family owned conglomerates dominate Bangladesh's economy | search | 1.00 |
-| Most businesses in Bangladesh are grouped as conglomerates | search | 1.00 |
-| building material suppliers | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| ['CHB Engineering Ltd.', 'Alibaba Construction Ltd.'] | search | 1.00 |
-| 2026 | search | 0.90 |
+| conglomerates dominate Bangladesh's economy | search | 0.95 |
+| family owned conglomerates | search | 0.90 |
+| ['CHB Engineering Ltd.', 'Alibaba Construction Ltd.'] | search | 0.95 |
 | RFL | search | 1.00 |
-| largest building materials supplier | search | 0.95 |
+| Largest building materials supplier in Bangladesh | search | 0.95 |
 | www.rflbd.com | search | 1.00 |
-| [{'company_name': 'Noman Group', 'estimated_revenue': '24.2B', 'unit': 'USD'}, { | search | 0.95 |
+| [{'company_name': 'Noman Group', 'estimated_revenue': '$24.2B', 'unit': 'USD', ' | search | 0.95 |
 | 2026-07 | search | 0.90 |
 | Bangladesh’s construction industry is one of the fastest-growing sectors in the  | search | 0.95 |
-| The Bangladesh limestone market is experiencing steady growth driven by the coun | search | 0.95 |
+| Bangladesh limestone market is experiencing steady growth driven by the country' | search | 0.95 |
 | Limestone is a key raw material used in cement production and is also utilized i | search | 0.95 |

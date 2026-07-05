@@ -2,8 +2,8 @@
 sector: travel-tourism
 last_verified: 2026-07-05
 freshness: fresh
-confidence: 0.705
-evidence_ids: ['dec017ce-8fd', '7ffcbdd3-d1a', 'dfefb8be-708', '5bb274fb-74a', '726db221-bcd', '9d3c969a-e57', '8abc9474-81f', 'a33ae5cb-72d', 'a41dbfec-596', '221cbedc-13b', 'd0a134ec-985', '4eee45ba-ab5', 'e781bec7-b62', '979e7a8d-4b0', '57c5c3bd-a7d', 'e9bf6913-9ec', '4c0d8f6b-19d', 'f061c203-eec', '80e80f10-4a3', '310ca758-d4d']
+confidence: 0.7
+evidence_ids: ['c39e8fb4-43b', '06d7a16a-955', 'af2b2c69-e97', 'a51c654e-ce0', '4007640e-a07', '764010c6-aec', 'd90f4ece-7b5', 'a9b3a43a-be9', '2f24cea9-593', '108fc772-588', '804c50ef-bd6', '20b28af4-9ea', 'de8ae663-856', '140629fd-252', 'e54e45e8-ca1', '439e5836-67f', '8066acb8-d91', 'a172acd9-c61', 'da6d9e9d-1a3', '66665b22-d77']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -117,17 +117,23 @@ evidence_ids: ['dec017ce-8fd', '7ffcbdd3-d1a', 'dfefb8be-708', '5bb274fb-74a', '
 
 
 
+
 ## Auto-Updated Data (2026-07-05)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| goFLY Limited | search | 1.00 |
-| IATA-certified | search | 1.00 |
-| Dhaka, Bangladesh | search | 1.00 |
-| 2017 | search | 1.00 |
-| Helping Bangladeshi travelers explore the world with honest service, affordable  | search | 0.95 |
-| smooth, safe, and affordable journey | search | 0.90 |
-| ['air ticketing', 'visa processing', 'holiday packages', 'global tours'] | search | 0.95 |
-| best rates | search | 0.85 |
-| ['air tickets', 'hotels', 'tour packages'] | search | 0.95 |
-| 1315 | search | 0.90 |
+| affordable tour packages | search | 0.90 |
+| air tickets | search | 0.90 |
+| visa support | search | 0.90 |
+| Eammu Holidays | search | 0.95 |
+| #1 travel agency in Bangladesh | search | 0.90 |
+| tourist visas | search | 0.90 |
+| student visas | search | 0.90 |
+| work visas | search | 0.90 |
+| Umrah packages 2026 | search | 0.90 |
+| international flights | search | 0.90 |
+| holiday tours to Dubai, Georgia, Armenia & Europe | search | 0.90 |
+| study abroad, visa services, cheap air tickets | search | 0.90 |
+| ['UK', 'Canada', 'Russia', 'USA'] | search | 0.90 |
+| Hajj & Umrah packages, visa services (medical, student, visit), flight bookings, | search | 0.95 |
+| 2020 | search | 0.95 |

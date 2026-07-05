@@ -2,8 +2,8 @@
 sector: electronics-gadgets
 last_verified: 2026-07-05
 freshness: fresh
-confidence: 0.701
-evidence_ids: ['6ff8defa-e8b', 'b9b2e111-17e', '4f05b420-0d1', '4071581e-d10', 'aafafb65-072', 'c74e50a7-349', '8c58afc4-bb4', '55257411-fba', '665c0a1c-83c', '84330f91-b9a', '835fbdb3-d0e', 'bbda0aaf-8c7', '9d23b2b4-c5f', '073a357b-3a3', '158fd164-2ef', '338b4629-889', '26eaf997-d71', '03d8e4a4-407', 'ef8cf5ee-e78', 'cce25a29-bd8']
+confidence: 0.723
+evidence_ids: ['df757d3b-806', '52c72625-62d', '74f32ae2-2fd', 'f6564756-b61', '25d1d497-df0', 'd5dea954-8b2', 'fba921b5-c59', '9134d32f-713', '44a05b34-dbf', 'd9432479-052', '404dcb9f-b94', '41528fb6-011', '45d9bbf8-7c7', '5b4c62f5-42f', 'bc9aa7c3-85c', '2c03844b-d60', '6df6c305-e0b', '147fb37c-006', 'a8c52a93-974', 'c485fae6-24f']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -141,15 +141,23 @@ evidence_ids: ['6ff8defa-e8b', 'b9b2e111-17e', '4f05b420-0d1', '4071581e-d10', '
 
 
 
+
 ## Auto-Updated Data (2026-07-05)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ['ACs', 'refrigerators', 'washing machines', 'smart TVs', 'ovens'] | search | 1.00 |
-| ['official warranty', 'EMI facilities', 'fast home delivery'] | search | 1.00 |
-| authorized multi-brand electronics retailer | search | 1.00 |
-| ['authentic products', 'official warranty', '0% EMI'] | search | 1.00 |
-| 16 | search | 1.00 |
-| Redzent Online Shopping | search | 0.90 |
-| ['premium electronics', 'Smart TV', 'Air Conditions', 'home gadgets', 'lifestyle | search | 0.90 |
-| ['fast delivery', 'authentic products', 'unbeatable prices'] | search | 0.90 |
+| smartphones | search | 0.95 |
+| ['Samsung', 'Xiaomi', 'OnePlus', 'Vivo', 'HONOR', 'Infinix', 'Tecno'] | search | 0.95 |
+| 100% genuine with official warranty | search | 0.95 |
+| competitive | search | 0.90 |
+| TV & Home Appliances | search | 0.95 |
+| energy-efficient, convenient, durable | search | 0.90 |
+| 2026-04-06 | search | 0.95 |
+| ['homes', 'businesses'] | search | 0.90 |
+| Electronics Bangladesh | Dhaka | search | 0.95 |
+| 53345 | search | 0.95 |
+| 16960 | search | 0.95 |
+| 5 | search | 0.95 |
+| ['TVs', 'fridges', 'ACs'] | search | 0.95 |
+| 14,699 - 31,899 | search | 0.95 |
+| mobile phones | search | 0.95 |

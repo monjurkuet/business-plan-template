@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-07-05
 freshness: fresh
-confidence: 0.74
-evidence_ids: ['578277ac-7c8', 'b684ffe1-f48', 'ce495ce1-d9e', '30f8f3f8-d82', '28bfed47-ef8', '875a7f69-e1b', 'b4a14156-49d', '690afb74-a4f', '8709fcbe-ca4', 'ab7eb701-7d5', '619bd849-20b', 'a41085ac-09c', 'ed79e716-e78', '3d848dfe-f9c', '98699259-aef', '4d289080-ca3', '90e2eae2-956', 'bb26c5ec-68c', 'ef98ed23-a25', '8b465194-c6f']
+confidence: 0.742
+evidence_ids: ['1fbb2616-99d', '6fed12ad-7d5', '393e6aba-dfe', '50f91f58-b8d', '285b8612-4ca', '3e592cf7-ac6', '1eac090a-f06', '2666aba4-8c3', 'd6c88f01-8b4', '528cefe2-bd4', '90395b7f-16e', 'bc5be893-6fe', '97bfb3dc-a16', '6f22f059-ba6', 'd4645ffd-d2c', 'ba4b53ac-5e0', '202533f6-6b9', 'faf322d9-b1b', 'c2ca1f1f-7c2', 'cdce3c93-886']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -156,22 +156,23 @@ evidence_ids: ['578277ac-7c8', 'b684ffe1-f48', 'ce495ce1-d9e', '30f8f3f8-d82', '
 
 
 
+
 ## Auto-Updated Data (2026-07-05)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| RAJUK-registered | search | 0.95 |
-| sustainable architecture | search | 0.90 |
-| Dhaka | search | 0.95 |
-| sustainability | search | 0.90 |
-| reshaping the nation through architecture | search | 0.85 |
-| BNBC-2020 | search | 0.95 |
-| transparent pricing | search | 0.90 |
-| reliable project delivery | search | 0.90 |
-| ['Dhaka', 'Khulna', 'Chattogram'] | search | 0.95 |
-| growing faster than ever | search | 0.85 |
-| significant growth in architecture and construction industry | search | 0.95 |
-| ['urbanization', 'demand for modern infrastructure'] | search | 0.90 |
-| innovative and sustainable design solutions | search | 0.90 |
-| Geometric Architect & Interiors | search | 0.95 |
-| 22514 | search | 0.95 |
+| interior design | search | 0.95 |
+| Dhaka, Bangladesh | search | 0.95 |
+| top 10 interior design companies | search | 0.95 |
+| examined achievements and portfolios of interior design companies | search | 0.90 |
+| Globats | search | 0.95 |
+| systems architecture, building automation-first business ecosystems | search | 0.90 |
+| Bangladesh | search | 0.95 |
+| architecture firm | search | 0.95 |
+| NBBJ | search | 0.95 |
+| TIME's Most Influential Companies List (only architecture firm recognized) | search | 0.90 |
+| Fast Company's World’s Most Innovative Architecture Firms (fifth time honored) | search | 0.90 |
+| architecture and design firm | search | 0.95 |
+| EYRC Architects | search | 0.95 |
+| Ehrlich Architects | search | 0.95 |
+| modern residential and commercial architecture | search | 0.90 |
