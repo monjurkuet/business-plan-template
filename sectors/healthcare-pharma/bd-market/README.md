@@ -2,8 +2,8 @@
 sector: healthcare-pharma
 last_verified: 2026-07-05
 freshness: fresh
-confidence: 0.671
-evidence_ids: ['5d9a077a-f3c', '6ce44043-ee6', 'd3d46a66-2d7', 'b46d304c-63b', '643de606-322', '0b3457c1-d7b', '915779f7-52b', '82bafc6c-0ee', 'b733bc84-a0e', 'e90c202d-f57', '1f095e80-c10', '57bad722-dbe', '9f4c35a6-658', '88cec21a-264', 'c8f1b6fc-392', '5d0da15a-e10', 'b6b75abf-e95', '1bfaa91f-3d6', '576a57e6-976', 'ee88d598-ad7']
+confidence: 0.703
+evidence_ids: ['21a47f27-ebd', 'd07c5b1c-9f5', 'a8955c2f-f76', '41d77987-40a', '7495ee4d-0cd', 'c6ef5599-651', 'e49e8544-106', 'd0c81fc8-b58', '33c484d9-103', 'd8ef9986-bdc', '2f2c7f10-49f', '3fa65355-3f7', '6c1ab681-d14', '969d9d2d-aaf', 'dcd83063-204', 'fe5a5a42-052', '6f5b527c-413', '93ae26b8-a34', '7a42e925-a1d', '999772db-6b8']
 ---
 
 # Healthcare & Pharma — Bangladesh Market
@@ -42,19 +42,21 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-05)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
 | Medisafe Pharmacy | search | 0.95 |
+| ['Medical device', 'Natural medicine', 'Allopathic medicine'] | search | 0.90 |
 | healthcare-pharma | search | 1.00 |
-| ['Medical device', 'Natural medicine', 'Allopathic medicine'] | search | 0.95 |
 | supplier_company | search | 0.90 |
+| Amin Pharmacy | search | 0.95 |
+| Astoria | search | 0.90 |
+| ['prescription medicine', 'OTC medicine'] | search | 0.90 |
+| Most insurances accepted | search | 0.85 |
+| Bangladesh | search | 0.95 |
 | Wellbeing Pharmacy | search | 0.95 |
-| healthcare-pharma | search | 1.00 |
-| community-based pharmacy | search | 0.95 |
-| ['Compounding', 'Consulting', 'Prescription checking', 'Delivery of prescription | search | 0.95 |
-| Tani Pharmacy | search | 0.95 |
-| Mymensingh, Bangladesh | search | 0.95 |
-| healthcare-pharma | search | 1.00 |
-| ['Personalized services', 'Local delivery'] | search | 0.90 |
+| community-based | search | 0.90 |
+| ['Compounding', 'Consulting', 'Prescription checking', 'Medication delivery'] | search | 0.90 |
+| ['care', 'precision', 'legality'] | search | 0.85 |

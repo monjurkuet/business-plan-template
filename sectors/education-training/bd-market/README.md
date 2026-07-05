@@ -2,8 +2,8 @@
 sector: education-training
 last_verified: 2026-07-05
 freshness: fresh
-confidence: 0.709
-evidence_ids: ['e1f1257f-270', 'af19e8bd-fea', '36f33763-0b8', '4b6cdec7-0a0', 'b746e836-4dd', 'fd588d82-9b0', 'ea8a09bb-6b5', 'dd2928a3-ee0', 'faf8f28e-6c6', 'dab13197-5c3', 'a8942b3c-7a9', '555c80e6-93c', 'e817db99-c28', '12fd231d-05d', '3afab09a-765', '85bbf4f3-ffa', '3763624e-8d2', '660dc69b-b1c', '10c00cda-ac5', '92263c0d-fcc']
+confidence: 0.705
+evidence_ids: ['ebaaec19-345', 'c0bd84fb-6d2', 'a5b3b211-cff', 'b339a9ec-4e2', 'e9a12abd-340', '087f44e1-14f', '2271d7b1-d5e', '4c2ec051-6da', '587bb7c5-4c7', '25b75c31-7f0', '3008440b-849', '96327827-2b8', '21edb331-ad6', '48f1e1f9-4ca', '8955bb92-eb0', '23ced07b-467', '27215e81-e01', 'bfb4a9de-120', '26f90fa3-35d', '1ab96a85-5c1']
 ---
 
 # Education & Training — Bangladesh Market
@@ -42,22 +42,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-05)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Gauri Hindi Academy | search | 0.90 |
-| education-training | search | 1.00 |
-| Online Hindi Classes, CBSE/ICSE coaching, Spoken Hindi | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| top-rated tutor, flexible timing, free demo class | search | 0.90 |
-| NCLEX coaching | search | 0.95 |
-| Mantram Nursing Academy | search | 0.90 |
-| education-training | search | 1.00 |
-| Ujjal Coaching Center | search | 0.95 |
-| Jessore Sadar Upazila, Bangladesh | search | 0.90 |
-| Mehedi Islam | search | 0.95 |
-| Jashore University of Science and Technology | search | 0.90 |
-| Easy Coaching Center (E.C.C) | search | 0.95 |
-| Jaleshwaritola, Bogra, Bangladesh | search | 0.95 |
-| WordPress | search | 0.90 |
+| Medico Coaching Center | search | 1.00 |
+| coaching services | search | 1.00 |
+| ['offline', 'online'] | search | 1.00 |
+| Medical and University Admission Test preparation | search | 1.00 |
+| Enroute Center for Development | search | 1.00 |
+| executive training | search | 1.00 |
+| tailored individual and group training for all employee levels | search | 1.00 |
+| RR IT Support | search | 0.90 |
+| IT consulting | search | 0.90 |
+| FutureLeaders (FLS) | search | 1.00 |
+| leadership and soft skills training | search | 1.00 |
+| no.1 outdoor training provider in Bangladesh | search | 1.00 |
+| outdoor training (Outbound/Adventure training) | search | 1.00 |
+| ['top MNCs', 'national companies'] | search | 1.00 |
+| 2026-02-04 | search | 1.00 |

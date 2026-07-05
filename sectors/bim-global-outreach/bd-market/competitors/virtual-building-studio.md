@@ -99,10 +99,9 @@ freshness: fresh
 
 
 
+
 ## Recent Findings (2026-07-05)
 
-- **www.facebook.com** (conf: 0.88): Geometric Architect & Interiors. 22,514 likes · 162 talking about this. Geometric Architect & Interiors is a full-service interior design & exterior design firm inDhaka, Bangladesh. Since 2018, we...J
+- **avenuesangma.com** (conf: 0.69): Jan 6, 2026 ·Discover the leading architecturefirmsinBangladesh. Explore the philosophy, sustainability, and iconic projects of thetop10 studios reshaping the nation.
 
-- **www.facebook.com** (conf: 0.88): Jan 5, 2026 ·SPACE,Dhaka. 2,592 likes · 159 were here. Consultancy, Construction and DevelopmentNakshabid is a progressive and ethical architectural practice. We design with empathy for the human cond
-
-- **www.studiodhakaltd.com** (conf: 0.88): StudioDhakais a multidisciplinary architectural and interior design firm based inDhaka, delivering creative, sustainable, and context-driven design solutions.
+- **www.archilovers.com** (conf: 0.69): Founded in 2005, Marina Tabassum Architects (MTA) is an internationally recognisedarchitectureand studio-based practice located inDhaka, Bangladesh.

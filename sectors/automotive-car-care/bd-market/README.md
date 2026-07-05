@@ -2,8 +2,8 @@
 sector: automotive-car-care
 last_verified: 2026-07-05
 freshness: fresh
-confidence: 0.681
-evidence_ids: ['d23ec7eb-d4e', '3b1eb455-b4f', 'e10bb511-d0b', '75602adb-b44', '50fdb5b0-66f', 'c714acaa-7a7', '6f8be4fa-3c2', '83b489f2-492', '897b9925-2ca', 'df872075-b57', '93d0f858-c5b', 'eaaaa427-b88', '593d9c4e-791', '51c42383-9fc', '15e4e9b5-07d', 'f2bfac75-1b7', '26856dde-550', '0a1a920f-8ad', '307aef9d-be4', '75fbb102-46b']
+confidence: 0.713
+evidence_ids: ['f53a48d8-35c', 'b8e8d2f7-028', '097bfdf1-d52', 'e67c2f2c-826', '41845308-e3e', '0eabdb36-600', 'fd5a8d2f-1b0', 'aa0cdf9a-861', '1816b44a-bb1', '60abf31f-c93', '7106dcb6-0d6', 'd017b607-f6b', '736ac73e-82b', '3f7dac45-c8b', 'b8170cc5-52e', '3a72f843-1f3', '73918258-cf7', 'fd41b9eb-cc8', 'cd443e28-48f', 'a62253c8-b58']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -167,12 +167,20 @@ evidence_ids: ['d23ec7eb-d4e', '3b1eb455-b4f', 'e10bb511-d0b', '75602adb-b44', '
 
 
 
+
 ## Auto-Updated Data (2026-07-05)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Free Bike & Car Wash with Kärcher Machines | search | 0.90 |
-| Savar, Dhaka, Bangladesh | search | 0.95 |
-| Demo showcasing Germany’s No.1 cleaning technology | search | 0.90 |
-| Premium car wash services | search | 0.90 |
-| Clients pay top prices for detailing and quality care | search | 0.85 |
+| Dhaka, Bangladesh | search | 1.00 |
+| ['car wash', 'polish'] | search | 1.00 |
+| 900 | search | 0.95 |
+| 2500 | search | 0.95 |
+| Exterior wash | search | 0.95 |
+| Interior deep cleaning | search | 0.95 |
+| Basic Car Wash | search | 0.95 |
+| Premium Car Wash | search | 0.95 |
+| Pressure Wash with Foam, Interior Dry Vacuum, General Wiping | search | 0.90 |
+| Car detailing services in Dhaka, Bangladesh, tailored for eco-conscious drivers  | search | 0.90 |
+| Affordable price | search | 0.85 |
+| Eco-friendly | search | 0.90 |

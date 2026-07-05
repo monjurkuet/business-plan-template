@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-07-05
 freshness: fresh
-confidence: 0.704
-evidence_ids: ['2b3c36b4-d80', 'd0ad485b-b79', 'bd1ac881-c51', 'af695aa8-715', 'e7685356-7b3', '9d495d8e-616', 'e4f00164-204', 'fa5a9447-23b', '0bc488d4-82a', '46036418-28d', '626548ea-a65', 'acb956ca-e04', '33287bf7-a39', 'a1b28077-215', 'ad447bb4-4aa', '1556f174-b36', 'a4b704e3-7d1', '8efef1a0-d3e', 'fbd6e256-d3b', '8febfce2-628']
+confidence: 0.716
+evidence_ids: ['dd1f5b60-f97', 'c62b44b2-072', '58a62df5-77f', '88aa1e66-3a9', '79755e86-ac5', 'd34822bc-bfb', 'cef191fe-842', '53d30b21-c7b', '1239ef48-4f3', '855c0148-e45', 'f9c6625b-876', 'aeb43927-2e1', 'a9ccfa83-f5b', 'b2a43941-b9c', '9a9483e4-3ab', '42a45ccb-3e7', 'b586e70b-657', '21b289f9-3d6', '4b675655-d84', '9a611ab7-9ef']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -154,22 +154,17 @@ evidence_ids: ['2b3c36b4-d80', 'd0ad485b-b79', 'bd1ac881-c51', 'af695aa8-715', '
 
 
 
+
 ## Auto-Updated Data (2026-07-05)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| COTTON TERRY CLOTH CLEANING RAGS / SHOP TOWELS | search | 0.95 |
-| 300 | search | 0.95 |
-| 12X12 | search | 0.90 |
-| 25 dozen per wholesale pack | search | 0.90 |
-| women black dress | search | 0.95 |
-| M | search | 0.95 |
-| knitted | search | 0.90 |
-| Made In Bangladesh | search | 0.95 |
-| A003056 | search | 0.95 |
-| best price in BD | search | 0.70 |
-| Best prices in home delivery | search | 0.80 |
-| 88 | search | 0.90 |
-| fell over the past month | search | 0.90 |
-| NY/ICE futures contract | search | 0.90 |
+| 300 COTTON TERRY CLOTH CLEANING RAGS / SHOP TOWELS / 12X12- 25 DOZ. / WHOLESALE | search | 0.90 |
+| RD style women black dress warm size M Knitted Made In Bangladesh | search | 0.90 |
+| baggy pants | search | 0.95 |
+| affordable price, best baggy pants in BD, online clothing shop Bangladesh, home  | search | 0.90 |
+| free shipping, fast delivery, free return | search | 0.95 |
+| best factory prices and the highest-quality custom apparel | search | 0.90 |
+| 88 | search | 0.95 |
 | 2026-06 | search | 0.80 |
+| closure of the Strait of Hormuz continues to send oil and gas prices skyrocketin | search | 0.90 |

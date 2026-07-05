@@ -1,47 +1,58 @@
 {
-  "generated_at": "2026-07-05T06:02:11.697790+00:00",
-  "total_files": 473,
-  "sectors_audited": 15,
+  "generated_at": "2026-07-05T15:11:59.649572+00:00",
+  "total_files": 474,
+  "sectors_audited": 16,
   "all_missing_files": [
     "agriculture-agro/competitors/ (directory)",
     "construction-real-estate/competitors/ (directory)",
     "education-training/competitors/ (directory)",
     "food-beverage/competitors/ (directory)",
     "healthcare-pharma/competitors/ (directory)",
-    "logistics-transport/competitors/ (directory)"
+    "logistics-transport/competitors/ (directory)",
+    "service-agents-distribution/go-to-market.md",
+    "service-agents-distribution/risk-register.md",
+    "service-agents-distribution/strategy-canvas.md",
+    "service-agents-distribution/regulatory.md",
+    "service-agents-distribution/pricing-guide.md",
+    "service-agents-distribution/sentiment-analysis.md",
+    "service-agents-distribution/seasonality.md",
+    "service-agents-distribution/research/landscape-report.md",
+    "service-agents-distribution/competitors/ (directory)"
   ],
   "all_stale_references": [
-    "automotive-car-care: 2024",
-    "automotive-car-care: 2025",
     "automotive-car-care: 2023",
-    "bim-global-outreach: 2024",
+    "automotive-car-care: 2025",
+    "automotive-car-care: 2024",
     "bim-global-outreach: 2025",
-    "clothing-fashion: 2024",
-    "clothing-fashion: 2025",
+    "bim-global-outreach: 2024",
     "clothing-fashion: 2023",
-    "crypto-bitcoin: 2024",
-    "crypto-bitcoin: 2025",
+    "clothing-fashion: 2025",
+    "clothing-fashion: 2024",
     "crypto-bitcoin: 2023",
-    "electronics-gadgets: 2024",
-    "electronics-gadgets: 2025",
+    "crypto-bitcoin: 2025",
+    "crypto-bitcoin: 2024",
     "electronics-gadgets: 2023",
+    "electronics-gadgets: 2025",
+    "electronics-gadgets: 2024",
     "food-beverage: 2025",
     "healthcare-pharma: 2025",
-    "high-roi-niches: 2024",
-    "high-roi-niches: 2025",
     "high-roi-niches: 2023",
-    "jewellery: 2024",
-    "jewellery: 2025",
+    "high-roi-niches: 2025",
+    "high-roi-niches: 2024",
     "jewellery: 2023",
+    "jewellery: 2025",
+    "jewellery: 2024",
     "logistics-transport: 2025",
-    "media-marketing-digital: 2024",
-    "media-marketing-digital: 2025",
     "media-marketing-digital: 2023",
-    "travel-tourism: 2024",
+    "media-marketing-digital: 2025",
+    "media-marketing-digital: 2024",
+    "travel-tourism: 2023",
     "travel-tourism: 2025",
-    "travel-tourism: 2023"
+    "travel-tourism: 2024"
   ],
-  "all_frontmatter_missing": [],
+  "all_frontmatter_missing": [
+    "service-agents-distribution/README.md"
+  ],
   "sector_audits": [
     {
       "sector": "agriculture-agro",
@@ -82,9 +93,9 @@
       ],
       "missing_files": [],
       "stale_references": [
-        "2024",
+        "2023",
         "2025",
-        "2023"
+        "2024"
       ],
       "frontmatter_missing": [],
       "competitor_count": 12,
@@ -107,8 +118,8 @@
       ],
       "missing_files": [],
       "stale_references": [
-        "2024",
-        "2025"
+        "2025",
+        "2024"
       ],
       "frontmatter_missing": [],
       "competitor_count": 12,
@@ -132,9 +143,9 @@
       ],
       "missing_files": [],
       "stale_references": [
-        "2024",
+        "2023",
         "2025",
-        "2023"
+        "2024"
       ],
       "frontmatter_missing": [],
       "competitor_count": 8,
@@ -182,9 +193,9 @@
       ],
       "missing_files": [],
       "stale_references": [
-        "2024",
+        "2023",
         "2025",
-        "2023"
+        "2024"
       ],
       "frontmatter_missing": [],
       "competitor_count": 11,
@@ -232,9 +243,9 @@
       ],
       "missing_files": [],
       "stale_references": [
-        "2024",
+        "2023",
         "2025",
-        "2023"
+        "2024"
       ],
       "frontmatter_missing": [],
       "competitor_count": 7,
@@ -310,9 +321,9 @@
       ],
       "missing_files": [],
       "stale_references": [
-        "2024",
+        "2023",
         "2025",
-        "2023"
+        "2024"
       ],
       "frontmatter_missing": [],
       "competitor_count": 7,
@@ -336,9 +347,9 @@
       ],
       "missing_files": [],
       "stale_references": [
-        "2024",
+        "2023",
         "2025",
-        "2023"
+        "2024"
       ],
       "frontmatter_missing": [],
       "competitor_count": 6,
@@ -388,9 +399,9 @@
       ],
       "missing_files": [],
       "stale_references": [
-        "2024",
+        "2023",
         "2025",
-        "2023"
+        "2024"
       ],
       "frontmatter_missing": [],
       "competitor_count": 7,
@@ -398,6 +409,32 @@
       "files_expected": 9,
       "files_present": 9,
       "health_score": 0.91
+    },
+    {
+      "sector": "service-agents-distribution",
+      "present_files": [
+        "README.md"
+      ],
+      "missing_files": [
+        "go-to-market.md",
+        "risk-register.md",
+        "strategy-canvas.md",
+        "regulatory.md",
+        "pricing-guide.md",
+        "sentiment-analysis.md",
+        "seasonality.md",
+        "research/landscape-report.md",
+        "competitors/ (directory)"
+      ],
+      "stale_references": [],
+      "frontmatter_missing": [
+        "README.md"
+      ],
+      "competitor_count": 0,
+      "competitor_target": 15,
+      "files_expected": 9,
+      "files_present": 1,
+      "health_score": 0.056
     },
     {
       "sector": "travel-tourism",
@@ -414,9 +451,9 @@
       ],
       "missing_files": [],
       "stale_references": [
-        "2024",
+        "2023",
         "2025",
-        "2023"
+        "2024"
       ],
       "frontmatter_missing": [],
       "competitor_count": 7,

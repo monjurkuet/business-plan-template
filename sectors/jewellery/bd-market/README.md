@@ -2,8 +2,8 @@
 sector: jewellery
 last_verified: 2026-07-05
 freshness: fresh
-confidence: 0.725
-evidence_ids: ['748a70cc-35b', '99692d29-8c6', '268a2f4d-0a6', '8164bbf7-8fa', '15847b21-513', '95d20d7a-df7', 'b7692011-9cf', '91412f06-c8b', 'cca6cb0b-c86', '8a0cd9db-958', 'f0374ca4-348', '1e74ab24-84e', 'ebf8007c-48f', '88844817-d54', 'a9a34e24-30a', 'e6e772db-81c', '80807a0d-f88', '3187bb02-39c', '07cb1983-c42', '167a075e-8e2']
+confidence: 0.705
+evidence_ids: ['900c32c6-7c2', '9e99e93e-91d', '74ecc31a-b14', '9b93f245-1ca', 'cf9e48fa-c17', '51101dc7-6c9', '0403d954-16c', '7c5dbff4-334', 'cb855c98-1ba', '511b7436-43b', '27dfc638-d4a', '81cdc3c4-7f7', '5ad98543-0bc', 'a9213543-d71', '402b7b8c-046', '0f840f49-c3d', '5bb9c29c-306', '8b753969-8d8', 'c802a6d7-d1c', '87507bf1-90c']
 ---
 
 # Jewellery — Bangladesh Market
@@ -130,20 +130,13 @@ evidence_ids: ['748a70cc-35b', '99692d29-8c6', '268a2f4d-0a6', '8164bbf7-8fa', '
 
 
 
+
 ## Auto-Updated Data (2026-07-05)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Above price changes are impacted on all gold jewellers in Bangladesh | search | 0.90 |
-| ['churi', 'chain', 'gold bracelet'] | search | 0.90 |
-| 200 to 3000 | search | 1.00 |
-| Fashion Jewellery for daily and festive wear | search | 0.90 |
-| Diamond World Limited is the most trusted gold and diamond shop in Bangladesh | search | 0.90 |
-| affordable | search | 0.80 |
-| Gaurav Jewellers is one of the most well-known jewellers in Bangladesh | search | 0.90 |
-| 2019-10-11 | search | 1.00 |
-| Jamuna Future Park, Level-2, Block-C, Shop No.36 | search | 1.00 |
-| Al-Amin Jewellers | search | 1.00 |
-| jewellery | search | 1.00 |
-| pioneer in online jewellery shop in Bangladesh | search | 1.00 |
-| best price when buying gold from customers | search | 0.90 |
+| 377 | search | 0.90 |
+| jhumka earrings | search | 0.95 |
+| Bangladesh | search | 0.90 |
+| 32 | search | 0.80 |
+| ['gold', 'silver', 'diamond', 'antique', 'earthen', 'wooden'] | search | 0.90 |

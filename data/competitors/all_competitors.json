@@ -2283,19 +2283,15 @@
       "name": "daraz",
       "sector": "electronics-gadgets",
       "frontmatter": {
-        "entity_type": "competitor",
         "sector": "electronics-gadgets",
-        "entity_slug": "2026-05-06-daraz",
-        "last_verified_at": "2026-06-25T12:00:00Z",
-        "freshness_status": "fresh",
-        "confidence_score": "0.50",
-        "primary_sources": "- []"
+        "last_verified": "2026-07-05",
+        "freshness": "fresh"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-daraz",
-      "last_verified_at": "2026-06-25T12:00:00Z",
-      "freshness_status": "fresh",
-      "confidence_score": 0.5,
+      "last_verified_at": "",
+      "freshness_status": "unknown",
+      "confidence_score": 0.0,
       "strengths": [
         "1. Alibaba-backed, largest BD e-commerce platform.",
         "2. Massive electronics selection with flash sales and EMI options.",

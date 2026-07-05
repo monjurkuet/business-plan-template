@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-07-05
 freshness: fresh
-confidence: 0.742
-evidence_ids: ['1fbb2616-99d', '6fed12ad-7d5', '393e6aba-dfe', '50f91f58-b8d', '285b8612-4ca', '3e592cf7-ac6', '1eac090a-f06', '2666aba4-8c3', 'd6c88f01-8b4', '528cefe2-bd4', '90395b7f-16e', 'bc5be893-6fe', '97bfb3dc-a16', '6f22f059-ba6', 'd4645ffd-d2c', 'ba4b53ac-5e0', '202533f6-6b9', 'faf322d9-b1b', 'c2ca1f1f-7c2', 'cdce3c93-886']
+confidence: 0.703
+evidence_ids: ['4d0bfe99-c42', '35ea73ea-ded', '07b8899f-5b1', 'bf1b81ba-1ac', '0b440214-bdc', '36117873-a6c', '5d1341dd-550', 'f3b09758-e77', '822777b0-32c', 'c1e526fb-a96', '6c752f4b-475', '84c7e934-e9a', '87a23b9e-03d', '978d5f8c-9b9', '3144fc3b-51f', 'ea622d98-a5f', '9f09c2f4-052', 'ed67c587-e99', '0916ad55-95a', 'e4e3b0e3-20a']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -157,22 +157,16 @@ evidence_ids: ['1fbb2616-99d', '6fed12ad-7d5', '393e6aba-dfe', '50f91f58-b8d', '
 
 
 
+
 ## Auto-Updated Data (2026-07-05)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| interior design | search | 0.95 |
-| Dhaka, Bangladesh | search | 0.95 |
-| top 10 interior design companies | search | 0.95 |
-| examined achievements and portfolios of interior design companies | search | 0.90 |
-| Globats | search | 0.95 |
-| systems architecture, building automation-first business ecosystems | search | 0.90 |
-| Bangladesh | search | 0.95 |
-| architecture firm | search | 0.95 |
-| NBBJ | search | 0.95 |
-| TIME's Most Influential Companies List (only architecture firm recognized) | search | 0.90 |
-| Fast Company's World’s Most Innovative Architecture Firms (fifth time honored) | search | 0.90 |
-| architecture and design firm | search | 0.95 |
-| EYRC Architects | search | 0.95 |
-| Ehrlich Architects | search | 0.95 |
-| modern residential and commercial architecture | search | 0.90 |
+| RAJUK-registered | search | 0.90 |
+| Dhaka | search | 0.90 |
+| BNBC-2020 | search | 0.95 |
+| growing faster than ever | search | 0.80 |
+| ['Dhaka', 'Khulna', 'Chattogram'] | search | 0.90 |
+| hundreds | search | 0.80 |
+| significant growth in architecture and construction industry | search | 0.90 |
+| ['urbanization', 'demand for modern infrastructure'] | search | 0.90 |

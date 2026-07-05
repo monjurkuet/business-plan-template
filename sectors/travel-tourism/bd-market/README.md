@@ -2,8 +2,8 @@
 sector: travel-tourism
 last_verified: 2026-07-05
 freshness: fresh
-confidence: 0.7
-evidence_ids: ['c39e8fb4-43b', '06d7a16a-955', 'af2b2c69-e97', 'a51c654e-ce0', '4007640e-a07', '764010c6-aec', 'd90f4ece-7b5', 'a9b3a43a-be9', '2f24cea9-593', '108fc772-588', '804c50ef-bd6', '20b28af4-9ea', 'de8ae663-856', '140629fd-252', 'e54e45e8-ca1', '439e5836-67f', '8066acb8-d91', 'a172acd9-c61', 'da6d9e9d-1a3', '66665b22-d77']
+confidence: 0.689
+evidence_ids: ['63c5cfaa-a3d', 'cb3996c2-68d', '6ee14690-ecf', '1dd7d47e-0bf', 'd1f8b994-51a', '091e1f21-4bc', 'f5abd343-786', '8035af8c-049', '8b482831-6a4', 'c70d2161-656', '7f8e6be1-837', 'e2f1fb30-bcc', '280884d7-d68', 'd8c03f93-bb9', 'a2126d2c-c75', '96c70193-759', 'bc096e41-2e8', '5143325a-f19', 'aaab24a0-ac4', '20ae3aa9-825']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -118,22 +118,22 @@ evidence_ids: ['c39e8fb4-43b', '06d7a16a-955', 'af2b2c69-e97', 'a51c654e-ce0', '
 
 
 
+
 ## Auto-Updated Data (2026-07-05)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| affordable tour packages | search | 0.90 |
-| air tickets | search | 0.90 |
-| visa support | search | 0.90 |
-| Eammu Holidays | search | 0.95 |
+| ['tourist visas', 'student visas', 'work visas', 'Umrah packages 2026', 'interna | search | 0.95 |
+| ['Dubai', 'Georgia', 'Armenia', 'Europe'] | search | 0.95 |
+| Eammu Holidays | search | 1.00 |
 | #1 travel agency in Bangladesh | search | 0.90 |
-| tourist visas | search | 0.90 |
-| student visas | search | 0.90 |
-| work visas | search | 0.90 |
-| Umrah packages 2026 | search | 0.90 |
-| international flights | search | 0.90 |
-| holiday tours to Dubai, Georgia, Armenia & Europe | search | 0.90 |
-| study abroad, visa services, cheap air tickets | search | 0.90 |
-| ['UK', 'Canada', 'Russia', 'USA'] | search | 0.90 |
-| Hajj & Umrah packages, visa services (medical, student, visit), flight bookings, | search | 0.95 |
-| 2020 | search | 0.95 |
+| ['tour packages', 'air tickets', 'visa support'] | search | 0.95 |
+| TravelAgencyBangladesh | search | 1.00 |
+| affordable | search | 0.80 |
+| Top 10 Travel Agencies in Dhaka (2026 Ranking & Data) | search | 1.00 |
+| ['customer ratings (Google Maps and Facebook averages as of June 2026)', 'servic | search | 0.95 |
+| Dhaka | search | 1.00 |
+| ['study abroad', 'visa services', 'cheap air tickets'] | search | 0.95 |
+| StairTouch | search | 1.00 |
+| ['UK', 'Canada', 'Russia', 'USA'] | search | 0.95 |
+| cheap | search | 0.80 |

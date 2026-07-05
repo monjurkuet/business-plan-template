@@ -2,8 +2,8 @@
 sector: electronics-gadgets
 last_verified: 2026-07-05
 freshness: fresh
-confidence: 0.723
-evidence_ids: ['df757d3b-806', '52c72625-62d', '74f32ae2-2fd', 'f6564756-b61', '25d1d497-df0', 'd5dea954-8b2', 'fba921b5-c59', '9134d32f-713', '44a05b34-dbf', 'd9432479-052', '404dcb9f-b94', '41528fb6-011', '45d9bbf8-7c7', '5b4c62f5-42f', 'bc9aa7c3-85c', '2c03844b-d60', '6df6c305-e0b', '147fb37c-006', 'a8c52a93-974', 'c485fae6-24f']
+confidence: 0.715
+evidence_ids: ['7a00b1b2-11a', '1ea294b5-fcd', 'c2540454-6b8', 'd55e0028-c07', '5770b22c-762', '8c9015b3-3e2', 'f4707279-434', 'a9f0fa62-4ff', 'f85f1e17-02b', '1f594159-112', '8791e631-266', '4a98360b-197', '99e9a5de-d50', 'f5f9ba23-454', '1726eb1f-195', '4c9ff989-19a', 'f716b9bc-99c', '7aecce12-12f', '847a058a-c61', 'c00143e5-50a']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -142,22 +142,17 @@ evidence_ids: ['df757d3b-806', '52c72625-62d', '74f32ae2-2fd', 'f6564756-b61', '
 
 
 
+
 ## Auto-Updated Data (2026-07-05)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| smartphones | search | 0.95 |
-| ['Samsung', 'Xiaomi', 'OnePlus', 'Vivo', 'HONOR', 'Infinix', 'Tecno'] | search | 0.95 |
-| 100% genuine with official warranty | search | 0.95 |
-| competitive | search | 0.90 |
-| TV & Home Appliances | search | 0.95 |
-| energy-efficient, convenient, durable | search | 0.90 |
-| 2026-04-06 | search | 0.95 |
-| ['homes', 'businesses'] | search | 0.90 |
-| Electronics Bangladesh | Dhaka | search | 0.95 |
-| 53345 | search | 0.95 |
-| 16960 | search | 0.95 |
-| 5 | search | 0.95 |
-| ['TVs', 'fridges', 'ACs'] | search | 0.95 |
-| 14,699 - 31,899 | search | 0.95 |
-| mobile phones | search | 0.95 |
+| competitive prices | search | 0.90 |
+| best prices | search | 0.90 |
+| Free Shipping | search | 0.95 |
+| best prices, offers, and discounts | search | 0.90 |
+| 15.00 | search | 0.80 |
+| BRANDS MEGA LTD | search | 0.95 |
+| Navana Tower (Level-18) 45 Gulshan Avenue, Gulshan-1 Dhaka -1212, Bangladesh | search | 0.95 |
+| Phone (listed on website) | search | 0.80 |
+| ['electronics'] | search | 0.90 |

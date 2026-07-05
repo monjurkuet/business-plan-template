@@ -2,8 +2,8 @@
 sector: media-marketing-digital
 last_verified: 2026-07-05
 freshness: fresh
-confidence: 0.682
-evidence_ids: ['6082898f-7c9', '470e748d-fb7', 'a57110b0-cc6', 'ed554bea-121', 'c33b643c-242', '5a5e0451-7bc', '9f92b98e-c3f', '82acfd7a-793', 'c86c39d0-9f5', 'fbf460a6-618', '1e490b11-dfb', 'c4838d6c-72d', '4dd5d725-813', '927a3b61-3f9', '82fd19e5-e06', '9a6a24d8-a77', '5c0783e9-6b5', '0393ca3c-62e', '8e9ea2fc-199', '113d7ed3-951']
+confidence: 0.706
+evidence_ids: ['2578497f-24e', 'bab1436f-0e7', 'f0f16872-bab', '7c54689c-777', '4349dd23-474', '23331cdd-6c2', '7fffeea0-bbc', 'aeca6ed1-5f4', '34164034-d6d', '39f60d33-f2d', '1989eb66-876', '1826a03d-f6e', '02a09871-a64', '996f50e9-bbb', 'd92f8529-7f7', '8a2c0580-15d', 'cbee37e0-592', '8065425d-f85', '4da594bb-496', '3b3fce25-23d']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market
@@ -135,14 +135,18 @@ evidence_ids: ['6082898f-7c9', '470e748d-fb7', 'a57110b0-cc6', 'ed554bea-121', '
 
 
 
+
 ## Auto-Updated Data (2026-07-05)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| pay per use | search | 0.90 |
-| ['Bulk SMS', 'Email', 'Voice'] | search | 0.95 |
-| prices without rivalry | search | 0.80 |
-| 2026 Guide for digital marketing costs in Bangladesh | search | 0.95 |
-| provide price benchmarks to avoid overpaying or underspending | search | 0.90 |
-| businesses budgeting for digital marketing | search | 0.85 |
-| hourly rates | search | 0.90 |
+| 2026-05-01 | search | 0.90 |
+| ['SEO', 'Facebook Ads', 'Google Ads', 'social media', 'email marketing'] | search | 0.95 |
+| Bangladesh (Dhaka and beyond) | search | 0.95 |
+| Bulk SMS | search | 0.90 |
+| Email Marketing | search | 0.90 |
+| Interactive Voice | search | 0.90 |
+| The best price in digital marketing Bangladesh | search | 0.80 |
+| ['GEEKY SOCIAL LTD.', 'OneLittleWeb', 'BrandViser', 'MonsterClaw LLC', 'Ecomclip | search | 0.95 |
+| ['SEO', 'social media marketing', 'online branding', 'promotion', 'email marketi | search | 0.90 |
+| ['SEO', 'social media marketing', 'online branding', 'promotion', 'email marketi | search | 0.90 |
