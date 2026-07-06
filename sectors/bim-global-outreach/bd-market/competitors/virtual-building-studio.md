@@ -103,6 +103,15 @@ freshness: fresh
 
 
 
+
 ## Recent Findings (2026-07-06)
 
-- **www.archilovers.com** (conf: 0.89): Founded in 2005, Marina Tabassum Architects (MTA) is an internationally recognisedarchitectureand studio-based practice located inDhaka, Bangladesh.
+- **www.archilovers.com** (conf: 0.88): Founded in 2005, Marina Tabassum Architects (MTA) is an internationally recognisedarchitectureand studio-based practice located inDhaka, Bangladesh.
+
+- **www.facebook.com** (conf: 0.69): Jun 5, 2026 ·Architect / Project Architect Location: Dhaka,BangladeshCompany: Interior Design & ArchitectureFirmEmployment Type: Full-Time About the Role We are looking for a talented Architect to joi
+
+- **www.facebook.com** (conf: 0.69): Trendsetters ofBangladeshV — Asia Karim Deepa & Naim Ahmed Kibria, Partners at Indigenous, present “দৃষ্টিকোণ সৃষ্টিকোণ” — an exploration of architecture rooted in empathy, craft, and the rhythms of e
+
+- **www.facebook.com** (conf: 0.69): Jan 5, 2026 ·SPACE, Dhaka. 2,592 likes · 159 were here. Consultancy, Construction and DevelopmentInstitute of ArchitectsBangladesh, Dhaka. 39,378 likes · 1,953 talking about this · 9,135 were here. Th
+
+- **www.facebook.com** (conf: 0.69): Institute of ArchitectsBangladesh, Dhaka. 39,378 likes · 1,953 talking about this · 9,135 were here. This is the officialFacebookPage of the Institute of ArchitectsBangladesh(IAB).Jun 5, 2026 ·Sthapot

@@ -2,8 +2,8 @@
 sector: logistics-transport
 last_verified: 2026-07-06
 freshness: fresh
-confidence: 0.686
-evidence_ids: ['a2f9cc16-055', '5b07f5f2-083', '97717fc5-7fc', '75ea4c32-b0e', '08192878-6bc', '0f7fa44c-eae', 'fce1ff93-9ba', '68f4eeb2-8a7', 'df2d5726-915', 'aae60814-294', '00c77d3b-871', 'a61e7f9e-372', 'e5b9d507-e5f', 'dc5ebb46-4e4', 'c2687fba-354', '119d1ce8-762', '50ae7707-234', '171629a7-b16', 'd7341a4c-bb2', '4bcced9e-d41']
+confidence: 0.679
+evidence_ids: ['b55d0940-c14', 'dcaa8415-636', 'cfa4554d-1d9', '2fd99a24-6f0', '111cbebb-018', '50cfd6ec-fc7', '692e32fe-bd0', 'd080a9d2-c93', '7d857126-0a0', '0e5f111c-b98', 'acce18f3-ceb', 'e43f6553-986', '4556545f-024', '893a44ac-f09', '18776b27-50d', '2628341d-0cf', '3d941f4b-0d3', '6ee54ad6-ec9', '512c2171-bfd', 'ffb429c8-54d']
 ---
 
 # Logistics & Transport — Bangladesh Market
@@ -40,15 +40,10 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
-## Auto-Updated Data (2026-07-05)
+
+## Auto-Updated Data (2026-07-06)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Karatoa Courier Services | search | 0.95 |
-| largest courier service in Bangladesh | search | 0.90 |
-| efficient, on-time delivery of important documents and packages | search | 0.90 |
-| trusted name | search | 0.85 |
-| The courier industry has grown significantly in Bangladesh | search | 0.90 |
-| meeting the demands of a developing economy with a growing consumer base | search | 0.85 |
-| fast delivery, nationwide coverage, pricing, tracking, and reliability | search | 0.90 |
-| very reliable form of buying and selling products online | search | 0.85 |
+| courier service | search | 0.95 |
+| courier service | search | 0.95 |

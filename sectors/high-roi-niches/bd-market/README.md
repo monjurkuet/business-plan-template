@@ -2,8 +2,8 @@
 sector: high-roi-niches
 last_verified: 2026-07-06
 freshness: fresh
-confidence: 0.699
-evidence_ids: ['8b903c9e-7dc', '990e03aa-66d', '7ab69511-f46', 'cac8925a-f11', '66b04e4d-320', '9f504e7f-1f0', '25a67726-8a0', '1f642d09-40e', 'af551ff3-4eb', 'f9ecdc80-105', '2b323b69-d45', '41ec5908-023', '29d4e856-d99', '711e8144-cfc', '2cbb923e-3f9', '9b52b859-d45', 'd3488148-9db', '28f0161e-0ce', 'd4d36885-f1f', '39224231-40f']
+confidence: 0.724
+evidence_ids: ['dc2376cc-9e7', 'd33c9e1c-c38', 'd7bcfaac-ff8', 'a4c02880-365', 'c16099ab-ce9', '03fc487a-5ca', 'f11e9b50-25f', '8fbab1c3-189', '19cd8607-9da', '28c6f327-a71', 'a0db9529-f83', '1d80c0df-6bb', '7f5da5ff-f50', 'eaeeaedf-6b7', '3863749d-540', '491cf093-d5a', 'ab51d9b7-215', 'ae0e9de2-f09', '74aa0f61-21c', '27ef9197-d53']
 ---
 
 # High-ROI Niches — Bangladesh Market
@@ -135,9 +135,23 @@ This sector captures high-growth, high-margin niche opportunities in Bangladesh.
 
 
 
+
 ## Auto-Updated Data (2026-07-06)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| affordable prices | search | 0.90 |
+| pet supplies, dog food, cat food, pet products, toys, accessories | search | 0.95 |
 | best prices | search | 0.90 |
+| fast home delivery across Dhaka | search | 0.95 |
+| online pet shop | search | 0.95 |
+| dog food, cat food | search | 0.95 |
+| best prices | search | 0.90 |
+| fast home delivery across Dhaka | search | 0.95 |
+| online pet shop | search | 0.95 |
+| pet products, food, toys, accessories | search | 0.95 |
+| affordable prices | search | 0.90 |
+| fast delivery, top-notch customer service | search | 0.95 |
+| top pet shop in Bangladesh | search | 0.90 |
+| feline care | search | 0.95 |
+| open for feline patients | search | 0.95 |
+| pet food, accessories, care products | search | 0.95 |

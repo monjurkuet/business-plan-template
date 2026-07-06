@@ -2,8 +2,8 @@
 sector: food-beverage
 last_verified: 2026-07-06
 freshness: fresh
-confidence: 0.712
-evidence_ids: ['202c8ca1-678', '5cc469ab-afb', '90d7d12f-845', 'cbd8b7a2-fb8', '6ef9946d-e86', 'd56ab106-d3d', '153c8a0c-e7d', '37aac93b-3a8', '16842769-8d6', 'c07cee1b-59d', 'bcb6ec3c-2f5', 'd0f06efb-bd0', 'dc702515-f68', 'fd9a5ce5-048', '19d1d8da-78f', '9949d2d9-96e', '66ebb746-d09', '53a3d544-abb', 'bc74345f-eb3', '1b921407-539']
+confidence: 0.721
+evidence_ids: ['41a4dedd-cef', 'c0eb000c-0a2', 'ee9cbd3f-db4', '5eb840dc-036', '8a10692a-47d', '3c288acd-efc', '6b67275c-e86', 'ddacb0f3-3fd', '80529201-801', '39f61dea-1f0', 'fbc78ced-56e', '42490593-9d2', 'b74e40ad-679', 'f73ff3ef-31c', '8854561d-d0d', 'd6b0da89-aa3', '2bedfed2-375', '535443d7-d61', '2fedb178-87d', '4c40641a-74b']
 ---
 
 # Food & Beverage — Bangladesh Market
@@ -46,22 +46,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-06)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Best Rooftop Restaurant in Bangladesh | search | 0.90 |
-| Bangladesh | search | 0.95 |
-| stunning views, delicious cuisine | search | 0.90 |
-| Famous Biryani Restaurant | search | 0.85 |
+| 20 minutes from downtown Montreal | search | 0.90 |
+| rooftop restaurant | search | 1.00 |
+| stunning views and delicious cuisine | search | 1.00 |
+| Bangladeshi | search | 1.00 |
 | Delhi Belly Restaurant | search | 0.80 |
-| Bangladeshi | search | 0.90 |
-| Bangladesh Tandoori Restaurant | search | 0.95 |
-| Campbeltown | search | 0.95 |
-| 4.1 | search | 0.95 |
-| 10 | search | 0.95 |
-| ['Indian', 'Asian', 'Bangladeshi'] | search | 0.95 |
-| Mouban Resturent | search | 0.90 |
-| Kachari Bazar, Rangpur | search | 0.95 |
-| Bangladeshi | search | 0.95 |
-| ['Reis (Bhat)', 'Eier (Dim)', 'Chicken Biryani', 'Gemüse (shobji)', 'Linsen (Dal | search | 0.95 |
+| 16 Top Bangladeshi Food for an Authentic Experience | search | 1.00 |
+| AlauddinRestaurant | search | 1.00 |
+| Qatar | search | 1.00 |
+| Not Halal | search | 1.00 |
+| Restaurant | search | 1.00 |
+| MOUBAN RESTURENT | search | 1.00 |
+| Rangpur | search | 1.00 |
+| Kachari Bazar | search | 1.00 |
+| Bangladeshi | search | 1.00 |
+| ['Reis (Bhat)', 'Eier (Dim)', 'Chicken byriani', 'Gemüse (shobji)', 'Linsen (Dal | search | 1.00 |

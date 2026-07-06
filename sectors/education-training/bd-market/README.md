@@ -2,8 +2,8 @@
 sector: education-training
 last_verified: 2026-07-06
 freshness: fresh
-confidence: 0.702
-evidence_ids: ['86cd7d1e-ebc', 'c066da6a-94d', '59eff561-421', 'e56d055b-2c3', 'ba53ae0c-1e7', 'cc7bcc04-e72', '7f1b469c-186', '42382c41-31e', 'a4c5cbd4-92c', '60445f00-246', '92bb7ac9-61d', '6ce7009d-0a3', '3bd1fb2f-feb', 'e5202270-16e', '61a22524-b1e', '83870c10-6f8', 'b1952a47-0a3', 'bf574ed9-e44', '23e53fa2-6a1', '880fa540-0ed']
+confidence: 0.699
+evidence_ids: ['dace9ccc-12f', '3c846267-ca5', '1a2a6108-ac4', 'f12dda03-e4e', 'aeeaf571-ab5', '0d1db313-8dc', 'a8645787-897', '1ad7c516-876', 'cca4c92a-ee3', '5a7d2a79-2dc', '8d2fe4cb-7e3', '08554880-b5b', 'f2b3ce56-ede', '5d9a5730-a77', '6886de7d-477', 'b079536f-e4f', '2c7e2fe7-036', '5f4bed51-411', '45f730ab-5e3', '64f19bca-6c1']
 ---
 
 # Education & Training — Bangladesh Market
@@ -46,18 +46,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-06)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| corporate coaching services | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| corporate training, coaching | search | 0.95 |
-| 4654 | search | 0.95 |
-| 2026-04 | search | 0.95 |
-| ['Digicon Technologies Ltd', 'E-Learning & Earning LTD', 'U S Software Ltd', 'PM | search | 0.90 |
-| 4654 | search | 0.95 |
-| 2026-04 | search | 0.95 |
-| ['IELTS preparation', 'medical admissions', 'O/A levels', 'study abroad guidance | search | 0.90 |
-| Dhaka | search | 0.80 |
-| ['Your Counselor', 'Jobs On Career'] | search | 0.90 |
+| education-training | search | 0.95 |
+| Mantram Nursing Academy | search | 0.90 |
+| NCLEX coaching | search | 0.95 |
+| Bangladesh | search | 0.95 |
+| coaching center | search | 0.95 |
+| Ovijattrik Coaching Center | search | 0.95 |
+| education-training | search | 0.90 |
+| Bangladesh | search | 0.90 |
+| coaching center | search | 0.95 |
+| True | search | 0.95 |
+| Easy Coaching Center (E.C.C) | search | 0.95 |
+| Jaleshwaritola, Bogra, Bangladesh | search | 0.95 |
+| education-training | search | 0.90 |
+| coaching center | search | 0.95 |
+| WordPress | search | 0.95 |

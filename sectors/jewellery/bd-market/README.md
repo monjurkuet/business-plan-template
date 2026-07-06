@@ -2,8 +2,8 @@
 sector: jewellery
 last_verified: 2026-07-06
 freshness: fresh
-confidence: 0.72
-evidence_ids: ['8415fd66-992', '00b29c47-fc0', '250f0b39-0c0', '05fd121c-367', 'c7f2b47f-794', '1c0bbcd5-782', 'ae30c5cc-558', 'a852a247-b6a', '503b02aa-242', '2b6d9adf-b4a', '955a6041-914', 'bc0204ab-e10', '1bfbe425-e23', '6e1c8dd2-e0c', 'b4944121-7f4', 'b415d59e-2c9', '48764602-8d4', 'bdca93aa-1cd', '7a127e29-c06', '42840395-b22']
+confidence: 0.686
+evidence_ids: ['14ae97ec-582', '4a79d81a-456', '8e92895d-b95', '4a786ce2-bce', '69927b31-b4c', 'f709f8ac-7b0', '96e35d96-9cf', 'ff02a2fb-7ad', '64245a9a-24d', '5c14702c-75b', '7fa304f1-7fa', 'e927316c-390', 'b9dc317a-949', 'ed377326-8dc', '9ba5a588-551', '99d23f2e-f8c', 'a6da29c8-7a4', 'd2286a10-9d1', '8a103fe3-d6f', '39baad34-887']
 ---
 
 # Jewellery — Bangladesh Market

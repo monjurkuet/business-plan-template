@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-07-06
 freshness: fresh
-confidence: 0.737
-evidence_ids: ['f3f4dfa5-165', '1959b1e4-13b', '654e2082-e27', '5dcafa5a-a83', '0d697612-59a', 'ae8f9dde-fb0', '1d85e40f-f8a', '144ad1d5-cc1', '40bbfeb4-847', '39b564a0-fc8', '3e8d6cfe-30a', '2ff91696-f51', '4972be15-8c4', '66a5ddff-dad', '930f2ed1-fef', 'e5aac0f7-3e9', '719ec907-a88', '7d76836f-c4f', '878373f9-15f', '2e86b07b-375']
+confidence: 0.755
+evidence_ids: ['fe89e6de-580', '6643efc1-c57', 'e224218f-b56', '318c9447-4a8', '8344fa9d-4ba', '402aaadb-75e', '1f833877-2b7', '4ee82565-86e', '1e4cb20d-32b', '092a19ad-281', 'd3c2791b-12e', 'e33a96bd-90a', 'e42f72dd-2b4', 'f7e0469b-1c0', '7b6811ba-162', '72014729-882', '6df13ba2-6dc', '249a77f4-6fa', 'e627f841-a06', 'a30e4ba0-fa0']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -161,22 +161,23 @@ evidence_ids: ['f3f4dfa5-165', '1959b1e4-13b', '654e2082-e27', '5dcafa5a-a83', '
 
 
 
+
 ## Auto-Updated Data (2026-07-06)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Globats | search | 1.00 |
-| Systems Architecture | search | 1.00 |
-| building automation-first business ecosystems | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| architecture firm | search | 1.00 |
-| Janla Associates Limited | search | 1.00 |
-| Architecture, Interior, Construction, Project Management | search | 1.00 |
-| Bangladesh (Near Dhaka) | search | 1.00 |
-| architecture firm | search | 1.00 |
-| architecture | search | 1.00 |
-| Dhaka, Bangladesh | search | 1.00 |
-| architecture firm | search | 1.00 |
-| Solusphere Architects | search | 1.00 |
-| Dhaka, Bangladesh | search | 1.00 |
-| architectural solutions, sustainability, client collaboration, timeless elegance | search | 0.95 |
+| interior design | search | 0.90 |
+| Dhaka, Bangladesh | search | 0.95 |
+| firm | search | 0.90 |
+| Globats | search | 0.95 |
+| systems architecture | search | 0.90 |
+| Bangladesh | search | 0.95 |
+| building automation-first business ecosystems | search | 0.90 |
+| firm | search | 0.90 |
+| NBBJ | search | 0.95 |
+| architecture and design | search | 0.95 |
+| TIME's Most Influential Companies List (only architecture firm) | search | 0.90 |
+| Fast Company's World’s Most Innovative Architecture Firms (fifth time) | search | 0.90 |
+| firm | search | 0.90 |
+| Trikon Architects | search | 0.95 |
+| architecture and interior design | search | 0.90 |

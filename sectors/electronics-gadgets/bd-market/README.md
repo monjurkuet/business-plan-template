@@ -2,8 +2,8 @@
 sector: electronics-gadgets
 last_verified: 2026-07-06
 freshness: fresh
-confidence: 0.705
-evidence_ids: ['98bed001-63e', 'a5b335c1-9e0', '870930d7-37c', 'fecee912-8a1', '8013f463-477', '5d4487ca-e4e', '1cd9e3b8-9cb', 'b20ca7c1-3d4', '9d075f8a-ebf', 'ed8438b0-0b0', 'aee6a65f-5e4', 'f6963a5a-381', '71a6fef5-a37', 'b8c4e81a-1b3', 'f50e1c97-2e3', '38a962e1-44f', '6e1a8f13-7a1', 'b3785fb0-eba', '40c9da15-a19', 'a7ac5da6-260']
+confidence: 0.715
+evidence_ids: ['75022a01-3b1', '9416f91e-6f8', 'b9ad757f-275', '722f74da-0aa', '152ba00e-52e', 'c601d841-636', '1e33d5b1-b74', 'c3ccf2ae-986', '628dfcf2-cc5', '6406db39-fd0', 'a93a6c5a-120', '6a8116a2-b10', 'e9076b4b-bec', '6e0e292f-581', '6ebb5185-415', 'f52b547b-6f9', '29dd1d20-1db', '1ad15cc2-fd3', '4a22caa2-327', '8cb0ffa3-2b9']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -146,17 +146,19 @@ evidence_ids: ['98bed001-63e', 'a5b335c1-9e0', '870930d7-37c', 'fecee912-8a1', '
 
 
 
+
 ## Auto-Updated Data (2026-07-06)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| home appliances | search | 1.00 |
-| top-brand | search | 0.80 |
-| ['official warranty', 'EMI facilities', 'fast home delivery'] | search | 0.90 |
-| e-commerce | search | 1.00 |
-| online shopping platform | search | 1.00 |
-| premium | search | 0.90 |
-| consumer electronics | search | 0.90 |
-| highest rated | search | 0.80 |
-| best price in BD | search | 0.90 |
-| Cash on delivery | search | 1.00 |
+| competitive prices | search | 0.90 |
+| Gadgets & Premium Accessories | search | 0.95 |
+| best prices | search | 0.90 |
+| Free Shipping | search | 0.95 |
+| best prices, offers, and discounts | search | 0.90 |
+| 15.00 | search | 0.80 |
+| BRANDS MEGA LTD | search | 0.95 |
+| Navana Tower (Level-18) 45 Gulshan Avenue, Gulshan-1 Dhaka -1212, Bangladesh | search | 0.95 |
+| Phone | search | 0.80 |
+| ['electronics'] | search | 0.90 |
+| may go up | search | 0.80 |

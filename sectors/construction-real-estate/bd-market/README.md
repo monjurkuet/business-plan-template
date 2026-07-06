@@ -2,8 +2,8 @@
 sector: construction-real-estate
 last_verified: 2026-07-06
 freshness: fresh
-confidence: 0.715
-evidence_ids: ['1c02f7c6-ddb', 'ca290d2a-498', 'eba8e7c8-a5d', 'aa006084-53f', '20d5ec43-9fc', 'fb971ba4-7e5', 'efeebb4f-4cd', '95d32b34-9bd', '875b4a13-eac', '6f04c8f5-f6e', '245c2b84-30d', '50b6c705-65e', '7c6fe155-893', 'cc233a09-28f', '2fad070d-9b3', '0df59787-ae0', 'a39533c6-982', '35bfb2bf-4ab', 'a2fdc527-d32', 'b624ac29-86f']
+confidence: 0.716
+evidence_ids: ['feb0def0-d2a', '0a52b08b-a1a', '8e30c4e9-b60', '4f70546e-5de', '6d6bd5b4-bee', '6c860c2d-623', '5c632001-5cf', 'e5a40193-651', 'f38fcadf-fd8', 'c6e22697-184', 'baf2781b-0e6', 'a7ca55ad-ce6', '5c7c91f5-796', 'b7f2ad2f-994', '4d7aca92-35e', '3bb6da72-3ea', '145bfef8-daa', '72e66f76-ad8']
 ---
 
 # Construction & Real Estate — Bangladesh Market
@@ -47,22 +47,21 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-06)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ['CHB Engineering Ltd.', 'Alibaba Construction Ltd.'] | search | 0.95 |
-| construction-real-estate | search | 1.00 |
-| RFL | search | 1.00 |
-| largest building materials supplier | search | 0.95 |
-| construction-real-estate | search | 1.00 |
-| BD Trade Info | search | 1.00 |
-| Bangladesh's largest business directory & yellow pages since 2003 | search | 1.00 |
-| 2003 | search | 1.00 |
-| Bangladesh’s construction industry is one of the fastest-growing sectors in the  | search | 0.95 |
-| 2016 | search | 0.95 |
-| first World Trade Center in Bangladesh | search | 0.95 |
-| Concord Real Estate Ltd | search | 0.95 |
-| Leading Real Estate Company | search | 0.90 |
-| Beximco | search | 0.90 |
-| Salman F. Rahman | search | 0.95 |
+| ['ALM Steel Building Technology Ltd', 'ALM Tensile Membrane Structure Limited',  | search | 0.95 |
+| 65 | search | 0.90 |
+| ['CHB Engineering Ltd', 'Alibaba Construction Ltd'] | search | 0.95 |
+| 2026 | search | 0.80 |
+| ['akbarsha', 'Perfect Solution'] | search | 0.90 |
+| ['Firozshah, Chittagong Sadar, Chittagong', 'Nasirabad, Chittagong Sadar, Chitta | search | 0.90 |
+| ['fabrication and supply of construction materials including Steel Sheet Piles', | search | 0.90 |
+| 51 | search | 0.90 |
+| ['DEG', 'IDCOL'] | search | 0.95 |
+| 2023-06-15 | search | 0.90 |
+| ['Bashundhara Group', 'LafargeHolcim Bangladesh Limited', 'Confidence Cement Ltd | search | 1.00 |
+| building_materials | search | 1.00 |
+| Bangladesh | search | 1.00 |
