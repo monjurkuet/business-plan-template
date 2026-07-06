@@ -3,7 +3,7 @@ sector: education-training
 last_verified: 2026-07-06
 freshness: fresh
 confidence: 0.702
-evidence_ids: ['56e08735-3b4', '993f917d-12f', '0b686ac7-324', 'fbfb1d50-177', 'e84f2318-15c', '2be5ac6d-53e', '550cbccf-f7b', '40d6dafe-008', 'ea491415-726', 'cccf35a0-7da', 'ea1a58c2-161', 'ca859ca3-965', 'ecab6bf9-38f', '8990b59e-4a8', '62d578a0-5b3', '9229527e-abd', '81640a7e-44f', 'e34cb32b-cf9', '78b65a66-147', '60dcec48-d4a']
+evidence_ids: ['86cd7d1e-ebc', 'c066da6a-94d', '59eff561-421', 'e56d055b-2c3', 'ba53ae0c-1e7', 'cc7bcc04-e72', '7f1b469c-186', '42382c41-31e', 'a4c5cbd4-92c', '60445f00-246', '92bb7ac9-61d', '6ce7009d-0a3', '3bd1fb2f-feb', 'e5202270-16e', '61a22524-b1e', '83870c10-6f8', 'b1952a47-0a3', 'bf574ed9-e44', '23e53fa2-6a1', '880fa540-0ed']
 ---
 
 # Education & Training — Bangladesh Market
@@ -45,18 +45,19 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-06)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| corporate coaching services | search | 0.90 |
+| corporate coaching services | search | 1.00 |
 | Bangladesh | search | 1.00 |
-| 4654 | search | 0.90 |
-| ['Digicon Technologies Ltd', 'E-Learning & Earning LTD', 'U S Software Ltd', 'PM | search | 0.95 |
-| corporate training & coaching | search | 0.90 |
-| Bangladesh | search | 1.00 |
-| coaching classes and centers | search | 0.90 |
-| Bangladesh | search | 1.00 |
+| corporate training, coaching | search | 0.95 |
 | 4654 | search | 0.95 |
-| 2026-04-01 | search | 0.90 |
-| ['Training Pundit', 'ENSDI - ইন্সডি (training & consultancy)'] | search | 0.90 |
+| 2026-04 | search | 0.95 |
+| ['Digicon Technologies Ltd', 'E-Learning & Earning LTD', 'U S Software Ltd', 'PM | search | 0.90 |
+| 4654 | search | 0.95 |
+| 2026-04 | search | 0.95 |
+| ['IELTS preparation', 'medical admissions', 'O/A levels', 'study abroad guidance | search | 0.90 |
+| Dhaka | search | 0.80 |
+| ['Your Counselor', 'Jobs On Career'] | search | 0.90 |

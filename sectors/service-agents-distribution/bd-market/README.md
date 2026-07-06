@@ -2,8 +2,8 @@
 sector: service-agents-distribution
 last_verified: 2026-07-06
 freshness: fresh
-confidence: 0.678
-evidence_ids: ['5765b94e-675', '0be05473-9d0', '5491a0ba-9cd', '066fdab8-872', 'b352af3a-260', '5f8f5074-445', '661e015b-026', 'aca78a33-763', 'ea58b24a-be1', '055546ed-3a3', '7ea4353a-b25', '8ba1e4fd-dc8', '3ee9c5c5-2d7', '04dc08c1-c16', 'dd15f63b-8f6', 'df354666-f10', 'b4e90fe8-780', '85818693-e8f', '3b4b91ee-ccd', '7a0ae2c8-24e']
+confidence: 0.677
+evidence_ids: ['5c333e99-1c4', '6c01dae0-e14', '5a2f607e-949', '819f3fe8-b70', '5528c240-e7e', 'ab488ca6-121', 'a86a8eeb-fa7', '0c14960f-dac', '80bc9c92-0fc', '6ed03812-a18', '7d2afbe7-62f', '58ae0186-dec', 'd8fc3ed0-7a1', '01e14ab8-fd8', '5584004d-e9e', 'f1eaa73e-901', 'cbd02195-941', '6c5714af-725', '802a6ec8-925', '6d158c4c-81c']
 ---
 
 # Service Agents & Distribution — Bangladesh Market

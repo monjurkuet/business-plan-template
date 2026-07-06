@@ -2,8 +2,8 @@
 sector: construction-real-estate
 last_verified: 2026-07-06
 freshness: fresh
-confidence: 0.711
-evidence_ids: ['3e7bf451-4b0', '56657fde-62d', '3e717162-510', '97849f35-1a3', 'd50f46a5-d1d', '934de108-9ae', 'f1902824-21b', '0aa4cf48-8f9', 'd240ba4a-87d', '611f4829-3b5', 'fc8cbe3f-517', '77696427-7ac', '41c32e9d-15b', 'fdcfe5bb-10a', '8a68d0bb-ef2', '375fad94-f4c', '4e9876fc-79a', '0e86f121-e1c', '2e09665d-1e6', '3e702909-009']
+confidence: 0.715
+evidence_ids: ['1c02f7c6-ddb', 'ca290d2a-498', 'eba8e7c8-a5d', 'aa006084-53f', '20d5ec43-9fc', 'fb971ba4-7e5', 'efeebb4f-4cd', '95d32b34-9bd', '875b4a13-eac', '6f04c8f5-f6e', '245c2b84-30d', '50b6c705-65e', '7c6fe155-893', 'cc233a09-28f', '2fad070d-9b3', '0df59787-ae0', 'a39533c6-982', '35bfb2bf-4ab', 'a2fdc527-d32', 'b624ac29-86f']
 ---
 
 # Construction & Real Estate — Bangladesh Market
@@ -46,22 +46,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-06)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
 | ['CHB Engineering Ltd.', 'Alibaba Construction Ltd.'] | search | 0.95 |
-| building_material_suppliers | search | 0.90 |
-| Bangladesh | search | 1.00 |
+| construction-real-estate | search | 1.00 |
 | RFL | search | 1.00 |
-| largest building materials supplier in Bangladesh | search | 0.95 |
-| building_materials | search | 0.90 |
-| Bangladesh | search | 1.00 |
+| largest building materials supplier | search | 0.95 |
+| construction-real-estate | search | 1.00 |
 | BD Trade Info | search | 1.00 |
-| Bangladesh's largest business directory & yellow pages since 2003 | search | 0.95 |
-| 2003 | search | 0.90 |
-| Bangladesh | search | 1.00 |
+| Bangladesh's largest business directory & yellow pages since 2003 | search | 1.00 |
+| 2003 | search | 1.00 |
 | Bangladesh’s construction industry is one of the fastest-growing sectors in the  | search | 0.95 |
-| Concord Real Estate Ltd | search | 0.90 |
-| Leading Real Estate Company in Bangladesh | search | 0.90 |
-| World Trade Center in Bangladesh | search | 0.95 |
+| 2016 | search | 0.95 |
+| first World Trade Center in Bangladesh | search | 0.95 |
+| Concord Real Estate Ltd | search | 0.95 |
+| Leading Real Estate Company | search | 0.90 |
+| Beximco | search | 0.90 |
+| Salman F. Rahman | search | 0.95 |

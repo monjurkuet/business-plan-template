@@ -2,8 +2,8 @@
 sector: healthcare-pharma
 last_verified: 2026-07-06
 freshness: fresh
-confidence: 0.687
-evidence_ids: ['5a02ad12-e49', 'dd238389-132', '1a3051be-b65', '8dae7257-d71', '5e52fc9c-28b', '183886c9-5fd', '0c574a77-136', '736c9f10-969', 'dc0346c8-8df', '061a5af8-89b', 'f53661ba-83e', 'f2d7964a-82b', 'be590bb5-23c', '468c5757-6b0', '52aa680b-f29', '5222615a-0ce', '13ec5649-7ec', '5988c47b-597', '669a9ec7-05f', '3c611afd-f0f']
+confidence: 0.704
+evidence_ids: ['6a400210-7e5', '49a0e83d-870', 'a0cfc4e7-d1d', 'cfc3da5f-daf', 'b5b20c29-b58', 'eb48a67b-408', 'cad86ba2-6eb', '7431b9e4-1cf', '44439d32-6b9', '9bdb786e-08f', '5cc7b9ab-cdc', 'a8208c1b-33f', '19a565c8-511', '217668b3-9c4', 'ca3a1b97-90e', '6ba8f912-7df', 'a4a34a0f-1ad', '0a09f384-64a', 'f3e2d3ba-284', '0656893b-822']
 ---
 
 # Healthcare & Pharma — Bangladesh Market
@@ -45,20 +45,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-06)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Medisafe Pharmacy | search | 0.95 |
 | healthcare-pharma | search | 1.00 |
-| ['Medical device', 'Natural medicine', 'Allopathic medicine'] | search | 0.95 |
+| directory of pharmacies in Bangladesh | search | 1.00 |
+| Medisafe Pharmacy | search | 1.00 |
+| ['Medical device', 'Natural medicine', 'Allopathic medicine'] | search | 1.00 |
+| healthcare-pharma | search | 1.00 |
 | supplier_company | search | 0.90 |
-| Wellbeing Pharmacy | search | 0.95 |
+| Wellbeing Pharmacy | search | 1.00 |
+| community-based pharmacy | search | 1.00 |
+| ['Compounding', 'Consulting', 'Prescription medication checking', 'Delivery'] | search | 1.00 |
 | healthcare-pharma | search | 1.00 |
-| community-based pharmacy | search | 0.95 |
-| ['Compounding', 'Consulting', 'Prescription checking', 'Delivery of prescription | search | 0.95 |
-| legal | search | 0.90 |
-| Tani Pharmacy | search | 0.95 |
-| Mymensingh, Bangladesh | search | 0.95 |
+| Tani Pharmacy | search | 1.00 |
+| Mymensingh, Bangladesh | search | 1.00 |
+| ['Personalized services', 'Local delivery'] | search | 1.00 |
 | healthcare-pharma | search | 1.00 |
-| ['Personalized services', 'Local delivery'] | search | 0.95 |
+| Al-Amin Pharmacy | search | 1.00 |

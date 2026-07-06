@@ -2,8 +2,8 @@
 sector: media-marketing-digital
 last_verified: 2026-07-06
 freshness: fresh
-confidence: 0.701
-evidence_ids: ['ad591ab1-341', 'dc955ea2-2db', '98e45a06-ec3', '86229b6f-fa4', 'fbb58b97-0f6', '5b201efc-1ba', '9d41a529-057', 'b2dee398-790', 'bc84839c-78d', '07e4a699-997', '3252c96c-488', 'e87035f5-e95', 'd7161a32-3fd', 'c861d64a-a1d', '152d2ac5-b37', '595e7f35-30f', '2a905057-256', '422ba5a2-e92', '787e640c-79a', '8a9e54f3-290']
+confidence: 0.699
+evidence_ids: ['5dff9648-989', 'fcadc6e3-7b3', '2b1163b6-5ed', 'cfd84ec3-5c5', '89458578-699', 'cfa3addd-a30', '4d87de29-37a', '6ebdb0b6-da4', '95c462d3-199', '72152a3c-5d9', '90dd29cc-8c6', '60217da3-c74', '951f4276-e61', '6bf803f4-57f', 'a3796e05-b9f', '2149d448-1e1', '6e63fbc4-d77', 'b976d718-c76', '6622d928-46b', 'aefdb11e-3da']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market
@@ -138,14 +138,15 @@ evidence_ids: ['ad591ab1-341', 'dc955ea2-2db', '98e45a06-ec3', '86229b6f-fa4', '
 
 
 
+
 ## Auto-Updated Data (2026-07-06)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Bulk SMS | search | 1.00 |
-| Email Marketing | search | 1.00 |
-| Interactive Voice | search | 1.00 |
-| The best price in digital marketing Bangladesh | search | 0.90 |
-| ['GEEKY SOCIAL LTD.', 'OneLittleWeb', 'BrandViser', 'MonsterClaw LLC', 'Ecomclip | search | 1.00 |
-| ['SEO', 'social media marketing', 'online branding', 'promotion', 'email marketi | search | 1.00 |
-| ['SEO', 'social media marketing', 'online branding', 'promotion', 'email marketi | search | 1.00 |
+| Bulk SMS, Email Marketing, Interactive Voice | search | 0.90 |
+| best price in digital marketing Bangladesh | search | 0.80 |
+| SEO, social media marketing, online branding, promotion, email marketing | search | 0.90 |
+| SEO, web development, social media marketing, ROI-driven strategies | search | 0.95 |
+| Marketorr BD | search | 0.95 |
+| Bangladesh | search | 0.95 |
+| 2025-08-14 | search | 0.90 |

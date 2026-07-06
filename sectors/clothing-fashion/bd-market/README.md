@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-07-06
 freshness: fresh
-confidence: 0.721
-evidence_ids: ['3a78e8ef-2bf', 'eff80f2b-395', '48730e79-38e', '58a92ac9-67e', '6b095518-ebf', '7c1eadeb-6de', 'ef63bee6-56d', 'b29ddb0b-938', 'b2d98a13-28c', '33cc5399-38e', '606c685b-510', '5061fefe-a55', '79d898a3-167', 'f7034f6b-b18', '79a57250-30b', '231e96c4-f21', 'd7de80ff-7d3', '7853f261-533', 'cc1a4233-86b', 'e083ad8d-546']
+confidence: 0.72
+evidence_ids: ['34717cdb-681', 'c7158852-ab2', '3f1317a9-8bc', '64b7c7d5-b65', '09cbd6a4-af2', 'ad294c46-8bd', 'daed722d-5a2', '980d7de9-c1d', '368baab8-049', '75dfa642-0c0', '8e07148d-6e8', '3b51f5b9-718', '6a8c7290-231', 'a90b9a67-230', 'c883057d-ca3', '1c7b0e54-3e7', '5e0d18bf-4d6', '478b8579-23f', '68bebe77-3e1', '1f9d14f4-e89']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -157,6 +157,7 @@ evidence_ids: ['3a78e8ef-2bf', 'eff80f2b-395', '48730e79-38e', '58a92ac9-67e', '
 
 
 
+
 ## Auto-Updated Data (2026-07-06)
 
 | Fact | Source | Confidence |
@@ -165,14 +166,14 @@ evidence_ids: ['3a78e8ef-2bf', 'eff80f2b-395', '48730e79-38e', '58a92ac9-67e', '
 | Bangladesh | search | 0.95 |
 | RD style women black dress warm size M Knitted | search | 0.90 |
 | Bangladesh | search | 0.95 |
-| TwelveClothing | search | 1.00 |
-| Bangladesh’s leading fashion brand offering premium clothing, trendy menswear, w | search | 0.95 |
-| clothing-fashion | search | 1.00 |
-| Tyzo | search | 1.00 |
-| A modern Bangladeshi clothing brand offering stylish, comfortable, and affordabl | search | 0.95 |
-| premium-quality outfits with perfect fits, fast delivery, and reliable service a | search | 0.90 |
-| clothing-fashion | search | 1.00 |
-| Mbrella | search | 1.00 |
-| Mondol group | search | 0.95 |
-| A lifestyle clothing brand known for its exceptional quality and trendy designs  | search | 0.95 |
-| clothing-fashion | search | 1.00 |
+| Baggy Pants | search | 0.95 |
+| boys, youth | search | 0.90 |
+| premium quality fabric | search | 0.90 |
+| affordable price | search | 0.85 |
+| home delivery all over Bangladesh | search | 0.95 |
+| free shipping | search | 0.90 |
+| fast delivery | search | 0.90 |
+| free return | search | 0.90 |
+| Bangladesh | search | 0.95 |
+| best factory prices | search | 0.90 |
+| custom apparel | search | 0.95 |
