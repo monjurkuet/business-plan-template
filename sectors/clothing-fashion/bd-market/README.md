@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-07-06
 freshness: fresh
-confidence: 0.725
-evidence_ids: ['635ec983-622', 'd1ac176a-e4a', 'eddf07c1-313', '70f72b8a-1db', 'bbe4f267-77a', '4247f0e8-ff8', '58adaf44-be7', 'b1a1b9bf-439', 'f69b760c-d34', 'a3a4e1d6-c06', '410845f2-09b', '5bd01bcb-c86', '36a0a1dd-911', 'fa73116e-170', 'd3d36496-40e', '963aab3f-cc0', '2e974695-d45', '0e57caf6-71c', '8ff82f17-5e7', 'ec8cda82-32b']
+confidence: 0.721
+evidence_ids: ['3a78e8ef-2bf', 'eff80f2b-395', '48730e79-38e', '58a92ac9-67e', '6b095518-ebf', '7c1eadeb-6de', 'ef63bee6-56d', 'b29ddb0b-938', 'b2d98a13-28c', '33cc5399-38e', '606c685b-510', '5061fefe-a55', '79d898a3-167', 'f7034f6b-b18', '79a57250-30b', '231e96c4-f21', 'd7de80ff-7d3', '7853f261-533', 'cc1a4233-86b', 'e083ad8d-546']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -156,22 +156,23 @@ evidence_ids: ['635ec983-622', 'd1ac176a-e4a', 'eddf07c1-313', '70f72b8a-1db', '
 
 
 
+
 ## Auto-Updated Data (2026-07-06)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| baggy pants | search | 0.90 |
-| boys, youth | search | 0.90 |
-| all over Bangladesh | search | 0.90 |
-| affordable | search | 0.80 |
-| shipping to Bangladesh | search | 0.90 |
-| ['best match', 'price', 'free shipping', 'fast delivery', 'free return'] | search | 0.90 |
-| ['t-shirts', 'polo shirts', 'casual shirts', 'summer wear'] | search | 0.90 |
-| across Bangladesh | search | 0.90 |
-| T-shirt manufacturer | search | 0.90 |
-| Bangladesh | search | 0.90 |
-| best factory prices | search | 0.90 |
-| highest-quality custom apparel | search | 0.90 |
-| luxury clothing | search | 0.90 |
-| Black Aura – Black & Cream Polka Dot Luxury Pret 3-Piece | search | 0.90 |
-| ['popularity', 'average rating', 'latest', 'price: low to high', 'price: high to | search | 0.90 |
+| 300 COTTON TERRY CLOTH CLEANING RAGS / SHOP TOWELS / 12X12- 25 DOZ. / WHOLESALE | search | 0.90 |
+| Bangladesh | search | 0.95 |
+| RD style women black dress warm size M Knitted | search | 0.90 |
+| Bangladesh | search | 0.95 |
+| TwelveClothing | search | 1.00 |
+| Bangladesh’s leading fashion brand offering premium clothing, trendy menswear, w | search | 0.95 |
+| clothing-fashion | search | 1.00 |
+| Tyzo | search | 1.00 |
+| A modern Bangladeshi clothing brand offering stylish, comfortable, and affordabl | search | 0.95 |
+| premium-quality outfits with perfect fits, fast delivery, and reliable service a | search | 0.90 |
+| clothing-fashion | search | 1.00 |
+| Mbrella | search | 1.00 |
+| Mondol group | search | 0.95 |
+| A lifestyle clothing brand known for its exceptional quality and trendy designs  | search | 0.95 |
+| clothing-fashion | search | 1.00 |

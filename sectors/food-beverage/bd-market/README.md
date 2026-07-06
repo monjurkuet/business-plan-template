@@ -2,8 +2,8 @@
 sector: food-beverage
 last_verified: 2026-07-06
 freshness: fresh
-confidence: 0.719
-evidence_ids: ['0b12e61a-ffc', 'e31d4ca7-609', '7db8ff79-77e', 'e92a00f7-8c1', '50ab5ee2-844', '758a436a-f45', '4497a908-295', '11b93781-923', '393f0045-373', 'e085633a-7f9', 'b819ac1e-635', '5a49a51c-b28', '394c8f93-ec3', 'cec3fd31-ea9', '0e375308-dcd', '49b527f6-9e8', '88ededb8-fcd', '24456ed6-3c5', 'b223ed4c-099', 'f664cc6b-dc1']
+confidence: 0.707
+evidence_ids: ['4b3bf392-b44', '7adc181d-7bc', 'f9631e11-5bd', '198dc0e0-997', 'c8655c9c-ace', '0f468f5e-c31', '73f26476-c7f', '6d63f3a4-91c', 'a553cd9d-618', 'd23c1b81-64a', '8d9e61df-f9f', '033c213e-c1f', '7af08dca-278', 'fb721fe3-d84', 'f47c7707-3bb', '3c73b148-8f8', '6cd8fa41-b89', 'c322ec2a-f51', '56452062-797', '5cdaef91-bc5']
 ---
 
 # Food & Beverage — Bangladesh Market
@@ -44,22 +44,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-06)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
 | Bangladesh's premier restaurant discovery platform. Connecting food lovers with  | search | 0.90 |
 | 2020 | search | 0.90 |
-| 942 | search | 0.95 |
-| 31564 | search | 0.95 |
-| ['Uttara', 'Dhanmondi'] | search | 0.90 |
-| ['family restaurants', 'local restaurants', 'fine dining'] | search | 0.90 |
-| Demand for restaurants in Bangladesh remains stable despite hundreds of new rest | search | 0.95 |
-| Local fast food shops shifting from single locations to franchise models. | search | 0.90 |
-| 2022-09-18 | search | 0.95 |
+| Burger King | search | 1.00 |
+| 2016-12-09 | search | 1.00 |
+| Tiffinbox Ltd. (subsidiary of Bangla Trac Group) | search | 1.00 |
+| Pizza Hut | search | 0.90 |
+| quick-service restaurant (QSR) | search | 0.90 |
+| 942 | search | 0.90 |
+| 31564 | search | 0.90 |
+| Dhaka City, Dhaka Division | search | 1.00 |
+| Top 20 Restaurant in Dhaka | search | 0.90 |
+| foreigners | search | 0.80 |
+| cheap buffet restaurants | search | 0.90 |
 | Dhaka | search | 1.00 |
-| foreigners | search | 0.90 |
-| international, cheap buffet | search | 0.90 |
-| Moharani Coffee House | search | 0.90 |
-| Houston | search | 0.90 |
-| Bangladeshi-inspired | search | 0.90 |
+| 96 | search | 0.90 |

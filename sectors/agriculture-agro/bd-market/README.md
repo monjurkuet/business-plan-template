@@ -2,8 +2,8 @@
 sector: agriculture-agro
 last_verified: 2026-07-06
 freshness: fresh
-confidence: 0.708
-evidence_ids: ['23f647d8-340', 'da1bca3a-aa1', '67fb869f-56c', 'a20552d2-7fb', '480134a4-800', '2f19b024-ff8', '5f84bba2-10d', 'f8b80417-515', '930b802a-569', '1c177e7b-6e1', '4a1b02b4-028', 'b426fad3-829', '3d9d6807-86a', '12a7d105-958', '1ee22901-4be', '94ff5bb7-b7d', '88890233-7d6', '6c4b0517-f8b', '2de30bde-dc4', '25ca2de0-2b0']
+confidence: 0.703
+evidence_ids: ['9c8d1228-dd2', '08599ebd-ab5', '65e63bf5-da4', '5d9bbafe-65a', '21bba2e2-9f1', '8b91dd87-ab4', '98dee37c-4b2', 'c6f39970-0a2', 'f8b3821c-d51', 'eb17e9d9-a57', '8c971957-2b5', '3e08c1d5-104', '8aa157b9-03b', 'ccf727d7-161', '5cbb715a-5b8', 'cceb7a5e-884', '7a978f38-92c', 'ffef064e-efe', '3da7cb15-0f4', '334e56b4-567']
 ---
 
 # Agriculture & Agro-processing — Bangladesh Market
@@ -45,22 +45,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-06)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 1.7 | search | 1.00 |
-| 12 | search | 1.00 |
-| 2020-2021 | search | 1.00 |
-| Morocco | search | 1.00 |
-| 483 | search | 1.00 |
-| Syngenta Bangladesh Limited | search | 1.00 |
-| fertilizer | search | 1.00 |
-| Supreme Seeds Company Limited | search | 1.00 |
-| Surovi Agro Industries Ltd. | search | 1.00 |
-| Neptune's Harvest Fish & Seaweed Liquid Fertilizer | search | 0.95 |
-| FS136 32 Oz. Fish & Seaweed Blend Fertilizer 2-3-1 | search | 0.90 |
-| organic fertilizer | search | 0.95 |
-| Ubuy Bangladesh | search | 0.95 |
-| Bangladesh Fertilizer Association | search | 0.95 |
-| Dhaka, Bangladesh | search | 0.95 |
+| Aftab Feed Products Limited | search | 1.00 |
+| high-quality livestock feed | search | 0.95 |
+| indirectly relates to fertilizer through the agricultural ecosystem | search | 0.90 |
+| ['Organic Nutrition Ltd.', 'Aftab Feed Products Limited'] | search | 0.95 |
+| ACI Fertilizer | search | 1.00 |
+| ['organic fertilizer', 'macro & micronutrient', 'foliar fertilizers'] | search | 0.95 |
+| modern methods and technology in soil management practices | search | 0.90 |
+| ensure high yields of crops | search | 0.90 |
+| agriculture-agro | search | 1.00 |
+| fertilizer manufacturing | search | 1.00 |
+| ['NPK fertilizer', 'organic fertilizer'] | search | 0.95 |
+| manufacturers, suppliers, importers, exporters | search | 0.90 |
+| agriculture-agro | search | 1.00 |
+| fertilizer manufacturing | search | 1.00 |
+| manufacturers, suppliers, importers, exporters, service providers | search | 0.95 |

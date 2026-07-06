@@ -2,8 +2,8 @@
 sector: electronics-gadgets
 last_verified: 2026-07-06
 freshness: fresh
-confidence: 0.712
-evidence_ids: ['44a979f3-b9d', '378e0901-069', 'fe303032-b0b', '2413f783-1a7', '301df7e5-c33', 'fe5388f6-8d2', '83d8b082-1eb', '79111930-4a7', 'f1c3c7c6-3aa', 'a273dcff-d51', 'ae589ab8-bf5', 'cf37c0ee-323', '6a51a1c9-07d', '8c3c0c9e-a2f', '30b4e312-e63', '1a507409-c8a', '9a98afca-12f', '3a73b6b5-622', '63575383-b80', '082ead3b-57f']
+confidence: 0.7
+evidence_ids: ['39622961-819', 'a2e9aa95-eb3', 'bce70ffe-7ed', 'faab1752-7df', 'ad11377b-126', '9d6d2051-123', '594b5f09-675', '2dec77ca-add', 'fd64d0cd-be6', '18990950-020', 'a7d5aa73-f30', 'd1bca6e4-e38', '71673109-d69', '0486f35c-c75', 'ee6ff045-b86', 'f9e7ca70-b98', '9b69a70e-042', '20cffa39-b66', '8ca6efc9-270', '7b8e19fb-1ad']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -144,21 +144,16 @@ evidence_ids: ['44a979f3-b9d', '378e0901-069', 'fe303032-b0b', '2413f783-1a7', '
 
 
 
+
 ## Auto-Updated Data (2026-07-06)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| home appliances | search | 0.90 |
-| ['ACs', 'refrigerators', 'washing machines', 'smart TVs', 'ovens'] | search | 0.95 |
-| unbeatable prices | search | 0.80 |
-| ['official warranty', 'EMI facilities', 'fast home delivery'] | search | 0.95 |
-| consumer electronics online shopping platform | search | 0.95 |
-| premium quality products | search | 0.90 |
-| Original Electronic Appliances | search | 0.95 |
-| authorized multi-brand electronics retailer | search | 0.95 |
-| Authentic products | search | 0.95 |
-| ['official warranty', '0% EMI', '16 superstores nationwide'] | search | 0.95 |
-| best price in BD | search | 0.90 |
-| Cash on delivery | search | 0.95 |
-| electronics | search | 0.85 |
-| tariffs | search | 0.90 |
+| competitive prices | search | 0.90 |
+| premium electronics | search | 0.80 |
+| best prices | search | 0.90 |
+| gadgets & premium accessories | search | 0.90 |
+| free shipping | search | 0.90 |
+| 15.00 | search | 0.90 |
+| BRANDS MEGA LTD | search | 1.00 |
+| Navana Tower (Level-18) 45 Gulshan Avenue, Gulshan-1 Dhaka -1212, Bangladesh | search | 1.00 |

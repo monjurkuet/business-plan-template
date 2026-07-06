@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-07-06
 freshness: fresh
-confidence: 0.752
-evidence_ids: ['552d88c0-e76', '2f26bc21-46f', 'bfdf7497-f9e', '17f2eb5b-711', '3047b0dd-b21', '013fe24f-6e6', '2b0430ee-6d7', '488d8329-bd5', '400d5ea4-ee5', 'e1918bc5-ded', '352381e2-bdd', 'e8fb8b0c-820', '230880a3-7b3', '9afb8a8b-30d', '0f10acdf-ff6', '551d327f-792', 'd4b56fd6-5d9', '6460cc5f-2f8', 'ce25fb9e-37d', '12fec22a-623']
+confidence: 0.753
+evidence_ids: ['62be3878-35b', 'f36deb69-ffc', '8341750c-10f', 'd13af83c-a83', 'f40cc456-af3', 'c6d3fa88-990', '7d4442b8-a43', '06d44e96-f86', '9e4a6751-ef8', '42db79d4-13b', 'd17e18ed-ad5', '6abdd311-b67', 'b2b00f27-e9c', 'a36c7399-21c', '650afeef-a77', 'a3d91dcd-021', '8452304b-36f', '02070827-ca8', '06d0821f-249', '1017a3d0-873']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -159,22 +159,23 @@ evidence_ids: ['552d88c0-e76', '2f26bc21-46f', 'bfdf7497-f9e', '17f2eb5b-711', '
 
 
 
+
 ## Auto-Updated Data (2026-07-06)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Top 10 interior design companies in Dhaka, Bangladesh | search | 0.90 |
-| Systems architecture firm specializing in building automation-first business eco | search | 0.95 |
-| Bangladesh | search | 0.95 |
-| NBBJ | search | 1.00 |
-| architecture | search | 1.00 |
-| TIME Recognizes NBBJ as Only Architecture Firm Among Its Most Influential Compan | search | 1.00 |
-| Fast Company Honors NBBJ as One of the World’s Most Innovative Architecture Firm | search | 1.00 |
-| PlayOn 24 | search | 0.90 |
-| Information Technology Enabled Services (ITES) and Software & App Development | search | 0.90 |
-| 2016 | search | 0.90 |
-| Junior Project Architect (Architecture) | search | 0.90 |
-| Luminous Engineering | search | 0.90 |
-| Bangladesh | search | 1.00 |
-| Top 10 Architecture Firms in Dhaka | search | 0.90 |
-| Dhaka, Bangladesh | search | 1.00 |
+| LIMRS Construction and Interior | search | 1.00 |
+| Blends architecture with creative construction | search | 1.00 |
+| Artificersarc | search | 1.00 |
+| Young firm, but growing fast with solid residential work | search | 1.00 |
+| Evangel Architects | search | 1.00 |
+| Offers complete design-build solutions | search | 1.00 |
+| 2025-10-13 | search | 1.00 |
+| SAL | search | 1.00 |
+| Leader in top architecture and engineering companies in Bangladesh 2025, with a  | search | 1.00 |
+| Shellmark Limited | search | 1.00 |
+| Top architectural firm in Bangladesh for safe, budget-friendly designs | search | 1.00 |
+| 2012 | search | 1.00 |
+| 2014 | search | 1.00 |
+| 2023-02-14 | search | 1.00 |
+| NPDL | search | 0.90 |

@@ -2,8 +2,8 @@
 sector: healthcare-pharma
 last_verified: 2026-07-06
 freshness: fresh
-confidence: 0.671
-evidence_ids: ['854c0d82-845', 'cf49ed6d-b4c', '97a663b8-a39', 'a0657e63-6ba', 'c2642631-c35', 'a02f3d03-5a6', 'dade0a81-f42', '02082fc8-348', '2f72e0f8-290', 'b2aee748-39f', '996cd4e4-5dd', '8601b4b8-213', 'c340d3d5-6c5', '3c32826b-206', '5e95aad3-8da', 'f6b55f5e-b49', 'e94caf23-027', 'c5b16a91-3dd', 'aac0514d-a2c', '48e1a891-d53']
+confidence: 0.687
+evidence_ids: ['5a02ad12-e49', 'dd238389-132', '1a3051be-b65', '8dae7257-d71', '5e52fc9c-28b', '183886c9-5fd', '0c574a77-136', '736c9f10-969', 'dc0346c8-8df', '061a5af8-89b', 'f53661ba-83e', 'f2d7964a-82b', 'be590bb5-23c', '468c5757-6b0', '52aa680b-f29', '5222615a-0ce', '13ec5649-7ec', '5988c47b-597', '669a9ec7-05f', '3c611afd-f0f']
 ---
 
 # Healthcare & Pharma — Bangladesh Market
@@ -44,20 +44,21 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-06)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
 | Medisafe Pharmacy | search | 0.95 |
-| ['Medical device', 'Natural medicine', 'Allopathic medicine'] | search | 0.90 |
 | healthcare-pharma | search | 1.00 |
-| Bangladesh | search | 1.00 |
+| ['Medical device', 'Natural medicine', 'Allopathic medicine'] | search | 0.95 |
+| supplier_company | search | 0.90 |
 | Wellbeing Pharmacy | search | 0.95 |
-| community-based | search | 0.90 |
-| ['Compounding', 'Consulting', 'Prescription checking', 'Delivery'] | search | 0.90 |
 | healthcare-pharma | search | 1.00 |
-| Bangladesh | search | 1.00 |
+| community-based pharmacy | search | 0.95 |
+| ['Compounding', 'Consulting', 'Prescription checking', 'Delivery of prescription | search | 0.95 |
+| legal | search | 0.90 |
 | Tani Pharmacy | search | 0.95 |
-| Mymensingh, Bangladesh | search | 0.90 |
-| ['Personalized services', 'Local delivery'] | search | 0.90 |
+| Mymensingh, Bangladesh | search | 0.95 |
 | healthcare-pharma | search | 1.00 |
+| ['Personalized services', 'Local delivery'] | search | 0.95 |

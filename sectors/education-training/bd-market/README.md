@@ -2,8 +2,8 @@
 sector: education-training
 last_verified: 2026-07-06
 freshness: fresh
-confidence: 0.708
-evidence_ids: ['7213ba4e-32e', 'b97766ec-510', '17c3f69b-dd2', 'c5784c04-d82', 'f5703296-5ca', '59018f5e-dbb', 'fa163796-344', '6b8897b6-c94', 'a9cea9ab-2f9', '890d4f90-01c', 'f8feddd5-eed', '1b5cb38c-5fa', 'c6d4b5f4-f5f', '30de0a4d-049', '14e479aa-7f3', '3bf6dcb8-3a7', 'a7bab9d1-e76', '2b083bb1-a48', 'dc2e5dee-f1b', 'b95e2aea-d2d']
+confidence: 0.702
+evidence_ids: ['56e08735-3b4', '993f917d-12f', '0b686ac7-324', 'fbfb1d50-177', 'e84f2318-15c', '2be5ac6d-53e', '550cbccf-f7b', '40d6dafe-008', 'ea491415-726', 'cccf35a0-7da', 'ea1a58c2-161', 'ca859ca3-965', 'ecab6bf9-38f', '8990b59e-4a8', '62d578a0-5b3', '9229527e-abd', '81640a7e-44f', 'e34cb32b-cf9', '78b65a66-147', '60dcec48-d4a']
 ---
 
 # Education & Training — Bangladesh Market
@@ -44,22 +44,19 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-06)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Medico Coaching Center | search | 0.95 |
-| coaching services | search | 0.95 |
-| Medical and University Admission Test preparation | search | 0.95 |
-| ['offline', 'online'] | search | 0.90 |
-| Enroute Center for Development | search | 0.95 |
-| executive training | search | 0.95 |
-| tailored individual and group training for all employee levels | search | 0.90 |
-| RR IT Support | search | 0.90 |
-| IT consulting | search | 0.90 |
-| IT | search | 0.90 |
-| FutureLeaders (FLS) | search | 0.95 |
-| leadership and soft skills training | search | 0.95 |
-| top leadership and soft skills training firm | search | 0.95 |
-| outdoor training (Outbound/Adventure training) | search | 0.95 |
-| ['top MNCs', 'national companies'] | search | 0.90 |
+| corporate coaching services | search | 0.90 |
+| Bangladesh | search | 1.00 |
+| 4654 | search | 0.90 |
+| ['Digicon Technologies Ltd', 'E-Learning & Earning LTD', 'U S Software Ltd', 'PM | search | 0.95 |
+| corporate training & coaching | search | 0.90 |
+| Bangladesh | search | 1.00 |
+| coaching classes and centers | search | 0.90 |
+| Bangladesh | search | 1.00 |
+| 4654 | search | 0.95 |
+| 2026-04-01 | search | 0.90 |
+| ['Training Pundit', 'ENSDI - ইন্সডি (training & consultancy)'] | search | 0.90 |

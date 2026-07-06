@@ -101,8 +101,9 @@ freshness: fresh
 
 
 
+
 ## Recent Findings (2026-07-06)
 
-- **www.archilovers.com** (conf: 0.89): Founded in 2005, Marina Tabassum Architects (MTA) is an internationally recognisedarchitectureand studio-based practice located inDhaka, Bangladesh.
+- **aavisstudio.com** (conf: 0.89): May 13, 2026 -Yes.Aavis Studiois headquartered in Khulna but actively delivers projects in Dhaka, Chittagong, and across Bangladesh. We have the team and project management infrastructure to handle na
 
-- **clutch.co** (conf: 0.69): 1 day ago ·Recommended EngineeringcompaniesinBangladeshinclude Perfect Solution, Studio 16 Architects, ANB UNIQUE REAL ESTATE LTD, Patenga Shipbuilding & Engineering, Alifs Engineering, DOER Steel Lim
+- **www.archilovers.com** (conf: 0.89): Founded in 2005, Marina Tabassum Architects (MTA) is an internationally recognisedarchitectureand studio-based practice located inDhaka, Bangladesh.

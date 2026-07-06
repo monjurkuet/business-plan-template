@@ -2,8 +2,8 @@
 sector: travel-tourism
 last_verified: 2026-07-06
 freshness: fresh
-confidence: 0.692
-evidence_ids: ['8ca00670-c42', '7d5697af-acb', '0894df38-624', '24468b0f-1ef', '5b2726ae-f3a', '39f36af3-8fa', '1e9111d7-7e6', '367461cb-5e9', '3347564c-2e1', 'a99caf40-0c7', '81c30456-1e4', '98c1a99d-253', 'aac500a3-202', '8d2698c5-762', '551769f0-c7d', 'b72e232f-450', 'b33f78d7-6fe', 'bd03cf45-8dd', '03ef1d0f-a22', 'c4436119-508']
+confidence: 0.699
+evidence_ids: ['c8813ad4-8c3', 'd3159619-953', '89c9b35e-161', 'cb56a897-039', '002689a7-80f', '21cf8b1d-9fb', '4bcfcf1e-376', '7a482e85-c54', 'c6517ca6-72c', 'da8e7b7c-f5d', 'e53a6cb1-ab0', '552f9644-29f', '8f5bc81a-58d', '8f2f5475-5ed', '899290c4-8c0', '4375aec0-bef', 'ba25ffbd-36f', '2be87f12-804', '6182882d-09c', '13f4b40f-224']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -120,18 +120,19 @@ evidence_ids: ['8ca00670-c42', '7d5697af-acb', '0894df38-624', '24468b0f-1ef', '
 
 
 
+
 ## Auto-Updated Data (2026-07-06)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| goFLY Limited | search | 1.00 |
-| IATA-certified | search | 1.00 |
-| 2017 | search | 1.00 |
-| Dhaka, Bangladesh | search | 1.00 |
-| Affordable prices | search | 0.90 |
-| ['Hotels', 'Visa', 'Tours', 'Flight booking'] | search | 1.00 |
-| ['air ticketing', 'visa processing', 'holiday packages', 'global tours'] | search | 0.90 |
+| IATA-certified travel agency providing flights, hotels, visas, and tours | search | 0.90 |
+| 2017 | search | 0.95 |
+| affordable prices | search | 0.80 |
+| Dhaka, Bangladesh | search | 0.95 |
+| Hotels, visa, tours, and flight booking services | search | 0.95 |
+| one trusted travel team | search | 0.90 |
+| air ticketing, visa processing, holiday packages, global tours | search | 0.90 |
 | smooth, safe, and affordable journey | search | 0.80 |
-| ['air tickets', 'hotels', 'tour packages'] | search | 0.95 |
-| best rates | search | 0.80 |
-| online | search | 0.95 |
+| air tickets, hotels, tour packages | search | 0.95 |
+| best rates, hassle-free travel solutions, seamless booking, exceptional value | search | 0.90 |
+| domestic and international tour packages, air ticket booking, visa assistance, h | search | 0.95 |
