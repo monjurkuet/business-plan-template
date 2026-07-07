@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-07-07
 freshness: fresh
-confidence: 0.725
-evidence_ids: ['154f6677-7e5', '468731f2-7db', '16eee6d8-549', 'ba662e1d-c01', '2ea0ac5b-98d', '82a9d714-9e6', 'bf29f3ec-172', 'e8fc133f-d4a', '4cd5496d-41e', '65c94880-07c', '74f8f40d-835', '91fd1449-557', '0f97a94f-c70', '532fa4f6-d67', 'fcc83128-e74', '92703d9c-fdc', 'a2b7ddd4-309', '99d9b1ed-929', '05780f25-3b5', '2b4c3c47-ae1']
+confidence: 0.735
+evidence_ids: ['eaf079b9-07b', 'f0dd5ca0-c88', '18018d8b-a3c', '75d68bb8-7e9', 'aa0fd82c-4cb', 'a564aefa-947', '2c435a93-23a', '46cc5b43-b46', 'f7e633d1-fe6', '89866759-b39', '2bafb7a4-89e', 'b5e6b874-23e', '8e5f6275-808', '3f47176e-0ed', 'da257bf0-7f8', '7dcc8cb4-2f2', '2fe64d30-b76', '428c2517-81e', '39c6d478-c96', '719a21fe-d3d']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -160,22 +160,23 @@ evidence_ids: ['154f6677-7e5', '468731f2-7db', '16eee6d8-549', 'ba662e1d-c01', '
 
 
 
+
 ## Auto-Updated Data (2026-07-07)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| baggy pants | search | 0.90 |
-| boys, youth | search | 0.90 |
-| all over Bangladesh | search | 0.90 |
-| affordable | search | 0.80 |
-| ['free shipping', 'fast delivery', 'free return'] | search | 0.90 |
-| ['best match', 'price'] | search | 0.90 |
-| ['t-shirts', 'polo shirts', 'casual shirts', 'summer wear'] | search | 0.95 |
-| across Bangladesh | search | 0.90 |
-| t-shirt manufacturer | search | 0.95 |
-| Bangladesh | search | 0.95 |
-| best factory prices | search | 0.90 |
-| highest-quality custom apparel | search | 0.90 |
-| Black Aura – Black & Cream Polka Dot Luxury Pret 3-Piece | search | 0.90 |
-| luxury pret | search | 0.90 |
-| ['popularity', 'average rating', 'latest', 'price: low to high', 'price: high to | search | 0.80 |
+| ['best match', 'price', 'free shipping', 'fast delivery', 'free return'] | search | 0.90 |
+| baggy pants | search | 1.00 |
+| boys | search | 1.00 |
+| premium quality fabric | search | 1.00 |
+| affordable | search | 0.90 |
+| all over Bangladesh | search | 1.00 |
+| ['t-shirts', 'polo shirts', 'casual shirts', 'summer wear'] | search | 1.00 |
+| across Bangladesh | search | 1.00 |
+| 7 days | search | 0.90 |
+| winter clothing (eco-friendly, anti-shrink fleece and cotton hoodies) | search | 0.95 |
+| trusted and reliable clothing manufacturer in Bangladesh | search | 0.95 |
+| best factory prices and highest-quality custom apparel | search | 0.90 |
+| 88 | search | 0.95 |
+| fell over the past month | search | 0.90 |
+| NY/ICE futures contract (July) | search | 0.95 |

@@ -2,8 +2,8 @@
 sector: healthcare-pharma
 last_verified: 2026-07-07
 freshness: fresh
-confidence: 0.713
-evidence_ids: ['a91fea05-953', '6a5e13a5-0cd', '1aad0874-49e', 'dd2e0ad9-1d5', 'd2fd1671-f11', '8597267f-586', '56326966-184', 'c2b54747-de6', '3088bb1b-d02', 'bae03242-b9a', '588c2d9b-0cc', '76ae6a7c-86f', '51ee2d77-6a0', '2b72fe76-d68', '06a7434e-145', '5838e225-fa2', '4ccadf77-115', '2577522b-7a7', '47be2dc1-26b', 'be343c1a-770']
+confidence: 0.665
+evidence_ids: ['5e12d556-2ce', '3c704917-6c0', '63c051fb-164', '75018ea0-0cc', 'cd538c2d-40f', '631b690b-cde', 'd433ae3f-288', 'ee9c44ed-4ac', '8b07796c-8ea', '9e49b557-b4a', '098eeb65-731', 'c6191d15-6de', '3759ef0a-1c8', '12ea3eb1-f5d', '078f2760-1f1', '2adfed47-215', 'a1e5fa36-f8a', 'c191206c-bfa', 'c2e71106-144', '3f23cf4a-ac1']
 ---
 
 # Healthcare & Pharma — Bangladesh Market
@@ -48,20 +48,18 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-07)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
 | MedisafePharmacy | search | 0.95 |
 | ['Medical device', 'Natural medicine', 'Allopathic medicine'] | search | 0.90 |
-| healthcare-pharma | search | 0.95 |
 | supplier_company | search | 0.90 |
 | healthcare-pharma | search | 0.95 |
-| pharmacy_directory | search | 0.90 |
-| community-based pharmacy | search | 0.95 |
-| ['Compounding', 'consulting', 'checking prescription medications', 'delivering p | search | 0.95 |
-| Wellbeing Pharmacy | search | 1.00 |
-| Madina Pharmacy | search | 1.00 |
-| business directory | search | 0.95 |
-| increased penetration of cheaper Internet and flourishing mobile with ease of In | search | 0.90 |
-| Bangladeshis are enjoying Internet shopping with awesome features and facilities | search | 0.90 |
+| list_of_pharmacies | search | 0.95 |
+| ['Phone numbers', 'Locations', 'Reviews', 'Photos'] | search | 0.90 |
+| Wellbeing Pharmacy | search | 0.95 |
+| community-based pharmacy | search | 0.90 |
+| ['Compounding', 'Consulting', 'Prescription checking', 'Medication delivery'] | search | 0.90 |
+| individuals in the immediate local area | search | 0.90 |

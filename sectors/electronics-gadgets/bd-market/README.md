@@ -2,8 +2,8 @@
 sector: electronics-gadgets
 last_verified: 2026-07-07
 freshness: fresh
-confidence: 0.717
-evidence_ids: ['c24cbdea-5da', '3dec80b7-a38', '1127edda-7dc', 'd955797c-f83', '8de52a21-f62', '29221c89-8d2', 'e08f2435-0cd', '8ff1ebd7-3fa', '8a1d003f-754', '06978b9f-b32', 'af5be7e5-abe', '4e34117e-737', 'c1136377-cd1', '6d9949cb-718', '1605f1c5-a78', 'c27eed8b-d9f', 'c032159b-030', '2db63515-c28', 'abbb28f6-b8e', 'f11954a8-169']
+confidence: 0.696
+evidence_ids: ['9fc1ca54-894', 'c9be3b33-bfe', '03c059ed-89a', 'ef5b9dbc-0c8', '80b26493-029', '9e914a69-f1c', '38979951-c87', '5fe606d9-067', '5d6557a3-a43', '133e30ab-d9f', '41e2137c-3cb', '6fde2b3b-a6a', 'fa67696b-0b3', '678a2873-e4b', '91617906-4f6', 'e58c937e-040', '04d284b1-9de', '4566209c-529', '8fc1136c-3bd', 'bfe45f3b-4cc']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -148,22 +148,20 @@ evidence_ids: ['c24cbdea-5da', '3dec80b7-a38', '1127edda-7dc', 'd955797c-f83', '
 
 
 
+
 ## Auto-Updated Data (2026-07-07)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ['ACs', 'refrigerators', 'washing machines', 'smart TVs', 'ovens'] | search | 0.90 |
-| ['official warranty', 'EMI facilities', 'fast home delivery'] | search | 0.90 |
-| home appliances | search | 0.90 |
-| authorized multi-brand electronics retailer | search | 0.90 |
-| 0% EMI | search | 0.95 |
-| 16 | search | 0.95 |
+| E-Commerce shop for Electronics, Gadget & Home Appliances | search | 0.95 |
+| smartphones | search | 0.95 |
+| ['Samsung', 'Xiaomi', 'OnePlus', 'Vivo', 'HONOR', 'Infinix', 'Tecno'] | search | 0.95 |
+| 100% genuine | search | 0.95 |
 | official warranty | search | 0.95 |
-| consumer electronics online shopping platform | search | 0.90 |
-| premium quality products | search | 0.90 |
-| official warranty | search | 0.80 |
-| one-stop shop for electronic and electrical products | search | 0.95 |
-| online destination for electronics and home appliances | search | 0.95 |
-| 2026 | search | 0.90 |
-| official warranty | search | 0.95 |
-| ['air conditioners', 'smart TVs', 'refrigerators'] | search | 0.95 |
+| competitive smartphone price in BD | search | 0.90 |
+| 53345 | search | 1.00 |
+| 16960 | search | 1.00 |
+| True | search | 0.90 |
+| 14699-31899 | search | 1.00 |
+| Express Delivery | search | 1.00 |
+| official warranty | search | 1.00 |

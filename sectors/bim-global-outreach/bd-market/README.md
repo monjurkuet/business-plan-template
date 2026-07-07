@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-07-07
 freshness: fresh
-confidence: 0.751
-evidence_ids: ['1a2421ed-b04', '658a49eb-74a', '7af3b1a8-cee', 'c208af2b-82a', '5d141d83-8f8', 'af408388-4e0', 'e4af8bb6-764', 'e3813e9a-487', '729059bc-e43', 'fb70651b-66a', '43d73a96-450', 'ea81d0bf-739', 'f9c30dfb-62a', '83081b4d-be2', 'c3579590-aa6', '95ab3ca8-a6e', '73549d1a-c3f', '8108c641-7fe', '737bbbb2-03b', '345ab3e6-d8c']
+confidence: 0.735
+evidence_ids: ['779cd312-42d', '1ad3c3a3-b47', '87b059fb-a51', '32099d98-136', '8e508ff1-cc8', '2fe1a679-429', '1be05e54-329', '66ff7617-a8b', '2ceb811c-4b2', '079be34d-62a', 'b692ab3a-41c', '0dd472dd-de8', 'daedd64f-c46', '17fa1d48-d07', '3bd81f67-301', '875d77d7-f40', 'd7275d40-0c5', '76f7f1f8-7bf', '954871eb-e46', '83c5d014-99b']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -163,22 +163,23 @@ evidence_ids: ['1a2421ed-b04', '658a49eb-74a', '7af3b1a8-cee', 'c208af2b-82a', '
 
 
 
+
 ## Auto-Updated Data (2026-07-07)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| interior design | search | 0.90 |
-| Dhaka, Bangladesh | search | 0.95 |
-| top companies list | search | 0.85 |
-| Globats | search | 0.95 |
-| systems architecture | search | 0.90 |
-| Bangladesh | search | 0.95 |
-| building automation-first business ecosystems | search | 0.90 |
-| NBBJ | search | 0.95 |
-| architecture and design | search | 0.90 |
-| TIME's Most Influential Companies List (only architecture firm) | search | 0.90 |
-| Fast Company's World’s Most Innovative Architecture Firms (5th time) | search | 0.90 |
-| EYRC Architects | search | 0.95 |
-| Ehrlich Architects | search | 0.95 |
-| modern residential and commercial architecture | search | 0.90 |
-| southern California | search | 0.95 |
+| RAJUK-registered | search | 0.95 |
+| sustainable architecture | search | 0.90 |
+| Dhaka | search | 0.95 |
+| growing faster than ever | search | 0.90 |
+| ['Dhaka', 'Khulna', 'Chattogram'] | search | 0.95 |
+| BNBC-2020 | search | 0.95 |
+| ['design creativity', 'BNBC-2020 compliance', 'transparent pricing', 'reliable p | search | 0.90 |
+| ['philosophy', 'sustainability', 'iconic projects'] | search | 0.90 |
+| Dhaka | search | 0.95 |
+| ['company reputation values', 'client reviews', 'google data analytics'] | search | 0.95 |
+| +880 171 861 29 66 | search | 0.95 |
+| Dhaka, Cantonment | search | 0.95 |
+| Civil & Architect | search | 0.90 |
+| architecture_firm | search | 0.95 |
+| Top 10 architecture firms in Dhaka, Bangladesh, redefining the city's skyline | search | 0.90 |

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-07T00:01:20.411064+00:00",
+  "generated_at": "2026-07-07T06:05:35.529927+00:00",
   "summary": {
     "fresh": 92,
-    "stale": 22,
+    "stale": 21,
     "critical": 47,
     "approaching_stale": 2
   },
@@ -600,17 +600,6 @@
       "stale_after_days": 45,
       "critical_after_days": 90,
       "reason": "File age 61d exceeds freshness threshold for competitor_core_profile"
-    },
-    {
-      "path": "sectors/construction-real-estate/bd-market/README.md",
-      "sector": "construction-real-estate",
-      "category": "default",
-      "age_days": 0,
-      "stale_type": "stale_reference",
-      "priority": "P1",
-      "stale_after_days": 90,
-      "critical_after_days": 180,
-      "reason": "Contains stale year references: 2023"
     },
     {
       "path": "sectors/crypto-bitcoin/bd-market/research/2026-05-06-full-landscape-report.md",

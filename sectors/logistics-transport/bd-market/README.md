@@ -2,8 +2,8 @@
 sector: logistics-transport
 last_verified: 2026-07-07
 freshness: fresh
-confidence: 0.675
-evidence_ids: ['cb711c31-935', '7403d634-820', 'c4f5cba2-c18', '7ec69ef3-d08', '63aba3e5-843', 'ffc2fbb2-a44', '25829a91-a7b', '4c25f9fb-37f', 'c753d15c-f28', '5983e2fe-ab3', '7dcfc277-809', '747011cc-44f', '6e13f006-c90', '70767dd4-fdf', 'fa009832-ba8', '7940dbcf-5d2', '74db34d6-3d2', '01b87436-f81', '1f73a24c-8fd', '02d0edc9-f16']
+confidence: 0.669
+evidence_ids: ['70f6aeb3-a19', 'd1f8606f-a98', 'e4e10bef-627', 'ca63058c-623', '04c0f9ee-880', 'eb7cf68d-4b3', '831f360c-fc2', '555fefbd-067', 'a723776a-636', 'd064f56d-31d', 'b7356246-f3e', '412946a6-b52', '0f6ffaab-623', 'f87e9cbf-6d7', '906d00b4-a1e', 'f659a77b-199', '6ad6411c-4a4', '34ef943f-8a1', '371bf9cc-efe', 'c8a67556-025']
 ---
 
 # Logistics & Transport — Bangladesh Market

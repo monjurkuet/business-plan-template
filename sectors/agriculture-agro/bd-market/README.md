@@ -2,8 +2,8 @@
 sector: agriculture-agro
 last_verified: 2026-07-07
 freshness: fresh
-confidence: 0.708
-evidence_ids: ['cb4b250d-e6e', '3ede81e4-d6a', '64295b9e-154', '14c668e3-86c', '2fdd272e-cec', '0bdb89ec-083', 'a9313a8d-2c5', '40902080-ee6', '46fb1176-90b', 'a8bc8887-3c3', 'c449a7ac-25d', '7cdf2458-8e5', '84799bb5-e5b', 'd9f70202-a65', 'af8d92f7-4a0', 'a4bea1cf-181', '7b8b44ba-e7e', '5398620f-c7d', '36882b92-c4d', '6bd9c7ac-d35']
+confidence: 0.7
+evidence_ids: ['ffa50da2-d91', 'f0bddac3-fc7', 'd7a72273-869', '31abd19c-eb0', '165347e2-bb3', '315a3f42-746', 'b8fd8f74-cc0', '67cfe640-676', 'ff8acbb9-053', 'b6148556-36c', '1e3a91bc-8a9', 'bbab4418-7bf', 'f011c38d-562', '97e2829e-fed', '604950c9-90b', 'b55f8365-8d4', '4f4a9e56-133', 'ff09b9d0-489', '1f998c6e-9ad', '802a9901-72b']
 ---
 
 # Agriculture & Agro-processing — Bangladesh Market
@@ -49,6 +49,7 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-07)
 
 | Fact | Source | Confidence |
@@ -63,8 +64,8 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 | 32 Oz | search | 0.95 |
 | 2-3-1 | search | 0.95 |
 | organic fertilizer | search | 0.95 |
-| Syngenta Bangladesh Limited – সিনজেন্টা বাংলাদেশ লিমিটেড | search | 0.95 |
-| Supreme Seeds Company Limited- (সুপ্রিম সীড কোম্পানি লি.) | search | 0.95 |
-| Surovi Agro Industries Ltd. | search | 0.95 |
-| fertilizer | search | 0.90 |
-| Bangladesh Agricultural And Forest Development Ltd. | search | 0.95 |
+| Ubuy Bangladesh | search | 0.95 |
+| Syngenta Bangladesh Limited | search | 0.95 |
+| সিনজেন্টা বাংলাদেশ লিমিটেড | search | 0.95 |
+| Supreme Seeds Company Limited | search | 0.95 |
+| সুপ্রিম সীড কোম্পানি লি. | search | 0.95 |
