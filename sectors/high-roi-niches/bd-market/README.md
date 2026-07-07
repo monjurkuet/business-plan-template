@@ -1,9 +1,9 @@
 ---
 sector: high-roi-niches
-last_verified: 2026-07-06
+last_verified: 2026-07-07
 freshness: fresh
-confidence: 0.724
-evidence_ids: ['dc2376cc-9e7', 'd33c9e1c-c38', 'd7bcfaac-ff8', 'a4c02880-365', 'c16099ab-ce9', '03fc487a-5ca', 'f11e9b50-25f', '8fbab1c3-189', '19cd8607-9da', '28c6f327-a71', 'a0db9529-f83', '1d80c0df-6bb', '7f5da5ff-f50', 'eaeeaedf-6b7', '3863749d-540', '491cf093-d5a', 'ab51d9b7-215', 'ae0e9de2-f09', '74aa0f61-21c', '27ef9197-d53']
+confidence: 0.704
+evidence_ids: ['d77fcde0-db3', '716fa147-e09', '81030ba2-6f7', '273f9489-088', '15eb53a9-76b', '321b8a0d-dd9', '916428b8-66d', 'aa6ffb2a-8a8', '32bd27a5-66f', 'ee73ff55-c1b', 'dce45c71-5cc', '8d314784-e2e', '0abcaa8f-6c4', '6c1267f2-9d0', 'f1e0d67a-0be', '7a0dc334-9db', 'b2517951-b24', 'b9eecd9f-e41', '69bff134-db3', 'ad52454f-7da']
 ---
 
 # High-ROI Niches — Bangladesh Market
@@ -136,22 +136,18 @@ This sector captures high-growth, high-margin niche opportunities in Bangladesh.
 
 
 
-## Auto-Updated Data (2026-07-06)
+
+## Auto-Updated Data (2026-07-07)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| pet supplies, dog food, cat food, pet products, toys, accessories | search | 0.95 |
-| best prices | search | 0.90 |
-| fast home delivery across Dhaka | search | 0.95 |
-| online pet shop | search | 0.95 |
-| dog food, cat food | search | 0.95 |
-| best prices | search | 0.90 |
-| fast home delivery across Dhaka | search | 0.95 |
-| online pet shop | search | 0.95 |
-| pet products, food, toys, accessories | search | 0.95 |
-| affordable prices | search | 0.90 |
-| fast delivery, top-notch customer service | search | 0.95 |
-| top pet shop in Bangladesh | search | 0.90 |
-| feline care | search | 0.95 |
-| open for feline patients | search | 0.95 |
-| pet food, accessories, care products | search | 0.95 |
+| HIT LIFE cat food | search | 0.90 |
+| grain-free cat food | search | 0.90 |
+| cat food price | search | 0.80 |
+| PetZone BD | search | 0.95 |
+| petzonebd.com | search | 0.95 |
+| Pampered Paws Bangladesh | search | 0.90 |
+| PetCare Bangladesh | search | 0.95 |
+| MH Imran | search | 0.90 |
+| Managing Director | search | 0.90 |
+| Bangladesh Veterinary and Pet Care Network (BVPN) | search | 0.90 |

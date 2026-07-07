@@ -1,9 +1,9 @@
 ---
 sector: clothing-fashion
-last_verified: 2026-07-06
+last_verified: 2026-07-07
 freshness: fresh
-confidence: 0.723
-evidence_ids: ['c001c2ed-a7a', '138b57a6-123', 'f4d80662-cb0', '3cf25aef-6eb', '51eeac84-e14', '45a4c5ed-686', 'ba13c07d-d26', 'e1a3aa9f-e43', 'b7c38363-ea2', '48e5de06-808', '3826da29-c6f', 'fac8ff24-26e', '12c1e40f-98b', '0e429b9f-76d', '32814283-941', '203ab442-c0e', 'cea9a5cd-548', '4e605360-b3c', '66fb5cea-263', '6ad3bbb6-d35']
+confidence: 0.725
+evidence_ids: ['154f6677-7e5', '468731f2-7db', '16eee6d8-549', 'ba662e1d-c01', '2ea0ac5b-98d', '82a9d714-9e6', 'bf29f3ec-172', 'e8fc133f-d4a', '4cd5496d-41e', '65c94880-07c', '74f8f40d-835', '91fd1449-557', '0f97a94f-c70', '532fa4f6-d67', 'fcc83128-e74', '92703d9c-fdc', 'a2b7ddd4-309', '99d9b1ed-929', '05780f25-3b5', '2b4c3c47-ae1']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -159,22 +159,23 @@ evidence_ids: ['c001c2ed-a7a', '138b57a6-123', 'f4d80662-cb0', '3cf25aef-6eb', '
 
 
 
-## Auto-Updated Data (2026-07-06)
+
+## Auto-Updated Data (2026-07-07)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Tyzo is a modern Bangladeshi clothing brand offering stylish, comfortable, and a | search | 1.00 |
-| premium-quality outfits, perfect fits, fast delivery, reliable service | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| Twelve Clothing is Bangladesh’s leading fashion brand offering premium clothing, | search | 1.00 |
-| menswear, womenswear, kidswear, panjabi, kurti, gowns, t-shirts, polos | search | 1.00 |
-| Frequently asked questions about womens clothing prices and availability in Bang | search | 1.00 |
-| JamaKapor is Bangladesh's largest online fashion store offering clothes, dresses | search | 1.00 |
-| Best prices in home delivery | search | 0.90 |
-| clothes, dresses, shoes | search | 1.00 |
-| men, women, kids | search | 1.00 |
-| Sailor is one of the best fashion retail brands in Bangladesh, offering trendy m | search | 1.00 |
-| Epyllion Group | search | 1.00 |
-| menswear, womenswear, kidswear, lifestyle essentials | search | 1.00 |
-| sailor.clothing | search | 1.00 |
-| sailing life | search | 1.00 |
+| baggy pants | search | 0.90 |
+| boys, youth | search | 0.90 |
+| all over Bangladesh | search | 0.90 |
+| affordable | search | 0.80 |
+| ['free shipping', 'fast delivery', 'free return'] | search | 0.90 |
+| ['best match', 'price'] | search | 0.90 |
+| ['t-shirts', 'polo shirts', 'casual shirts', 'summer wear'] | search | 0.95 |
+| across Bangladesh | search | 0.90 |
+| t-shirt manufacturer | search | 0.95 |
+| Bangladesh | search | 0.95 |
+| best factory prices | search | 0.90 |
+| highest-quality custom apparel | search | 0.90 |
+| Black Aura – Black & Cream Polka Dot Luxury Pret 3-Piece | search | 0.90 |
+| luxury pret | search | 0.90 |
+| ['popularity', 'average rating', 'latest', 'price: low to high', 'price: high to | search | 0.80 |

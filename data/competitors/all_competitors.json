@@ -2482,19 +2482,15 @@
       "name": "pickaboo",
       "sector": "electronics-gadgets",
       "frontmatter": {
-        "entity_type": "competitor",
         "sector": "electronics-gadgets",
-        "entity_slug": "2026-05-06-pickaboo",
-        "last_verified_at": "2026-06-25T12:00:00Z",
-        "freshness_status": "fresh",
-        "confidence_score": "0.50",
-        "primary_sources": "- []"
+        "last_verified": "2026-07-07",
+        "freshness": "fresh"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-pickaboo",
-      "last_verified_at": "2026-06-25T12:00:00Z",
-      "freshness_status": "fresh",
-      "confidence_score": 0.5,
+      "last_verified_at": "",
+      "freshness_status": "unknown",
+      "confidence_score": 0.0,
       "strengths": [
         "1. Authorized Apple reseller with genuine warranty.",
         "2. EMI partnerships with banks.",

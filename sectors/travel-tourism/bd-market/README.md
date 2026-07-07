@@ -1,9 +1,9 @@
 ---
 sector: travel-tourism
-last_verified: 2026-07-06
+last_verified: 2026-07-07
 freshness: fresh
-confidence: 0.706
-evidence_ids: ['893d8716-301', '54acfaee-68c', 'dca9347d-b1e', '3637425a-c78', '85e36316-0c5', '5effb0fc-c9b', 'ee61d265-a71', '87a62c52-f9d', '583fced8-4ca', 'd313cc17-7db', '8f441b2a-b12', '28e8b315-a96', 'cc2ac028-2ad', '1786e5d2-696', 'd463662f-f62', '5b356383-a7b', '2abdbca7-57d', 'bc456529-d0c', 'ade3b249-030', '50c0f0c5-487']
+confidence: 0.689
+evidence_ids: ['20e1801f-2c0', '76c5c1d0-127', '1d5e956a-349', 'f10e30a0-0bc', 'f94dbd2a-2f5', '2d3590f8-3be', '42f93d7c-760', '544a6c90-c9a', '356b6e11-809', 'b9c827b5-038', 'e3cb6bb1-493', 'ffd4a7c4-097', '00307450-7dc', 'e6999482-d01', '621b6040-ea0', 'dabec731-b15', '690f1445-e2c', '26f7ef76-8c6', 'ba093ffa-4e4', 'b7fd1ec1-259']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -123,22 +123,12 @@ evidence_ids: ['893d8716-301', '54acfaee-68c', 'dca9347d-b1e', '3637425a-c78', '
 
 
 
-## Auto-Updated Data (2026-07-06)
+
+## Auto-Updated Data (2026-07-07)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Eammu Holidays | search | 1.00 |
-| #1 travel agency in Bangladesh | search | 0.95 |
+| Eammu Holidays | search | 0.95 |
+| Bangladesh's #1 travel agency | search | 0.95 |
 | ['tourist visas', 'student visas', 'work visas', 'Umrah packages 2026', 'interna | search | 0.95 |
 | ['Dubai', 'Georgia', 'Armenia', 'Europe'] | search | 0.95 |
-| Bangladesh travel agency offering amazing tour and travel packages at affordable | search | 0.95 |
-| affordable price | search | 0.90 |
-| Travel Agency Bangladesh | search | 1.00 |
-| ['affordable tour packages', 'air tickets', 'visa support'] | search | 0.95 |
-| affordable | search | 0.90 |
-| online travel agency platform | search | 0.95 |
-| Dhaka District, Dhaka | search | 0.95 |
-| 2026-06-13 | search | 0.90 |
-| study abroad, visa services, cheap air tickets | search | 0.90 |
-| ['UK', 'Canada', 'Russia', 'USA'] | search | 0.90 |
-| travel agency | search | 0.95 |

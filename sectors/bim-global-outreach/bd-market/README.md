@@ -1,9 +1,9 @@
 ---
 sector: bim-global-outreach
-last_verified: 2026-07-06
+last_verified: 2026-07-07
 freshness: fresh
-confidence: 0.755
-evidence_ids: ['fe89e6de-580', '6643efc1-c57', 'e224218f-b56', '318c9447-4a8', '8344fa9d-4ba', '402aaadb-75e', '1f833877-2b7', '4ee82565-86e', '1e4cb20d-32b', '092a19ad-281', 'd3c2791b-12e', 'e33a96bd-90a', 'e42f72dd-2b4', 'f7e0469b-1c0', '7b6811ba-162', '72014729-882', '6df13ba2-6dc', '249a77f4-6fa', 'e627f841-a06', 'a30e4ba0-fa0']
+confidence: 0.751
+evidence_ids: ['1a2421ed-b04', '658a49eb-74a', '7af3b1a8-cee', 'c208af2b-82a', '5d141d83-8f8', 'af408388-4e0', 'e4af8bb6-764', 'e3813e9a-487', '729059bc-e43', 'fb70651b-66a', '43d73a96-450', 'ea81d0bf-739', 'f9c30dfb-62a', '83081b4d-be2', 'c3579590-aa6', '95ab3ca8-a6e', '73549d1a-c3f', '8108c641-7fe', '737bbbb2-03b', '345ab3e6-d8c']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -162,22 +162,23 @@ evidence_ids: ['fe89e6de-580', '6643efc1-c57', 'e224218f-b56', '318c9447-4a8', '
 
 
 
-## Auto-Updated Data (2026-07-06)
+
+## Auto-Updated Data (2026-07-07)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
 | interior design | search | 0.90 |
 | Dhaka, Bangladesh | search | 0.95 |
-| firm | search | 0.90 |
+| top companies list | search | 0.85 |
 | Globats | search | 0.95 |
 | systems architecture | search | 0.90 |
 | Bangladesh | search | 0.95 |
 | building automation-first business ecosystems | search | 0.90 |
-| firm | search | 0.90 |
 | NBBJ | search | 0.95 |
-| architecture and design | search | 0.95 |
+| architecture and design | search | 0.90 |
 | TIME's Most Influential Companies List (only architecture firm) | search | 0.90 |
-| Fast Company's World’s Most Innovative Architecture Firms (fifth time) | search | 0.90 |
-| firm | search | 0.90 |
-| Trikon Architects | search | 0.95 |
-| architecture and interior design | search | 0.90 |
+| Fast Company's World’s Most Innovative Architecture Firms (5th time) | search | 0.90 |
+| EYRC Architects | search | 0.95 |
+| Ehrlich Architects | search | 0.95 |
+| modern residential and commercial architecture | search | 0.90 |
+| southern California | search | 0.95 |

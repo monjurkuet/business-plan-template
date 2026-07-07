@@ -1,9 +1,9 @@
 ---
 sector: food-beverage
-last_verified: 2026-07-06
+last_verified: 2026-07-07
 freshness: fresh
-confidence: 0.721
-evidence_ids: ['41a4dedd-cef', 'c0eb000c-0a2', 'ee9cbd3f-db4', '5eb840dc-036', '8a10692a-47d', '3c288acd-efc', '6b67275c-e86', 'ddacb0f3-3fd', '80529201-801', '39f61dea-1f0', 'fbc78ced-56e', '42490593-9d2', 'b74e40ad-679', 'f73ff3ef-31c', '8854561d-d0d', 'd6b0da89-aa3', '2bedfed2-375', '535443d7-d61', '2fedb178-87d', '4c40641a-74b']
+confidence: 0.728
+evidence_ids: ['48971509-9c6', 'bf5645ca-75d', 'aae6d742-30d', 'e2449818-f9e', 'fb1d0c26-070', '13a0afaf-43b', '4e5486be-2f7', '2ad3fd89-f4b', '4723c04d-42e', '434f3bfd-28e', '029cbb61-1cb', 'e8837d3b-ca3', '5e9c0561-c63', '3a6c10a0-733', 'bc8ec086-ea5', '80759344-1d6', '6c88b77e-0bb', '7dc3db2a-309', '6599b25e-e3d', '4925155d-9cf']
 ---
 
 # Food & Beverage — Bangladesh Market
@@ -47,22 +47,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
-## Auto-Updated Data (2026-07-06)
+
+## Auto-Updated Data (2026-07-07)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 20 minutes from downtown Montreal | search | 0.90 |
-| rooftop restaurant | search | 1.00 |
-| stunning views and delicious cuisine | search | 1.00 |
-| Bangladeshi | search | 1.00 |
-| Delhi Belly Restaurant | search | 0.80 |
-| 16 Top Bangladeshi Food for an Authentic Experience | search | 1.00 |
-| AlauddinRestaurant | search | 1.00 |
-| Qatar | search | 1.00 |
-| Not Halal | search | 1.00 |
-| Restaurant | search | 1.00 |
-| MOUBAN RESTURENT | search | 1.00 |
-| Rangpur | search | 1.00 |
-| Kachari Bazar | search | 1.00 |
-| Bangladeshi | search | 1.00 |
-| ['Reis (Bhat)', 'Eier (Dim)', 'Chicken byriani', 'Gemüse (shobji)', 'Linsen (Dal | search | 1.00 |
+| Restaurants.BD | search | 0.95 |
+| Bangladesh's premier restaurant discovery platform | search | 0.95 |
+| 2020 | search | 0.90 |
+| BD Trade Info | search | 0.95 |
+| Yellow Pages for restaurants in Bangladesh | search | 0.90 |
+| ['Dhaka', 'Uttara', 'Dhanmondi'] | search | 0.90 |
+| Bangladeshi cuisine | search | 0.90 |
+| ['family restaurants', 'local restaurants', 'fine dining'] | search | 0.90 |
+| Tripadvisor | search | 0.95 |
+| Dhaka City, Dhaka Division | search | 0.95 |
+| 31582 | search | 0.95 |
+| 944 | search | 0.95 |
+| ['cuisine', 'price', 'location'] | search | 0.90 |
+| Demand for restaurants in Bangladesh remains stable despite frequent new opening | search | 0.90 |
+| Local fast food shops in Bangladesh are shifting from single locations to franch | search | 0.90 |

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-06T12:11:19.023594+00:00",
+  "generated_at": "2026-07-07T00:08:47.174612+00:00",
   "summary": {
     "files_checked": 215,
-    "violations": 4,
+    "violations": 5,
     "warnings": 0
   },
   "violations": [
@@ -23,6 +23,11 @@
     },
     {
       "file": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-daraz.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-pickaboo.md",
       "type": "missing_field",
       "detail": "Missing required field: confidence"
     }

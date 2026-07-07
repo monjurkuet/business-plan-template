@@ -1,9 +1,9 @@
 ---
 sector: agriculture-agro
-last_verified: 2026-07-06
+last_verified: 2026-07-07
 freshness: fresh
-confidence: 0.703
-evidence_ids: ['de71f532-93e', '291c54e9-034', 'efece0c4-dea', 'db6bc1a3-e90', '7d0cfde5-131', '898ef981-61d', 'a9b64079-702', 'c6f1eae0-338', 'b01355e9-0a0', 'bc4b12fb-433', '47b8e072-729', '2982e571-64f', '82c886b8-28c', 'f62d23dd-2b2', 'd4638cbf-538', '8dc3322c-abf', '6c564f62-a26', '76546eb1-9e8', 'fd90c0d8-a09', 'e4adcb5a-c2d']
+confidence: 0.708
+evidence_ids: ['cb4b250d-e6e', '3ede81e4-d6a', '64295b9e-154', '14c668e3-86c', '2fdd272e-cec', '0bdb89ec-083', 'a9313a8d-2c5', '40902080-ee6', '46fb1176-90b', 'a8bc8887-3c3', 'c449a7ac-25d', '7cdf2458-8e5', '84799bb5-e5b', 'd9f70202-a65', 'af8d92f7-4a0', 'a4bea1cf-181', '7b8b44ba-e7e', '5398620f-c7d', '36882b92-c4d', '6bd9c7ac-d35']
 ---
 
 # Agriculture & Agro-processing — Bangladesh Market
@@ -48,7 +48,8 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
-## Auto-Updated Data (2026-07-06)
+
+## Auto-Updated Data (2026-07-07)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
@@ -56,14 +57,14 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 | 12 | search | 0.95 |
 | Morocco | search | 0.90 |
 | 483 | search | 0.90 |
-| Bangladesh Fertilizers & Agrochemicals Ltd | search | 0.95 |
-| +88029883744, +88028 | search | 0.80 |
-| tremendously large by volume | search | 0.90 |
+| 2021 | search | 0.95 |
 | Neptune's Harvest Fish & Seaweed Liquid Fertilizer | search | 0.95 |
 | FS136 | search | 0.95 |
 | 32 Oz | search | 0.95 |
 | 2-3-1 | search | 0.95 |
 | organic fertilizer | search | 0.95 |
-| Ubuy Bangladesh | search | 0.95 |
+| Syngenta Bangladesh Limited – সিনজেন্টা বাংলাদেশ লিমিটেড | search | 0.95 |
+| Supreme Seeds Company Limited- (সুপ্রিম সীড কোম্পানি লি.) | search | 0.95 |
+| Surovi Agro Industries Ltd. | search | 0.95 |
+| fertilizer | search | 0.90 |
 | Bangladesh Agricultural And Forest Development Ltd. | search | 0.95 |
-| Bangladesh | search | 0.95 |

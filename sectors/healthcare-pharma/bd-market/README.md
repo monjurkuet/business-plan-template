@@ -1,9 +1,9 @@
 ---
 sector: healthcare-pharma
-last_verified: 2026-07-06
+last_verified: 2026-07-07
 freshness: fresh
-confidence: 0.72
-evidence_ids: ['66185627-e47', '67b957cb-209', '76257096-99f', '4ecb3027-1a3', '56f6628f-f28', 'be7af516-b90', 'b6e3ce1e-398', '73ce8bca-8d5', 'cdf1b1ba-9d0', '60726c85-2f2', '73bb8295-546', '2f33844f-e07', '325c9ff7-e6a', 'cedb3cae-fdd', 'd9562d29-f3f', '7bc35506-c1c', 'ac03c6b8-9f6', '36c63897-11f', '1a7ba3db-5a2', '8537f011-111']
+confidence: 0.713
+evidence_ids: ['a91fea05-953', '6a5e13a5-0cd', '1aad0874-49e', 'dd2e0ad9-1d5', 'd2fd1671-f11', '8597267f-586', '56326966-184', 'c2b54747-de6', '3088bb1b-d02', 'bae03242-b9a', '588c2d9b-0cc', '76ae6a7c-86f', '51ee2d77-6a0', '2b72fe76-d68', '06a7434e-145', '5838e225-fa2', '4ccadf77-115', '2577522b-7a7', '47be2dc1-26b', 'be343c1a-770']
 ---
 
 # Healthcare & Pharma — Bangladesh Market
@@ -47,22 +47,21 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
-## Auto-Updated Data (2026-07-06)
+
+## Auto-Updated Data (2026-07-07)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Medisafe Pharmacy | search | 1.00 |
-| healthcare-pharma | search | 1.00 |
-| ['Medical device', 'Natural medicine', 'Allopathic medicine'] | search | 0.95 |
-| Bangladesh | search | 1.00 |
-| healthcare-pharma | search | 1.00 |
-| pharmacy_listing | search | 0.90 |
-| Wellbeing Pharmacy | search | 1.00 |
-| healthcare-pharma | search | 1.00 |
+| MedisafePharmacy | search | 0.95 |
+| ['Medical device', 'Natural medicine', 'Allopathic medicine'] | search | 0.90 |
+| healthcare-pharma | search | 0.95 |
+| supplier_company | search | 0.90 |
+| healthcare-pharma | search | 0.95 |
+| pharmacy_directory | search | 0.90 |
 | community-based pharmacy | search | 0.95 |
-| ['Compounding', 'Consulting', 'Prescription checking', 'Medication delivery'] | search | 0.95 |
-| Bangladesh | search | 1.00 |
-| TaniPharmacy | search | 1.00 |
-| Mymensingh, Bangladesh | search | 1.00 |
-| personalized services, local delivery | search | 1.00 |
-| within 20 minutes by walking or by car/public transport | search | 1.00 |
+| ['Compounding', 'consulting', 'checking prescription medications', 'delivering p | search | 0.95 |
+| Wellbeing Pharmacy | search | 1.00 |
+| Madina Pharmacy | search | 1.00 |
+| business directory | search | 0.95 |
+| increased penetration of cheaper Internet and flourishing mobile with ease of In | search | 0.90 |
+| Bangladeshis are enjoying Internet shopping with awesome features and facilities | search | 0.90 |

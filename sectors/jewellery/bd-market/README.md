@@ -1,9 +1,9 @@
 ---
 sector: jewellery
-last_verified: 2026-07-06
+last_verified: 2026-07-07
 freshness: fresh
-confidence: 0.686
-evidence_ids: ['14ae97ec-582', '4a79d81a-456', '8e92895d-b95', '4a786ce2-bce', '69927b31-b4c', 'f709f8ac-7b0', '96e35d96-9cf', 'ff02a2fb-7ad', '64245a9a-24d', '5c14702c-75b', '7fa304f1-7fa', 'e927316c-390', 'b9dc317a-949', 'ed377326-8dc', '9ba5a588-551', '99d23f2e-f8c', 'a6da29c8-7a4', 'd2286a10-9d1', '8a103fe3-d6f', '39baad34-887']
+confidence: 0.701
+evidence_ids: ['e9245458-b4d', 'b4efdec5-62d', '172569fa-b7c', '22ddb53a-83d', '162607be-504', '5c632258-e29', '3d16c076-27f', '7e41c0be-430', '9e44bce1-a09', '205486f6-32a', '9ba182ee-64c', 'a300cf01-31a', '77099d0a-b8a', 'b3917b22-516', '89d1fa79-873', 'fd0ddbb7-a42', '978cbe34-617', '8fee7ce4-35e', '1a9d9c4c-df3', 'ed56deba-d94']
 ---
 
 # Jewellery — Bangladesh Market
@@ -134,20 +134,16 @@ evidence_ids: ['14ae97ec-582', '4a79d81a-456', '8e92895d-b95', '4a786ce2-bce', '
 
 
 
-## Auto-Updated Data (2026-07-06)
+
+## Auto-Updated Data (2026-07-07)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Above price changes are impacted on all gold jewellers in Bangladesh | search | 0.90 |
-| churi, chain, gold bracelet | search | 0.95 |
-| 200 to 3000 | search | 0.95 |
-| fashion jewellery for daily and festive wear | search | 0.90 |
-| gold and diamond online jewellery shop | search | 0.95 |
-| affordable | search | 0.80 |
-| jewellery brand | search | 0.95 |
-| Jamuna Future Park, Level-2, Block-C, Shop No.36 | search | 0.95 |
-| 2019-10-11 | search | 0.95 |
-| Al-Amin Jewellers | search | 1.00 |
-| jewellery | search | 1.00 |
-| pioneer in online jewellery shop in Bangladesh | search | 1.00 |
-| best price when buying gold from customers | search | 0.90 |
+| Wish Pearl Necklace | search | 0.90 |
+| low price | search | 0.80 |
+| Limited stock jewelry sale | search | 0.90 |
+| Pearl lovers in Bangladesh | search | 0.90 |
+| Budget jewelry, Elegant necklace, Affordable elegant jewelry, Unique pearl neckl | search | 0.90 |
+| Wedding Jewellery Bangladesh | search | 0.90 |
+| Wedding Stage Decoration Price In Bangladesh | search | 0.90 |
+| ['gold', 'silver', 'diamond', 'antique', 'earthen', 'wooden'] | search | 0.90 |

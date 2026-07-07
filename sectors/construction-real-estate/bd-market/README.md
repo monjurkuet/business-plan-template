@@ -1,9 +1,9 @@
 ---
 sector: construction-real-estate
-last_verified: 2026-07-06
+last_verified: 2026-07-07
 freshness: fresh
-confidence: 0.716
-evidence_ids: ['feb0def0-d2a', '0a52b08b-a1a', '8e30c4e9-b60', '4f70546e-5de', '6d6bd5b4-bee', '6c860c2d-623', '5c632001-5cf', 'e5a40193-651', 'f38fcadf-fd8', 'c6e22697-184', 'baf2781b-0e6', 'a7ca55ad-ce6', '5c7c91f5-796', 'b7f2ad2f-994', '4d7aca92-35e', '3bb6da72-3ea', '145bfef8-daa', '72e66f76-ad8']
+confidence: 0.693
+evidence_ids: ['317e660e-d21', '42a7d4c3-fbd', 'd563c056-609', 'fe3a10be-86e', '59c8b4f1-b88', '84a8d664-172', '72d3d55b-96e', '979d3f5f-8d4', '91fb0fd4-985', 'a2b8b8d4-391', '0a2b57a8-3c3', '06c66826-403', '6eacecb8-620', 'ac50a29d-a3e', '2cd11702-c84', 'd331a7d9-76c', '9c61c468-11c', '7ed931cc-b31', '5d787d9a-dea', 'f0a75518-058']
 ---
 
 # Construction & Real Estate — Bangladesh Market
@@ -48,20 +48,22 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
-## Auto-Updated Data (2026-07-06)
+
+## Auto-Updated Data (2026-07-07)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ['ALM Steel Building Technology Ltd', 'ALM Tensile Membrane Structure Limited',  | search | 0.95 |
-| 65 | search | 0.90 |
-| ['CHB Engineering Ltd', 'Alibaba Construction Ltd'] | search | 0.95 |
-| 2026 | search | 0.80 |
-| ['akbarsha', 'Perfect Solution'] | search | 0.90 |
-| ['Firozshah, Chittagong Sadar, Chittagong', 'Nasirabad, Chittagong Sadar, Chitta | search | 0.90 |
-| ['fabrication and supply of construction materials including Steel Sheet Piles', | search | 0.90 |
-| 51 | search | 0.90 |
-| ['DEG', 'IDCOL'] | search | 0.95 |
-| 2023-06-15 | search | 0.90 |
-| ['Bashundhara Group', 'LafargeHolcim Bangladesh Limited', 'Confidence Cement Ltd | search | 1.00 |
-| building_materials | search | 1.00 |
-| Bangladesh | search | 1.00 |
+| Small, medium and large family owned conglomerates dominate Bangladesh's economy | search | 0.90 |
+| Most businesses in Bangladesh are grouped as conglomerates | search | 0.90 |
+| CHB Engineering Ltd. | search | 1.00 |
+| Alibaba Construction Ltd. | search | 1.00 |
+| Building Material Suppliers | search | 1.00 |
+| 1,176 | search | 0.90 |
+| Construction | search | 1.00 |
+| RFL | search | 1.00 |
+| largest building materials supplier in Bangladesh | search | 1.00 |
+| Building Materials | search | 1.00 |
+| Bangladesh’s construction industry is one of the fastest-growing sectors in the  | search | 0.90 |
+| urban migration, infrastructure development, and a booming real estate market | search | 0.90 |
+| BD Trade Info — Bangladesh's largest business directory & yellow pages since 200 | search | 1.00 |
+| Small, medium and large family owned conglomerates dominate Bangladesh's economy | search | 0.90 |

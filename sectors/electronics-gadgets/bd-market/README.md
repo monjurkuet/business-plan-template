@@ -1,9 +1,9 @@
 ---
 sector: electronics-gadgets
-last_verified: 2026-07-06
+last_verified: 2026-07-07
 freshness: fresh
-confidence: 0.715
-evidence_ids: ['75022a01-3b1', '9416f91e-6f8', 'b9ad757f-275', '722f74da-0aa', '152ba00e-52e', 'c601d841-636', '1e33d5b1-b74', 'c3ccf2ae-986', '628dfcf2-cc5', '6406db39-fd0', 'a93a6c5a-120', '6a8116a2-b10', 'e9076b4b-bec', '6e0e292f-581', '6ebb5185-415', 'f52b547b-6f9', '29dd1d20-1db', '1ad15cc2-fd3', '4a22caa2-327', '8cb0ffa3-2b9']
+confidence: 0.717
+evidence_ids: ['c24cbdea-5da', '3dec80b7-a38', '1127edda-7dc', 'd955797c-f83', '8de52a21-f62', '29221c89-8d2', 'e08f2435-0cd', '8ff1ebd7-3fa', '8a1d003f-754', '06978b9f-b32', 'af5be7e5-abe', '4e34117e-737', 'c1136377-cd1', '6d9949cb-718', '1605f1c5-a78', 'c27eed8b-d9f', 'c032159b-030', '2db63515-c28', 'abbb28f6-b8e', 'f11954a8-169']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -147,18 +147,23 @@ evidence_ids: ['75022a01-3b1', '9416f91e-6f8', 'b9ad757f-275', '722f74da-0aa', '
 
 
 
-## Auto-Updated Data (2026-07-06)
+
+## Auto-Updated Data (2026-07-07)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| competitive prices | search | 0.90 |
-| Gadgets & Premium Accessories | search | 0.95 |
-| best prices | search | 0.90 |
-| Free Shipping | search | 0.95 |
-| best prices, offers, and discounts | search | 0.90 |
-| 15.00 | search | 0.80 |
-| BRANDS MEGA LTD | search | 0.95 |
-| Navana Tower (Level-18) 45 Gulshan Avenue, Gulshan-1 Dhaka -1212, Bangladesh | search | 0.95 |
-| Phone | search | 0.80 |
-| ['electronics'] | search | 0.90 |
-| may go up | search | 0.80 |
+| ['ACs', 'refrigerators', 'washing machines', 'smart TVs', 'ovens'] | search | 0.90 |
+| ['official warranty', 'EMI facilities', 'fast home delivery'] | search | 0.90 |
+| home appliances | search | 0.90 |
+| authorized multi-brand electronics retailer | search | 0.90 |
+| 0% EMI | search | 0.95 |
+| 16 | search | 0.95 |
+| official warranty | search | 0.95 |
+| consumer electronics online shopping platform | search | 0.90 |
+| premium quality products | search | 0.90 |
+| official warranty | search | 0.80 |
+| one-stop shop for electronic and electrical products | search | 0.95 |
+| online destination for electronics and home appliances | search | 0.95 |
+| 2026 | search | 0.90 |
+| official warranty | search | 0.95 |
+| ['air conditioners', 'smart TVs', 'refrigerators'] | search | 0.95 |

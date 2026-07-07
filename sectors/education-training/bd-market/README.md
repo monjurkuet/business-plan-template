@@ -1,9 +1,9 @@
 ---
 sector: education-training
-last_verified: 2026-07-06
+last_verified: 2026-07-07
 freshness: fresh
-confidence: 0.699
-evidence_ids: ['dace9ccc-12f', '3c846267-ca5', '1a2a6108-ac4', 'f12dda03-e4e', 'aeeaf571-ab5', '0d1db313-8dc', 'a8645787-897', '1ad7c516-876', 'cca4c92a-ee3', '5a7d2a79-2dc', '8d2fe4cb-7e3', '08554880-b5b', 'f2b3ce56-ede', '5d9a5730-a77', '6886de7d-477', 'b079536f-e4f', '2c7e2fe7-036', '5f4bed51-411', '45f730ab-5e3', '64f19bca-6c1']
+confidence: 0.704
+evidence_ids: ['ec5f49e3-da7', '8ad33efa-19d', '66e6c0b9-bcb', 'ce041f7b-336', 'fb177ca3-cee', '88036aab-aed', '81a2bcf3-b32', 'b0279c6a-096', 'd8b6a61e-f70', '2372e612-33c', 'bf9439fb-04b', 'b091ab0f-fc6', 'be42a7b7-c7c', '37d298ef-f35', 'a34271bd-d10', 'dbd87148-1ca', '99ea1929-d18', '202dc400-34a', '082a015f-090', '2fb2ed68-0a3']
 ---
 
 # Education & Training — Bangladesh Market
@@ -47,22 +47,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
-## Auto-Updated Data (2026-07-06)
+
+## Auto-Updated Data (2026-07-07)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| education-training | search | 0.95 |
-| Mantram Nursing Academy | search | 0.90 |
-| NCLEX coaching | search | 0.95 |
-| Bangladesh | search | 0.95 |
-| coaching center | search | 0.95 |
-| Ovijattrik Coaching Center | search | 0.95 |
-| education-training | search | 0.90 |
-| Bangladesh | search | 0.90 |
-| coaching center | search | 0.95 |
-| True | search | 0.95 |
-| Easy Coaching Center (E.C.C) | search | 0.95 |
-| Jaleshwaritola, Bogra, Bangladesh | search | 0.95 |
-| education-training | search | 0.90 |
-| coaching center | search | 0.95 |
-| WordPress | search | 0.95 |
+| Medico Coaching Center | search | 0.95 |
+| Medical and University Admission Test preparation | search | 0.95 |
+| offline and online courses | search | 0.90 |
+| 2026 | search | 0.90 |
+| FutureLeaders (FLS) | search | 1.00 |
+| leadership and soft skills training | search | 1.00 |
+| outdoor training (Outbound/Adventure training) | search | 1.00 |
+| no.1 outdoor training provider in Bangladesh | search | 1.00 |
+| top MNCs, national corporations | search | 0.90 |
+| education-training | search | 1.00 |
+| Enroute Center for Development | search | 1.00 |
+| executive training | search | 1.00 |
+| tailored individual and group training for all employee levels | search | 1.00 |
+| BD top executive training organization | search | 1.00 |
+| education-training | search | 1.00 |
