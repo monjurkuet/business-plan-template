@@ -1,9 +1,9 @@
 ---
 sector: construction-real-estate
-last_verified: 2026-07-07
+last_verified: 2026-07-09
 freshness: fresh
-confidence: 0.704
-evidence_ids: ['80dfe006-4ad', 'dbc11c6c-637', '38c7f8bc-d6d', '2cdd10df-915', '4b5fd2a6-766', '83a34566-c49', 'e54ae6fd-abf', '8668a202-944', '04fd0720-4e7', 'd479fa8c-98d', '8900c505-ab7', 'f17aca7f-361', 'be2b01e1-a62', 'd4f4e1b8-96c', '49644a15-419', 'b2042ce7-cf9', 'adca0249-3e2', 'd5a5ade3-172', 'a50f4155-ed0', '412a6f28-e7c']
+confidence: 0.71
+evidence_ids: ['ce395022-8fd', 'c492a99b-a61', '3d843865-35b', 'c55c5415-9dc', '41e05dd3-4d0', 'e0bc83c5-e71', '72b528ae-6c3', '5cacb081-e96', 'f77c56d4-c6c', 'eb66625e-294', '237eecdb-b02', 'e0f128fd-c8d', 'c3674aef-faf', 'c3ba2e4e-b9f', '7a46d54d-4db', '310ac277-695', 'b31985d8-369', '04c9754c-220', 'aa6efbad-33e', '2ce1df47-8a6']
 ---
 
 # Construction & Real Estate — Bangladesh Market
@@ -50,21 +50,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
-## Auto-Updated Data (2026-07-07)
+
+## Auto-Updated Data (2026-07-09)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Family-owned conglomerates dominate Bangladesh's economy | search | 0.95 |
-| Conglomerates | search | 0.95 |
+| Small, medium and large family owned conglomerates dominate Bangladesh's economy | search | 1.00 |
+| Most businesses in Bangladesh are grouped as conglomerates | search | 0.95 |
 | ['CHB Engineering Ltd.', 'Alibaba Construction Ltd.'] | search | 0.95 |
-| building material suppliers | search | 0.90 |
+| building_material_suppliers | search | 0.90 |
 | Bangladesh | search | 1.00 |
-| RFL | search | 1.00 |
-| largest building materials supplier in Bangladesh | search | 0.95 |
-| www.rflbd.com | search | 1.00 |
+| Top 22 | search | 0.90 |
 | 1176 | search | 0.95 |
 | construction | search | 0.90 |
 | Bangladesh | search | 1.00 |
-| Bangladesh’s construction industry is one of the fastest-growing sectors in the  | search | 0.95 |
-| Bangladesh Limestone Market (2025-2031) | search | 0.90 |
-| Small, medium and large family owned conglomerates dominate Bangladesh's economy | search | 0.95 |
+| Top 1,176 | search | 0.90 |
+| verified | search | 0.85 |
+| RFL | search | 1.00 |
+| building_materials_supplier | search | 0.95 |
+| largest | search | 0.90 |
+| Bangladesh | search | 1.00 |

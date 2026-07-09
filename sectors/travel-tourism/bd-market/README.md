@@ -1,9 +1,9 @@
 ---
 sector: travel-tourism
-last_verified: 2026-07-07
+last_verified: 2026-07-09
 freshness: fresh
-confidence: 0.695
-evidence_ids: ['c7c54d2e-3f4', '66e779c4-009', 'd06f1b9d-502', 'd264d563-b32', 'd8dd576c-305', 'b35a05e1-037', '165718c0-b74', '3519c7b9-658', '2f2b8089-5a4', '19faf2d4-6ad', '3b95a05b-154', '14e001bb-8e5', '9d1ddb61-c08', '6c54ed60-d1a', '552e0465-96c', 'bd1245c2-239', 'e4f59a95-1eb', '8c54b91e-5e8', '4a59c772-9f6', '16009f9e-d25']
+confidence: 0.718
+evidence_ids: ['25aaa05d-500', '3a6aa4f6-f7e', '41ec33a5-f2c', '7dc98671-b81', '1dfd3a1d-ff1', '8d7b48b2-e67', '8c3604d5-36d', '24dd775c-228', '93fdfd3b-41b', '578b3db9-06c', 'b0cc3266-a78', '81b9fcee-cc7', '06b46d65-18d', '020023e3-155', '603b25d8-6bb', 'afaa7ee2-ef8', '789fb22a-267', '79ade1cf-329', '700fc3ca-f16', '72f29077-5ee']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -125,11 +125,18 @@ evidence_ids: ['c7c54d2e-3f4', '66e779c4-009', 'd06f1b9d-502', 'd264d563-b32', '
 
 
 
-## Auto-Updated Data (2026-07-07)
+
+## Auto-Updated Data (2026-07-09)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| amazing tour and travel packages at affordable price | search | 0.90 |
-| affordable tour packages | search | 0.90 |
-| affordable pricing, transparent communication | search | 0.90 |
-| air tickets, tours, recruitment, documentation, travel arrangements | search | 0.95 |
+| IATA-certified travel agency offering flights, honest service, affordable prices | search | 0.90 |
+| 2017 | search | 0.95 |
+| affordable prices | search | 0.80 |
+| affordable journey | search | 0.85 |
+| air tickets, hotels, tour packages | search | 0.90 |
+| best rates | search | 0.80 |
+| 1315 | search | 0.90 |
+| verified with accurate business information | search | 0.90 |
+| price caps | search | 0.80 |
+| emergency measures in Asia | search | 0.90 |

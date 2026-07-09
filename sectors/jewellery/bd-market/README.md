@@ -1,9 +1,9 @@
 ---
 sector: jewellery
-last_verified: 2026-07-07
+last_verified: 2026-07-09
 freshness: fresh
-confidence: 0.692
-evidence_ids: ['a7a808a1-1b8', 'f618effe-0ab', '1478ec92-45d', '30be553b-dba', '38d7c15f-9ec', 'dbb08ebf-9ef', 'ad27b034-229', 'fa745323-304', '136cf056-5e5', '2469cc70-347', '980c051a-221', '80b45a80-bad', 'b3e7c5c7-4c0', '27f37509-d4a', '7806e958-2f7', '8189549b-ba6', '6df9de0a-650', '55a496f2-07e', '288e35aa-326', '22598830-d19']
+confidence: 0.733
+evidence_ids: ['d5979cf4-4fd', 'd3de0a03-c56', 'f3d5ffa3-416', 'db8c16a6-b2f', 'c0d0f5f8-ca3', '18c28773-53d', '2f7fe0ca-f2d', '75e78348-221', '28747d90-517', 'a69a3fec-9b7', 'f341116e-aae', '82113044-a6d', 'a55c9303-93b', '4dc5d1fe-9d7', 'd1466b85-491', '4e97c07f-930', '7bbbc037-856', '4b91cb5c-13e', 'f2732cad-38c', '3936f053-704']
 ---
 
 # Jewellery — Bangladesh Market
@@ -136,12 +136,23 @@ evidence_ids: ['a7a808a1-1b8', 'f618effe-0ab', '1478ec92-45d', '30be553b-dba', '
 
 
 
-## Auto-Updated Data (2026-07-07)
+
+## Auto-Updated Data (2026-07-09)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 377 | search | 0.80 |
-| Bangladesh | search | 0.90 |
-| jhumka earrings | search | 0.95 |
-| Wedding Jewellery | search | 0.90 |
-| Wedding Stage Decoration | search | 0.90 |
+| Above price changes are impacted on all gold jewellers in Bangladesh | search | 0.90 |
+| churi, chain, gold bracelet | search | 0.95 |
+| 200 to 3000 | search | 0.98 |
+| Fashion Jewellery | search | 0.95 |
+| daily and festive wear | search | 0.95 |
+| gold and diamond shop | search | 0.95 |
+| most trusted | search | 0.90 |
+| affordable | search | 0.90 |
+| best price when buying gold from customers | search | 0.95 |
+| pioneer in online Jewellery Shop in Bangladesh | search | 0.98 |
+| any kind of jewelry item | search | 0.95 |
+| 225290 | search | 0.95 |
+| ['22K', '21K', '18K'] | search | 0.95 |
+| BAJUS | search | 0.90 |
+| 2026-07-09 | search | 0.95 |

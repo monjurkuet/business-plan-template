@@ -1,9 +1,9 @@
 ---
 sector: electronics-gadgets
-last_verified: 2026-07-07
+last_verified: 2026-07-09
 freshness: fresh
-confidence: 0.696
-evidence_ids: ['9fc1ca54-894', 'c9be3b33-bfe', '03c059ed-89a', 'ef5b9dbc-0c8', '80b26493-029', '9e914a69-f1c', '38979951-c87', '5fe606d9-067', '5d6557a3-a43', '133e30ab-d9f', '41e2137c-3cb', '6fde2b3b-a6a', 'fa67696b-0b3', '678a2873-e4b', '91617906-4f6', 'e58c937e-040', '04d284b1-9de', '4566209c-529', '8fc1136c-3bd', 'bfe45f3b-4cc']
+confidence: 0.728
+evidence_ids: ['8bfdeea0-0e3', 'da551bb8-f38', '28798182-f73', '97f7f8aa-247', '8349f658-89d', 'f6408f40-11e', 'e09cb52c-1d9', 'dd195d35-e6d', '2d41134e-c82', '626b87c3-fb6', 'f359f1e1-ecb', 'ba14c0ac-77c', 'e64e6005-501', '8cab087f-852', '8ceabce3-6c2', '2df05bc9-d2f', '7218ee95-cbf', '1e702b65-925', '896a8834-4a0', 'c4c476f4-ccd']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -149,19 +149,23 @@ evidence_ids: ['9fc1ca54-894', 'c9be3b33-bfe', '03c059ed-89a', 'ef5b9dbc-0c8', '
 
 
 
-## Auto-Updated Data (2026-07-07)
+
+## Auto-Updated Data (2026-07-09)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| E-Commerce shop for Electronics, Gadget & Home Appliances | search | 0.95 |
-| smartphones | search | 0.95 |
-| ['Samsung', 'Xiaomi', 'OnePlus', 'Vivo', 'HONOR', 'Infinix', 'Tecno'] | search | 0.95 |
-| 100% genuine | search | 0.95 |
+| home appliances, ACs, refrigerators, washing machines, smart TVs, ovens | search | 0.90 |
+| official warranty, EMI facilities, fast home delivery | search | 0.90 |
+| unbeatable prices | search | 0.80 |
+| authorized multi-brand electronics retailer | search | 0.95 |
+| authentic products, official warranty, 0% EMI, 16 superstores nationwide | search | 0.95 |
+| consumer electronics online shopping platform | search | 0.95 |
+| premium quality products, seamless online shopping experience, original electron | search | 0.95 |
+| electronic and electrical products | search | 0.90 |
+| one-stop shop for electronic and electrical products | search | 0.90 |
+| electronics, home appliances, home and kitchen appliances, air conditioners, sma | search | 0.95 |
+| best price | search | 0.90 |
 | official warranty | search | 0.95 |
-| competitive smartphone price in BD | search | 0.90 |
-| 53345 | search | 1.00 |
-| 16960 | search | 1.00 |
-| True | search | 0.90 |
-| 14699-31899 | search | 1.00 |
-| Express Delivery | search | 1.00 |
-| official warranty | search | 1.00 |
+| 2026 | search | 0.80 |
+| ['electronics', 'fruits', 'vegetables', 'vehicles', 'crude oil', 'toys'] | search | 0.90 |
+| may go up | search | 0.80 |

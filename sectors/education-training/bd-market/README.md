@@ -1,9 +1,9 @@
 ---
 sector: education-training
-last_verified: 2026-07-07
+last_verified: 2026-07-09
 freshness: fresh
-confidence: 0.674
-evidence_ids: ['5bab4b86-7f2', '8b72dc70-b5c', '3bac41d0-2b0', '35d58e43-c54', 'f2d4bdb5-450', '81028647-677', '88a9fb92-88c', '30334594-b3b', 'f784fd17-a21', 'c65f9f72-2a0', '4073897f-f30', '5284831e-317', '909a39b8-a24', '0b4e83df-75b', '7083ebe0-010', '11dfe8c7-57b', '24f528a3-f1c', '4697defb-d8f', '351ac2e3-574', '5111471e-f24']
+confidence: 0.709
+evidence_ids: ['19845563-af0', '7816d95c-8df', '771dffcb-3d7', 'a98ab2bb-ec3', '881df304-f6e', 'af8f6c87-941', '4360d95d-022', 'f71b2cee-64c', 'e5cf8fd2-aca', '7dc54be3-4ef', 'd769856d-bde', 'a8dded6f-c0a', '10789ea0-5b4', '90477854-6ac', '33f9b110-a93', '1694989c-3b8', '304d885f-22e', '383e7fd7-a27', '553a85e5-9ad', 'bbca840d-922']
 ---
 
 # Education & Training — Bangladesh Market
@@ -48,22 +48,22 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
-## Auto-Updated Data (2026-07-07)
+
+## Auto-Updated Data (2026-07-09)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Medico Coaching Center | search | 0.95 |
-| Medical and University Admission Test preparation | search | 0.95 |
-| offline and online courses | search | 0.90 |
-| 2026 | search | 0.90 |
-| FutureLeaders (FLS) | search | 1.00 |
-| leadership and soft skills training | search | 1.00 |
-| outdoor training (Outbound/Adventure training) | search | 1.00 |
-| no.1 outdoor training provider in Bangladesh | search | 1.00 |
-| top MNCs, national corporations | search | 0.90 |
+| corporate coaching services | search | 0.95 |
 | education-training | search | 1.00 |
-| Enroute Center for Development | search | 1.00 |
-| executive training | search | 1.00 |
-| tailored individual and group training for all employee levels | search | 1.00 |
-| BD top executive training organization | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| 2026-07-01 | search | 0.90 |
+| coaching centres | search | 1.00 |
 | education-training | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| ['IELTS', 'medical admissions', 'O/A levels', 'studying abroad'] | search | 0.95 |
+| students | search | 0.90 |
+| ['Digicon Technologies Ltd', 'E-Learning & Earning LTD', 'U S Software Ltd', 'PM | search | 0.95 |
+| The Career Coaching industry in Bangladesh is evolving, driven by a growing dema | search | 0.90 |
+| ['Women in Agile Bangladesh', 'Training Pundit'] | search | 0.90 |
+| The Career Coaching industry in Bangladesh is evolving, driven by a growing dema | search | 0.90 |
+| The regulatory environment for coaching practices in Bangladesh is under the pur | search | 0.85 |

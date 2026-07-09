@@ -1,9 +1,9 @@
 ---
 sector: clothing-fashion
-last_verified: 2026-07-07
+last_verified: 2026-07-09
 freshness: fresh
-confidence: 0.735
-evidence_ids: ['eaf079b9-07b', 'f0dd5ca0-c88', '18018d8b-a3c', '75d68bb8-7e9', 'aa0fd82c-4cb', 'a564aefa-947', '2c435a93-23a', '46cc5b43-b46', 'f7e633d1-fe6', '89866759-b39', '2bafb7a4-89e', 'b5e6b874-23e', '8e5f6275-808', '3f47176e-0ed', 'da257bf0-7f8', '7dcc8cb4-2f2', '2fe64d30-b76', '428c2517-81e', '39c6d478-c96', '719a21fe-d3d']
+confidence: 0.703
+evidence_ids: ['a0f95194-928', '20b8e836-1e0', '36a98b85-5fd', '2ae0773d-242', 'f5b764b5-999', '34808bc3-33a', '7d958544-f43', '9df2f4e2-581', '22ca08ed-283', '39e613de-262', '020b8438-f1e', '9f0ae5fe-35f', 'cffa5ed0-1fa', '5c62bec2-585', 'f85a06d0-9f2', 'c203097b-f4b', '52fdb4a6-ddf', '9ac19f0b-00a', '3a4c1720-e42', '80c77146-97c']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -161,22 +161,16 @@ evidence_ids: ['eaf079b9-07b', 'f0dd5ca0-c88', '18018d8b-a3c', '75d68bb8-7e9', '
 
 
 
-## Auto-Updated Data (2026-07-07)
+
+## Auto-Updated Data (2026-07-09)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ['best match', 'price', 'free shipping', 'fast delivery', 'free return'] | search | 0.90 |
-| baggy pants | search | 1.00 |
-| boys | search | 1.00 |
-| premium quality fabric | search | 1.00 |
-| affordable | search | 0.90 |
-| all over Bangladesh | search | 1.00 |
-| ['t-shirts', 'polo shirts', 'casual shirts', 'summer wear'] | search | 1.00 |
-| across Bangladesh | search | 1.00 |
-| 7 days | search | 0.90 |
-| winter clothing (eco-friendly, anti-shrink fleece and cotton hoodies) | search | 0.95 |
-| trusted and reliable clothing manufacturer in Bangladesh | search | 0.95 |
-| best factory prices and highest-quality custom apparel | search | 0.90 |
-| 88 | search | 0.95 |
-| fell over the past month | search | 0.90 |
-| NY/ICE futures contract (July) | search | 0.95 |
+| 1490 | search | 1.00 |
+| 1490-2490 | search | 1.00 |
+| Zaina Vol 19 Pakistani Suit | search | 1.00 |
+| 2026-07-01 | search | 1.00 |
+| 88 | search | 0.90 |
+| decreasing | search | 0.80 |
+| oil and gas prices skyrocketing due to Strait of Hormuz closure affecting fast f | search | 0.85 |
+| synthetic fibers | search | 0.80 |

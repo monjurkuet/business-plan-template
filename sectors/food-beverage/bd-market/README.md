@@ -1,9 +1,9 @@
 ---
 sector: food-beverage
-last_verified: 2026-07-07
+last_verified: 2026-07-09
 freshness: fresh
-confidence: 0.717
-evidence_ids: ['b08d323a-1a7', 'bbfcd5b7-f25', '64b981f1-3a6', 'df7e69c4-0cc', 'e8354003-bf2', '60adf484-69a', 'e878610b-828', 'e0c5ebd1-189', 'c3d66340-4bb', 'c45d96c0-881', '029b668c-368', 'd2f05ac7-10c', '479f600a-d9f', '543b4b2c-c41', '06c0d6bb-aaf', 'a6cd07b2-2aa', 'd67acda5-17c', 'ad452cf9-b94', 'b01f34ab-8b2', 'e8a26ac8-e87']
+confidence: 0.724
+evidence_ids: ['21fcf2c2-3b6', '6908523b-bf4', '7a9edab2-633', '424976bc-6bb', '69ab5d76-01c', 'afd2ce9f-0b5', '65705fdc-c72', '90384ea1-80a', 'c56b62ea-a9d', '5c720011-b0d', '7da4fbbd-053', 'fb4b2602-5b6', 'a28629bf-33a', '7b2e4426-302', '7dff167a-706', 'ce9ea3cd-bfc', '5eefc34f-17a', '85a8d4dc-d6c', 'caf85358-5a0', 'b2b14412-5b3']
 ---
 
 # Food & Beverage — Bangladesh Market
@@ -49,22 +49,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
-## Auto-Updated Data (2026-07-07)
+
+## Auto-Updated Data (2026-07-09)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Best Rooftop Restaurant in Bangladesh | search | 0.90 |
-| 20 minutes from downtown Montreal | search | 0.80 |
-| stunning views and delicious cuisine | search | 0.90 |
-| Delhi Belly Restaurant | search | 0.80 |
-| Bangladeshi | search | 0.90 |
-| 16 Top Bangladeshi Food for an Authentic Experience | search | 0.90 |
-| Bangladesh Tandoori Restaurant | search | 0.95 |
-| Campbeltown | search | 0.95 |
-| 4.1 | search | 0.95 |
-| 10 | search | 0.95 |
-| ['Indian', 'Asian', 'Bangladeshi'] | search | 0.95 |
-| food photography | search | 0.90 |
-| Boss Man Digital Marketing Agency | search | 0.90 |
-| Dhaka | search | 0.90 |
-| Moharani Coffee House | search | 0.90 |
+| 20 | search | 0.90 |
+| Dhaka | search | 1.00 |
+| Authentic Bangladeshi | search | 0.90 |
+| 2026 | search | 0.90 |
+| Restaurants.BD | search | 1.00 |
+| Restaurant discovery platform | search | 1.00 |
+| 2020 | search | 0.90 |
+| 944 | search | 0.90 |
+| 31607 | search | 0.90 |
+| Dhaka City, Dhaka Division | search | 1.00 |
+| Foreign restaurant chains and local food chains have grown in popularity over th | search | 0.90 |
+| Local fast food shops have begun shifting from single locations to franchise mod | search | 0.90 |
+| Bangladesh offers a rich culinary landscape blending traditional Bengali flavors | search | 0.95 |
+| Luxury fine dining venues and affordable local eateries | search | 0.90 |
+| Dhaka and Cox’s Bazar | search | 0.90 |

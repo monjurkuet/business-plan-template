@@ -1,9 +1,9 @@
 ---
 sector: bim-global-outreach
-last_verified: 2026-07-07
+last_verified: 2026-07-09
 freshness: fresh
-confidence: 0.735
-evidence_ids: ['779cd312-42d', '1ad3c3a3-b47', '87b059fb-a51', '32099d98-136', '8e508ff1-cc8', '2fe1a679-429', '1be05e54-329', '66ff7617-a8b', '2ceb811c-4b2', '079be34d-62a', 'b692ab3a-41c', '0dd472dd-de8', 'daedd64f-c46', '17fa1d48-d07', '3bd81f67-301', '875d77d7-f40', 'd7275d40-0c5', '76f7f1f8-7bf', '954871eb-e46', '83c5d014-99b']
+confidence: 0.731
+evidence_ids: ['7d09ecf7-26d', '96c79555-28c', 'eecf7791-1a9', 'faa3f0a8-5b1', '75234b0b-79e', '98761816-4bf', 'c85c8c63-9b1', '6943ddf5-9bd', '1e8e086a-799', '2b6c4df7-7b3', '874f921f-704', '9b3e2c5b-06f', '3fba640b-297', '4f986b18-d77', '10262ce9-59e']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -164,22 +164,23 @@ evidence_ids: ['779cd312-42d', '1ad3c3a3-b47', '87b059fb-a51', '32099d98-136', '
 
 
 
-## Auto-Updated Data (2026-07-07)
+
+## Auto-Updated Data (2026-07-09)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| RAJUK-registered | search | 0.95 |
-| sustainable architecture | search | 0.90 |
+| redefining design | search | 0.80 |
+| 2025-11-29 | search | 0.95 |
+| RAJUK-registered | search | 0.90 |
+| sustainable | search | 0.85 |
 | Dhaka | search | 0.95 |
+| 2025-10-08 | search | 0.95 |
 | growing faster than ever | search | 0.90 |
 | ['Dhaka', 'Khulna', 'Chattogram'] | search | 0.95 |
 | BNBC-2020 | search | 0.95 |
 | ['design creativity', 'BNBC-2020 compliance', 'transparent pricing', 'reliable p | search | 0.90 |
-| ['philosophy', 'sustainability', 'iconic projects'] | search | 0.90 |
-| Dhaka | search | 0.95 |
-| ['company reputation values', 'client reviews', 'google data analytics'] | search | 0.95 |
-| +880 171 861 29 66 | search | 0.95 |
-| Dhaka, Cantonment | search | 0.95 |
-| Civil & Architect | search | 0.90 |
-| architecture_firm | search | 0.95 |
-| Top 10 architecture firms in Dhaka, Bangladesh, redefining the city's skyline | search | 0.90 |
+| 2026-05-13 | search | 0.95 |
+| Top 10 architectural firms in Bangladesh | search | 0.90 |
+| company reputation, client reviews, google data analytics | search | 0.90 |
+| Top 10 architecture firms in Bangladesh | search | 0.90 |
+| ['NBY IT Solution', 'Studio 16 Architects', 'Square Feet Story', 'Firetech Solut | search | 0.95 |

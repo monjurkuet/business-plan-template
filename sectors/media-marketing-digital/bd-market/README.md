@@ -1,9 +1,9 @@
 ---
 sector: media-marketing-digital
-last_verified: 2026-07-07
+last_verified: 2026-07-09
 freshness: fresh
-confidence: 0.705
-evidence_ids: ['51ee3f1d-5df', 'd331630e-0a2', 'fd3862b4-31b', 'e3625e10-7a4', '1518a103-d2c', 'be633b53-9f6', '050d5054-962', '02632d0f-e31', '3db49a2e-e31', '43cd3e8a-46c', '18bdc2dc-e39', '313947e0-c58', '3c233920-a26', '75e58ef9-2c9', '6386a9d3-7a4', '1e7383f2-d39', 'e2dfee2c-775', '41695938-70e', '04596f69-f43', '5dd4c8d5-850']
+confidence: 0.7
+evidence_ids: ['b723a53b-5f4', '68e867da-133', '4faefb19-36c', '91ffade6-ee6', 'dd535747-95e', '058d0551-769', 'c4514698-ce6', '4f3e683f-8de', '18714c05-fc3', '61badc33-d09', 'feb65f5a-8c9', 'b847ed3e-958', '022683a2-0ed', '1aef387c-b7b', '12d397a7-bc3', '275e7e44-982', '7c84c176-352', '5bf43cd9-768', 'db209c66-42e', 'b1d9317b-3e3']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market
@@ -142,16 +142,14 @@ evidence_ids: ['51ee3f1d-5df', 'd331630e-0a2', 'fd3862b4-31b', 'e3625e10-7a4', '
 
 
 
-## Auto-Updated Data (2026-07-07)
+
+## Auto-Updated Data (2026-07-09)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| payment per use | search | 0.90 |
-| digital multichannel marketing (Bulk SMS, Email, Voice) | search | 0.95 |
-| 2026 | search | 0.95 |
-| pricing guide | search | 0.90 |
-| digital marketing | search | 0.95 |
-| Bangladesh | search | 0.95 |
-| Pricing heatmap and hourly rates mentioned | search | 0.80 |
-| 207 | search | 0.90 |
-| Bangladesh-based IT companies started exporting software around two decades ago, | search | 0.90 |
+| ['Bulk SMS Bangladesh', 'Email Marketing', 'Interactive Voice Bangladesh'] | search | 0.95 |
+| The best price in digital marketing Bangladesh. | search | 0.80 |
+| ['SEO', 'Social media marketing', 'Online branding', 'Promotion', 'Email marketi | search | 0.95 |
+| Startup entrepreneurs in Bangladesh | search | 0.90 |
+| ['SEO', 'PPC', 'social media', 'email', 'influencer'] | search | 0.95 |
+| BDT costs mentioned | search | 0.90 |

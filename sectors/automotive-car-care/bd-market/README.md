@@ -1,9 +1,9 @@
 ---
 sector: automotive-car-care
-last_verified: 2026-07-07
+last_verified: 2026-07-09
 freshness: fresh
-confidence: 0.682
-evidence_ids: ['fe017fb1-627', '34f1a743-095', '7ea2338c-be1', '04ebb4a6-4d4', 'f52560a7-41a', '3677950b-07e', 'd849d618-201', '2d7c1427-d33', '78821a3c-091', '0795123e-51c', 'ef1da142-d0e', 'd14cc653-f33', 'dbe6bc5e-3a4', 'fbd355c1-fa8', '7e6664ba-e4a', 'a4a814e3-e4a', '12c6eed6-24b', 'd0816493-5cd', '48028cd3-f65', '1f57e52b-bf0']
+confidence: 0.698
+evidence_ids: ['2f8f5852-aa6', 'b451b5fd-dd5', '34d303d1-7a7', 'df66de31-f5d', '54969cff-ed9', '4c5f6f43-d1d', 'ca72a979-0d9', '5d401993-2ad', '53a9d405-32e', '138f1052-3d2', '270907d4-6b6', '1924979b-ea8', '509f475f-2ad', '2b271bf2-984', 'ddc5b9dc-341', '3d3a8cfe-4f8', '07e9fb24-774', '7d650b74-34b', '21129c95-535', '4600152a-fae']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -173,14 +173,18 @@ evidence_ids: ['fe017fb1-627', '34f1a743-095', '7ea2338c-be1', '04ebb4a6-4d4', '
 
 
 
-## Auto-Updated Data (2026-07-07)
+
+## Auto-Updated Data (2026-07-09)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Exterior wash | search | 1.00 |
-| 900 | search | 1.00 |
-| Interior deep cleaning | search | 1.00 |
-| 2500 | search | 1.00 |
-| Basic Car Wash | search | 1.00 |
-| Premium Car Wash | search | 1.00 |
-| Pressure Wash with Foam, Interior Dry Vacuum, General Wiping | search | 1.00 |
+| doorstep car wash | search | 0.95 |
+| 900 | search | 0.95 |
+| Exterior wash | search | 0.95 |
+| 2500 | search | 0.95 |
+| Interior deep cleaning | search | 0.95 |
+| ['Basic Car Wash', 'Premium Car Wash'] | search | 1.00 |
+| Basic Car Wash includes Pressure Wash with Foam, Interior Dry Vacuum, General Wi | search | 1.00 |
+| Car detailing services in Dhaka, Bangladesh | search | 1.00 |
+| Eco-friendly, tailored for discerning car owners | search | 1.00 |
+| Affordable | search | 0.90 |
