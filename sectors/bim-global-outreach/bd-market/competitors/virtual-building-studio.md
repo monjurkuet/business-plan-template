@@ -1,6 +1,6 @@
 ---
 sector: bim-global-outreach
-last_verified: 2026-07-09
+last_verified: 2026-07-10
 freshness: fresh
 ---
 
@@ -106,14 +106,9 @@ freshness: fresh
 
 
 
-## Recent Findings (2026-07-09)
 
-- **clutch.co** (conf: 0.88): Jul 2, 2026 ·Recommended Architectural DesigncompaniesinBangladeshinclude NBY IT Solution, Studio 16 Architects, Square Feet Story, Firetech Solutions Limited, Tarunna Design, Circle Interior Ltd, Ali
+## Recent Findings (2026-07-10)
 
-- **www.facebook.com** (conf: 0.69): Jun 5, 2026 ·Studio M Architecture is at Jolshiri Abashon, Dhaka,Bangladesh. Crafted with intention, this apartment in JOLSHIRI blends energy-efficient design with elegant living. From floor-to-ceilin
+- **avenuesangma.com** (conf: 0.88): Jan 6, 2026 ·Discover the leading architecturefirmsinBangladesh. Explore the philosophy, sustainability, and iconic projects of thetop10 studios reshaping the nation.
 
-- **www.facebook.com** (conf: 0.69): Jan 5, 2026 ·SPACE, Dhaka. 2,592 likes · 159 were here. Consultancy, Construction and DevelopmentTrendsetters ofBangladeshV — Asia Karim Deepa & Naim Ahmed Kibria, Partners at Indigenous, present “দৃষ
-
-- **www.facebook.com** (conf: 0.69): Trendsetters ofBangladeshV — Asia Karim Deepa & Naim Ahmed Kibria, Partners at Indigenous, present “দৃষ্টিকোণ সৃষ্টিকোণ” — an exploration of architecture rooted in empathy, craft, and the rhythms of e
-
-- **www.facebook.com** (conf: 0.69): Jun 5, 2026 ·Sthapotik/SharifUddin Ahammed, Dhaka. 12,895 likes · 17 talking about this · 112 were here. Sthapotik is an architectural design studio. established in 2006 by Ar. Sharif Uddin Ahammed wi
+- **clutch.co** (conf: 0.69): 3 days ago ·Recommended EngineeringcompaniesinBangladeshinclude Perfect Solution, Studio 16 Architects, ANB UNIQUE REAL ESTATE LTD, Patenga Shipbuilding & Engineering, Alifs Engineering, DOER Steel Li

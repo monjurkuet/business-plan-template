@@ -1,9 +1,9 @@
 ---
 sector: clothing-fashion
-last_verified: 2026-07-09
+last_verified: 2026-07-10
 freshness: fresh
-confidence: 0.703
-evidence_ids: ['a0f95194-928', '20b8e836-1e0', '36a98b85-5fd', '2ae0773d-242', 'f5b764b5-999', '34808bc3-33a', '7d958544-f43', '9df2f4e2-581', '22ca08ed-283', '39e613de-262', '020b8438-f1e', '9f0ae5fe-35f', 'cffa5ed0-1fa', '5c62bec2-585', 'f85a06d0-9f2', 'c203097b-f4b', '52fdb4a6-ddf', '9ac19f0b-00a', '3a4c1720-e42', '80c77146-97c']
+confidence: 0.716
+evidence_ids: ['d8487e44-405', '9412fe9a-7bb', 'c84e3f5e-da7', '927ac277-541', '71b13297-e9b', '49f76ef9-131', '3963ab0a-083', '65a8d071-299', 'ab3be7ec-2dc', '020ab09e-673', '4f269780-e10', 'c7c01f02-c2a', '371771c4-673', '606857cc-2d5', '9a6d1666-d8c', 'a6fdf2a3-eed', '7f5d2f96-0c2', '636d9a02-435', '6d4c3e98-6fc', '7db9e6e2-155']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -162,15 +162,19 @@ evidence_ids: ['a0f95194-928', '20b8e836-1e0', '36a98b85-5fd', '2ae0773d-242', '
 
 
 
-## Auto-Updated Data (2026-07-09)
+
+## Auto-Updated Data (2026-07-10)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 1490 | search | 1.00 |
-| 1490-2490 | search | 1.00 |
-| Zaina Vol 19 Pakistani Suit | search | 1.00 |
-| 2026-07-01 | search | 1.00 |
-| 88 | search | 0.90 |
-| decreasing | search | 0.80 |
-| oil and gas prices skyrocketing due to Strait of Hormuz closure affecting fast f | search | 0.85 |
-| synthetic fibers | search | 0.80 |
+| 300 COTTON TERRY CLOTH CLEANING RAGS / SHOP TOWELS / 12X12- 25 DOZ. / WHOLESALE | search | 0.90 |
+| 3.5 | search | 0.90 |
+| Made In Bangladesh | search | 0.95 |
+| modern Bangladeshi clothing brand offering stylish, comfortable, and affordable  | search | 0.95 |
+| premium-quality outfits with perfect fits, fast delivery, and reliable service a | search | 0.90 |
+| trendy women’s clothing & fashion | search | 0.95 |
+| Cash on delivery available | search | 0.90 |
+| 1490 | search | 0.95 |
+| Zaina Vol 19 Pakistani Suit | search | 0.95 |
+| 1490-2490 | search | 0.95 |
+| 2026-07-01 | search | 0.90 |

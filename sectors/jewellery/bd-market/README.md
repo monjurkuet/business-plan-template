@@ -1,9 +1,9 @@
 ---
 sector: jewellery
-last_verified: 2026-07-09
+last_verified: 2026-07-10
 freshness: fresh
-confidence: 0.733
-evidence_ids: ['d5979cf4-4fd', 'd3de0a03-c56', 'f3d5ffa3-416', 'db8c16a6-b2f', 'c0d0f5f8-ca3', '18c28773-53d', '2f7fe0ca-f2d', '75e78348-221', '28747d90-517', 'a69a3fec-9b7', 'f341116e-aae', '82113044-a6d', 'a55c9303-93b', '4dc5d1fe-9d7', 'd1466b85-491', '4e97c07f-930', '7bbbc037-856', '4b91cb5c-13e', 'f2732cad-38c', '3936f053-704']
+confidence: 0.722
+evidence_ids: ['802aa07f-b95', '04c5b613-16c', '434a62d8-f7e', '8a48e6da-b6f', 'd4871c93-1f3', 'c489085e-7e7', '4159f894-6ce', 'd798b805-127', 'aeeee48c-074', '05d18063-559', '17c7e71e-c06', '8eca9cdc-19d', '016a38d4-86c', 'a5b4d651-b67', 'ce807ee2-024', '4cfe9b8e-585', 'd4a3de39-279', '06e20dd2-2e6', '3bbd830a-bff', '2cdbecba-dd9']
 ---
 
 # Jewellery — Bangladesh Market
@@ -137,22 +137,22 @@ evidence_ids: ['d5979cf4-4fd', 'd3de0a03-c56', 'f3d5ffa3-416', 'db8c16a6-b2f', '
 
 
 
-## Auto-Updated Data (2026-07-09)
+
+## Auto-Updated Data (2026-07-10)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Above price changes are impacted on all gold jewellers in Bangladesh | search | 0.90 |
-| churi, chain, gold bracelet | search | 0.95 |
 | 200 to 3000 | search | 0.98 |
-| Fashion Jewellery | search | 0.95 |
-| daily and festive wear | search | 0.95 |
-| gold and diamond shop | search | 0.95 |
-| most trusted | search | 0.90 |
-| affordable | search | 0.90 |
-| best price when buying gold from customers | search | 0.95 |
-| pioneer in online Jewellery Shop in Bangladesh | search | 0.98 |
-| any kind of jewelry item | search | 0.95 |
-| 225290 | search | 0.95 |
-| ['22K', '21K', '18K'] | search | 0.95 |
-| BAJUS | search | 0.90 |
-| 2026-07-09 | search | 0.95 |
+| fashion jewellery | search | 0.95 |
+| daily and festive wear | search | 0.90 |
+| impacts all gold jewellers in Bangladesh | search | 0.95 |
+| ['churi', 'chain', 'gold bracelet'] | search | 0.90 |
+| today | search | 0.90 |
+| most trusted gold and diamond shop in Bangladesh | search | 0.95 |
+| affordable price | search | 0.90 |
+| Al Amin Jewellers ensures the best price when buying gold from customers that no | search | 0.90 |
+| online jewellery shop | search | 1.00 |
+| pioneer in online jewellery shopping in Bangladesh | search | 0.95 |
+| Jotey is the most trusted jewellery shop in Bangladesh | search | 0.90 |
+| affordable | search | 0.85 |
+| online jewellery shop | search | 0.95 |

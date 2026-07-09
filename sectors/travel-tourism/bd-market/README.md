@@ -1,9 +1,9 @@
 ---
 sector: travel-tourism
-last_verified: 2026-07-09
+last_verified: 2026-07-10
 freshness: fresh
-confidence: 0.718
-evidence_ids: ['25aaa05d-500', '3a6aa4f6-f7e', '41ec33a5-f2c', '7dc98671-b81', '1dfd3a1d-ff1', '8d7b48b2-e67', '8c3604d5-36d', '24dd775c-228', '93fdfd3b-41b', '578b3db9-06c', 'b0cc3266-a78', '81b9fcee-cc7', '06b46d65-18d', '020023e3-155', '603b25d8-6bb', 'afaa7ee2-ef8', '789fb22a-267', '79ade1cf-329', '700fc3ca-f16', '72f29077-5ee']
+confidence: 0.704
+evidence_ids: ['f098c07e-ec0', '2f0e29c0-b2b', 'fb48c75a-7c4', '6cfdc46b-0c2', '8aa8bb1f-60c', 'c9790a2c-403', 'd19a73d9-ea9', '7e1251ee-35c', '7e45a945-c81', 'c6c36463-f8f', '247f893e-acc', '9f155fc5-b63', 'b0783f72-252', 'b61a8d7f-7b1', 'ece3e71b-c69', 'fa03f42b-e43', '25ce53b6-1a3', '74eb0c21-676', '7d09c240-2e1', 'ae108ac6-652']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -126,17 +126,17 @@ evidence_ids: ['25aaa05d-500', '3a6aa4f6-f7e', '41ec33a5-f2c', '7dc98671-b81', '
 
 
 
-## Auto-Updated Data (2026-07-09)
+
+## Auto-Updated Data (2026-07-10)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| IATA-certified travel agency offering flights, honest service, affordable prices | search | 0.90 |
+| IATA-certified travel agency offering hotels, visas, tours, and flight booking s | search | 0.95 |
 | 2017 | search | 0.95 |
-| affordable prices | search | 0.80 |
-| affordable journey | search | 0.85 |
-| air tickets, hotels, tour packages | search | 0.90 |
-| best rates | search | 0.80 |
-| 1315 | search | 0.90 |
-| verified with accurate business information | search | 0.90 |
-| price caps | search | 0.80 |
-| emergency measures in Asia | search | 0.90 |
+| Dhaka, Bangladesh | search | 0.95 |
+| affordable prices | search | 0.90 |
+| air ticketing, visa processing, holiday packages, global tours | search | 0.90 |
+| smooth, safe, and affordable journey | search | 0.80 |
+| air tickets, hotels, tour packages | search | 0.95 |
+| best rates, hassle-free travel solutions, seamless booking, exceptional value | search | 0.90 |
+| 1315 | search | 0.95 |

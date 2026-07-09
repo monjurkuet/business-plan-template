@@ -1,9 +1,9 @@
 ---
 sector: agriculture-agro
-last_verified: 2026-07-09
+last_verified: 2026-07-10
 freshness: fresh
-confidence: 0.676
-evidence_ids: ['3700a04c-1f5', 'dcf8481d-1ff', '1b867e12-666', 'a707929f-c52', '00f62a24-805', '1aa16369-7c4', 'b5325645-5cf', '55df134d-7c7', '7e5e71a4-59f', 'c4dda849-94f', '26870786-596', '6d5e1a45-082', 'cf681413-99c', '76b33e48-f90', '7423b67c-591', 'a1b7d768-e26', 'd07059c4-7b3', 'd6f1434f-4c8', '56b7511c-1dc', 'e8df7e35-338']
+confidence: 0.699
+evidence_ids: ['0662d998-51b', 'f7f6c5e0-755', 'a60a6d72-d1a', '0ec655b5-f40', '63a749fc-b0e', '5b1e8451-229', '3e5f93c6-9f4', '6125a14b-6bc', 'cd0002b8-e1c', '7eb1ce3c-bdf', '87961c74-a12', '4d622c98-f98', '4d91dffc-bf3', '958ba15c-092', 'dfb2c143-d15', '877db613-afc', 'ee9fac2f-04d', '01294415-425', '9d9611aa-2ec', 'a815bc7c-773']
 ---
 
 # Agriculture & Agro-processing — Bangladesh Market
@@ -51,12 +51,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
-## Auto-Updated Data (2026-07-09)
+
+## Auto-Updated Data (2026-07-10)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
 | fertilizer | search | 1.00 |
-| Dhaka District | search | 1.00 |
-| companies | search | 1.00 |
-| fertilizers | search | 0.90 |
-| Iran war | search | 0.95 |
+| top_20_fertilizer_companies | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| 2026 | search | 0.90 |
+| ['iFarmer', 'Nahar Agro'] | search | 1.00 |
+| organic_fertilizer | search | 1.00 |
+| organic_fertilizer_companies | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| ['Organic Nutrition Ltd.', 'Aftab Feed Products Limited'] | search | 1.00 |
+| fertilizer_manufacturing | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| ['quality fertilizers', 'NPK fertilizer', 'agro fertilizer', 'organic fertilizer | search | 1.00 |
+| ACI Fertilizer | search | 1.00 |
+| fertilizer | search | 1.00 |
+| Bangladesh | search | 1.00 |

@@ -1,9 +1,9 @@
 ---
 sector: automotive-car-care
-last_verified: 2026-07-09
+last_verified: 2026-07-10
 freshness: fresh
-confidence: 0.698
-evidence_ids: ['2f8f5852-aa6', 'b451b5fd-dd5', '34d303d1-7a7', 'df66de31-f5d', '54969cff-ed9', '4c5f6f43-d1d', 'ca72a979-0d9', '5d401993-2ad', '53a9d405-32e', '138f1052-3d2', '270907d4-6b6', '1924979b-ea8', '509f475f-2ad', '2b271bf2-984', 'ddc5b9dc-341', '3d3a8cfe-4f8', '07e9fb24-774', '7d650b74-34b', '21129c95-535', '4600152a-fae']
+confidence: 0.688
+evidence_ids: ['7bcf2ed4-903', '839fd4cf-374', '36bf7e70-049', '0ac0312c-e90', '793fd546-ee3', 'd67a8712-c5a', 'd351fc34-d6d', 'e70c2ebe-9b3', '1e5051e4-453', '5af56750-1fe', '1d9bf77a-646', '3ca25f36-ab2', '0a343f10-806', '73dc49dc-492', 'f97a7251-6d4', '3cbc7205-2de', '7a9ba8a2-795', '58b69798-606', '595393da-cf9', 'd9d88f71-961']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -174,17 +174,20 @@ evidence_ids: ['2f8f5852-aa6', 'b451b5fd-dd5', '34d303d1-7a7', 'df66de31-f5d', '
 
 
 
-## Auto-Updated Data (2026-07-09)
+
+## Auto-Updated Data (2026-07-10)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| doorstep car wash | search | 0.95 |
-| 900 | search | 0.95 |
-| Exterior wash | search | 0.95 |
-| 2500 | search | 0.95 |
-| Interior deep cleaning | search | 0.95 |
-| ['Basic Car Wash', 'Premium Car Wash'] | search | 1.00 |
-| Basic Car Wash includes Pressure Wash with Foam, Interior Dry Vacuum, General Wi | search | 1.00 |
-| Car detailing services in Dhaka, Bangladesh | search | 1.00 |
-| Eco-friendly, tailored for discerning car owners | search | 1.00 |
-| Affordable | search | 0.90 |
+| car wash and car cleaning services | search | 1.00 |
+| Dhaka, Bangladesh | search | 1.00 |
+| free quote | search | 1.00 |
+| free air fresheners and bonus free washes with unlimited wash club membership | search | 1.00 |
+| car wash services | search | 1.00 |
+| Dhaka, Bangladesh | search | 1.00 |
+| advanced cleaning technologies and eco-friendly products | search | 1.00 |
+| deliver unparalleled car wash services that ensure customer satisfaction and veh | search | 1.00 |
+| 900 | search | 1.00 |
+| 2500 | search | 1.00 |
+| Exterior wash | search | 1.00 |
+| Interior deep cleaning | search | 1.00 |

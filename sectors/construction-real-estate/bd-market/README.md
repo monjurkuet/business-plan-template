@@ -1,9 +1,9 @@
 ---
 sector: construction-real-estate
-last_verified: 2026-07-09
+last_verified: 2026-07-10
 freshness: fresh
-confidence: 0.71
-evidence_ids: ['ce395022-8fd', 'c492a99b-a61', '3d843865-35b', 'c55c5415-9dc', '41e05dd3-4d0', 'e0bc83c5-e71', '72b528ae-6c3', '5cacb081-e96', 'f77c56d4-c6c', 'eb66625e-294', '237eecdb-b02', 'e0f128fd-c8d', 'c3674aef-faf', 'c3ba2e4e-b9f', '7a46d54d-4db', '310ac277-695', 'b31985d8-369', '04c9754c-220', 'aa6efbad-33e', '2ce1df47-8a6']
+confidence: 0.707
+evidence_ids: ['7949d949-3c5', 'b1a830b4-44e', 'e87628e2-51d', 'be37eb6c-cb3', '9c83e358-106', '61a5309e-510', 'd9e8e9b2-212', '0c46911a-d04', 'ea2df0d5-176', '905811cb-a14', 'a2fb4a16-d51', '46febe7c-d81', '3e8ac038-eb0', '7b83a444-f47', '532f9560-732', '3b6527a0-39a', '18522490-a64', 'e216f097-441', '34bf0134-a9f', '64c67721-0ed']
 ---
 
 # Construction & Real Estate — Bangladesh Market
@@ -51,22 +51,20 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
-## Auto-Updated Data (2026-07-09)
+
+## Auto-Updated Data (2026-07-10)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Small, medium and large family owned conglomerates dominate Bangladesh's economy | search | 1.00 |
-| Most businesses in Bangladesh are grouped as conglomerates | search | 0.95 |
-| ['CHB Engineering Ltd.', 'Alibaba Construction Ltd.'] | search | 0.95 |
-| building_material_suppliers | search | 0.90 |
-| Bangladesh | search | 1.00 |
-| Top 22 | search | 0.90 |
-| 1176 | search | 0.95 |
-| construction | search | 0.90 |
-| Bangladesh | search | 1.00 |
-| Top 1,176 | search | 0.90 |
-| verified | search | 0.85 |
-| RFL | search | 1.00 |
-| building_materials_supplier | search | 0.95 |
-| largest | search | 0.90 |
-| Bangladesh | search | 1.00 |
+| ['CHB Engineering Ltd.', 'Alibaba Construction Ltd.'] | search | 0.90 |
+| largest building materials supplier | search | 0.95 |
+| online price checking available | search | 0.80 |
+| Beximco | search | 1.00 |
+| private | search | 1.00 |
+| A S F Rahman | search | 1.00 |
+| Topmost private Bangladeshi company | search | 0.90 |
+| Chairman frequently listed under top businessmen in Bangladesh | search | 0.90 |
+| Beximco | search | 1.00 |
+| Salman F. Rahman | search | 1.00 |
+| Vice Chairman | search | 1.00 |
+| Arrested on 10-day remand for interrogation over the death of a hawker during st | search | 0.90 |

@@ -1,9 +1,9 @@
 ---
 sector: logistics-transport
-last_verified: 2026-07-09
+last_verified: 2026-07-10
 freshness: fresh
-confidence: 0.702
-evidence_ids: ['e70e42cd-663', '7d833ec1-c31', '708b163b-d51', '47448579-678', 'fa26e92a-93c', 'ee1cf452-524', '20ba3d1e-93f', '56bf7f33-01b', 'c1720180-596', '0af52a5f-8e8', '2abc1f7c-764', '3abb64e9-af9', 'd1b1190c-9d9', 'eed507a0-b25', '80a4c5da-99f', '2cdee7c3-8ca', '301e8035-b6a', '91351d6e-562', 'df5c073c-98c', '14fa9429-55f']
+confidence: 0.687
+evidence_ids: ['9e17d11d-604', '5f8e6da7-d42', 'c815a1f7-fbe', 'a2566993-1ed', '1cbb9e4d-0d2', '6434c699-c57', '1cae1ef5-1e7', 'b8901ff0-db3', 'a49b0c6c-718', 'cc4f493b-af2', '928619f5-3f1', '4a298bea-f94', 'a26747cd-1d8', '4135508a-24a', '2e4a6bee-cc2', 'd63cb31d-6a8', 'f4a61232-934', '6299cd88-9c6', 'd2fc99d8-c3d', 'e864a411-191']
 ---
 
 # Logistics & Transport — Bangladesh Market
@@ -42,22 +42,21 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
-## Auto-Updated Data (2026-07-09)
+
+## Auto-Updated Data (2026-07-10)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Karatoa Courier Services | search | 0.95 |
-| largest courier service in Bangladesh | search | 0.90 |
-| efficient, on-time delivery of important documents and packages | search | 0.90 |
-| faster than competitors | search | 0.85 |
-| trusted name | search | 0.85 |
-| significant growth | search | 0.85 |
-| meeting demands of a developing economy with a growing consumer base | search | 0.85 |
-| e-commerce, deliveries, and international shipping | search | 0.90 |
-| fast delivery, nationwide coverage, pricing, tracking, and reliability | search | 0.90 |
-| 2026 | search | 0.95 |
-| very reliable form of buying and selling products online | search | 0.90 |
-| eCourier.com.bd | search | 0.95 |
-| Sonar Courier Service Ltd | search | 0.95 |
-| International Courier Companies | search | 0.90 |
-| 2026 | search | 0.95 |
+| Sundarban Courier | search | 0.90 |
+| DHL | search | 0.90 |
+| FedEx | search | 0.90 |
+| UPS | search | 0.90 |
+| international courier | search | 0.90 |
+| Sundarban Courier Service Ltd. | search | 1.00 |
+| 1983 | search | 1.00 |
+| 2000000 | search | 0.90 |
+| 600 | search | 0.90 |
+| domestic and international shipping | search | 0.90 |
+| RedX | search | 0.90 |
+| ShopUp | search | 0.90 |
+| tech-based logistics | search | 0.90 |

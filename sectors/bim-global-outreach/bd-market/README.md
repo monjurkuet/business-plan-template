@@ -1,9 +1,9 @@
 ---
 sector: bim-global-outreach
-last_verified: 2026-07-09
+last_verified: 2026-07-10
 freshness: fresh
-confidence: 0.731
-evidence_ids: ['7d09ecf7-26d', '96c79555-28c', 'eecf7791-1a9', 'faa3f0a8-5b1', '75234b0b-79e', '98761816-4bf', 'c85c8c63-9b1', '6943ddf5-9bd', '1e8e086a-799', '2b6c4df7-7b3', '874f921f-704', '9b3e2c5b-06f', '3fba640b-297', '4f986b18-d77', '10262ce9-59e']
+confidence: 0.707
+evidence_ids: ['a6e5835d-264', '700ff238-33a', 'cd5d0615-3b6', '022ca3cf-2c7', 'af0e8615-f26', 'e1e02cf6-a40', 'aa073f97-485', 'ccbc69ed-20f', '56d6b972-3b7', 'c0544913-5a3', 'f1307a27-f5b', '45a223ac-9c1', 'ad39148c-299', '35f5900c-7fc', '131b703e-0bf', 'ebb65d7e-cda', '6d10e782-cfd', '3c34dde2-c7b', '21a62237-bcf', 'e358f1b4-ec5']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -165,22 +165,23 @@ evidence_ids: ['7d09ecf7-26d', '96c79555-28c', 'eecf7791-1a9', 'faa3f0a8-5b1', '
 
 
 
-## Auto-Updated Data (2026-07-09)
+
+## Auto-Updated Data (2026-07-10)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| redefining design | search | 0.80 |
-| 2025-11-29 | search | 0.95 |
+| 2025-11-29 | search | 0.90 |
+| architectural firms in Bangladesh | search | 1.00 |
+| 2025-10-08 | search | 0.90 |
+| top 10 architectural firms in Bangladesh 2025 | search | 1.00 |
 | RAJUK-registered | search | 0.90 |
-| sustainable | search | 0.85 |
-| Dhaka | search | 0.95 |
-| 2025-10-08 | search | 0.95 |
+| Dhaka | search | 0.90 |
+| 2026-05-13 | search | 0.90 |
 | growing faster than ever | search | 0.90 |
-| ['Dhaka', 'Khulna', 'Chattogram'] | search | 0.95 |
-| BNBC-2020 | search | 0.95 |
-| ['design creativity', 'BNBC-2020 compliance', 'transparent pricing', 'reliable p | search | 0.90 |
-| 2026-05-13 | search | 0.95 |
-| Top 10 architectural firms in Bangladesh | search | 0.90 |
-| company reputation, client reviews, google data analytics | search | 0.90 |
-| Top 10 architecture firms in Bangladesh | search | 0.90 |
-| ['NBY IT Solution', 'Studio 16 Architects', 'Square Feet Story', 'Firetech Solut | search | 0.95 |
+| hundreds | search | 0.80 |
+| ['Dhaka', 'Khulna', 'Chattogram'] | search | 0.90 |
+| BNBC-2020 | search | 0.90 |
+| finding the right architecture firm with design creativity, BNBC-2020 compliance | search | 0.90 |
+| 2026-01-06 | search | 0.90 |
+| leading architecture firms in Bangladesh | search | 1.00 |
+| ['philosophy', 'sustainability', 'iconic projects'] | search | 0.90 |

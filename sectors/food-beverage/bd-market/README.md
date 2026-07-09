@@ -1,9 +1,9 @@
 ---
 sector: food-beverage
-last_verified: 2026-07-09
+last_verified: 2026-07-10
 freshness: fresh
-confidence: 0.724
-evidence_ids: ['21fcf2c2-3b6', '6908523b-bf4', '7a9edab2-633', '424976bc-6bb', '69ab5d76-01c', 'afd2ce9f-0b5', '65705fdc-c72', '90384ea1-80a', 'c56b62ea-a9d', '5c720011-b0d', '7da4fbbd-053', 'fb4b2602-5b6', 'a28629bf-33a', '7b2e4426-302', '7dff167a-706', 'ce9ea3cd-bfc', '5eefc34f-17a', '85a8d4dc-d6c', 'caf85358-5a0', 'b2b14412-5b3']
+confidence: 0.711
+evidence_ids: ['59eff032-bf6', '621e9070-94b', 'b68e9dc3-08f', '171da4cc-f36', 'ed10574a-cbd', '6eff7d00-841', '2c2d2fda-f73', '7cbbcee7-59c', '107e13fd-b19', '33bf4f94-dcb', 'cea280e8-4bf', '194894ec-076', '7dbfed3b-2dc', '4b825b6c-70a', '3df31dd9-f66', '0edfef7f-184', 'bdb783dc-3fc', '39bf136d-11e', '37c0d4b2-5a1', 'e0ffddf7-4d2']
 ---
 
 # Food & Beverage — Bangladesh Market
@@ -50,22 +50,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
-## Auto-Updated Data (2026-07-09)
+
+## Auto-Updated Data (2026-07-10)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 20 | search | 0.90 |
-| Dhaka | search | 1.00 |
-| Authentic Bangladeshi | search | 0.90 |
-| 2026 | search | 0.90 |
+| food-beverage | search | 1.00 |
 | Restaurants.BD | search | 1.00 |
-| Restaurant discovery platform | search | 1.00 |
+| Bangladesh's premier restaurant discovery platform | search | 0.95 |
 | 2020 | search | 0.90 |
 | 944 | search | 0.90 |
 | 31607 | search | 0.90 |
 | Dhaka City, Dhaka Division | search | 1.00 |
-| Foreign restaurant chains and local food chains have grown in popularity over th | search | 0.90 |
-| Local fast food shops have begun shifting from single locations to franchise mod | search | 0.90 |
-| Bangladesh offers a rich culinary landscape blending traditional Bengali flavors | search | 0.95 |
-| Luxury fine dining venues and affordable local eateries | search | 0.90 |
-| Dhaka and Cox’s Bazar | search | 0.90 |
+| Burger King | search | 1.00 |
+| 2016-12-09 | search | 1.00 |
+| Tiffinbox Ltd. | search | 1.00 |
+| Bangla Trac Group | search | 1.00 |
+| quick-service restaurant (QSR) | search | 1.00 |
+| Pizza Hut | search | 1.00 |
+| expanding customer base and improving accessibility | search | 0.90 |
+| blends traditional Bengali flavors with international influences | search | 1.00 |

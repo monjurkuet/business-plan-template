@@ -1,9 +1,9 @@
 ---
 sector: education-training
-last_verified: 2026-07-09
+last_verified: 2026-07-10
 freshness: fresh
-confidence: 0.709
-evidence_ids: ['19845563-af0', '7816d95c-8df', '771dffcb-3d7', 'a98ab2bb-ec3', '881df304-f6e', 'af8f6c87-941', '4360d95d-022', 'f71b2cee-64c', 'e5cf8fd2-aca', '7dc54be3-4ef', 'd769856d-bde', 'a8dded6f-c0a', '10789ea0-5b4', '90477854-6ac', '33f9b110-a93', '1694989c-3b8', '304d885f-22e', '383e7fd7-a27', '553a85e5-9ad', 'bbca840d-922']
+confidence: 0.754
+evidence_ids: ['60d9c212-721', '7ca6a6b3-6dc', 'c1434324-9bc', 'a935f9be-f15', '819f8dd3-9ba', '430ed01a-06f', '7aae899a-41a', 'b5c656b4-554', 'c491101f-392', '165027b1-402']
 ---
 
 # Education & Training — Bangladesh Market
@@ -49,21 +49,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
-## Auto-Updated Data (2026-07-09)
+
+## Auto-Updated Data (2026-07-10)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| corporate coaching services | search | 0.95 |
+| corporate coaching services | search | 0.90 |
 | education-training | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| 2026-07-01 | search | 0.90 |
-| coaching centres | search | 1.00 |
+| corporate training & coaching | search | 0.95 |
+| ['Digicon Technologies Ltd', 'E-Learning & Earning LTD', 'U S Software Ltd', 'PM | search | 0.90 |
+| ['IELTS', 'medical admissions', 'O/A levels', 'studying abroad'] | search | 0.90 |
 | education-training | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| ['IELTS', 'medical admissions', 'O/A levels', 'studying abroad'] | search | 0.95 |
-| students | search | 0.90 |
-| ['Digicon Technologies Ltd', 'E-Learning & Earning LTD', 'U S Software Ltd', 'PM | search | 0.95 |
-| The Career Coaching industry in Bangladesh is evolving, driven by a growing dema | search | 0.90 |
-| ['Women in Agile Bangladesh', 'Training Pundit'] | search | 0.90 |
-| The Career Coaching industry in Bangladesh is evolving, driven by a growing dema | search | 0.90 |
-| The regulatory environment for coaching practices in Bangladesh is under the pur | search | 0.85 |
+| coaching centres | search | 0.95 |
+| ['IELTS', 'medical admissions', 'O/A levels', 'studying abroad'] | search | 0.90 |
+| Dhaka | search | 0.80 |
+| education-training | search | 1.00 |
+| online coaching companies | search | 0.95 |
+| ['Training Pundit', 'ENSDI - ইন্সডি (training & consultancy)'] | search | 0.90 |
+| 2026 | search | 0.90 |
+| education-training | search | 1.00 |
+| evolving, driven by growing demand for professional development and employment g | search | 0.90 |
