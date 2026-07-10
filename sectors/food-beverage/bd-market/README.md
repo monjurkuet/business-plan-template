@@ -1,9 +1,9 @@
 ---
 sector: food-beverage
-last_verified: 2026-07-10
+last_verified: 2026-07-11
 freshness: fresh
-confidence: 0.697
-evidence_ids: ['964031ef-5ea', '38edbabd-8d5', '826fd329-972', '183ce1c5-874', 'ec6a3223-9ca', 'c6bc5e03-90d', 'a6755fcf-230', '314f9fea-37a', 'b978f909-fe7', '7ead979c-fe1', 'ccd7a637-7e2', '3e477440-892', 'd3a2e00e-81c', '9fc79d19-b05', 'f9969387-08d', '6ef21e20-4b9', '6d1feed3-f9b', '7c24ee5e-652', '5fda63e4-300', '229e2d41-adc']
+confidence: 0.712
+evidence_ids: ['176d2fda-3b1', '3bd62926-291', '09a9888e-51e', 'bd0228e3-65b', '8962c9ef-eac', '531789f7-7c8', '2db97759-d7a', 'e7b6bb56-fcd', '806792ed-772', 'ee9f0fc0-f05', '9503e2ec-0b8', '1366482e-d18', '0714d3b7-f37', 'f08d959e-775', 'ebb0b8c8-448', 'ce6fe6e4-213', '426326d8-532', '2b63e6f9-994', '92e27155-0d7', 'f25753a8-a08']
 ---
 
 # Food & Beverage — Bangladesh Market
@@ -54,19 +54,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
-## Auto-Updated Data (2026-07-10)
+
+## Auto-Updated Data (2026-07-11)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Delhi Belly Restaurant | search | 0.90 |
-| Bangladeshi | search | 0.80 |
-| Bagicha Chinese Restaurant | search | 1.00 |
-| 26, Segun Bagicha Rd, Dhaka, Bangladesh | search | 1.00 |
-| Chinese | search | 0.90 |
-| Bangladeshi Taka | search | 1.00 |
-| Bangladesh Tandoori Restaurant | search | 1.00 |
-| Campbeltown | search | 1.00 |
-| 4.1 | search | 1.00 |
-| 10 | search | 1.00 |
-| ['Indian', 'Asian', 'Bangladeshi'] | search | 1.00 |
-| 86 | search | 1.00 |
+| 20 minutes from downtown Montreal | search | 0.90 |
+| rooftop | search | 0.95 |
+| stunning views and delicious cuisine | search | 0.90 |
+| Delhi Belly Restaurant | search | 0.80 |
+| Bangladeshi | search | 0.95 |
+| Biryani | search | 0.90 |
+| Bangladesh Tandoori Restaurant | search | 0.95 |
+| Campbeltown | search | 0.95 |
+| 4.1 | search | 0.95 |
+| 9 | search | 0.95 |
+| 86 | search | 0.95 |
+| Bangladesh Restaurant | search | 0.90 |
+| 118 Luttig St, Pretoria West, South Africa | search | 0.90 |
+| Bangladeshi | search | 0.95 |
+| casual eatery | search | 0.90 |

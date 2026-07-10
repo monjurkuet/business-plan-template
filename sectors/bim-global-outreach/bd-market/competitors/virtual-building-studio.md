@@ -1,6 +1,6 @@
 ---
 sector: bim-global-outreach
-last_verified: 2026-07-10
+last_verified: 2026-07-11
 freshness: fresh
 ---
 
@@ -109,10 +109,7 @@ freshness: fresh
 
 
 
-## Recent Findings (2026-07-10)
 
-- **www.archilovers.com** (conf: 0.89): Founded in 2005, Marina Tabassum Architects (MTA) is an internationally recognisedarchitectureand studio-based practice located inDhaka, Bangladesh.
+## Recent Findings (2026-07-11)
 
-- **www.facebook.com** (conf: 0.69): Jun 5, 2026 ·Studio M Architecture is at Jolshiri Abashon, Dhaka,Bangladesh. Crafted with intention, this apartment in JOLSHIRI blends energy-efficient design with elegant living. From floor-to-ceilin
-
-- **www.facebook.com** (conf: 0.69): Jun 5, 2026 ·Sthapotik/SharifUddin Ahammed, Dhaka. 12,895 likes · 17 talking about this · 112 were here. Sthapotik is an architectural design studio. established in 2006 by Ar. Sharif Uddin Ahammed wi
+- **clutch.co** (conf: 0.69): 2 days ago ·Recommended EngineeringcompaniesinBangladeshinclude Perfect Solution, Studio 16 Architects, ANB UNIQUE REAL ESTATE LTD, Patenga Shipbuilding & Engineering, Alifs Engineering, DOER Steel Li

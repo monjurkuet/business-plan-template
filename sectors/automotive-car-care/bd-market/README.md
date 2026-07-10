@@ -1,9 +1,9 @@
 ---
 sector: automotive-car-care
-last_verified: 2026-07-10
+last_verified: 2026-07-11
 freshness: fresh
-confidence: 0.666
-evidence_ids: ['7872b140-681', '584c659b-efd', 'bbc461e3-035', 'f354f7a2-ba0', 'f12ce65b-60c', 'ab6477e3-0c3', 'b033b0b8-d51', '2d897c6a-fe4', '72b2c3a0-9aa', '46c35790-f37', '8b52908c-274', '38be406a-977', '3d7f243e-895', '86a56348-fef', '1e61b78e-3b6', 'a3fd151f-9c6', 'fc608331-007', 'ddea348f-731', '1b8dce29-07c']
+confidence: 0.687
+evidence_ids: ['768b7653-a73', 'b066219d-c09', 'd7e83388-f88', '16af86bf-b0a', 'c2825e11-cea', '58a7f47c-5c9', 'e45f765a-476', '423644ca-c55', 'd96bb141-b69', '1618c8de-ec8', '6ffb6a0d-3a5', '90b55cbc-731', 'c0552000-8fb', '2aa11009-f1b', '7fde20cd-86d', '90dad622-f99', 'd4a8a3d4-a36', '0e415be4-a65', 'a2edc510-8c9', '0c3a3aa5-82b']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -177,13 +177,18 @@ evidence_ids: ['7872b140-681', '584c659b-efd', 'bbc461e3-035', 'f354f7a2-ba0', '
 
 
 
-## Auto-Updated Data (2026-07-10)
+
+## Auto-Updated Data (2026-07-11)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| free quote | search | 0.90 |
-| free air fresheners and bonus free washes | search | 0.95 |
-| unlimited wash club membership | search | 0.95 |
+| Car Wash & Car Cleaning Services | search | 0.90 |
+| Dhaka, Bangladesh | search | 0.90 |
+| free quote, free air fresheners, bonus free washes with unlimited wash club memb | search | 0.80 |
+| affordable cost | search | 0.70 |
 | +8801762499688 | search | 1.00 |
-| 24 Hours | search | 1.00 |
 | Dhanmondi, Dhaka, Bangladesh | search | 1.00 |
+| {'Monday': '24 Hours', 'Tuesday': '24 Hours', 'Wednesday': '24 Hours', 'Thursday | search | 1.00 |
+| Savar, Dhaka, Bangladesh | search | 1.00 |
+| Kärcher | search | 1.00 |
+| Bike & Car Wash Demo | search | 1.00 |

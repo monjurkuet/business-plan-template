@@ -1,9 +1,9 @@
 ---
 sector: clothing-fashion
-last_verified: 2026-07-10
+last_verified: 2026-07-11
 freshness: fresh
-confidence: 0.717
-evidence_ids: ['3e485fd6-ec3', '0eda7d7b-bd5', 'f6abc326-3f4', '3b6989d5-933', '1563a546-285', '04016287-73c', '76f4ea73-353', '93afe856-c59', 'e5de38c6-2a2', '3a4d6e03-1a4', '87362766-7ac', '1543d8a6-013', 'fd505492-dc8', '3847024a-40f', 'ff5e60e5-e83', '1161edbd-ff1', '52ff5579-5bc', '0672fa12-6f0', '992a2386-399', '4b1e2f1d-5a4']
+confidence: 0.71
+evidence_ids: ['72df5d53-fad', 'eb6c4347-03b', '28ed5056-ada', 'eec74f8a-27e', '6873f1e8-888', '7830ab43-12c', '78889952-6b0', 'd84c16d6-64f', '6a23a195-fb3', 'ecc3f830-9ce', '46fe8ea8-d2d', '9fca84af-1b4', 'fa7f7b21-ec1', '9405b57b-5a1', '997d6b4c-48d', '78147d28-5a0', '11663794-c53', 'e75a48fd-a81', '8767f850-f0b', 'f3eb4857-635']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -166,20 +166,23 @@ evidence_ids: ['3e485fd6-ec3', '0eda7d7b-bd5', 'f6abc326-3f4', '3b6989d5-933', '
 
 
 
-## Auto-Updated Data (2026-07-10)
+
+## Auto-Updated Data (2026-07-11)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 300 COTTON TERRY CLOTH CLEANING RAGS / SHOP TOWELS / 12X12- 25 DOZ. / WHOLESALE | search | 0.90 |
-| 3.5 | search | 0.90 |
-| Bangladesh | search | 1.00 |
-| RD style women black dress warm size M Knitted | search | 0.90 |
-| affordable | search | 0.90 |
-| all over Bangladesh | search | 0.95 |
-| fast | search | 0.90 |
-| across Bangladesh | search | 0.95 |
-| 7 | search | 0.95 |
-| winter clothing (eco-friendly, anti-shrink fleece and cotton hoodies) | search | 0.90 |
+| ['best match', 'price', 'free shipping', 'fast delivery', 'free return'] | search | 0.90 |
+| baggy pants | search | 0.95 |
+| boys | search | 0.90 |
+| ['casual wear', 'daily wear', 'summer outfit', 'winter outfit'] | search | 0.90 |
+| premium quality fabric | search | 0.90 |
+| affordable | search | 0.85 |
+| home delivery all over Bangladesh | search | 0.95 |
+| online clothing shop Bangladesh | search | 0.95 |
+| best factory prices | search | 0.90 |
+| highest-quality custom apparel | search | 0.90 |
 | 88 | search | 0.95 |
 | fell over the past month | search | 0.90 |
-| NY/ICE nearby July | search | 0.95 |
+| NY/ICE futures contract nearby July | search | 0.90 |
+| 2026-06 | search | 0.80 |
+| oil and gas prices skyrocketing due to closure of the Strait of Hormuz | search | 0.90 |

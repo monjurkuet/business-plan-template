@@ -1,9 +1,9 @@
 ---
 sector: healthcare-pharma
-last_verified: 2026-07-10
+last_verified: 2026-07-11
 freshness: fresh
-confidence: 0.691
-evidence_ids: ['4d7a0e6c-6c3', '00aa722a-a62', '2ca95072-ee8', '7cae4d58-c06', '68743fb6-887', '68769fd0-72a', 'fa6fcc1c-ac5', '040ef67d-ce8', '5f2d02af-cba', 'c570c7f8-034', 'a2d675ad-a5a', 'b7f216e4-5e4', 'dab3e47b-1ea', '49502aff-c45', '85d57751-a37', '2980a5c3-c42', '616bc1d3-fd3', '20ce5046-e3a', '65f6f1ba-afa', 'fd081017-b83']
+confidence: 0.702
+evidence_ids: ['398bb34a-f0f', '9d55be70-7ec', '823328e0-447', '160da159-e84', 'bd59a0fb-ce1', '273701a7-997', 'a9d0b63d-0cc', '77dcccd6-571', '2340efc3-1fb', '61c498be-7d9', '89631b13-2d3', 'a1bbfeeb-2dd', 'e79a99a4-0b0', '9916ff93-e06', '014d7eac-138', 'abadbc50-6a8', '0943f567-7d8', 'e3b51689-d50', '007ad70b-94d', '9142ea9b-730']
 ---
 
 # Healthcare & Pharma — Bangladesh Market
@@ -54,20 +54,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
-## Auto-Updated Data (2026-07-10)
+
+## Auto-Updated Data (2026-07-11)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
 | Bangladesh’s pharma industry is driven by local companies ensuring affordable he | search | 0.90 |
 | 2025-09-05 | search | 0.95 |
-| [{'company_name': 'Alco Pharma', 'revenue': 675100000, 'rank': 1}, {'company_nam | search | 0.98 |
+| Alco Pharma | search | 1.00 |
+| 675100000 | search | 0.98 |
+| Orion Pharma | search | 1.00 |
+| 594600000 | search | 0.98 |
+| Square Pharmaceuticals Limited | search | 1.00 |
+| 538200000 | search | 0.98 |
 | 2026-07 | search | 0.95 |
 | 2026-01-17 | search | 0.95 |
-| market share, sales, exports, growth trends, and industry insights | search | 0.90 |
+| ranked by market share, sales, exports, growth trends, and industry insights | search | 0.90 |
 | cornerstone of industrial growth, innovation, and healthcare accessibility | search | 0.90 |
-| 2025 | search | 1.00 |
+| 2025-11-07 | search | 0.95 |
 | one of the most developed sectors of the Bangladeshi economy | search | 0.95 |
-| meets local demand for medicines and is becoming a global leader in pharmaceutic | search | 0.90 |
-| 2026 | search | 1.00 |
-| Square Pharmaceuticals Limited | search | 1.00 |
-| 1 | search | 0.95 |
+| met the local demand for medicines and is steadily becoming a global leader in p | search | 0.90 |

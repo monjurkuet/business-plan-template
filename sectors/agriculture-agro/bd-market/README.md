@@ -1,9 +1,9 @@
 ---
 sector: agriculture-agro
-last_verified: 2026-07-10
+last_verified: 2026-07-11
 freshness: fresh
-confidence: 0.696
-evidence_ids: ['ce80153a-607', 'e362b159-259', 'dcd58a72-dda', '6980dbd9-dec', '3219cf4d-e13', '1352219a-988', '1c3bb6d6-245', '82003416-99d', 'caf288aa-e9e', 'dd2ef76d-615', '88532d70-ce7', 'c6c2e772-11c', 'cbfcce90-0dd', '15e73d44-ea5', 'ff2fe17d-bef', '178ce151-f2c', '5d445181-887', 'baf67a4e-b21', '5d220b4c-019', 'a619d7d7-875']
+confidence: 0.708
+evidence_ids: ['aa241374-a87', '56c3bc85-099', '8c649d72-7bc', 'e1694912-10f', 'e3b61180-340', 'c9b5827f-3a5', 'ab5b6617-79c', '3dbad96c-3b9', 'd0563f7e-924', '344027c3-e4d', 'ae9ba96a-a0c', '07083717-c00', 'c6083224-760', '2cd5a3d5-b53', '249e75fc-d54', '78c754b6-9ae', 'e7a1b3ba-ff1', 'f5869a82-360', '05dc2eef-c43', '863a4722-48a']
 ---
 
 # Agriculture & Agro-processing — Bangladesh Market
@@ -55,7 +55,8 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
-## Auto-Updated Data (2026-07-10)
+
+## Auto-Updated Data (2026-07-11)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
@@ -70,7 +71,7 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 | সুপ্রিম সীড কোম্পানি লি. | search | 0.95 |
 | Surovi Agro Industries Ltd. | search | 0.95 |
 | Neptune's Harvest Fish & Seaweed Liquid Fertilizer | search | 0.95 |
-| FS136 | search | 0.95 |
-| 2-3-1 | search | 0.95 |
-| 32 | search | 0.95 |
+| FS136 32 Oz. Fish & Seaweed Blend Fertilizer 2-3-1 | search | 0.95 |
 | organic fertilizer | search | 0.95 |
+| Ubuy Bangladesh | search | 0.95 |
+| Bangladesh Agricultural And Forest Development Ltd. | search | 0.95 |

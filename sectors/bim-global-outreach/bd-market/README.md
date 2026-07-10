@@ -1,9 +1,9 @@
 ---
 sector: bim-global-outreach
-last_verified: 2026-07-10
+last_verified: 2026-07-11
 freshness: fresh
-confidence: 0.731
-evidence_ids: ['a605972d-452', 'fb0ecb25-e65', '251b9e86-e5f', 'bd941cce-8ef', '8ee0fd59-816', 'ab8afe2a-ff2', '228eb7e7-c1b', '8b267489-9e5', '3548d350-62d', 'd8a1f20b-914', '67523f30-fd7', '9d29dc85-25d', 'b28d410b-6b3', '6a91a28b-cda', '43a53c6c-6b8', 'df9fe7aa-dfa', '34f3b525-56b', 'fb1ac7bf-4cc', '3fabb80a-272', '4754f7e0-a3d']
+confidence: 0.737
+evidence_ids: ['f10f4d05-326', '99ff4a4f-dc5', '24f7c224-b68', '5f974863-fc6', 'e5fc00cb-3f6', 'bcfb1d70-904', '50ba1b51-731', '999d25e7-f4a', 'cf8b3cf1-e09', 'fcf9b9f2-a4c', '8be2e4af-828', '92673a57-979', '7d64dca2-062', '2b8880cc-e87', 'e486c704-e0c', 'f4a5f537-b6d', 'cfba99ae-c00', 'b4633970-da1', 'd065f5f1-b43', '142ded5d-2c7']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -169,22 +169,23 @@ evidence_ids: ['a605972d-452', 'fb0ecb25-e65', '251b9e86-e5f', 'bd941cce-8ef', '
 
 
 
-## Auto-Updated Data (2026-07-10)
+
+## Auto-Updated Data (2026-07-11)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Globats | search | 1.00 |
-| Systems Architecture | search | 1.00 |
-| building automation-first business ecosystems | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| Janla Associates Limited | search | 1.00 |
-| Architecture, Interior, Construction, Project Management | search | 1.00 |
-| Bangladesh (Near Dhaka) | search | 1.00 |
-| Construction & Real Estate | search | 1.00 |
-| SPACE | Dhaka | search | 0.90 |
-| 2592 | search | 0.90 |
-| 159 | search | 0.90 |
-| Geometric Architect & Interiors | search | 0.95 |
+| interior design | search | 0.90 |
 | Dhaka, Bangladesh | search | 0.95 |
-| residential and commercial projects | search | 0.90 |
-| 300+ | search | 0.90 |
+| top_10_companies_list | search | 0.90 |
+| Globats | search | 0.95 |
+| systems architecture | search | 0.95 |
+| Bangladesh | search | 0.95 |
+| building automation-first business ecosystems | search | 0.90 |
+| engineer scalable solutions that compound over time | search | 0.90 |
+| NBBJ | search | 0.95 |
+| architecture and design | search | 0.95 |
+| TIME's Most Influential Companies List (only architecture firm) | search | 0.95 |
+| Fast Company's World’s Most Innovative Architecture Firms (fifth time) | search | 0.95 |
+| Creating Connection across a National Workplace Network for Moss Adams | search | 0.90 |
+| EYRC Architects | search | 0.95 |
+| Ehrlich Architects | search | 0.95 |

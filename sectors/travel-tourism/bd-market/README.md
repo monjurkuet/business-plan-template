@@ -1,9 +1,9 @@
 ---
 sector: travel-tourism
-last_verified: 2026-07-10
+last_verified: 2026-07-11
 freshness: fresh
-confidence: 0.698
-evidence_ids: ['ad26f758-2f0', '64638c92-3d2', 'f9483244-7d8', '1defae6e-5e0', '94d3278b-66a', '715f73be-296', 'c3e4e914-0c8', '8ec7ab00-f2c', 'e1eb1cb5-8d9', 'a1dd2556-055', '0b385311-109', '87a1c952-70a', 'fb3d3fd9-1d3', '7ebd3bfc-3cf', '13287283-498', '490dd312-3e7', '5f6fa3c0-101', '6246c685-05a', 'b0c68a1e-cd2', '763b44c6-489']
+confidence: 0.697
+evidence_ids: ['ff17c0c0-ac6', '469573ba-65c', '026594a2-751', '72ce7741-59d', '819e6d70-872', '60f9430d-5d1', 'd459b470-c77', '2fbf50e3-fcb', 'ba255953-946', 'e5da0ab2-e61', '34075208-0c1', '902da822-177', '66f64914-9a7', 'c728d7ea-d86', 'be6a4745-17a', '23e560c0-2d0', 'a5f98840-ad1', '026a6430-b83', '9cc16318-77d', '647a19fa-077']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -129,22 +129,20 @@ evidence_ids: ['ad26f758-2f0', '64638c92-3d2', 'f9483244-7d8', '1defae6e-5e0', '
 
 
 
-## Auto-Updated Data (2026-07-10)
+
+## Auto-Updated Data (2026-07-11)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Eammu Holidays | search | 1.00 |
-| travel and tourism | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| ['tourist visas', 'student visas', 'work visas', 'Umrah packages 2026', 'interna | search | 1.00 |
-| ['Dubai', 'Georgia', 'Armenia', 'Europe'] | search | 1.00 |
-| #1 travel agency in Bangladesh | search | 0.90 |
-| TravelAgencyBangladesh | search | 1.00 |
-| travel and tourism | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| ['affordable tour packages', 'air tickets', 'visa support'] | search | 1.00 |
+| Umrah packages 2026 | search | 0.95 |
+| international flights | search | 0.95 |
+| holiday tours to Dubai, Georgia, Armenia & Europe | search | 0.95 |
+| tourist, student & work visas | search | 0.95 |
+| tour packages, air tickets, visa support | search | 0.90 |
 | affordable | search | 0.80 |
-| amazing tour and travel packages at affordable price | search | 0.90 |
-| ['Dream International', "Cox's Bazar Travels", 'Holiday International', 'Bengal  | search | 0.95 |
-| ['air ticketing', 'visa processing', 'customized tour packages'] | search | 0.90 |
-| 2026-06 | search | 0.95 |
+| affordable | search | 0.80 |
+| tour and travel packages | search | 0.90 |
+| study abroad, visa services, air tickets | search | 0.90 |
+| cheap | search | 0.80 |
+| air ticketing, visa processing, customized tour packages | search | 0.95 |
+| ['Dream International', "Cox's Bazar Travels", 'Holiday International', 'Bengal  | search | 0.90 |

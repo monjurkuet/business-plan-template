@@ -1,9 +1,9 @@
 ---
 sector: jewellery
-last_verified: 2026-07-10
+last_verified: 2026-07-11
 freshness: fresh
-confidence: 0.692
-evidence_ids: ['f12ed4c2-f71', 'bd85bffc-671', '0b8a1b40-8d0', '51dcb207-236', '4cce67eb-e28', 'f2727c70-671', 'caae636a-94a', '8df8df0b-9d9', '63867eee-173', 'e37eaca3-cc3', '3f98c61a-de8', '9366ad09-1e9', '51bc09d5-a69', '21712b9b-81e', '4257dcab-dc6', 'c6ef2656-f5d', '68c7c2cf-99f', 'cc5e22ac-dc3', '021e9574-3d2', '646ef40f-529']
+confidence: 0.722
+evidence_ids: ['4b177cd4-dd6', '6b2b6fa3-931', '31b9d08d-ee5', '039943fa-8bb', '03826b25-411', 'a3179a02-efd', 'f20defaf-c80', '14dc773b-36b', '25b80e32-4bc', 'c3c6fd53-9f8', 'adb8e1ee-f1a', '9b740bcb-632', 'abb8ed9f-d79', 'f4091c4e-b69', '9fdb11b7-848', '0ed38638-84d', 'b6e69387-b72', '08e544d1-37f', '548babda-9e2', '7fb3de08-26c']
 ---
 
 # Jewellery — Bangladesh Market
@@ -141,10 +141,23 @@ evidence_ids: ['f12ed4c2-f71', 'bd85bffc-671', '0b8a1b40-8d0', '51dcb207-236', '
 
 
 
-## Auto-Updated Data (2026-07-10)
+
+## Auto-Updated Data (2026-07-11)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Bangladesh jewellery style | search | 0.90 |
-| pendant necklaces, statement necklaces, choker necklaces | search | 0.95 |
-| necklace styles | search | 0.90 |
+| 200 to 3000 | search | 0.95 |
+| fashion jewellery | search | 0.95 |
+| daily and festive wear | search | 0.90 |
+| daily | search | 0.90 |
+| churi, chain, gold bracelet | search | 0.95 |
+| all gold jewellers in Bangladesh | search | 0.95 |
+| ['Al Amin Jewellers', 'Amin Jewellers', 'Apan Jewellers'] | search | 0.95 |
+| 225290 | search | 1.00 |
+| ['22K', '21K', '18K'] | search | 1.00 |
+| 2026-07-10 | search | 0.90 |
+| BAJUS | search | 0.90 |
+| Al-Amin Jewellers | search | 1.00 |
+| Gold Jewellery Shop | search | 1.00 |
+| Best price when buying gold from customers | search | 0.90 |
+| Pioneer in online jewellery shop in Bangladesh | search | 1.00 |

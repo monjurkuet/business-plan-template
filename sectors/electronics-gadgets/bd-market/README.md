@@ -1,9 +1,9 @@
 ---
 sector: electronics-gadgets
-last_verified: 2026-07-10
+last_verified: 2026-07-11
 freshness: fresh
-confidence: 0.717
-evidence_ids: ['f9c3fde0-019', '7deb18a9-533', '2e5ce08d-ab9', '28ad2721-92b', 'd9a8d786-9ca', '3119363a-920', 'a139b3a4-bea', 'd35a562c-5bf', '557cb99f-7d0', 'cb30e0f0-520', 'c8b15d15-445', '15dbffa4-fed', '1fe2d3ef-b25', '5555f5d2-eaa', '3834c024-dfb', '260782da-82a', '9042ec5f-0ed', 'e2daa88a-666', '08e747d3-293', 'c508e643-851']
+confidence: 0.716
+evidence_ids: ['efbb8296-b9b', 'cb80b59e-a64', '40ffbc4c-14a', '22212232-a87', 'b2941256-c6b', '61751644-92b', '9d2476a5-4fb', '43ed0ab8-241', '2f8df1a8-abd', 'd1ebdd91-68b', '9b9482ad-77d', '1ee8a99c-15c', 'd9f0db96-f84', 'bd730338-6ea', '194da97d-2f5', '6eda6d3e-d57', 'c6e82e8f-9b2', 'a9802ad1-b66', '9093eb0f-741', 'e4c28a54-eb9']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -154,21 +154,20 @@ evidence_ids: ['f9c3fde0-019', '7deb18a9-533', '2e5ce08d-ab9', '28ad2721-92b', '
 
 
 
-## Auto-Updated Data (2026-07-10)
+
+## Auto-Updated Data (2026-07-11)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
 | competitive prices on all products | search | 0.90 |
 | 0৳ - 0৳ | search | 0.80 |
-| 0 | search | 0.80 |
-| 1 | search | 0.80 |
-| 1 | search | 0.80 |
+| 1 in stock, 1 on discount | search | 0.90 |
 | 2026-02-06 | search | 0.90 |
+| 100% Authentic & Quality Products as an Authorized Shop | search | 0.95 |
 | 01719117333 | search | 0.95 |
-| 100% Authentic & Quality Products as an Authorized Shop | search | 0.90 |
 | best prices | search | 0.90 |
-| Free Shipping | search | 0.90 |
+| Free Shipping | search | 0.95 |
 | best prices, offers, and discounts on electronics | search | 0.90 |
-| 15.00 | search | 0.90 |
-| BRANDS MEGA LTD | search | 1.00 |
-| Navana Tower (Level-18) 45 Gulshan Avenue, Gulshan-1 Dhaka -1212, Bangladesh | search | 1.00 |
+| BRANDS MEGA LTD | search | 0.90 |
+| Navana Tower (Level-18) 45 Gulshan Avenue, Gulshan-1 Dhaka -1212, Bangladesh | search | 0.90 |
+| 15.00 | search | 0.70 |

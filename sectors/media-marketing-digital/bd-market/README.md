@@ -1,9 +1,9 @@
 ---
 sector: media-marketing-digital
-last_verified: 2026-07-10
+last_verified: 2026-07-11
 freshness: fresh
-confidence: 0.713
-evidence_ids: ['3528786e-e6b', 'f3d7ab39-dac', '7700d5ec-84a', '41de871a-371', '9c90565f-817', 'fd71d3a9-3df', '78084fd5-868', '46d95c7b-554', 'e21722c2-33d', '9f72555e-593', 'cede63a5-fca', 'eada7e15-256', '160b1a37-90f', '914244e2-907', 'd9ecedae-2b1', 'a9329c5a-30a', 'e25261ca-814', '1667995a-59d', '6abbc2df-499', 'e46edcd1-0b2']
+confidence: 0.7
+evidence_ids: ['49a52b11-fa0', '66a9e57f-0df', '64d004a0-0f2', '57caec48-1c0', 'ecef04f3-7b2', 'dcaf5990-df4', '78ffac09-b5e', 'd23f4fdb-230', '9b9dfe23-8e6', '05e433d8-ded', 'd8380340-9e1', 'df708b76-107', 'df74be95-918', '11202ea7-cce', '61310ecb-42e', '92aa0a69-8b2', '46443f00-f20', 'a193126b-03c', '07b4371c-b6a', '2c26d05c-b56']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market
@@ -147,18 +147,17 @@ evidence_ids: ['3528786e-e6b', 'f3d7ab39-dac', '7700d5ec-84a', '41de871a-371', '
 
 
 
-## Auto-Updated Data (2026-07-10)
+
+## Auto-Updated Data (2026-07-11)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| payment per use | search | 0.90 |
-| pay only for what you use | search | 0.95 |
-| 2026 | search | 0.95 |
-| price benchmark guide | search | 0.90 |
-| 2026-06 | search | 0.90 |
-| ['GEEKY SOCIAL LTD.', 'OneLittleWeb', 'BrandViser', 'MonsterClaw LLC', 'Ecomclip | search | 1.00 |
-| 5-200+ professionals | search | 0.95 |
-| ['fixed-price', 'time and material', 'dedicated teams'] | search | 0.95 |
-| project type, technology preference, team size, engagement model, budget range | search | 0.90 |
-| 100 million | search | 0.90 |
-| unprecedented growth in digital landscape | search | 0.95 |
+| Bulk SMS, Email Marketing, Interactive Voice | search | 0.90 |
+| The best price in digital marketing Bangladesh | search | 0.80 |
+| BDT | search | 0.95 |
+| bKash | search | 0.90 |
+| startups | search | 0.95 |
+| SEO, social media, Google Ads | search | 0.95 |
+| BDT | search | 0.90 |
+| SEO, PPC, social media, email, influencer marketing | search | 0.95 |
+| ['GEEKY SOCIAL LTD.', 'OneLittleWeb', 'BrandViser', 'MonsterClaw LLC', 'Ecomclip | search | 0.95 |
