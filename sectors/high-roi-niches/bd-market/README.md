@@ -2,8 +2,8 @@
 sector: high-roi-niches
 last_verified: 2026-07-10
 freshness: fresh
-confidence: 0.709
-evidence_ids: ['fc4aebf1-eaa', '0ea7b8ad-1d0', 'd80f0b69-9a3', 'e8560431-60a', 'f1c15eff-d99', 'e8ca7caa-bc3', '2542b6a3-11d', '1c3b5b46-350', 'd62a30a5-9ed', 'eeeca7eb-193', '9fee0340-d24', '39312497-957', 'f89b7cf9-500', '90a6faa8-400', '0bdc758f-f16', '8fa3d5c6-ce1', '03ac77a8-5d2', 'dbaf4d29-34b', '0c71dc27-292', 'a4384bf9-5c8']
+confidence: 0.722
+evidence_ids: ['2c36e3a8-282', '54e1715a-cbd', 'edc94ebb-a1c', '258173b5-56e', '2e576887-e31', '6ab6dbf6-738', 'e92c4738-7ab', '5bc4409b-ee9', 'dc61e6f7-3da', '3985e039-8d5', '4dce06d5-d33', 'd9082e86-ee0', '51f1e6e5-a94', 'c9c9996f-4b8', 'a96aa9bc-8eb', 'ab24b2e5-209', 'd2e6e146-8ed', '908b56c5-22d', '233af230-cfb', 'e1870db9-a5f']
 ---
 
 # High-ROI Niches — Bangladesh Market
@@ -142,21 +142,19 @@ This sector captures high-growth, high-margin niche opportunities in Bangladesh.
 
 
 
+
 ## Auto-Updated Data (2026-07-10)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| pet care | search | 1.00 |
-| online pet shop | search | 1.00 |
-| pet supplies, food, medicine, grooming products, accessories | search | 0.95 |
-| doorstep delivery | search | 0.95 |
-| pet care | search | 1.00 |
-| Pet Town BD | search | 1.00 |
-| cat food, toys, grooming products, accessories | search | 0.95 |
-| top-rated | search | 0.90 |
-| pet care | search | 1.00 |
-| PawCare | search | 1.00 |
-| online pet shop | search | 1.00 |
-| pet products, food, toys, accessories | search | 0.95 |
-| fast delivery | search | 0.95 |
+| Daraz is the largest online pet shop in Bangladesh showcasing a wide range of pe | search | 0.90 |
+| pet supplies at the best prices | search | 0.80 |
+| delivered to your doorstep | search | 0.90 |
+| Pet Town BD is the ultimate destination for all pet care needs in Bangladesh, of | search | 0.95 |
+| ['cat food', 'toys', 'grooming products', 'accessories'] | search | 0.95 |
+| top-rated customer service and a diverse collection of trusted brands | search | 0.90 |
+| PawCare is the top pet shop in Bangladesh offering quality pet products, food, t | search | 0.95 |
 | affordable prices | search | 0.90 |
+| Fast delivery and top-notch customer service | search | 0.90 |
+| Aquisan Bangladesh Pet Care is a cat-focused pet care facility welcoming feline  | search | 0.95 |
+| calm, cat-focused space for feline care | search | 0.90 |

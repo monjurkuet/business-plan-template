@@ -2,8 +2,8 @@
 sector: food-beverage
 last_verified: 2026-07-10
 freshness: fresh
-confidence: 0.721
-evidence_ids: ['569771b9-f32', 'ce2b797f-3d4', 'a236c13c-37c', '1afc9216-fab', '0be920e5-a74', '2db215b4-a20', 'ffe63cfe-c83', '1774a64c-cf5', 'fec622c5-b3b', '971df8e9-a36', '7fd862b9-68d', '2fd44dfc-5c7', 'afeae815-87c', 'dacc4c44-407', 'c80bcbbf-9e0', 'a4bd06bc-9c9', 'e54d680e-6d7', 'ade17239-d77', '35ff9f06-a87', 'eb07a132-fcc']
+confidence: 0.697
+evidence_ids: ['964031ef-5ea', '38edbabd-8d5', '826fd329-972', '183ce1c5-874', 'ec6a3223-9ca', 'c6bc5e03-90d', 'a6755fcf-230', '314f9fea-37a', 'b978f909-fe7', '7ead979c-fe1', 'ccd7a637-7e2', '3e477440-892', 'd3a2e00e-81c', '9fc79d19-b05', 'f9969387-08d', '6ef21e20-4b9', '6d1feed3-f9b', '7c24ee5e-652', '5fda63e4-300', '229e2d41-adc']
 ---
 
 # Food & Beverage — Bangladesh Market
@@ -53,22 +53,20 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-10)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Bangladeshi | search | 0.90 |
-| Biryani | search | 0.80 |
-| Delhi Belly Restaurant | search | 0.70 |
-| Bagicha Chinese Restaurant | search | 0.95 |
-| 26, Segun Bagicha Rd, Dhaka, Bangladesh | search | 0.90 |
-| Bangladeshi Taka | search | 0.95 |
-| Chinese | search | 0.80 |
-| Bangladesh Tandoori Restaurant | search | 0.95 |
-| Campbeltown | search | 0.95 |
-| 4.1 | search | 0.90 |
-| 10 | search | 0.90 |
-| ['Indian', 'Asian', 'Bangladeshi'] | search | 0.90 |
-| 86 | search | 0.90 |
-| Food Photography | search | 0.95 |
-| Boss Man Digital Marketing Agency | search | 0.95 |
+| Delhi Belly Restaurant | search | 0.90 |
+| Bangladeshi | search | 0.80 |
+| Bagicha Chinese Restaurant | search | 1.00 |
+| 26, Segun Bagicha Rd, Dhaka, Bangladesh | search | 1.00 |
+| Chinese | search | 0.90 |
+| Bangladeshi Taka | search | 1.00 |
+| Bangladesh Tandoori Restaurant | search | 1.00 |
+| Campbeltown | search | 1.00 |
+| 4.1 | search | 1.00 |
+| 10 | search | 1.00 |
+| ['Indian', 'Asian', 'Bangladeshi'] | search | 1.00 |
+| 86 | search | 1.00 |

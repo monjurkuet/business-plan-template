@@ -2,8 +2,8 @@
 sector: agriculture-agro
 last_verified: 2026-07-10
 freshness: fresh
-confidence: 0.709
-evidence_ids: ['e960fe25-9ef', 'a7d033d5-531', '5d644364-7ae', 'fdb1d18c-1a6', 'c9fc5206-584', 'd4d9cec2-f20', '9033b14a-3d2', '2294bdf9-445', '5e21bd06-d87', '91116781-48a', '2b9883b0-dfb', 'e479799e-684', 'd1491d5c-45a', '021c2249-704', '120e2e8d-917', 'd8b2900a-b68', 'ded95f6f-618', 'b6be3c26-92c', '269fc91a-5b3', '46d5a1b4-111']
+confidence: 0.696
+evidence_ids: ['ce80153a-607', 'e362b159-259', 'dcd58a72-dda', '6980dbd9-dec', '3219cf4d-e13', '1352219a-988', '1c3bb6d6-245', '82003416-99d', 'caf288aa-e9e', 'dd2ef76d-615', '88532d70-ce7', 'c6c2e772-11c', 'cbfcce90-0dd', '15e73d44-ea5', 'ff2fe17d-bef', '178ce151-f2c', '5d445181-887', 'baf67a4e-b21', '5d220b4c-019', 'a619d7d7-875']
 ---
 
 # Agriculture & Agro-processing — Bangladesh Market
@@ -54,22 +54,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-10)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Bangladesh deploys new contingents in Mali (Bangladesh Army) | search | 1.00 |
-| Mali keen to import fertilizer from Bangladesh | search | 1.00 |
-| 1.7 | search | 1.00 |
-| 12th biggest global fertilizer importer | search | 1.00 |
-| 2020 to 2021 | search | 1.00 |
-| Morocco | search | 1.00 |
-| 483 | search | 1.00 |
-| 2021 | search | 1.00 |
+| 1.7 | search | 0.95 |
+| 12 | search | 0.95 |
+| 2020-2021 | search | 0.95 |
+| Morocco | search | 0.95 |
+| 483 | search | 0.95 |
 | Syngenta Bangladesh Limited | search | 0.95 |
 | সিনজেন্টা বাংলাদেশ লিমিটেড | search | 0.95 |
 | Supreme Seeds Company Limited | search | 0.95 |
 | সুপ্রিম সীড কোম্পানি লি. | search | 0.95 |
 | Surovi Agro Industries Ltd. | search | 0.95 |
 | Neptune's Harvest Fish & Seaweed Liquid Fertilizer | search | 0.95 |
-| FS136 32 Oz. Fish & Seaweed Blend Fertilizer 2-3-1 | search | 0.95 |
+| FS136 | search | 0.95 |
+| 2-3-1 | search | 0.95 |
+| 32 | search | 0.95 |
+| organic fertilizer | search | 0.95 |

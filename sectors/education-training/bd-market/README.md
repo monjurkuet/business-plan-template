@@ -3,7 +3,7 @@ sector: education-training
 last_verified: 2026-07-10
 freshness: fresh
 confidence: 0.721
-evidence_ids: ['6c756199-91a', 'f9af78ab-ab1', '5d1236ca-b58', '1023628a-9f2', '99b67936-f98', 'bbf92f5c-216', '20cff259-7da', '552139e0-e79', '7fd773f2-bef', '82784574-337', '342b5753-61f', '901474c8-8a0', '346a25aa-ca3', 'ded46b57-5a3', 'a610c250-86f', '1393f64f-b31', '7eb0decc-dfd', '44d8d2f5-09e', '7b624755-339', 'bd14c6bd-25e']
+evidence_ids: ['64529bbd-db7', '8df3468f-dd7', '32e8bad5-963', '651b29b9-dc1', 'cf90709c-5e7', '0c36802c-52d', '7dfcae65-c40', 'bc4e135d-a3b', 'fd2c2d30-70d', '22bd4097-e94', 'a94bb25b-63f', '697dd46e-b83', 'e8a1f011-b91', '0b874165-13d', '460241a3-0dd', '2141ccee-914', 'b1cc7e90-fba', '4a3bfba6-73e', '3eb5ba92-b5b', '50d2d6f7-f31']
 ---
 
 # Education & Training — Bangladesh Market
@@ -52,6 +52,7 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-10)
 
 | Fact | Source | Confidence |
@@ -60,6 +61,7 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 | Lalbag, Dhaka, Bangladesh | search | 1.00 |
 | +880 174 639 85 13 | search | 1.00 |
 | education-training | search | 1.00 |
+| Gauri Hindi Academy | search | 0.90 |
 | Online Hindi Classes, CBSE/ICSE coaching, Spoken Hindi | search | 1.00 |
 | Bangladesh | search | 1.00 |
 | education-training | search | 1.00 |
@@ -69,5 +71,4 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 | education-training | search | 1.00 |
 | Progress Coaching Center | search | 1.00 |
 | education-training | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| EasyCoachingCenter (E.C.C) | search | 1.00 |
+| Easy Coaching Center (E.C.C) | search | 1.00 |

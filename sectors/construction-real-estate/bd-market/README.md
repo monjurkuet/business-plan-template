@@ -2,8 +2,8 @@
 sector: construction-real-estate
 last_verified: 2026-07-10
 freshness: fresh
-confidence: 0.75
-evidence_ids: ['1fdfa931-973', '15744ebe-04b', '273deb23-c13', '4bca443c-8b6', '7abf979f-cf9', '722acb96-ab6', '06d5c17a-be4', '769c46ee-3f3', '90d8ac92-2df', 'd4ec7fc6-25d', 'ae2445b6-410', '3bcfe0cc-61e', '0edf5ee4-0b9']
+confidence: 0.725
+evidence_ids: ['ce7bcea7-0ed', '604525d6-901', 'c850d789-8fa', '28450c4d-009', '78c33962-bac', '4f3260ff-d78', '0f126af5-e49', '0762c0f8-cd3', '1f6f31de-33f', 'b08475f8-079', '5df6f653-bce', '23873093-45d', '825e810e-a60', 'a4da4c43-02f', 'c181876b-16e', 'c32283e6-d6b', '7a845b45-050', '6a2f3fde-a00', '14a784c4-f9e', '112fb683-373']
 ---
 
 # Construction & Real Estate — Bangladesh Market
@@ -54,22 +54,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-10)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
 | ['CHB Engineering Ltd.', 'Alibaba Construction Ltd.'] | search | 0.95 |
-| Building Material Suppliers | search | 0.95 |
+| building material suppliers | search | 0.95 |
+| Bangladesh | search | 1.00 |
 | RFL | search | 1.00 |
-| largest building materials supplier in Bangladesh | search | 0.95 |
-| Bangladesh's largest business directory & yellow pages since 2003 | search | 0.95 |
-| BD Trade Info | search | 1.00 |
-| Business Data Information Limited | search | 0.90 |
-| Private Limited | search | 0.90 |
-| 2001 | search | 0.90 |
-| Joint Stock Companies & Firms | search | 0.90 |
-| Dhaka Yellow Pages | search | 0.90 |
-| Beximco | search | 0.90 |
-| Salman F. Rahman | search | 0.90 |
-| Vice Chairman | search | 0.90 |
-| 10-day remand for interrogation over the death of a hawker during student protes | search | 0.80 |
+| building materials supplier | search | 1.00 |
+| largest | search | 0.95 |
+| Bangladesh | search | 1.00 |
+| 17.8% | search | 0.90 |
+| -15% | search | 0.90 |
+| feathers, artificial flowers and hair | search | 0.90 |
+| paper yarn and woven fabric | search | 0.90 |
+| 2025 | search | 0.80 |
+| Grameen Courier | search | 1.00 |
+| 170400000 | search | 0.95 |
+| Expo Group | search | 1.00 |

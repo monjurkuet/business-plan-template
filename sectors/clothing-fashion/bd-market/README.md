@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-07-10
 freshness: fresh
-confidence: 0.726
-evidence_ids: ['1881d2ec-11c', '7138f100-b2a', '7f505f26-280', 'f13af33b-ac3', '2da6a342-d1e', '8785ff5f-bb8', 'effd3e12-639', 'd8c8f9b8-023', 'af9ebfef-61a', '56092630-d7a', 'aa13e001-a62', 'd50948f1-dd8', 'f16755c4-22f', '21abd821-7e0', '4f00f278-be3', '88ba29a1-189', 'bd9967c7-94e', 'cbc35458-520', 'cde922e7-3be', '0916718f-6e1']
+confidence: 0.717
+evidence_ids: ['3e485fd6-ec3', '0eda7d7b-bd5', 'f6abc326-3f4', '3b6989d5-933', '1563a546-285', '04016287-73c', '76f4ea73-353', '93afe856-c59', 'e5de38c6-2a2', '3a4d6e03-1a4', '87362766-7ac', '1543d8a6-013', 'fd505492-dc8', '3847024a-40f', 'ff5e60e5-e83', '1161edbd-ff1', '52ff5579-5bc', '0672fa12-6f0', '992a2386-399', '4b1e2f1d-5a4']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -165,22 +165,21 @@ evidence_ids: ['1881d2ec-11c', '7138f100-b2a', '7f505f26-280', 'f13af33b-ac3', '
 
 
 
+
 ## Auto-Updated Data (2026-07-10)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ['best match', 'price', 'free shipping', 'fast delivery', 'free return'] | search | 0.90 |
-| baggy pants | search | 1.00 |
-| boys, youth | search | 0.90 |
-| all over Bangladesh | search | 0.90 |
-| affordable | search | 0.80 |
-| ['t-shirts', 'polo shirts', 'casual shirts', 'summer wear'] | search | 1.00 |
-| across Bangladesh | search | 0.90 |
-| winter clothing | search | 1.00 |
-| ['eco-friendly', 'anti-shrink fleece', 'cotton'] | search | 1.00 |
-| 7-day | search | 0.90 |
-| wholesale | search | 0.90 |
-| custom apparel (t-shirts) | search | 1.00 |
-| trusted and reliable clothing manufacturer in Bangladesh | search | 0.90 |
-| best factory prices | search | 0.90 |
-| highest-quality | search | 0.90 |
+| 300 COTTON TERRY CLOTH CLEANING RAGS / SHOP TOWELS / 12X12- 25 DOZ. / WHOLESALE | search | 0.90 |
+| 3.5 | search | 0.90 |
+| Bangladesh | search | 1.00 |
+| RD style women black dress warm size M Knitted | search | 0.90 |
+| affordable | search | 0.90 |
+| all over Bangladesh | search | 0.95 |
+| fast | search | 0.90 |
+| across Bangladesh | search | 0.95 |
+| 7 | search | 0.95 |
+| winter clothing (eco-friendly, anti-shrink fleece and cotton hoodies) | search | 0.90 |
+| 88 | search | 0.95 |
+| fell over the past month | search | 0.90 |
+| NY/ICE nearby July | search | 0.95 |

@@ -2,8 +2,8 @@
 sector: healthcare-pharma
 last_verified: 2026-07-10
 freshness: fresh
-confidence: 0.688
-evidence_ids: ['7154f364-790', '195a875d-f37', '5c564623-446', '1ed1bef9-bdc', '383b4a85-c60', '0bff7d76-3f8', '45053a60-6eb', 'e36d6970-e6f', '0148dcbc-06d', '69104d61-9e3', 'c319d41a-b1c', '2967ee80-4f5', '3b8f2584-1c4', 'a6b8fb62-0bf', '5dab0ef7-ca8', '45b73b9c-ff0', 'df935115-b5a', '0b7bf877-fb4', '509d42cd-b93', '9fe594b6-081']
+confidence: 0.691
+evidence_ids: ['4d7a0e6c-6c3', '00aa722a-a62', '2ca95072-ee8', '7cae4d58-c06', '68743fb6-887', '68769fd0-72a', 'fa6fcc1c-ac5', '040ef67d-ce8', '5f2d02af-cba', 'c570c7f8-034', 'a2d675ad-a5a', 'b7f216e4-5e4', 'dab3e47b-1ea', '49502aff-c45', '85d57751-a37', '2980a5c3-c42', '616bc1d3-fd3', '20ce5046-e3a', '65f6f1ba-afa', 'fd081017-b83']
 ---
 
 # Healthcare & Pharma — Bangladesh Market
@@ -53,17 +53,21 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-10)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Medisafe Pharmacy | search | 0.95 |
-| ['Medical device', 'Natural medicine', 'Allopathic medicine'] | search | 0.90 |
-| supplier_company | search | 0.95 |
-| List of Pharmacy in Bangladesh with Phone numbers, Locations, Reviews, Photos | search | 0.90 |
-| community-based pharmacy | search | 0.95 |
-| ['compounding', 'consulting', 'prescription checking', 'delivery'] | search | 0.90 |
-| local area | search | 0.85 |
-| Mymensingh, Bangladesh | search | 0.95 |
-| ['personalized services', 'local delivery'] | search | 0.90 |
-| friendly health partner | search | 0.85 |
+| Bangladesh’s pharma industry is driven by local companies ensuring affordable he | search | 0.90 |
+| 2025-09-05 | search | 0.95 |
+| [{'company_name': 'Alco Pharma', 'revenue': 675100000, 'rank': 1}, {'company_nam | search | 0.98 |
+| 2026-07 | search | 0.95 |
+| 2026-01-17 | search | 0.95 |
+| market share, sales, exports, growth trends, and industry insights | search | 0.90 |
+| cornerstone of industrial growth, innovation, and healthcare accessibility | search | 0.90 |
+| 2025 | search | 1.00 |
+| one of the most developed sectors of the Bangladeshi economy | search | 0.95 |
+| meets local demand for medicines and is becoming a global leader in pharmaceutic | search | 0.90 |
+| 2026 | search | 1.00 |
+| Square Pharmaceuticals Limited | search | 1.00 |
+| 1 | search | 0.95 |

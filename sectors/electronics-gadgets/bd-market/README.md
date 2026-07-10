@@ -3,7 +3,7 @@ sector: electronics-gadgets
 last_verified: 2026-07-10
 freshness: fresh
 confidence: 0.717
-evidence_ids: ['b6f8edb7-eb7', '1e7e6c9e-07f', '8a1c0752-139', 'c2db11ab-b87', '7494e7cb-c73', '9f7d290f-278', 'b2279b52-5d2', '7bbf4507-7e3', 'c5a18196-22b', 'ef817dad-c4d', 'f3e0e6b7-75d', 'be659a30-1d9', '5519a12c-b88', '83176f73-d6c', 'bb45d3c5-587', 'ae6768d1-ce5', '564d62ec-5a7', '6ed663d0-52f', '16c96682-ce8', '8a9a43b3-e8f']
+evidence_ids: ['f9c3fde0-019', '7deb18a9-533', '2e5ce08d-ab9', '28ad2721-92b', 'd9a8d786-9ca', '3119363a-920', 'a139b3a4-bea', 'd35a562c-5bf', '557cb99f-7d0', 'cb30e0f0-520', 'c8b15d15-445', '15dbffa4-fed', '1fe2d3ef-b25', '5555f5d2-eaa', '3834c024-dfb', '260782da-82a', '9042ec5f-0ed', 'e2daa88a-666', '08e747d3-293', 'c508e643-851']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -153,17 +153,22 @@ evidence_ids: ['b6f8edb7-eb7', '1e7e6c9e-07f', '8a1c0752-139', 'c2db11ab-b87', '
 
 
 
+
 ## Auto-Updated Data (2026-07-10)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| competitive prices | search | 0.90 |
+| competitive prices on all products | search | 0.90 |
+| 0৳ - 0৳ | search | 0.80 |
+| 0 | search | 0.80 |
+| 1 | search | 0.80 |
+| 1 | search | 0.80 |
+| 2026-02-06 | search | 0.90 |
+| 01719117333 | search | 0.95 |
+| 100% Authentic & Quality Products as an Authorized Shop | search | 0.90 |
 | best prices | search | 0.90 |
-| Free Shipping | search | 0.95 |
-| best prices, offers, and discounts | search | 0.90 |
-| 15.00 | search | 0.95 |
-| BRANDS MEGA LTD | search | 0.95 |
-| Navana Tower (Level-18) 45 Gulshan Avenue, Gulshan-1 Dhaka -1212, Bangladesh | search | 0.95 |
-| Present (not explicitly stated) | search | 0.80 |
-| ['electronics'] | search | 0.90 |
-| may go up | search | 0.80 |
+| Free Shipping | search | 0.90 |
+| best prices, offers, and discounts on electronics | search | 0.90 |
+| 15.00 | search | 0.90 |
+| BRANDS MEGA LTD | search | 1.00 |
+| Navana Tower (Level-18) 45 Gulshan Avenue, Gulshan-1 Dhaka -1212, Bangladesh | search | 1.00 |

@@ -2,8 +2,8 @@
 sector: travel-tourism
 last_verified: 2026-07-10
 freshness: fresh
-confidence: 0.703
-evidence_ids: ['6118ab15-2a5', 'e1549ff2-dd1', '4b223768-858', 'b0409389-f60', '39a5da21-8dc', 'a74b4c8c-7b8', '8e5d6965-e35', '6cd14f4f-665', '1dead7b7-d1d', '8cbdd720-8a4', '87c16a0a-d39', '8b31a074-9b8', 'e6363443-04f', '6ca22a07-18b', '789a57ca-024', 'e81d0d37-0c9', '25c5fe1a-73b', '6f31e22a-4ea', '0bca0a3e-02b', '52bb43c7-ada']
+confidence: 0.698
+evidence_ids: ['ad26f758-2f0', '64638c92-3d2', 'f9483244-7d8', '1defae6e-5e0', '94d3278b-66a', '715f73be-296', 'c3e4e914-0c8', '8ec7ab00-f2c', 'e1eb1cb5-8d9', 'a1dd2556-055', '0b385311-109', '87a1c952-70a', 'fb3d3fd9-1d3', '7ebd3bfc-3cf', '13287283-498', '490dd312-3e7', '5f6fa3c0-101', '6246c685-05a', 'b0c68a1e-cd2', '763b44c6-489']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -128,19 +128,23 @@ evidence_ids: ['6118ab15-2a5', 'e1549ff2-dd1', '4b223768-858', 'b0409389-f60', '
 
 
 
+
 ## Auto-Updated Data (2026-07-10)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| goFLY Limited | search | 1.00 |
-| IATA-certified | search | 1.00 |
-| 2017 | search | 1.00 |
-| Dhaka, Bangladesh | search | 1.00 |
-| helping Bangladeshi travelers explore the world with honest service, affordable  | search | 1.00 |
-| TravelAgency Bangladesh | search | 1.00 |
-| ['hotels', 'visa', 'tours', 'flight booking'] | search | 1.00 |
-| Top 10 travel agencies in Bangladesh—trusted by thousands of travelers for air t | search | 1.00 |
-| ['leisure', 'business', 'Hajj', 'study abroad'] | search | 1.00 |
-| Travelzan | search | 1.00 |
-| ['air tickets', 'hotels', 'tour packages'] | search | 1.00 |
-| Bangladesh's leading online travel agency. Book air tickets, hotels, and tour pa | search | 1.00 |
+| Eammu Holidays | search | 1.00 |
+| travel and tourism | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| ['tourist visas', 'student visas', 'work visas', 'Umrah packages 2026', 'interna | search | 1.00 |
+| ['Dubai', 'Georgia', 'Armenia', 'Europe'] | search | 1.00 |
+| #1 travel agency in Bangladesh | search | 0.90 |
+| TravelAgencyBangladesh | search | 1.00 |
+| travel and tourism | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| ['affordable tour packages', 'air tickets', 'visa support'] | search | 1.00 |
+| affordable | search | 0.80 |
+| amazing tour and travel packages at affordable price | search | 0.90 |
+| ['Dream International', "Cox's Bazar Travels", 'Holiday International', 'Bengal  | search | 0.95 |
+| ['air ticketing', 'visa processing', 'customized tour packages'] | search | 0.90 |
+| 2026-06 | search | 0.95 |

@@ -2,8 +2,8 @@
 sector: media-marketing-digital
 last_verified: 2026-07-10
 freshness: fresh
-confidence: 0.707
-evidence_ids: ['5704fb09-a11', 'd0b1d449-9eb', 'b515a7f7-3c4', '7667707d-688', '6c73fdcf-573', '2ee841c8-ad6', 'da59d671-396', '7d503d6f-6b4', '7a260bc4-a61', 'e4ac57cd-e03', 'b3e6d730-2f6', '79993694-7c5', '930accb1-51f', '5529fa57-e62', '882b4d5e-b7c', '81fb662c-c09', '8da0facb-80a', 'dfdea3d0-cef', '30367c01-e65', '71b32bb5-8ce']
+confidence: 0.713
+evidence_ids: ['3528786e-e6b', 'f3d7ab39-dac', '7700d5ec-84a', '41de871a-371', '9c90565f-817', 'fd71d3a9-3df', '78084fd5-868', '46d95c7b-554', 'e21722c2-33d', '9f72555e-593', 'cede63a5-fca', 'eada7e15-256', '160b1a37-90f', '914244e2-907', 'd9ecedae-2b1', 'a9329c5a-30a', 'e25261ca-814', '1667995a-59d', '6abbc2df-499', 'e46edcd1-0b2']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market
@@ -146,17 +146,19 @@ evidence_ids: ['5704fb09-a11', 'd0b1d449-9eb', 'b515a7f7-3c4', '7667707d-688', '
 
 
 
+
 ## Auto-Updated Data (2026-07-10)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| digital multichannel marketing campaigns | search | 0.95 |
-| pay only for what you use | search | 0.90 |
-| Bangladesh | search | 0.95 |
-| digital marketing | search | 0.95 |
-| digital marketing companies | search | 0.95 |
-| Bangladesh | search | 0.95 |
-| verified reviews, hourly rates & portfolios | search | 0.90 |
-| 207 | search | 1.00 |
-| Bangladesh-based IT companies started to export software around two decades ago, | search | 1.00 |
+| payment per use | search | 0.90 |
+| pay only for what you use | search | 0.95 |
+| 2026 | search | 0.95 |
+| price benchmark guide | search | 0.90 |
+| 2026-06 | search | 0.90 |
 | ['GEEKY SOCIAL LTD.', 'OneLittleWeb', 'BrandViser', 'MonsterClaw LLC', 'Ecomclip | search | 1.00 |
+| 5-200+ professionals | search | 0.95 |
+| ['fixed-price', 'time and material', 'dedicated teams'] | search | 0.95 |
+| project type, technology preference, team size, engagement model, budget range | search | 0.90 |
+| 100 million | search | 0.90 |
+| unprecedented growth in digital landscape | search | 0.95 |

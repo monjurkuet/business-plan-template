@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-07-10
 freshness: fresh
-confidence: 0.752
-evidence_ids: ['a4c79ef2-849', 'f45bcaad-9c5', 'ce27be75-bd6', 'c6bcb2da-fa0', '3a45c838-fe7', 'ccb00b3f-7da', 'b960f9ff-45a', '67b855da-b8b', 'e010ac64-803', '64fb2b4b-c75', 'b5e26c13-458', '4356b649-43d', 'f3a85c43-77a', '836e1008-5b6', '45e36a2f-205', '4582b4fe-9f1', 'de1db0b4-fb1', '239f592b-884', '00cf5e31-325', '29b61444-d57']
+confidence: 0.731
+evidence_ids: ['a605972d-452', 'fb0ecb25-e65', '251b9e86-e5f', 'bd941cce-8ef', '8ee0fd59-816', 'ab8afe2a-ff2', '228eb7e7-c1b', '8b267489-9e5', '3548d350-62d', 'd8a1f20b-914', '67523f30-fd7', '9d29dc85-25d', 'b28d410b-6b3', '6a91a28b-cda', '43a53c6c-6b8', 'df9fe7aa-dfa', '34f3b525-56b', 'fb1ac7bf-4cc', '3fabb80a-272', '4754f7e0-a3d']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -168,22 +168,23 @@ evidence_ids: ['a4c79ef2-849', 'f45bcaad-9c5', 'ce27be75-bd6', 'c6bcb2da-fa0', '
 
 
 
+
 ## Auto-Updated Data (2026-07-10)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| top 10 interior design companies in Dhaka, Bangladesh | search | 0.95 |
-| interior design | search | 0.90 |
+| Globats | search | 1.00 |
+| Systems Architecture | search | 1.00 |
+| building automation-first business ecosystems | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| Janla Associates Limited | search | 1.00 |
+| Architecture, Interior, Construction, Project Management | search | 1.00 |
+| Bangladesh (Near Dhaka) | search | 1.00 |
+| Construction & Real Estate | search | 1.00 |
+| SPACE | Dhaka | search | 0.90 |
+| 2592 | search | 0.90 |
+| 159 | search | 0.90 |
+| Geometric Architect & Interiors | search | 0.95 |
 | Dhaka, Bangladesh | search | 0.95 |
-| systems architecture, business ecosystems, automation | search | 0.95 |
-| Globats | search | 0.95 |
-| Bangladesh | search | 0.95 |
-| NBBJ | search | 1.00 |
-| TIME Recognizes NBBJ as Only Architecture Firm Among Its Most Influential Compan | search | 1.00 |
-| Fast Company Honors NBBJ as One of the World’s Most Innovative Architecture Firm | search | 1.00 |
-| architecture and design | search | 1.00 |
-| EYRC Architects | search | 1.00 |
-| Ehrlich Architects | search | 1.00 |
-| southern California | search | 1.00 |
-| modern residential and commercial architecture | search | 1.00 |
-| Think Architecture | search | 1.00 |
+| residential and commercial projects | search | 0.90 |
+| 300+ | search | 0.90 |

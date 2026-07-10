@@ -2,8 +2,8 @@
 sector: jewellery
 last_verified: 2026-07-10
 freshness: fresh
-confidence: 0.703
-evidence_ids: ['05c09704-3f8', '3b52fddc-3fc', 'ab958edd-7e9', 'a6456ac8-8ee', '00193e33-95c', 'b3697561-899', '59e24306-c49', 'be7e227b-79d', '7821e4d7-b3a', 'b1930482-f99', '7241e354-b59', 'fa3616fe-337', '8ece8629-c63', '4ad60ed8-f2a', 'ea0c3a35-a75', '643f7960-ce9', '7776afc4-6a4', 'd5836532-daa', 'bb542ea3-3ee', 'eaf7d695-4a8']
+confidence: 0.692
+evidence_ids: ['f12ed4c2-f71', 'bd85bffc-671', '0b8a1b40-8d0', '51dcb207-236', '4cce67eb-e28', 'f2727c70-671', 'caae636a-94a', '8df8df0b-9d9', '63867eee-173', 'e37eaca3-cc3', '3f98c61a-de8', '9366ad09-1e9', '51bc09d5-a69', '21712b9b-81e', '4257dcab-dc6', 'c6ef2656-f5d', '68c7c2cf-99f', 'cc5e22ac-dc3', '021e9574-3d2', '646ef40f-529']
 ---
 
 # Jewellery — Bangladesh Market
@@ -140,13 +140,11 @@ evidence_ids: ['05c09704-3f8', '3b52fddc-3fc', 'ab958edd-7e9', 'a6456ac8-8ee', '
 
 
 
+
 ## Auto-Updated Data (2026-07-10)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| jhumka earrings | search | 0.95 |
-| 377 | search | 0.90 |
-| Bangladesh | search | 0.85 |
-| Dammam | search | 0.90 |
-| Wedding Jewellery Bangladesh | search | 0.90 |
-| price hikes | search | 0.80 |
+| Bangladesh jewellery style | search | 0.90 |
+| pendant necklaces, statement necklaces, choker necklaces | search | 0.95 |
+| necklace styles | search | 0.90 |
