@@ -2,8 +2,8 @@
 sector: education-training
 last_verified: 2026-07-10
 freshness: fresh
-confidence: 0.754
-evidence_ids: ['60d9c212-721', '7ca6a6b3-6dc', 'c1434324-9bc', 'a935f9be-f15', '819f8dd3-9ba', '430ed01a-06f', '7aae899a-41a', 'b5c656b4-554', 'c491101f-392', '165027b1-402']
+confidence: 0.707
+evidence_ids: ['e41f6a9e-c0b', 'df9c907e-1ad', 'bfe90609-fe4', '2446934e-8d2', 'd1613fe9-2c1', '03424549-163', '12c2cff2-1da', '300ae984-6b7', 'ed10416c-30a', '5e4d51a4-8b6', 'ffb74764-eb3', 'c04bb3fd-255', '0af9e789-401', '7573b300-cc0', '57c9d04e-a74', 'fcf40c4b-136', '1756b637-31c', 'a9385b5e-470', 'add0bc7d-c2a', '492eb675-90c']
 ---
 
 # Education & Training — Bangladesh Market
@@ -50,22 +50,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-10)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| corporate coaching services | search | 0.90 |
-| education-training | search | 1.00 |
-| corporate training & coaching | search | 0.95 |
-| ['Digicon Technologies Ltd', 'E-Learning & Earning LTD', 'U S Software Ltd', 'PM | search | 0.90 |
-| ['IELTS', 'medical admissions', 'O/A levels', 'studying abroad'] | search | 0.90 |
-| education-training | search | 1.00 |
-| coaching centres | search | 0.95 |
-| ['IELTS', 'medical admissions', 'O/A levels', 'studying abroad'] | search | 0.90 |
-| Dhaka | search | 0.80 |
-| education-training | search | 1.00 |
-| online coaching companies | search | 0.95 |
-| ['Training Pundit', 'ENSDI - ইন্সডি (training & consultancy)'] | search | 0.90 |
-| 2026 | search | 0.90 |
-| education-training | search | 1.00 |
-| evolving, driven by growing demand for professional development and employment g | search | 0.90 |
+| Medico Coaching Center | search | 1.00 |
+| coaching services | search | 1.00 |
+| ['Medical Admission Test preparation', 'University Admission Test preparation'] | search | 1.00 |
+| ['offline', 'online'] | search | 1.00 |
+| Enroute Center for Development | search | 1.00 |
+| executive training | search | 1.00 |
+| ['individual training', 'group training'] | search | 1.00 |
+| all employee levels | search | 1.00 |
+| RR IT Support | search | 0.90 |
+| IT consulting | search | 0.90 |
+| FutureLeaders (FLS) | search | 1.00 |
+| ['leadership training', 'soft skills training'] | search | 1.00 |
+| outdoor training | search | 1.00 |
+| no.1 outdoor training provider | search | 1.00 |
+| ['top MNCs', 'national companies'] | search | 1.00 |

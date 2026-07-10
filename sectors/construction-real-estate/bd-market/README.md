@@ -2,8 +2,8 @@
 sector: construction-real-estate
 last_verified: 2026-07-10
 freshness: fresh
-confidence: 0.707
-evidence_ids: ['7949d949-3c5', 'b1a830b4-44e', 'e87628e2-51d', 'be37eb6c-cb3', '9c83e358-106', '61a5309e-510', 'd9e8e9b2-212', '0c46911a-d04', 'ea2df0d5-176', '905811cb-a14', 'a2fb4a16-d51', '46febe7c-d81', '3e8ac038-eb0', '7b83a444-f47', '532f9560-732', '3b6527a0-39a', '18522490-a64', 'e216f097-441', '34bf0134-a9f', '64c67721-0ed']
+confidence: 0.714
+evidence_ids: ['d388c90a-6da', '6ff154bf-8cd', '4ceee894-57f', '82f32064-2a4', '862c39ac-bb6', 'b1907d73-d12', '7933fe4d-57f', 'b7949824-110', 'bdfa313f-c50', 'f76cc3ab-5c9', 'f30b2636-dcf', '87014bc7-c00', '640332ee-be2', 'f6405590-75b', '35c978f6-d27', '9015748b-41c', 'cea0e2e0-d32', '157ce2ba-496']
 ---
 
 # Construction & Real Estate — Bangladesh Market
@@ -52,19 +52,19 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-10)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ['CHB Engineering Ltd.', 'Alibaba Construction Ltd.'] | search | 0.90 |
-| largest building materials supplier | search | 0.95 |
-| online price checking available | search | 0.80 |
+| ['CHB Engineering Ltd.', 'Alibaba Construction Ltd.'] | search | 0.95 |
+| largest building materials supplier | search | 0.90 |
 | Beximco | search | 1.00 |
 | private | search | 1.00 |
 | A S F Rahman | search | 1.00 |
-| Topmost private Bangladeshi company | search | 0.90 |
-| Chairman frequently listed under top businessmen in Bangladesh | search | 0.90 |
+| Listed among top businessmen in Bangladesh | search | 0.90 |
 | Beximco | search | 1.00 |
 | Salman F. Rahman | search | 1.00 |
 | Vice Chairman | search | 1.00 |
-| Arrested on 10-day remand for interrogation over the death of a hawker during st | search | 0.90 |
+| Arrested for interrogation over the death of a hawker during student protests | search | 0.90 |
+| 10 | search | 1.00 |

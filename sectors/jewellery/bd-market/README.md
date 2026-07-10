@@ -2,8 +2,8 @@
 sector: jewellery
 last_verified: 2026-07-10
 freshness: fresh
-confidence: 0.722
-evidence_ids: ['802aa07f-b95', '04c5b613-16c', '434a62d8-f7e', '8a48e6da-b6f', 'd4871c93-1f3', 'c489085e-7e7', '4159f894-6ce', 'd798b805-127', 'aeeee48c-074', '05d18063-559', '17c7e71e-c06', '8eca9cdc-19d', '016a38d4-86c', 'a5b4d651-b67', 'ce807ee2-024', '4cfe9b8e-585', 'd4a3de39-279', '06e20dd2-2e6', '3bbd830a-bff', '2cdbecba-dd9']
+confidence: 0.723
+evidence_ids: ['d6f1e07b-071', '700e98ab-cd1', 'a7e20787-83b', '75e5e811-029', '3fbaa428-415', 'e93be362-e91', 'ccc8603c-652', 'd8264660-d0d', '7f5e6ee7-6c0', '941dd638-5fd', '479dd806-61d', '41560a92-4a1', '8627233a-83f', '38f2f65c-9a5', '2c08b556-e63', '453abfa6-499', 'b096e555-b97', '0d74b320-c29', 'f38abf10-7a0', 'e59df3a1-884']
 ---
 
 # Jewellery — Bangladesh Market
@@ -138,21 +138,23 @@ evidence_ids: ['802aa07f-b95', '04c5b613-16c', '434a62d8-f7e', '8a48e6da-b6f', '
 
 
 
+
 ## Auto-Updated Data (2026-07-10)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 200 to 3000 | search | 0.98 |
-| fashion jewellery | search | 0.95 |
-| daily and festive wear | search | 0.90 |
-| impacts all gold jewellers in Bangladesh | search | 0.95 |
+| all gold jewellers in Bangladesh | search | 0.95 |
 | ['churi', 'chain', 'gold bracelet'] | search | 0.90 |
-| today | search | 0.90 |
-| most trusted gold and diamond shop in Bangladesh | search | 0.95 |
-| affordable price | search | 0.90 |
-| Al Amin Jewellers ensures the best price when buying gold from customers that no | search | 0.90 |
-| online jewellery shop | search | 1.00 |
-| pioneer in online jewellery shopping in Bangladesh | search | 0.95 |
-| Jotey is the most trusted jewellery shop in Bangladesh | search | 0.90 |
-| affordable | search | 0.85 |
-| online jewellery shop | search | 0.95 |
+| 200 to 3000 | search | 1.00 |
+| daily and festive wear | search | 1.00 |
+| Diamond World Limited | search | 1.00 |
+| gold and diamond | search | 1.00 |
+| affordable | search | 0.90 |
+| Al-Amin Jewellers | search | 1.00 |
+| gold | search | 1.00 |
+| best price when buying gold from customers | search | 0.90 |
+| pioneer in online Jewellery Shop in Bangladesh | search | 1.00 |
+| 225290 | search | 1.00 |
+| ['22K', '21K', '18K'] | search | 1.00 |
+| 2026-07-09 | search | 0.80 |
+| BAJUS | search | 1.00 |

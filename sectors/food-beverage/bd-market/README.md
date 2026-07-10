@@ -2,8 +2,8 @@
 sector: food-beverage
 last_verified: 2026-07-10
 freshness: fresh
-confidence: 0.711
-evidence_ids: ['59eff032-bf6', '621e9070-94b', 'b68e9dc3-08f', '171da4cc-f36', 'ed10574a-cbd', '6eff7d00-841', '2c2d2fda-f73', '7cbbcee7-59c', '107e13fd-b19', '33bf4f94-dcb', 'cea280e8-4bf', '194894ec-076', '7dbfed3b-2dc', '4b825b6c-70a', '3df31dd9-f66', '0edfef7f-184', 'bdb783dc-3fc', '39bf136d-11e', '37c0d4b2-5a1', 'e0ffddf7-4d2']
+confidence: 0.721
+evidence_ids: ['60bccfaf-b29', '51992382-5ad', '9ecb317c-cdd', '6c934979-531', '42ea070e-e7c', 'fedf3426-efe', '1c72808e-57f', 'fbca5119-825', '5f549383-512', '72206e96-641', 'a39938d8-c9a', 'f0f1b4d9-808', '8dd05d1a-55a', 'eec0cc0f-1d9', '6ab84b5b-828', 'e5a5c9a8-0c4', 'e456329b-37f', 'a752c907-2f5', '6de914ca-ce1', 'a22e79fe-1d0']
 ---
 
 # Food & Beverage — Bangladesh Market
@@ -51,22 +51,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-10)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| food-beverage | search | 1.00 |
-| Restaurants.BD | search | 1.00 |
 | Bangladesh's premier restaurant discovery platform | search | 0.95 |
 | 2020 | search | 0.90 |
+| food-beverage | search | 1.00 |
+| Dhaka City, Dhaka Division | search | 0.90 |
 | 944 | search | 0.90 |
 | 31607 | search | 0.90 |
-| Dhaka City, Dhaka Division | search | 1.00 |
 | Burger King | search | 1.00 |
 | 2016-12-09 | search | 1.00 |
 | Tiffinbox Ltd. | search | 1.00 |
 | Bangla Trac Group | search | 1.00 |
-| quick-service restaurant (QSR) | search | 1.00 |
+| quick-service restaurant (QSR) | search | 0.90 |
 | Pizza Hut | search | 1.00 |
 | expanding customer base and improving accessibility | search | 0.90 |
-| blends traditional Bengali flavors with international influences | search | 1.00 |
+| ['Uttara', 'Dhanmondi'] | search | 0.90 |
+| ['family restaurants', 'local restaurants', 'fine dining'] | search | 0.90 |

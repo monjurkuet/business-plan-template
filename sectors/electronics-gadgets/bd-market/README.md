@@ -2,8 +2,8 @@
 sector: electronics-gadgets
 last_verified: 2026-07-10
 freshness: fresh
-confidence: 0.718
-evidence_ids: ['bb2554e2-e55', '6bc6508c-9ce', '09839bbd-12f', 'd904670d-a33', 'f9e7eda4-1f2', '7b43a65a-a6f', '0f5532d3-5e3', 'c362d065-fb9', '23a8f67c-0ca', '1e53b82c-d96', '2f0196f0-cec', 'cea3824c-7bf', '97bea8de-d3d', '7ce860d3-c8e', 'd6ab8759-2ae', 'bbe192f7-1b5', '5b5a4528-15c', '56761310-524', '18b8940d-b82', '2eb47929-3c0']
+confidence: 0.747
+evidence_ids: ['ba66ee1d-3bb', '592fb9f7-34c', 'f9fa94a3-b40', 'e66640e4-abd', 'e2a212d4-901', '593cbf1f-f21', 'b99e0d42-457', 'da80cdf0-648', 'e6960e4c-da0', 'f27e1f9a-c72', '40f9d148-477', '9120f233-a14', 'a52b0242-383', '63425e81-bd8', 'fe01b030-43c', 'b6296d36-e88', '953f2cc1-3dd', 'f6300d36-d60', '932692a7-65f']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -151,17 +151,21 @@ evidence_ids: ['bb2554e2-e55', '6bc6508c-9ce', '09839bbd-12f', 'd904670d-a33', '
 
 
 
+
 ## Auto-Updated Data (2026-07-10)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| home appliances | search | 0.95 |
-| ['official warranty', 'EMI facilities', 'fast home delivery'] | search | 0.90 |
-| e-commerce | search | 0.95 |
-| retailer | search | 0.95 |
-| ['authentic products', 'official warranty', '0% EMI', '16 superstores nationwide | search | 0.90 |
-| online shopping platform | search | 0.95 |
-| consumer electronics | search | 0.95 |
-| ['premium quality products', 'seamless online shopping experience', 'original el | search | 0.90 |
-| electronics and home appliances | search | 0.95 |
-| best price with official warranty | search | 0.90 |
+| home appliances, ACs, refrigerators, washing machines, smart TVs, ovens | search | 0.90 |
+| official warranty, EMI facilities, fast home delivery | search | 0.95 |
+| authorized multi-brand electronics retailer | search | 0.95 |
+| authentic products, official warranty, 0% EMI, 16 superstores nationwide | search | 0.95 |
+| highest rated | search | 0.90 |
+| premium quality products | search | 0.90 |
+| original electronic appliances, seamless online shopping experience | search | 0.95 |
+| electronic and electrical products | search | 0.90 |
+| 2026 | search | 0.90 |
+| electronics, home appliances, home and kitchen appliances, air conditioners, sma | search | 0.95 |
+| best price, official warranty | search | 0.95 |
+| electronics | search | 0.90 |
+| may go up | search | 0.80 |

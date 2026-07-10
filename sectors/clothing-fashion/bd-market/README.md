@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-07-10
 freshness: fresh
-confidence: 0.716
-evidence_ids: ['d8487e44-405', '9412fe9a-7bb', 'c84e3f5e-da7', '927ac277-541', '71b13297-e9b', '49f76ef9-131', '3963ab0a-083', '65a8d071-299', 'ab3be7ec-2dc', '020ab09e-673', '4f269780-e10', 'c7c01f02-c2a', '371771c4-673', '606857cc-2d5', '9a6d1666-d8c', 'a6fdf2a3-eed', '7f5d2f96-0c2', '636d9a02-435', '6d4c3e98-6fc', '7db9e6e2-155']
+confidence: 0.721
+evidence_ids: ['90749961-829', '3923954b-9a5', 'c586d4c5-3fc', 'd8a9c8bd-efa', 'c7176d07-059', '982954e0-d9d', '1670b262-9ea', 'b670520a-08c', '89294b15-e39', 'ccfa4e45-de5', '2441029a-e53', '44fef319-31a', '2c226978-80f', '5630b29c-2fe', '7f6158c6-147', '404ff861-584', '21de522e-2aa', '006fbf37-2fe', 'b9d02a3d-815', '3b53d6b2-654']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -163,18 +163,23 @@ evidence_ids: ['d8487e44-405', '9412fe9a-7bb', 'c84e3f5e-da7', '927ac277-541', '
 
 
 
+
 ## Auto-Updated Data (2026-07-10)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 300 COTTON TERRY CLOTH CLEANING RAGS / SHOP TOWELS / 12X12- 25 DOZ. / WHOLESALE | search | 0.90 |
-| 3.5 | search | 0.90 |
-| Made In Bangladesh | search | 0.95 |
-| modern Bangladeshi clothing brand offering stylish, comfortable, and affordable  | search | 0.95 |
-| premium-quality outfits with perfect fits, fast delivery, and reliable service a | search | 0.90 |
-| trendy women’s clothing & fashion | search | 0.95 |
-| Cash on delivery available | search | 0.90 |
-| 1490 | search | 0.95 |
-| Zaina Vol 19 Pakistani Suit | search | 0.95 |
-| 1490-2490 | search | 0.95 |
-| 2026-07-01 | search | 0.90 |
+| Tyzo | search | 1.00 |
+| Modern Clothing | search | 1.00 |
+| Bangladeshi | search | 1.00 |
+| ['stylish apparel', 'comfortable clothing', 'affordable prices', 'fast delivery' | search | 1.00 |
+| 1490 | search | 1.00 |
+| 2490 | search | 1.00 |
+| Zaina Vol 19 Pakistani Suit | search | 1.00 |
+| 2026-07-01 | search | 1.00 |
+| Twelve Clothing | search | 1.00 |
+| Fashion | search | 1.00 |
+| ['menswear', 'womenswear', 'kidswear', 'panjabi', 'kurti', 'gowns', 't-shirts',  | search | 1.00 |
+| JamaKapor | search | 1.00 |
+| Online Fashion Store | search | 1.00 |
+| ['men', 'women', 'kids'] | search | 1.00 |
+| ['home delivery', 'best prices'] | search | 1.00 |

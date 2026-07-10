@@ -2,8 +2,8 @@
 sector: healthcare-pharma
 last_verified: 2026-07-10
 freshness: fresh
-confidence: 0.719
-evidence_ids: ['1823b35a-af6', 'e0b1ae31-8ad', 'd6673638-337', 'bf7d4bd4-95c', '5951c456-3ff', '52a87580-1c9', 'c9f4ba6d-492', '1586fd0a-f6e', 'ad6e38c7-c4b', '037532b0-17e', '939f01e1-f17', '5379dbfa-2e6', '55843092-573', '4900aafb-c78', '3f779b6f-523', '9ab210ee-ee6', '9ed2fe46-93c', 'b9c04b53-5a3', '5cf8c416-5ff', '197a3638-02a']
+confidence: 0.712
+evidence_ids: ['7cb8336e-836', '6fcfac34-7e9', 'a4c4a5c9-d9b', 'a34d1281-869', 'ba92f40a-e9f', '0ab47acc-873', 'd750a729-370', 'be3a7c26-21f', 'bae3b88f-19f', 'a3d1f333-9bd', 'f9fde865-69a', 'a8094eaf-671', 'c67f6c2b-996', '58a9430d-78e', 'be792436-3ac', 'd527791f-572', '8b3ee3ab-6ea', 'c7748f9e-ff5', '6b5fd99a-705', 'b26a5ea5-48f']
 ---
 
 # Healthcare & Pharma — Bangladesh Market
@@ -51,22 +51,17 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-10)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| resilience and competitiveness | search | 0.90 |
-| affordable healthcare and sustainable market growth | search | 0.90 |
-| 2025-09-05 | search | 1.00 |
-| 2026-01-17 | search | 1.00 |
-| market share, sales, exports, growth trends, and industry insights | search | 0.95 |
-| cornerstone of industrial growth, innovation, and healthcare accessibility | search | 0.90 |
-| 2025-11-07 | search | 1.00 |
-| 2025-10-01 | search | 1.00 |
-| dynamic and fast-growing sector | search | 0.95 |
-| cornerstone of the national economy and prominent contributor to the global gene | search | 0.95 |
-| IQVIA data for MAT 2Q | search | 0.90 |
-| 1 | search | 0.95 |
-| Alco Pharma | search | 1.00 |
-| 675100000 | search | 0.95 |
-| 2 | search | 0.95 |
+| Bangladesh’s pharma industry is driven by local companies ensuring affordable he | search | 0.90 |
+| [{'rank': 1, 'company_name': 'Alco Pharma', 'estimated_revenue': 675100000, 'uni | search | 1.00 |
+| 2026-07 | search | 1.00 |
+| 2026 | search | 1.00 |
+| Best pharmaceutical companies in Bangladesh ranked by market share, sales, expor | search | 0.90 |
+| one of the most developed sectors of the Bangladeshi economy | search | 0.90 |
+| meets local demand for medicines and is becoming a global leader in pharmaceutic | search | 0.90 |
+| Square Pharmaceuticals Limited | search | 1.00 |
+| Founded | search | 0.90 |

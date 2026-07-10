@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-07-10
 freshness: fresh
-confidence: 0.707
-evidence_ids: ['a6e5835d-264', '700ff238-33a', 'cd5d0615-3b6', '022ca3cf-2c7', 'af0e8615-f26', 'e1e02cf6-a40', 'aa073f97-485', 'ccbc69ed-20f', '56d6b972-3b7', 'c0544913-5a3', 'f1307a27-f5b', '45a223ac-9c1', 'ad39148c-299', '35f5900c-7fc', '131b703e-0bf', 'ebb65d7e-cda', '6d10e782-cfd', '3c34dde2-c7b', '21a62237-bcf', 'e358f1b4-ec5']
+confidence: 0.733
+evidence_ids: ['1c739991-269', '231ea5f6-f89', 'a0772bc6-b60', '7d7ebc9a-417', 'b2e8283a-7bf', '4a3175c9-cf2', '2fbf03b8-69a', '8adb8957-cda', '8a6a0e52-0c0', '1bdcb7eb-fe0', '9b771b49-790', '2338bb2b-801', 'c5a90f31-463', '4fe33ba3-2ce', 'f168169c-ea3', '1f9b0357-829', 'b456393f-8d0', '9641fd3a-797', '334569a9-691', 'dc611225-2c0']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -166,22 +166,23 @@ evidence_ids: ['a6e5835d-264', '700ff238-33a', 'cd5d0615-3b6', '022ca3cf-2c7', '
 
 
 
+
 ## Auto-Updated Data (2026-07-10)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 2025-11-29 | search | 0.90 |
-| architectural firms in Bangladesh | search | 1.00 |
-| 2025-10-08 | search | 0.90 |
-| top 10 architectural firms in Bangladesh 2025 | search | 1.00 |
 | RAJUK-registered | search | 0.90 |
-| Dhaka | search | 0.90 |
-| 2026-05-13 | search | 0.90 |
+| Dhaka | search | 0.95 |
+| sustainable architecture | search | 0.90 |
 | growing faster than ever | search | 0.90 |
-| hundreds | search | 0.80 |
-| ['Dhaka', 'Khulna', 'Chattogram'] | search | 0.90 |
-| BNBC-2020 | search | 0.90 |
-| finding the right architecture firm with design creativity, BNBC-2020 compliance | search | 0.90 |
-| 2026-01-06 | search | 0.90 |
-| leading architecture firms in Bangladesh | search | 1.00 |
+| hundreds | search | 0.85 |
+| ['Dhaka', 'Khulna', 'Chattogram'] | search | 0.95 |
+| BNBC-2020 | search | 0.95 |
+| ['design creativity', 'BNBC-2020 compliance', 'transparent pricing', 'reliable p | search | 0.90 |
 | ['philosophy', 'sustainability', 'iconic projects'] | search | 0.90 |
+| Dhaka | search | 0.95 |
+| ['company reputation', 'client reviews', 'google data analytics'] | search | 0.90 |
+| SPACE | Dhaka | search | 0.95 |
+| 2592 | search | 0.95 |
+| 159 | search | 0.95 |
+| Geometric Architect & Interiors | search | 0.95 |

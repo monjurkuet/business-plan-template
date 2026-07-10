@@ -3,7 +3,7 @@ sector: media-marketing-digital
 last_verified: 2026-07-10
 freshness: fresh
 confidence: 0.7
-evidence_ids: ['34d0d587-045', '9318787a-71c', '8831a5ed-a1c', 'f0c76a46-140', '517c86ae-7bd', '1eb84f18-92e', '331a710d-135', '02344109-0be', '6e229538-b3a', 'fb7dea28-a83', '970a1ca9-09e', '1f7d84fa-c63', 'b59ead2b-ca5', '1b2322e1-c01', '121f6782-8ae', 'f7045272-00d', 'f6eb6f8a-edc', 'a2706cba-637', '5d342074-c67', '446d5aa8-ae8']
+evidence_ids: ['c7009bf8-387', '50dbf707-30d', 'd5121d3e-eef', '0b8a40ed-19d', '9eb37276-0d6', 'a3cc7174-dc9', '8747e9f6-153', 'de70ecff-d40', '4e031424-d04', 'ee36cc24-5e8', 'c31b1be1-fa7', '7d162548-8c7', 'cdb7acb6-2ab', 'ff6db5c5-9a4', '7ee70104-c6b', '3d6b05cd-d09', '6d60f371-348', 'b0b08c55-086', '983edc7f-4a6', 'ff08cdd6-91d']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market
@@ -144,13 +144,14 @@ evidence_ids: ['34d0d587-045', '9318787a-71c', '8831a5ed-a1c', 'f0c76a46-140', '
 
 
 
+
 ## Auto-Updated Data (2026-07-10)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Bulk SMS, Email Marketing, Interactive Voice | search | 0.95 |
-| best price in digital marketing Bangladesh | search | 0.80 |
-| SEO, social media marketing, online branding, promotion, email marketing | search | 0.95 |
-| SEO, PPC, social media, email, influencer | search | 0.95 |
-| BDT | search | 0.90 |
-| 2026-04-08 | search | 0.90 |
+| Bulk SMS, Email Marketing, Interactive Voice | search | 1.00 |
+| The best price in digital marketing Bangladesh | search | 0.80 |
+| startup entrepreneurs in Bangladesh | search | 0.90 |
+| SEO, social media marketing, online branding, promotion, email marketing | search | 1.00 |
+| 2026-07-01 | search | 0.90 |
+| BDT costs mentioned | search | 0.90 |

@@ -2,8 +2,8 @@
 sector: automotive-car-care
 last_verified: 2026-07-10
 freshness: fresh
-confidence: 0.688
-evidence_ids: ['7bcf2ed4-903', '839fd4cf-374', '36bf7e70-049', '0ac0312c-e90', '793fd546-ee3', 'd67a8712-c5a', 'd351fc34-d6d', 'e70c2ebe-9b3', '1e5051e4-453', '5af56750-1fe', '1d9bf77a-646', '3ca25f36-ab2', '0a343f10-806', '73dc49dc-492', 'f97a7251-6d4', '3cbc7205-2de', '7a9ba8a2-795', '58b69798-606', '595393da-cf9', 'd9d88f71-961']
+confidence: 0.678
+evidence_ids: ['f20dc69a-339', '866a8588-ab1', '1b02e6bd-7fe', '0b63b99a-549', 'e72336f2-aa4', '57924fb6-6ae', '470062d0-35e', '2b075d1d-0fe', 'e9e85802-ea2', 'bcfb0039-306', 'befb80f9-5f6', '55d321ec-2eb', 'a65a2239-36d', '4c4805d1-c8f', '1e490c5c-753', 'bffa9cd6-1a7', 'b8aec66e-0c9', '543e8771-71d']
 ---
 
 # Automotive & Car Care — Bangladesh Market

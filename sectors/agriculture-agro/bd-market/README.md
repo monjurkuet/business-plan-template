@@ -2,8 +2,8 @@
 sector: agriculture-agro
 last_verified: 2026-07-10
 freshness: fresh
-confidence: 0.699
-evidence_ids: ['0662d998-51b', 'f7f6c5e0-755', 'a60a6d72-d1a', '0ec655b5-f40', '63a749fc-b0e', '5b1e8451-229', '3e5f93c6-9f4', '6125a14b-6bc', 'cd0002b8-e1c', '7eb1ce3c-bdf', '87961c74-a12', '4d622c98-f98', '4d91dffc-bf3', '958ba15c-092', 'dfb2c143-d15', '877db613-afc', 'ee9fac2f-04d', '01294415-425', '9d9611aa-2ec', 'a815bc7c-773']
+confidence: 0.705
+evidence_ids: ['c1816e55-c38', '9ff74fb6-8cc', '8537d384-908', '5fa077f1-207', '4f91c33b-db4', 'f0f2e185-d21', '5f5fe23d-185', '90a53e83-c24', 'c516bb50-d63', '029a7c6e-4e6', 'd45ee8dd-8a9', 'd7ddf2d6-b57', '0e989cba-9b5', '4ebfbfba-4b9', '7c3765c2-4c1', 'abea48da-2f5', '6f01189d-0c4', '75034fbd-a89', 'ffecbd5d-021', '8e93f4f7-4d0']
 ---
 
 # Agriculture & Agro-processing — Bangladesh Market
@@ -52,22 +52,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-10)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
+| iFarmer | search | 1.00 |
+| Nahar Agro | search | 1.00 |
 | fertilizer | search | 1.00 |
-| top_20_fertilizer_companies | search | 1.00 |
 | Bangladesh | search | 1.00 |
-| 2026 | search | 0.90 |
-| ['iFarmer', 'Nahar Agro'] | search | 1.00 |
-| organic_fertilizer | search | 1.00 |
-| organic_fertilizer_companies | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| ['Organic Nutrition Ltd.', 'Aftab Feed Products Limited'] | search | 1.00 |
-| fertilizer_manufacturing | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| ['quality fertilizers', 'NPK fertilizer', 'agro fertilizer', 'organic fertilizer | search | 1.00 |
+| Organic Nutrition Ltd. | search | 0.90 |
+| Aftab Feed Products Limited | search | 0.90 |
+| organic fertilizer | search | 1.00 |
+| fertilizer manufacturing | search | 1.00 |
+| NPK fertilizer | search | 0.90 |
+| agro fertilizer | search | 0.90 |
+| organic fertilizer | search | 0.80 |
 | ACI Fertilizer | search | 1.00 |
 | fertilizer | search | 1.00 |
-| Bangladesh | search | 1.00 |
+| organic fertilizer | search | 1.00 |
+| macro & micronutrient fertilizer | search | 1.00 |
