@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T00:01:16.250469+00:00",
+  "generated_at": "2026-07-10T06:12:09.518059+00:00",
   "total_files": 474,
   "sectors_audited": 16,
   "all_missing_files": [
@@ -29,8 +29,8 @@
     "clothing-fashion: 2025",
     "clothing-fashion: 2023",
     "crypto-bitcoin: 2024",
-    "crypto-bitcoin: 2023",
     "crypto-bitcoin: 2025",
+    "crypto-bitcoin: 2023",
     "electronics-gadgets: 2024",
     "electronics-gadgets: 2025",
     "electronics-gadgets: 2023",
@@ -192,8 +192,8 @@
       "missing_files": [],
       "stale_references": [
         "2024",
-        "2023",
-        "2025"
+        "2025",
+        "2023"
       ],
       "frontmatter_missing": [],
       "competitor_count": 11,

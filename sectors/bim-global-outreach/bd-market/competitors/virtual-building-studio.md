@@ -108,14 +108,11 @@ freshness: fresh
 
 
 
+
 ## Recent Findings (2026-07-10)
 
-- **avenuesangma.com** (conf: 0.88): Jan 6, 2026 ·Discover the leading architecturefirmsinBangladesh. Explore the philosophy, sustainability, and iconic projects of thetop10 studios reshaping the nation.
+- **www.archilovers.com** (conf: 0.89): Founded in 2005, Marina Tabassum Architects (MTA) is an internationally recognisedarchitectureand studio-based practice located inDhaka, Bangladesh.
 
 - **www.facebook.com** (conf: 0.69): Jun 5, 2026 ·Studio M Architecture is at Jolshiri Abashon, Dhaka,Bangladesh. Crafted with intention, this apartment in JOLSHIRI blends energy-efficient design with elegant living. From floor-to-ceilin
-
-- **www.facebook.com** (conf: 0.69): Jan 5, 2026 ·SPACE, Dhaka. 2,592 likes · 159 were here. Consultancy, Construction and DevelopmentTrendsetters ofBangladeshV — Asia Karim Deepa & Naim Ahmed Kibria, Partners at Indigenous, present “দৃষ
-
-- **www.facebook.com** (conf: 0.69): Trendsetters ofBangladeshV — Asia Karim Deepa & Naim Ahmed Kibria, Partners at Indigenous, present “দৃষ্টিকোণ সৃষ্টিকোণ” — an exploration of architecture rooted in empathy, craft, and the rhythms of e
 
 - **www.facebook.com** (conf: 0.69): Jun 5, 2026 ·Sthapotik/SharifUddin Ahammed, Dhaka. 12,895 likes · 17 talking about this · 112 were here. Sthapotik is an architectural design studio. established in 2006 by Ar. Sharif Uddin Ahammed wi

@@ -2,8 +2,8 @@
 sector: agriculture-agro
 last_verified: 2026-07-10
 freshness: fresh
-confidence: 0.705
-evidence_ids: ['c1816e55-c38', '9ff74fb6-8cc', '8537d384-908', '5fa077f1-207', '4f91c33b-db4', 'f0f2e185-d21', '5f5fe23d-185', '90a53e83-c24', 'c516bb50-d63', '029a7c6e-4e6', 'd45ee8dd-8a9', 'd7ddf2d6-b57', '0e989cba-9b5', '4ebfbfba-4b9', '7c3765c2-4c1', 'abea48da-2f5', '6f01189d-0c4', '75034fbd-a89', 'ffecbd5d-021', '8e93f4f7-4d0']
+confidence: 0.709
+evidence_ids: ['e960fe25-9ef', 'a7d033d5-531', '5d644364-7ae', 'fdb1d18c-1a6', 'c9fc5206-584', 'd4d9cec2-f20', '9033b14a-3d2', '2294bdf9-445', '5e21bd06-d87', '91116781-48a', '2b9883b0-dfb', 'e479799e-684', 'd1491d5c-45a', '021c2249-704', '120e2e8d-917', 'd8b2900a-b68', 'ded95f6f-618', 'b6be3c26-92c', '269fc91a-5b3', '46d5a1b4-111']
 ---
 
 # Agriculture & Agro-processing — Bangladesh Market
@@ -53,22 +53,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-10)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| iFarmer | search | 1.00 |
-| Nahar Agro | search | 1.00 |
-| fertilizer | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| Organic Nutrition Ltd. | search | 0.90 |
-| Aftab Feed Products Limited | search | 0.90 |
-| organic fertilizer | search | 1.00 |
-| fertilizer manufacturing | search | 1.00 |
-| NPK fertilizer | search | 0.90 |
-| agro fertilizer | search | 0.90 |
-| organic fertilizer | search | 0.80 |
-| ACI Fertilizer | search | 1.00 |
-| fertilizer | search | 1.00 |
-| organic fertilizer | search | 1.00 |
-| macro & micronutrient fertilizer | search | 1.00 |
+| Bangladesh deploys new contingents in Mali (Bangladesh Army) | search | 1.00 |
+| Mali keen to import fertilizer from Bangladesh | search | 1.00 |
+| 1.7 | search | 1.00 |
+| 12th biggest global fertilizer importer | search | 1.00 |
+| 2020 to 2021 | search | 1.00 |
+| Morocco | search | 1.00 |
+| 483 | search | 1.00 |
+| 2021 | search | 1.00 |
+| Syngenta Bangladesh Limited | search | 0.95 |
+| সিনজেন্টা বাংলাদেশ লিমিটেড | search | 0.95 |
+| Supreme Seeds Company Limited | search | 0.95 |
+| সুপ্রিম সীড কোম্পানি লি. | search | 0.95 |
+| Surovi Agro Industries Ltd. | search | 0.95 |
+| Neptune's Harvest Fish & Seaweed Liquid Fertilizer | search | 0.95 |
+| FS136 32 Oz. Fish & Seaweed Blend Fertilizer 2-3-1 | search | 0.95 |

@@ -3,7 +3,7 @@ sector: food-beverage
 last_verified: 2026-07-10
 freshness: fresh
 confidence: 0.721
-evidence_ids: ['60bccfaf-b29', '51992382-5ad', '9ecb317c-cdd', '6c934979-531', '42ea070e-e7c', 'fedf3426-efe', '1c72808e-57f', 'fbca5119-825', '5f549383-512', '72206e96-641', 'a39938d8-c9a', 'f0f1b4d9-808', '8dd05d1a-55a', 'eec0cc0f-1d9', '6ab84b5b-828', 'e5a5c9a8-0c4', 'e456329b-37f', 'a752c907-2f5', '6de914ca-ce1', 'a22e79fe-1d0']
+evidence_ids: ['569771b9-f32', 'ce2b797f-3d4', 'a236c13c-37c', '1afc9216-fab', '0be920e5-a74', '2db215b4-a20', 'ffe63cfe-c83', '1774a64c-cf5', 'fec622c5-b3b', '971df8e9-a36', '7fd862b9-68d', '2fd44dfc-5c7', 'afeae815-87c', 'dacc4c44-407', 'c80bcbbf-9e0', 'a4bd06bc-9c9', 'e54d680e-6d7', 'ade17239-d77', '35ff9f06-a87', 'eb07a132-fcc']
 ---
 
 # Food & Beverage — Bangladesh Market
@@ -52,22 +52,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-10)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Bangladesh's premier restaurant discovery platform | search | 0.95 |
-| 2020 | search | 0.90 |
-| food-beverage | search | 1.00 |
-| Dhaka City, Dhaka Division | search | 0.90 |
-| 944 | search | 0.90 |
-| 31607 | search | 0.90 |
-| Burger King | search | 1.00 |
-| 2016-12-09 | search | 1.00 |
-| Tiffinbox Ltd. | search | 1.00 |
-| Bangla Trac Group | search | 1.00 |
-| quick-service restaurant (QSR) | search | 0.90 |
-| Pizza Hut | search | 1.00 |
-| expanding customer base and improving accessibility | search | 0.90 |
-| ['Uttara', 'Dhanmondi'] | search | 0.90 |
-| ['family restaurants', 'local restaurants', 'fine dining'] | search | 0.90 |
+| Bangladeshi | search | 0.90 |
+| Biryani | search | 0.80 |
+| Delhi Belly Restaurant | search | 0.70 |
+| Bagicha Chinese Restaurant | search | 0.95 |
+| 26, Segun Bagicha Rd, Dhaka, Bangladesh | search | 0.90 |
+| Bangladeshi Taka | search | 0.95 |
+| Chinese | search | 0.80 |
+| Bangladesh Tandoori Restaurant | search | 0.95 |
+| Campbeltown | search | 0.95 |
+| 4.1 | search | 0.90 |
+| 10 | search | 0.90 |
+| ['Indian', 'Asian', 'Bangladeshi'] | search | 0.90 |
+| 86 | search | 0.90 |
+| Food Photography | search | 0.95 |
+| Boss Man Digital Marketing Agency | search | 0.95 |

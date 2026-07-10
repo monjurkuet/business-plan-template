@@ -2,8 +2,8 @@
 sector: electronics-gadgets
 last_verified: 2026-07-10
 freshness: fresh
-confidence: 0.747
-evidence_ids: ['ba66ee1d-3bb', '592fb9f7-34c', 'f9fa94a3-b40', 'e66640e4-abd', 'e2a212d4-901', '593cbf1f-f21', 'b99e0d42-457', 'da80cdf0-648', 'e6960e4c-da0', 'f27e1f9a-c72', '40f9d148-477', '9120f233-a14', 'a52b0242-383', '63425e81-bd8', 'fe01b030-43c', 'b6296d36-e88', '953f2cc1-3dd', 'f6300d36-d60', '932692a7-65f']
+confidence: 0.717
+evidence_ids: ['b6f8edb7-eb7', '1e7e6c9e-07f', '8a1c0752-139', 'c2db11ab-b87', '7494e7cb-c73', '9f7d290f-278', 'b2279b52-5d2', '7bbf4507-7e3', 'c5a18196-22b', 'ef817dad-c4d', 'f3e0e6b7-75d', 'be659a30-1d9', '5519a12c-b88', '83176f73-d6c', 'bb45d3c5-587', 'ae6768d1-ce5', '564d62ec-5a7', '6ed663d0-52f', '16c96682-ce8', '8a9a43b3-e8f']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -152,20 +152,18 @@ evidence_ids: ['ba66ee1d-3bb', '592fb9f7-34c', 'f9fa94a3-b40', 'e66640e4-abd', '
 
 
 
+
 ## Auto-Updated Data (2026-07-10)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| home appliances, ACs, refrigerators, washing machines, smart TVs, ovens | search | 0.90 |
-| official warranty, EMI facilities, fast home delivery | search | 0.95 |
-| authorized multi-brand electronics retailer | search | 0.95 |
-| authentic products, official warranty, 0% EMI, 16 superstores nationwide | search | 0.95 |
-| highest rated | search | 0.90 |
-| premium quality products | search | 0.90 |
-| original electronic appliances, seamless online shopping experience | search | 0.95 |
-| electronic and electrical products | search | 0.90 |
-| 2026 | search | 0.90 |
-| electronics, home appliances, home and kitchen appliances, air conditioners, sma | search | 0.95 |
-| best price, official warranty | search | 0.95 |
-| electronics | search | 0.90 |
+| competitive prices | search | 0.90 |
+| best prices | search | 0.90 |
+| Free Shipping | search | 0.95 |
+| best prices, offers, and discounts | search | 0.90 |
+| 15.00 | search | 0.95 |
+| BRANDS MEGA LTD | search | 0.95 |
+| Navana Tower (Level-18) 45 Gulshan Avenue, Gulshan-1 Dhaka -1212, Bangladesh | search | 0.95 |
+| Present (not explicitly stated) | search | 0.80 |
+| ['electronics'] | search | 0.90 |
 | may go up | search | 0.80 |

@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-07-10
 freshness: fresh
-confidence: 0.733
-evidence_ids: ['1c739991-269', '231ea5f6-f89', 'a0772bc6-b60', '7d7ebc9a-417', 'b2e8283a-7bf', '4a3175c9-cf2', '2fbf03b8-69a', '8adb8957-cda', '8a6a0e52-0c0', '1bdcb7eb-fe0', '9b771b49-790', '2338bb2b-801', 'c5a90f31-463', '4fe33ba3-2ce', 'f168169c-ea3', '1f9b0357-829', 'b456393f-8d0', '9641fd3a-797', '334569a9-691', 'dc611225-2c0']
+confidence: 0.752
+evidence_ids: ['a4c79ef2-849', 'f45bcaad-9c5', 'ce27be75-bd6', 'c6bcb2da-fa0', '3a45c838-fe7', 'ccb00b3f-7da', 'b960f9ff-45a', '67b855da-b8b', 'e010ac64-803', '64fb2b4b-c75', 'b5e26c13-458', '4356b649-43d', 'f3a85c43-77a', '836e1008-5b6', '45e36a2f-205', '4582b4fe-9f1', 'de1db0b4-fb1', '239f592b-884', '00cf5e31-325', '29b61444-d57']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -167,22 +167,23 @@ evidence_ids: ['1c739991-269', '231ea5f6-f89', 'a0772bc6-b60', '7d7ebc9a-417', '
 
 
 
+
 ## Auto-Updated Data (2026-07-10)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| RAJUK-registered | search | 0.90 |
-| Dhaka | search | 0.95 |
-| sustainable architecture | search | 0.90 |
-| growing faster than ever | search | 0.90 |
-| hundreds | search | 0.85 |
-| ['Dhaka', 'Khulna', 'Chattogram'] | search | 0.95 |
-| BNBC-2020 | search | 0.95 |
-| ['design creativity', 'BNBC-2020 compliance', 'transparent pricing', 'reliable p | search | 0.90 |
-| ['philosophy', 'sustainability', 'iconic projects'] | search | 0.90 |
-| Dhaka | search | 0.95 |
-| ['company reputation', 'client reviews', 'google data analytics'] | search | 0.90 |
-| SPACE | Dhaka | search | 0.95 |
-| 2592 | search | 0.95 |
-| 159 | search | 0.95 |
-| Geometric Architect & Interiors | search | 0.95 |
+| top 10 interior design companies in Dhaka, Bangladesh | search | 0.95 |
+| interior design | search | 0.90 |
+| Dhaka, Bangladesh | search | 0.95 |
+| systems architecture, business ecosystems, automation | search | 0.95 |
+| Globats | search | 0.95 |
+| Bangladesh | search | 0.95 |
+| NBBJ | search | 1.00 |
+| TIME Recognizes NBBJ as Only Architecture Firm Among Its Most Influential Compan | search | 1.00 |
+| Fast Company Honors NBBJ as One of the World’s Most Innovative Architecture Firm | search | 1.00 |
+| architecture and design | search | 1.00 |
+| EYRC Architects | search | 1.00 |
+| Ehrlich Architects | search | 1.00 |
+| southern California | search | 1.00 |
+| modern residential and commercial architecture | search | 1.00 |
+| Think Architecture | search | 1.00 |

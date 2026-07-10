@@ -2,8 +2,8 @@
 sector: travel-tourism
 last_verified: 2026-07-10
 freshness: fresh
-confidence: 0.686
-evidence_ids: ['78ab02fa-a64', '2d9aea3d-99c', 'bc73c7f3-c99', 'abd4b332-ef6', '96f22248-b18', 'd59eba95-932', '201ed032-2ae', '706efeff-b27', '5c1e5477-1ce', '8346e433-025', '34c07f70-b63', '0735a960-10f', '1796d415-a46', 'baf1791a-8d5', '0eb27020-0a4', '1d9d0171-071', '0495d8dd-a3b', 'e8337a1c-e5a', '270d38fc-910', 'ee51f9c8-e5c']
+confidence: 0.703
+evidence_ids: ['6118ab15-2a5', 'e1549ff2-dd1', '4b223768-858', 'b0409389-f60', '39a5da21-8dc', 'a74b4c8c-7b8', '8e5d6965-e35', '6cd14f4f-665', '1dead7b7-d1d', '8cbdd720-8a4', '87c16a0a-d39', '8b31a074-9b8', 'e6363443-04f', '6ca22a07-18b', '789a57ca-024', 'e81d0d37-0c9', '25c5fe1a-73b', '6f31e22a-4ea', '0bca0a3e-02b', '52bb43c7-ada']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -127,16 +127,20 @@ evidence_ids: ['78ab02fa-a64', '2d9aea3d-99c', 'bc73c7f3-c99', 'abd4b332-ef6', '
 
 
 
+
 ## Auto-Updated Data (2026-07-10)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| IATA-certified travel agency offering hotels, visas, tours, and flight booking s | search | 0.95 |
-| 2017 | search | 0.95 |
-| Dhaka, Bangladesh | search | 0.95 |
-| affordable prices | search | 0.90 |
-| air ticketing, visa processing, holiday packages, global tours | search | 0.90 |
-| smooth, safe, and affordable journey | search | 0.80 |
-| air tickets, hotels, tour packages | search | 0.95 |
-| best rates, hassle-free travel solutions, seamless booking, exceptional value | search | 0.90 |
-| 1315 | search | 0.95 |
+| goFLY Limited | search | 1.00 |
+| IATA-certified | search | 1.00 |
+| 2017 | search | 1.00 |
+| Dhaka, Bangladesh | search | 1.00 |
+| helping Bangladeshi travelers explore the world with honest service, affordable  | search | 1.00 |
+| TravelAgency Bangladesh | search | 1.00 |
+| ['hotels', 'visa', 'tours', 'flight booking'] | search | 1.00 |
+| Top 10 travel agencies in Bangladesh—trusted by thousands of travelers for air t | search | 1.00 |
+| ['leisure', 'business', 'Hajj', 'study abroad'] | search | 1.00 |
+| Travelzan | search | 1.00 |
+| ['air tickets', 'hotels', 'tour packages'] | search | 1.00 |
+| Bangladesh's leading online travel agency. Book air tickets, hotels, and tour pa | search | 1.00 |

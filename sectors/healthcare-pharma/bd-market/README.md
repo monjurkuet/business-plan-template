@@ -2,8 +2,8 @@
 sector: healthcare-pharma
 last_verified: 2026-07-10
 freshness: fresh
-confidence: 0.712
-evidence_ids: ['7cb8336e-836', '6fcfac34-7e9', 'a4c4a5c9-d9b', 'a34d1281-869', 'ba92f40a-e9f', '0ab47acc-873', 'd750a729-370', 'be3a7c26-21f', 'bae3b88f-19f', 'a3d1f333-9bd', 'f9fde865-69a', 'a8094eaf-671', 'c67f6c2b-996', '58a9430d-78e', 'be792436-3ac', 'd527791f-572', '8b3ee3ab-6ea', 'c7748f9e-ff5', '6b5fd99a-705', 'b26a5ea5-48f']
+confidence: 0.688
+evidence_ids: ['7154f364-790', '195a875d-f37', '5c564623-446', '1ed1bef9-bdc', '383b4a85-c60', '0bff7d76-3f8', '45053a60-6eb', 'e36d6970-e6f', '0148dcbc-06d', '69104d61-9e3', 'c319d41a-b1c', '2967ee80-4f5', '3b8f2584-1c4', 'a6b8fb62-0bf', '5dab0ef7-ca8', '45b73b9c-ff0', 'df935115-b5a', '0b7bf877-fb4', '509d42cd-b93', '9fe594b6-081']
 ---
 
 # Healthcare & Pharma — Bangladesh Market
@@ -52,16 +52,18 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-10)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Bangladesh’s pharma industry is driven by local companies ensuring affordable he | search | 0.90 |
-| [{'rank': 1, 'company_name': 'Alco Pharma', 'estimated_revenue': 675100000, 'uni | search | 1.00 |
-| 2026-07 | search | 1.00 |
-| 2026 | search | 1.00 |
-| Best pharmaceutical companies in Bangladesh ranked by market share, sales, expor | search | 0.90 |
-| one of the most developed sectors of the Bangladeshi economy | search | 0.90 |
-| meets local demand for medicines and is becoming a global leader in pharmaceutic | search | 0.90 |
-| Square Pharmaceuticals Limited | search | 1.00 |
-| Founded | search | 0.90 |
+| Medisafe Pharmacy | search | 0.95 |
+| ['Medical device', 'Natural medicine', 'Allopathic medicine'] | search | 0.90 |
+| supplier_company | search | 0.95 |
+| List of Pharmacy in Bangladesh with Phone numbers, Locations, Reviews, Photos | search | 0.90 |
+| community-based pharmacy | search | 0.95 |
+| ['compounding', 'consulting', 'prescription checking', 'delivery'] | search | 0.90 |
+| local area | search | 0.85 |
+| Mymensingh, Bangladesh | search | 0.95 |
+| ['personalized services', 'local delivery'] | search | 0.90 |
+| friendly health partner | search | 0.85 |

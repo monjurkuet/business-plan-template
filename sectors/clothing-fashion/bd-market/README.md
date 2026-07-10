@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-07-10
 freshness: fresh
-confidence: 0.721
-evidence_ids: ['90749961-829', '3923954b-9a5', 'c586d4c5-3fc', 'd8a9c8bd-efa', 'c7176d07-059', '982954e0-d9d', '1670b262-9ea', 'b670520a-08c', '89294b15-e39', 'ccfa4e45-de5', '2441029a-e53', '44fef319-31a', '2c226978-80f', '5630b29c-2fe', '7f6158c6-147', '404ff861-584', '21de522e-2aa', '006fbf37-2fe', 'b9d02a3d-815', '3b53d6b2-654']
+confidence: 0.726
+evidence_ids: ['1881d2ec-11c', '7138f100-b2a', '7f505f26-280', 'f13af33b-ac3', '2da6a342-d1e', '8785ff5f-bb8', 'effd3e12-639', 'd8c8f9b8-023', 'af9ebfef-61a', '56092630-d7a', 'aa13e001-a62', 'd50948f1-dd8', 'f16755c4-22f', '21abd821-7e0', '4f00f278-be3', '88ba29a1-189', 'bd9967c7-94e', 'cbc35458-520', 'cde922e7-3be', '0916718f-6e1']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -164,22 +164,23 @@ evidence_ids: ['90749961-829', '3923954b-9a5', 'c586d4c5-3fc', 'd8a9c8bd-efa', '
 
 
 
+
 ## Auto-Updated Data (2026-07-10)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Tyzo | search | 1.00 |
-| Modern Clothing | search | 1.00 |
-| Bangladeshi | search | 1.00 |
-| ['stylish apparel', 'comfortable clothing', 'affordable prices', 'fast delivery' | search | 1.00 |
-| 1490 | search | 1.00 |
-| 2490 | search | 1.00 |
-| Zaina Vol 19 Pakistani Suit | search | 1.00 |
-| 2026-07-01 | search | 1.00 |
-| Twelve Clothing | search | 1.00 |
-| Fashion | search | 1.00 |
-| ['menswear', 'womenswear', 'kidswear', 'panjabi', 'kurti', 'gowns', 't-shirts',  | search | 1.00 |
-| JamaKapor | search | 1.00 |
-| Online Fashion Store | search | 1.00 |
-| ['men', 'women', 'kids'] | search | 1.00 |
-| ['home delivery', 'best prices'] | search | 1.00 |
+| ['best match', 'price', 'free shipping', 'fast delivery', 'free return'] | search | 0.90 |
+| baggy pants | search | 1.00 |
+| boys, youth | search | 0.90 |
+| all over Bangladesh | search | 0.90 |
+| affordable | search | 0.80 |
+| ['t-shirts', 'polo shirts', 'casual shirts', 'summer wear'] | search | 1.00 |
+| across Bangladesh | search | 0.90 |
+| winter clothing | search | 1.00 |
+| ['eco-friendly', 'anti-shrink fleece', 'cotton'] | search | 1.00 |
+| 7-day | search | 0.90 |
+| wholesale | search | 0.90 |
+| custom apparel (t-shirts) | search | 1.00 |
+| trusted and reliable clothing manufacturer in Bangladesh | search | 0.90 |
+| best factory prices | search | 0.90 |
+| highest-quality | search | 0.90 |

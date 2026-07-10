@@ -2,8 +2,8 @@
 sector: construction-real-estate
 last_verified: 2026-07-10
 freshness: fresh
-confidence: 0.714
-evidence_ids: ['d388c90a-6da', '6ff154bf-8cd', '4ceee894-57f', '82f32064-2a4', '862c39ac-bb6', 'b1907d73-d12', '7933fe4d-57f', 'b7949824-110', 'bdfa313f-c50', 'f76cc3ab-5c9', 'f30b2636-dcf', '87014bc7-c00', '640332ee-be2', 'f6405590-75b', '35c978f6-d27', '9015748b-41c', 'cea0e2e0-d32', '157ce2ba-496']
+confidence: 0.75
+evidence_ids: ['1fdfa931-973', '15744ebe-04b', '273deb23-c13', '4bca443c-8b6', '7abf979f-cf9', '722acb96-ab6', '06d5c17a-be4', '769c46ee-3f3', '90d8ac92-2df', 'd4ec7fc6-25d', 'ae2445b6-410', '3bcfe0cc-61e', '0edf5ee4-0b9']
 ---
 
 # Construction & Real Estate — Bangladesh Market
@@ -53,18 +53,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-10)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
 | ['CHB Engineering Ltd.', 'Alibaba Construction Ltd.'] | search | 0.95 |
-| largest building materials supplier | search | 0.90 |
-| Beximco | search | 1.00 |
-| private | search | 1.00 |
-| A S F Rahman | search | 1.00 |
-| Listed among top businessmen in Bangladesh | search | 0.90 |
-| Beximco | search | 1.00 |
-| Salman F. Rahman | search | 1.00 |
-| Vice Chairman | search | 1.00 |
-| Arrested for interrogation over the death of a hawker during student protests | search | 0.90 |
-| 10 | search | 1.00 |
+| Building Material Suppliers | search | 0.95 |
+| RFL | search | 1.00 |
+| largest building materials supplier in Bangladesh | search | 0.95 |
+| Bangladesh's largest business directory & yellow pages since 2003 | search | 0.95 |
+| BD Trade Info | search | 1.00 |
+| Business Data Information Limited | search | 0.90 |
+| Private Limited | search | 0.90 |
+| 2001 | search | 0.90 |
+| Joint Stock Companies & Firms | search | 0.90 |
+| Dhaka Yellow Pages | search | 0.90 |
+| Beximco | search | 0.90 |
+| Salman F. Rahman | search | 0.90 |
+| Vice Chairman | search | 0.90 |
+| 10-day remand for interrogation over the death of a hawker during student protes | search | 0.80 |

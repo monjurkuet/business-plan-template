@@ -2,8 +2,8 @@
 sector: automotive-car-care
 last_verified: 2026-07-10
 freshness: fresh
-confidence: 0.678
-evidence_ids: ['f20dc69a-339', '866a8588-ab1', '1b02e6bd-7fe', '0b63b99a-549', 'e72336f2-aa4', '57924fb6-6ae', '470062d0-35e', '2b075d1d-0fe', 'e9e85802-ea2', 'bcfb0039-306', 'befb80f9-5f6', '55d321ec-2eb', 'a65a2239-36d', '4c4805d1-c8f', '1e490c5c-753', 'bffa9cd6-1a7', 'b8aec66e-0c9', '543e8771-71d']
+confidence: 0.702
+evidence_ids: ['c36e04ab-a86', '8ecc59b0-faf', '8eb9125d-73a', 'b1231a26-243', '2901b993-28e', '5da9d8c5-55c', '150aa2cf-107', '7c018079-cdf', 'ed2c077b-0e8', 'c7da838e-cbd', 'f7b96a70-9f0', 'a42b4db7-3a8', '7528717c-ccf', 'd94ece7d-063', '9efcb129-1eb', '90f95f30-508', 'bd8f3dda-a9d', '8baeba36-f10', '690c3a0d-cd7']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -175,19 +175,23 @@ evidence_ids: ['f20dc69a-339', '866a8588-ab1', '1b02e6bd-7fe', '0b63b99a-549', '
 
 
 
+
 ## Auto-Updated Data (2026-07-10)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| car wash and car cleaning services | search | 1.00 |
-| Dhaka, Bangladesh | search | 1.00 |
-| free quote | search | 1.00 |
+| Car Wash BD | search | 1.00 |
+| Dhaka, Bangladesh | search | 0.90 |
+| free quote for car wash service | search | 1.00 |
 | free air fresheners and bonus free washes with unlimited wash club membership | search | 1.00 |
-| car wash services | search | 1.00 |
-| Dhaka, Bangladesh | search | 1.00 |
+| Car Wash BD | search | 1.00 |
+| Dhaka, Bangladesh | search | 0.90 |
 | advanced cleaning technologies and eco-friendly products | search | 1.00 |
 | deliver unparalleled car wash services that ensure customer satisfaction and veh | search | 1.00 |
-| 900 | search | 1.00 |
-| 2500 | search | 1.00 |
-| Exterior wash | search | 1.00 |
-| Interior deep cleaning | search | 1.00 |
+| Car Wash BD | search | 1.00 |
+| Dhanmondi, Dhaka, Bangladesh | search | 1.00 |
+| +8801762499688 | search | 1.00 |
+| 24 Hours, Monday to Sunday | search | 1.00 |
+| Kärcher Bike & Car Wash Bangladesh Event | search | 1.00 |
+| Savar, Dhaka, Bangladesh | search | 1.00 |
+| Kärcher | search | 1.00 |
