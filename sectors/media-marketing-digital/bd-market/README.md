@@ -2,8 +2,8 @@
 sector: media-marketing-digital
 last_verified: 2026-07-11
 freshness: fresh
-confidence: 0.706
-evidence_ids: ['625ddff9-976', '551dd7a0-dee', '4eee4454-c11', '3bdda488-e56', '0ea3447e-f8f', 'eb550459-609', '4e5f4685-4b8', 'be50b776-614', 'a126a481-e78', '03daf4b1-d3e', '987b7310-6e7', 'bc3512d4-e16', '0c6448c0-dd8', 'c4d8c980-2a4', '2fbc12f6-275', 'fc14e3cc-b39', '04b56d2e-fa6', '5395aa05-0f2', '21d24774-ba0', '705b8808-9e9']
+confidence: 0.715
+evidence_ids: ['a7f7ac62-8ff', 'de8f52f5-69e', 'bf19fa76-b53', '1c5c82bb-628', '91be9d19-37e', '63552ada-f09', '2be30c13-916', '03691dcc-b53', '3a6ba446-0d9', 'e359a699-a8f', '8e691ad4-1a1', 'b7980f4c-acf', '86a49111-9e5', 'c594f65f-e0a', 'cd88b51d-9c7', '32650d1d-e81', 'fc0145cb-0a6', '1bd08f8a-ad9', '0c41e5c6-f30', '50786a56-cf1']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market
@@ -150,15 +150,20 @@ evidence_ids: ['625ddff9-976', '551dd7a0-dee', '4eee4454-c11', '3bdda488-e56', '
 
 
 
+
 ## Auto-Updated Data (2026-07-11)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| payment per use | search | 0.90 |
-| pay only for what you use | search | 0.95 |
+| pay only for what you use | search | 0.90 |
+| bulk SMS, email, voice | search | 0.95 |
 | 2026 | search | 0.95 |
-| actual cost of digital marketing in Bangladesh for 2026, service by service | search | 0.90 |
-| Pricing Heatmap by Country and Price tier | search | 0.90 |
-| digital marketing companies | search | 0.95 |
+| price benchmarks guide | search | 0.90 |
+| connect with digital marketing companies | search | 0.95 |
+| pricing tier heatmap | search | 0.90 |
+| Catch Bangladesh | search | 0.95 |
+| media buying, SEO, web development | search | 0.95 |
+| 100% of reviewers appreciating proactive problem-solving and timely delivery | search | 0.90 |
 | 207 | search | 0.95 |
-| Bangladesh-based IT companies started to export software around two decades ago, | search | 0.90 |
+| digital marketing services | search | 0.95 |
+| Bangladesh-based IT companies started software export around two decades ago, jo | search | 0.90 |

@@ -2,8 +2,8 @@
 sector: agriculture-agro
 last_verified: 2026-07-11
 freshness: fresh
-confidence: 0.708
-evidence_ids: ['646a851b-b9d', '75ddb61e-1bc', 'e4e30ddb-ffa', '536d6812-cbd', '80db3c13-428', '762bdad0-a83', 'c7848031-d53', '1d051c28-72d', '443d8b31-958', '9ec65569-876', '21cdc094-58b', '3b6bce5d-57d', '63ea88c9-2ec', 'dc4d3189-48b', '12379482-a95', '2450f8e3-46e', '263868b2-e59', '79243c6f-5a0', 'bf0084ec-507', '03bfa274-16e']
+confidence: 0.689
+evidence_ids: ['a0859b1f-682', '0b4bdf28-d91', 'bf80cd2b-e6a', '9e485889-d64', 'e9c27123-3b7', 'f939ac77-3a6', 'e44748fb-201', '5bc7bfa3-589', '7d7a39d8-f00', '6ba3a019-3bb', 'b9568b55-c8b', 'e701a1e1-70e', '2004f517-c5c', 'bc748efa-9b9', '19cfecec-b45', '4bf2cdc3-d38', 'ef45d9ac-f97', '3304747c-a54', '4ec5a977-11c', '893f148e-892']
 ---
 
 # Agriculture & Agro-processing — Bangladesh Market
@@ -58,13 +58,14 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-11)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
 | 1.7 | search | 0.95 |
 | 12 | search | 0.95 |
-| Morocco | search | 0.90 |
+| Morocco | search | 0.95 |
 | 483 | search | 0.95 |
 | 2021 | search | 0.95 |
 | Syngenta Bangladesh Limited | search | 0.95 |
@@ -73,7 +74,7 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 | সুপ্রিম সীড কোম্পানি লি. | search | 0.95 |
 | Surovi Agro Industries Ltd. | search | 0.95 |
 | Neptune's Harvest Fish & Seaweed Liquid Fertilizer | search | 0.95 |
-| FS136 32 Oz. | search | 0.95 |
+| FS136 | search | 0.95 |
+| 32 Oz | search | 0.95 |
 | 2-3-1 | search | 0.95 |
 | organic fertilizer | search | 0.95 |
-| Ubuy Bangladesh | search | 0.95 |

@@ -2,8 +2,8 @@
 sector: food-beverage
 last_verified: 2026-07-11
 freshness: fresh
-confidence: 0.715
-evidence_ids: ['a4b0b3b6-9f4', 'a46a6021-d2b', 'd746179f-2db', 'b1e5a4e9-940', '94140875-5a3', 'e78c9f9d-17c', 'af0c12df-c25', 'fb542115-b0a', '929a2112-ed0', 'f79981b3-d1f', '76f1b97d-016', '1c4c7ad2-800', '759b3543-9d1', 'a7af2f1a-e78', '6388c757-993', '326e43dc-b50', 'cc2755ca-fd7', 'f3daedb8-22f', '54a5a6f1-cb2', '31230488-b0e']
+confidence: 0.7
+evidence_ids: ['1d49fa80-b55', 'c99f53cb-7ef', '4c24d572-40e', 'fd911407-43b', 'a8e064fc-494', 'bcb0b81f-c5a', '39f1f701-9e6', '045054b3-423', 'a084baab-b1a', 'fe319c10-69a', '80be1fd6-204', 'c83975d7-faa', 'b87822db-8ba', '8e7c4ec9-2af', 'a3463ca8-78d', '5f7858df-a9c', 'b77be3e2-27d', '7f98793b-472', 'd4cdbea9-761', '7813772e-5c0']
 ---
 
 # Food & Beverage — Bangladesh Market
@@ -57,22 +57,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-11)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Best Rooftop Restaurant in Bangladesh | search | 0.90 |
-| Bangladesh | search | 0.95 |
-| rooftop | search | 0.90 |
-| stunning views and delicious cuisine | search | 0.85 |
-| Famous Biryani Restaurant In Bangladesh | search | 0.85 |
-| Delhi Belly Restaurant | search | 0.85 |
-| Bangladeshi | search | 0.90 |
-| 16 Top Bangladeshi Food for an Authentic Experience | search | 0.85 |
+| Best Rooftop Restaurant in Bangladesh | search | 0.80 |
+| 20 minutes from downtown Montreal | search | 0.70 |
+| stunning views and delicious cuisine | search | 0.80 |
+| Delhi Belly Restaurant | search | 0.80 |
+| Bangladeshi Food | search | 0.90 |
 | Bangladesh Tandoori Restaurant | search | 1.00 |
 | Campbeltown | search | 1.00 |
 | 4.1 | search | 1.00 |
-| 10 | search | 1.00 |
-| ['Indian', 'Asian', 'Bangladeshi'] | search | 1.00 |
+| #9 | search | 1.00 |
+| 86 | search | 1.00 |
 | Bangladesh Restaurant | search | 1.00 |
 | Pretoria West, South Africa | search | 1.00 |
+| 118 Luttig St | search | 1.00 |
+| Bangladeshi | search | 1.00 |
+| Food Photography | search | 1.00 |

@@ -2,8 +2,8 @@
 sector: jewellery
 last_verified: 2026-07-11
 freshness: fresh
-confidence: 0.72
-evidence_ids: ['34100a67-519', '26283c4c-86b', '79497959-1e0', '8939d75a-26a', '3da207ec-743', '455ba07e-735', '9cbc2064-d1c', '43efaa6a-9da', 'db92280b-61e', '67a56c18-25b', '8b9b9e29-7bb', '1d117501-c84', '3b025a9c-636', 'de513945-421', 'f1a7aa41-3a6', '4bad8fd5-4ec', '09ccc132-307', '273f58a8-9a7', '6f7d5d88-75f', 'd99f2a40-0a4']
+confidence: 0.705
+evidence_ids: ['6810ca87-e60', '337337af-ed7', '98b6295b-d61', 'cc935867-108', 'ffd607e7-ce3', '6c612f22-08b', '5380fcf8-73c', 'c3ed2221-d92', '08dd5c90-025', 'e70dd4e5-81a', 'a321e885-76d', '02037258-115', 'fbbd60b8-2a0', '752c9961-069', 'f5d80dc8-9f9', '5a0aea31-162', 'ccbd242c-803', 'aabfcbde-a68', '4df28b0d-ba6', 'e979c18b-2bc']
 ---
 
 # Jewellery — Bangladesh Market
@@ -144,22 +144,16 @@ evidence_ids: ['34100a67-519', '26283c4c-86b', '79497959-1e0', '8939d75a-26a', '
 
 
 
+
 ## Auto-Updated Data (2026-07-11)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 200 to 3000 | search | 1.00 |
-| fashion jewellery | search | 1.00 |
-| daily and festive wear | search | 0.95 |
-| gold jewellery | search | 1.00 |
-| price changes impact all gold jewellers in Bangladesh | search | 0.95 |
-| ['churi', 'chain', 'gold bracelet'] | search | 0.95 |
-| 1 day ago | search | 0.90 |
-| 225290 | search | 1.00 |
-| ['22K', '21K', '18K'] | search | 1.00 |
-| BAJUS | search | 1.00 |
-| 2026-07-11 | search | 0.90 |
-| Diamond World Limited | search | 1.00 |
-| online_jewellery_shop | search | 1.00 |
-| ['gold', 'diamond'] | search | 1.00 |
-| affordable | search | 0.80 |
+| 377 | search | 0.90 |
+| jhumka earrings | search | 0.95 |
+| Bangladesh jewellery style | search | 0.90 |
+| 32 | search | 0.80 |
+| Tanishq launched in Bangladesh | search | 1.00 |
+| Rhythm Group | search | 1.00 |
+| Narayanganj | search | 1.00 |
+| Titan Company | search | 1.00 |

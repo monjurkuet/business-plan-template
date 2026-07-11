@@ -2,8 +2,8 @@
 sector: healthcare-pharma
 last_verified: 2026-07-11
 freshness: fresh
-confidence: 0.702
-evidence_ids: ['e84b5201-618', '48a0667a-0da', '3d8ef62a-957', '7b88d5f6-412', '9e4cd23a-32c', 'dc795ec6-46d', '9861ab5e-609', '90b3552f-12c', '50deab72-48b', '5ded7299-761', '84b02d12-48d', '1811ae72-e0b', '2388325a-435', 'e119610a-5c5', '64262df3-272', '5287b7ac-6ac', 'cd8d7992-2ce', 'b46827d8-772', 'ed214a12-bad', 'bb9a1b67-7ea']
+confidence: 0.713
+evidence_ids: ['5f4fab6c-4eb', 'daace335-b3f', '97fee8ad-6d0', '5d88b0cd-c20', 'e79c908d-025', '3d35acb3-ece', '9a12d4c4-eca', 'b4477c0d-9d4', '56ff7b98-6c9', '4bec25d4-f6c', '4675b718-da2', 'cbd89c2e-a63', '1e86aa28-089', 'cd90cb7f-879', '73bd4abf-9f0', '1c74f2c2-79f', '93699372-310', 'd6ac1678-a11', 'bdc735d6-56e', '929b091c-025']
 ---
 
 # Healthcare & Pharma — Bangladesh Market
@@ -57,22 +57,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-11)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Bangladesh’s pharma industry is driven by local companies ensuring affordable he | search | 0.90 |
-| resilient and competitive | search | 0.85 |
-| Best Pharmaceutical Companies in Bangladesh ranked by market share, sales, expor | search | 0.90 |
-| 1 | search | 0.95 |
-| Alco Pharma | search | 0.95 |
-| 675100000 | search | 0.95 |
-| 2 | search | 0.95 |
-| Orion Pharma | search | 0.95 |
-| 594600000 | search | 0.95 |
-| 3 | search | 0.95 |
-| Square Pharmaceuticals Limited | search | 0.95 |
-| 538200000 | search | 0.95 |
-| 2026-07 | search | 0.90 |
-| cornerstone of industrial growth, innovation, and healthcare accessibility | search | 0.90 |
-| 2025-11-07 | search | 1.00 |
+| MedisafePharmacy | search | 0.95 |
+| ['Medical device', 'Natural medicine', 'Allopathic medicine'] | search | 0.90 |
+| supplier_company | search | 0.90 |
+| Pharmacy | search | 0.95 |
+| List of Pharmacy in Bangladesh with Phone numbers, Locations, Reviews, Photos | search | 0.90 |
+| AminPharmacy | search | 1.00 |
+| Astoria | search | 0.90 |
+| pharmacy | search | 1.00 |
+| ['prescription medicine', 'OTC medicine'] | search | 1.00 |
+| most insurances accepted | search | 0.90 |
+| MadinaPharmacy | search | 1.00 |
+| pharmacy | search | 1.00 |
+| WellbeingPharmacy | search | 1.00 |
+| community-based pharmacy | search | 1.00 |
+| ['compounding', 'consulting', 'checking prescription medications', 'delivering p | search | 1.00 |

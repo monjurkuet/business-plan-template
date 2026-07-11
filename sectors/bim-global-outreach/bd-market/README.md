@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-07-11
 freshness: fresh
-confidence: 0.732
-evidence_ids: ['7bd5a6bc-d12', 'd748130f-b8b', 'eab75a40-2b5', '3469c0cd-a0c', '2823e184-5ea', '68dfed5c-426', '95f1b409-081', '775a91ca-3df', 'd217046f-cae', '990f34e6-4b8', '6ec53ef8-3c2', '3b8c94b7-af1', 'ca695d39-298', '1653dc9b-b64', '82fa0e88-bfe', '9ec8aceb-fc3', '2ff060a6-c0a', '3f452a92-ece', '2bfa02c6-7bf', 'acdfac69-915']
+confidence: 0.766
+evidence_ids: ['e151eef2-245', '8bd830b9-4b8', 'a64eb0e8-5ea', '84cee8a5-3d2', 'e8f84200-ad1', '1cf7dc85-247', 'fa3beb18-459', '057cedc6-8f0', '6bc2bd28-884', 'a7b1b5a0-398', '6333500e-6e2', '1b65904b-2ec', '09b47c19-679', '1df2bbca-181', 'cfe21e80-499', '88369061-d5a', '7d9ef7ea-80e', '317546c3-cad', '46056bbb-8c1', 'c404eb97-297']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -172,22 +172,23 @@ evidence_ids: ['7bd5a6bc-d12', 'd748130f-b8b', 'eab75a40-2b5', '3469c0cd-a0c', '
 
 
 
+
 ## Auto-Updated Data (2026-07-11)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| RAJUK-registered | search | 0.90 |
-| Dhaka | search | 0.95 |
-| sustainable architecture | search | 0.90 |
-| growing faster than ever | search | 0.95 |
-| ['Dhaka', 'Khulna', 'Chattogram'] | search | 0.95 |
-| BNBC-2020 compliance | search | 0.95 |
-| ['design creativity', 'transparent pricing', 'reliable project delivery'] | search | 0.90 |
-| ['philosophy', 'sustainability'] | search | 0.90 |
-| Dhaka | search | 0.95 |
-| ['company reputation values', 'client reviews', 'google data analytics'] | search | 0.95 |
-| SPACE | Dhaka | search | 0.90 |
-| Geometric Architect & Interiors | search | 0.90 |
-| Nakshabid | search | 0.90 |
-| 2592 | search | 0.90 |
-| 2 | search | 0.90 |
+| interior design | search | 0.90 |
+| Dhaka, Bangladesh | search | 0.95 |
+| firm | search | 0.90 |
+| Globats | search | 1.00 |
+| systems architecture | search | 0.95 |
+| Bangladesh | search | 1.00 |
+| building automation-first business ecosystems | search | 0.90 |
+| firm | search | 0.95 |
+| NBBJ | search | 1.00 |
+| architecture and design | search | 0.95 |
+| TIME's Most Influential Companies List (only architecture firm) | search | 0.90 |
+| Fast Company's World’s Most Innovative Architecture Firms (fifth time) | search | 0.90 |
+| firm | search | 0.95 |
+| EYRC Architects | search | 1.00 |
+| modern residential and commercial architecture | search | 0.95 |

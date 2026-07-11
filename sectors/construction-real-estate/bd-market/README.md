@@ -2,8 +2,8 @@
 sector: construction-real-estate
 last_verified: 2026-07-11
 freshness: fresh
-confidence: 0.716
-evidence_ids: ['fe656adc-92a', 'b5c092e0-247', '342e5f61-cce', 'ccef5fd0-d25', 'ce31c3f7-ca3', 'f686e110-c24', 'c16078dc-a2d', '99b201d9-2e8', '3c19812e-055', '5f5a8b2b-0c6', 'de2ccc29-8a8', 'cf4faa7c-e3c', 'fa575eba-c37', '05f9f700-d86', 'c3680e6d-974', 'd030b5d7-6d3', '46eb1c55-eab', '8960c698-5ae', 'fe66a58f-4b0', '44116eda-62d']
+confidence: 0.717
+evidence_ids: ['c28c7eef-1e4', 'd5f859b1-f5f', '655a552a-f01', 'db24aa8e-e8b', '487ba237-5a4', '36812203-a5a', 'b68bba94-f3b', '7bb2d992-57e', '302f4c8c-82f', 'e9629a39-96e', '8e77b939-638', '1bb96f75-0f7', '789c2a6a-b11', '0ee83fa5-7f4', 'd722c1f6-dd4', '0d04e563-c01', '41a40276-145', 'fa1ab1e2-d77', '8b8d77a6-994', '79662295-420']
 ---
 
 # Construction & Real Estate — Bangladesh Market
@@ -58,22 +58,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-11)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 65 | search | 0.95 |
-| wholesale building materials | search | 0.95 |
-| ['ALM Steel Building Technology Ltd', 'ALM Tensile Membrane Structure Limited',  | search | 0.95 |
-| CHB Engineering Ltd. | search | 0.90 |
-| Alibaba Construction Ltd. | search | 0.90 |
-| building_material_suppliers | search | 0.95 |
+| 65 | search | 0.90 |
+| ALM Steel Building Technology Ltd. | search | 1.00 |
+| ALM Tensile Membrane Structure Limited | search | 1.00 |
+| Akij Cement Company Ltd. | search | 1.00 |
+| Anwar Landmark Ltd. | search | 1.00 |
+| CHB Engineering Ltd. | search | 1.00 |
+| Alibaba Construction Ltd. | search | 1.00 |
+| Bashundhara Group | search | 1.00 |
+| LafargeHolcim Bangladesh Limited | search | 1.00 |
+| Confidence Cement Ltd | search | 1.00 |
+| Premier Cement Mills Ltd | search | 1.00 |
+| HeidelbergCement Bangladesh Limited | search | 1.00 |
+| akbarsha | search | 0.80 |
+| Firozshah, Chittagong Sadar, Chittagong | search | 0.90 |
 | Perfect Solution | search | 0.90 |
-| Nasirabad, Chittagong, Chittagong Sadar, Chittagong | search | 0.95 |
-| flooring_and_construction_chemicals | search | 0.90 |
-| Industrial, Commercial, and residential Flooring and construction chemicals appl | search | 0.90 |
-| Bashundhara Group | search | 0.95 |
-| LafargeHolcim Bangladesh Limited | search | 0.95 |
-| Confidence Cement Ltd | search | 0.95 |
-| Premier Cement Mills Ltd | search | 0.95 |
-| HeidelbergCement Bangladesh Limited | search | 0.95 |

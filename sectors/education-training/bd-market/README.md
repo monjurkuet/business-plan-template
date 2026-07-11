@@ -2,8 +2,8 @@
 sector: education-training
 last_verified: 2026-07-11
 freshness: fresh
-confidence: 0.708
-evidence_ids: ['c99eb002-9b1', '95d5a9e5-4fc', '75b16b12-4c4', '5df743c9-90f', 'e926bba3-ca9', '7810fec9-1a1', 'aa78f4f2-bc0', '363ef432-fb5', '5dca7b43-05d', 'ab704cbe-0d9', '69d02157-77b', 'e6001b71-924', '5502c11a-8b1', 'b92bd93b-7e4', '1d600b16-ec7', '9186b3a7-838', '65af65ee-8cb', '8a43a1f2-263', '967b7d6b-a87', '9b6ab903-e10']
+confidence: 0.707
+evidence_ids: ['cfd26d4a-e8b', '1a5f8bba-1f9', 'b7fb0bdd-61e', '9b3640a8-d88', 'f73d0b64-4c4', '16407f42-8d7', '6cef80cf-2f1', '46272fc1-2cf', '568aa33f-cff', '76eae0cc-483', 'c5d28691-d42', '472358d0-316', 'c443dc62-740', 'a1a2f343-f43', '4ca3b6fe-e61', '0132e223-cad', '7e976d93-9d2', '48d109da-a27', 'c10ac235-e8d', '41ec4e75-f49']
 ---
 
 # Education & Training — Bangladesh Market
@@ -55,20 +55,22 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-11)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| corporate coaching services | search | 0.90 |
-| Bangladesh | search | 1.00 |
-| ['Digicon Technologies Ltd', 'E-Learning & Earning LTD', 'U S Software Ltd', 'PM | search | 0.95 |
-| corporate training & coaching | search | 0.90 |
-| Bangladesh | search | 1.00 |
-| coaching classes and centers | search | 0.90 |
-| Bangladesh | search | 1.00 |
-| ['Training Pundit', 'ENSDI - ইন্সডি (training & consultancy)'] | search | 0.95 |
-| online coaching | search | 0.90 |
-| Bangladesh | search | 1.00 |
-| 2026 | search | 0.90 |
-| 4654 | search | 0.95 |
-| 2026-04 | search | 0.90 |
+| Rambs Academic Care | search | 1.00 |
+| Motijheel, Dhaka | search | 1.00 |
+| +880 185 614 44 47 | search | 1.00 |
+| educational center | search | 1.00 |
+| Online Hindi Classes | search | 0.95 |
+| CBSE/ICSE coaching, Spoken Hindi | search | 0.95 |
+| Bangladesh | search | 0.95 |
+| flexible timing, free demo class | search | 0.90 |
+| Ovijattrik Coaching Center | search | 0.95 |
+| education-training | search | 0.95 |
+| LinkedIn | search | 0.95 |
+| Easy Coaching Center (E.C.C) | search | 0.95 |
+| Jaleshwaritola, Bogra, Bangladesh | search | 0.95 |
+| WordPress | search | 0.95 |

@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-07-11
 freshness: fresh
-confidence: 0.722
-evidence_ids: ['1b8c651e-451', '64611fae-6f2', 'e3ac43bf-395', 'f6ceac85-9ff', 'fd8789de-6a4', 'a0369c87-b81', '969fc10c-19c', 'c8e76037-f5e', '1ed5a7ba-6fe', '43fdf70e-34c', '808e19ae-eef', '8a063fa4-29e', 'd59816a2-c10', 'd2d7764c-efa', 'ec54df8d-61b', '890d5d11-f85', '648cd257-515', 'e4b8af7d-140', '5bac6af5-70b', '6f468ccf-fc0']
+confidence: 0.703
+evidence_ids: ['2af8f103-500', 'ed3592f5-0b6', '1c346ab4-965', '6d65b7c4-0ac', '6aaff7b8-f4e', '1de8d057-915', '5e603f17-e05', '6d3adcb5-cea', 'a71553a0-fde', 'de220c1e-0b5', 'a5ef88d9-dd5', '763096d0-8cf', '89789dd2-631', '70e2b370-199', '4936bc00-b1d', 'a45f5e1c-a64', 'fc384d4b-628', 'f58bb63d-79c', '400a1f55-1cd', '6483ad64-540']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -169,22 +169,14 @@ evidence_ids: ['1b8c651e-451', '64611fae-6f2', 'e3ac43bf-395', 'f6ceac85-9ff', '
 
 
 
+
 ## Auto-Updated Data (2026-07-11)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Tyzo | search | 1.00 |
-| apparel | search | 0.90 |
-| modern Bangladeshi clothing brand | search | 0.90 |
-| stylish, comfortable, and affordable apparel | search | 0.90 |
-| Twelve Clothing | search | 1.00 |
-| menswear, womenswear, kidswear, panjabi, kurti, gowns, t-shirts, polos | search | 0.95 |
-| Bangladesh’s leading fashion brand | search | 0.90 |
-| 1490 | search | 1.00 |
+| 1490 | search | 0.95 |
 | 1490-2490 | search | 0.95 |
-| Zaina Vol 19 Pakistani Suit | search | 1.00 |
-| Womens Clothing | search | 1.00 |
+| Zaina Vol 19 Pakistani Suit | search | 0.95 |
 | 2026-07-01 | search | 0.90 |
-| Blueuma | search | 1.00 |
-| women’s clothing & fashion | search | 0.95 |
-| Cash on delivery | search | 0.90 |
+| Bangladesh's largest online fashion store offering clothes, dresses, shoes and m | search | 0.90 |
+| 88 | search | 0.90 |

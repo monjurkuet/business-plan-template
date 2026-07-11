@@ -112,6 +112,7 @@ freshness: fresh
 
 
 
+
 ## Recent Findings (2026-07-11)
 
-- **avenuesangma.com** (conf: 0.88): Jan 6, 2026 ·Discover the leading architecturefirmsinBangladesh. Explore the philosophy, sustainability, and iconic projects of thetop10 studios reshaping the nation.
+- **www.archilovers.com** (conf: 0.89): Founded in 2005, Marina Tabassum Architects (MTA) is an internationally recognisedarchitectureand studio-based practice located inDhaka, Bangladesh.
