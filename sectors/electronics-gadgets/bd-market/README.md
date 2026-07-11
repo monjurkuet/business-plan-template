@@ -1,9 +1,9 @@
 ---
 sector: electronics-gadgets
-last_verified: 2026-07-11
+last_verified: 2026-07-12
 freshness: fresh
-confidence: 0.707
-evidence_ids: ['b0b2f64c-e52', '8405be52-e55', '7c0a98c7-2a8', 'd3c7281d-650', 'db672c49-5bd', 'bd42f22c-c9a', '404ba00d-1f0', 'bacb93d9-f98', '18059ebd-6d9', 'b35968a9-e21', '597ccf84-e80', '4e3ce900-fea', '3d1cd0ce-7b0', '2fbda27e-6ee', '9fcfa323-41c', 'c77c9a2b-2b2', '151fdad4-e67', '24d0a77f-e87', '7d1942d8-e21', 'a2bb8f87-641']
+confidence: 0.708
+evidence_ids: ['f4e869e7-3dd', '721c20c8-348', 'e10385ef-a1b', '95eeaef0-e7a', 'd35d4c7b-a11', '6815d81f-d02', '7f81676e-b31', 'e866ba1e-b97', '61f0c3b8-595', 'fac8b9ba-8aa', 'ac88baa4-c58', '970f5677-922', '7a1e885b-084', '35565000-168', '7e99710f-2d4', '4accda0b-be7', 'f182841f-3c1', 'b24ee09a-4c2', '5e9b7496-b77', 'c730e999-11e']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -158,18 +158,20 @@ evidence_ids: ['b0b2f64c-e52', '8405be52-e55', '7c0a98c7-2a8', 'd3c7281d-650', '
 
 
 
-## Auto-Updated Data (2026-07-11)
+
+## Auto-Updated Data (2026-07-12)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
+| ElectronicsBangladesh | search | 0.95 |
 | competitive prices on all products | search | 0.90 |
-| electronics | search | 1.00 |
-| electronicsbangladesh.com | search | 1.00 |
+| electronics | search | 0.95 |
+| Bangladesh | search | 1.00 |
 | Gadgets & Premium Accessories | search | 0.90 |
 | best prices | search | 0.80 |
-| Free Shipping | search | 0.90 |
-| best prices, offers, and discounts on electronics | search | 0.80 |
-| 15.00 | search | 0.90 |
-| BRANDS MEGA LTD | search | 0.90 |
-| Navana Tower (Level-18) 45 Gulshan Avenue, Gulshan-1 Dhaka -1212, Bangladesh | search | 0.90 |
-| custom project discussion including price and timeline | search | 0.80 |
+| Free Shipping | search | 0.95 |
+| best prices, offers, and discounts on electronics | search | 0.90 |
+| 15.00 | search | 0.95 |
+| BRANDS MEGA LTD | search | 0.95 |
+| Navana Tower (Level-18) 45 Gulshan Avenue, Gulshan-1 Dhaka -1212, Bangladesh | search | 0.95 |
+| custom project discussion (price, timeline, needs) | search | 0.90 |

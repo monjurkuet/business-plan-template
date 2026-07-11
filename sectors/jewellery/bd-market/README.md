@@ -1,9 +1,9 @@
 ---
 sector: jewellery
-last_verified: 2026-07-11
+last_verified: 2026-07-12
 freshness: fresh
-confidence: 0.705
-evidence_ids: ['6810ca87-e60', '337337af-ed7', '98b6295b-d61', 'cc935867-108', 'ffd607e7-ce3', '6c612f22-08b', '5380fcf8-73c', 'c3ed2221-d92', '08dd5c90-025', 'e70dd4e5-81a', 'a321e885-76d', '02037258-115', 'fbbd60b8-2a0', '752c9961-069', 'f5d80dc8-9f9', '5a0aea31-162', 'ccbd242c-803', 'aabfcbde-a68', '4df28b0d-ba6', 'e979c18b-2bc']
+confidence: 0.722
+evidence_ids: ['ff7486bb-8cd', 'ff0f71b5-67a', 'abd5c054-c96', '338d1f48-c13', '2d92bcf0-30c', 'c449004a-f6c', '5c71960c-150', '2fcaf08c-b32', '7285b6ce-921', '87ecd8b8-622', '378941fd-628', '19efcfd2-817', '9a51f98f-2ae', '70a1025d-faa', '46678253-eb9', '0ebac2c5-9fc', '0cab64bb-9da', 'bf0e128c-43e', 'fec057ab-f6c', '62e8d315-718']
 ---
 
 # Jewellery — Bangladesh Market
@@ -145,15 +145,23 @@ evidence_ids: ['6810ca87-e60', '337337af-ed7', '98b6295b-d61', 'cc935867-108', '
 
 
 
-## Auto-Updated Data (2026-07-11)
+
+## Auto-Updated Data (2026-07-12)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 377 | search | 0.90 |
-| jhumka earrings | search | 0.95 |
-| Bangladesh jewellery style | search | 0.90 |
-| 32 | search | 0.80 |
-| Tanishq launched in Bangladesh | search | 1.00 |
-| Rhythm Group | search | 1.00 |
-| Narayanganj | search | 1.00 |
-| Titan Company | search | 1.00 |
+| 200-3000 | search | 1.00 |
+| fashion jewellery | search | 1.00 |
+| All gold jewellers in Bangladesh, including Al-Amin Jewellers, Amin Jewellers, a | search | 1.00 |
+| gold jewellery (e.g., churi, chain, gold bracelet) | search | 1.00 |
+| Diamond World Limited | search | 1.00 |
+| Most trusted gold and diamond shop in Bangladesh; best online jewellery shop in  | search | 1.00 |
+| Affordable price | search | 0.90 |
+| 225290 | search | 1.00 |
+| ['22K', '21K', '18K'] | search | 1.00 |
+| BAJUS (Bangladesh Jewellers Association) | search | 1.00 |
+| 2026-07-11 | search | 0.80 |
+| Al-Amin Jewellers | search | 1.00 |
+| jewellery | search | 1.00 |
+| pioneer in online jewellery shop in Bangladesh | search | 1.00 |
+| best price when buying gold from customers | search | 0.90 |

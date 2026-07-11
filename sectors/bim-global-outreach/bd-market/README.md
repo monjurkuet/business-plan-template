@@ -1,9 +1,9 @@
 ---
 sector: bim-global-outreach
-last_verified: 2026-07-11
+last_verified: 2026-07-12
 freshness: fresh
-confidence: 0.766
-evidence_ids: ['e151eef2-245', '8bd830b9-4b8', 'a64eb0e8-5ea', '84cee8a5-3d2', 'e8f84200-ad1', '1cf7dc85-247', 'fa3beb18-459', '057cedc6-8f0', '6bc2bd28-884', 'a7b1b5a0-398', '6333500e-6e2', '1b65904b-2ec', '09b47c19-679', '1df2bbca-181', 'cfe21e80-499', '88369061-d5a', '7d9ef7ea-80e', '317546c3-cad', '46056bbb-8c1', 'c404eb97-297']
+confidence: 0.753
+evidence_ids: ['fef50813-7be', '45213fac-45e', 'd36d42c7-c82', 'f71bdade-3c4', '4c4b9284-24f', '45ebc941-e6b', '81fd6f01-e0b', 'b14ed8de-90f', '9338f90f-59f', '43bfef55-481', '1afdb5ce-665', 'b9ca8941-93f', '130c9736-494', '9bc8a07e-e2e', '291e2361-cac', '644b7b6f-345', '563ac0d4-3e9', '4f08c461-473', 'aed003f0-4e1', 'e63cd80e-af9']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -173,22 +173,23 @@ evidence_ids: ['e151eef2-245', '8bd830b9-4b8', 'a64eb0e8-5ea', '84cee8a5-3d2', '
 
 
 
-## Auto-Updated Data (2026-07-11)
+
+## Auto-Updated Data (2026-07-12)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| interior design | search | 0.90 |
-| Dhaka, Bangladesh | search | 0.95 |
-| firm | search | 0.90 |
-| Globats | search | 1.00 |
-| systems architecture | search | 0.95 |
+| 2025-11-29 | search | 1.00 |
+| architecture | search | 1.00 |
 | Bangladesh | search | 1.00 |
-| building automation-first business ecosystems | search | 0.90 |
-| firm | search | 0.95 |
-| NBBJ | search | 1.00 |
-| architecture and design | search | 0.95 |
-| TIME's Most Influential Companies List (only architecture firm) | search | 0.90 |
-| Fast Company's World’s Most Innovative Architecture Firms (fifth time) | search | 0.90 |
-| firm | search | 0.95 |
-| EYRC Architects | search | 1.00 |
-| modern residential and commercial architecture | search | 0.95 |
+| 2025-10-08 | search | 1.00 |
+| architecture | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| RAJUK-registered | search | 1.00 |
+| Dhaka | search | 1.00 |
+| sustainable architecture | search | 1.00 |
+| 2026-05-13 | search | 1.00 |
+| architecture | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| ['Dhaka', 'Khulna', 'Chattogram'] | search | 1.00 |
+| BNBC-2020 | search | 1.00 |
+| transparent pricing | search | 1.00 |

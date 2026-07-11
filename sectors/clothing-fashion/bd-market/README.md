@@ -1,9 +1,9 @@
 ---
 sector: clothing-fashion
-last_verified: 2026-07-11
+last_verified: 2026-07-12
 freshness: fresh
-confidence: 0.703
-evidence_ids: ['2af8f103-500', 'ed3592f5-0b6', '1c346ab4-965', '6d65b7c4-0ac', '6aaff7b8-f4e', '1de8d057-915', '5e603f17-e05', '6d3adcb5-cea', 'a71553a0-fde', 'de220c1e-0b5', 'a5ef88d9-dd5', '763096d0-8cf', '89789dd2-631', '70e2b370-199', '4936bc00-b1d', 'a45f5e1c-a64', 'fc384d4b-628', 'f58bb63d-79c', '400a1f55-1cd', '6483ad64-540']
+confidence: 0.726
+evidence_ids: ['2745f862-621', '37a29d88-137', 'ed172d7e-a8b', '79dc719f-963', '1e56084f-655', '7b563e85-ccd', '66c317f3-089', 'f61369ad-5a4', '46f987ae-6f1', '8a8330ce-c02', 'bac7251e-cea', 'c88faa87-e75', 'ee421c36-1e8', '500f4f8d-e58', '6360aef2-941', 'd684d6b8-763', '980ca612-f03', '1d62281a-673', 'fdbb9163-e7a', 'aa87763b-9a7']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -170,13 +170,23 @@ evidence_ids: ['2af8f103-500', 'ed3592f5-0b6', '1c346ab4-965', '6d65b7c4-0ac', '
 
 
 
-## Auto-Updated Data (2026-07-11)
+
+## Auto-Updated Data (2026-07-12)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 1490 | search | 0.95 |
-| 1490-2490 | search | 0.95 |
-| Zaina Vol 19 Pakistani Suit | search | 0.95 |
-| 2026-07-01 | search | 0.90 |
-| Bangladesh's largest online fashion store offering clothes, dresses, shoes and m | search | 0.90 |
-| 88 | search | 0.90 |
+| 300 COTTON TERRY CLOTH CLEANING RAGS / SHOP TOWELS / 12X12- 25 DOZ. / WHOLESALE | search | 0.90 |
+| 3.5 | search | 0.95 |
+| Bangladesh | search | 1.00 |
+| RD style women black dress warm size M Knitted | search | 0.90 |
+| dress clothing, Korean cosmetics, bags, aesthetic accessories | search | 0.90 |
+| Bangladesh | search | 1.00 |
+| baggy pants, casual wear for boys, comfortable daily wear, premium quality fabri | search | 0.90 |
+| affordable | search | 0.80 |
+| all over Bangladesh | search | 0.95 |
+| ['best match', 'price', 'free shipping', 'fast delivery', 'free return'] | search | 0.90 |
+| ['t-shirts', 'polo shirts', 'casual shirts', 'summer wear'] | search | 0.95 |
+| across Bangladesh | search | 0.95 |
+| 88 | search | 0.95 |
+| fell over the past month | search | 0.90 |
+| 2026-06 | search | 0.80 |

@@ -1,9 +1,9 @@
 ---
 sector: construction-real-estate
-last_verified: 2026-07-11
+last_verified: 2026-07-12
 freshness: fresh
-confidence: 0.717
-evidence_ids: ['c28c7eef-1e4', 'd5f859b1-f5f', '655a552a-f01', 'db24aa8e-e8b', '487ba237-5a4', '36812203-a5a', 'b68bba94-f3b', '7bb2d992-57e', '302f4c8c-82f', 'e9629a39-96e', '8e77b939-638', '1bb96f75-0f7', '789c2a6a-b11', '0ee83fa5-7f4', 'd722c1f6-dd4', '0d04e563-c01', '41a40276-145', 'fa1ab1e2-d77', '8b8d77a6-994', '79662295-420']
+confidence: 0.735
+evidence_ids: ['bd44e07d-a7d', '1f1f94ad-835', '519eed75-e05', '26f29a6e-bf8', '8cc8f5fd-a77', '99daeaa4-cd7', '1e65f588-198', 'becae498-ec0', '6dbabbcc-b76', '490cd2cc-6d5', '9fad97a0-c01', 'f731d08b-4b7', 'b76bb231-30f', 'c644d566-daf', 'ad963a98-7da', 'f8af0250-40d', '7b574648-d2d', '955c4062-8ea', 'cb89a194-979', '4cfec869-af4']
 ---
 
 # Construction & Real Estate — Bangladesh Market
@@ -59,22 +59,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
-## Auto-Updated Data (2026-07-11)
+
+## Auto-Updated Data (2026-07-12)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 65 | search | 0.90 |
-| ALM Steel Building Technology Ltd. | search | 1.00 |
-| ALM Tensile Membrane Structure Limited | search | 1.00 |
-| Akij Cement Company Ltd. | search | 1.00 |
-| Anwar Landmark Ltd. | search | 1.00 |
-| CHB Engineering Ltd. | search | 1.00 |
-| Alibaba Construction Ltd. | search | 1.00 |
-| Bashundhara Group | search | 1.00 |
-| LafargeHolcim Bangladesh Limited | search | 1.00 |
-| Confidence Cement Ltd | search | 1.00 |
-| Premier Cement Mills Ltd | search | 1.00 |
-| HeidelbergCement Bangladesh Limited | search | 1.00 |
-| akbarsha | search | 0.80 |
-| Firozshah, Chittagong Sadar, Chittagong | search | 0.90 |
-| Perfect Solution | search | 0.90 |
+| construction-real-estate | search | 1.00 |
+| ['CHB Engineering Ltd.', 'Alibaba Construction Ltd.'] | search | 0.95 |
+| Top 22 Building Material Suppliers in Bangladesh (2026) | search | 1.00 |
+| Bashundhara Cement | search | 1.00 |
+| construction-real-estate | search | 1.00 |
+| Top Cement Companies in Bangladesh 2026 | search | 1.00 |
+| ['high strength', 'advanced manufacturing technology', 'proven role in major inf | search | 0.95 |
+| 2026-04-30 | search | 0.90 |
+| RFL | search | 1.00 |
+| largest building materials supplier | search | 0.95 |
+| building materials | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| Beximco | search | 1.00 |
+| private | search | 0.95 |
+| A S F Rahman | search | 0.95 |

@@ -1,9 +1,9 @@
 ---
 sector: healthcare-pharma
-last_verified: 2026-07-11
+last_verified: 2026-07-12
 freshness: fresh
-confidence: 0.713
-evidence_ids: ['5f4fab6c-4eb', 'daace335-b3f', '97fee8ad-6d0', '5d88b0cd-c20', 'e79c908d-025', '3d35acb3-ece', '9a12d4c4-eca', 'b4477c0d-9d4', '56ff7b98-6c9', '4bec25d4-f6c', '4675b718-da2', 'cbd89c2e-a63', '1e86aa28-089', 'cd90cb7f-879', '73bd4abf-9f0', '1c74f2c2-79f', '93699372-310', 'd6ac1678-a11', 'bdc735d6-56e', '929b091c-025']
+confidence: 0.698
+evidence_ids: ['6f687b6c-ca2', 'eb01a59e-907', '25e08504-2a8', '4bb43c4e-1f7', 'd2c429c1-b80', '2ef54822-2aa', '85286845-4b1', 'f1828eb0-e3f', 'ed40d033-0e2', 'e600e3cc-401', '37297764-ef8', '47a51494-fd5', '6d290063-d5f', 'a8172677-fa5', '4bf1991a-63b', '4657b039-e8c', '3f444c7e-a97', '66e08a68-1b5', 'ec07592b-083', 'd17d51ae-37a']
 ---
 
 # Healthcare & Pharma — Bangladesh Market
@@ -58,22 +58,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
-## Auto-Updated Data (2026-07-11)
+
+## Auto-Updated Data (2026-07-12)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
 | MedisafePharmacy | search | 0.95 |
 | ['Medical device', 'Natural medicine', 'Allopathic medicine'] | search | 0.90 |
-| supplier_company | search | 0.90 |
-| Pharmacy | search | 0.95 |
-| List of Pharmacy in Bangladesh with Phone numbers, Locations, Reviews, Photos | search | 0.90 |
-| AminPharmacy | search | 1.00 |
-| Astoria | search | 0.90 |
-| pharmacy | search | 1.00 |
-| ['prescription medicine', 'OTC medicine'] | search | 1.00 |
-| most insurances accepted | search | 0.90 |
-| MadinaPharmacy | search | 1.00 |
-| pharmacy | search | 1.00 |
-| WellbeingPharmacy | search | 1.00 |
-| community-based pharmacy | search | 1.00 |
-| ['compounding', 'consulting', 'checking prescription medications', 'delivering p | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| Pharmacy | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| MonaPharmacy | search | 0.95 |
+| Pharmacy | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| community-based pharmacy | search | 0.95 |
+| ['compounding', 'consulting', 'prescription medication delivery'] | search | 0.95 |
+| Wellbeing Pharmacy | search | 1.00 |
+| healthcare-pharma | search | 1.00 |
+| Tani Pharmacy | search | 1.00 |
+| Mymensingh, Bangladesh | search | 1.00 |
+| ['personalized services', 'local delivery'] | search | 0.95 |

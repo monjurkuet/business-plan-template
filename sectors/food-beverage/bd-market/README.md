@@ -1,9 +1,9 @@
 ---
 sector: food-beverage
-last_verified: 2026-07-11
+last_verified: 2026-07-12
 freshness: fresh
-confidence: 0.7
-evidence_ids: ['1d49fa80-b55', 'c99f53cb-7ef', '4c24d572-40e', 'fd911407-43b', 'a8e064fc-494', 'bcb0b81f-c5a', '39f1f701-9e6', '045054b3-423', 'a084baab-b1a', 'fe319c10-69a', '80be1fd6-204', 'c83975d7-faa', 'b87822db-8ba', '8e7c4ec9-2af', 'a3463ca8-78d', '5f7858df-a9c', 'b77be3e2-27d', '7f98793b-472', 'd4cdbea9-761', '7813772e-5c0']
+confidence: 0.708
+evidence_ids: ['47e52849-a48', 'b7fbcf98-1a2', 'f0a4b641-9e5', 'd5a276db-46c', '12bf4928-b1c', '067a61b6-149', 'd7cc7e20-722', 'fe5fc94e-60b', 'b512689a-b30', 'b2a155d6-431', '258e21fd-504', '8df88fde-cd4', '56938956-5e1', 'b9283fad-2b1', '031d6899-e36', 'b05b4506-391', '098a0cfe-e88', 'ffe1de42-f4d', '571d4b85-4b5', 'd78caaec-093']
 ---
 
 # Food & Beverage — Bangladesh Market
@@ -58,22 +58,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
-## Auto-Updated Data (2026-07-11)
+
+## Auto-Updated Data (2026-07-12)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Best Rooftop Restaurant in Bangladesh | search | 0.80 |
-| 20 minutes from downtown Montreal | search | 0.70 |
-| stunning views and delicious cuisine | search | 0.80 |
-| Delhi Belly Restaurant | search | 0.80 |
-| Bangladeshi Food | search | 0.90 |
-| Bangladesh Tandoori Restaurant | search | 1.00 |
-| Campbeltown | search | 1.00 |
-| 4.1 | search | 1.00 |
-| #9 | search | 1.00 |
-| 86 | search | 1.00 |
-| Bangladesh Restaurant | search | 1.00 |
-| Pretoria West, South Africa | search | 1.00 |
-| 118 Luttig St | search | 1.00 |
-| Bangladeshi | search | 1.00 |
-| Food Photography | search | 1.00 |
+| Best Rooftop Restaurant in Bangladesh | search | 0.90 |
+| 20 minutes from downtown Montreal | search | 0.80 |
+| stunning views and delicious cuisine | search | 0.90 |
+| Famous Biryani Restaurant In Bangladesh | search | 0.80 |
+| Delhi Belly Restaurant | search | 0.70 |
+| Top Bangladeshi Food for an Authentic Experience | search | 0.90 |
+| Bangladesh Tandoori Restaurant | search | 0.95 |
+| Campbeltown | search | 0.95 |
+| 4.1 | search | 0.95 |
+| 10 | search | 0.95 |
+| ['Indian', 'Asian', 'Bangladeshi'] | search | 0.95 |
+| Bangladesh Restaurant | search | 0.95 |
+| Pretoria West, South Africa, 118 Luttig St | search | 0.95 |
+| Bangladeshi | search | 0.95 |
+| casual eatery | search | 0.90 |
