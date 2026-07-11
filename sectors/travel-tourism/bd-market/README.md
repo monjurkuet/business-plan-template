@@ -2,8 +2,8 @@
 sector: travel-tourism
 last_verified: 2026-07-11
 freshness: fresh
-confidence: 0.693
-evidence_ids: ['912b496c-c4c', '3396260e-eb5', '6e60056a-545', '6e391bbc-9cb', '2869138c-a69', 'dcbf0c63-29e', '990940e6-146', '0130ae6e-7c8', '18345525-7a4', '6c78b820-737', '7d8d5e20-e20', 'c6ced7e1-10f', 'b226b1f4-885', 'dd775f1b-cef', '5ca4c209-ff2', '15d23812-9f2', '110ba9ae-9f1', 'e314195f-0de', '3b2fc84c-4a1', 'fa43acd7-126']
+confidence: 0.699
+evidence_ids: ['7f55523b-919', 'a6190410-929', '25ba8c7a-ae8', '1f650162-bbb', 'be71c5f4-059', 'e9f3fd8d-6c3', '96928e8b-4e7', '1bf1b413-a47', '4c9eff31-664', '50e5984a-7dd', '444e7234-e06', '70f96324-3c8', '11553354-02d', 'efd90f65-230', '24baf6df-d01', 'e047b959-262', 'ea154d7d-a2b', '6e32595b-068', '411eddd5-b43', 'f157cb01-030']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -131,20 +131,17 @@ evidence_ids: ['912b496c-c4c', '3396260e-eb5', '6e60056a-545', '6e391bbc-9cb', '
 
 
 
+
 ## Auto-Updated Data (2026-07-11)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Eammu Holidays | search | 1.00 |
-| #1 | search | 0.95 |
-| ['tourist visas', 'student visas', 'work visas', 'Umrah packages 2026', 'interna | search | 0.95 |
-| ['Dubai', 'Georgia', 'Armenia', 'Europe'] | search | 0.95 |
-| TravelAgencyBangladesh | search | 1.00 |
-| ['affordable tour packages', 'air tickets', 'visa support'] | search | 0.95 |
-| affordable | search | 0.90 |
-| BangladeshTravelAgency | search | 1.00 |
-| ['tour packages', 'travel packages'] | search | 0.95 |
-| affordable | search | 0.90 |
-| online travel agency | search | 0.95 |
+| Bangladesh's #1 travel agency | search | 0.95 |
+| ['tourist visas', 'student visas', 'work visas', 'Umrah packages 2026', 'interna | search | 0.90 |
+| ['Dubai', 'Georgia', 'Armenia', 'Europe'] | search | 0.90 |
+| affordable tour packages, air tickets, and visa support with trusted travel serv | search | 0.90 |
+| amazing tour and travel packages at affordable price | search | 0.90 |
+| online travel agency platform for planning and booking adventures | search | 0.90 |
+| 2026-06-13T10:13:00 | search | 0.90 |
 | Dhaka District, Dhaka | search | 0.95 |
-| 2026-06-13 | search | 0.90 |
+| price caps | search | 0.80 |

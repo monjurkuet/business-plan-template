@@ -3,7 +3,7 @@ sector: jewellery
 last_verified: 2026-07-11
 freshness: fresh
 confidence: 0.72
-evidence_ids: ['915a3bec-cf8', '3e0d1185-a38', '371fdac4-13f', 'b526495f-a91', 'fb878735-444', 'cec9fa93-3b3', 'e01a214b-6dc', 'baf10c70-71a', 'd1a693cb-5d0', 'a2a6daf9-dc1', '1d5457ca-d73', 'eb0d9cc2-13f', '03a2e439-c27', 'a3f048c2-17f', '777e3e63-15a', '99f6db2c-372', '3abe6611-98a', '0b853a7b-71a', '561be8a7-187', '5c1e1f9f-3aa']
+evidence_ids: ['34100a67-519', '26283c4c-86b', '79497959-1e0', '8939d75a-26a', '3da207ec-743', '455ba07e-735', '9cbc2064-d1c', '43efaa6a-9da', 'db92280b-61e', '67a56c18-25b', '8b9b9e29-7bb', '1d117501-c84', '3b025a9c-636', 'de513945-421', 'f1a7aa41-3a6', '4bad8fd5-4ec', '09ccc132-307', '273f58a8-9a7', '6f7d5d88-75f', 'd99f2a40-0a4']
 ---
 
 # Jewellery — Bangladesh Market
@@ -143,19 +143,23 @@ evidence_ids: ['915a3bec-cf8', '3e0d1185-a38', '371fdac4-13f', 'b526495f-a91', '
 
 
 
+
 ## Auto-Updated Data (2026-07-11)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 200-3000 | search | 1.00 |
-| Fashion Jewellery | search | 1.00 |
-| Gold | search | 1.00 |
-| ['churi', 'chain', 'gold bracelet'] | search | 1.00 |
-| True | search | 1.00 |
-| Diamond World Limited is the most trusted gold and diamond shop in Bangladesh. I | search | 0.90 |
-| Buy jewellery at an affordable price | search | 0.80 |
+| 200 to 3000 | search | 1.00 |
+| fashion jewellery | search | 1.00 |
+| daily and festive wear | search | 0.95 |
+| gold jewellery | search | 1.00 |
+| price changes impact all gold jewellers in Bangladesh | search | 0.95 |
+| ['churi', 'chain', 'gold bracelet'] | search | 0.95 |
+| 1 day ago | search | 0.90 |
 | 225290 | search | 1.00 |
-| Official BAJUS rates for 22K, 21K, 18K gold | search | 0.90 |
-| 2026-07-11 | search | 0.80 |
-| Al Amin Jewellers is the pioneer in online Jewellery Shop in Bangladesh because  | search | 0.90 |
-| Al Amin Jewellers ensure the best price when buying gold from customers that no  | search | 0.90 |
+| ['22K', '21K', '18K'] | search | 1.00 |
+| BAJUS | search | 1.00 |
+| 2026-07-11 | search | 0.90 |
+| Diamond World Limited | search | 1.00 |
+| online_jewellery_shop | search | 1.00 |
+| ['gold', 'diamond'] | search | 1.00 |
+| affordable | search | 0.80 |

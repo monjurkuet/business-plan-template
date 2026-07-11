@@ -2,8 +2,8 @@
 sector: electronics-gadgets
 last_verified: 2026-07-11
 freshness: fresh
-confidence: 0.709
-evidence_ids: ['f7bbe727-f3e', '2c844af0-572', 'c2b1535b-fea', '8cd0e200-a81', 'a779fe0e-034', 'f26456fc-526', 'b5d3f054-af3', '53ea45d2-63f', 'bcddd268-581', '5194cb44-c02', '6e2e9ce6-de4', '4010a48a-8eb', 'b94b6808-8b7', '6b45ca8a-9e5', 'b41ceb4d-930', 'f78537b3-0e7', '5ef4db80-064', 'f26805f5-e3f', 'fd5487d7-797', 'b07071a5-c78']
+confidence: 0.714
+evidence_ids: ['ca52a659-350', 'b144b35a-4ef', 'a8d69106-fe8', '21fbb961-9de', 'f67b1d14-a9a', '316153da-df7', '2bf3c5e0-890', '89df0209-a71', '4d0947a6-670', 'd28a31c2-1b8', 'e4d81f8e-5f2', 'f079d8ac-894', 'd189eaba-27f', 'c043de23-2f8', '61dbd7f0-d93', '7aa5ad76-8ca', 'b1dc9351-632', '5eaf2e84-389', 'a4e644cb-35a', '43e8784c-8f5']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -156,19 +156,22 @@ evidence_ids: ['f7bbe727-f3e', '2c844af0-572', 'c2b1535b-fea', '8cd0e200-a81', '
 
 
 
+
 ## Auto-Updated Data (2026-07-11)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| competitive prices on all products | search | 0.90 |
-| 0৳ - 0৳ | search | 0.50 |
-| 1 in stock, 1 on discount | search | 0.80 |
-| 2026-02-06 | search | 0.90 |
-| 01719117333 | search | 0.95 |
-| 100% Authentic & Quality Products as an Authorized Shop | search | 0.90 |
-| best prices | search | 0.80 |
-| Free Shipping | search | 0.90 |
-| best prices, offers, and discounts on electronics | search | 0.90 |
-| 15.00 | search | 0.70 |
-| BRANDS MEGA LTD | search | 0.95 |
-| Navana Tower (Level-18) 45 Gulshan Avenue, Gulshan-1 Dhaka -1212, Bangladesh | search | 0.95 |
+| ['ACs', 'refrigerators', 'washing machines', 'smart TVs', 'ovens'] | search | 0.95 |
+| ['official warranty', 'EMI facilities', 'fast home delivery'] | search | 0.95 |
+| unbeatable prices | search | 0.90 |
+| authorized multi-brand electronics retailer | search | 0.95 |
+| ['official warranty', '0% EMI', '16 superstores nationwide'] | search | 0.95 |
+| one of the highest rated and most trusted consumer electronics online shopping p | search | 0.95 |
+| premium quality products | search | 0.95 |
+| ['seamless online shopping experience', 'purchase Original Electronic Appliances | search | 0.95 |
+| all kinds of electronic and electrical products | search | 0.95 |
+| ['ACs', 'refrigerators', 'washing machines', 'smart TVs', 'ovens'] | search | 0.95 |
+| ['official warranty', 'EMI facilities', 'fast home delivery'] | search | 0.95 |
+| unbeatable prices | search | 0.90 |
+| may go up | search | 0.80 |
+| ['electronics', 'fruits', 'vegetables', 'vehicles', 'crude oil', 'toys'] | search | 0.90 |

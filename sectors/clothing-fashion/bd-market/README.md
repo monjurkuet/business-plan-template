@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-07-11
 freshness: fresh
-confidence: 0.705
-evidence_ids: ['e7bef956-0d1', '25e9a415-90d', '69b90be9-114', '6390ca66-794', 'bd579418-77d', '0d5e1ed7-870', '58339a5b-474', '59017406-54c', 'a5ca7af0-cb8', 'd1458ba4-044', 'e40510cc-b8f', '67c52241-b91', '74dbbe7e-4f2', 'a2a67033-62f', '62ecf936-a18', '39be942b-bee', '9d19727c-ddd', '0e04d805-539', '629db8cb-e8f', 'fb676c40-f1f']
+confidence: 0.722
+evidence_ids: ['1b8c651e-451', '64611fae-6f2', 'e3ac43bf-395', 'f6ceac85-9ff', 'fd8789de-6a4', 'a0369c87-b81', '969fc10c-19c', 'c8e76037-f5e', '1ed5a7ba-6fe', '43fdf70e-34c', '808e19ae-eef', '8a063fa4-29e', 'd59816a2-c10', 'd2d7764c-efa', 'ec54df8d-61b', '890d5d11-f85', '648cd257-515', 'e4b8af7d-140', '5bac6af5-70b', '6f468ccf-fc0']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -168,20 +168,23 @@ evidence_ids: ['e7bef956-0d1', '25e9a415-90d', '69b90be9-114', '6390ca66-794', '
 
 
 
+
 ## Auto-Updated Data (2026-07-11)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 300 COTTON TERRY CLOTH CLEANING RAGS / SHOP TOWELS / 12X12- 25 DOZ. / WHOLESALE | search | 0.95 |
-| 3.5 | search | 0.95 |
-| 3 | search | 0.95 |
-| RD style women black dress warm size M Knitted Made In Bangladesh | search | 0.90 |
 | Tyzo | search | 1.00 |
-| modern Bangladeshi clothing brand | search | 0.95 |
+| apparel | search | 0.90 |
+| modern Bangladeshi clothing brand | search | 0.90 |
 | stylish, comfortable, and affordable apparel | search | 0.90 |
-| ['fast delivery', 'reliable service'] | search | 0.90 |
-| Bangladesh | search | 0.95 |
+| Twelve Clothing | search | 1.00 |
+| menswear, womenswear, kidswear, panjabi, kurti, gowns, t-shirts, polos | search | 0.95 |
+| Bangladesh’s leading fashion brand | search | 0.90 |
 | 1490 | search | 1.00 |
 | 1490-2490 | search | 0.95 |
 | Zaina Vol 19 Pakistani Suit | search | 1.00 |
-| 2026-07-01 | search | 1.00 |
+| Womens Clothing | search | 1.00 |
+| 2026-07-01 | search | 0.90 |
+| Blueuma | search | 1.00 |
+| women’s clothing & fashion | search | 0.95 |
+| Cash on delivery | search | 0.90 |

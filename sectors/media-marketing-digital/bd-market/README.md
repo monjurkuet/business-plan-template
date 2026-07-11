@@ -3,7 +3,7 @@ sector: media-marketing-digital
 last_verified: 2026-07-11
 freshness: fresh
 confidence: 0.706
-evidence_ids: ['7909d4bb-0f3', '5cc3c205-95d', 'e8e295e0-e68', '656a348f-80a', '13e93b94-520', 'fe211884-f03', 'fcd84ebc-797', '9b03cc27-b4c', 'b31dcaf7-1d1', '40256c37-2e0', 'f76fecf9-e5c', '468b2083-c08', '4c7aad71-b0d', '24de4feb-5a1', 'cffa913d-459', '0d14781c-810', '4a31f0e7-f1d', 'ea8676bb-5ec', '8b5a934b-092', 'a992dc20-96b']
+evidence_ids: ['625ddff9-976', '551dd7a0-dee', '4eee4454-c11', '3bdda488-e56', '0ea3447e-f8f', 'eb550459-609', '4e5f4685-4b8', 'be50b776-614', 'a126a481-e78', '03daf4b1-d3e', '987b7310-6e7', 'bc3512d4-e16', '0c6448c0-dd8', 'c4d8c980-2a4', '2fbc12f6-275', 'fc14e3cc-b39', '04b56d2e-fa6', '5395aa05-0f2', '21d24774-ba0', '705b8808-9e9']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market
@@ -149,22 +149,16 @@ evidence_ids: ['7909d4bb-0f3', '5cc3c205-95d', 'e8e295e0-e68', '656a348f-80a', '
 
 
 
+
 ## Auto-Updated Data (2026-07-11)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| digital marketing | search | 0.95 |
-| startup entrepreneurs in Bangladesh | search | 0.95 |
-| top digital marketing companies in Bangladesh | search | 0.95 |
-| ['SEO', 'social media marketing', 'online branding', 'promotion', 'email marketi | search | 0.95 |
-| GoodFirms | search | 0.95 |
-| 2026 | search | 0.90 |
-| Bulk SMS, Email Marketing, Interactive Voice | search | 0.90 |
-| best price in digital marketing Bangladesh | search | 0.80 |
-| BDT | search | 0.95 |
-| bKash | search | 0.90 |
-| startups | search | 0.95 |
-| SEO, social media, Google Ads | search | 0.90 |
-| BDT | search | 0.95 |
-| SEO, PPC, social media, email, influencer marketing | search | 0.90 |
-| ['GEEKY SOCIAL LTD.', 'OneLittleWeb', 'BrandViser', 'MonsterClaw LLC', 'Ecomclip | search | 0.95 |
+| payment per use | search | 0.90 |
+| pay only for what you use | search | 0.95 |
+| 2026 | search | 0.95 |
+| actual cost of digital marketing in Bangladesh for 2026, service by service | search | 0.90 |
+| Pricing Heatmap by Country and Price tier | search | 0.90 |
+| digital marketing companies | search | 0.95 |
+| 207 | search | 0.95 |
+| Bangladesh-based IT companies started to export software around two decades ago, | search | 0.90 |

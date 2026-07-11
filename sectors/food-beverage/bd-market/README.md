@@ -2,8 +2,8 @@
 sector: food-beverage
 last_verified: 2026-07-11
 freshness: fresh
-confidence: 0.723
-evidence_ids: ['016b920a-b3d', 'bf4eb310-b30', '23f0c973-055', 'db2d22dc-134', 'bae2c87c-640', '15f977ce-05c', '3afb0175-623', '65bcdedd-198', '0e7b46ca-988', 'ea347db7-b92', 'e57baa8a-7b6', '8eb22671-d4f', 'e38abc90-c53', 'ecbb2de0-b33', '050baf41-125', 'c3f509c4-446', '9c1ae493-17d', 'a5a429fb-4cc', 'e682800d-673', '05415e8f-09d']
+confidence: 0.715
+evidence_ids: ['a4b0b3b6-9f4', 'a46a6021-d2b', 'd746179f-2db', 'b1e5a4e9-940', '94140875-5a3', 'e78c9f9d-17c', 'af0c12df-c25', 'fb542115-b0a', '929a2112-ed0', 'f79981b3-d1f', '76f1b97d-016', '1c4c7ad2-800', '759b3543-9d1', 'a7af2f1a-e78', '6388c757-993', '326e43dc-b50', 'cc2755ca-fd7', 'f3daedb8-22f', '54a5a6f1-cb2', '31230488-b0e']
 ---
 
 # Food & Beverage — Bangladesh Market
@@ -56,22 +56,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-11)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Bangladesh's premier restaurant discovery platform. Connecting food lovers with  | search | 0.90 |
-| 2020 | search | 0.90 |
-| 944 | search | 0.95 |
-| 31629 | search | 0.95 |
-| 2016-12-09 | search | 0.95 |
-| Tiffinbox Ltd. (subsidiary of Bangla Trac Group) | search | 0.95 |
-| quick-service restaurant (QSR) | search | 0.90 |
-| Expanding customer base and making pizzas more accessible | search | 0.90 |
-| Dhaka | search | 0.95 |
-| foreigners | search | 0.90 |
-| international, cheap buffet | search | 0.85 |
-| ['Dhaka', 'Uttara', 'Dhanmondi'] | search | 0.90 |
-| ['family restaurants', 'local restaurants', 'fine dining'] | search | 0.85 |
-| Bangladeshi | search | 0.80 |
-| Moharani Coffee House | search | 0.90 |
+| Best Rooftop Restaurant in Bangladesh | search | 0.90 |
+| Bangladesh | search | 0.95 |
+| rooftop | search | 0.90 |
+| stunning views and delicious cuisine | search | 0.85 |
+| Famous Biryani Restaurant In Bangladesh | search | 0.85 |
+| Delhi Belly Restaurant | search | 0.85 |
+| Bangladeshi | search | 0.90 |
+| 16 Top Bangladeshi Food for an Authentic Experience | search | 0.85 |
+| Bangladesh Tandoori Restaurant | search | 1.00 |
+| Campbeltown | search | 1.00 |
+| 4.1 | search | 1.00 |
+| 10 | search | 1.00 |
+| ['Indian', 'Asian', 'Bangladeshi'] | search | 1.00 |
+| Bangladesh Restaurant | search | 1.00 |
+| Pretoria West, South Africa | search | 1.00 |
