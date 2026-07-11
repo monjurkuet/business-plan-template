@@ -2,8 +2,8 @@
 sector: travel-tourism
 last_verified: 2026-07-11
 freshness: fresh
-confidence: 0.697
-evidence_ids: ['ff17c0c0-ac6', '469573ba-65c', '026594a2-751', '72ce7741-59d', '819e6d70-872', '60f9430d-5d1', 'd459b470-c77', '2fbf50e3-fcb', 'ba255953-946', 'e5da0ab2-e61', '34075208-0c1', '902da822-177', '66f64914-9a7', 'c728d7ea-d86', 'be6a4745-17a', '23e560c0-2d0', 'a5f98840-ad1', '026a6430-b83', '9cc16318-77d', '647a19fa-077']
+confidence: 0.693
+evidence_ids: ['912b496c-c4c', '3396260e-eb5', '6e60056a-545', '6e391bbc-9cb', '2869138c-a69', 'dcbf0c63-29e', '990940e6-146', '0130ae6e-7c8', '18345525-7a4', '6c78b820-737', '7d8d5e20-e20', 'c6ced7e1-10f', 'b226b1f4-885', 'dd775f1b-cef', '5ca4c209-ff2', '15d23812-9f2', '110ba9ae-9f1', 'e314195f-0de', '3b2fc84c-4a1', 'fa43acd7-126']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -130,19 +130,21 @@ evidence_ids: ['ff17c0c0-ac6', '469573ba-65c', '026594a2-751', '72ce7741-59d', '
 
 
 
+
 ## Auto-Updated Data (2026-07-11)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Umrah packages 2026 | search | 0.95 |
-| international flights | search | 0.95 |
-| holiday tours to Dubai, Georgia, Armenia & Europe | search | 0.95 |
-| tourist, student & work visas | search | 0.95 |
-| tour packages, air tickets, visa support | search | 0.90 |
-| affordable | search | 0.80 |
-| affordable | search | 0.80 |
-| tour and travel packages | search | 0.90 |
-| study abroad, visa services, air tickets | search | 0.90 |
-| cheap | search | 0.80 |
-| air ticketing, visa processing, customized tour packages | search | 0.95 |
-| ['Dream International', "Cox's Bazar Travels", 'Holiday International', 'Bengal  | search | 0.90 |
+| Eammu Holidays | search | 1.00 |
+| #1 | search | 0.95 |
+| ['tourist visas', 'student visas', 'work visas', 'Umrah packages 2026', 'interna | search | 0.95 |
+| ['Dubai', 'Georgia', 'Armenia', 'Europe'] | search | 0.95 |
+| TravelAgencyBangladesh | search | 1.00 |
+| ['affordable tour packages', 'air tickets', 'visa support'] | search | 0.95 |
+| affordable | search | 0.90 |
+| BangladeshTravelAgency | search | 1.00 |
+| ['tour packages', 'travel packages'] | search | 0.95 |
+| affordable | search | 0.90 |
+| online travel agency | search | 0.95 |
+| Dhaka District, Dhaka | search | 0.95 |
+| 2026-06-13 | search | 0.90 |

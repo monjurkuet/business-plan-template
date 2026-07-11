@@ -2,8 +2,8 @@
 sector: education-training
 last_verified: 2026-07-11
 freshness: fresh
-confidence: 0.68
-evidence_ids: ['27a82c86-74d', 'f162c7fd-1e5', '316c783b-ae7', 'cb76dda0-3a7', 'c91c9198-b9c', 'e18f4232-484', 'd5bd89a1-1f3', '6e509baa-25a', 'b44ac0da-10d', 'adb0e32a-04a', '6776b2e4-c01', '67a5fa35-923', '263c11f1-e36', '1fc6e665-604', '534d3c65-edc', 'e3ebc976-cc8', 'bab39653-bc9', '0f12c2a7-0c8', '8b6f6246-419', '3ce36f89-276']
+confidence: 0.687
+evidence_ids: ['04d96cf1-69f', 'd5e3415a-4c8', 'bf4f11a2-843', '3751d2d2-6fe', 'd234eaeb-9bc', 'b58c626d-7bb', '3edf0b21-4a6', '764b8920-e6d', 'b1078883-930', '089a1087-754', '83238f12-8ed', 'd4e995cd-98c', '2cf60da9-dfc', 'adf50243-61a', '0f7e3586-e42', '12c1cc35-1dc', '977b6c81-694', '205227aa-5e1', '1ad163c8-f86', '270e3026-38c']
 ---
 
 # Education & Training — Bangladesh Market
@@ -53,22 +53,15 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
-## Auto-Updated Data (2026-07-10)
+
+## Auto-Updated Data (2026-07-11)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| RamCoachingCenter | search | 1.00 |
-| Lalbag, Dhaka, Bangladesh | search | 1.00 |
-| +880 174 639 85 13 | search | 1.00 |
+| ['Digicon Technologies Ltd', 'E-Learning & Earning LTD', 'U S Software Ltd', 'PM | search | 0.95 |
+| 4654 | search | 0.90 |
+| 4654 | search | 0.95 |
+| 2026-04 | search | 0.90 |
+| ['Training Pundit', 'ENSDI - ইন্সডি'] | search | 0.95 |
 | education-training | search | 1.00 |
-| Gauri Hindi Academy | search | 0.90 |
-| Online Hindi Classes, CBSE/ICSE coaching, Spoken Hindi | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| education-training | search | 1.00 |
-| Online NCLEX Coaching | search | 1.00 |
-| Mantram Nursing Academy | search | 0.90 |
-| Bangladesh | search | 1.00 |
-| education-training | search | 1.00 |
-| Progress Coaching Center | search | 1.00 |
-| education-training | search | 1.00 |
-| Easy Coaching Center (E.C.C) | search | 1.00 |
+| online_coaching_companies | search | 0.90 |

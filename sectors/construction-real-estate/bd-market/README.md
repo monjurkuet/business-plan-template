@@ -2,8 +2,8 @@
 sector: construction-real-estate
 last_verified: 2026-07-11
 freshness: fresh
-confidence: 0.721
-evidence_ids: ['6d1e7b5e-37b', '3c08d021-216', 'd138bbb7-944', '12d7efac-a7d', 'eebdbe2c-6ad', 'f0bbd9d6-ea5', 'f1a81de9-708', '945ea1ed-120', 'd4b6a4ec-83d', '700bb892-253', '020f8228-aea', 'ee13b1d4-cc6', '5335031c-017', '49e9c2c6-490', '0f0e0a13-7d1', '6147951c-28e', '1aa463cf-c3d', 'eacc46dc-91e', '38bd3999-f45', 'e3c9e812-38c']
+confidence: 0.722
+evidence_ids: ['e18426de-067', '33e9e992-3f0', '5ea90475-742', '80c2ccd6-ed0', '8bd739b4-ee4', '13e1aa38-5e5', '9d8cfa55-72c', '05c49d88-747', 'f003380f-97a', 'ad4a3ef1-988', 'fd2d8ba5-f37', '55f111d4-0f9', '4d368140-ea8', 'fe007859-81a', '4705d3a4-7a7', '558b6ced-57f', '53f2be45-349', 'd0f623b8-510', 'abef3ba3-edb', '3eaea5b5-95d']
 ---
 
 # Construction & Real Estate — Bangladesh Market
@@ -56,22 +56,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-11)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ['ALM Steel Building Technology Ltd', 'ALM Tensile Membrane Structure Limited',  | search | 0.95 |
-| 65 | search | 0.90 |
-| wholesale building materials | search | 1.00 |
-| CHB Engineering Ltd. | search | 0.95 |
-| Alibaba Construction Ltd. | search | 0.95 |
-| building_material_suppliers | search | 0.90 |
-| Bangladesh | search | 1.00 |
-| Perfect Solution | search | 0.95 |
-| construction_materials_flooring_chemicals | search | 0.90 |
-| Nasirabad, Chittagong, Chittagong Sadar, Chittagong, Bangladesh | search | 0.95 |
-| Industrial, Commercial, and residential Flooring and construction chemicals appl | search | 0.90 |
-| fabrication_and_supply_of_construction_materials | search | 0.85 |
-| Bashundhara Group | search | 0.95 |
-| LafargeHolcim Bangladesh Limited | search | 0.95 |
-| Confidence Cement Ltd | search | 0.95 |
+| ['CHB Engineering Ltd.', 'Alibaba Construction Ltd.'] | search | 0.95 |
+| 22 | search | 0.95 |
+| RFL | search | 1.00 |
+| largest building materials supplier | search | 0.95 |
+| www.rflbd.com | search | 1.00 |
+| BD Trade Info | search | 1.00 |
+| Bangladesh's largest business directory & yellow pages since 2003 | search | 1.00 |
+| www.bdtradeinfo.com | search | 1.00 |
+| lime | search | 1.00 |
+| 3.3% | search | 0.95 |
+| 2020-2026 | search | 1.00 |
+| ['food processing', 'paper manufacturing', 'beverages'] | search | 0.95 |
+| Beximco | search | 1.00 |
+| Salman F. Rahman | search | 1.00 |
+| vice chairman | search | 1.00 |

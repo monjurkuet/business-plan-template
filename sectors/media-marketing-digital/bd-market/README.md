@@ -2,8 +2,8 @@
 sector: media-marketing-digital
 last_verified: 2026-07-11
 freshness: fresh
-confidence: 0.7
-evidence_ids: ['49a52b11-fa0', '66a9e57f-0df', '64d004a0-0f2', '57caec48-1c0', 'ecef04f3-7b2', 'dcaf5990-df4', '78ffac09-b5e', 'd23f4fdb-230', '9b9dfe23-8e6', '05e433d8-ded', 'd8380340-9e1', 'df708b76-107', 'df74be95-918', '11202ea7-cce', '61310ecb-42e', '92aa0a69-8b2', '46443f00-f20', 'a193126b-03c', '07b4371c-b6a', '2c26d05c-b56']
+confidence: 0.706
+evidence_ids: ['7909d4bb-0f3', '5cc3c205-95d', 'e8e295e0-e68', '656a348f-80a', '13e93b94-520', 'fe211884-f03', 'fcd84ebc-797', '9b03cc27-b4c', 'b31dcaf7-1d1', '40256c37-2e0', 'f76fecf9-e5c', '468b2083-c08', '4c7aad71-b0d', '24de4feb-5a1', 'cffa913d-459', '0d14781c-810', '4a31f0e7-f1d', 'ea8676bb-5ec', '8b5a934b-092', 'a992dc20-96b']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market
@@ -148,16 +148,23 @@ evidence_ids: ['49a52b11-fa0', '66a9e57f-0df', '64d004a0-0f2', '57caec48-1c0', '
 
 
 
+
 ## Auto-Updated Data (2026-07-11)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
+| digital marketing | search | 0.95 |
+| startup entrepreneurs in Bangladesh | search | 0.95 |
+| top digital marketing companies in Bangladesh | search | 0.95 |
+| ['SEO', 'social media marketing', 'online branding', 'promotion', 'email marketi | search | 0.95 |
+| GoodFirms | search | 0.95 |
+| 2026 | search | 0.90 |
 | Bulk SMS, Email Marketing, Interactive Voice | search | 0.90 |
-| The best price in digital marketing Bangladesh | search | 0.80 |
+| best price in digital marketing Bangladesh | search | 0.80 |
 | BDT | search | 0.95 |
 | bKash | search | 0.90 |
 | startups | search | 0.95 |
-| SEO, social media, Google Ads | search | 0.95 |
-| BDT | search | 0.90 |
-| SEO, PPC, social media, email, influencer marketing | search | 0.95 |
+| SEO, social media, Google Ads | search | 0.90 |
+| BDT | search | 0.95 |
+| SEO, PPC, social media, email, influencer marketing | search | 0.90 |
 | ['GEEKY SOCIAL LTD.', 'OneLittleWeb', 'BrandViser', 'MonsterClaw LLC', 'Ecomclip | search | 0.95 |

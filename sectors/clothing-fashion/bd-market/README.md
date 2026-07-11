@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-07-11
 freshness: fresh
-confidence: 0.71
-evidence_ids: ['72df5d53-fad', 'eb6c4347-03b', '28ed5056-ada', 'eec74f8a-27e', '6873f1e8-888', '7830ab43-12c', '78889952-6b0', 'd84c16d6-64f', '6a23a195-fb3', 'ecc3f830-9ce', '46fe8ea8-d2d', '9fca84af-1b4', 'fa7f7b21-ec1', '9405b57b-5a1', '997d6b4c-48d', '78147d28-5a0', '11663794-c53', 'e75a48fd-a81', '8767f850-f0b', 'f3eb4857-635']
+confidence: 0.705
+evidence_ids: ['e7bef956-0d1', '25e9a415-90d', '69b90be9-114', '6390ca66-794', 'bd579418-77d', '0d5e1ed7-870', '58339a5b-474', '59017406-54c', 'a5ca7af0-cb8', 'd1458ba4-044', 'e40510cc-b8f', '67c52241-b91', '74dbbe7e-4f2', 'a2a67033-62f', '62ecf936-a18', '39be942b-bee', '9d19727c-ddd', '0e04d805-539', '629db8cb-e8f', 'fb676c40-f1f']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -167,22 +167,21 @@ evidence_ids: ['72df5d53-fad', 'eb6c4347-03b', '28ed5056-ada', 'eec74f8a-27e', '
 
 
 
+
 ## Auto-Updated Data (2026-07-11)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ['best match', 'price', 'free shipping', 'fast delivery', 'free return'] | search | 0.90 |
-| baggy pants | search | 0.95 |
-| boys | search | 0.90 |
-| ['casual wear', 'daily wear', 'summer outfit', 'winter outfit'] | search | 0.90 |
-| premium quality fabric | search | 0.90 |
-| affordable | search | 0.85 |
-| home delivery all over Bangladesh | search | 0.95 |
-| online clothing shop Bangladesh | search | 0.95 |
-| best factory prices | search | 0.90 |
-| highest-quality custom apparel | search | 0.90 |
-| 88 | search | 0.95 |
-| fell over the past month | search | 0.90 |
-| NY/ICE futures contract nearby July | search | 0.90 |
-| 2026-06 | search | 0.80 |
-| oil and gas prices skyrocketing due to closure of the Strait of Hormuz | search | 0.90 |
+| 300 COTTON TERRY CLOTH CLEANING RAGS / SHOP TOWELS / 12X12- 25 DOZ. / WHOLESALE | search | 0.95 |
+| 3.5 | search | 0.95 |
+| 3 | search | 0.95 |
+| RD style women black dress warm size M Knitted Made In Bangladesh | search | 0.90 |
+| Tyzo | search | 1.00 |
+| modern Bangladeshi clothing brand | search | 0.95 |
+| stylish, comfortable, and affordable apparel | search | 0.90 |
+| ['fast delivery', 'reliable service'] | search | 0.90 |
+| Bangladesh | search | 0.95 |
+| 1490 | search | 1.00 |
+| 1490-2490 | search | 0.95 |
+| Zaina Vol 19 Pakistani Suit | search | 1.00 |
+| 2026-07-01 | search | 1.00 |

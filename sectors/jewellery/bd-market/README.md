@@ -2,8 +2,8 @@
 sector: jewellery
 last_verified: 2026-07-11
 freshness: fresh
-confidence: 0.722
-evidence_ids: ['4b177cd4-dd6', '6b2b6fa3-931', '31b9d08d-ee5', '039943fa-8bb', '03826b25-411', 'a3179a02-efd', 'f20defaf-c80', '14dc773b-36b', '25b80e32-4bc', 'c3c6fd53-9f8', 'adb8e1ee-f1a', '9b740bcb-632', 'abb8ed9f-d79', 'f4091c4e-b69', '9fdb11b7-848', '0ed38638-84d', 'b6e69387-b72', '08e544d1-37f', '548babda-9e2', '7fb3de08-26c']
+confidence: 0.72
+evidence_ids: ['915a3bec-cf8', '3e0d1185-a38', '371fdac4-13f', 'b526495f-a91', 'fb878735-444', 'cec9fa93-3b3', 'e01a214b-6dc', 'baf10c70-71a', 'd1a693cb-5d0', 'a2a6daf9-dc1', '1d5457ca-d73', 'eb0d9cc2-13f', '03a2e439-c27', 'a3f048c2-17f', '777e3e63-15a', '99f6db2c-372', '3abe6611-98a', '0b853a7b-71a', '561be8a7-187', '5c1e1f9f-3aa']
 ---
 
 # Jewellery — Bangladesh Market
@@ -142,22 +142,20 @@ evidence_ids: ['4b177cd4-dd6', '6b2b6fa3-931', '31b9d08d-ee5', '039943fa-8bb', '
 
 
 
+
 ## Auto-Updated Data (2026-07-11)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 200 to 3000 | search | 0.95 |
-| fashion jewellery | search | 0.95 |
-| daily and festive wear | search | 0.90 |
-| daily | search | 0.90 |
-| churi, chain, gold bracelet | search | 0.95 |
-| all gold jewellers in Bangladesh | search | 0.95 |
-| ['Al Amin Jewellers', 'Amin Jewellers', 'Apan Jewellers'] | search | 0.95 |
+| 200-3000 | search | 1.00 |
+| Fashion Jewellery | search | 1.00 |
+| Gold | search | 1.00 |
+| ['churi', 'chain', 'gold bracelet'] | search | 1.00 |
+| True | search | 1.00 |
+| Diamond World Limited is the most trusted gold and diamond shop in Bangladesh. I | search | 0.90 |
+| Buy jewellery at an affordable price | search | 0.80 |
 | 225290 | search | 1.00 |
-| ['22K', '21K', '18K'] | search | 1.00 |
-| 2026-07-10 | search | 0.90 |
-| BAJUS | search | 0.90 |
-| Al-Amin Jewellers | search | 1.00 |
-| Gold Jewellery Shop | search | 1.00 |
-| Best price when buying gold from customers | search | 0.90 |
-| Pioneer in online jewellery shop in Bangladesh | search | 1.00 |
+| Official BAJUS rates for 22K, 21K, 18K gold | search | 0.90 |
+| 2026-07-11 | search | 0.80 |
+| Al Amin Jewellers is the pioneer in online Jewellery Shop in Bangladesh because  | search | 0.90 |
+| Al Amin Jewellers ensure the best price when buying gold from customers that no  | search | 0.90 |

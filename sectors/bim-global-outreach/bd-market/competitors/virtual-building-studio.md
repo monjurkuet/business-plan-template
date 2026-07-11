@@ -110,6 +110,7 @@ freshness: fresh
 
 
 
+
 ## Recent Findings (2026-07-11)
 
-- **clutch.co** (conf: 0.69): 2 days ago ·Recommended EngineeringcompaniesinBangladeshinclude Perfect Solution, Studio 16 Architects, ANB UNIQUE REAL ESTATE LTD, Patenga Shipbuilding & Engineering, Alifs Engineering, DOER Steel Li
+- **www.archilovers.com** (conf: 0.69): Founded in 2005, Marina Tabassum Architects (MTA) is an internationally recognisedarchitectureand studio-based practice located inDhaka, Bangladesh.

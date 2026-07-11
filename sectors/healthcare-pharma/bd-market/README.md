@@ -2,8 +2,8 @@
 sector: healthcare-pharma
 last_verified: 2026-07-11
 freshness: fresh
-confidence: 0.702
-evidence_ids: ['398bb34a-f0f', '9d55be70-7ec', '823328e0-447', '160da159-e84', 'bd59a0fb-ce1', '273701a7-997', 'a9d0b63d-0cc', '77dcccd6-571', '2340efc3-1fb', '61c498be-7d9', '89631b13-2d3', 'a1bbfeeb-2dd', 'e79a99a4-0b0', '9916ff93-e06', '014d7eac-138', 'abadbc50-6a8', '0943f567-7d8', 'e3b51689-d50', '007ad70b-94d', '9142ea9b-730']
+confidence: 0.706
+evidence_ids: ['f18b85f0-e6f', 'cf34b767-a03', '51979dac-606', 'a8c33473-55f', '59554afa-373', '4efe3281-1a1', '9ae92b3b-b67', '6473e421-8fb', '55cfabfa-7fe', '6a7a5fde-ce8', 'a5d9d54c-a1e', 'df5583af-857', 'ce00896b-02b', 'f2560976-f77', '8837e8e7-e4b', 'd4eea769-a4b', '01bff9f2-e0e', 'c81dff5d-361', 'ca3374b6-c56', 'c8f3eeba-1c0']
 ---
 
 # Healthcare & Pharma — Bangladesh Market
@@ -55,22 +55,22 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-11)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Bangladesh’s pharma industry is driven by local companies ensuring affordable he | search | 0.90 |
-| 2025-09-05 | search | 0.95 |
-| Alco Pharma | search | 1.00 |
-| 675100000 | search | 0.98 |
-| Orion Pharma | search | 1.00 |
-| 594600000 | search | 0.98 |
-| Square Pharmaceuticals Limited | search | 1.00 |
-| 538200000 | search | 0.98 |
-| 2026-07 | search | 0.95 |
-| 2026-01-17 | search | 0.95 |
-| ranked by market share, sales, exports, growth trends, and industry insights | search | 0.90 |
-| cornerstone of industrial growth, innovation, and healthcare accessibility | search | 0.90 |
-| 2025-11-07 | search | 0.95 |
-| one of the most developed sectors of the Bangladeshi economy | search | 0.95 |
-| met the local demand for medicines and is steadily becoming a global leader in p | search | 0.90 |
+| MedisafePharmacy | search | 1.00 |
+| Supplier Company | search | 1.00 |
+| ['Medical device', 'Natural medicine', 'Allopathic medicine'] | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| Pharmacy | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| Search for Pharmacy with Phone numbers, Locations, Reviews, Photos | search | 1.00 |
+| AminPharmacy | search | 1.00 |
+| Astoria | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| ['Prescription medicine', 'OTC medicine'] | search | 1.00 |
+| Most insurances accepted | search | 1.00 |
+| community-based pharmacy | search | 0.95 |
+| ['Compounding', 'consulting', 'checking prescription medications', 'delivering p | search | 0.90 |

@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-07-11
 freshness: fresh
-confidence: 0.737
-evidence_ids: ['f10f4d05-326', '99ff4a4f-dc5', '24f7c224-b68', '5f974863-fc6', 'e5fc00cb-3f6', 'bcfb1d70-904', '50ba1b51-731', '999d25e7-f4a', 'cf8b3cf1-e09', 'fcf9b9f2-a4c', '8be2e4af-828', '92673a57-979', '7d64dca2-062', '2b8880cc-e87', 'e486c704-e0c', 'f4a5f537-b6d', 'cfba99ae-c00', 'b4633970-da1', 'd065f5f1-b43', '142ded5d-2c7']
+confidence: 0.725
+evidence_ids: ['eac77c00-b87', '5c4ce02b-13b', '89d1941d-63b', 'b1a69913-237', '1d536dbf-973', 'c6d6b306-234', 'd3bb2936-7cb', '4b50be37-b08', '5c80ef92-6f8', '87669a91-d31', 'e8a6fb7f-6aa', '822a96b3-360', '0b81c62f-849', 'f3b8fae6-937', 'ec4ec8c0-c67', '5cfa7629-252', 'c2c5239f-561', 'a1ab2a95-6c7', 'ff07af1e-b22', 'ce0d6c77-ab1']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -170,22 +170,23 @@ evidence_ids: ['f10f4d05-326', '99ff4a4f-dc5', '24f7c224-b68', '5f974863-fc6', '
 
 
 
+
 ## Auto-Updated Data (2026-07-11)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
 | interior design | search | 0.90 |
 | Dhaka, Bangladesh | search | 0.95 |
-| top_10_companies_list | search | 0.90 |
+| firm | search | 0.90 |
 | Globats | search | 0.95 |
-| systems architecture | search | 0.95 |
+| systems architecture | search | 0.90 |
 | Bangladesh | search | 0.95 |
 | building automation-first business ecosystems | search | 0.90 |
-| engineer scalable solutions that compound over time | search | 0.90 |
+| firm | search | 0.90 |
 | NBBJ | search | 0.95 |
 | architecture and design | search | 0.95 |
-| TIME's Most Influential Companies List (only architecture firm) | search | 0.95 |
-| Fast Company's World’s Most Innovative Architecture Firms (fifth time) | search | 0.95 |
-| Creating Connection across a National Workplace Network for Moss Adams | search | 0.90 |
+| TIME's Most Influential Companies List (only architecture firm) | search | 0.90 |
+| Fast Company's World’s Most Innovative Architecture Firms (fifth time) | search | 0.90 |
+| firm | search | 0.90 |
 | EYRC Architects | search | 0.95 |
-| Ehrlich Architects | search | 0.95 |
+| modern residential and commercial architecture | search | 0.95 |

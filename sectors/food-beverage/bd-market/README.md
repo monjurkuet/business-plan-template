@@ -2,8 +2,8 @@
 sector: food-beverage
 last_verified: 2026-07-11
 freshness: fresh
-confidence: 0.712
-evidence_ids: ['176d2fda-3b1', '3bd62926-291', '09a9888e-51e', 'bd0228e3-65b', '8962c9ef-eac', '531789f7-7c8', '2db97759-d7a', 'e7b6bb56-fcd', '806792ed-772', 'ee9f0fc0-f05', '9503e2ec-0b8', '1366482e-d18', '0714d3b7-f37', 'f08d959e-775', 'ebb0b8c8-448', 'ce6fe6e4-213', '426326d8-532', '2b63e6f9-994', '92e27155-0d7', 'f25753a8-a08']
+confidence: 0.723
+evidence_ids: ['016b920a-b3d', 'bf4eb310-b30', '23f0c973-055', 'db2d22dc-134', 'bae2c87c-640', '15f977ce-05c', '3afb0175-623', '65bcdedd-198', '0e7b46ca-988', 'ea347db7-b92', 'e57baa8a-7b6', '8eb22671-d4f', 'e38abc90-c53', 'ecbb2de0-b33', '050baf41-125', 'c3f509c4-446', '9c1ae493-17d', 'a5a429fb-4cc', 'e682800d-673', '05415e8f-09d']
 ---
 
 # Food & Beverage — Bangladesh Market
@@ -55,22 +55,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-11)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 20 minutes from downtown Montreal | search | 0.90 |
-| rooftop | search | 0.95 |
-| stunning views and delicious cuisine | search | 0.90 |
-| Delhi Belly Restaurant | search | 0.80 |
-| Bangladeshi | search | 0.95 |
-| Biryani | search | 0.90 |
-| Bangladesh Tandoori Restaurant | search | 0.95 |
-| Campbeltown | search | 0.95 |
-| 4.1 | search | 0.95 |
-| 9 | search | 0.95 |
-| 86 | search | 0.95 |
-| Bangladesh Restaurant | search | 0.90 |
-| 118 Luttig St, Pretoria West, South Africa | search | 0.90 |
-| Bangladeshi | search | 0.95 |
-| casual eatery | search | 0.90 |
+| Bangladesh's premier restaurant discovery platform. Connecting food lovers with  | search | 0.90 |
+| 2020 | search | 0.90 |
+| 944 | search | 0.95 |
+| 31629 | search | 0.95 |
+| 2016-12-09 | search | 0.95 |
+| Tiffinbox Ltd. (subsidiary of Bangla Trac Group) | search | 0.95 |
+| quick-service restaurant (QSR) | search | 0.90 |
+| Expanding customer base and making pizzas more accessible | search | 0.90 |
+| Dhaka | search | 0.95 |
+| foreigners | search | 0.90 |
+| international, cheap buffet | search | 0.85 |
+| ['Dhaka', 'Uttara', 'Dhanmondi'] | search | 0.90 |
+| ['family restaurants', 'local restaurants', 'fine dining'] | search | 0.85 |
+| Bangladeshi | search | 0.80 |
+| Moharani Coffee House | search | 0.90 |
