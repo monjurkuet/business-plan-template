@@ -1,11 +1,16 @@
 {
-  "generated_at": "2026-07-11T20:24:33.159271+00:00",
+  "generated_at": "2026-07-12T00:08:11.885612+00:00",
   "summary": {
     "files_checked": 215,
-    "violations": 5,
+    "violations": 6,
     "warnings": 0
   },
   "violations": [
+    {
+      "file": "sectors/bim-global-outreach/bd-market/competitors/cadd-centre.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
     {
       "file": "sectors/bim-global-outreach/bd-market/competitors/engineering-services-usa.md",
       "type": "missing_field",

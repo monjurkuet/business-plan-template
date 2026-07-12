@@ -2,8 +2,8 @@
 sector: healthcare-pharma
 last_verified: 2026-07-12
 freshness: fresh
-confidence: 0.698
-evidence_ids: ['6f687b6c-ca2', 'eb01a59e-907', '25e08504-2a8', '4bb43c4e-1f7', 'd2c429c1-b80', '2ef54822-2aa', '85286845-4b1', 'f1828eb0-e3f', 'ed40d033-0e2', 'e600e3cc-401', '37297764-ef8', '47a51494-fd5', '6d290063-d5f', 'a8172677-fa5', '4bf1991a-63b', '4657b039-e8c', '3f444c7e-a97', '66e08a68-1b5', 'ec07592b-083', 'd17d51ae-37a']
+confidence: 0.706
+evidence_ids: ['1999ed50-f5e', '7f9cddb8-b97', '9d5295bc-ef8', 'd8641909-6dc', '167f0da1-c09', '4e6c7ef4-bc7', '4c8fe998-b9c', '103da9ad-428', '9701aa47-1cb', '6bbc690c-235', '4498a7b4-0df', '7b90757b-8a7', 'bfa27a7c-522', '7acd7cee-471', '4a8ad325-dcd', '65b37d2f-c1b', 'e14a35f6-9df', 'ae5aabd0-c75', '8fbbc9cc-541', 'a3c678d9-18f']
 ---
 
 # Healthcare & Pharma — Bangladesh Market
@@ -59,22 +59,19 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-12)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| MedisafePharmacy | search | 0.95 |
-| ['Medical device', 'Natural medicine', 'Allopathic medicine'] | search | 0.90 |
+| MedisafePharmacy | search | 1.00 |
+| Supplier Company | search | 1.00 |
+| ['Medical device', 'Natural medicine', 'Allopathic medicine'] | search | 1.00 |
 | Bangladesh | search | 1.00 |
 | Pharmacy | search | 1.00 |
 | Bangladesh | search | 1.00 |
-| MonaPharmacy | search | 0.95 |
-| Pharmacy | search | 1.00 |
-| Bangladesh | search | 1.00 |
+| Search for Pharmacy with Phone numbers, Locations, Reviews, Photos | search | 1.00 |
 | community-based pharmacy | search | 0.95 |
-| ['compounding', 'consulting', 'prescription medication delivery'] | search | 0.95 |
-| Wellbeing Pharmacy | search | 1.00 |
-| healthcare-pharma | search | 1.00 |
-| Tani Pharmacy | search | 1.00 |
-| Mymensingh, Bangladesh | search | 1.00 |
-| ['personalized services', 'local delivery'] | search | 0.95 |
+| ['Compounding', 'consulting', 'checking prescription medications', 'delivering p | search | 0.90 |
+| Mymensingh, Bangladesh | search | 0.95 |
+| ['personalized services', 'local delivery'] | search | 0.90 |

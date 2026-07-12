@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-07-12
 freshness: fresh
-confidence: 0.726
-evidence_ids: ['2745f862-621', '37a29d88-137', 'ed172d7e-a8b', '79dc719f-963', '1e56084f-655', '7b563e85-ccd', '66c317f3-089', 'f61369ad-5a4', '46f987ae-6f1', '8a8330ce-c02', 'bac7251e-cea', 'c88faa87-e75', 'ee421c36-1e8', '500f4f8d-e58', '6360aef2-941', 'd684d6b8-763', '980ca612-f03', '1d62281a-673', 'fdbb9163-e7a', 'aa87763b-9a7']
+confidence: 0.705
+evidence_ids: ['5674a39e-679', 'd07b13fd-aff', 'c2933e9f-bde', 'a7b1074f-bf4', 'bd7a4c8d-352', 'd137b1b8-90d', '074a619f-b36', '217274af-9ee', 'b188eb90-395', '342a1712-f5f', '69afd072-939', 'f057aefb-819', '7b167146-ab8', 'aee938b3-aa2', '3b59b195-235', '9b7627e1-3ec', 'edd999b5-655', '30835017-e58', '07345ce3-d8a', '4c47148e-37c']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -171,22 +171,19 @@ evidence_ids: ['2745f862-621', '37a29d88-137', 'ed172d7e-a8b', '79dc719f-963', '
 
 
 
+
 ## Auto-Updated Data (2026-07-12)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 300 COTTON TERRY CLOTH CLEANING RAGS / SHOP TOWELS / 12X12- 25 DOZ. / WHOLESALE | search | 0.90 |
-| 3.5 | search | 0.95 |
-| Bangladesh | search | 1.00 |
-| RD style women black dress warm size M Knitted | search | 0.90 |
-| dress clothing, Korean cosmetics, bags, aesthetic accessories | search | 0.90 |
-| Bangladesh | search | 1.00 |
-| baggy pants, casual wear for boys, comfortable daily wear, premium quality fabri | search | 0.90 |
-| affordable | search | 0.80 |
-| all over Bangladesh | search | 0.95 |
-| ['best match', 'price', 'free shipping', 'fast delivery', 'free return'] | search | 0.90 |
-| ['t-shirts', 'polo shirts', 'casual shirts', 'summer wear'] | search | 0.95 |
-| across Bangladesh | search | 0.95 |
-| 88 | search | 0.95 |
-| fell over the past month | search | 0.90 |
-| 2026-06 | search | 0.80 |
+| clothing-fashion | search | 1.00 |
+| modern Bangladeshi clothing brand offering stylish, comfortable, and affordable  | search | 0.95 |
+| ['fast delivery', 'reliable service'] | search | 0.90 |
+| across Bangladesh | search | 0.90 |
+| 1490 | search | 0.95 |
+| 2490 | search | 0.95 |
+| Zaina Vol 19 Pakistani Suit | search | 0.95 |
+| 2026-07 | search | 0.90 |
+| 0.88 | search | 0.95 |
+| decreased | search | 0.95 |
+| 2026-06 | search | 0.90 |

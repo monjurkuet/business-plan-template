@@ -2,8 +2,8 @@
 sector: logistics-transport
 last_verified: 2026-07-12
 freshness: fresh
-confidence: 0.663
-evidence_ids: ['1cfe11db-84d', '0ea57a9a-6be', '67092756-0e7', 'ca074cd4-994', '10397a55-52b', '6c5018f8-6ad', 'c6bef89f-3a6', 'd39fe435-6c9', 'b8e9c069-4c7', '74983ffa-eb4', 'd38eb709-474', '4adeba62-aea', '3c74ffde-54c', '76eb3f82-e14', '6b0a8508-14a', 'a5922f45-c18', '2cffe61b-618', '348db118-c68', 'baec7c11-49b', 'e329d40d-bcd']
+confidence: 0.684
+evidence_ids: ['d620f871-6ac', 'd3bef6f6-598', '868c15d4-ee1', 'e24d8a21-c0c', '3fbe8d28-3e9', '4ca8c523-364', '272f8fb5-9b3', '4a6d88bd-5ea', '0902b68b-f5d', 'a229ecf7-e17', '5a71f4b1-846', '0f12679b-4e3', '48cd4d6b-db4', '1daf8b2a-1bb', '78144c60-fcf', 'e7db98cf-25c', '690e46a8-5a9', '0c9dc516-994', '320d4517-8ff', '48a5e5b0-02f']
 ---
 
 # Logistics & Transport — Bangladesh Market
@@ -44,21 +44,12 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
-## Auto-Updated Data (2026-07-10)
+
+## Auto-Updated Data (2026-07-12)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Karatoa Courier Services | search | 0.95 |
-| largest courier service in Bangladesh | search | 0.90 |
-| efficient, on-time delivery of important documents and packages | search | 0.90 |
-| faster than competitors | search | 0.85 |
-| trusted name | search | 0.85 |
-| significant growth in Bangladesh's courier industry | search | 0.90 |
-| meeting demands of a developing economy with a growing consumer base | search | 0.85 |
-| e-commerce, deliveries, and international shipping | search | 0.90 |
-| Sundarban Courier Service | search | 1.00 |
-| 1983 | search | 1.00 |
-| ['general service', 'special service', 'express service', 'super express service | search | 1.00 |
-| logistics-transport | search | 1.00 |
-| ['eCourier.com.bd', 'Sonar Courier Service Ltd'] | search | 1.00 |
-| logistics-transport | search | 1.00 |
+| Dml Worldwide Express Bangladesh Ltd | search | 1.00 |
+| courier service | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| ['Oyala Sundarban Courier Service Ltd', 'Flying Jet Courier Ltd', 'Excelsior Exp | search | 0.95 |

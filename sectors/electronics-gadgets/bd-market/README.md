@@ -2,8 +2,8 @@
 sector: electronics-gadgets
 last_verified: 2026-07-12
 freshness: fresh
-confidence: 0.708
-evidence_ids: ['f4e869e7-3dd', '721c20c8-348', 'e10385ef-a1b', '95eeaef0-e7a', 'd35d4c7b-a11', '6815d81f-d02', '7f81676e-b31', 'e866ba1e-b97', '61f0c3b8-595', 'fac8b9ba-8aa', 'ac88baa4-c58', '970f5677-922', '7a1e885b-084', '35565000-168', '7e99710f-2d4', '4accda0b-be7', 'f182841f-3c1', 'b24ee09a-4c2', '5e9b7496-b77', 'c730e999-11e']
+confidence: 0.728
+evidence_ids: ['e7aaf576-611', '4d3400be-462', 'c852c87b-9e3', '4bc54a77-192', 'fabed614-1b0', 'f1b157dc-3eb', 'aed19a3c-639', '20addbaf-e2a', '453ff762-a8c', 'cc2d1101-13c', '19ab9fd3-deb', '6b7a0ea8-8ed', '4ec3445d-993', 'c0204c37-5a7', '39a77481-ddf', '01973b54-db4', 'e026d2c6-f70', 'd52848e3-fb5', 'f3441c08-053', '88475530-905']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -159,19 +159,23 @@ evidence_ids: ['f4e869e7-3dd', '721c20c8-348', 'e10385ef-a1b', '95eeaef0-e7a', '
 
 
 
+
 ## Auto-Updated Data (2026-07-12)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ElectronicsBangladesh | search | 0.95 |
-| competitive prices on all products | search | 0.90 |
-| electronics | search | 0.95 |
-| Bangladesh | search | 1.00 |
-| Gadgets & Premium Accessories | search | 0.90 |
-| best prices | search | 0.80 |
-| Free Shipping | search | 0.95 |
-| best prices, offers, and discounts on electronics | search | 0.90 |
-| 15.00 | search | 0.95 |
-| BRANDS MEGA LTD | search | 0.95 |
-| Navana Tower (Level-18) 45 Gulshan Avenue, Gulshan-1 Dhaka -1212, Bangladesh | search | 0.95 |
-| custom project discussion (price, timeline, needs) | search | 0.90 |
+| smartphones | search | 1.00 |
+| ['Samsung', 'Xiaomi', 'OnePlus', 'Vivo', 'HONOR', 'Infinix', 'Tecno'] | search | 1.00 |
+| 100% genuine with official warranty | search | 1.00 |
+| competitive smartphone price in BD | search | 0.90 |
+| mobile phones | search | 1.00 |
+| ['Samsung', 'Xiaomi', 'Vivo', 'OnePlus', 'Honor', 'Infinix', 'Tecno'] | search | 1.00 |
+| official phones with warranty | search | 1.00 |
+| 53345 | search | 1.00 |
+| 16960 | search | 1.00 |
+| 5 | search | 1.00 |
+| ['TVs', 'fridges', 'ACs'] | search | 1.00 |
+| ['TVs', 'home appliances'] | search | 1.00 |
+| energy-efficient, convenience, durability | search | 1.00 |
+| 2026-04-06 | search | 1.00 |
+| ['homes', 'businesses'] | search | 1.00 |

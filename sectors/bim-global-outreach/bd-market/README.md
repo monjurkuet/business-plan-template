@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-07-12
 freshness: fresh
-confidence: 0.753
-evidence_ids: ['fef50813-7be', '45213fac-45e', 'd36d42c7-c82', 'f71bdade-3c4', '4c4b9284-24f', '45ebc941-e6b', '81fd6f01-e0b', 'b14ed8de-90f', '9338f90f-59f', '43bfef55-481', '1afdb5ce-665', 'b9ca8941-93f', '130c9736-494', '9bc8a07e-e2e', '291e2361-cac', '644b7b6f-345', '563ac0d4-3e9', '4f08c461-473', 'aed003f0-4e1', 'e63cd80e-af9']
+confidence: 0.756
+evidence_ids: ['e4d1a60f-6f8', 'fc0bccf7-dae', '8262ee97-950', '21f82ce0-6ff', '19cdc094-81b', 'e86ee34b-dc7', 'a5aecfe2-c1c', 'a8fc30eb-a55', 'ec35b29a-30a', '018b8c37-4bb', 'b277cd3a-316', '43a2b4e8-9a6', '3735aa5e-27d', 'bd97d164-943', '344dffd3-34c', 'd96259ca-ff9', 'bfc0da4a-37a', '2a763d10-19c', '9a56c03f-7b1', 'b2ccdc01-d81']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -174,22 +174,23 @@ evidence_ids: ['fef50813-7be', '45213fac-45e', 'd36d42c7-c82', 'f71bdade-3c4', '
 
 
 
+
 ## Auto-Updated Data (2026-07-12)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 2025-11-29 | search | 1.00 |
-| architecture | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| 2025-10-08 | search | 1.00 |
-| architecture | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| RAJUK-registered | search | 1.00 |
-| Dhaka | search | 1.00 |
-| sustainable architecture | search | 1.00 |
-| 2026-05-13 | search | 1.00 |
-| architecture | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| ['Dhaka', 'Khulna', 'Chattogram'] | search | 1.00 |
-| BNBC-2020 | search | 1.00 |
-| transparent pricing | search | 1.00 |
+| LIMRS Construction and Interior | search | 1.00 |
+| Blends architecture with creative construction | search | 1.00 |
+| Artificersarc | search | 1.00 |
+| Young firm, but growing fast with solid residential work | search | 1.00 |
+| Evangel Architects | search | 1.00 |
+| Offers complete design-build solutions | search | 1.00 |
+| 2025-10-13 | search | 1.00 |
+| SAL | search | 1.00 |
+| Leader in top architecture and engineering companies in Bangladesh 2025, with a  | search | 1.00 |
+| Shellmark Limited | search | 1.00 |
+| 2012 | search | 1.00 |
+| 2014 | search | 1.00 |
+| Safe, budget-friendly designs | search | 1.00 |
+| 2023-02-14 | search | 1.00 |
+| NPDL | search | 1.00 |

@@ -1,12 +1,7 @@
 ---
-entity_type: competitor
 sector: bim-global-outreach
-entity_slug: cadd-centre
-last_verified_at: 2026-06-25T12:00:00Z
-freshness_status: fresh
-confidence_score: 0.75
-primary_sources:
-  - research_all_20260625
+last_verified: 2026-07-12
+freshness: fresh
 ---
 
 # CADD Centre (CADD Centre Group)
@@ -85,3 +80,12 @@ primary_sources:
 - Revit, AutoCAD, Navisworks, SketchUp, STAAD Pro, SolidWorks, CATIA
 
 *Last updated: 2026-06-25*
+
+## Recent Findings (2026-07-12)
+
+- **www.facebook.com** (conf: 0.69): Jun 5, 2026 ·Studio M Architecture is at Jolshiri Abashon, Dhaka,Bangladesh. Crafted with intention, this apartment in JOLSHIRI blends energy-efficient design with elegant living. From floor-to-ceilin
+
+- **www.facebook.com** (conf: 0.69): Jan 5, 2026 ·SPACE, Dhaka. 2,592 likes · 2 talking about this · 159 were here. Consultancy, Construction and DevelopmentInstitute of ArchitectsBangladesh(IAB) Centre. Edited by Prof. Adnan Z. Morshed,
+
+- **www.facebook.com** (conf: 0.69): Institute of ArchitectsBangladesh(IAB) Centre. Edited by Prof. Adnan Z. Morshed, the book is the result of the collective dedication of architects, researchers, writers, photographers, contributors, a
+

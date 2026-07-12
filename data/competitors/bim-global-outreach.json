@@ -102,19 +102,15 @@
       "name": "centre",
       "sector": "bim-global-outreach",
       "frontmatter": {
-        "entity_type": "competitor",
         "sector": "bim-global-outreach",
-        "entity_slug": "cadd-centre",
-        "last_verified_at": "2026-06-25T12:00:00Z",
-        "freshness_status": "fresh",
-        "confidence_score": "0.75",
-        "primary_sources": "- research_all_20260625"
+        "last_verified": "2026-07-12",
+        "freshness": "fresh"
       },
       "profile_category": "",
       "entity_slug": "cadd-centre",
-      "last_verified_at": "2026-06-25T12:00:00Z",
-      "freshness_status": "fresh",
-      "confidence_score": 0.75,
+      "last_verified_at": "",
+      "freshness_status": "unknown",
+      "confidence_score": 0.0,
       "strengths": [
         "1. **Massive network** — 120+ franchise centers across India, 1,000+ trained engineers available",
         "2. **Dual revenue model** — Both BIM services and training create talent pipeline and brand awareness",

@@ -3,7 +3,7 @@ sector: high-roi-niches
 last_verified: 2026-07-12
 freshness: fresh
 confidence: 0.692
-evidence_ids: ['253c4a35-a3b', '88eaf289-93d', '6891043d-836', 'bdd489ee-432', 'd202d519-e3b', '5c3ec9dd-876', '7f045e49-377', 'd66ab424-bcf', 'd53a549d-b31', 'fff1d9c8-6b9', '93f09c07-99c', '78446636-4e9', '2c7906db-33d', '03dc57e5-4c7', '59a0fd75-465', '1309dc14-120', '20f9fb3c-33b', '5475a259-141', '3159129f-588', 'a47c980b-603']
+evidence_ids: ['b5fb16ec-bd8', 'cf888b1f-db6', '572ca559-283', '61a10545-0bb', 'c140269e-73e', 'ebac513e-c9a', 'f5c61177-e60', 'f1f76ce3-1e0', 'b46f2eb9-406', 'bf0e2ef3-e75', 'e4c1b531-c66', '51435d6f-f6d', '3b2052de-94d', '0b697cca-64b', 'fbce3099-1f3', '11087cd9-3ca', 'e0d04ddb-96f', '8c98fbf9-14e', 'a70b4f87-b5f', 'ade7c612-566']
 ---
 
 # High-ROI Niches — Bangladesh Market
@@ -148,15 +148,14 @@ This sector captures high-growth, high-margin niche opportunities in Bangladesh.
 
 
 
+
 ## Auto-Updated Data (2026-07-12)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
 | HIT LIFE cat food | search | 0.90 |
 | grain-free cat food | search | 0.90 |
-| kitchen flavor | search | 0.80 |
-| cat adoption cost | search | 0.70 |
-| pet care Bangladesh | search | 0.90 |
-| PetZone BD | search | 0.90 |
-| petzonebd.com | search | 0.90 |
-| Pampered Paws Bangladesh | search | 0.80 |
+| cat foodprice, kitchen flavor bangladesh | search | 0.80 |
+| PetZone BD | search | 0.95 |
+| petzonebd.com | search | 0.95 |
+| Pampered Paws Bangladesh | search | 0.90 |

@@ -2,8 +2,8 @@
 sector: construction-real-estate
 last_verified: 2026-07-12
 freshness: fresh
-confidence: 0.735
-evidence_ids: ['bd44e07d-a7d', '1f1f94ad-835', '519eed75-e05', '26f29a6e-bf8', '8cc8f5fd-a77', '99daeaa4-cd7', '1e65f588-198', 'becae498-ec0', '6dbabbcc-b76', '490cd2cc-6d5', '9fad97a0-c01', 'f731d08b-4b7', 'b76bb231-30f', 'c644d566-daf', 'ad963a98-7da', 'f8af0250-40d', '7b574648-d2d', '955c4062-8ea', 'cb89a194-979', '4cfec869-af4']
+confidence: 0.743
+evidence_ids: ['6424ee0d-572', 'cd4dd5ed-dfe', '6c43ac5a-24a', 'e2c17e17-ba5', '368078b8-e25', '189510f9-357', '2f7c78c0-813', 'f96350b7-97c', '617fc42b-0a4', 'a1a77f46-439', '5155ac96-a78', '02b016e3-4e2', 'b51f5de1-7d2', 'a97386d0-2d2', 'f26c6468-ebd']
 ---
 
 # Construction & Real Estate — Bangladesh Market
@@ -60,22 +60,21 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-12)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| construction-real-estate | search | 1.00 |
-| ['CHB Engineering Ltd.', 'Alibaba Construction Ltd.'] | search | 0.95 |
-| Top 22 Building Material Suppliers in Bangladesh (2026) | search | 1.00 |
-| Bashundhara Cement | search | 1.00 |
-| construction-real-estate | search | 1.00 |
-| Top Cement Companies in Bangladesh 2026 | search | 1.00 |
-| ['high strength', 'advanced manufacturing technology', 'proven role in major inf | search | 0.95 |
-| 2026-04-30 | search | 0.90 |
-| RFL | search | 1.00 |
-| largest building materials supplier | search | 0.95 |
+| 65 | search | 0.95 |
+| ['ALM Steel Building Technology Ltd', 'ALM Tensile Membrane Structure Limited',  | search | 0.95 |
+| ['CHB Engineering Ltd', 'Alibaba Construction Ltd'] | search | 0.95 |
+| ['Bashundhara Group', 'LafargeHolcim Bangladesh Limited', 'Confidence Cement Ltd | search | 1.00 |
 | building materials | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| Beximco | search | 1.00 |
-| private | search | 0.95 |
-| A S F Rahman | search | 0.95 |
+| 2023-04-28 | search | 1.00 |
+| ['Perfect Solution'] | search | 0.90 |
+| Nasirabad, Chittagong, Chittagong Sadar, Chittagong | search | 0.90 |
+| ['fabrication and supply of construction materials', 'Steel Sheet Piles', 'Indus | search | 0.90 |
+| ['Sheltech Ceramics', 'LafargeHolcim Bangladesh', 'RAK Paints', 'Fu-Wang Ceramic | search | 1.00 |
+| building materials startups | search | 1.00 |
+| Dhaka, Bangladesh | search | 1.00 |
+| 2024-03-07 | search | 1.00 |
