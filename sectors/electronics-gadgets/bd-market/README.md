@@ -2,8 +2,8 @@
 sector: electronics-gadgets
 last_verified: 2026-07-12
 freshness: fresh
-confidence: 0.707
-evidence_ids: ['87c4459f-4c0', '962d6fa3-b16', '0bdb3493-cc9', 'a551c8a4-cc9', '4bb82c51-89b', 'e6383db0-3be', 'd17c5157-43f', 'b76bd246-835', 'fb960314-a13', '49b7e378-5bb', '82942e04-50d', 'b9168f53-39d', '83ca8f2e-76f', '00ffbae6-dc1', '290d2168-479', 'abc1db44-b4a', 'b7151b15-b42', '39368890-c3a', '08045190-f1a', '0ac7837d-965']
+confidence: 0.706
+evidence_ids: ['c7803a38-e71', 'f81c2c94-934', 'dace78be-f44', 'e6d5f152-276', 'e88baf20-fa4', '506d6270-f0f', 'de5a6f7c-332', '8d25538e-f7e', '2df6d20f-f1b', '937d6f0a-c02', 'ef59510f-894', '8f37e56b-63b', '6b317afb-610', 'baa36fb6-577', '723e85d4-c9b', '570096a2-f6a', '52c130cb-403', '84304710-640', 'd5681901-f44', '55c031cb-17e']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -161,16 +161,23 @@ evidence_ids: ['87c4459f-4c0', '962d6fa3-b16', '0bdb3493-cc9', 'a551c8a4-cc9', '
 
 
 
+
 ## Auto-Updated Data (2026-07-12)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| competitive prices on all products | search | 0.90 |
-| best prices | search | 0.90 |
-| Free Shipping | search | 0.95 |
-| best prices, offers, and discounts on electronics | search | 0.90 |
+| Speaker & Soundbar | search | 0.95 |
+| 11900-130900 | search | 0.95 |
+| Samsung Microwave Oven | search | 0.90 |
+| Express Delivery | search | 0.90 |
+| official warranty | search | 0.90 |
+| 0-0 | search | 0.80 |
+| 0 | search | 0.80 |
+| 1 in stock, 1 on discount | search | 0.80 |
+| 2026-02-06 | search | 0.90 |
+| 100% Authentic & Quality Products | search | 0.90 |
+| 01719117333 | search | 0.95 |
+| Gadgets & Premium Accessories | search | 0.95 |
+| Free Shipping | search | 0.90 |
 | 15.00 | search | 0.80 |
 | BRANDS MEGA LTD | search | 0.95 |
-| Navana Tower (Level-18) 45 Gulshan Avenue, Gulshan-1 Dhaka -1212, Bangladesh | search | 0.95 |
-| electronics | search | 0.90 |
-| may go up | search | 0.80 |

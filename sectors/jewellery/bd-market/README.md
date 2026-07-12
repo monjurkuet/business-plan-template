@@ -2,8 +2,8 @@
 sector: jewellery
 last_verified: 2026-07-12
 freshness: fresh
-confidence: 0.719
-evidence_ids: ['e2593d4d-b19', '3839e66d-b23', 'e6665e3c-3b6', '86b19de8-c58', '8469a3cb-cc1', '807aa86a-a8d', 'dec4b0c1-7a3', 'f4a8a53f-d6b', '2fe074f9-852', 'd03d3bf0-2f6', 'cd9d0027-e71', '84910324-bea', '4310ddea-6cb', 'ae6c13b6-2cb', 'c258c33f-f0b', '19e9470a-67b', '91cffa17-851', '74d60f15-581', 'd2e4c94b-436', '3921f576-2b6']
+confidence: 0.706
+evidence_ids: ['439e6859-2b7', 'f91c77b2-4fb', '38b27c93-f77', '9fa240d7-414', 'a5c96979-431', 'eb626528-583', '64e2ae65-7e4', '1a00d17b-5d0', '8edb8905-172', '7f3a68a6-879', '9bee2b95-5c9', '320ac0ce-9d9', 'a3337d80-eb3', '2143e5d5-b64', 'b4d2b3e2-42d', '189a3a84-12a', '795cc73c-2d7', '829996dd-2cc', '6e5272cb-c38', '0f4a65f8-f50']
 ---
 
 # Jewellery — Bangladesh Market
@@ -148,18 +148,14 @@ evidence_ids: ['e2593d4d-b19', '3839e66d-b23', 'e6665e3c-3b6', '86b19de8-c58', '
 
 
 
+
 ## Auto-Updated Data (2026-07-12)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Price changes impact all gold jewellers in Bangladesh, including ornaments like  | search | 0.90 |
-| 225290 | search | 0.95 |
-| ['22K', '21K', '18K'] | search | 0.95 |
-| 2026-07-12 | search | 0.80 |
-| BAJUS | search | 0.90 |
-| ['22K', '21K', '18K', 'traditional gold'] | search | 0.95 |
-| BAJUS | search | 0.90 |
-| current gold rate | search | 0.90 |
-| regularly according to spot gold prices live | search | 0.95 |
-| 200 to 3000 | search | 0.95 |
-| design and material | search | 0.90 |
+| 377 | search | 0.90 |
+| Bangladesh | search | 0.80 |
+| jhumka earrings | search | 0.90 |
+| jewellery bangladesh | search | 0.90 |
+| ['pendant necklaces', 'statement necklaces', 'choker necklaces'] | search | 0.80 |
+| ['gold', 'silver', 'diamond', 'antique', 'earthen', 'wooden'] | search | 0.90 |

@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-07-12
 freshness: fresh
-confidence: 0.719
-evidence_ids: ['b5c28dca-df0', '7db131b5-d2b', '4377c1d1-eb9', '194856bc-ccb', '2024ad3e-e53', '83459520-288', '8dfa1820-825', '3b76d4b4-9e6', 'e7b63647-736', '3738a254-959', '89308fe2-d86', 'e44541f4-996', '464173dc-c4b', '88c5a436-2af', '4e74f895-722', '7e6ae7c3-fcb', 'a0bdbc1d-c2f', '64698549-4be', '14e2c0c3-5e0', '4a011198-56a']
+confidence: 0.751
+evidence_ids: ['572a988c-9d2', 'be10c2d5-f64', '44ba0316-1ec', '5ce9d464-204', '8a4eb8c1-14a', 'cdb689ca-d65', '093b7507-507', '79299584-e81', '553139e9-9a2', '4979548d-8b1', 'e0b683b0-91b', '61c51190-9bb', '1422d402-504', '7252f907-e19', '5edb9829-63e', '5549775a-cda', 'ed0996cf-7b8', 'fd50e04a-ce9', '589724e8-868', '5c49a901-5a8']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -176,22 +176,23 @@ evidence_ids: ['b5c28dca-df0', '7db131b5-d2b', '4377c1d1-eb9', '194856bc-ccb', '
 
 
 
+
 ## Auto-Updated Data (2026-07-12)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| RAJUK-registered | search | 0.90 |
-| sustainable architecture | search | 0.80 |
-| Dhaka | search | 0.95 |
-| BNBC-2020 | search | 0.95 |
-| transparent pricing | search | 0.90 |
-| ['Dhaka', 'Khulna', 'Chattogram'] | search | 0.95 |
-| growing faster than ever | search | 0.85 |
-| sustainability | search | 0.85 |
-| reshaping the nation | search | 0.80 |
-| ['company reputation values', 'client reviews', 'google data analytics'] | search | 0.95 |
-| Dhaka | search | 0.95 |
-| architecture | search | 1.00 |
+| interior design | search | 0.90 |
 | Dhaka, Bangladesh | search | 1.00 |
-| 10 | search | 0.95 |
+| firm | search | 0.90 |
+| Globats | search | 1.00 |
+| systems architecture | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| building automation-first business ecosystems | search | 1.00 |
+| firm | search | 1.00 |
+| NBBJ | search | 1.00 |
+| architecture and design | search | 1.00 |
+| TIME's Most Influential Companies List (only architecture firm) | search | 1.00 |
+| Fast Company's World’s Most Innovative Architecture Firms (fifth time) | search | 1.00 |
+| firm | search | 1.00 |
+| EYRC Architects | search | 1.00 |
 | architecture | search | 1.00 |

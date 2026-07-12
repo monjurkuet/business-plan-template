@@ -2,8 +2,8 @@
 sector: media-marketing-digital
 last_verified: 2026-07-12
 freshness: fresh
-confidence: 0.705
-evidence_ids: ['8d3a5764-5bb', '7df9b814-161', '24b14f52-7c1', 'f61dd267-58f', 'dcae7428-f65', '1f49fd68-713', '458a3d7f-a00', '8bd0166b-ac6', '14403b2b-e3b', 'b33e4976-400', 'ec16e150-80d', '1b3f6dbf-f77', 'b9696ae1-e4d', '24ae9ccc-43f', '755e6a25-029', 'de9abff4-269', '5cf52369-483', '607dc9ed-aee', '314e241a-94b', '17ed7bbc-280']
+confidence: 0.7
+evidence_ids: ['53512cc0-467', '15afb949-974', '1213f6b9-a94', '4aecf90b-69b', '7f571a02-000', '2afa1247-3bd', '86490fd9-cac', '863923da-05e', '4e92455e-b61', '420a3212-d82', 'd68bbdcd-736', '5b3ac0c8-70d', '0ee9fbc8-40f', '75616da3-dac', '1571c22a-3d0', 'd8cbf48a-697', '78b2eeaf-1d8', 'e1c2d17f-11f', '1d450601-ece', 'dfd0b266-508']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market
@@ -154,16 +154,14 @@ evidence_ids: ['8d3a5764-5bb', '7df9b814-161', '24b14f52-7c1', 'f61dd267-58f', '
 
 
 
+
 ## Auto-Updated Data (2026-07-12)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Real BDT pricing for SEO, Facebook Ads, Google Ads, social media, and full packa | search | 0.90 |
-| 2026-06-17 | search | 0.95 |
-| SEO, social media, Google Ads | search | 0.90 |
-| BDT | search | 0.95 |
-| bKash | search | 0.90 |
-| Bulk SMS, Email Marketing, Interactive Voice | search | 0.90 |
-| best price in digital marketing Bangladesh | search | 0.80 |
-| SEO, PPC, social media, email, influencer | search | 0.95 |
-| BDT | search | 0.90 |
+| pay only for what you use | search | 0.90 |
+| payment per use prices for Bangladesh | search | 0.90 |
+| 2026 | search | 0.95 |
+| actual cost of digital marketing in Bangladesh for 2026, service by service | search | 0.90 |
+| 207 | search | 0.95 |
+| Bangladesh-based IT companies started to export software around two decades ago, | search | 0.90 |

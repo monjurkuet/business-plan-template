@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-07-12
 freshness: fresh
-confidence: 0.723
-evidence_ids: ['9ad2b842-86c', '3bf10133-eb3', '29388622-858', '53347f0a-6ab', '021564fd-9c3', '94076c2c-996', '5e87819f-1af', 'f4fb514a-7e7', 'c84101ca-2dc', 'c05515a3-39c', 'f66acf88-752', '0a1248a1-a80', '8eb99eab-b9e', '15389665-33f', 'ab308894-9e3', 'd4b5e11a-674', 'e9c63c47-68b', 'b1fb0b2b-7f1', '975479cd-443', 'f319368a-a09']
+confidence: 0.724
+evidence_ids: ['2f4b4ffc-c0a', '1b4f3e2b-48b', '9aafc12b-22f', '141946d5-865', '4b010b12-0b7', '2e4ba5ab-40e', 'f898cac0-7e4', '649dc7ac-bc7', '05d2a42c-70d', 'fd613925-c76', '4d9fe282-ea8', '6f7ded55-034', '4de66069-0bb', '404ff2a2-6a6', 'f51abb9c-e1b', '567bf264-63d', 'dca7da71-422', '995ca3fe-fb7', '0492cbce-6c8', '4db82a7e-2a0']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -173,22 +173,23 @@ evidence_ids: ['9ad2b842-86c', '3bf10133-eb3', '29388622-858', '53347f0a-6ab', '
 
 
 
+
 ## Auto-Updated Data (2026-07-12)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| baggy pants | search | 0.90 |
-| boys, youth | search | 0.90 |
-| all over Bangladesh | search | 0.90 |
-| affordable | search | 0.80 |
-| free shipping, fast delivery, free return | search | 0.90 |
-| Men's clothing (t-shirts, polo shirts, casual shirts, summer wear) | search | 0.90 |
-| across Bangladesh | search | 0.90 |
-| trusted and reliable clothing manufacturer in Bangladesh | search | 0.90 |
-| best factory prices | search | 0.80 |
-| highest-quality custom apparel | search | 0.90 |
-| 88 | search | 0.95 |
+| Tyzo | search | 1.00 |
+| modern Bangladeshi clothing brand offering stylish, comfortable, and affordable  | search | 1.00 |
+| premium-quality outfits, perfect fits, fast delivery, reliable service | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| 1490-2490 | search | 1.00 |
+| Zaina Vol 19 Pakistani Suit | search | 1.00 |
+| 1490 | search | 1.00 |
+| 2026-07 | search | 0.90 |
+| Twelve Clothing | search | 1.00 |
+| Bangladesh’s leading fashion brand | search | 1.00 |
+| premium clothing, trendy menswear, womenswear, kidswear, panjabi, kurti, gowns,  | search | 1.00 |
+| Best prices in home delivery | search | 0.80 |
+| 88 cents/lb | search | 0.95 |
 | fell over the past month | search | 0.90 |
-| July NY/ICE | search | 0.95 |
-| closure of the Strait of Hormuz sends oil and gas prices skyrocketing | search | 0.90 |
-| fast fashion companies reliant on cheap synthetic fibers | search | 0.90 |
+| Strait of Hormuz closure sending oil and gas prices skyrocketing | search | 0.90 |

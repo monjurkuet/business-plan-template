@@ -2,8 +2,8 @@
 sector: construction-real-estate
 last_verified: 2026-07-12
 freshness: fresh
-confidence: 0.733
-evidence_ids: ['0c874516-ed2', '95fa8333-61d', '032d83f6-cd9', '52f50a8f-1ae', 'ebb40dc9-02e', 'a2563868-1d5', 'd234a4a5-1f5', 'c87f8b7e-9d5', '8f617f32-49e', '00bb4023-505', '103ffc3a-f9a', 'f7189916-da4', 'f5015262-831', '4a662ba1-e38', 'add9d279-4e5', 'b7b96333-183', '1e6d9b2a-54e', '1886ff53-fe3', 'd17dedc6-a50', '0b1ee4ae-b39']
+confidence: 0.721
+evidence_ids: ['af54f261-93c', '0b8b7319-191', 'f9927f4f-6fe', '339d69bf-53e', 'edff426b-73a', 'a7bce63f-486', 'a9501572-22c', '9268f601-0d0', 'b20d3159-7cc', '3f2f108a-4ca', 'b839ac63-085', 'e2a31e4e-d81', '2f8f520e-b06', 'f0441bc4-da5', 'f5fe95b0-b4f', '8c79b8b5-4ab', '3b46492b-e7f']
 ---
 
 # Construction & Real Estate — Bangladesh Market
@@ -62,22 +62,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-12)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| CHB Engineering Ltd. | search | 1.00 |
-| Alibaba Construction Ltd. | search | 1.00 |
-| Building Material Suppliers | search | 1.00 |
-| 2026 | search | 0.90 |
+| CHB Engineering Ltd. | search | 0.95 |
+| Building Material Supplier | search | 0.95 |
+| Bangladesh | search | 1.00 |
+| Alibaba Construction Ltd. | search | 0.95 |
+| Building Material Supplier | search | 0.95 |
 | Bashundhara Cement | search | 1.00 |
-| cement | search | 1.00 |
+| construction-real-estate | search | 1.00 |
 | high strength, advanced manufacturing technology, proven role in major infrastru | search | 1.00 |
-| leading choice among top cement companies in Bangladesh | search | 0.95 |
+| leading choice among top cement companies in Bangladesh | search | 1.00 |
 | RFL | search | 1.00 |
+| construction-real-estate | search | 1.00 |
+| largest building materials supplier in Bangladesh | search | 1.00 |
 | building materials | search | 1.00 |
-| largest building materials supplier in Bangladesh | search | 0.95 |
-| Beximco | search | 1.00 |
-| diversified conglomerate | search | 0.90 |
-| owned and managed by prominent and award-winning Bangladeshi businessmen | search | 1.00 |
-| A S F Rahman | search | 1.00 |
+| Bangladesh’s construction industry is one of the fastest-growing sectors in the  | search | 1.00 |
+| lime market expected to register a CAGR of 3.3% during the forecast period (2020 | search | 1.00 |

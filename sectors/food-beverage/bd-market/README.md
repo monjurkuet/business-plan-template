@@ -2,8 +2,8 @@
 sector: food-beverage
 last_verified: 2026-07-12
 freshness: fresh
-confidence: 0.729
-evidence_ids: ['ffb13c0a-3f5', 'b4acf82b-5a4', 'a787d0c2-b8f', '4ec4f865-7c6', '502d303f-f20', '05e27f64-fba', '9abfcb32-2fa', '0305f0ba-b48', '2bdfa05f-9de', 'cda205a7-c23', '34d715bf-380', '89b23245-6ba', '5df7c9ab-47c', '7e2f4ae6-987', '594abc60-dfa', 'ccf43986-cee', '36a2b8a7-675', 'c96fd15e-802', '734d2177-809', '4ddfd775-bf2']
+confidence: 0.722
+evidence_ids: ['9450e1a6-689', 'ffdab418-20e', 'b771ef4d-80d', '6b9898dd-0ef', 'd6cdfacb-44f', 'f15d18bf-2db', '0c7586dc-de5', 'c222c870-cfa', '2f0b7a8d-623', '0fd41a17-682', '4b0712ff-4be', 'ffe6b6f4-0ba', '9938a624-eff', 'e9d6a406-436', '00261084-d52', '2a41e327-984', 'ad6c6539-0f5', '4338805f-a18', '58ca8611-5cf', '4e7479b7-8aa']
 ---
 
 # Food & Beverage — Bangladesh Market
@@ -61,22 +61,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-12)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Bangladesh's premier restaurant discovery platform. Connecting food lovers with  | search | 0.90 |
 | 2020 | search | 0.90 |
-| The 10 best restaurants in Dhaka (2026 ranked) | search | 0.90 |
-| Dhaka | search | 1.00 |
-| 944 | search | 0.90 |
-| 31644 | search | 0.90 |
-| Dhaka City, Dhaka Division | search | 1.00 |
-| ['Dhaka', 'Uttara', 'Dhanmondi'] | search | 0.90 |
-| Bangladeshi cuisine | search | 0.90 |
-| ['family restaurants', 'local restaurants', 'fine dining'] | search | 0.90 |
-| BD Trade Info Yellow Pages | search | 0.90 |
+| 2016-12-09 | search | 0.95 |
+| Burger King | search | 1.00 |
+| Tiffinbox Ltd. (Bangla Trac Group) | search | 0.95 |
+| Pizza Hut | search | 0.90 |
+| 944 | search | 0.95 |
+| 31644 | search | 0.95 |
 | food-beverage | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| ['luxury fine dining', 'affordable local', 'beachfront seafood'] | search | 0.90 |
-| ['Dhaka', 'Cox’s Bazar'] | search | 0.95 |
+| ['Dhaka', 'Uttara', 'Dhanmondi'] | search | 0.90 |
+| ['family restaurants', 'local restaurants', 'fine dining'] | search | 0.90 |
+| company listing in BD Trade Info Yellow Pages | search | 0.90 |
+| Moharani Coffee House | search | 0.80 |
+| Bangladeshi-inspired | search | 0.90 |
+| Houston | search | 0.80 |
+| Bangladeshi | search | 0.90 |

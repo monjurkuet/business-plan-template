@@ -2,8 +2,8 @@
 sector: high-roi-niches
 last_verified: 2026-07-12
 freshness: fresh
-confidence: 0.697
-evidence_ids: ['0dd60c3f-d5b', '9da9a67f-850', '72ce8702-6d0', '323e875d-9d2', 'a0b41f68-65d', 'a8599d7c-354', 'bc833208-454', '9c2c61d4-ef6', '8c154d54-373', 'fa96fd56-4ca', 'ef137d24-f7c', '0e28cf7c-fb9', '06b2b3b2-5c2', 'd1dd7e32-f73', '8d571252-c1a', 'd765e8fb-9ca', '9b697de7-1f2', '980a27e7-c66', 'd23d18d9-d35', '99b3326f-3c1']
+confidence: 0.728
+evidence_ids: ['ccbf44be-96d', '43d8f6bb-44d', '755ce15f-128', '0d8e5de1-4e4', '31195323-efb', '66e42a8e-fc1', 'a99efbaa-129', '361e6d81-db6', 'c551e8d7-f22', 'f30d2aea-976', '4857d577-fca', 'b77a332f-f16', 'bc38b9d2-04d', 'c044c385-31b', 'fe8e6c3f-da1', '2952e885-217', 'b95402a6-07c', '339461e4-0bb', '4148d0a5-641', 'ea548b5f-715']
 ---
 
 # High-ROI Niches — Bangladesh Market
@@ -150,12 +150,20 @@ This sector captures high-growth, high-margin niche opportunities in Bangladesh.
 
 
 
+
 ## Auto-Updated Data (2026-07-12)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| online pet shop in Bangladesh | search | 0.95 |
-| best prices | search | 0.80 |
-| delivered to your doorstep | search | 0.90 |
-| wide range of pet supplies | search | 0.90 |
-| affordable prices | search | 0.80 |
+| online pet shop | search | 0.90 |
+| pet supplies, vet booking, pet adoption, AI vet consultation | search | 0.80 |
+| doorstep delivery | search | 0.90 |
+| pet care platform | search | 0.90 |
+| vet booking, pet product shopping, free AI vet consultation, pet adoption | search | 0.90 |
+| cat food, toys, grooming products, accessories | search | 0.95 |
+| premium-quality, top-rated customer service, trusted brands | search | 0.90 |
+| online pet shop | search | 0.90 |
+| pet products, food, toys, accessories | search | 0.95 |
+| fast delivery, affordable prices, top-notch customer service | search | 0.90 |
+| feline patient care | search | 0.90 |
+| Banasree pet clinic | search | 0.95 |

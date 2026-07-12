@@ -2,8 +2,8 @@
 sector: education-training
 last_verified: 2026-07-12
 freshness: fresh
-confidence: 0.68
-evidence_ids: ['5ddc12f4-105', '301c428f-9d1', 'a701a240-799', 'b06cf44b-7b1', 'e7f36cf0-03b', '0a887dde-c66', 'ba0f5c34-145', '68332222-133', '9b4fc98f-07b', '81f9b25a-8c7', '8f20e114-a03', '35a17755-223', '19a9a81f-07e', 'e17ecc75-b59', '6792c2f8-d54', 'e1ed85ba-dc6', '31968337-49f', '7853de79-553', '35b934e1-01c', '2091a30b-370']
+confidence: 0.702
+evidence_ids: ['d5751620-8e5', 'e78b988b-10c', 'eaf3a551-26b', '2f277417-783', '82115f02-899', '960e2684-4ea', 'a2d34dd8-be2', '33fc33d8-52c', '34e06f80-37b', 'c6251ed9-75e', '1ce14088-b06', '330752c8-e65', '9950ea73-d3d', '973e1a97-6fc', '5de16872-3cb', 'e3124c10-2e5', '0c0c1c7f-c65', '47e32cb5-c5f', '3ee23cc2-56e', 'd4a36953-da6']
 ---
 
 # Education & Training — Bangladesh Market
@@ -59,14 +59,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-12)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| corporate coaching services | search | 0.90 |
-| 2026-07-01 | search | 0.90 |
-| ['Digicon Technologies Ltd', 'E-Learning & Earning LTD', 'U S Software Ltd', 'PM | search | 0.95 |
-| 4654 | search | 0.90 |
-| corporate training & coaching | search | 0.90 |
-| 4654 | search | 0.95 |
-| 2026-04-01 | search | 0.80 |
+| Medico Coaching Center | search | 1.00 |
+| education-training | search | 1.00 |
+| specialized coaching services for Medical and University Admission Test preparat | search | 1.00 |
+| ['offline', 'online'] | search | 0.90 |
+| Enroute Center for Development | search | 0.95 |
+| executive training | search | 0.95 |
+| all employee levels | search | 0.90 |
+| Bangladesh | search | 1.00 |
+| FutureLeaders (FLS) | search | 0.95 |
+| leadership and soft skills training | search | 0.95 |
+| outdoor training (Outbound/Adventure training) | search | 0.95 |
+| no.1 outdoor training provider in Bangladesh | search | 0.90 |
+| top MNCs, national corporations | search | 0.90 |
+| Bangladesh | search | 1.00 |
+| 2026-02-04 | search | 0.90 |

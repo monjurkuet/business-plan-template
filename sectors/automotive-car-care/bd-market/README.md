@@ -2,8 +2,8 @@
 sector: automotive-car-care
 last_verified: 2026-07-12
 freshness: fresh
-confidence: 0.692
-evidence_ids: ['f4a6ef72-2cc', 'db2ba21e-f5d', 'acc382e5-c44', '8d7e72e3-123', 'fdde75a5-86a', 'b2ded46c-3d9', 'c4c6d8f1-4e5', '5666896a-198', '39f21d7c-c66', '503d2c18-a60', 'abcc80a6-f6f', 'c0a61767-b2d', '8d9ec38d-eec', 'bc6080c7-a4f', '5913e3f3-7c2', 'ae67bc44-532', 'eead7159-f50', '7161ba65-ab6', 'f9fa4ca0-b05', 'aba57e1f-cfe']
+confidence: 0.693
+evidence_ids: ['b515aa72-511', '560b4f43-16a', '3cac0f43-483', '62c1b012-279', '539049a6-99d', '1a56c11b-f27', 'd9740419-1bd', '4bf68ad1-a57', '60f9dca7-163', '374c5fe1-94b', 'f2ad4fe6-43f', '5aff3fdc-c57', '559368c0-f05', '753e0f5a-346', '7e10e7a9-2f5', 'ed0a95f7-a59', '4c809a33-93b', 'b2ede22b-e76', 'b496adfe-d33', 'e7f75241-704']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -184,16 +184,17 @@ evidence_ids: ['f4a6ef72-2cc', 'db2ba21e-f5d', 'acc382e5-c44', '8d7e72e3-123', '
 
 
 
+
 ## Auto-Updated Data (2026-07-12)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
 | +8801762499688 | search | 1.00 |
-| CarWash & Car Cleaning Services | search | 0.90 |
+| car wash and car cleaning services | search | 1.00 |
 | Dhaka, Bangladesh | search | 0.90 |
-| Kärcher Bike & Car Wash Bangladesh Event | search | 0.90 |
-| Savar, Dhaka | search | 0.90 |
-| Kärcher | search | 0.90 |
-| Germany | search | 0.90 |
-| Premium car wash services | search | 0.80 |
-| Clients pay top prices for detailing and quality care | search | 0.80 |
+| Kärcher Bike & Car Wash demo event | search | 1.00 |
+| Savar, Dhaka, Bangladesh | search | 1.00 |
+| Germany | search | 1.00 |
+| +880 131 506 34 00 | search | 1.00 |
+| Narayanganj, Dhaka Division, Bangladesh | search | 1.00 |
+| তোয়ামিন স্টোর (Toamin Store) | search | 1.00 |
