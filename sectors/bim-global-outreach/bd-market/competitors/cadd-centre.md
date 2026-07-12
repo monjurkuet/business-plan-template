@@ -81,6 +81,7 @@ freshness: fresh
 
 *Last updated: 2026-06-25*
 
+
 ## Recent Findings (2026-07-12)
 
 - **www.facebook.com** (conf: 0.69): Jun 5, 2026 ·Studio M Architecture is at Jolshiri Abashon, Dhaka,Bangladesh. Crafted with intention, this apartment in JOLSHIRI blends energy-efficient design with elegant living. From floor-to-ceilin
@@ -88,4 +89,3 @@ freshness: fresh
 - **www.facebook.com** (conf: 0.69): Jan 5, 2026 ·SPACE, Dhaka. 2,592 likes · 2 talking about this · 159 were here. Consultancy, Construction and DevelopmentInstitute of ArchitectsBangladesh(IAB) Centre. Edited by Prof. Adnan Z. Morshed,
 
 - **www.facebook.com** (conf: 0.69): Institute of ArchitectsBangladesh(IAB) Centre. Edited by Prof. Adnan Z. Morshed, the book is the result of the collective dedication of architects, researchers, writers, photographers, contributors, a
-

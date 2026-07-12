@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-07-12
 freshness: fresh
-confidence: 0.705
-evidence_ids: ['5674a39e-679', 'd07b13fd-aff', 'c2933e9f-bde', 'a7b1074f-bf4', 'bd7a4c8d-352', 'd137b1b8-90d', '074a619f-b36', '217274af-9ee', 'b188eb90-395', '342a1712-f5f', '69afd072-939', 'f057aefb-819', '7b167146-ab8', 'aee938b3-aa2', '3b59b195-235', '9b7627e1-3ec', 'edd999b5-655', '30835017-e58', '07345ce3-d8a', '4c47148e-37c']
+confidence: 0.723
+evidence_ids: ['9ad2b842-86c', '3bf10133-eb3', '29388622-858', '53347f0a-6ab', '021564fd-9c3', '94076c2c-996', '5e87819f-1af', 'f4fb514a-7e7', 'c84101ca-2dc', 'c05515a3-39c', 'f66acf88-752', '0a1248a1-a80', '8eb99eab-b9e', '15389665-33f', 'ab308894-9e3', 'd4b5e11a-674', 'e9c63c47-68b', 'b1fb0b2b-7f1', '975479cd-443', 'f319368a-a09']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -172,18 +172,23 @@ evidence_ids: ['5674a39e-679', 'd07b13fd-aff', 'c2933e9f-bde', 'a7b1074f-bf4', '
 
 
 
+
 ## Auto-Updated Data (2026-07-12)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| clothing-fashion | search | 1.00 |
-| modern Bangladeshi clothing brand offering stylish, comfortable, and affordable  | search | 0.95 |
-| ['fast delivery', 'reliable service'] | search | 0.90 |
+| baggy pants | search | 0.90 |
+| boys, youth | search | 0.90 |
+| all over Bangladesh | search | 0.90 |
+| affordable | search | 0.80 |
+| free shipping, fast delivery, free return | search | 0.90 |
+| Men's clothing (t-shirts, polo shirts, casual shirts, summer wear) | search | 0.90 |
 | across Bangladesh | search | 0.90 |
-| 1490 | search | 0.95 |
-| 2490 | search | 0.95 |
-| Zaina Vol 19 Pakistani Suit | search | 0.95 |
-| 2026-07 | search | 0.90 |
-| 0.88 | search | 0.95 |
-| decreased | search | 0.95 |
-| 2026-06 | search | 0.90 |
+| trusted and reliable clothing manufacturer in Bangladesh | search | 0.90 |
+| best factory prices | search | 0.80 |
+| highest-quality custom apparel | search | 0.90 |
+| 88 | search | 0.95 |
+| fell over the past month | search | 0.90 |
+| July NY/ICE | search | 0.95 |
+| closure of the Strait of Hormuz sends oil and gas prices skyrocketing | search | 0.90 |
+| fast fashion companies reliant on cheap synthetic fibers | search | 0.90 |

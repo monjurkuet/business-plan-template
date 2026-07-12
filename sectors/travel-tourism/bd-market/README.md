@@ -2,8 +2,8 @@
 sector: travel-tourism
 last_verified: 2026-07-12
 freshness: fresh
-confidence: 0.661
-evidence_ids: ['dad518ff-408', 'ea3f57df-057', '2f4e5e09-c77', '0c539fa0-acf', 'f7114918-419', '9d83dc9a-23f', '17f6c8f2-f72', '6468193e-266', '32dfd0e7-9b4', '7ded4973-1fc', '0f4de8f4-46e', '5fcabf6e-8fb', '252c98a8-ef9', '92e343bb-f19', '9352a45f-e90', '1818091b-777', 'e8ed3c91-cbe', '7a8d4038-beb', 'dd943fa7-b7b', '06ce44d5-b7d']
+confidence: 0.701
+evidence_ids: ['63c8faa8-bab', 'afae0249-897', '8d63205c-649', '5d38ccce-174', '5734fa10-36d', '0f139967-014', '25b0e47f-648', '019b0042-c5c', 'b01f5665-7db', '9526b9b9-cff', '70e8ecf1-294', 'ba787563-63f', '78e2d88e-f3d', '1fbbb264-6f1', '63835132-de0', '942ea4d6-013', '7a71fdfb-c59', '6c0a2317-9d0', '8e0be733-3fc', 'c1ad3faf-982']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -134,15 +134,13 @@ evidence_ids: ['dad518ff-408', 'ea3f57df-057', '2f4e5e09-c77', '0c539fa0-acf', '
 
 
 
+
 ## Auto-Updated Data (2026-07-12)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| affordable tour packages, air tickets, and visa support | search | 0.90 |
-| affordable price | search | 0.80 |
-| 2026-06-13 | search | 0.95 |
-| Dhaka District, Dhaka | search | 0.95 |
-| 2026-06 | search | 0.90 |
-| ['Dream International', "Cox's Bazar Travels", 'Holiday International', 'Bengal  | search | 0.95 |
-| air ticketing, visa processing, customized tour packages | search | 0.90 |
+| affordable price | search | 0.90 |
+| cheap air tickets | search | 0.95 |
+| affordable tour packages | search | 0.90 |
+| reliable service | search | 0.90 |
 | price caps | search | 0.80 |

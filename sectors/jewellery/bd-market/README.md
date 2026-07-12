@@ -3,7 +3,7 @@ sector: jewellery
 last_verified: 2026-07-12
 freshness: fresh
 confidence: 0.719
-evidence_ids: ['749e82bb-b9d', '67587bd7-944', '1f007c24-648', '08f36241-532', 'ce0434a5-0f9', 'e43accf8-d96', 'f87d33d1-ebc', 'a981e1f5-479', '5885f2a2-fa5', '8d050d4d-462', '93a24867-d11', '980fd7c1-6b2', 'b8f49dc6-2b5', '4e553cde-076', '221f0e70-841', '9c91ecb1-fe0', 'de35258a-cc6', 'e8b8c1fe-955', '09c9a09c-615', 'ab2f5f4d-9ee']
+evidence_ids: ['e2593d4d-b19', '3839e66d-b23', 'e6665e3c-3b6', '86b19de8-c58', '8469a3cb-cc1', '807aa86a-a8d', 'dec4b0c1-7a3', 'f4a8a53f-d6b', '2fe074f9-852', 'd03d3bf0-2f6', 'cd9d0027-e71', '84910324-bea', '4310ddea-6cb', 'ae6c13b6-2cb', 'c258c33f-f0b', '19e9470a-67b', '91cffa17-851', '74d60f15-581', 'd2e4c94b-436', '3921f576-2b6']
 ---
 
 # Jewellery — Bangladesh Market
@@ -147,22 +147,19 @@ evidence_ids: ['749e82bb-b9d', '67587bd7-944', '1f007c24-648', '08f36241-532', '
 
 
 
+
 ## Auto-Updated Data (2026-07-12)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 200 - 3000 | search | 0.95 |
-| fashion jewellery | search | 0.90 |
-| daily and festive wear | search | 0.90 |
-| Above price changes are impacted on all gold jewellers in Bangladesh | search | 0.90 |
-| ['churi', 'chain', 'gold bracelet'] | search | 0.90 |
-| ['Al Amin Jewellers', 'Amin Jewellers', 'Apan Jewellers'] | search | 0.90 |
+| Price changes impact all gold jewellers in Bangladesh, including ornaments like  | search | 0.90 |
 | 225290 | search | 0.95 |
 | ['22K', '21K', '18K'] | search | 0.95 |
-| BAJUS (Bangladesh Jewellers Association) | search | 0.90 |
-| 2026-07-11 | search | 0.80 |
-| Diamond World Limited is the most trusted gold and diamond shop in Bangladesh | search | 0.95 |
-| gold and diamond jewellery | search | 0.95 |
-| affordable price | search | 0.90 |
-| Jotey is the most trusted jewellery shop in Bangladesh | search | 0.95 |
-| affordable price | search | 0.90 |
+| 2026-07-12 | search | 0.80 |
+| BAJUS | search | 0.90 |
+| ['22K', '21K', '18K', 'traditional gold'] | search | 0.95 |
+| BAJUS | search | 0.90 |
+| current gold rate | search | 0.90 |
+| regularly according to spot gold prices live | search | 0.95 |
+| 200 to 3000 | search | 0.95 |
+| design and material | search | 0.90 |

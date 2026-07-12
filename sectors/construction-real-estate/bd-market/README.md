@@ -2,8 +2,8 @@
 sector: construction-real-estate
 last_verified: 2026-07-12
 freshness: fresh
-confidence: 0.743
-evidence_ids: ['6424ee0d-572', 'cd4dd5ed-dfe', '6c43ac5a-24a', 'e2c17e17-ba5', '368078b8-e25', '189510f9-357', '2f7c78c0-813', 'f96350b7-97c', '617fc42b-0a4', 'a1a77f46-439', '5155ac96-a78', '02b016e3-4e2', 'b51f5de1-7d2', 'a97386d0-2d2', 'f26c6468-ebd']
+confidence: 0.733
+evidence_ids: ['0c874516-ed2', '95fa8333-61d', '032d83f6-cd9', '52f50a8f-1ae', 'ebb40dc9-02e', 'a2563868-1d5', 'd234a4a5-1f5', 'c87f8b7e-9d5', '8f617f32-49e', '00bb4023-505', '103ffc3a-f9a', 'f7189916-da4', 'f5015262-831', '4a662ba1-e38', 'add9d279-4e5', 'b7b96333-183', '1e6d9b2a-54e', '1886ff53-fe3', 'd17dedc6-a50', '0b1ee4ae-b39']
 ---
 
 # Construction & Real Estate — Bangladesh Market
@@ -61,20 +61,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-12)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 65 | search | 0.95 |
-| ['ALM Steel Building Technology Ltd', 'ALM Tensile Membrane Structure Limited',  | search | 0.95 |
-| ['CHB Engineering Ltd', 'Alibaba Construction Ltd'] | search | 0.95 |
-| ['Bashundhara Group', 'LafargeHolcim Bangladesh Limited', 'Confidence Cement Ltd | search | 1.00 |
+| CHB Engineering Ltd. | search | 1.00 |
+| Alibaba Construction Ltd. | search | 1.00 |
+| Building Material Suppliers | search | 1.00 |
+| 2026 | search | 0.90 |
+| Bashundhara Cement | search | 1.00 |
+| cement | search | 1.00 |
+| high strength, advanced manufacturing technology, proven role in major infrastru | search | 1.00 |
+| leading choice among top cement companies in Bangladesh | search | 0.95 |
+| RFL | search | 1.00 |
 | building materials | search | 1.00 |
-| 2023-04-28 | search | 1.00 |
-| ['Perfect Solution'] | search | 0.90 |
-| Nasirabad, Chittagong, Chittagong Sadar, Chittagong | search | 0.90 |
-| ['fabrication and supply of construction materials', 'Steel Sheet Piles', 'Indus | search | 0.90 |
-| ['Sheltech Ceramics', 'LafargeHolcim Bangladesh', 'RAK Paints', 'Fu-Wang Ceramic | search | 1.00 |
-| building materials startups | search | 1.00 |
-| Dhaka, Bangladesh | search | 1.00 |
-| 2024-03-07 | search | 1.00 |
+| largest building materials supplier in Bangladesh | search | 0.95 |
+| Beximco | search | 1.00 |
+| diversified conglomerate | search | 0.90 |
+| owned and managed by prominent and award-winning Bangladeshi businessmen | search | 1.00 |
+| A S F Rahman | search | 1.00 |

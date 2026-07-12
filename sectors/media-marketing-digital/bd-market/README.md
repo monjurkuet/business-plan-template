@@ -2,8 +2,8 @@
 sector: media-marketing-digital
 last_verified: 2026-07-12
 freshness: fresh
-confidence: 0.706
-evidence_ids: ['ae39402e-c31', '419927cc-38a', '43983c41-237', '32bfb786-deb', 'b5dd3b11-b38', 'f9e19c88-32f', '7fccb084-a71', 'b08068b2-751', '07cf3453-22a', 'b3a74e85-1a5', 'aac8a868-55b', '7e451f63-d69', '094d5f3f-962', 'bd59920d-83e', '797b0125-cf6', '3d29c638-547', '9fe90f42-aa0', 'a3fc6194-d69', '1199bf79-bb0', 'a1a66484-720']
+confidence: 0.705
+evidence_ids: ['8d3a5764-5bb', '7df9b814-161', '24b14f52-7c1', 'f61dd267-58f', 'dcae7428-f65', '1f49fd68-713', '458a3d7f-a00', '8bd0166b-ac6', '14403b2b-e3b', 'b33e4976-400', 'ec16e150-80d', '1b3f6dbf-f77', 'b9696ae1-e4d', '24ae9ccc-43f', '755e6a25-029', 'de9abff4-269', '5cf52369-483', '607dc9ed-aee', '314e241a-94b', '17ed7bbc-280']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market
@@ -153,17 +153,17 @@ evidence_ids: ['ae39402e-c31', '419927cc-38a', '43983c41-237', '32bfb786-deb', '
 
 
 
+
 ## Auto-Updated Data (2026-07-12)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| pay per use | search | 0.90 |
-| pay only for what you use | search | 0.95 |
-| 2026 | search | 0.95 |
-| price guide | search | 0.90 |
-| digital marketing in Bangladesh | search | 0.95 |
-| pricing heatmap | search | 0.90 |
-| verified reviews | search | 0.90 |
-| hourly rates | search | 0.90 |
-| portfolios | search | 0.90 |
-| ['GEEKY SOCIAL LTD.', 'OneLittleWeb', 'BrandViser', 'MonsterClaw LLC', 'Ecomclip | search | 0.95 |
+| Real BDT pricing for SEO, Facebook Ads, Google Ads, social media, and full packa | search | 0.90 |
+| 2026-06-17 | search | 0.95 |
+| SEO, social media, Google Ads | search | 0.90 |
+| BDT | search | 0.95 |
+| bKash | search | 0.90 |
+| Bulk SMS, Email Marketing, Interactive Voice | search | 0.90 |
+| best price in digital marketing Bangladesh | search | 0.80 |
+| SEO, PPC, social media, email, influencer | search | 0.95 |
+| BDT | search | 0.90 |

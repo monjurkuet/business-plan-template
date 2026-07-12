@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-07-12
 freshness: fresh
-confidence: 0.756
-evidence_ids: ['e4d1a60f-6f8', 'fc0bccf7-dae', '8262ee97-950', '21f82ce0-6ff', '19cdc094-81b', 'e86ee34b-dc7', 'a5aecfe2-c1c', 'a8fc30eb-a55', 'ec35b29a-30a', '018b8c37-4bb', 'b277cd3a-316', '43a2b4e8-9a6', '3735aa5e-27d', 'bd97d164-943', '344dffd3-34c', 'd96259ca-ff9', 'bfc0da4a-37a', '2a763d10-19c', '9a56c03f-7b1', 'b2ccdc01-d81']
+confidence: 0.719
+evidence_ids: ['b5c28dca-df0', '7db131b5-d2b', '4377c1d1-eb9', '194856bc-ccb', '2024ad3e-e53', '83459520-288', '8dfa1820-825', '3b76d4b4-9e6', 'e7b63647-736', '3738a254-959', '89308fe2-d86', 'e44541f4-996', '464173dc-c4b', '88c5a436-2af', '4e74f895-722', '7e6ae7c3-fcb', 'a0bdbc1d-c2f', '64698549-4be', '14e2c0c3-5e0', '4a011198-56a']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -175,22 +175,23 @@ evidence_ids: ['e4d1a60f-6f8', 'fc0bccf7-dae', '8262ee97-950', '21f82ce0-6ff', '
 
 
 
+
 ## Auto-Updated Data (2026-07-12)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| LIMRS Construction and Interior | search | 1.00 |
-| Blends architecture with creative construction | search | 1.00 |
-| Artificersarc | search | 1.00 |
-| Young firm, but growing fast with solid residential work | search | 1.00 |
-| Evangel Architects | search | 1.00 |
-| Offers complete design-build solutions | search | 1.00 |
-| 2025-10-13 | search | 1.00 |
-| SAL | search | 1.00 |
-| Leader in top architecture and engineering companies in Bangladesh 2025, with a  | search | 1.00 |
-| Shellmark Limited | search | 1.00 |
-| 2012 | search | 1.00 |
-| 2014 | search | 1.00 |
-| Safe, budget-friendly designs | search | 1.00 |
-| 2023-02-14 | search | 1.00 |
-| NPDL | search | 1.00 |
+| RAJUK-registered | search | 0.90 |
+| sustainable architecture | search | 0.80 |
+| Dhaka | search | 0.95 |
+| BNBC-2020 | search | 0.95 |
+| transparent pricing | search | 0.90 |
+| ['Dhaka', 'Khulna', 'Chattogram'] | search | 0.95 |
+| growing faster than ever | search | 0.85 |
+| sustainability | search | 0.85 |
+| reshaping the nation | search | 0.80 |
+| ['company reputation values', 'client reviews', 'google data analytics'] | search | 0.95 |
+| Dhaka | search | 0.95 |
+| architecture | search | 1.00 |
+| Dhaka, Bangladesh | search | 1.00 |
+| 10 | search | 0.95 |
+| architecture | search | 1.00 |

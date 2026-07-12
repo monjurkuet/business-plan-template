@@ -2,8 +2,8 @@
 sector: food-beverage
 last_verified: 2026-07-12
 freshness: fresh
-confidence: 0.707
-evidence_ids: ['dcc45b0d-521', '2c65557c-3d7', '1f74c004-567', '26f96b09-02f', '09cb665c-8d7', '823c8a17-80e', 'aa77ef3c-22a', 'b74a15a7-80c', '98d5d867-21f', '90675fdb-722', '7eca0c69-4d0', 'a2b62c98-971', '7d35cb2a-9e6', 'cc1b12e1-bb7', '19d54c37-bad', 'a971619a-fea', 'a67a4144-39f', 'f317fd93-a65', '2b2bd55a-292', 'cef0d1c6-59d']
+confidence: 0.729
+evidence_ids: ['ffb13c0a-3f5', 'b4acf82b-5a4', 'a787d0c2-b8f', '4ec4f865-7c6', '502d303f-f20', '05e27f64-fba', '9abfcb32-2fa', '0305f0ba-b48', '2bdfa05f-9de', 'cda205a7-c23', '34d715bf-380', '89b23245-6ba', '5df7c9ab-47c', '7e2f4ae6-987', '594abc60-dfa', 'ccf43986-cee', '36a2b8a7-675', 'c96fd15e-802', '734d2177-809', '4ddfd775-bf2']
 ---
 
 # Food & Beverage — Bangladesh Market
@@ -60,22 +60,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-12)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 20 minutes from downtown Montreal | search | 0.90 |
-| rooftop | search | 0.95 |
-| stunning views and delicious cuisine | search | 0.90 |
-| Bangladeshi | search | 0.95 |
-| Delhi Belly Restaurant | search | 0.90 |
-| Famous Biryani | search | 0.90 |
-| Bangladesh Tandoori Restaurant | search | 0.95 |
-| Campbeltown | search | 0.95 |
-| 4.1 | search | 0.95 |
-| 10 | search | 0.95 |
-| ['Indian', 'Asian', 'Bangladeshi'] | search | 0.95 |
-| MOUBAN RESTURENT | search | 1.00 |
-| Kachari Bazar, Rangpur, Bangladesh | search | 0.90 |
-| Bangladeshi | search | 1.00 |
-| ['Reis (Bhat)', 'Eier (Dim)', 'Chicken byriani', 'Gemüse (shobji)', 'Linsen (Dal | search | 1.00 |
+| Bangladesh's premier restaurant discovery platform. Connecting food lovers with  | search | 0.90 |
+| 2020 | search | 0.90 |
+| The 10 best restaurants in Dhaka (2026 ranked) | search | 0.90 |
+| Dhaka | search | 1.00 |
+| 944 | search | 0.90 |
+| 31644 | search | 0.90 |
+| Dhaka City, Dhaka Division | search | 1.00 |
+| ['Dhaka', 'Uttara', 'Dhanmondi'] | search | 0.90 |
+| Bangladeshi cuisine | search | 0.90 |
+| ['family restaurants', 'local restaurants', 'fine dining'] | search | 0.90 |
+| BD Trade Info Yellow Pages | search | 0.90 |
+| food-beverage | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| ['luxury fine dining', 'affordable local', 'beachfront seafood'] | search | 0.90 |
+| ['Dhaka', 'Cox’s Bazar'] | search | 0.95 |

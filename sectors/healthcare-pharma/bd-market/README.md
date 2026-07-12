@@ -2,8 +2,8 @@
 sector: healthcare-pharma
 last_verified: 2026-07-12
 freshness: fresh
-confidence: 0.706
-evidence_ids: ['1999ed50-f5e', '7f9cddb8-b97', '9d5295bc-ef8', 'd8641909-6dc', '167f0da1-c09', '4e6c7ef4-bc7', '4c8fe998-b9c', '103da9ad-428', '9701aa47-1cb', '6bbc690c-235', '4498a7b4-0df', '7b90757b-8a7', 'bfa27a7c-522', '7acd7cee-471', '4a8ad325-dcd', '65b37d2f-c1b', 'e14a35f6-9df', 'ae5aabd0-c75', '8fbbc9cc-541', 'a3c678d9-18f']
+confidence: 0.7
+evidence_ids: ['6dad953d-f86', '101891ae-03f', '08b0cbb6-83f', '2290e4d8-adb', 'c9e4b0c9-5d7', '5b262d65-8b0', '2dfe88f0-c28', '5e6a4aaa-be4', '4194989a-e25', '55d4eada-77c', '72ccdf00-f63', '57548b5e-6b9', '70f3b7fa-a09', 'f40a3c91-d7c', '5e15f62d-2bf', '6642b36d-337', '52a28f64-f33', '250a2740-bc9', 'a776c946-2c3', '440a3246-c43']
 ---
 
 # Healthcare & Pharma — Bangladesh Market
@@ -60,18 +60,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-12)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| MedisafePharmacy | search | 1.00 |
-| Supplier Company | search | 1.00 |
-| ['Medical device', 'Natural medicine', 'Allopathic medicine'] | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| Pharmacy | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| Search for Pharmacy with Phone numbers, Locations, Reviews, Photos | search | 1.00 |
-| community-based pharmacy | search | 0.95 |
-| ['Compounding', 'consulting', 'checking prescription medications', 'delivering p | search | 0.90 |
-| Mymensingh, Bangladesh | search | 0.95 |
-| ['personalized services', 'local delivery'] | search | 0.90 |
+| resilience and competitiveness | search | 0.90 |
+| affordable healthcare and sustainable market growth | search | 0.90 |
+| 2025-09-05 | search | 1.00 |
+| 2026-01-17 | search | 1.00 |
+| market share, sales, exports, growth trends, and industry insights | search | 0.90 |
+| 675100000 | search | 0.95 |
+| Alco Pharma | search | 1.00 |
+| 1 | search | 1.00 |
+| 594600000 | search | 0.95 |
+| Orion Pharma | search | 1.00 |
+| 2 | search | 1.00 |
+| 538200000 | search | 0.95 |
+| Square Pharmaceuticals Limited | search | 1.00 |
+| 3 | search | 1.00 |
+| 2026-07 | search | 0.95 |
