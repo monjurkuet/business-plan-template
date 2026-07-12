@@ -1,9 +1,9 @@
 ---
 sector: media-marketing-digital
-last_verified: 2026-07-12
+last_verified: 2026-07-13
 freshness: fresh
-confidence: 0.7
-evidence_ids: ['53512cc0-467', '15afb949-974', '1213f6b9-a94', '4aecf90b-69b', '7f571a02-000', '2afa1247-3bd', '86490fd9-cac', '863923da-05e', '4e92455e-b61', '420a3212-d82', 'd68bbdcd-736', '5b3ac0c8-70d', '0ee9fbc8-40f', '75616da3-dac', '1571c22a-3d0', 'd8cbf48a-697', '78b2eeaf-1d8', 'e1c2d17f-11f', '1d450601-ece', 'dfd0b266-508']
+confidence: 0.706
+evidence_ids: ['5729cdd2-ac3', 'cdcfdce0-79b', '939fdc52-91f', '97008a80-f14', 'b7320fb4-7e3', 'a545968b-fce', '14feecbf-df8', 'c9071f61-eb9', '4749f062-8bc', '6ee3d8a7-fcf', '341e9e58-640', 'e5df1f0d-61c', '050bbdf7-0d2', 'f1f08470-34b', '0bad9400-f0c', '5f75746b-9cb', 'a0154962-fee', '888c15e2-2d9', '26479cde-629', 'd06982a6-338']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market
@@ -155,13 +155,16 @@ evidence_ids: ['53512cc0-467', '15afb949-974', '1213f6b9-a94', '4aecf90b-69b', '
 
 
 
-## Auto-Updated Data (2026-07-12)
+
+## Auto-Updated Data (2026-07-13)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| pay only for what you use | search | 0.90 |
-| payment per use prices for Bangladesh | search | 0.90 |
+| payment per use | search | 0.90 |
 | 2026 | search | 0.95 |
-| actual cost of digital marketing in Bangladesh for 2026, service by service | search | 0.90 |
+| budgeting for digital marketing costs in Bangladesh | search | 0.90 |
+| Catch Bangladesh | search | 0.95 |
+| ['media buying', 'SEO', 'web development'] | search | 0.90 |
+| 100% of reviewers appreciate proactive problem-solving and timely delivery | search | 0.90 |
 | 207 | search | 0.95 |
-| Bangladesh-based IT companies started to export software around two decades ago, | search | 0.90 |
+| Bangladesh-based IT companies started exporting software around two decades ago, | search | 0.90 |

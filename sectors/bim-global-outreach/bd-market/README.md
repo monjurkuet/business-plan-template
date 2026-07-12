@@ -1,9 +1,9 @@
 ---
 sector: bim-global-outreach
-last_verified: 2026-07-12
+last_verified: 2026-07-13
 freshness: fresh
-confidence: 0.751
-evidence_ids: ['572a988c-9d2', 'be10c2d5-f64', '44ba0316-1ec', '5ce9d464-204', '8a4eb8c1-14a', 'cdb689ca-d65', '093b7507-507', '79299584-e81', '553139e9-9a2', '4979548d-8b1', 'e0b683b0-91b', '61c51190-9bb', '1422d402-504', '7252f907-e19', '5edb9829-63e', '5549775a-cda', 'ed0996cf-7b8', 'fd50e04a-ce9', '589724e8-868', '5c49a901-5a8']
+confidence: 0.737
+evidence_ids: ['f743d387-29c', '9603f5e6-f8d', '44ba31e4-c6d', '7c101bdf-a5c', '4aa87b07-0b0', '730b2936-3f1', '09b0328e-bf8', 'cb007e1f-b87', '8d6f868e-f0f', '3c4e6e08-79d', '1eaf7375-8c6', 'd355a7bb-a00', '61a0b165-1fd', '76414018-924', '81bf35aa-e8d', 'a4731172-3e1', 'ece5ec69-bf2', 'a3f0ba13-63a', 'c367403d-4bb', 'd8aa4135-83f']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -177,22 +177,23 @@ evidence_ids: ['572a988c-9d2', 'be10c2d5-f64', '44ba0316-1ec', '5ce9d464-204', '
 
 
 
-## Auto-Updated Data (2026-07-12)
+
+## Auto-Updated Data (2026-07-13)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| interior design | search | 0.90 |
+| RAJUK-registered | search | 0.90 |
+| sustainable architecture | search | 0.80 |
+| Dhaka | search | 0.95 |
+| growing faster than ever | search | 0.90 |
+| ['Dhaka', 'Khulna', 'Chattogram'] | search | 0.95 |
+| BNBC-2020 | search | 0.95 |
+| ['design creativity', 'BNBC-2020 compliance', 'transparent pricing', 'reliable p | search | 0.90 |
+| sustainability | search | 0.85 |
+| reshaping the nation | search | 0.80 |
+| Dhaka | search | 0.95 |
+| ['company reputation', 'client reviews', 'google data analytics'] | search | 0.90 |
+| Solusphere Architects | search | 1.00 |
 | Dhaka, Bangladesh | search | 1.00 |
-| firm | search | 0.90 |
-| Globats | search | 1.00 |
-| systems architecture | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| building automation-first business ecosystems | search | 1.00 |
-| firm | search | 1.00 |
-| NBBJ | search | 1.00 |
-| architecture and design | search | 1.00 |
-| TIME's Most Influential Companies List (only architecture firm) | search | 1.00 |
-| Fast Company's World’s Most Innovative Architecture Firms (fifth time) | search | 1.00 |
-| firm | search | 1.00 |
-| EYRC Architects | search | 1.00 |
-| architecture | search | 1.00 |
+| ['sustainability', 'client collaboration', 'timeless elegance', 'functional desi | search | 0.95 |
+| architectural solutions | search | 1.00 |

@@ -1,9 +1,9 @@
 ---
 sector: education-training
-last_verified: 2026-07-12
+last_verified: 2026-07-13
 freshness: fresh
-confidence: 0.702
-evidence_ids: ['d5751620-8e5', 'e78b988b-10c', 'eaf3a551-26b', '2f277417-783', '82115f02-899', '960e2684-4ea', 'a2d34dd8-be2', '33fc33d8-52c', '34e06f80-37b', 'c6251ed9-75e', '1ce14088-b06', '330752c8-e65', '9950ea73-d3d', '973e1a97-6fc', '5de16872-3cb', 'e3124c10-2e5', '0c0c1c7f-c65', '47e32cb5-c5f', '3ee23cc2-56e', 'd4a36953-da6']
+confidence: 0.7
+evidence_ids: ['3866c2fb-e27', '54477279-6fe', 'ce838ce7-64f', 'ccc216a9-0cd', '6ccb0316-17b', 'fa9b6aaf-2ed', 'd6c29c8a-676', '9e00e227-e0e', '1cc6a2c1-3fb', '8ad7e34d-93a', 'b9300bd8-094', 'cb947ba5-187', 'e039389e-673', 'ed707cbe-a75', '6211741b-07c', '88f9d5f8-7ba', '0cc27678-850', '566686e4-583', 'a3378009-790', '1f0dd3a2-624']
 ---
 
 # Education & Training — Bangladesh Market
@@ -60,22 +60,17 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
-## Auto-Updated Data (2026-07-12)
+
+## Auto-Updated Data (2026-07-13)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Medico Coaching Center | search | 1.00 |
-| education-training | search | 1.00 |
-| specialized coaching services for Medical and University Admission Test preparat | search | 1.00 |
-| ['offline', 'online'] | search | 0.90 |
-| Enroute Center for Development | search | 0.95 |
-| executive training | search | 0.95 |
-| all employee levels | search | 0.90 |
-| Bangladesh | search | 1.00 |
-| FutureLeaders (FLS) | search | 0.95 |
-| leadership and soft skills training | search | 0.95 |
-| outdoor training (Outbound/Adventure training) | search | 0.95 |
-| no.1 outdoor training provider in Bangladesh | search | 0.90 |
-| top MNCs, national corporations | search | 0.90 |
-| Bangladesh | search | 1.00 |
-| 2026-02-04 | search | 0.90 |
+| +880 174 639 85 13 | search | 0.95 |
+| Lalbag, Dhaka | search | 0.95 |
+| Ram Coaching Center | search | 0.95 |
+| educational center | search | 0.95 |
+| Easy Learning Coaching Center | search | 0.90 |
+| Chattogram, Bangladesh | search | 0.90 |
+| National University, Bangladesh | search | 0.90 |
+| Easy Coaching Center (E.C.C) | search | 0.95 |
+| Jaleshwaritola, Bogra, Bangladesh | search | 0.95 |

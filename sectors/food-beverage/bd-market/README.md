@@ -1,9 +1,9 @@
 ---
 sector: food-beverage
-last_verified: 2026-07-12
+last_verified: 2026-07-13
 freshness: fresh
-confidence: 0.722
-evidence_ids: ['9450e1a6-689', 'ffdab418-20e', 'b771ef4d-80d', '6b9898dd-0ef', 'd6cdfacb-44f', 'f15d18bf-2db', '0c7586dc-de5', 'c222c870-cfa', '2f0b7a8d-623', '0fd41a17-682', '4b0712ff-4be', 'ffe6b6f4-0ba', '9938a624-eff', 'e9d6a406-436', '00261084-d52', '2a41e327-984', 'ad6c6539-0f5', '4338805f-a18', '58ca8611-5cf', '4e7479b7-8aa']
+confidence: 0.714
+evidence_ids: ['c4111e6e-f73', 'af2c3211-0d3', '62bd2ef3-c43', 'a4483ac6-dfc', '2cd42a73-03a', '04b1f662-f1b', '257cfe5b-572', 'bf708863-75b', '923e05d0-f62', 'f901e98b-cdc', '06261ffc-39a', '12567133-efd', '98613e07-34b', 'ddb0dd92-243', '541e3662-57b', 'cc773714-b56', '419f7ed6-f05', 'a6f5013c-4e0', '52348fbd-104', 'ee655431-18d']
 ---
 
 # Food & Beverage — Bangladesh Market
@@ -62,22 +62,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
-## Auto-Updated Data (2026-07-12)
+
+## Auto-Updated Data (2026-07-13)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 2020 | search | 0.90 |
-| 2016-12-09 | search | 0.95 |
-| Burger King | search | 1.00 |
-| Tiffinbox Ltd. (Bangla Trac Group) | search | 0.95 |
-| Pizza Hut | search | 0.90 |
-| 944 | search | 0.95 |
-| 31644 | search | 0.95 |
-| food-beverage | search | 1.00 |
-| ['Dhaka', 'Uttara', 'Dhanmondi'] | search | 0.90 |
-| ['family restaurants', 'local restaurants', 'fine dining'] | search | 0.90 |
-| company listing in BD Trade Info Yellow Pages | search | 0.90 |
-| Moharani Coffee House | search | 0.80 |
-| Bangladeshi-inspired | search | 0.90 |
-| Houston | search | 0.80 |
+| Best Rooftop Restaurant in Bangladesh | search | 0.90 |
+| Bangladesh | search | 1.00 |
+| rooftop | search | 0.90 |
+| stunning views and delicious cuisine | search | 0.90 |
+| Famous Biryani Restaurant In Bangladesh | search | 0.80 |
+| Delhi Belly Restaurant | search | 0.80 |
 | Bangladeshi | search | 0.90 |
+| Bangladesh Tandoori Restaurant | search | 1.00 |
+| Campbeltown | search | 1.00 |
+| 4.1 | search | 1.00 |
+| 9 | search | 1.00 |
+| 86 | search | 1.00 |
+| Bangladesh Restaurant | search | 1.00 |
+| 118 Luttig St, Pretoria West, South Africa | search | 1.00 |
+| Bangladeshi | search | 1.00 |

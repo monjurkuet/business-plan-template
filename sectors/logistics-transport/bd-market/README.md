@@ -1,9 +1,9 @@
 ---
 sector: logistics-transport
-last_verified: 2026-07-12
+last_verified: 2026-07-13
 freshness: fresh
-confidence: 0.675
-evidence_ids: ['d61fab18-a92', '111ea049-6be', 'f5d9e476-8e3', 'd7adb212-f4a', 'cf0990ad-754', '287abc65-557', '2ad5b930-c93', 'e158e864-893', 'e2e07195-bae', 'accb0e5d-3e7', 'b5263892-1fb', '39040a6f-607', 'e3faa398-d48', '1bab41c1-37a', '324b6742-494', 'fe1d3842-316', '4d01eeb9-ce0', '1368bb22-16b', 'a46e08f5-6c8', '44ac36fd-81c']
+confidence: 0.693
+evidence_ids: ['988c877a-223', 'b5a57537-9e1', 'e9faa9bd-508', '50f06333-567', 'b7e0f7a4-01f', 'eda340b2-1e0', '6f3338c2-3c8', 'ad388caa-a25', 'bc68fbf8-d08', '9d3ce486-ee4', '3acbff52-0a7', 'acb6e5bd-19e', '08e2b4e6-0d4', '13951a5c-b98', 'c9179a37-acc', 'f11a77b0-79f', '43d2702a-205', '6e289b8c-9ef', '016ba37b-234', 'ace6181c-52c']
 ---
 
 # Logistics & Transport — Bangladesh Market
@@ -45,11 +45,16 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
-## Auto-Updated Data (2026-07-12)
+
+## Auto-Updated Data (2026-07-13)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Dml Worldwide Express Bangladesh Ltd | search | 1.00 |
-| courier service | search | 1.00 |
+| DML Worldwide Express Bangladesh Ltd | search | 0.95 |
+| Oyala Sundarban Courier Service Ltd | search | 0.95 |
+| Flying Jet Courier Ltd | search | 0.95 |
+| Excelsior Express | search | 0.90 |
+| Pack-In | search | 0.90 |
+| Ace Courier Service | search | 0.95 |
+| Courier Service | search | 0.95 |
 | Bangladesh | search | 1.00 |
-| ['Oyala Sundarban Courier Service Ltd', 'Flying Jet Courier Ltd', 'Excelsior Exp | search | 0.95 |

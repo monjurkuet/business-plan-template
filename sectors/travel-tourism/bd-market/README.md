@@ -1,9 +1,9 @@
 ---
 sector: travel-tourism
-last_verified: 2026-07-12
+last_verified: 2026-07-13
 freshness: fresh
-confidence: 0.704
-evidence_ids: ['11a9fc29-71a', '574106e5-512', '3a3bcfbe-42f', '850aedfa-ca3', '1514d711-bd4', '24b0f736-926', 'febdd8da-877', '43b3d811-5ef', '84eb2d83-cd5', '699447d8-18d', 'edf62dcf-8de', '352b7418-0d8', '989d5458-5af', '70391787-f4a', 'c046ea96-4c8', '9058e4ad-403', 'fa991bca-ac4', 'b7f6d4e1-0d1', '001309ae-139', '0f368b54-55e']
+confidence: 0.718
+evidence_ids: ['e9b8c873-4b5', '4fdefff7-107', '629bc3d3-083', 'c2fd8fd5-1ab', '84eb76b9-aa4', 'c3c932f5-f82', 'dbe4b4a9-94c', '4fca3982-e8f', 'a5276f05-7a6', 'b1a919a0-921', '12305398-598', '6c86bd4d-636', '96d00645-cd5', '875a83ba-e98', '85982a2e-af6', 'c3bbb56c-be9', '8b38ed53-5a0', 'db48a5b0-6ae', 'f37aece1-f56', 'd2e3bfa0-92a']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -136,22 +136,23 @@ evidence_ids: ['11a9fc29-71a', '574106e5-512', '3a3bcfbe-42f', '850aedfa-ca3', '
 
 
 
-## Auto-Updated Data (2026-07-12)
+
+## Auto-Updated Data (2026-07-13)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ['hotels', 'visa', 'tours', 'flight booking'] | search | 0.95 |
-| trusted | search | 0.90 |
-| IATA-certified | search | 0.95 |
-| ['flights', 'visas', 'tours', 'Umrah'] | search | 0.95 |
-| 10,000+ happy customers | search | 0.90 |
+| tour and travel packages | search | 0.90 |
+| affordable price | search | 0.80 |
+| 7%+ | search | 0.95 |
+| 500000 | search | 0.95 |
 | 2017 | search | 0.95 |
-| Dhaka, Bangladesh | search | 0.95 |
-| ['air ticketing', 'visa processing', 'holiday packages', 'global tours'] | search | 0.95 |
-| trusted by thousands of travelers | search | 0.90 |
-| ['leisure', 'business', 'Hajj', 'study abroad'] | search | 0.95 |
-| flights, hotels, visa services, Umrah & holiday packages | search | 0.95 |
-| cheap, best fares | search | 0.90 |
-| online travel agency | search | 1.00 |
-| first & leading in Bangladesh | search | 0.95 |
-| air tickets, hotels, tour packages | search | 0.95 |
+| 42337956 | search | 0.95 |
+| wholesale fares, visa support, dedicated account manager | search | 0.90 |
+| 2026-06 | search | 0.90 |
+| ['Dream International', "Cox's Bazar Travels", 'Holiday International', 'Bengal  | search | 0.95 |
+| air ticketing, visa processing, customized tour packages | search | 0.90 |
+| study abroad, visa services, cheap air tickets | search | 0.95 |
+| ['UK', 'Canada', 'Russia', 'USA'] | search | 0.95 |
+| Hajj & Umrah packages, visa services (medical, student, visit), flight bookings, | search | 0.95 |
+| 2020 | search | 0.95 |
+| licensed | search | 0.90 |

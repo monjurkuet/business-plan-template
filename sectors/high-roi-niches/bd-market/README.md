@@ -1,9 +1,9 @@
 ---
 sector: high-roi-niches
-last_verified: 2026-07-12
+last_verified: 2026-07-13
 freshness: fresh
-confidence: 0.728
-evidence_ids: ['ccbf44be-96d', '43d8f6bb-44d', '755ce15f-128', '0d8e5de1-4e4', '31195323-efb', '66e42a8e-fc1', 'a99efbaa-129', '361e6d81-db6', 'c551e8d7-f22', 'f30d2aea-976', '4857d577-fca', 'b77a332f-f16', 'bc38b9d2-04d', 'c044c385-31b', 'fe8e6c3f-da1', '2952e885-217', 'b95402a6-07c', '339461e4-0bb', '4148d0a5-641', 'ea548b5f-715']
+confidence: 0.703
+evidence_ids: ['cead0178-f39', 'cffe8efe-f48', 'a6d382ae-8da', '6eea7b91-37e', 'e6049b33-e71', 'c4a98242-7d5', '07886347-86e', '0ca4835d-0d5', '60aa304b-aa8', '8fa2356e-d38', '92792bfe-d37', '1662ba62-e82', '49c4e792-9a4', '4373e376-27c', '29a45032-635', '8cd4f9c3-158', '555d0ee2-c59', '4c5314fd-e61', 'd6d7891e-131', '69040fb4-3a0']
 ---
 
 # High-ROI Niches — Bangladesh Market
@@ -151,19 +151,19 @@ This sector captures high-growth, high-margin niche opportunities in Bangladesh.
 
 
 
-## Auto-Updated Data (2026-07-12)
+
+## Auto-Updated Data (2026-07-13)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| online pet shop | search | 0.90 |
-| pet supplies, vet booking, pet adoption, AI vet consultation | search | 0.80 |
-| doorstep delivery | search | 0.90 |
-| pet care platform | search | 0.90 |
-| vet booking, pet product shopping, free AI vet consultation, pet adoption | search | 0.90 |
-| cat food, toys, grooming products, accessories | search | 0.95 |
-| premium-quality, top-rated customer service, trusted brands | search | 0.90 |
-| online pet shop | search | 0.90 |
-| pet products, food, toys, accessories | search | 0.95 |
-| fast delivery, affordable prices, top-notch customer service | search | 0.90 |
-| feline patient care | search | 0.90 |
-| Banasree pet clinic | search | 0.95 |
+| HIT LIFE cat food | search | 0.90 |
+| grain-free cat food | search | 0.90 |
+| cat food price reveal, pet care Bangladesh | search | 0.80 |
+| PetZone BD | search | 0.90 |
+| petzonebd.com | search | 0.90 |
+| Pampered Paws Bangladesh | search | 0.80 |
+| PetCare Bangladesh | search | 0.90 |
+| MH Imran | search | 0.90 |
+| Managing Director | search | 0.90 |
+| Dog neutering campaign | search | 0.90 |
+| JU (Jahangirnagar University) | search | 0.80 |

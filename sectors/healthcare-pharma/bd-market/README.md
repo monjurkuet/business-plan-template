@@ -1,9 +1,9 @@
 ---
 sector: healthcare-pharma
-last_verified: 2026-07-12
+last_verified: 2026-07-13
 freshness: fresh
-confidence: 0.664
-evidence_ids: ['7821b384-30f', '41720be4-1e2', '6b2b21c1-5d3', 'cb7fd45b-66b', '47030b33-eb2', 'cd93a64f-b8f', '85fc339c-8c3', '38965de6-7e6', '68a0946b-f64', '7c144117-c80', '713076e0-49c', 'f2138dc2-8f9', 'ce54be64-473', '3a7a7c89-308', '42e02049-1b0', '078e98cb-e91', 'cdfa5ef9-5c4', 'c2d9c7cd-57a', 'aaace93b-0f3', '1e42d3a7-787']
+confidence: 0.671
+evidence_ids: ['305e460a-c5a', 'f6bc8f85-a38', '83fb5654-bd1', 'a4b38632-3c4', 'b1ccbf42-c16', '3b927da8-41c', '0e42dfb4-fb9', 'f5f0c139-b67', '8260cebc-853', 'ddcadcf3-7b1', 'ba18c185-62a', 'a4ba850a-3a9', '24df5c01-831', 'fe1db683-5f7', '8c1b0ec5-a6a', '182bc527-07e', 'c8a5217e-fac', 'e1e3f5f0-3cb', '06cffd04-1ee', '18ad38cf-9a5']
 ---
 
 # Healthcare & Pharma — Bangladesh Market
@@ -61,22 +61,19 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
-## Auto-Updated Data (2026-07-12)
+
+## Auto-Updated Data (2026-07-13)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| resilience and competitiveness | search | 0.90 |
-| affordable healthcare and sustainable market growth | search | 0.90 |
-| 2025-09-05 | search | 1.00 |
-| 2026-01-17 | search | 1.00 |
-| market share, sales, exports, growth trends, and industry insights | search | 0.90 |
-| 675100000 | search | 0.95 |
+| 675.1 | search | 1.00 |
 | Alco Pharma | search | 1.00 |
 | 1 | search | 1.00 |
-| 594600000 | search | 0.95 |
+| 594.6 | search | 1.00 |
 | Orion Pharma | search | 1.00 |
 | 2 | search | 1.00 |
-| 538200000 | search | 0.95 |
+| 538.2 | search | 1.00 |
 | Square Pharmaceuticals Limited | search | 1.00 |
 | 3 | search | 1.00 |
-| 2026-07 | search | 0.95 |
+| Square Pharmaceuticals Limited | search | 1.00 |
+| 1 | search | 1.00 |

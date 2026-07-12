@@ -1,9 +1,9 @@
 ---
 sector: electronics-gadgets
-last_verified: 2026-07-12
+last_verified: 2026-07-13
 freshness: fresh
-confidence: 0.706
-evidence_ids: ['c7803a38-e71', 'f81c2c94-934', 'dace78be-f44', 'e6d5f152-276', 'e88baf20-fa4', '506d6270-f0f', 'de5a6f7c-332', '8d25538e-f7e', '2df6d20f-f1b', '937d6f0a-c02', 'ef59510f-894', '8f37e56b-63b', '6b317afb-610', 'baa36fb6-577', '723e85d4-c9b', '570096a2-f6a', '52c130cb-403', '84304710-640', 'd5681901-f44', '55c031cb-17e']
+confidence: 0.708
+evidence_ids: ['fa15fa7a-ca4', '2eb51467-3f1', '373b99b0-1ea', '9ba30570-c1f', 'c1947b7f-cb7', 'a83fe10f-e3f', '0cbc1b2e-1d8', '27314fc4-174', '059769e0-a38', '824ba33a-888', '5e2e71cd-f89', 'b82d6250-c75', '4e0aeb78-07b', 'cd553759-9b6', '8744a4f7-7f3', '35435050-e1c', '2f539e4b-4d2', '83b9ea37-f6d', 'c41b979e-a52', '9b8f77e8-308']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -162,22 +162,20 @@ evidence_ids: ['c7803a38-e71', 'f81c2c94-934', 'dace78be-f44', 'e6d5f152-276', '
 
 
 
-## Auto-Updated Data (2026-07-12)
+
+## Auto-Updated Data (2026-07-13)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Speaker & Soundbar | search | 0.95 |
-| 11900-130900 | search | 0.95 |
-| Samsung Microwave Oven | search | 0.90 |
-| Express Delivery | search | 0.90 |
-| official warranty | search | 0.90 |
-| 0-0 | search | 0.80 |
-| 0 | search | 0.80 |
-| 1 in stock, 1 on discount | search | 0.80 |
-| 2026-02-06 | search | 0.90 |
-| 100% Authentic & Quality Products | search | 0.90 |
+| competitive prices on all products | search | 0.90 |
+| 0৳ - 0৳ | search | 0.80 |
+| 1 in stock, 1 on discount | search | 0.90 |
+| 2026-02-06 | search | 0.95 |
 | 01719117333 | search | 0.95 |
-| Gadgets & Premium Accessories | search | 0.95 |
-| Free Shipping | search | 0.90 |
-| 15.00 | search | 0.80 |
-| BRANDS MEGA LTD | search | 0.95 |
+| 100% Authentic & Quality Products as an Authorized Shop | search | 0.95 |
+| best prices | search | 0.90 |
+| Free Shipping | search | 0.95 |
+| best prices, offers, and discounts on electronics | search | 0.90 |
+| 15.00 | search | 0.90 |
+| BRANDS MEGA LTD | search | 1.00 |
+| Navana Tower (Level-18) 45 Gulshan Avenue, Gulshan-1 Dhaka -1212, Bangladesh | search | 1.00 |

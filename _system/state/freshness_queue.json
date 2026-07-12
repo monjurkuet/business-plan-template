@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T12:00:52.083054+00:00",
+  "generated_at": "2026-07-12T18:02:01.316013+00:00",
   "summary": {
     "fresh": 85,
     "stale": 29,
@@ -561,12 +561,12 @@
       "path": "sectors/automotive-car-care/bd-market/research/2026-05-06-full-landscape-report.md",
       "sector": "automotive-car-care",
       "category": "competitor_core_profile",
-      "age_days": 66,
+      "age_days": 67,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 45,
       "critical_after_days": 90,
-      "reason": "File age 66d exceeds freshness threshold for competitor_core_profile"
+      "reason": "File age 67d exceeds freshness threshold for competitor_core_profile"
     },
     {
       "path": "sectors/bim-global-outreach/bd-market/README.md",
@@ -627,12 +627,12 @@
       "path": "sectors/clothing-fashion/bd-market/research/2026-05-06-full-landscape-report.md",
       "sector": "clothing-fashion",
       "category": "competitor_core_profile",
-      "age_days": 66,
+      "age_days": 67,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 45,
       "critical_after_days": 90,
-      "reason": "File age 66d exceeds freshness threshold for competitor_core_profile"
+      "reason": "File age 67d exceeds freshness threshold for competitor_core_profile"
     },
     {
       "path": "sectors/construction-real-estate/bd-market/regulatory.md",
@@ -649,23 +649,23 @@
       "path": "sectors/crypto-bitcoin/bd-market/research/2026-05-06-full-landscape-report.md",
       "sector": "crypto-bitcoin",
       "category": "competitor_core_profile",
-      "age_days": 66,
+      "age_days": 67,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 45,
       "critical_after_days": 90,
-      "reason": "File age 66d exceeds freshness threshold for competitor_core_profile"
+      "reason": "File age 67d exceeds freshness threshold for competitor_core_profile"
     },
     {
       "path": "sectors/education-training/bd-market/regulatory.md",
       "sector": "education-training",
       "category": "policy",
-      "age_days": 8,
+      "age_days": 9,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 7,
       "critical_after_days": 21,
-      "reason": "File age 8d exceeds freshness threshold for policy"
+      "reason": "File age 9d exceeds freshness threshold for policy"
     },
     {
       "path": "sectors/electronics-gadgets/bd-market/README.md",
@@ -682,12 +682,12 @@
       "path": "sectors/electronics-gadgets/bd-market/research/2026-05-06-full-landscape-report.md",
       "sector": "electronics-gadgets",
       "category": "competitor_core_profile",
-      "age_days": 66,
+      "age_days": 67,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 45,
       "critical_after_days": 90,
-      "reason": "File age 66d exceeds freshness threshold for competitor_core_profile"
+      "reason": "File age 67d exceeds freshness threshold for competitor_core_profile"
     },
     {
       "path": "sectors/food-beverage/bd-market/README.md",
@@ -748,12 +748,12 @@
       "path": "sectors/high-roi-niches/bd-market/research/2026-05-06-full-landscape-report.md",
       "sector": "high-roi-niches",
       "category": "competitor_core_profile",
-      "age_days": 66,
+      "age_days": 67,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 45,
       "critical_after_days": 90,
-      "reason": "File age 66d exceeds freshness threshold for competitor_core_profile"
+      "reason": "File age 67d exceeds freshness threshold for competitor_core_profile"
     },
     {
       "path": "sectors/jewellery/bd-market/README.md",
@@ -770,12 +770,12 @@
       "path": "sectors/jewellery/bd-market/research/2026-05-06-full-landscape-report.md",
       "sector": "jewellery",
       "category": "competitor_core_profile",
-      "age_days": 66,
+      "age_days": 67,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 45,
       "critical_after_days": 90,
-      "reason": "File age 66d exceeds freshness threshold for competitor_core_profile"
+      "reason": "File age 67d exceeds freshness threshold for competitor_core_profile"
     },
     {
       "path": "sectors/logistics-transport/bd-market/README.md",
@@ -792,12 +792,12 @@
       "path": "sectors/logistics-transport/bd-market/regulatory.md",
       "sector": "logistics-transport",
       "category": "policy",
-      "age_days": 8,
+      "age_days": 9,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 7,
       "critical_after_days": 21,
-      "reason": "File age 8d exceeds freshness threshold for policy"
+      "reason": "File age 9d exceeds freshness threshold for policy"
     },
     {
       "path": "sectors/media-marketing-digital/bd-market/README.md",
@@ -814,12 +814,12 @@
       "path": "sectors/media-marketing-digital/bd-market/research/2026-05-06-full-landscape-report.md",
       "sector": "media-marketing-digital",
       "category": "competitor_core_profile",
-      "age_days": 66,
+      "age_days": 67,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 45,
       "critical_after_days": 90,
-      "reason": "File age 66d exceeds freshness threshold for competitor_core_profile"
+      "reason": "File age 67d exceeds freshness threshold for competitor_core_profile"
     },
     {
       "path": "sectors/travel-tourism/bd-market/README.md",
@@ -836,12 +836,12 @@
       "path": "sectors/travel-tourism/bd-market/research/2026-05-06-full-landscape-report.md",
       "sector": "travel-tourism",
       "category": "competitor_core_profile",
-      "age_days": 66,
+      "age_days": 67,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 45,
       "critical_after_days": 90,
-      "reason": "File age 66d exceeds freshness threshold for competitor_core_profile"
+      "reason": "File age 67d exceeds freshness threshold for competitor_core_profile"
     },
     {
       "path": "sectors/bim-global-outreach/bd-market/sentiment-analysis.md",

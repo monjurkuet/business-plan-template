@@ -1,9 +1,9 @@
 ---
 sector: clothing-fashion
-last_verified: 2026-07-12
+last_verified: 2026-07-13
 freshness: fresh
-confidence: 0.724
-evidence_ids: ['2f4b4ffc-c0a', '1b4f3e2b-48b', '9aafc12b-22f', '141946d5-865', '4b010b12-0b7', '2e4ba5ab-40e', 'f898cac0-7e4', '649dc7ac-bc7', '05d2a42c-70d', 'fd613925-c76', '4d9fe282-ea8', '6f7ded55-034', '4de66069-0bb', '404ff2a2-6a6', 'f51abb9c-e1b', '567bf264-63d', 'dca7da71-422', '995ca3fe-fb7', '0492cbce-6c8', '4db82a7e-2a0']
+confidence: 0.715
+evidence_ids: ['84a1e53f-082', 'fc78cbcd-f91', '545bab67-eba', '6ec45451-041', '961378fd-f50', '44ac4a5c-46f', '9138c734-4f5', 'fee264cb-823', '92a524bb-119', '6bd6baf0-cdc', '6076eca3-e05', '22d55456-673', '15a7a6ca-d57', '3474ec54-962', '21e33c3e-9fb', 'f89986d3-68c', '6fb54570-cfe', '4953f112-ba4', 'a48ceb04-68b', '9cdfcf65-4cd']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -174,22 +174,23 @@ evidence_ids: ['2f4b4ffc-c0a', '1b4f3e2b-48b', '9aafc12b-22f', '141946d5-865', '
 
 
 
-## Auto-Updated Data (2026-07-12)
+
+## Auto-Updated Data (2026-07-13)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Tyzo | search | 1.00 |
-| modern Bangladeshi clothing brand offering stylish, comfortable, and affordable  | search | 1.00 |
-| premium-quality outfits, perfect fits, fast delivery, reliable service | search | 1.00 |
+| 300 COTTON TERRY CLOTH CLEANING RAGS / SHOP TOWELS / 12X12- 25 DOZ. / WHOLESALE | search | 0.90 |
+| 3.5 | search | 0.90 |
 | Bangladesh | search | 1.00 |
-| 1490-2490 | search | 1.00 |
-| Zaina Vol 19 Pakistani Suit | search | 1.00 |
-| 1490 | search | 1.00 |
-| 2026-07 | search | 0.90 |
-| Twelve Clothing | search | 1.00 |
-| Bangladesh’s leading fashion brand | search | 1.00 |
-| premium clothing, trendy menswear, womenswear, kidswear, panjabi, kurti, gowns,  | search | 1.00 |
-| Best prices in home delivery | search | 0.80 |
-| 88 cents/lb | search | 0.95 |
-| fell over the past month | search | 0.90 |
-| Strait of Hormuz closure sending oil and gas prices skyrocketing | search | 0.90 |
+| RD style women black dress warm size M Knitted | search | 0.90 |
+| ['best match', 'price', 'free shipping', 'fast delivery', 'free return'] | search | 0.90 |
+| baggy pants | search | 1.00 |
+| boys | search | 1.00 |
+| affordable | search | 0.90 |
+| all over Bangladesh | search | 1.00 |
+| ['t-shirts', 'polo shirts', 'casual shirts', 'summer wear'] | search | 1.00 |
+| fast | search | 0.90 |
+| across Bangladesh | search | 1.00 |
+| 88 | search | 1.00 |
+| cotton | search | 1.00 |
+| fell | search | 1.00 |

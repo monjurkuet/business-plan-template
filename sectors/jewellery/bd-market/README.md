@@ -1,9 +1,9 @@
 ---
 sector: jewellery
-last_verified: 2026-07-12
+last_verified: 2026-07-13
 freshness: fresh
-confidence: 0.706
-evidence_ids: ['439e6859-2b7', 'f91c77b2-4fb', '38b27c93-f77', '9fa240d7-414', 'a5c96979-431', 'eb626528-583', '64e2ae65-7e4', '1a00d17b-5d0', '8edb8905-172', '7f3a68a6-879', '9bee2b95-5c9', '320ac0ce-9d9', 'a3337d80-eb3', '2143e5d5-b64', 'b4d2b3e2-42d', '189a3a84-12a', '795cc73c-2d7', '829996dd-2cc', '6e5272cb-c38', '0f4a65f8-f50']
+confidence: 0.696
+evidence_ids: ['4c455984-e63', '2f4328e3-a88', '3a3c6370-7dc', '5f859266-242', 'a4330a47-58e', '0179114a-0af', 'fd1da04d-db6', 'ea549194-b91', 'f0aa3e66-0af', '2a91624b-43f', 'af90b707-d5b', 'a9700fdd-abf', 'a5465c58-213', 'f19d29af-3e2', 'd3d0e942-c5c', 'c41535f8-8f5', 'af1ae0f2-d30', '16bb5e0e-a83', 'dc7af43b-56e', 'f8dfbcbd-828']
 ---
 
 # Jewellery — Bangladesh Market
@@ -149,13 +149,12 @@ evidence_ids: ['439e6859-2b7', 'f91c77b2-4fb', '38b27c93-f77', '9fa240d7-414', '
 
 
 
-## Auto-Updated Data (2026-07-12)
+
+## Auto-Updated Data (2026-07-13)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 377 | search | 0.90 |
-| Bangladesh | search | 0.80 |
-| jhumka earrings | search | 0.90 |
-| jewellery bangladesh | search | 0.90 |
-| ['pendant necklaces', 'statement necklaces', 'choker necklaces'] | search | 0.80 |
+| jhumka (earrings) | search | 0.90 |
+| 377 Riyal | search | 0.80 |
+| Bangladesh jewellery style | search | 0.85 |
 | ['gold', 'silver', 'diamond', 'antique', 'earthen', 'wooden'] | search | 0.90 |

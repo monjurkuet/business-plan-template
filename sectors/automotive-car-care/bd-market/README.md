@@ -1,9 +1,9 @@
 ---
 sector: automotive-car-care
-last_verified: 2026-07-12
+last_verified: 2026-07-13
 freshness: fresh
-confidence: 0.693
-evidence_ids: ['b515aa72-511', '560b4f43-16a', '3cac0f43-483', '62c1b012-279', '539049a6-99d', '1a56c11b-f27', 'd9740419-1bd', '4bf68ad1-a57', '60f9dca7-163', '374c5fe1-94b', 'f2ad4fe6-43f', '5aff3fdc-c57', '559368c0-f05', '753e0f5a-346', '7e10e7a9-2f5', 'ed0a95f7-a59', '4c809a33-93b', 'b2ede22b-e76', 'b496adfe-d33', 'e7f75241-704']
+confidence: 0.704
+evidence_ids: ['fdc5414a-5a3', '92683941-c05', '3ab87439-97c', '004af89c-612', '47e093c0-346', 'd53e1bde-ecd', '138d34ab-088', 'b7f68af0-a5f', '67510e78-126', 'b355418a-99f', '71a4a45f-0e5', '52a71a27-c40', 'f460520f-a9f', 'b17e4b46-819', '6f0d196f-6d6', 'f76e62b6-2c5', 'ba7f5b6d-694', 'd4c40b46-424', '45b7610f-130', '91e63ec5-40c']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -185,16 +185,21 @@ evidence_ids: ['b515aa72-511', '560b4f43-16a', '3cac0f43-483', '62c1b012-279', '
 
 
 
-## Auto-Updated Data (2026-07-12)
+
+## Auto-Updated Data (2026-07-13)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| +8801762499688 | search | 1.00 |
-| car wash and car cleaning services | search | 1.00 |
-| Dhaka, Bangladesh | search | 0.90 |
-| Kärcher Bike & Car Wash demo event | search | 1.00 |
-| Savar, Dhaka, Bangladesh | search | 1.00 |
-| Germany | search | 1.00 |
-| +880 131 506 34 00 | search | 1.00 |
-| Narayanganj, Dhaka Division, Bangladesh | search | 1.00 |
-| তোয়ামিন স্টোর (Toamin Store) | search | 1.00 |
+| 900 | search | 0.98 |
+| 2500 | search | 0.98 |
+| GariBuzz | search | 0.98 |
+| doorstep car wash | search | 0.98 |
+| Biswas Automobiles | search | 0.98 |
+| Dhaka, Bangladesh | search | 0.98 |
+| car wash and polish | search | 0.98 |
+| Basic Car Wash | search | 0.95 |
+| Premium Car Wash | search | 0.95 |
+| Pressure Wash with Foam, Interior Dry Vacuum, General Wiping | search | 0.90 |
+| Affordable Price | search | 0.85 |
+| Dhaka, Bangladesh | search | 0.95 |
+| eco-friendly car detailing services | search | 0.90 |
