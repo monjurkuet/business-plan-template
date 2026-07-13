@@ -2,8 +2,8 @@
 sector: travel-tourism
 last_verified: 2026-07-13
 freshness: fresh
-confidence: 0.674
-evidence_ids: ['d7992b8c-9e7', '566ed55f-120', '9e281c18-a72', 'c57fcb49-cf1', 'aa03f791-7ae', '009c2693-252', '0f2dff6a-e76', 'f115f230-16f', '1fe7c55f-6d7', '299ab15d-c31', '5373d48c-229', '17f5c387-346', 'db2051a1-4f9', '13d165e7-98d', 'afd852f4-6e7', 'cc046bb9-adc', '8f34af86-e48', 'c4cb471f-20f', '1047e8ab-741', '3cd63ef4-eca']
+confidence: 0.683
+evidence_ids: ['a18ae1b4-64f', 'ae2b6f74-7d7', '4f6d044e-3d9', 'a9e89da7-8d9', '351e7b36-31c', '11b4a134-b9c', 'dc378c03-824', '7c472b25-848', '97d3879c-b0c', 'b8f2d1fa-666', 'e79fd9f5-843', '5f4a3a0b-814', 'f35751b0-9ae', '107a04cf-771', 'c73c5321-c59', '59975728-61d', 'f0de6b01-170', '63bdd948-25b', 'c04d5992-305', '030d5887-0d5']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -137,22 +137,14 @@ evidence_ids: ['d7992b8c-9e7', '566ed55f-120', '9e281c18-a72', 'c57fcb49-cf1', '
 
 
 
+
 ## Auto-Updated Data (2026-07-13)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| tour and travel packages | search | 0.90 |
-| affordable price | search | 0.80 |
-| 7%+ | search | 0.95 |
-| 500000 | search | 0.95 |
-| 2017 | search | 0.95 |
-| 42337956 | search | 0.95 |
-| wholesale fares, visa support, dedicated account manager | search | 0.90 |
-| 2026-06 | search | 0.90 |
-| ['Dream International', "Cox's Bazar Travels", 'Holiday International', 'Bengal  | search | 0.95 |
-| air ticketing, visa processing, customized tour packages | search | 0.90 |
-| study abroad, visa services, cheap air tickets | search | 0.95 |
-| ['UK', 'Canada', 'Russia', 'USA'] | search | 0.95 |
-| Hajj & Umrah packages, visa services (medical, student, visit), flight bookings, | search | 0.95 |
-| 2020 | search | 0.95 |
-| licensed | search | 0.90 |
+| Eammu Holidays | search | 1.00 |
+| #1 travel agency in Bangladesh | search | 0.90 |
+| ['Tourist visas', 'Student visas', 'Work visas', 'Umrah packages 2026', 'Interna | search | 1.00 |
+| Travel Agency Bangladesh | search | 1.00 |
+| ['Affordable tour packages', 'Air tickets', 'Visa support'] | search | 1.00 |
+| Bangladesh | search | 1.00 |

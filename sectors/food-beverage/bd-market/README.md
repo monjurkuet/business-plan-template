@@ -2,8 +2,8 @@
 sector: food-beverage
 last_verified: 2026-07-13
 freshness: fresh
-confidence: 0.715
-evidence_ids: ['24b164f1-936', '5962d221-3a3', '17c414a2-b2c', '464577ac-893', '6780381a-9a1', 'fe7e0057-08f', '84f54509-58c', 'b13e675b-7ca', '64dabbff-7c3', 'a87a31d4-1b0', '696155a1-265', '8d657303-58f', 'f2c417b6-723', '76d0dd9f-e84', '924cce98-9cc', '1ac0ced1-908', '4b01adb6-bf0', '9b17c452-af2', 'c5291382-a0e', '63a2d5b1-1c4']
+confidence: 0.731
+evidence_ids: ['0f6b9e40-ecb', '77e44788-8f7', '39dfc341-e6c', 'e737a349-3dd', 'f20006c9-683', '1672bda4-738', '7bb23c5d-c94', 'cbbfe1e0-ecc', '1ba9797f-171', '6607ed00-6a3', '6ec981f0-d25', '39f98a87-ec7', 'bc9f6d22-535', 'a35afcd2-453', '1dc17ca5-80a', '35859dbd-cf1', '29e253f3-192', '9dddd822-cf1', 'b3f5287f-5d1', 'e1ccd63b-99a']
 ---
 
 # Food & Beverage — Bangladesh Market
@@ -64,21 +64,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-13)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
+| top-rated spots, local favorites, and hidden gems | search | 0.90 |
+| Dhaka | search | 1.00 |
+| food-beverage | search | 1.00 |
+| Restaurants.BD | search | 1.00 |
+| Bangladesh's premier restaurant discovery platform | search | 1.00 |
 | 2020 | search | 0.90 |
-| Burger King | search | 1.00 |
-| 2016-12-09 | search | 1.00 |
-| Tiffinbox Ltd. | search | 1.00 |
-| Bangla Trac Group | search | 1.00 |
-| quick-service restaurant (QSR) | search | 1.00 |
-| Pizza Hut | search | 1.00 |
-| 31644 | search | 1.00 |
+| food-beverage | search | 1.00 |
+| 31651 | search | 1.00 |
 | 944 | search | 1.00 |
-| Moharani Coffee House | search | 0.90 |
-| Bangladeshi-inspired | search | 0.90 |
-| Houston | search | 0.80 |
-| Bangladeshi | search | 0.80 |
-| Chef returns to the kitchen with a new restaurant | search | 0.80 |
+| Dhaka City, Dhaka Division | search | 1.00 |
+| Tripadvisor | search | 1.00 |
+| Trying out new tastes around the city has become a trend among food lovers in Ba | search | 1.00 |
+| Despite hundreds of new restaurants opening regularly, demand remains stable | search | 1.00 |
+| Foreign restaurant chains and several local food chains have grown in popularity | search | 1.00 |
+| Many local fast food shops have begun to shift from single locations to franchis | search | 1.00 |

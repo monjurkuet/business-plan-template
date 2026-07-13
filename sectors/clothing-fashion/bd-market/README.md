@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-07-13
 freshness: fresh
-confidence: 0.705
-evidence_ids: ['af6f4d4a-f15', '6b246a80-ae8', '4f2a1682-081', '99823bb7-8d8', 'bcab1a45-353', '9a3307c8-ffe', 'a9185318-ab4', '1fde3fd7-800', 'f7dfef4b-47e', 'b0de84cd-f91', 'ba6fc1c9-390', '831c71f9-803', '679409e8-6a4', '75bd86f5-5bc', 'e33eb525-280', 'b872ec9e-c3b', '8f454149-3f6', '16358491-2af', '8c78a050-ffd', '9ab707cc-2eb']
+confidence: 0.703
+evidence_ids: ['45a66bc2-5e3', '4664ed18-d11', '0c8aeeeb-e0f', '9c7ef202-c2f', '0dee59cb-4a4', '2aa7fe04-cb8', '499b551d-e28', 'fe4cd5a4-953', '1c029d7c-f55', 'd84d1956-0fd', '99c22861-fa0', '06b362a5-02e', '683c67e1-393', 'b94dcf71-bb0', 'f689ca9b-686', '2285e196-01b', '5b6b290f-902', '434d0f3e-657', '74aa2fba-29c', '77b8b18b-ac0']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -176,18 +176,20 @@ evidence_ids: ['af6f4d4a-f15', '6b246a80-ae8', '4f2a1682-081', '99823bb7-8d8', '
 
 
 
+
 ## Auto-Updated Data (2026-07-13)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
 | 300 COTTON TERRY CLOTH CLEANING RAGS / SHOP TOWELS / 12X12- 25 DOZ. / WHOLESALE | search | 0.90 |
+| 3.5 | search | 0.90 |
+| 3 | search | 0.90 |
+| RD style women black dress warm size M Knitted Made In Bangladesh | search | 0.90 |
 | Bangladesh | search | 0.95 |
-| RD style women black dress warm size M Knitted | search | 0.90 |
-| Baggy Pants | search | 0.95 |
-| boys | search | 0.90 |
-| premium quality fabric | search | 0.90 |
-| affordable | search | 0.90 |
-| all over Bangladesh | search | 0.95 |
-| Men's Clothing | search | 0.95 |
-| ['t-shirts', 'polo shirts', 'casual shirts', 'summer wear'] | search | 0.95 |
-| across Bangladesh | search | 0.95 |
+| 1490 | search | 0.95 |
+| 1490-2490 | search | 0.95 |
+| Zaina Vol 19 Pakistani Suit | search | 0.95 |
+| 2026-07 | search | 0.90 |
+| 0.88 | search | 0.90 |
+| decreased | search | 0.90 |
+| 2026-06 | search | 0.90 |

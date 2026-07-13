@@ -2,8 +2,8 @@
 sector: construction-real-estate
 last_verified: 2026-07-13
 freshness: fresh
-confidence: 0.715
-evidence_ids: ['69b2a807-cc7', '2fc17340-bcc', '6189918f-958', '3d5135ca-b2b', 'ab23c051-b0b', 'af7e79a5-e02', '2f49254b-c18', '880ee09b-ad5', '4447d087-133', 'b51df502-dfe', 'cedb48ba-aae', '018b67ff-dc0', '1206f87b-d3a', '1d7585ce-b9a', 'fa4f2195-208', '3e303b07-bac', '38da2162-a09', 'a36c2933-bc1', 'a30df5b5-0e9', '57cb2caa-c34']
+confidence: 0.731
+evidence_ids: ['db79e06e-112', 'f0bab349-7a3', '1c02119c-660', '42563d64-ee9', 'f5d4389e-aa3', 'b75dc287-e53', 'e081febb-a6c', '14487bdf-01b', 'a835f5f6-a86', 'cd94443b-b6a', 'cc8faaed-4f2', '5c077317-9d8', 'f3fe3c7c-fad', '72a5267f-34f', 'd20bcd8d-64b', '2639011b-9c1']
 ---
 
 # Construction & Real Estate — Bangladesh Market
@@ -64,22 +64,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-13)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
 | CHB Engineering Ltd. | search | 0.95 |
 | Alibaba Construction Ltd. | search | 0.95 |
-| Building Material Suppliers | search | 1.00 |
+| building material suppliers | search | 1.00 |
 | Bangladesh | search | 1.00 |
 | Bashundhara Cement | search | 1.00 |
-| Cement | search | 1.00 |
+| cement | search | 1.00 |
 | Bangladesh | search | 1.00 |
 | high strength, advanced manufacturing technology, proven role in major infrastru | search | 0.95 |
 | RFL | search | 1.00 |
-| Building Materials Supplier | search | 1.00 |
+| building materials supplier | search | 1.00 |
 | Bangladesh | search | 1.00 |
 | largest building materials supplier | search | 0.95 |
-| Bangladesh’s construction industry is one of the fastest-growing sectors in the  | search | 0.95 |
-| 3.3% | search | 0.95 |
-| 2020-2026 | search | 0.95 |
+| BD Trade Info | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| 2003 | search | 1.00 |

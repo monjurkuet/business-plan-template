@@ -2,8 +2,8 @@
 sector: agriculture-agro
 last_verified: 2026-07-13
 freshness: fresh
-confidence: 0.704
-evidence_ids: ['b1a4ab18-fc7', 'bd031c02-338', '749df74d-754', '478671f8-dff', '0271df71-e0d', 'dffc32bf-d27', 'a64a1a3a-32c', 'efea04e0-aba', '09fe7e1d-5e4', 'c026367f-c47', '1baee8b0-3ee', 'b8280789-8f6', '75ff8d89-f14', '112b9ce6-a18', 'cf1ad23c-7e7', '25228e00-bee', 'c5178123-133', 'b06c695d-e70', 'a4f56519-72d', '1b0525be-34c']
+confidence: 0.703
+evidence_ids: ['e2214f9f-046', 'fff2e5ae-2a1', '08ae9fd9-d96', 'ee8cac7f-069', 'e06c7a0c-e0d', '452e0770-ca6', 'ebcaad3d-e92', '3e4aa3ee-156', 'bd4c71df-10c', 'c79152d4-c6d', '94d3ab3f-a73', 'f99178a1-af6', '91e5c652-2b9', '92b02b3e-538', 'f4e1c74d-ae9', '6ec4ea59-44e', 'b4f62b95-4ac', '393a3cf9-ed6', '0a50f112-341', '5898fc6b-ce6']
 ---
 
 # Agriculture & Agro-processing — Bangladesh Market
@@ -65,6 +65,7 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-13)
 
 | Fact | Source | Confidence |
@@ -73,14 +74,14 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 | fertilizer | search | 1.00 |
 | Bangladesh | search | 1.00 |
 | ['Organic Nutrition Ltd.', 'Aftab Feed Products Limited'] | search | 0.90 |
-| organic fertilizer | search | 1.00 |
+| organic_fertilizer | search | 1.00 |
 | Bangladesh | search | 1.00 |
 | ACI Fertilizer | search | 1.00 |
-| ['organic fertilizer', 'macro & micronutrient fertilizer', 'foliar fertilizers'] | search | 1.00 |
-| modern methods and technology in soil management practices | search | 1.00 |
-| top fertilizer company | search | 0.90 |
+| fertilizer | search | 1.00 |
+| ['organic fertilizer', 'macro & micronutrient', 'foliar fertilizers'] | search | 0.95 |
 | Bangladesh | search | 1.00 |
-| ensure high yields of crops | search | 1.00 |
-| fertilizer manufacturers in Bangladesh | search | 1.00 |
-| producing quality fertilizers for enhanced agricultural productivity | search | 1.00 |
-| ['NPK fertilizer', 'agro fertilizer', 'organic fertilizer'] | search | 0.90 |
+| agriculture-agro | search | 1.00 |
+| fertilizer_manufacturers | search | 0.95 |
+| ['NPK fertilizer', 'organic fertilizer'] | search | 0.90 |
+| suppliers | search | 0.85 |
+| agriculture-agro | search | 1.00 |

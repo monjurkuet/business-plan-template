@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-07-13
 freshness: fresh
-confidence: 0.757
-evidence_ids: ['88493b08-6dd', 'bc9f0ce2-abc', 'd4329755-f32', 'd4d5bcba-493', 'f862044d-2bd', '0af146b2-f5a', '2ef05d9c-081', '242f6f13-d13', '37592a90-f84', 'e2612baf-adf', 'abd1c886-a07', 'b8f022f5-a44', 'cdd957f7-095', '19085470-d46', '736cdea3-414', '037bccb8-198', 'ca0ce69e-9fe', 'ed8a6c86-6cf', '8777b482-715', '6f4e6355-76d']
+confidence: 0.755
+evidence_ids: ['0c1124d9-cf0', '5c8af640-6be', '4c6ec189-b68', '238cc9d3-447', 'e7839d04-834', '79be3df1-b03', '1538a080-905', 'cca90e66-de9', 'fcd092d7-b69', '8d1f1ceb-f8a', '91612ec5-53f', 'c6e35c1d-f19', '03216cbf-481', 'ad07fe15-0f2', '91b7e4a8-3c3', '6392b826-a6f', 'a4ec0a36-91a', '3ac9fe12-7fc', 'b98a7467-10c', '5610276e-aa2']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -179,22 +179,23 @@ evidence_ids: ['88493b08-6dd', 'bc9f0ce2-abc', 'd4329755-f32', 'd4d5bcba-493', '
 
 
 
+
 ## Auto-Updated Data (2026-07-13)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| interior design | search | 0.90 |
-| Dhaka, Bangladesh | search | 0.95 |
-| firm | search | 0.90 |
-| Globats | search | 0.95 |
-| systems architecture | search | 0.90 |
-| Bangladesh | search | 0.95 |
-| building automation-first business ecosystems | search | 0.90 |
-| firm | search | 0.90 |
-| NBBJ | search | 0.95 |
-| architecture and design | search | 0.95 |
-| TIME's Most Influential Companies List (only architecture firm) | search | 0.90 |
-| Fast Company's World’s Most Innovative Architecture Firms (5th time) | search | 0.90 |
-| firm | search | 0.90 |
-| Think Architecture | search | 0.95 |
-| architecture | search | 0.90 |
+| LIMRS Construction and Interior | search | 1.00 |
+| Blends architecture with creative construction | search | 1.00 |
+| Artificersarc | search | 1.00 |
+| Young firm, but growing fast with solid residential work | search | 1.00 |
+| Evangel Architects | search | 1.00 |
+| Offers complete design-build solutions | search | 1.00 |
+| 2025-10-13 | search | 1.00 |
+| SAL | search | 1.00 |
+| Leader in top architecture and engineering companies in Bangladesh 2025, with a  | search | 1.00 |
+| Shellmark Limited | search | 1.00 |
+| Top architectural firm in Bangladesh for safe, budget-friendly designs | search | 1.00 |
+| 2012 | search | 1.00 |
+| 2014 | search | 1.00 |
+| 2023-02-14 | search | 1.00 |
+| NPDL | search | 0.90 |

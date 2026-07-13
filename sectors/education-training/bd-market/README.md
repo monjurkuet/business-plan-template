@@ -2,8 +2,8 @@
 sector: education-training
 last_verified: 2026-07-13
 freshness: fresh
-confidence: 0.701
-evidence_ids: ['abd0c2ea-0d4', '1762459c-adb', 'a6146be7-ebc', 'c1e88221-50e', 'b3a4bed5-795', '55d747d4-2db', 'd7b59143-05e', '8f8dc0ed-ee6', '79ccb961-6c3', 'a772f762-98a', '4068bee9-e25', 'f805df0c-19b', 'e154e914-67a', '6544a1a2-e7c', '1dc8b352-b3f', '046cc370-b6b', '97ba021a-533', 'b2c4eaab-cbe', '0a66e2d5-dec', '805956ce-d80']
+confidence: 0.71
+evidence_ids: ['f43cff14-589', '5d47859a-a4f', '1c0f3da7-b60', 'ae54a7fa-aca', '971349cf-130', 'be4fccdc-3eb', 'e173afb6-f7d', 'eddf0c50-864', 'fe5cf746-c87', 'b9e15b91-52c', '50751872-6c6', '3e631d0a-3df', '02094307-8c7', '94cb5935-b52', 'd5bdff07-cd8', '991b1b6e-4d3', '8691bfd4-001', '9101f3ab-5e9', '4d87c716-290', 'b15e7366-c32']
 ---
 
 # Education & Training — Bangladesh Market
@@ -62,22 +62,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-13)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
 | Medico Coaching Center | search | 1.00 |
-| coaching center | search | 0.95 |
-| ['offline courses', 'online courses', 'Medical and University Admission Test pre | search | 0.90 |
-| Enroute Center for Development | search | 0.95 |
-| executive training | search | 0.95 |
-| all employee levels | search | 0.90 |
-| Bangladesh | search | 1.00 |
-| FutureLeaders (FLS) | search | 0.95 |
-| leadership and soft skills training | search | 0.95 |
-| outdoor training (Outbound/Adventure training) | search | 0.95 |
-| no.1 outdoor training provider | search | 0.90 |
-| top MNCs, national companies | search | 0.90 |
-| Bangladesh | search | 1.00 |
-| 2026-02-04 | search | 0.95 |
-| SQS Global Network | search | 0.95 |
+| coaching services | search | 1.00 |
+| ['offline', 'online'] | search | 1.00 |
+| Medical and University Admission Test preparation | search | 1.00 |
+| Enroute Center for Development | search | 1.00 |
+| executive training | search | 1.00 |
+| tailored individual and group training for all employee levels | search | 1.00 |
+| RR IT Support | search | 1.00 |
+| IT consulting | search | 1.00 |
+| leading | search | 0.90 |
+| FutureLeaders (FLS) | search | 1.00 |
+| leadership and soft skills training | search | 1.00 |
+| outdoor training (Outbound/Adventure training) | search | 1.00 |
+| no.1 outdoor training provider in Bangladesh | search | 1.00 |
+| top MNCs, national corporations | search | 1.00 |

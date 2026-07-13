@@ -2,8 +2,8 @@
 sector: media-marketing-digital
 last_verified: 2026-07-13
 freshness: fresh
-confidence: 0.7
-evidence_ids: ['f0c75e66-dda', '12bd8467-eed', '00cc52a8-141', '3e363c3b-3d5', 'f73ffd85-b34', 'f2f29259-4ca', 'a6ec0735-253', 'd55057d7-a0a', '6d2f90fb-e95', '4f96c015-93b', '3c5ada38-078', 'ff54348a-d35', '2a1717c3-2b8', '2d09d264-efd', 'ff70bd7c-ef2', 'd4cb4b02-0a8', '822cb67b-dad', 'f0545c6e-753', 'd2950862-108', '56d9fde4-f57']
+confidence: 0.699
+evidence_ids: ['aa9c8032-7b2', '9591b821-127', '1813cdf7-3e4', '6827d551-10f', '0bfaa0a1-0c1', '5233f16b-c5a', 'd1e9c471-2ab', '100f61f8-b6b', '9fd9ed14-f0d', 'fab75450-eb8', 'd8b60157-1ad', '972367ad-bef', 'a7c485b7-2d0', '35a29b2a-7d1', '69025bd8-339', '5a6996f4-832', '5d766e33-455', 'a1953797-b9f', '616164df-8eb', 'e1009c7c-2e2']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market
@@ -157,13 +157,14 @@ evidence_ids: ['f0c75e66-dda', '12bd8467-eed', '00cc52a8-141', '3e363c3b-3d5', '
 
 
 
+
 ## Auto-Updated Data (2026-07-13)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| pay per use | search | 0.90 |
-| digital multichannel marketing campaigns (Bulk SMS, Email, Voice) | search | 0.95 |
-| 2026 | search | 0.95 |
-| price benchmarks guide for digital marketing | search | 0.90 |
-| 207 | search | 0.95 |
-| Bangladesh-based IT companies started software export around two decades ago, jo | search | 0.90 |
+| payment per use | search | 0.90 |
+| pay only for what you use | search | 0.90 |
+| Parvez Sheikh | search | 0.95 |
+| ['web development', 'search engine visibility enhancement', 'brand awareness', ' | search | 0.90 |
+| 100 million | search | 0.80 |
+| unprecedented growth in digital landscape | search | 0.90 |

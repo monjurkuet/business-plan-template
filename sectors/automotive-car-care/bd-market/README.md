@@ -2,8 +2,8 @@
 sector: automotive-car-care
 last_verified: 2026-07-13
 freshness: fresh
-confidence: 0.682
-evidence_ids: ['e5b047c3-95b', '85a8fd8b-dfb', '73a8666d-623', '9c2c2076-cec', 'b8b3d85c-68e', '5d7160e5-2d4', '7811f4b5-56b', 'cd541a02-e4f', 'f998f552-c30', 'd837c860-c5a', '6f13f93d-99d', '640cb105-f00', 'fc9561bd-4ee', 'b2668247-147', '76dadaf5-1d4', '88787827-28c', 'c09d0370-2e3', '7387fba5-041', 'facc4dab-411', 'fbc248c6-4ba']
+confidence: 0.692
+evidence_ids: ['6dc13e4d-cfa', 'bec1ae97-e4f', '7e280a27-c96', '70858fc3-6e1', '6ca37b02-6bf', 'd8374c94-a61', 'f15113fd-010', '43a6f2d6-784', '0c3bc03f-373', '4f7e79d5-9db', '0563771f-b51', 'de0dbad7-f8f', 'e475a852-093', '15ca20de-190', 'b0b6716e-bcb', '65163fab-880', '8386a748-bcc', '233df3e9-6df', 'c8954ea9-6ef', 'ba723ea6-395']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -187,10 +187,11 @@ evidence_ids: ['e5b047c3-95b', '85a8fd8b-dfb', '73a8666d-623', '9c2c2076-cec', '
 
 
 
+
 ## Auto-Updated Data (2026-07-13)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| +8801762499688 | search | 0.95 |
-| +880 131 506 34 00 | search | 0.95 |
-| Dhaka Division, Narayanganj, City of Narayanganj | search | 0.90 |
+| competitive, various packages designed to meet different needs and budgets | search | 0.90 |
+| Free Bike & Car Wash with Kärcher Machines demo event in Savar, Dhaka | search | 0.95 |
+| best car wash services, set to revolutionize car care in Bangladesh | search | 0.90 |
