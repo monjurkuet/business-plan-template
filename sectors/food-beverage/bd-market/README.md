@@ -2,8 +2,8 @@
 sector: food-beverage
 last_verified: 2026-07-13
 freshness: fresh
-confidence: 0.714
-evidence_ids: ['c4111e6e-f73', 'af2c3211-0d3', '62bd2ef3-c43', 'a4483ac6-dfc', '2cd42a73-03a', '04b1f662-f1b', '257cfe5b-572', 'bf708863-75b', '923e05d0-f62', 'f901e98b-cdc', '06261ffc-39a', '12567133-efd', '98613e07-34b', 'ddb0dd92-243', '541e3662-57b', 'cc773714-b56', '419f7ed6-f05', 'a6f5013c-4e0', '52348fbd-104', 'ee655431-18d']
+confidence: 0.715
+evidence_ids: ['24b164f1-936', '5962d221-3a3', '17c414a2-b2c', '464577ac-893', '6780381a-9a1', 'fe7e0057-08f', '84f54509-58c', 'b13e675b-7ca', '64dabbff-7c3', 'a87a31d4-1b0', '696155a1-265', '8d657303-58f', 'f2c417b6-723', '76d0dd9f-e84', '924cce98-9cc', '1ac0ced1-908', '4b01adb6-bf0', '9b17c452-af2', 'c5291382-a0e', '63a2d5b1-1c4']
 ---
 
 # Food & Beverage — Bangladesh Market
@@ -63,22 +63,22 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-13)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Best Rooftop Restaurant in Bangladesh | search | 0.90 |
-| Bangladesh | search | 1.00 |
-| rooftop | search | 0.90 |
-| stunning views and delicious cuisine | search | 0.90 |
-| Famous Biryani Restaurant In Bangladesh | search | 0.80 |
-| Delhi Belly Restaurant | search | 0.80 |
-| Bangladeshi | search | 0.90 |
-| Bangladesh Tandoori Restaurant | search | 1.00 |
-| Campbeltown | search | 1.00 |
-| 4.1 | search | 1.00 |
-| 9 | search | 1.00 |
-| 86 | search | 1.00 |
-| Bangladesh Restaurant | search | 1.00 |
-| 118 Luttig St, Pretoria West, South Africa | search | 1.00 |
-| Bangladeshi | search | 1.00 |
+| 2020 | search | 0.90 |
+| Burger King | search | 1.00 |
+| 2016-12-09 | search | 1.00 |
+| Tiffinbox Ltd. | search | 1.00 |
+| Bangla Trac Group | search | 1.00 |
+| quick-service restaurant (QSR) | search | 1.00 |
+| Pizza Hut | search | 1.00 |
+| 31644 | search | 1.00 |
+| 944 | search | 1.00 |
+| Moharani Coffee House | search | 0.90 |
+| Bangladeshi-inspired | search | 0.90 |
+| Houston | search | 0.80 |
+| Bangladeshi | search | 0.80 |
+| Chef returns to the kitchen with a new restaurant | search | 0.80 |

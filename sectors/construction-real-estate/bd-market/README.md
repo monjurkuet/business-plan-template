@@ -2,8 +2,8 @@
 sector: construction-real-estate
 last_verified: 2026-07-13
 freshness: fresh
-confidence: 0.668
-evidence_ids: ['207ee067-ff3', '3f123608-5d6', 'a1ef4d99-99d', 'c5e8635c-1b1', '9cc55a6a-f11', '6df4eabd-dd6', '18773744-6ab', 'd03f0b68-08b', '4c2d7c90-449', '6f75ccd4-9a9', '5c7bc3d2-337', 'a3d6e85e-949', '05972411-619', '0e89bf18-fc5', 'dd97ef48-7cc', 'b7a42225-f64', '4832ecc3-73f', '4462cc91-23f', '921a4194-b6e', '06797dcf-003']
+confidence: 0.715
+evidence_ids: ['69b2a807-cc7', '2fc17340-bcc', '6189918f-958', '3d5135ca-b2b', 'ab23c051-b0b', 'af7e79a5-e02', '2f49254b-c18', '880ee09b-ad5', '4447d087-133', 'b51df502-dfe', 'cedb48ba-aae', '018b67ff-dc0', '1206f87b-d3a', '1d7585ce-b9a', 'fa4f2195-208', '3e303b07-bac', '38da2162-a09', 'a36c2933-bc1', 'a30df5b5-0e9', '57cb2caa-c34']
 ---
 
 # Construction & Real Estate — Bangladesh Market
@@ -63,22 +63,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
-## Auto-Updated Data (2026-07-12)
+
+## Auto-Updated Data (2026-07-13)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
 | CHB Engineering Ltd. | search | 0.95 |
-| Building Material Supplier | search | 0.95 |
-| Bangladesh | search | 1.00 |
 | Alibaba Construction Ltd. | search | 0.95 |
-| Building Material Supplier | search | 0.95 |
+| Building Material Suppliers | search | 1.00 |
+| Bangladesh | search | 1.00 |
 | Bashundhara Cement | search | 1.00 |
-| construction-real-estate | search | 1.00 |
-| high strength, advanced manufacturing technology, proven role in major infrastru | search | 1.00 |
-| leading choice among top cement companies in Bangladesh | search | 1.00 |
+| Cement | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| high strength, advanced manufacturing technology, proven role in major infrastru | search | 0.95 |
 | RFL | search | 1.00 |
-| construction-real-estate | search | 1.00 |
-| largest building materials supplier in Bangladesh | search | 1.00 |
-| building materials | search | 1.00 |
-| Bangladesh’s construction industry is one of the fastest-growing sectors in the  | search | 1.00 |
-| lime market expected to register a CAGR of 3.3% during the forecast period (2020 | search | 1.00 |
+| Building Materials Supplier | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| largest building materials supplier | search | 0.95 |
+| Bangladesh’s construction industry is one of the fastest-growing sectors in the  | search | 0.95 |
+| 3.3% | search | 0.95 |
+| 2020-2026 | search | 0.95 |

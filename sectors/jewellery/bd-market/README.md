@@ -3,7 +3,7 @@ sector: jewellery
 last_verified: 2026-07-13
 freshness: fresh
 confidence: 0.696
-evidence_ids: ['4c455984-e63', '2f4328e3-a88', '3a3c6370-7dc', '5f859266-242', 'a4330a47-58e', '0179114a-0af', 'fd1da04d-db6', 'ea549194-b91', 'f0aa3e66-0af', '2a91624b-43f', 'af90b707-d5b', 'a9700fdd-abf', 'a5465c58-213', 'f19d29af-3e2', 'd3d0e942-c5c', 'c41535f8-8f5', 'af1ae0f2-d30', '16bb5e0e-a83', 'dc7af43b-56e', 'f8dfbcbd-828']
+evidence_ids: ['3b064011-09a', '2edfc003-7d7', 'dc775049-78f', 'b102d2a0-92b', '98618886-e4e', '630dd5da-520', 'f7666db7-62f', '1610e801-702', 'ff31c4e6-799', 'cb900b1a-6e3', '4a86d0b4-739', 'a0b19aa2-24b', '37fb66f4-efc', 'dc6c02f3-3d3', '8c0a32e0-a68', '562acbd6-1e2', '75877d22-ede', 'fd9408df-e7b', '300d3aa8-c0c', '9cb8d476-cf2']
 ---
 
 # Jewellery — Bangladesh Market
@@ -150,11 +150,13 @@ evidence_ids: ['4c455984-e63', '2f4328e3-a88', '3a3c6370-7dc', '5f859266-242', '
 
 
 
+
 ## Auto-Updated Data (2026-07-13)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| jhumka (earrings) | search | 0.90 |
-| 377 Riyal | search | 0.80 |
-| Bangladesh jewellery style | search | 0.85 |
+| jhumka earrings | search | 0.95 |
+| 377 | search | 0.90 |
+| Bangladesh | search | 0.90 |
+| Dammam | search | 0.90 |
 | ['gold', 'silver', 'diamond', 'antique', 'earthen', 'wooden'] | search | 0.90 |

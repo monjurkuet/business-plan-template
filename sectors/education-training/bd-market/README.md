@@ -2,8 +2,8 @@
 sector: education-training
 last_verified: 2026-07-13
 freshness: fresh
-confidence: 0.7
-evidence_ids: ['3866c2fb-e27', '54477279-6fe', 'ce838ce7-64f', 'ccc216a9-0cd', '6ccb0316-17b', 'fa9b6aaf-2ed', 'd6c29c8a-676', '9e00e227-e0e', '1cc6a2c1-3fb', '8ad7e34d-93a', 'b9300bd8-094', 'cb947ba5-187', 'e039389e-673', 'ed707cbe-a75', '6211741b-07c', '88f9d5f8-7ba', '0cc27678-850', '566686e4-583', 'a3378009-790', '1f0dd3a2-624']
+confidence: 0.701
+evidence_ids: ['abd0c2ea-0d4', '1762459c-adb', 'a6146be7-ebc', 'c1e88221-50e', 'b3a4bed5-795', '55d747d4-2db', 'd7b59143-05e', '8f8dc0ed-ee6', '79ccb961-6c3', 'a772f762-98a', '4068bee9-e25', 'f805df0c-19b', 'e154e914-67a', '6544a1a2-e7c', '1dc8b352-b3f', '046cc370-b6b', '97ba021a-533', 'b2c4eaab-cbe', '0a66e2d5-dec', '805956ce-d80']
 ---
 
 # Education & Training — Bangladesh Market
@@ -61,16 +61,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-13)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| +880 174 639 85 13 | search | 0.95 |
-| Lalbag, Dhaka | search | 0.95 |
-| Ram Coaching Center | search | 0.95 |
-| educational center | search | 0.95 |
-| Easy Learning Coaching Center | search | 0.90 |
-| Chattogram, Bangladesh | search | 0.90 |
-| National University, Bangladesh | search | 0.90 |
-| Easy Coaching Center (E.C.C) | search | 0.95 |
-| Jaleshwaritola, Bogra, Bangladesh | search | 0.95 |
+| Medico Coaching Center | search | 1.00 |
+| coaching center | search | 0.95 |
+| ['offline courses', 'online courses', 'Medical and University Admission Test pre | search | 0.90 |
+| Enroute Center for Development | search | 0.95 |
+| executive training | search | 0.95 |
+| all employee levels | search | 0.90 |
+| Bangladesh | search | 1.00 |
+| FutureLeaders (FLS) | search | 0.95 |
+| leadership and soft skills training | search | 0.95 |
+| outdoor training (Outbound/Adventure training) | search | 0.95 |
+| no.1 outdoor training provider | search | 0.90 |
+| top MNCs, national companies | search | 0.90 |
+| Bangladesh | search | 1.00 |
+| 2026-02-04 | search | 0.95 |
+| SQS Global Network | search | 0.95 |

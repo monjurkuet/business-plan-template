@@ -2,8 +2,8 @@
 sector: automotive-car-care
 last_verified: 2026-07-13
 freshness: fresh
-confidence: 0.704
-evidence_ids: ['fdc5414a-5a3', '92683941-c05', '3ab87439-97c', '004af89c-612', '47e093c0-346', 'd53e1bde-ecd', '138d34ab-088', 'b7f68af0-a5f', '67510e78-126', 'b355418a-99f', '71a4a45f-0e5', '52a71a27-c40', 'f460520f-a9f', 'b17e4b46-819', '6f0d196f-6d6', 'f76e62b6-2c5', 'ba7f5b6d-694', 'd4c40b46-424', '45b7610f-130', '91e63ec5-40c']
+confidence: 0.682
+evidence_ids: ['e5b047c3-95b', '85a8fd8b-dfb', '73a8666d-623', '9c2c2076-cec', 'b8b3d85c-68e', '5d7160e5-2d4', '7811f4b5-56b', 'cd541a02-e4f', 'f998f552-c30', 'd837c860-c5a', '6f13f93d-99d', '640cb105-f00', 'fc9561bd-4ee', 'b2668247-147', '76dadaf5-1d4', '88787827-28c', 'c09d0370-2e3', '7387fba5-041', 'facc4dab-411', 'fbc248c6-4ba']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -186,20 +186,11 @@ evidence_ids: ['fdc5414a-5a3', '92683941-c05', '3ab87439-97c', '004af89c-612', '
 
 
 
+
 ## Auto-Updated Data (2026-07-13)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 900 | search | 0.98 |
-| 2500 | search | 0.98 |
-| GariBuzz | search | 0.98 |
-| doorstep car wash | search | 0.98 |
-| Biswas Automobiles | search | 0.98 |
-| Dhaka, Bangladesh | search | 0.98 |
-| car wash and polish | search | 0.98 |
-| Basic Car Wash | search | 0.95 |
-| Premium Car Wash | search | 0.95 |
-| Pressure Wash with Foam, Interior Dry Vacuum, General Wiping | search | 0.90 |
-| Affordable Price | search | 0.85 |
-| Dhaka, Bangladesh | search | 0.95 |
-| eco-friendly car detailing services | search | 0.90 |
+| +8801762499688 | search | 0.95 |
+| +880 131 506 34 00 | search | 0.95 |
+| Dhaka Division, Narayanganj, City of Narayanganj | search | 0.90 |

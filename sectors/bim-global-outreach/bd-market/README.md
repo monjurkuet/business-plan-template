@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-07-13
 freshness: fresh
-confidence: 0.737
-evidence_ids: ['f743d387-29c', '9603f5e6-f8d', '44ba31e4-c6d', '7c101bdf-a5c', '4aa87b07-0b0', '730b2936-3f1', '09b0328e-bf8', 'cb007e1f-b87', '8d6f868e-f0f', '3c4e6e08-79d', '1eaf7375-8c6', 'd355a7bb-a00', '61a0b165-1fd', '76414018-924', '81bf35aa-e8d', 'a4731172-3e1', 'ece5ec69-bf2', 'a3f0ba13-63a', 'c367403d-4bb', 'd8aa4135-83f']
+confidence: 0.757
+evidence_ids: ['88493b08-6dd', 'bc9f0ce2-abc', 'd4329755-f32', 'd4d5bcba-493', 'f862044d-2bd', '0af146b2-f5a', '2ef05d9c-081', '242f6f13-d13', '37592a90-f84', 'e2612baf-adf', 'abd1c886-a07', 'b8f022f5-a44', 'cdd957f7-095', '19085470-d46', '736cdea3-414', '037bccb8-198', 'ca0ce69e-9fe', 'ed8a6c86-6cf', '8777b482-715', '6f4e6355-76d']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -178,22 +178,23 @@ evidence_ids: ['f743d387-29c', '9603f5e6-f8d', '44ba31e4-c6d', '7c101bdf-a5c', '
 
 
 
+
 ## Auto-Updated Data (2026-07-13)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| RAJUK-registered | search | 0.90 |
-| sustainable architecture | search | 0.80 |
-| Dhaka | search | 0.95 |
-| growing faster than ever | search | 0.90 |
-| ['Dhaka', 'Khulna', 'Chattogram'] | search | 0.95 |
-| BNBC-2020 | search | 0.95 |
-| ['design creativity', 'BNBC-2020 compliance', 'transparent pricing', 'reliable p | search | 0.90 |
-| sustainability | search | 0.85 |
-| reshaping the nation | search | 0.80 |
-| Dhaka | search | 0.95 |
-| ['company reputation', 'client reviews', 'google data analytics'] | search | 0.90 |
-| Solusphere Architects | search | 1.00 |
-| Dhaka, Bangladesh | search | 1.00 |
-| ['sustainability', 'client collaboration', 'timeless elegance', 'functional desi | search | 0.95 |
-| architectural solutions | search | 1.00 |
+| interior design | search | 0.90 |
+| Dhaka, Bangladesh | search | 0.95 |
+| firm | search | 0.90 |
+| Globats | search | 0.95 |
+| systems architecture | search | 0.90 |
+| Bangladesh | search | 0.95 |
+| building automation-first business ecosystems | search | 0.90 |
+| firm | search | 0.90 |
+| NBBJ | search | 0.95 |
+| architecture and design | search | 0.95 |
+| TIME's Most Influential Companies List (only architecture firm) | search | 0.90 |
+| Fast Company's World’s Most Innovative Architecture Firms (5th time) | search | 0.90 |
+| firm | search | 0.90 |
+| Think Architecture | search | 0.95 |
+| architecture | search | 0.90 |

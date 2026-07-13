@@ -2,8 +2,8 @@
 sector: logistics-transport
 last_verified: 2026-07-13
 freshness: fresh
-confidence: 0.693
-evidence_ids: ['988c877a-223', 'b5a57537-9e1', 'e9faa9bd-508', '50f06333-567', 'b7e0f7a4-01f', 'eda340b2-1e0', '6f3338c2-3c8', 'ad388caa-a25', 'bc68fbf8-d08', '9d3ce486-ee4', '3acbff52-0a7', 'acb6e5bd-19e', '08e2b4e6-0d4', '13951a5c-b98', 'c9179a37-acc', 'f11a77b0-79f', '43d2702a-205', '6e289b8c-9ef', '016ba37b-234', 'ace6181c-52c']
+confidence: 0.705
+evidence_ids: ['46e116e1-40a', 'e5bb81d6-50f', '8fd584e5-ed6', '56f7eb20-baa', '17f2a3a5-36e', '3237d10c-1e5', '0496a252-262', 'cd328a11-694', '622dd158-ed1', '1bb18b50-a74', '47b46983-546', 'cb43de2b-ce2', '713b97e6-55d', '75962920-02e', 'fb88835b-d3f', '00c84ecf-f13', 'c9a8428d-bdb', 'ab1a095f-3f3', '057b7a19-1df', '75f709b2-0e6']
 ---
 
 # Logistics & Transport — Bangladesh Market
@@ -46,15 +46,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-13)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| DML Worldwide Express Bangladesh Ltd | search | 0.95 |
-| Oyala Sundarban Courier Service Ltd | search | 0.95 |
-| Flying Jet Courier Ltd | search | 0.95 |
+| Dml Worldwide Express Bangladesh Ltd | search | 0.90 |
+| Oyala Sundarban Courier Service Ltd | search | 0.90 |
+| Flying Jet Courier Ltd | search | 0.90 |
 | Excelsior Express | search | 0.90 |
-| Pack-In | search | 0.90 |
-| Ace Courier Service | search | 0.95 |
-| Courier Service | search | 0.95 |
-| Bangladesh | search | 1.00 |
+| Pack-In Ace courier service | search | 0.90 |
+| S.R Courier Service | search | 0.95 |
+| top-level courier service in Bangladesh | search | 0.90 |
+| GLS Courier Service | search | 0.80 |
+| DHL Express Malaysia | search | 0.80 |
+| Freight Transport Company in Bangladesh | search | 0.80 |
+| 300-1200 | search | 0.95 |
+| Bangladesh To Andorra Courier Service with 72h delivery | search | 0.90 |
+| door to door service for any origin destination including Bangladesh Singapore | search | 0.90 |
+| +8801880000016 | search | 0.95 |
+| 7 | search | 0.80 |

@@ -2,8 +2,8 @@
 sector: electronics-gadgets
 last_verified: 2026-07-13
 freshness: fresh
-confidence: 0.708
-evidence_ids: ['fa15fa7a-ca4', '2eb51467-3f1', '373b99b0-1ea', '9ba30570-c1f', 'c1947b7f-cb7', 'a83fe10f-e3f', '0cbc1b2e-1d8', '27314fc4-174', '059769e0-a38', '824ba33a-888', '5e2e71cd-f89', 'b82d6250-c75', '4e0aeb78-07b', 'cd553759-9b6', '8744a4f7-7f3', '35435050-e1c', '2f539e4b-4d2', '83b9ea37-f6d', 'c41b979e-a52', '9b8f77e8-308']
+confidence: 0.723
+evidence_ids: ['7029cd30-f8a', '4cbf3b78-32f', '76e05798-d95', 'd3f03e1e-c17', 'ec684585-70f', '2ecbeac8-3b2', '6f4ad0bf-ffc', 'cbcc9610-ce2', 'e89e43f5-c57', '55776bd8-af2', '4797f345-e6c', '4e1c0ce2-847', '8cb878b3-052', '67616ab5-3be', '7f8cb6b6-cda', 'ef5f124e-36a', '46752f93-8a4', '1669ffed-6a3', 'dd22a2a2-819', '1bb4608c-7c8']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -163,19 +163,23 @@ evidence_ids: ['fa15fa7a-ca4', '2eb51467-3f1', '373b99b0-1ea', '9ba30570-c1f', '
 
 
 
+
 ## Auto-Updated Data (2026-07-13)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| competitive prices on all products | search | 0.90 |
-| 0৳ - 0৳ | search | 0.80 |
-| 1 in stock, 1 on discount | search | 0.90 |
-| 2026-02-06 | search | 0.95 |
-| 01719117333 | search | 0.95 |
-| 100% Authentic & Quality Products as an Authorized Shop | search | 0.95 |
-| best prices | search | 0.90 |
-| Free Shipping | search | 0.95 |
-| best prices, offers, and discounts on electronics | search | 0.90 |
-| 15.00 | search | 0.90 |
-| BRANDS MEGA LTD | search | 1.00 |
-| Navana Tower (Level-18) 45 Gulshan Avenue, Gulshan-1 Dhaka -1212, Bangladesh | search | 1.00 |
+| home appliances | search | 0.95 |
+| ['ACs', 'refrigerators', 'washing machines', 'smart TVs', 'ovens'] | search | 0.95 |
+| ['official warranty', 'EMI facilities', 'fast home delivery'] | search | 0.95 |
+| e-commerce | search | 0.90 |
+| retailer | search | 0.95 |
+| authentic products | search | 0.95 |
+| official warranty | search | 0.95 |
+| 0% EMI | search | 0.95 |
+| 16 | search | 0.95 |
+| nationwide | search | 0.90 |
+| e-commerce | search | 0.95 |
+| premium quality products | search | 0.95 |
+| seamless online shopping experience | search | 0.95 |
+| original electronic appliances | search | 0.95 |
+| retailer | search | 0.90 |

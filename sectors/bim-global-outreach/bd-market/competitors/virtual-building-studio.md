@@ -118,10 +118,7 @@ freshness: fresh
 
 
 
+
 ## Recent Findings (2026-07-13)
 
-- **avenuesangma.com** (conf: 0.86): Jan 6, 2026 ·Discover the leading architecturefirmsinBangladesh. Explore the philosophy, sustainability, and iconic projects of thetop10 studios reshaping the nation.
-
-- **www.archilovers.com** (conf: 0.89): Founded in 2005, Marina Tabassum Architects (MTA) is an internationally recognisedarchitectureand studio-based practice located inDhaka, Bangladesh.
-
-- **clutch.co** (conf: 0.69): 4 days ago ·Recommended EngineeringcompaniesinBangladeshinclude Perfect Solution, Studio 16 Architects, ANB UNIQUE REAL ESTATE LTD, Patenga Shipbuilding & Engineering, Alifs Engineering, DOER Steel Li
+- **www.archilovers.com** (conf: 0.89): Our studio is based onDhaka, Bangladesh. We provide complete solution related to design, approval and construction.Address Road no: 8, House no: 477, Baridhara DOHS,Dhaka, Bangladesh, 1206Dhaka| Bangl

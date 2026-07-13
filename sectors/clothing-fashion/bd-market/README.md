@@ -2,8 +2,8 @@
 sector: clothing-fashion
 last_verified: 2026-07-13
 freshness: fresh
-confidence: 0.715
-evidence_ids: ['84a1e53f-082', 'fc78cbcd-f91', '545bab67-eba', '6ec45451-041', '961378fd-f50', '44ac4a5c-46f', '9138c734-4f5', 'fee264cb-823', '92a524bb-119', '6bd6baf0-cdc', '6076eca3-e05', '22d55456-673', '15a7a6ca-d57', '3474ec54-962', '21e33c3e-9fb', 'f89986d3-68c', '6fb54570-cfe', '4953f112-ba4', 'a48ceb04-68b', '9cdfcf65-4cd']
+confidence: 0.705
+evidence_ids: ['af6f4d4a-f15', '6b246a80-ae8', '4f2a1682-081', '99823bb7-8d8', 'bcab1a45-353', '9a3307c8-ffe', 'a9185318-ab4', '1fde3fd7-800', 'f7dfef4b-47e', 'b0de84cd-f91', 'ba6fc1c9-390', '831c71f9-803', '679409e8-6a4', '75bd86f5-5bc', 'e33eb525-280', 'b872ec9e-c3b', '8f454149-3f6', '16358491-2af', '8c78a050-ffd', '9ab707cc-2eb']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -175,22 +175,19 @@ evidence_ids: ['84a1e53f-082', 'fc78cbcd-f91', '545bab67-eba', '6ec45451-041', '
 
 
 
+
 ## Auto-Updated Data (2026-07-13)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
 | 300 COTTON TERRY CLOTH CLEANING RAGS / SHOP TOWELS / 12X12- 25 DOZ. / WHOLESALE | search | 0.90 |
-| 3.5 | search | 0.90 |
-| Bangladesh | search | 1.00 |
+| Bangladesh | search | 0.95 |
 | RD style women black dress warm size M Knitted | search | 0.90 |
-| ['best match', 'price', 'free shipping', 'fast delivery', 'free return'] | search | 0.90 |
-| baggy pants | search | 1.00 |
-| boys | search | 1.00 |
+| Baggy Pants | search | 0.95 |
+| boys | search | 0.90 |
+| premium quality fabric | search | 0.90 |
 | affordable | search | 0.90 |
-| all over Bangladesh | search | 1.00 |
-| ['t-shirts', 'polo shirts', 'casual shirts', 'summer wear'] | search | 1.00 |
-| fast | search | 0.90 |
-| across Bangladesh | search | 1.00 |
-| 88 | search | 1.00 |
-| cotton | search | 1.00 |
-| fell | search | 1.00 |
+| all over Bangladesh | search | 0.95 |
+| Men's Clothing | search | 0.95 |
+| ['t-shirts', 'polo shirts', 'casual shirts', 'summer wear'] | search | 0.95 |
+| across Bangladesh | search | 0.95 |
