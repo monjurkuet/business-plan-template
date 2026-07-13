@@ -1,8 +1,8 @@
 ---
 sector: service-agents-distribution
-last_verified: 2026-07-13
+last_verified: 2026-07-14
 freshness: fresh
-confidence: 0.679
+confidence: 0.585
 evidence_ids: ['7a2257d8-269', '7b8def27-90d', 'df87c87d-0a4', '56afe763-ee4', 'cc4ac4fe-3ae', 'd5d0bdd3-886', '28a280ff-70a', '0a1e38d2-6e5', 'a9115133-070', '60d8a4e1-228', '00468e3b-06e', '7d8e3ebd-55a', '77ee8416-194', '13f238b8-ed6', '61913b72-75c', '9e24f4a0-65e', 'cd4cd7ea-266', '0c91d473-f1e', '0574ef1a-7cd', 'a21b1395-18f']
 ---
 
@@ -46,3 +46,23 @@ commission agent, door-to-door sales, direct sales, MLM network, franchise distr
 
 This sector is active in the GMaps lead pipeline but research documentation has not yet been generated.
 The self-evolving pipeline (`c52a5f33e4e9` cron) will auto-populate the remaining docs.
+
+## Auto-Updated Data (2026-07-14)
+
+| Fact | Source | Confidence |
+|------|--------|------------|
+| There are lots of C & F agents in Bangladesh and most of them are situated in Dh | search | 1.00 |
+| ['Dhaka', 'Chottogram', 'Narayanganj', 'Khulna', 'Sea Port', 'Potenga sea port', | search | 1.00 |
+| Clearing and Forwarding Agents (C&F Agents) | search | 1.00 |
+| customs clearing agents | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| Dhaka | search | 0.90 |
+| government-approved | search | 1.00 |
+| C&F (Customs and Freight) agent | search | 1.00 |
+| customs clearance services | search | 1.00 |
+| ['Dhaka Airport', 'Chittagong Port'] | search | 1.00 |
+| years of experience in the import-export industry | search | 0.90 |
+| Bangladesh | search | 1.00 |
+| Clearing & Forwarding (C&F / CNF) agents | search | 1.00 |
+| ['customs clearance', 'freight forwarding', 'logistics services'] | search | 1.00 |
+| ['Dhaka', 'Chittagong', 'other cities'] | search | 0.90 |

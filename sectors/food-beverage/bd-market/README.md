@@ -1,8 +1,8 @@
 ---
 sector: food-beverage
-last_verified: 2026-07-13
+last_verified: 2026-07-14
 freshness: fresh
-confidence: 0.729
+confidence: 0.628
 evidence_ids: ['217060bc-c36', '0af27551-0b2', 'ade65009-32d', 'fed2203a-f7c', '0a688b91-668', 'ac7699ad-be4', '889c10db-4a2', '659ede46-4c6', 'eab6277b-4de', '8d9ef580-751', 'fc36b268-b72', 'cbc666d6-87e', '3913c9bd-b64', '7b15c3e7-304', '586e0090-a4f', '13c466ca-42f', '6b34e0ac-d5c', '2d140574-43d', '7f9ba2d8-a4b', 'bc1fa1b1-54b']
 ---
 
@@ -66,7 +66,8 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
-## Auto-Updated Data (2026-07-13)
+
+## Auto-Updated Data (2026-07-14)
 
 | Fact | Source | Confidence |
 |------|--------|------------|

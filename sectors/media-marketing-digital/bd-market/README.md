@@ -1,8 +1,8 @@
 ---
 sector: media-marketing-digital
-last_verified: 2026-07-13
+last_verified: 2026-07-14
 freshness: fresh
-confidence: 0.711
+confidence: 0.575
 evidence_ids: ['960ef0b0-a2f', '97a5d612-643', 'd675d7ae-05f', '7818c997-0a4', 'a7c67a6b-593', 'e40bcd1b-959', '859a195a-675', 'a36c7349-f41', '0581ae53-9c2', '4131571d-e40', '3ab05953-732', 'ad7255ec-e28', 'c7e15f0f-ec9', '508b3842-a66', 'd1755aed-38a', '97352016-d0b', 'dbae50b6-2a5', 'e15fb0e8-b54', 'c35e3878-3d1', '4b013532-10a']
 ---
 
@@ -159,7 +159,8 @@ evidence_ids: ['960ef0b0-a2f', '97a5d612-643', 'd675d7ae-05f', '7818c997-0a4', '
 
 
 
-## Auto-Updated Data (2026-07-13)
+
+## Auto-Updated Data (2026-07-14)
 
 | Fact | Source | Confidence |
 |------|--------|------------|

@@ -1,8 +1,8 @@
 ---
 sector: automotive-car-care
-last_verified: 2026-07-13
+last_verified: 2026-07-14
 freshness: fresh
-confidence: 0.693
+confidence: 0.589
 evidence_ids: ['14d3a8c5-b88', '7e82f18c-f56', 'daa719d9-44b', '1ae1dce7-157', 'eb014eb3-5c7', '06da9be2-3a5', '3535eb7a-d26', 'd064ebb2-cc9', '6d0fb065-bd0', '5a44aab6-eb0', '235749db-c69', '0cb38d1e-f4c', 'b82a1711-d86', '10042247-593', 'eb4ab323-e15', '7a93f0d9-d96', '88955546-a80', '7f95f50e-5db', '0dc5f0ea-d5c', 'b8d9359b-ae9']
 ---
 
@@ -189,7 +189,8 @@ evidence_ids: ['14d3a8c5-b88', '7e82f18c-f56', 'daa719d9-44b', '1ae1dce7-157', '
 
 
 
-## Auto-Updated Data (2026-07-13)
+
+## Auto-Updated Data (2026-07-14)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
@@ -197,6 +198,12 @@ evidence_ids: ['14d3a8c5-b88', '7e82f18c-f56', 'daa719d9-44b', '1ae1dce7-157', '
 | 2500 | search | 0.95 |
 | Exterior wash | search | 0.95 |
 | Interior deep cleaning | search | 0.95 |
+| car wash and polish | search | 0.95 |
+| Dhaka, Bangladesh | search | 0.95 |
+| Biswas Automobiles | search | 0.95 |
+| car wash and auto cleaning | search | 0.95 |
+| CAR WASH BD | search | 0.95 |
+| network of reliable and competent vehicle repair and service providers | search | 0.90 |
 | Basic Car Wash | search | 0.95 |
 | Premium Car Wash | search | 0.95 |
 | Pressure Wash with Foam, Interior Dry Vacuum, General Wiping | search | 0.90 |

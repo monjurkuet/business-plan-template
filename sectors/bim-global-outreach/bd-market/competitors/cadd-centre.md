@@ -1,6 +1,6 @@
 ---
 sector: bim-global-outreach
-last_verified: 2026-07-13
+last_verified: 2026-07-14
 freshness: fresh
 ---
 
@@ -83,12 +83,13 @@ freshness: fresh
 
 
 
-## Recent Findings (2026-07-13)
 
-- **www.facebook.com** (conf: 0.69): Jun 5, 2026 ·Studio M Architecture is at Jolshiri Abashon, Dhaka,Bangladesh. Crafted with intention, this apartment in JOLSHIRI blends energy-efficient design with elegant living. From floor-to-ceilin
+## Recent Findings (2026-07-14)
 
-- **www.facebook.com** (conf: 0.69): Jun 5, 2026 ·Sthapotik/SharifUddin Ahammed, Dhaka. 12,910 likes · 19 talking about this · 112 were here. Sthapotik is an architectural design studio. established in 2006 by Ar. Sharif Uddin Ahammed wi
+- **www.facebook.com** (conf: 0.55): Jun 5, 2026 ·Studio M Architecture is at Jolshiri Abashon, Dhaka,Bangladesh. Crafted with intention, this apartment in JOLSHIRI blends energy-efficient design with elegant living. From floor-to-ceilin
 
-- **www.facebook.com** (conf: 0.69): Jan 5, 2026 ·SPACE, Dhaka. 2,592 likes · 2 talking about this · 159 were here. Consultancy, Construction and DevelopmentInstitute of ArchitectsBangladesh(IAB) Centre. Edited by Prof. Adnan Z. Morshed,
+- **www.facebook.com** (conf: 0.55): Jun 5, 2026 ·Sthapotik/SharifUddin Ahammed, Dhaka. 12,910 likes · 19 talking about this · 112 were here. Sthapotik is an architectural design studio. established in 2006 by Ar. Sharif Uddin Ahammed wi
 
-- **www.facebook.com** (conf: 0.69): Institute of ArchitectsBangladesh(IAB) Centre. Edited by Prof. Adnan Z. Morshed, the book is the result of the collective dedication of architects, researchers, writers, photographers, contributors, a
+- **www.facebook.com** (conf: 0.55): Jan 5, 2026 ·SPACE, Dhaka. 2,592 likes · 2 talking about this · 159 were here. Consultancy, Construction and DevelopmentInstitute of ArchitectsBangladesh(IAB) Centre. Edited by Prof. Adnan Z. Morshed,
+
+- **www.facebook.com** (conf: 0.55): Institute of ArchitectsBangladesh(IAB) Centre. Edited by Prof. Adnan Z. Morshed, the book is the result of the collective dedication of architects, researchers, writers, photographers, contributors, a

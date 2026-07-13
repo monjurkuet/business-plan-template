@@ -1,8 +1,8 @@
 ---
 sector: electronics-gadgets
-last_verified: 2026-07-13
+last_verified: 2026-07-14
 freshness: fresh
-confidence: 0.708
+confidence: 0.613
 evidence_ids: ['57493643-cd1', '789c07b2-2ab', 'b0c6e20c-4f2', '547f3579-980', 'fbd96ec9-d25', 'c477fb48-160', '1a54e6c0-7d7', '2d32bd6d-4eb', '20fa4b7c-bd9', 'f1f892da-b91', '74d4ebda-817', '25857e01-58a', '6f2b515a-6da', 'fc71870c-b39', '8b0b9dbd-a40', 'db340687-474', '93888079-e17', 'c9dc3d64-e31', 'fda10f9d-572', '1cc7902f-24d']
 ---
 
@@ -166,7 +166,8 @@ evidence_ids: ['57493643-cd1', '789c07b2-2ab', 'b0c6e20c-4f2', '547f3579-980', '
 
 
 
-## Auto-Updated Data (2026-07-13)
+
+## Auto-Updated Data (2026-07-14)
 
 | Fact | Source | Confidence |
 |------|--------|------------|

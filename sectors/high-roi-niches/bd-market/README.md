@@ -1,8 +1,8 @@
 ---
 sector: high-roi-niches
-last_verified: 2026-07-13
+last_verified: 2026-07-14
 freshness: fresh
-confidence: 0.699
+confidence: 0.57
 evidence_ids: ['362d5173-ad5', '05e6e56e-577', '0f1b1d8a-04f', '5191cfe4-2ff', '3a726da3-7e7', '9af45bf7-3a9', 'e2ef769f-e73', '3cb40700-106', 'fce40164-e78', '662fd0f1-49f', 'e447a1bf-f3c', 'bb33ca82-5b7', 'ece526a9-3bb', 'e76c4afa-590', '24582e9e-df7', 'a7b7dd04-63d', '1ff6947c-aaf', '9ac9dc1f-081', 'a1b978f7-53f', 'b79727d5-b1c']
 ---
 
@@ -155,7 +155,8 @@ This sector captures high-growth, high-margin niche opportunities in Bangladesh.
 
 
 
-## Auto-Updated Data (2026-07-13)
+
+## Auto-Updated Data (2026-07-14)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
@@ -171,3 +172,6 @@ This sector captures high-growth, high-margin niche opportunities in Bangladesh.
 | top-notch customer service | search | 0.90 |
 | affordable prices | search | 0.85 |
 | fast delivery | search | 0.90 |
+| cat food, toys, grooming products, accessories | search | 0.90 |
+| top-rated customer service | search | 0.80 |
+| pet care essentials | search | 0.95 |

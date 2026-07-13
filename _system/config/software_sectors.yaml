@@ -1,46 +1,54 @@
 ---
 name: software-products-lead-pipeline
-version: 1.0
+version: 2.0
+description: >
+  Searches for businesses that would BUY software products.
+  Queries target customer business types (e.g., "garments factory")
+  NOT the software itself — so we find potential buyers, not competitors.
 sectors:
   payroll:
     display_name: "Payroll Software"
-    keywords:
-      en: ["payroll software", "payroll system", "payroll management software", "payroll solution", "HR payroll software", "payroll processing software", "cloud payroll software", "best payroll software", "payroll software for small business", "payroll software for large business"]
-      bn: ["পেরোল সফটওয়্যার", "পেরোল ব্যবস্থাপনা সফটওয়্যার", "ক্লাউড পেরোল সফটওয়্যার", "এইচআর পেরোল সফটওয়্যার"]
-    subsegments: ["cloud", "on-premise", "SME", "enterprise", "global"]
-    priority_weight: 0.9
+    product_name: "Payroll Management System"
+    target_business_types:
+      en: ["garments factory", "manufacturing company", "textile mill", "pharmaceutical company", "FMCG company", "corporate office", "industrial company", "large business"]
+      bn: ["গার্মেন্টস ফ্যাক্টরি", "টেক্সটাইল মিল", "ফার্মাসিউটিক্যাল কোম্পানি", "কর্পোরেট অফিস", "বড় ব্যবসা", "শিল্প কারখানা", "পোশাক কারখানা"]
+    subsegments: ["factories", "HR departments", "corporate offices"]
+    priority_weight: 0.95
     status: active
-    competitor_target: 10
+    competitor_target: 12
     policy_sensitivity: low
 
   attendance:
     display_name: "Attendance Software"
-    keywords:
-      en: ["attendance software", "attendance management system", "time attendance software", "employee attendance software", "biometric attendance software", "cloud attendance software", "best attendance software", "attendance tracking software"]
-      bn: ["উপস্থিতি সফটওয়্যার", "বায়োমেট্রিক উপস্থিতি সফটওয়্যার", "ক্লাউড উপস্থিতি সফটওয়্যার"]
-    subsegments: ["biometric", "RFID", "mobile", "cloud", "enterprise"]
-    priority_weight: 0.85
+    product_name: "Attendance & Time Tracking System"
+    target_business_types:
+      en: ["garments factory", "manufacturing company", "corporate office", "industrial company", "large office", "bank", "insurance company"]
+      bn: ["গার্মেন্টস কারখানা", "শিল্প কারখানা", "কর্পোরেট অফিস", "ব্যাংক", "বীমা কোম্পানি", "বড় প্রতিষ্ঠান"]
+    subsegments: ["factories", "offices", "institutions"]
+    priority_weight: 0.9
     status: active
     competitor_target: 10
     policy_sensitivity: low
 
   inventory:
     display_name: "Inventory Software"
-    keywords:
-      en: ["inventory software", "inventory management system", "stock management software", "warehouse management software", "cloud inventory software", "best inventory software", "inventory tracking software", "retail inventory software"]
-      bn: ["ইনভেন্টরি সফটওয়্যার", "স্টক ম্যানেজমেন্ট সফটওয়্যার", "গুদাম ব্যবস্থাপনা সফটওয়্যার"]
-    subsegments: ["retail", "warehouse", "cloud", "ERP", "SME"]
-    priority_weight: 0.8
+    product_name: "Inventory Management System"
+    target_business_types:
+      en: ["warehouse", "wholesale market", "supermarket", "retail store", "trading company", "showroom", "department store"]
+      bn: ["গুদাম", "পাইকারি বাজার", "সুপারমার্কেট", "রিটেইল স্টোর", "ট্রেডিং কোম্পানি", "শোরুম", "ডিপার্টমেন্টাল স্টোর"]
+    subsegments: ["warehouses", "retail chains", "trading companies"]
+    priority_weight: 0.9
     status: active
     competitor_target: 10
     policy_sensitivity: low
 
   pos_retail:
     display_name: "POS - Retail Shop"
-    keywords:
-      en: ["POS software", "retail POS system", "point of sale software", "retail billing software", "cloud POS software", "best POS software", "POS system for retail", "POS for small business"]
-      bn: ["পিওএস সফটওয়্যার", "রিটেইল পিওএস সিস্টেম", "ক্লাউড পিওএস সফটওয়্যার"]
-    subsegments: ["cloud", "on-premise", "mobile", "SME", "enterprise"]
+    product_name: "POS Software for Retail"
+    target_business_types:
+      en: ["retail shop", "grocery store", "supermarket", "fashion boutique", "clothing store", "electronics shop", "general store", "department store", "variety store", "jewellery shop"]
+      bn: ["দোকান", "মুদি দোকান", "সুপারমার্কেট", "ফ্যাশন বুটিক", "ইলেকট্রনিক্সের দোকান", "জুয়েলারি দোকান", "পোশাকের দোকান", "শোরুম"]
+    subsegments: ["retail shops", "boutiques", "general stores", "supermarkets"]
     priority_weight: 0.95
     status: active
     competitor_target: 12
@@ -48,10 +56,11 @@ sectors:
 
   pos_restaurant:
     display_name: "POS - Restaurant"
-    keywords:
-      en: ["restaurant POS software", "restaurant billing software", "POS for restaurant", "cloud restaurant POS", "best restaurant POS software", "POS system for restaurant", "restaurant management software"]
-      bn: ["রেস্টুরেন্ট পিওএস সফটওয়্যার", "রেস্টুরেন্ট বিলিং সফটওয়্যার", "ক্লাউড রেস্টুরেন্ট পিওএস"]
-    subsegments: ["cloud", "on-premise", "mobile", "fine dining", "fast food", "cafe"]
+    product_name: "POS Software for Restaurants"
+    target_business_types:
+      en: ["restaurant", "cafe", "fast food shop", "fine dining", "food court", "bakery", "coffee shop", "diner", "pizza shop", "kebab shop"]
+      bn: ["রেস্তোরাঁ", "ক্যাফে", "ফাস্ট ফুড", "বেকারি", "কফি শপ", "হোটেল রেস্টুরেন্ট"]
+    subsegments: ["restaurants", "cafes", "fast food outlets", "bakeries"]
     priority_weight: 0.9
     status: active
     competitor_target: 12
@@ -59,110 +68,120 @@ sectors:
 
   distribution:
     display_name: "Distribution Management System"
-    keywords:
-      en: ["distribution software", "distribution management system", "supply chain software", "logistics software", "cloud distribution software", "best distribution software", "distribution ERP software"]
-      bn: ["ডিস্ট্রিবিউশন সফটওয়্যার", "সাপ্লাই চেইন সফটওয়্যার", "লজিস্টিকস সফটওয়্যার"]
-    subsegments: ["cloud", "on-premise", "ERP", "SME", "enterprise"]
-    priority_weight: 0.75
+    product_name: "Distribution & Supply Chain Software"
+    target_business_types:
+      en: ["trading company", "distributor", "wholesale business", "logistics company", "supply chain company", "courier service", "transport company", "C&F agent"]
+      bn: ["ট্রেডিং কোম্পানি", "ডিস্ট্রিবিউটর", "পাইকারি ব্যবসা", "লজিস্টিকস কোম্পানি", "কুরিয়ার সার্ভিস", "পরিবহন কোম্পানি"]
+    subsegments: ["distributors", "trading houses", "logistics providers"]
+    priority_weight: 0.85
     status: active
-    competitor_target: 8
+    competitor_target: 10
     policy_sensitivity: low
 
   tour_travel:
     display_name: "Tour & Travel Management System"
-    keywords:
-      en: ["travel software", "tour management software", "travel agency software", "tour booking software", "cloud travel software", "best travel software", "travel CRM software", "travel ERP software"]
-      bn: ["ট্রাভেল সফটওয়্যার", "ট্যুর ম্যানেজমেন্ট সফটওয়্যার", "ট্রাভেল এজেন্সি সফটওয়্যার"]
-    subsegments: ["cloud", "on-premise", "B2B", "B2C", "ERP"]
-    priority_weight: 0.8
+    product_name: "Tour & Travel Management Software"
+    target_business_types:
+      en: ["travel agency", "tour operator", "hotel", "resort", "transport company", "bus service", "airline agency"]
+      bn: ["ট্রাভেল এজেন্সি", "ট্যুর অপারেটর", "হোটেল", "রিসোর্ট", "পরিবহন কোম্পানি", "বাস সার্ভিস"]
+    subsegments: ["travel agencies", "tour operators", "hotels", "resorts"]
+    priority_weight: 0.85
     status: active
     competitor_target: 10
     policy_sensitivity: low
 
   buying_house:
     display_name: "Buying House Management System"
-    keywords:
-      en: ["buying house software", "buying house management system", "garment buying software", "textile buying software", "cloud buying house software", "best buying house software", "buying house ERP software"]
-      bn: ["বায়িং হাউস সফটওয়্যার", "গার্মেন্টস বায়িং সফটওয়্যার", "টেক্সটাইল বায়িং সফটওয়্যার"]
-    subsegments: ["cloud", "on-premise", "ERP", "SME", "enterprise"]
-    priority_weight: 0.7
+    product_name: "Buying House Management Software"
+    target_business_types:
+      en: ["buying house", "garment buying house", "export house", "apparel sourcing", "textile buying house", "sourcing company", "garment sourcing"]
+      bn: ["বায়িং হাউস", "গার্মেন্টস বায়িং হাউস", "এক্সপোর্ট হাউস", "টেক্সটাইল বায়িং হাউস"]
+    subsegments: ["buying houses", "sourcing agents", "export houses"]
+    priority_weight: 0.8
     status: active
     competitor_target: 8
     policy_sensitivity: low
 
   auto_repair:
     display_name: "Auto Repairing Shop Management System"
-    keywords:
-      en: ["auto repair software", "car repair software", "garage management software", "auto workshop software", "cloud auto repair software", "best auto repair software", "auto repair CRM software"]
-      bn: ["অটো রিপেয়ার সফটওয়্যার", "গাড়ি মেরামত সফটওয়্যার", "গ্যারেজ ম্যানেজমেন্ট সফটওয়্যার"]
-    subsegments: ["cloud", "on-premise", "SME", "enterprise", "workshop"]
-    priority_weight: 0.65
+    product_name: "Auto Repair Shop Management Software"
+    target_business_types:
+      en: ["auto repair shop", "garage", "car service center", "workshop", "car dealer", "auto mechanic shop", "car workshop", "tire shop"]
+      bn: ["অটো রিপেয়ার শপ", "গ্যারেজ", "কার সার্ভিস সেন্টার", "ওয়ার্কশপ", "গাড়ির ডিলার"]
+    subsegments: ["auto repair shops", "garages", "car service centers"]
+    priority_weight: 0.8
     status: active
-    competitor_target: 8
+    competitor_target: 10
     policy_sensitivity: low
 
   event_management:
     display_name: "Event Management System"
-    keywords:
-      en: ["event management software", "event planning software", "event booking software", "cloud event software", "best event management software", "event CRM software", "event ERP software"]
-      bn: ["ইভেন্ট ম্যানেজমেন্ট সফটওয়্যার", "ইভেন্ট প্ল্যানিং সফটওয়্যার", "ক্লাউড ইভেন্ট সফটওয়্যার"]
-    subsegments: ["cloud", "on-premise", "B2B", "B2C", "ERP"]
-    priority_weight: 0.8
+    product_name: "Event Management Software"
+    target_business_types:
+      en: ["event management company", "wedding planner", "event venue", "conference hall", "convention center", "corporate event", "event agency"]
+      bn: ["ইভেন্ট ম্যানেজমেন্ট কোম্পানি", "ওয়েডিং প্ল্যানার", "ইভেন্ট ভেন্যু", "কনফারেন্স হল", "কনভেনশন সেন্টার"]
+    subsegments: ["event venues", "wedding planners", "conference centers"]
+    priority_weight: 0.85
     status: active
     competitor_target: 10
     policy_sensitivity: low
 
   ceo_crystal_ball:
     display_name: "CEO's Crystal Ball"
-    keywords:
-      en: ["business intelligence software", "BI software", "CEO dashboard software", "executive dashboard software", "cloud BI software", "best BI software", "data visualization software", "business analytics software"]
-      bn: ["বিজনেস ইন্টেলিজেন্স সফটওয়্যার", "সিইও ড্যাশবোর্ড সফটওয়্যার", "ডেটা ভিজ্যুয়ালাইজেশন সফটওয়্যার"]
-    subsegments: ["cloud", "on-premise", "SME", "enterprise", "dashboard", "analytics"]
-    priority_weight: 0.9
-    status: active
-    competitor_target: 12
-    policy_sensitivity: low
-
-  personal_finance:
-    display_name: "Personal Finance"
-    keywords:
-      en: ["personal finance software", "money management software", "budgeting software", "cloud personal finance software", "best personal finance software", "expense tracker software", "investment software"]
-      bn: ["পার্সোনাল ফাইন্যান্স সফটওয়্যার", "বাজেটিং সফটওয়্যার", "খরচ ট্র্যাকার সফটওয়্যার"]
-    subsegments: ["cloud", "mobile", "desktop", "SME", "personal"]
-    priority_weight: 0.75
+    product_name: "Business Intelligence Dashboard"
+    target_business_types:
+      en: ["corporate office", "large business", "enterprise company", "holding company", "group of companies", "CEO office", "business group"]
+      bn: ["কর্পোরেট অফিস", "বড় ব্যবসা", "হোল্ডিং কোম্পানি", "গ্রুপ অফ কোম্পানি", "সিইও অফিস"]
+    subsegments: ["corporate offices", "holding companies", "business groups"]
+    priority_weight: 0.85
     status: active
     competitor_target: 10
     policy_sensitivity: low
 
+  personal_finance:
+    display_name: "Personal Finance"
+    product_name: "Personal Finance & Budgeting App"
+    target_business_types:
+      en: ["financial advisor", "accounting firm", "tax consultant", "investment firm", "stock broker", "remittance service"]
+      bn: ["ফাইন্যান্সিয়াল এডভাইজর", "অ্যাকাউন্টিং ফার্ম", "ট্যাক্স কনসালটেন্ট", "ইনভেস্টমেন্ট ফার্ম"]
+    subsegments: ["financial services", "accounting firms", "advisors"]
+    priority_weight: 0.7
+    status: active
+    competitor_target: 8
+    policy_sensitivity: low
+
   community_center:
     display_name: "Community Center Automation"
-    keywords:
-      en: ["community center software", "community management software", "booking software", "calendar software", "cloud community software", "best community software", "membership software", "facility booking software"]
-      bn: ["কমিউনিটি সেন্টার সফটওয়্যার", "বুকিং সফটওয়্যার", "মেম্বারশিপ সফটওয়্যার"]
-    subsegments: ["cloud", "on-premise", "SME", "enterprise", "booking", "calendar"]
-    priority_weight: 0.7
+    product_name: "Community & Club Management System"
+    target_business_types:
+      en: ["community center", "club", "sports complex", "association office", "society", "cultural club", "social club", "senior center"]
+      bn: ["কমিউনিটি সেন্টার", "ক্লাব", "স্পোর্টস কমপ্লেক্স", "সোসাইটি", "সাংস্কৃতিক ক্লাব"]
+    subsegments: ["community centers", "clubs", "associations", "sports facilities"]
+    priority_weight: 0.75
     status: active
     competitor_target: 8
     policy_sensitivity: low
 
   self_study:
     display_name: "Self Study Tracker"
-    keywords:
-      en: ["self study software", "study tracker software", "learning management software", "cloud study software", "best study tracker software", "education software", "student productivity software"]
-      bn: ["সেলফ স্টাডি সফটওয়্যার", "স্টাডি ট্র্যাকার সফটওয়্যার", "এডুকেশন সফটওয়্যার"]
-    subsegments: ["cloud", "mobile", "desktop", "personal", "education"]
-    priority_weight: 0.65
+    product_name: "Self-Learning Management Software"
+    target_business_types:
+      en: ["coaching center", "tutorial center", "educational institute", "school", "college", "learning center", "skill development center", "madrasa", "training center"]
+      bn: ["কোচিং সেন্টার", "টিউশন সেন্টার", "স্কুল", "কলেজ", "মাদ্রাসা", "প্রশিক্ষণ কেন্দ্র", "শিক্ষা প্রতিষ্ঠান"]
+    subsegments: ["coaching centers", "schools", "madrasas", "training centers"]
+    priority_weight: 0.75
     status: active
     competitor_target: 8
     policy_sensitivity: low
 
   pos_moody:
     display_name: "POS - Moody (Dokan)"
-    keywords:
-      en: ["dokan POS software", "multi-vendor POS software", "marketplace POS software", "cloud dokan POS", "best dokan POS software", "POS for marketplace", "POS for multi-vendor"]
-      bn: ["ডোকান পিওএস সফটওয়্যার", "মাল্টি-ভেন্ডর পিওএস সফটওয়্যার", "মার্কেটপ্লেস পিওএস সফটওয়্যার"]
-    subsegments: ["cloud", "on-premise", "mobile", "SME", "enterprise", "marketplace"]
+    product_name: "Multi-Vendor Marketplace POS"
+    target_business_types:
+      en: ["marketplace", "multi-vendor shop", "dokan", "online marketplace", "e-commerce platform", "wholesale market", "bazaar", "shopping complex"]
+      bn: ["বাজার", "মাল্টি-ভেন্ডর দোকান", "ডোকান", "অনলাইন মার্কেটপ্লেস", "পাইকারি বাজার", "শপিং কমপ্লেক্স"]
+    subsegments: ["marketplaces", "bazaars", "shopping complexes", "wholesale shops"]
     priority_weight: 0.9
     status: active
-    competitor_target: 12
+    competitor_target: 10
     policy_sensitivity: low

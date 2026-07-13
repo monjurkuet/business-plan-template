@@ -1,8 +1,8 @@
 ---
 sector: travel-tourism
-last_verified: 2026-07-13
+last_verified: 2026-07-14
 freshness: fresh
-confidence: 0.669
+confidence: 0.573
 evidence_ids: ['33d750cd-ae2', 'c99910b0-8be', '0852c21b-b78', '39416949-205', 'fdbb5cf4-87f', 'a3144bed-e3b', '3524fadb-c58', '65086bf5-f17', '2552db8a-24c', '69d73222-916', 'f50d438d-13b', '31ce72b6-526', 'a25f4118-15b', 'e0b22477-191', '44f94f87-947', '7249f36e-479', '73e7b311-7a9', '32271257-f0d', 'bb221ca6-c9a', 'b8e17df5-44b']
 ---
 
@@ -138,13 +138,23 @@ evidence_ids: ['33d750cd-ae2', 'c99910b0-8be', '0852c21b-b78', '39416949-205', '
 
 
 
-## Auto-Updated Data (2026-07-13)
+
+## Auto-Updated Data (2026-07-14)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
 | Eammu Holidays | search | 1.00 |
-| #1 travel agency in Bangladesh | search | 0.90 |
-| ['Tourist visas', 'Student visas', 'Work visas', 'Umrah packages 2026', 'Interna | search | 1.00 |
-| Travel Agency Bangladesh | search | 1.00 |
-| ['Affordable tour packages', 'Air tickets', 'Visa support'] | search | 1.00 |
-| Bangladesh | search | 1.00 |
+| #1 travel agency in Bangladesh | search | 1.00 |
+| ['tourist visas', 'student visas', 'work visas', 'Umrah packages 2026', 'interna | search | 1.00 |
+| ['Dubai', 'Georgia', 'Armenia', 'Europe'] | search | 1.00 |
+| travel-tourism | search | 1.00 |
+| tour packages, air tickets, visa support | search | 0.90 |
+| affordable | search | 0.80 |
+| affordable | search | 0.80 |
+| tour and travel packages | search | 0.90 |
+| online travel agency | search | 0.90 |
+| Dhaka District, Dhaka | search | 0.90 |
+| 2026-06-13 | search | 0.90 |
+| ['Dream International', "Cox's Bazar Travels", 'Holiday International', 'Bengal  | search | 0.90 |
+| air ticketing, visa processing, customized tour packages | search | 0.90 |
+| 2026-06 | search | 0.90 |

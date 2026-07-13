@@ -1,8 +1,8 @@
 ---
 sector: agriculture-agro
-last_verified: 2026-07-13
+last_verified: 2026-07-14
 freshness: fresh
-confidence: 0.702
+confidence: 0.621
 evidence_ids: ['cd56c15e-023', '4cc1ccff-eb1', '675932c9-84a', 'cf1bad02-7a6', 'fcc8bc42-d4a', 'f30159c6-dd9', 'f7fd91ac-a46', 'd1154eed-e27', '56c38d6e-930', '1e1c6a41-1dd', 'd0ab6f4f-d46', 'a2a66cd3-4f1', '9a039db2-5f4', 'c820c4c9-96f', 'c6410665-d8f', 'a9ec2413-1f6', '3c86274e-474', 'e61ca831-914', '5ba6e8d7-a95', '5cf312b4-cd3']
 ---
 
@@ -67,7 +67,8 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
-## Auto-Updated Data (2026-07-13)
+
+## Auto-Updated Data (2026-07-14)
 
 | Fact | Source | Confidence |
 |------|--------|------------|

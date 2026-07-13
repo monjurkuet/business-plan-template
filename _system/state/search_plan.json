@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T12:27:20.311578+00:00",
+  "generated_at": "2026-07-13T20:01:31.989915+00:00",
   "models_used": [
     "gemini-2.5-flash-lite",
     "deepseek-ai/deepseek-v4-pro",
@@ -20,13 +20,6 @@
           ]
         },
         {
-          "issue": "Stale year references in 'crypto-bitcoin/default' file.",
-          "severity": "critical",
-          "affected_sectors": [
-            "crypto-bitcoin"
-          ]
-        },
-        {
           "issue": "Pricing, policy, and sentiment files exceeding freshness threshold (68 days) for multiple sectors.",
           "severity": "high",
           "affected_sectors": [
@@ -37,170 +30,177 @@
             "high-roi-niches",
             "jewellery"
           ]
+        },
+        {
+          "issue": "Stale year references (2023, 2024, 2025) in 'crypto-bitcoin/default' file.",
+          "severity": "high",
+          "affected_sectors": [
+            "crypto-bitcoin"
+          ]
         }
       ],
       "sector_priorities": [
         {
           "sector": "crypto-bitcoin",
           "priority": 10,
-          "reason": "Critical issues with stale data and freshness, requiring immediate attention. Crypto is a dynamic sector with significant regulatory and market shifts."
+          "reason": "Critical freshness issues and stale data require immediate attention. Crypto is a dynamic sector, and outdated information poses significant risk. The explicit mention of '2025' suggests a need for forward-looking regulatory and market analysis."
         },
         {
           "sector": "automotive-car-care",
           "priority": 8,
-          "reason": "Multiple files (pricing, policy, sentiment) are stale, impacting the accuracy of market understanding. Automotive sector is a significant contributor to the economy."
+          "reason": "Multiple files (pricing, policy, sentiment) are stale, indicating a lack of up-to-date market intelligence. This sector is likely to be impacted by economic shifts and regulatory changes."
         },
         {
           "sector": "clothing-fashion",
-          "priority": 8,
-          "reason": "Similar to automotive, stale pricing, policy, and sentiment data. Fashion is a key export and domestic consumption sector."
-        },
-        {
-          "sector": "electronics-gadgets",
           "priority": 7,
-          "reason": "Stale pricing, policy, and sentiment data. Electronics is a growing sector with increasing consumer demand."
+          "reason": "Similar to automotive, stale pricing, policy, and sentiment data suggests a need for urgent updates. Fashion is highly sensitive to consumer trends and economic conditions."
         },
         {
           "sector": "agriculture-agro",
           "priority": 6,
-          "reason": "Missing 'competitor_core_profile' is a critical gap for understanding this foundational sector."
+          "reason": "Missing 'competitor_core_profile' is a critical gap, hindering a fundamental understanding of the competitive landscape in a vital sector for Bangladesh."
         },
         {
           "sector": "construction-real-estate",
           "priority": 6,
-          "reason": "Missing 'competitor_core_profile' hinders analysis of a major economic driver."
+          "reason": "Missing 'competitor_core_profile' is a critical gap in a sector heavily influenced by economic development and government policy."
         },
         {
-          "sector": "healthcare-pharma",
-          "priority": 6,
-          "reason": "Missing 'competitor_core_profile' is a significant gap in understanding a vital sector."
-        },
-        {
-          "sector": "food-beverage",
+          "sector": "electronics-gadgets",
           "priority": 5,
-          "reason": "Missing 'competitor_core_profile' impacts understanding of a large consumer market."
-        },
-        {
-          "sector": "education-training",
-          "priority": 5,
-          "reason": "Missing 'competitor_core_profile' is a gap in a sector crucial for human capital development."
-        },
-        {
-          "sector": "high-roi-niches",
-          "priority": 4,
-          "reason": "Stale pricing, policy, and sentiment data, though the 'high-roi-niches' designation suggests potential for high impact if data is accurate."
+          "reason": "Stale pricing, policy, and sentiment data requires updating to reflect current market dynamics and consumer behavior."
         },
         {
           "sector": "jewellery",
+          "priority": 5,
+          "reason": "Stale pricing, policy, and sentiment data needs to be refreshed, especially given the sector's sensitivity to economic conditions and consumer spending."
+        },
+        {
+          "sector": "food-beverage",
           "priority": 4,
-          "reason": "Stale pricing, policy, and sentiment data. Jewellery is an important export and cultural sector."
+          "reason": "Missing 'competitor_core_profile' is a significant gap in a fundamental sector. Updates are needed to understand market players."
+        },
+        {
+          "sector": "healthcare-pharma",
+          "priority": 4,
+          "reason": "Missing 'competitor_core_profile' is a critical gap in a sector with significant regulatory oversight and public impact."
+        },
+        {
+          "sector": "education-training",
+          "priority": 3,
+          "reason": "Missing 'competitor_core_profile' is a gap, but the sector might be less volatile than others. Updates are needed for a comprehensive view."
+        },
+        {
+          "sector": "high-roi-niches",
+          "priority": 3,
+          "reason": "Stale pricing, policy, and sentiment data requires refreshing. The 'high-roi' nature suggests potential for high-impact insights if data is current."
         }
       ],
       "search_hypotheses": [
         {
           "sector": "crypto-bitcoin",
-          "hypothesis": "The 'crypto-bitcoin/default' file contains outdated information regarding the legal status or market trends of cryptocurrency trading in Bangladesh. The current regulatory landscape needs to be accurately reflected.",
+          "hypothesis": "The regulatory landscape for crypto trading in Bangladesh is evolving, and current policy documents may not reflect the latest directives or interpretations, impacting investor confidence and market activity.",
           "suggested_queries": [
-            "Bangladesh crypto regulations 2025 2026",
-            "Bangladesh central bank stance on cryptocurrency",
+            "Bangladesh crypto trading regulations 2025",
+            "Bangladesh Bank circulars cryptocurrency",
+            "BSEC crypto policy updates",
             "Legal status of Bitcoin trading Bangladesh",
-            "Bangladesh crypto market trends",
-            "Bangladesh financial intelligence unit crypto guidelines"
+            "Taxation of cryptocurrency gains Bangladesh"
           ],
-          "confidence": 0.95
+          "confidence": 0.9
         },
         {
           "sector": "automotive-car-care",
-          "hypothesis": "The pricing, policy, and sentiment data for the automotive car care sector is outdated, potentially misrepresenting current market conditions, consumer preferences, and competitive strategies.",
+          "hypothesis": "Recent shifts in import policies, fuel prices, or consumer financing are significantly impacting the demand for car maintenance services and the pricing strategies of service providers.",
           "suggested_queries": [
-            "Bangladesh automotive aftermarket services market size 2025",
-            "New car sales Bangladesh trends 2025",
-            "Used car market Bangladesh regulations",
-            "Consumer sentiment automotive repair Bangladesh",
-            "Pricing trends car maintenance services Bangladesh"
+            "Bangladesh automotive import policy changes 2025",
+            "Fuel price impact on car maintenance Bangladesh",
+            "Consumer financing trends automotive Bangladesh",
+            "Used car market trends Bangladesh",
+            "New vehicle registration statistics Bangladesh"
           ],
-          "confidence": 0.9
+          "confidence": 0.8
         },
         {
           "sector": "clothing-fashion",
-          "hypothesis": "Outdated pricing, policy, and sentiment data for the clothing and fashion sector may not capture recent shifts in consumer spending, import/export policies, or emerging fashion trends in Bangladesh.",
+          "hypothesis": "Changing consumer preferences towards sustainable fashion and the impact of e-commerce on traditional retail are creating new competitive pressures and pricing dynamics in the Bangladeshi apparel market.",
           "suggested_queries": [
-            "Bangladesh RMG export trends 2025",
-            "Domestic fashion market Bangladesh analysis",
-            "Consumer spending on apparel Bangladesh",
-            "Fashion retail policy Bangladesh",
-            "Social media sentiment fashion brands Bangladesh"
-          ],
-          "confidence": 0.9
-        },
-        {
-          "sector": "electronics-gadgets",
-          "hypothesis": "Stale pricing, policy, and sentiment data for electronics and gadgets could lead to inaccurate assessments of market competitiveness, consumer adoption rates, and regulatory impacts.",
-          "suggested_queries": [
-            "Bangladesh consumer electronics market growth 2025",
-            "Import duties electronics Bangladesh",
-            "Smartphone market share Bangladesh",
-            "Online retail electronics Bangladesh trends",
-            "Consumer sentiment gadget purchases Bangladesh"
+            "Sustainable fashion trends Bangladesh",
+            "E-commerce growth apparel Bangladesh",
+            "Online fashion retailers Bangladesh market share",
+            "Consumer spending on clothing Bangladesh 2025",
+            "Fast fashion vs. sustainable fashion Bangladesh"
           ],
           "confidence": 0.85
         },
         {
           "sector": "agriculture-agro",
-          "hypothesis": "The absence of a 'competitor_core_profile' file for the agriculture sector represents a significant gap in understanding key players, their market strategies, and competitive landscape within this crucial industry.",
+          "hypothesis": "Government initiatives and private sector investments in agricultural technology (AgriTech) are reshaping the competitive landscape, with new players emerging and traditional ones adapting.",
           "suggested_queries": [
-            "Major agricultural companies Bangladesh",
-            "Agribusiness investment Bangladesh",
-            "Government agricultural policy Bangladesh",
-            "Agricultural technology adoption Bangladesh",
-            "Competitor analysis agrochemical market Bangladesh"
+            "Bangladesh AgriTech investment trends",
+            "Government subsidies agriculture technology Bangladesh",
+            "Emerging AgriTech startups Bangladesh",
+            "Digital agriculture platforms Bangladesh",
+            "Impact of climate change on Bangladesh agriculture policy"
           ],
-          "confidence": 0.9
+          "confidence": 0.75
+        },
+        {
+          "sector": "construction-real-estate",
+          "hypothesis": "New urban development plans and changes in housing finance regulations are driving demand for specific types of real estate and influencing developer strategies.",
+          "suggested_queries": [
+            "Bangladesh housing finance policy 2025",
+            "Dhaka master plan updates",
+            "Real estate investment trends Bangladesh",
+            "Affordable housing initiatives Bangladesh",
+            "Construction material price trends Bangladesh"
+          ],
+          "confidence": 0.7
         }
       ],
       "high_value_missing_angles": [
-        "Detailed financial breakdowns (revenue, profit margins, funding rounds) for key competitors across all sectors, with verifiable sources.",
-        "Up-to-date regulatory landscape (2025-2026) for all sectors, including specific government circulars, acts, and their implications.",
-        "Comprehensive pricing data in BDT for products and services across all sectors, including competitive pricing strategies.",
-        "Verified and functional social media handles (especially Facebook) for all listed competitors.",
-        "Cross-sector analysis identifying emerging trends, supply chain interdependencies, and shared regulatory challenges (e.g., digital transformation impacting multiple industries).",
-        "Analysis of government incentives, subsidies, and support programs relevant to each sector.",
-        "Detailed consumer behavior and demographic analysis for each sector.",
-        "Risk assessment and mitigation strategies specific to each sector, beyond a general risk register."
+        "Detailed competitor financial performance (revenue, profitability, funding rounds) with verifiable sources.",
+        "Up-to-date regulatory analysis for all sectors, specifically focusing on 2025-2026 policy changes, circulars, and government directives.",
+        "Comprehensive pricing data in BDT for products and services across all sectors, including competitor pricing strategies.",
+        "Verified and functional social media presence (e.g., Facebook handles) for key competitors.",
+        "Cross-sector analysis identifying emerging trends or disruptions that impact multiple industries (e.g., digitalization, sustainability, supply chain resilience).",
+        "Analysis of government tenders, grants, and support programs relevant to each sector.",
+        "Consumer sentiment analysis beyond basic sentiment scores, including key drivers and verbatim feedback.",
+        "Detailed risk assessments for each sector, including mitigation strategies."
       ],
       "recommended_actions": [
         {
-          "action": "Prioritize updating all files flagged in the 'Freshness Queue' with P0 priority.",
+          "action": "Prioritize immediate data refresh for 'crypto-bitcoin' sector, focusing on policy and pricing. Update stale year references.",
+          "priority": "P0",
+          "effort": "medium"
+        },
+        {
+          "action": "Initiate data refresh for all sectors flagged with stale pricing, policy, and sentiment files (68d threshold).",
           "priority": "P0",
           "effort": "high"
         },
         {
-          "action": "Immediately address the missing 'competitor_core_profile' files for agriculture-agro, construction-real-estate, education-training, food-beverage, and healthcare-pharma.",
+          "action": "Create missing 'competitor_core_profile' files for 'agriculture-agro', 'construction-real-estate', 'education-training', 'food-beverage', and 'healthcare-pharma'.",
           "priority": "P0",
           "effort": "high"
         },
         {
-          "action": "Conduct a thorough review and update of the 'crypto-bitcoin/default' file to reflect current year references and regulatory status.",
-          "priority": "P0",
-          "effort": "medium"
-        },
-        {
-          "action": "Develop a systematic process for ongoing data freshness checks and automated alerts for all critical data types (pricing, policy, sentiment, competitor profiles).",
+          "action": "Develop a systematic process for tracking and updating regulatory documents and government circulars for all sectors, ensuring 2025-2026 relevance.",
           "priority": "P1",
           "effort": "medium"
         },
         {
-          "action": "Initiate targeted research based on the 'search_hypotheses' to fill critical data gaps and validate existing information.",
+          "action": "Implement a data validation step to ensure competitor financial data is sourced and verifiable, not just estimates.",
           "priority": "P1",
           "effort": "medium"
         },
         {
-          "action": "Establish a clear guideline for citing sources for all financial data and regulatory information.",
+          "action": "Conduct a cross-sector analysis to identify overarching trends and their impact on individual sectors.",
           "priority": "P2",
-          "effort": "low"
+          "effort": "medium"
         },
         {
-          "action": "Implement a verification process for all social media links.",
+          "action": "Verify and update all listed Facebook handles for competitors.",
           "priority": "P2",
           "effort": "low"
         }
@@ -223,7 +223,7 @@
   "total_queries": 50,
   "queries": [
     {
-      "query": "\"fertilizer Bangladesh\" Bangladesh top companies",
+      "query": "[ Bangladesh 2026",
       "sector": "agriculture-agro",
       "family": "competitor_discovery",
       "priority": "P0",
@@ -231,15 +231,7 @@
       "source_model": "freshness_policy"
     },
     {
-      "query": "\"fertilizer Bangladesh\" Dhaka Facebook",
-      "sector": "agriculture-agro",
-      "family": "competitor_discovery",
-      "priority": "P0",
-      "reason": "Required file is missing",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"car wash Bangladesh\" price Bangladesh",
+      "query": "[ Bangladesh 2026",
       "sector": "automotive-car-care",
       "family": "pricing",
       "priority": "P0",
@@ -247,15 +239,7 @@
       "source_model": "freshness_policy"
     },
     {
-      "query": "site:facebook.com \"car wash Bangladesh\" offer price",
-      "sector": "automotive-car-care",
-      "family": "pricing",
-      "priority": "P0",
-      "reason": "File age 68d exceeds freshness threshold for pricing",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"car wash Bangladesh\" regulation Bangladesh 2026",
+      "query": "[ Bangladesh 2026",
       "sector": "automotive-car-care",
       "family": "policy_tracker",
       "priority": "P0",
@@ -263,15 +247,7 @@
       "source_model": "freshness_policy"
     },
     {
-      "query": "\"car wash Bangladesh\" policy Bangladesh 2026",
-      "sector": "automotive-car-care",
-      "family": "policy_tracker",
-      "priority": "P0",
-      "reason": "File age 68d exceeds freshness threshold for policy",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"car wash Bangladesh\" review Bangladesh",
+      "query": "[ Bangladesh 2026",
       "sector": "automotive-car-care",
       "family": "sentiment",
       "priority": "P0",
@@ -279,15 +255,7 @@
       "source_model": "freshness_policy"
     },
     {
-      "query": "site:facebook.com \"car wash Bangladesh\" reviews",
-      "sector": "automotive-car-care",
-      "family": "sentiment",
-      "priority": "P0",
-      "reason": "File age 68d exceeds freshness threshold for sentiment",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"clothing Bangladesh\" price Bangladesh",
+      "query": "[ Bangladesh 2026",
       "sector": "clothing-fashion",
       "family": "pricing",
       "priority": "P0",
@@ -295,15 +263,7 @@
       "source_model": "freshness_policy"
     },
     {
-      "query": "site:facebook.com \"clothing Bangladesh\" offer price",
-      "sector": "clothing-fashion",
-      "family": "pricing",
-      "priority": "P0",
-      "reason": "File age 68d exceeds freshness threshold for pricing",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"clothing Bangladesh\" regulation Bangladesh 2026",
+      "query": "[ Bangladesh 2026",
       "sector": "clothing-fashion",
       "family": "policy_tracker",
       "priority": "P0",
@@ -311,15 +271,7 @@
       "source_model": "freshness_policy"
     },
     {
-      "query": "\"clothing Bangladesh\" policy Bangladesh 2026",
-      "sector": "clothing-fashion",
-      "family": "policy_tracker",
-      "priority": "P0",
-      "reason": "File age 68d exceeds freshness threshold for policy",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"clothing Bangladesh\" review Bangladesh",
+      "query": "[ Bangladesh 2026",
       "sector": "clothing-fashion",
       "family": "sentiment",
       "priority": "P0",
@@ -327,15 +279,7 @@
       "source_model": "freshness_policy"
     },
     {
-      "query": "site:facebook.com \"clothing Bangladesh\" reviews",
-      "sector": "clothing-fashion",
-      "family": "sentiment",
-      "priority": "P0",
-      "reason": "File age 68d exceeds freshness threshold for sentiment",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"building material Bangladesh\" Bangladesh top companies",
+      "query": "[ Bangladesh 2026",
       "sector": "construction-real-estate",
       "family": "competitor_discovery",
       "priority": "P0",
@@ -343,15 +287,7 @@
       "source_model": "freshness_policy"
     },
     {
-      "query": "\"building material Bangladesh\" Dhaka Facebook",
-      "sector": "construction-real-estate",
-      "family": "competitor_discovery",
-      "priority": "P0",
-      "reason": "Required file is missing",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"crypto Bangladesh\" Bangladesh top companies",
+      "query": "[ Bangladesh 2026",
       "sector": "crypto-bitcoin",
       "family": "competitor_discovery",
       "priority": "P0",
@@ -359,15 +295,7 @@
       "source_model": "freshness_policy"
     },
     {
-      "query": "\"crypto Bangladesh\" Dhaka Facebook",
-      "sector": "crypto-bitcoin",
-      "family": "competitor_discovery",
-      "priority": "P0",
-      "reason": "Contains stale year references: 2023, 2024, 2025",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"crypto Bangladesh\" price Bangladesh",
+      "query": "[ Bangladesh 2026",
       "sector": "crypto-bitcoin",
       "family": "pricing",
       "priority": "P0",
@@ -375,15 +303,7 @@
       "source_model": "freshness_policy"
     },
     {
-      "query": "site:facebook.com \"crypto Bangladesh\" offer price",
-      "sector": "crypto-bitcoin",
-      "family": "pricing",
-      "priority": "P0",
-      "reason": "File age 68d exceeds freshness threshold for pricing",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"crypto Bangladesh\" regulation Bangladesh 2026",
+      "query": "[ Bangladesh 2026",
       "sector": "crypto-bitcoin",
       "family": "policy_tracker",
       "priority": "P0",
@@ -391,15 +311,7 @@
       "source_model": "freshness_policy"
     },
     {
-      "query": "\"crypto Bangladesh\" policy Bangladesh 2026",
-      "sector": "crypto-bitcoin",
-      "family": "policy_tracker",
-      "priority": "P0",
-      "reason": "File age 68d exceeds freshness threshold for policy",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"crypto Bangladesh\" review Bangladesh",
+      "query": "[ Bangladesh 2026",
       "sector": "crypto-bitcoin",
       "family": "sentiment",
       "priority": "P0",
@@ -407,15 +319,7 @@
       "source_model": "freshness_policy"
     },
     {
-      "query": "site:facebook.com \"crypto Bangladesh\" reviews",
-      "sector": "crypto-bitcoin",
-      "family": "sentiment",
-      "priority": "P0",
-      "reason": "File age 68d exceeds freshness threshold for sentiment",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"coaching center Bangladesh\" Bangladesh top companies",
+      "query": "[ Bangladesh 2026",
       "sector": "education-training",
       "family": "competitor_discovery",
       "priority": "P0",
@@ -423,7 +327,103 @@
       "source_model": "freshness_policy"
     },
     {
-      "query": "\"fertilizer Bangladesh\" regulation Bangladesh 2026",
+      "query": "[ Bangladesh 2026",
+      "sector": "electronics-gadgets",
+      "family": "pricing",
+      "priority": "P0",
+      "reason": "File age 68d exceeds freshness threshold for pricing",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "[ Bangladesh 2026",
+      "sector": "electronics-gadgets",
+      "family": "policy_tracker",
+      "priority": "P0",
+      "reason": "File age 68d exceeds freshness threshold for policy",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "[ Bangladesh 2026",
+      "sector": "electronics-gadgets",
+      "family": "sentiment",
+      "priority": "P0",
+      "reason": "File age 68d exceeds freshness threshold for sentiment",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "[ Bangladesh 2026",
+      "sector": "food-beverage",
+      "family": "competitor_discovery",
+      "priority": "P0",
+      "reason": "Required file is missing",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "[ Bangladesh 2026",
+      "sector": "healthcare-pharma",
+      "family": "competitor_discovery",
+      "priority": "P0",
+      "reason": "Required file is missing",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "[ Bangladesh 2026",
+      "sector": "high-roi-niches",
+      "family": "pricing",
+      "priority": "P0",
+      "reason": "File age 68d exceeds freshness threshold for pricing",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "[ Bangladesh 2026",
+      "sector": "high-roi-niches",
+      "family": "policy_tracker",
+      "priority": "P0",
+      "reason": "File age 68d exceeds freshness threshold for policy",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "[ Bangladesh 2026",
+      "sector": "high-roi-niches",
+      "family": "sentiment",
+      "priority": "P0",
+      "reason": "File age 68d exceeds freshness threshold for sentiment",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "[ Bangladesh 2026",
+      "sector": "jewellery",
+      "family": "pricing",
+      "priority": "P0",
+      "reason": "File age 68d exceeds freshness threshold for pricing",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "[ Bangladesh 2026",
+      "sector": "jewellery",
+      "family": "policy_tracker",
+      "priority": "P0",
+      "reason": "File age 68d exceeds freshness threshold for policy",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "[ Bangladesh 2026",
+      "sector": "jewellery",
+      "family": "sentiment",
+      "priority": "P0",
+      "reason": "File age 68d exceeds freshness threshold for sentiment",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "[ Bangladesh 2026",
+      "sector": "logistics-transport",
+      "family": "competitor_discovery",
+      "priority": "P0",
+      "reason": "Required file is missing",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "[ Bangladesh 2026",
       "sector": "agriculture-agro",
       "family": "policy_tracker",
       "priority": "P1",
@@ -431,15 +431,7 @@
       "source_model": "freshness_policy"
     },
     {
-      "query": "\"fertilizer Bangladesh\" policy Bangladesh 2026",
-      "sector": "agriculture-agro",
-      "family": "policy_tracker",
-      "priority": "P1",
-      "reason": "File age 10d exceeds freshness threshold for policy",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"car wash Bangladesh\" Bangladesh top companies",
+      "query": "[ Bangladesh 2026",
       "sector": "automotive-car-care",
       "family": "competitor_discovery",
       "priority": "P1",
@@ -447,47 +439,23 @@
       "source_model": "freshness_policy"
     },
     {
-      "query": "\"car wash Bangladesh\" Dhaka Facebook",
+      "query": "[ Bangladesh 2026",
       "sector": "automotive-car-care",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "Contains stale year references: 2023, 2024, 2025",
+      "reason": "File age 68d exceeds freshness threshold for competitor_core_profile",
       "source_model": "freshness_policy"
     },
     {
-      "query": "\"car wash Bangladesh\" Bangladesh top companies",
-      "sector": "automotive-car-care",
-      "family": "competitor_discovery",
-      "priority": "P1",
-      "reason": "File age 67d exceeds freshness threshold for competitor_core_profile",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"car wash Bangladesh\" Dhaka Facebook",
-      "sector": "automotive-car-care",
-      "family": "competitor_discovery",
-      "priority": "P1",
-      "reason": "File age 67d exceeds freshness threshold for competitor_core_profile",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"architecture firm\" Bangladesh top companies",
+      "query": "[ Bangladesh 2026",
       "sector": "bim-global-outreach",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "Contains stale year references: 2023, 2024, 2025",
+      "reason": "Contains stale year references: 2024, 2025",
       "source_model": "freshness_policy"
     },
     {
-      "query": "\"architecture firm\" Dhaka Facebook",
-      "sector": "bim-global-outreach",
-      "family": "competitor_discovery",
-      "priority": "P1",
-      "reason": "Contains stale year references: 2023, 2024, 2025",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"architecture firm\" price Bangladesh",
+      "query": "[ Bangladesh 2026",
       "sector": "bim-global-outreach",
       "family": "pricing",
       "priority": "P1",
@@ -495,15 +463,7 @@
       "source_model": "freshness_policy"
     },
     {
-      "query": "site:facebook.com \"architecture firm\" offer price",
-      "sector": "bim-global-outreach",
-      "family": "pricing",
-      "priority": "P1",
-      "reason": "File age 18d exceeds freshness threshold for pricing",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"architecture firm\" regulation Bangladesh 2026",
+      "query": "[ Bangladesh 2026",
       "sector": "bim-global-outreach",
       "family": "policy_tracker",
       "priority": "P1",
@@ -511,15 +471,7 @@
       "source_model": "freshness_policy"
     },
     {
-      "query": "\"architecture firm\" policy Bangladesh 2026",
-      "sector": "bim-global-outreach",
-      "family": "policy_tracker",
-      "priority": "P1",
-      "reason": "File age 18d exceeds freshness threshold for policy",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"clothing Bangladesh\" Bangladesh top companies",
+      "query": "[ Bangladesh 2026",
       "sector": "clothing-fashion",
       "family": "competitor_discovery",
       "priority": "P1",
@@ -527,31 +479,15 @@
       "source_model": "freshness_policy"
     },
     {
-      "query": "\"clothing Bangladesh\" Dhaka Facebook",
+      "query": "[ Bangladesh 2026",
       "sector": "clothing-fashion",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "Contains stale year references: 2023, 2024, 2025",
+      "reason": "File age 68d exceeds freshness threshold for competitor_core_profile",
       "source_model": "freshness_policy"
     },
     {
-      "query": "\"clothing Bangladesh\" Bangladesh top companies",
-      "sector": "clothing-fashion",
-      "family": "competitor_discovery",
-      "priority": "P1",
-      "reason": "File age 67d exceeds freshness threshold for competitor_core_profile",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"clothing Bangladesh\" Dhaka Facebook",
-      "sector": "clothing-fashion",
-      "family": "competitor_discovery",
-      "priority": "P1",
-      "reason": "File age 67d exceeds freshness threshold for competitor_core_profile",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"building material Bangladesh\" regulation Bangladesh 2026",
+      "query": "[ Bangladesh 2026",
       "sector": "construction-real-estate",
       "family": "policy_tracker",
       "priority": "P1",
@@ -559,31 +495,15 @@
       "source_model": "freshness_policy"
     },
     {
-      "query": "\"building material Bangladesh\" policy Bangladesh 2026",
-      "sector": "construction-real-estate",
-      "family": "policy_tracker",
-      "priority": "P1",
-      "reason": "File age 10d exceeds freshness threshold for policy",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"crypto Bangladesh\" Bangladesh top companies",
+      "query": "[ Bangladesh 2026",
       "sector": "crypto-bitcoin",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "File age 67d exceeds freshness threshold for competitor_core_profile",
+      "reason": "File age 68d exceeds freshness threshold for competitor_core_profile",
       "source_model": "freshness_policy"
     },
     {
-      "query": "\"crypto Bangladesh\" Dhaka Facebook",
-      "sector": "crypto-bitcoin",
-      "family": "competitor_discovery",
-      "priority": "P1",
-      "reason": "File age 67d exceeds freshness threshold for competitor_core_profile",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"coaching center Bangladesh\" regulation Bangladesh 2026",
+      "query": "[ Bangladesh 2026",
       "sector": "education-training",
       "family": "policy_tracker",
       "priority": "P1",
@@ -591,35 +511,115 @@
       "source_model": "freshness_policy"
     },
     {
-      "query": "\"coaching center Bangladesh\" policy Bangladesh 2026",
-      "sector": "education-training",
+      "query": "[ Bangladesh 2026",
+      "sector": "electronics-gadgets",
+      "family": "competitor_discovery",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024, 2025",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "[ Bangladesh 2026",
+      "sector": "electronics-gadgets",
+      "family": "competitor_discovery",
+      "priority": "P1",
+      "reason": "File age 68d exceeds freshness threshold for competitor_core_profile",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "[ Bangladesh 2026",
+      "sector": "food-beverage",
+      "family": "competitor_discovery",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2025",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "[ Bangladesh 2026",
+      "sector": "food-beverage",
       "family": "policy_tracker",
       "priority": "P1",
       "reason": "File age 10d exceeds freshness threshold for policy",
       "source_model": "freshness_policy"
     },
     {
-      "query": "\"electronics Bangladesh\" Bangladesh top companies",
-      "sector": "electronics-gadgets",
+      "query": "[ Bangladesh 2026",
+      "sector": "healthcare-pharma",
+      "family": "competitor_discovery",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2025",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "[ Bangladesh 2026",
+      "sector": "healthcare-pharma",
+      "family": "policy_tracker",
+      "priority": "P1",
+      "reason": "File age 10d exceeds freshness threshold for policy",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "[ Bangladesh 2026",
+      "sector": "high-roi-niches",
       "family": "competitor_discovery",
       "priority": "P1",
       "reason": "Contains stale year references: 2023, 2024, 2025",
       "source_model": "freshness_policy"
     },
     {
-      "query": "\"electronics Bangladesh\" Dhaka Facebook",
-      "sector": "electronics-gadgets",
+      "query": "[ Bangladesh 2026",
+      "sector": "high-roi-niches",
+      "family": "competitor_discovery",
+      "priority": "P1",
+      "reason": "File age 68d exceeds freshness threshold for competitor_core_profile",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "[ Bangladesh 2026",
+      "sector": "jewellery",
       "family": "competitor_discovery",
       "priority": "P1",
       "reason": "Contains stale year references: 2023, 2024, 2025",
       "source_model": "freshness_policy"
     },
     {
-      "query": "\"electronics Bangladesh\" Bangladesh top companies",
-      "sector": "electronics-gadgets",
+      "query": "[ Bangladesh 2026",
+      "sector": "jewellery",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "File age 67d exceeds freshness threshold for competitor_core_profile",
+      "reason": "File age 68d exceeds freshness threshold for competitor_core_profile",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "[ Bangladesh 2026",
+      "sector": "logistics-transport",
+      "family": "competitor_discovery",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2024, 2025",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "[ Bangladesh 2026",
+      "sector": "logistics-transport",
+      "family": "policy_tracker",
+      "priority": "P1",
+      "reason": "File age 10d exceeds freshness threshold for policy",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "[ Bangladesh 2026",
+      "sector": "media-marketing-digital",
+      "family": "competitor_discovery",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024, 2025",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "[ Bangladesh 2026",
+      "sector": "media-marketing-digital",
+      "family": "competitor_discovery",
+      "priority": "P1",
+      "reason": "File age 68d exceeds freshness threshold for competitor_core_profile",
       "source_model": "freshness_policy"
     }
   ]
