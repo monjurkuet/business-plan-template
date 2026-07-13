@@ -2,8 +2,8 @@
 sector: jewellery
 last_verified: 2026-07-13
 freshness: fresh
-confidence: 0.704
-evidence_ids: ['d1f75edd-0e6', '9cce5c1e-4f5', 'e63d8ab8-887', '669e699f-607', '5fe7f187-821', 'a94676ea-9c5', 'b7afcf1f-fc4', '7f882413-39d', 'fd129e55-a54', '6f90c0cd-5c4', 'b2c0fe28-340', 'aa238ab3-09c', '76801403-8d2', '2e9e03b2-77c', '78518f3e-636', '4d8d3fa9-50d', '1d480c29-d80', '89226f09-f5e', 'b597cc09-3f4', '01dceffa-f40']
+confidence: 0.714
+evidence_ids: ['bc05f84c-c5b', '8069150d-374', '8702e5d0-b86', 'a864366d-c9a', 'ec3507c0-bb5', '2b281e82-3eb', '8e72479f-27b', '7bc76f4b-fec', '6ebe01f9-2b3', '4d4a233b-09e', 'd73e36e9-1ba', 'ae6c234c-28e', 'dce7ea49-afd', '074d14cd-0bc', 'b09ea36d-91b', '510b1848-67f', '6ae74e8e-959', '88979865-159', '541ed267-67f', 'ab8e6d1e-9ce']
 ---
 
 # Jewellery — Bangladesh Market
@@ -152,18 +152,20 @@ evidence_ids: ['d1f75edd-0e6', '9cce5c1e-4f5', 'e63d8ab8-887', '669e699f-607', '
 
 
 
+
 ## Auto-Updated Data (2026-07-13)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Wish Pearl Necklace | search | 0.95 |
-| low price | search | 0.90 |
-| Limited stock jewelry sale | search | 0.95 |
-| Pearl lovers in Bangladesh | search | 0.95 |
-| Budget jewelry, Elegant necklace, Pearl jewelry, Unique pearl necklace, Sparkle  | search | 0.95 |
-| pendant necklaces, statement necklaces, choker necklaces | search | 0.95 |
-| wide spectrum of jewellery products for multiple preferences and event types | search | 0.90 |
-| diamond jewellery | search | 0.95 |
-| 2023-11-02 | search | 0.80 |
-| ['gold', 'silver', 'gemstones'] | search | 0.90 |
-| Bangladesh | search | 1.00 |
+| Above price changes are impacted on all gold jewellers in Bangladesh | search | 0.90 |
+| churi, chain, gold bracelet | search | 0.95 |
+| 200 to 3000 | search | 0.95 |
+| daily and festive wear | search | 0.90 |
+| gold and diamond shop | search | 0.95 |
+| most trusted gold and diamond shop in Bangladesh | search | 0.90 |
+| affordable price | search | 0.85 |
+| best price when buying gold from customers | search | 0.90 |
+| pioneer in online Jewellery Shop in Bangladesh | search | 0.95 |
+| any kind of jewelry item | search | 0.90 |
+| Jotey is the most trusted jewellery shop in Bangladesh. It is the best online je | search | 0.90 |
+| affordable price | search | 0.80 |

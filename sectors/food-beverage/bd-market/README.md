@@ -2,8 +2,8 @@
 sector: food-beverage
 last_verified: 2026-07-13
 freshness: fresh
-confidence: 0.731
-evidence_ids: ['0f6b9e40-ecb', '77e44788-8f7', '39dfc341-e6c', 'e737a349-3dd', 'f20006c9-683', '1672bda4-738', '7bb23c5d-c94', 'cbbfe1e0-ecc', '1ba9797f-171', '6607ed00-6a3', '6ec981f0-d25', '39f98a87-ec7', 'bc9f6d22-535', 'a35afcd2-453', '1dc17ca5-80a', '35859dbd-cf1', '29e253f3-192', '9dddd822-cf1', 'b3f5287f-5d1', 'e1ccd63b-99a']
+confidence: 0.729
+evidence_ids: ['217060bc-c36', '0af27551-0b2', 'ade65009-32d', 'fed2203a-f7c', '0a688b91-668', 'ac7699ad-be4', '889c10db-4a2', '659ede46-4c6', 'eab6277b-4de', '8d9ef580-751', 'fc36b268-b72', 'cbc666d6-87e', '3913c9bd-b64', '7b15c3e7-304', '586e0090-a4f', '13c466ca-42f', '6b34e0ac-d5c', '2d140574-43d', '7f9ba2d8-a4b', 'bc1fa1b1-54b']
 ---
 
 # Food & Beverage — Bangladesh Market
@@ -65,22 +65,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-13)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| top-rated spots, local favorites, and hidden gems | search | 0.90 |
-| Dhaka | search | 1.00 |
-| food-beverage | search | 1.00 |
-| Restaurants.BD | search | 1.00 |
-| Bangladesh's premier restaurant discovery platform | search | 1.00 |
-| 2020 | search | 0.90 |
-| food-beverage | search | 1.00 |
-| 31651 | search | 1.00 |
-| 944 | search | 1.00 |
-| Dhaka City, Dhaka Division | search | 1.00 |
-| Tripadvisor | search | 1.00 |
-| Trying out new tastes around the city has become a trend among food lovers in Ba | search | 1.00 |
-| Despite hundreds of new restaurants opening regularly, demand remains stable | search | 1.00 |
-| Foreign restaurant chains and several local food chains have grown in popularity | search | 1.00 |
-| Many local fast food shops have begun to shift from single locations to franchis | search | 1.00 |
+| 20 minutes from downtown Montreal | search | 0.90 |
+| rooftop | search | 0.95 |
+| stunning views and delicious cuisine | search | 0.90 |
+| Bangladeshi | search | 0.95 |
+| 16 | search | 0.90 |
+| Top Bangladeshi food you must try on your visit | search | 0.90 |
+| Bangladesh Tandoori Restaurant | search | 1.00 |
+| Campbeltown | search | 1.00 |
+| 4.1 | search | 0.95 |
+| 10 | search | 0.95 |
+| ['Indian', 'Asian', 'Bangladeshi'] | search | 0.95 |
+| food photography | search | 0.95 |
+| Boss Man Digital Marketing Agency | search | 0.95 |
+| Dhaka | search | 0.90 |
+| restaurant attack | search | 0.95 |

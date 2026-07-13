@@ -2,8 +2,8 @@
 sector: electronics-gadgets
 last_verified: 2026-07-13
 freshness: fresh
-confidence: 0.709
-evidence_ids: ['837e924e-655', '284cc0da-382', '47aa026a-ffd', 'd154eb81-eaf', '68dfcb90-70a', '05907a6d-6c2', '54764175-2f5', '8381bb4d-aaa', '8de4f6e0-6f8', '93cd123b-5e5', '2234e8dd-05e', '11698697-2ef', '972cc56a-a58', '07a29c1d-0eb', 'be8efbfe-d3a', '993b3afd-841', '1c7a604b-fad', 'f4cbc9fd-6fb', '0a19dd30-e0f', '9842be5c-29d']
+confidence: 0.708
+evidence_ids: ['57493643-cd1', '789c07b2-2ab', 'b0c6e20c-4f2', '547f3579-980', 'fbd96ec9-d25', 'c477fb48-160', '1a54e6c0-7d7', '2d32bd6d-4eb', '20fa4b7c-bd9', 'f1f892da-b91', '74d4ebda-817', '25857e01-58a', '6f2b515a-6da', 'fc71870c-b39', '8b0b9dbd-a40', 'db340687-474', '93888079-e17', 'c9dc3d64-e31', 'fda10f9d-572', '1cc7902f-24d']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -165,22 +165,23 @@ evidence_ids: ['837e924e-655', '284cc0da-382', '47aa026a-ffd', 'd154eb81-eaf', '
 
 
 
+
 ## Auto-Updated Data (2026-07-13)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| e-commerce electronics store | search | 1.00 |
-| smartphones, gadgets, home appliances | search | 1.00 |
-| ['Samsung', 'Xiaomi', 'OnePlus', 'Vivo', 'HONOR', 'Infinix', 'Tecno'] | search | 1.00 |
-| 100% genuine with official warranty | search | 1.00 |
-| competitive | search | 0.90 |
-| wholesale electronics retailer | search | 1.00 |
-| TV, home appliances | search | 1.00 |
-| energy-efficient, convenient, durable | search | 0.90 |
-| homes and businesses | search | 0.90 |
-| 2026-04-06 | search | 0.80 |
-| mobile phones | search | 1.00 |
-| ['Samsung', 'Xiaomi', 'Vivo', 'OnePlus', 'Honor', 'Infinix', 'Tecno'] | search | 1.00 |
-| True | search | 1.00 |
-| Electronics Bangladesh | search | 1.00 |
-| 53345 | search | 1.00 |
+| Geyser | search | 1.00 |
+| 9,749 - 21,900 | search | 1.00 |
+| Express Delivery | search | 1.00 |
+| official warranty | search | 1.00 |
+| Gadgets & Premium Accessories | search | 0.90 |
+| Free Shipping | search | 0.90 |
+| 15.00 | search | 0.80 |
+| BRANDS MEGA LTD | search | 0.90 |
+| Navana Tower (Level-18) 45 Gulshan Avenue, Gulshan-1 Dhaka -1212, Bangladesh | search | 0.90 |
+| Redmi Note 13 Pro Plus | search | 0.90 |
+| Jamuna Future Park, Dhaka | search | 0.90 |
+| iTONIC store | search | 0.80 |
+| exchange mobile deals | search | 0.80 |
+| Mokter Electronics | search | 0.90 |
+| Bangladesh | search | 0.90 |

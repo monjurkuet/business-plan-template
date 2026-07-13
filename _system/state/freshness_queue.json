@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T11:17:03.004744+00:00",
+  "generated_at": "2026-07-13T12:18:29.542645+00:00",
   "summary": {
     "fresh": 69,
     "stale": 29,
@@ -577,7 +577,7 @@
       "priority": "P1",
       "stale_after_days": 90,
       "critical_after_days": 180,
-      "reason": "Contains stale year references: 2024, 2025"
+      "reason": "Contains stale year references: 2023, 2024, 2025"
     },
     {
       "path": "sectors/bim-global-outreach/bd-market/strategy-canvas.md",
@@ -660,12 +660,12 @@
       "path": "sectors/education-training/bd-market/regulatory.md",
       "sector": "education-training",
       "category": "policy",
-      "age_days": 9,
+      "age_days": 10,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 7,
       "critical_after_days": 21,
-      "reason": "File age 9d exceeds freshness threshold for policy"
+      "reason": "File age 10d exceeds freshness threshold for policy"
     },
     {
       "path": "sectors/electronics-gadgets/bd-market/README.md",
@@ -704,12 +704,12 @@
       "path": "sectors/food-beverage/bd-market/regulatory.md",
       "sector": "food-beverage",
       "category": "policy",
-      "age_days": 9,
+      "age_days": 10,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 7,
       "critical_after_days": 21,
-      "reason": "File age 9d exceeds freshness threshold for policy"
+      "reason": "File age 10d exceeds freshness threshold for policy"
     },
     {
       "path": "sectors/healthcare-pharma/bd-market/README.md",
@@ -726,12 +726,12 @@
       "path": "sectors/healthcare-pharma/bd-market/regulatory.md",
       "sector": "healthcare-pharma",
       "category": "policy",
-      "age_days": 9,
+      "age_days": 10,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 7,
       "critical_after_days": 21,
-      "reason": "File age 9d exceeds freshness threshold for policy"
+      "reason": "File age 10d exceeds freshness threshold for policy"
     },
     {
       "path": "sectors/high-roi-niches/bd-market/README.md",

@@ -2,8 +2,8 @@
 sector: media-marketing-digital
 last_verified: 2026-07-13
 freshness: fresh
-confidence: 0.699
-evidence_ids: ['aa9c8032-7b2', '9591b821-127', '1813cdf7-3e4', '6827d551-10f', '0bfaa0a1-0c1', '5233f16b-c5a', 'd1e9c471-2ab', '100f61f8-b6b', '9fd9ed14-f0d', 'fab75450-eb8', 'd8b60157-1ad', '972367ad-bef', 'a7c485b7-2d0', '35a29b2a-7d1', '69025bd8-339', '5a6996f4-832', '5d766e33-455', 'a1953797-b9f', '616164df-8eb', 'e1009c7c-2e2']
+confidence: 0.711
+evidence_ids: ['960ef0b0-a2f', '97a5d612-643', 'd675d7ae-05f', '7818c997-0a4', 'a7c67a6b-593', 'e40bcd1b-959', '859a195a-675', 'a36c7349-f41', '0581ae53-9c2', '4131571d-e40', '3ab05953-732', 'ad7255ec-e28', 'c7e15f0f-ec9', '508b3842-a66', 'd1755aed-38a', '97352016-d0b', 'dbae50b6-2a5', 'e15fb0e8-b54', 'c35e3878-3d1', '4b013532-10a']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market
@@ -158,13 +158,18 @@ evidence_ids: ['aa9c8032-7b2', '9591b821-127', '1813cdf7-3e4', '6827d551-10f', '
 
 
 
+
 ## Auto-Updated Data (2026-07-13)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| payment per use | search | 0.90 |
-| pay only for what you use | search | 0.90 |
-| Parvez Sheikh | search | 0.95 |
-| ['web development', 'search engine visibility enhancement', 'brand awareness', ' | search | 0.90 |
-| 100 million | search | 0.80 |
-| unprecedented growth in digital landscape | search | 0.90 |
+| Digital marketing cost in Bangladesh 2026 - real BDT pricing for SEO, Facebook A | search | 0.90 |
+| BDT | search | 0.90 |
+| bKash | search | 0.90 |
+| best price in digital marketing Bangladesh | search | 0.80 |
+| ['Bulk SMS', 'Email Marketing', 'Voice Marketing'] | search | 0.95 |
+| BDT | search | 0.90 |
+| ['SEO', 'PPC', 'Social Media Marketing', 'Email Marketing', 'Influencer Marketin | search | 0.95 |
+| 2025 | search | 0.95 |
+| ['GEEKY SOCIAL LTD.', 'OneLittleWeb', 'BrandViser', 'MonsterClaw LLC', 'Ecomclip | search | 0.95 |
+| crossing critical milestones | search | 0.80 |

@@ -2,8 +2,8 @@
 sector: education-training
 last_verified: 2026-07-13
 freshness: fresh
-confidence: 0.71
-evidence_ids: ['f43cff14-589', '5d47859a-a4f', '1c0f3da7-b60', 'ae54a7fa-aca', '971349cf-130', 'be4fccdc-3eb', 'e173afb6-f7d', 'eddf0c50-864', 'fe5cf746-c87', 'b9e15b91-52c', '50751872-6c6', '3e631d0a-3df', '02094307-8c7', '94cb5935-b52', 'd5bdff07-cd8', '991b1b6e-4d3', '8691bfd4-001', '9101f3ab-5e9', '4d87c716-290', 'b15e7366-c32']
+confidence: 0.701
+evidence_ids: ['92479926-52a', '104fb973-11a', '5db7ead2-a04', 'b33aab33-603', '78d9489f-c8c', 'cb060337-8ce', '01cba4e9-1ab', '11c63b4d-2a2', 'f023f594-ec1', 'a404b498-6df', 'db2fa139-425', '03b5217b-5ea', 'f1706e22-fa8', '6fbb55ca-8b9', 'a1061581-a4f', 'f50dd85f-cf8', '1267d6f6-6f2', '9925ed53-a4a', '3f57037b-da6', '3e6c1399-78a']
 ---
 
 # Education & Training — Bangladesh Market
@@ -63,22 +63,17 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-13)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Medico Coaching Center | search | 1.00 |
-| coaching services | search | 1.00 |
-| ['offline', 'online'] | search | 1.00 |
-| Medical and University Admission Test preparation | search | 1.00 |
-| Enroute Center for Development | search | 1.00 |
-| executive training | search | 1.00 |
-| tailored individual and group training for all employee levels | search | 1.00 |
-| RR IT Support | search | 1.00 |
-| IT consulting | search | 1.00 |
-| leading | search | 0.90 |
-| FutureLeaders (FLS) | search | 1.00 |
-| leadership and soft skills training | search | 1.00 |
-| outdoor training (Outbound/Adventure training) | search | 1.00 |
-| no.1 outdoor training provider in Bangladesh | search | 1.00 |
-| top MNCs, national corporations | search | 1.00 |
+| ['Digicon Technologies Ltd', 'E-Learning & Earning LTD', 'U S Software Ltd', 'PM | search | 0.95 |
+| ['Training Pundit', 'ENSDI - ইন্সডি (training & consultancy)'] | search | 0.95 |
+| Online Coaching | search | 0.90 |
+| 2026 | search | 0.90 |
+| ['Women in Agile Bangladesh', 'Training Pundit'] | search | 0.95 |
+| Coaching | search | 0.90 |
+| 2026 | search | 0.90 |
+| ['IELTS', 'medical admissions', 'O/A levels', 'studying abroad'] | search | 0.95 |
+| Bangladesh, Dhaka | search | 0.90 |

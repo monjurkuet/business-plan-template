@@ -2,8 +2,8 @@
 sector: healthcare-pharma
 last_verified: 2026-07-13
 freshness: fresh
-confidence: 0.695
-evidence_ids: ['837cb506-fbe', '44b142ec-235', '5f037346-831', '5580bb04-1a5', '324bc712-8e0', 'a07a8d5a-4e3', 'a16eaaa0-bec', 'e80157d8-8a8', '42caef42-d47', '5d4c7c67-0d5', '52b71d78-cef', '92f0b795-d85', '45946cfc-3ca', '96ec2a6c-889', 'cd61b21c-f8c', '26178f55-0a1', 'fa295103-411', '81ae0f2b-c64', '235b5d68-313', '2be81e30-d3b']
+confidence: 0.7
+evidence_ids: ['a23820da-45e', 'd5884318-259', '1922d824-f3b', '2f746f4c-697', '00eb3af3-8ab', '421aaa92-073', 'ed7aad6b-c95', 'b907e4d4-a2f', '222cc91f-1e2', 'b9782b79-210', '577f0f4e-32c', 'ec0cab55-dd6', '57813223-3ab', '5edc6702-305', '6a43d361-9d0', 'd41e1ea8-db4', '9b34a666-242', '72825b90-7a5', 'c761fc29-968', '1fd26061-d6c']
 ---
 
 # Healthcare & Pharma — Bangladesh Market
@@ -64,21 +64,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-13)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| eEssentials | search | 0.95 |
-| online pharmacy | search | 0.95 |
-| online medicine shop | search | 0.90 |
-| Bangladesh | search | 0.90 |
-| Organic Pharmacy Bangladesh | search | 0.95 |
-| pharmacy | search | 0.95 |
-| healthy blood sugar levels, cholesterol management, cardiovascular health, hair  | search | 0.90 |
-| Bangladesh | search | 0.90 |
-| Aster Pharmacy Bangladesh | search | 1.00 |
-| 01700703877 | search | 1.00 |
-| Genuine medicines and healthcare advice | search | 0.90 |
-| ['AsterPharmacy', 'RabiesVaccine', 'HealthAwareness', 'SafeCare', 'FinditAtAster | search | 1.00 |
-| Dhanmondi Pharmacy | search | 1.00 |
-| Local business directory | search | 0.90 |
+| Medisafe Pharmacy | search | 0.90 |
+| ['Medical device', 'Natural medicine', 'Allopathic medicine'] | search | 0.95 |
+| supplier_company | search | 0.90 |
+| Wellbeing Pharmacy | search | 0.95 |
+| community-based | search | 0.90 |
+| ['Compounding', 'Consulting', 'Prescription checking', 'Delivery'] | search | 0.95 |
+| individuals in the immediate local area | search | 0.90 |
+| Al-Amin Pharmacy | search | 0.95 |
+| Khulna | search | 0.95 |
+| 9000 | search | 0.95 |
+| Heraj Market, Khulna, 9000, Bangladesh | search | 0.90 |
+| 22.845641, 89.54032789999997 | search | 0.95 |
+| Pharmacies | search | 0.95 |
+| Tani Pharmacy | search | 0.95 |
+| Mymensingh | search | 0.95 |

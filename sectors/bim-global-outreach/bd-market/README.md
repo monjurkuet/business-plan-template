@@ -2,8 +2,8 @@
 sector: bim-global-outreach
 last_verified: 2026-07-13
 freshness: fresh
-confidence: 0.755
-evidence_ids: ['0c1124d9-cf0', '5c8af640-6be', '4c6ec189-b68', '238cc9d3-447', 'e7839d04-834', '79be3df1-b03', '1538a080-905', 'cca90e66-de9', 'fcd092d7-b69', '8d1f1ceb-f8a', '91612ec5-53f', 'c6e35c1d-f19', '03216cbf-481', 'ad07fe15-0f2', '91b7e4a8-3c3', '6392b826-a6f', 'a4ec0a36-91a', '3ac9fe12-7fc', 'b98a7467-10c', '5610276e-aa2']
+confidence: 0.746
+evidence_ids: ['5f151c34-da3', '885f60bb-4ec', '1e93f541-0cc', '3aa1dd7c-a56', 'b9f6596b-7b4', 'a644c377-459', 'f214a6c4-890', 'da266fc7-cbc', '9228b983-dfd', 'deaa0d0c-8f7', 'ad87a844-46b', '711fbd4a-025', 'c56ec2f8-398', 'd371fdd1-d78', 'dd4afa66-dcd', 'ac271708-a13', 'b3aec48f-8ab', '243f953b-472', 'e0a49e8e-c92', '6372ca9e-ea5']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -180,22 +180,23 @@ evidence_ids: ['0c1124d9-cf0', '5c8af640-6be', '4c6ec189-b68', '238cc9d3-447', '
 
 
 
+
 ## Auto-Updated Data (2026-07-13)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| LIMRS Construction and Interior | search | 1.00 |
-| Blends architecture with creative construction | search | 1.00 |
-| Artificersarc | search | 1.00 |
-| Young firm, but growing fast with solid residential work | search | 1.00 |
-| Evangel Architects | search | 1.00 |
-| Offers complete design-build solutions | search | 1.00 |
-| 2025-10-13 | search | 1.00 |
-| SAL | search | 1.00 |
-| Leader in top architecture and engineering companies in Bangladesh 2025, with a  | search | 1.00 |
-| Shellmark Limited | search | 1.00 |
-| Top architectural firm in Bangladesh for safe, budget-friendly designs | search | 1.00 |
-| 2012 | search | 1.00 |
-| 2014 | search | 1.00 |
-| 2023-02-14 | search | 1.00 |
-| NPDL | search | 0.90 |
+| RAJUK-registered | search | 0.95 |
+| sustainable architecture | search | 0.90 |
+| Dhaka | search | 0.95 |
+| growing faster than ever | search | 0.90 |
+| ['Dhaka', 'Khulna', 'Chattogram'] | search | 0.95 |
+| BNBC-2020 | search | 0.95 |
+| ['design creativity', 'BNBC-2020 compliance', 'transparent pricing', 'reliable p | search | 0.90 |
+| sustainability | search | 0.90 |
+| reshaping the nation | search | 0.85 |
+| Dhaka | search | 0.95 |
+| ['company reputation values', 'client reviews', 'google data analytics'] | search | 0.95 |
+| SPACE | Dhaka | search | 0.90 |
+| 2592 | search | 0.90 |
+| 2 | search | 0.90 |
+| 159 | search | 0.90 |

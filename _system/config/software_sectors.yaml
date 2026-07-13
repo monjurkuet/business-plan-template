@@ -1,0 +1,168 @@
+---
+name: software-products-lead-pipeline
+version: 1.0
+sectors:
+  payroll:
+    display_name: "Payroll Software"
+    keywords:
+      en: ["payroll software", "payroll system", "payroll management software", "payroll solution", "HR payroll software", "payroll processing software", "cloud payroll software", "best payroll software", "payroll software for small business", "payroll software for large business"]
+      bn: ["পেরোল সফটওয়্যার", "পেরোল ব্যবস্থাপনা সফটওয়্যার", "ক্লাউড পেরোল সফটওয়্যার", "এইচআর পেরোল সফটওয়্যার"]
+    subsegments: ["cloud", "on-premise", "SME", "enterprise", "global"]
+    priority_weight: 0.9
+    status: active
+    competitor_target: 10
+    policy_sensitivity: low
+
+  attendance:
+    display_name: "Attendance Software"
+    keywords:
+      en: ["attendance software", "attendance management system", "time attendance software", "employee attendance software", "biometric attendance software", "cloud attendance software", "best attendance software", "attendance tracking software"]
+      bn: ["উপস্থিতি সফটওয়্যার", "বায়োমেট্রিক উপস্থিতি সফটওয়্যার", "ক্লাউড উপস্থিতি সফটওয়্যার"]
+    subsegments: ["biometric", "RFID", "mobile", "cloud", "enterprise"]
+    priority_weight: 0.85
+    status: active
+    competitor_target: 10
+    policy_sensitivity: low
+
+  inventory:
+    display_name: "Inventory Software"
+    keywords:
+      en: ["inventory software", "inventory management system", "stock management software", "warehouse management software", "cloud inventory software", "best inventory software", "inventory tracking software", "retail inventory software"]
+      bn: ["ইনভেন্টরি সফটওয়্যার", "স্টক ম্যানেজমেন্ট সফটওয়্যার", "গুদাম ব্যবস্থাপনা সফটওয়্যার"]
+    subsegments: ["retail", "warehouse", "cloud", "ERP", "SME"]
+    priority_weight: 0.8
+    status: active
+    competitor_target: 10
+    policy_sensitivity: low
+
+  pos_retail:
+    display_name: "POS - Retail Shop"
+    keywords:
+      en: ["POS software", "retail POS system", "point of sale software", "retail billing software", "cloud POS software", "best POS software", "POS system for retail", "POS for small business"]
+      bn: ["পিওএস সফটওয়্যার", "রিটেইল পিওএস সিস্টেম", "ক্লাউড পিওএস সফটওয়্যার"]
+    subsegments: ["cloud", "on-premise", "mobile", "SME", "enterprise"]
+    priority_weight: 0.95
+    status: active
+    competitor_target: 12
+    policy_sensitivity: low
+
+  pos_restaurant:
+    display_name: "POS - Restaurant"
+    keywords:
+      en: ["restaurant POS software", "restaurant billing software", "POS for restaurant", "cloud restaurant POS", "best restaurant POS software", "POS system for restaurant", "restaurant management software"]
+      bn: ["রেস্টুরেন্ট পিওএস সফটওয়্যার", "রেস্টুরেন্ট বিলিং সফটওয়্যার", "ক্লাউড রেস্টুরেন্ট পিওএস"]
+    subsegments: ["cloud", "on-premise", "mobile", "fine dining", "fast food", "cafe"]
+    priority_weight: 0.9
+    status: active
+    competitor_target: 12
+    policy_sensitivity: low
+
+  distribution:
+    display_name: "Distribution Management System"
+    keywords:
+      en: ["distribution software", "distribution management system", "supply chain software", "logistics software", "cloud distribution software", "best distribution software", "distribution ERP software"]
+      bn: ["ডিস্ট্রিবিউশন সফটওয়্যার", "সাপ্লাই চেইন সফটওয়্যার", "লজিস্টিকস সফটওয়্যার"]
+    subsegments: ["cloud", "on-premise", "ERP", "SME", "enterprise"]
+    priority_weight: 0.75
+    status: active
+    competitor_target: 8
+    policy_sensitivity: low
+
+  tour_travel:
+    display_name: "Tour & Travel Management System"
+    keywords:
+      en: ["travel software", "tour management software", "travel agency software", "tour booking software", "cloud travel software", "best travel software", "travel CRM software", "travel ERP software"]
+      bn: ["ট্রাভেল সফটওয়্যার", "ট্যুর ম্যানেজমেন্ট সফটওয়্যার", "ট্রাভেল এজেন্সি সফটওয়্যার"]
+    subsegments: ["cloud", "on-premise", "B2B", "B2C", "ERP"]
+    priority_weight: 0.8
+    status: active
+    competitor_target: 10
+    policy_sensitivity: low
+
+  buying_house:
+    display_name: "Buying House Management System"
+    keywords:
+      en: ["buying house software", "buying house management system", "garment buying software", "textile buying software", "cloud buying house software", "best buying house software", "buying house ERP software"]
+      bn: ["বায়িং হাউস সফটওয়্যার", "গার্মেন্টস বায়িং সফটওয়্যার", "টেক্সটাইল বায়িং সফটওয়্যার"]
+    subsegments: ["cloud", "on-premise", "ERP", "SME", "enterprise"]
+    priority_weight: 0.7
+    status: active
+    competitor_target: 8
+    policy_sensitivity: low
+
+  auto_repair:
+    display_name: "Auto Repairing Shop Management System"
+    keywords:
+      en: ["auto repair software", "car repair software", "garage management software", "auto workshop software", "cloud auto repair software", "best auto repair software", "auto repair CRM software"]
+      bn: ["অটো রিপেয়ার সফটওয়্যার", "গাড়ি মেরামত সফটওয়্যার", "গ্যারেজ ম্যানেজমেন্ট সফটওয়্যার"]
+    subsegments: ["cloud", "on-premise", "SME", "enterprise", "workshop"]
+    priority_weight: 0.65
+    status: active
+    competitor_target: 8
+    policy_sensitivity: low
+
+  event_management:
+    display_name: "Event Management System"
+    keywords:
+      en: ["event management software", "event planning software", "event booking software", "cloud event software", "best event management software", "event CRM software", "event ERP software"]
+      bn: ["ইভেন্ট ম্যানেজমেন্ট সফটওয়্যার", "ইভেন্ট প্ল্যানিং সফটওয়্যার", "ক্লাউড ইভেন্ট সফটওয়্যার"]
+    subsegments: ["cloud", "on-premise", "B2B", "B2C", "ERP"]
+    priority_weight: 0.8
+    status: active
+    competitor_target: 10
+    policy_sensitivity: low
+
+  ceo_crystal_ball:
+    display_name: "CEO's Crystal Ball"
+    keywords:
+      en: ["business intelligence software", "BI software", "CEO dashboard software", "executive dashboard software", "cloud BI software", "best BI software", "data visualization software", "business analytics software"]
+      bn: ["বিজনেস ইন্টেলিজেন্স সফটওয়্যার", "সিইও ড্যাশবোর্ড সফটওয়্যার", "ডেটা ভিজ্যুয়ালাইজেশন সফটওয়্যার"]
+    subsegments: ["cloud", "on-premise", "SME", "enterprise", "dashboard", "analytics"]
+    priority_weight: 0.9
+    status: active
+    competitor_target: 12
+    policy_sensitivity: low
+
+  personal_finance:
+    display_name: "Personal Finance"
+    keywords:
+      en: ["personal finance software", "money management software", "budgeting software", "cloud personal finance software", "best personal finance software", "expense tracker software", "investment software"]
+      bn: ["পার্সোনাল ফাইন্যান্স সফটওয়্যার", "বাজেটিং সফটওয়্যার", "খরচ ট্র্যাকার সফটওয়্যার"]
+    subsegments: ["cloud", "mobile", "desktop", "SME", "personal"]
+    priority_weight: 0.75
+    status: active
+    competitor_target: 10
+    policy_sensitivity: low
+
+  community_center:
+    display_name: "Community Center Automation"
+    keywords:
+      en: ["community center software", "community management software", "booking software", "calendar software", "cloud community software", "best community software", "membership software", "facility booking software"]
+      bn: ["কমিউনিটি সেন্টার সফটওয়্যার", "বুকিং সফটওয়্যার", "মেম্বারশিপ সফটওয়্যার"]
+    subsegments: ["cloud", "on-premise", "SME", "enterprise", "booking", "calendar"]
+    priority_weight: 0.7
+    status: active
+    competitor_target: 8
+    policy_sensitivity: low
+
+  self_study:
+    display_name: "Self Study Tracker"
+    keywords:
+      en: ["self study software", "study tracker software", "learning management software", "cloud study software", "best study tracker software", "education software", "student productivity software"]
+      bn: ["সেলফ স্টাডি সফটওয়্যার", "স্টাডি ট্র্যাকার সফটওয়্যার", "এডুকেশন সফটওয়্যার"]
+    subsegments: ["cloud", "mobile", "desktop", "personal", "education"]
+    priority_weight: 0.65
+    status: active
+    competitor_target: 8
+    policy_sensitivity: low
+
+  pos_moody:
+    display_name: "POS - Moody (Dokan)"
+    keywords:
+      en: ["dokan POS software", "multi-vendor POS software", "marketplace POS software", "cloud dokan POS", "best dokan POS software", "POS for marketplace", "POS for multi-vendor"]
+      bn: ["ডোকান পিওএস সফটওয়্যার", "মাল্টি-ভেন্ডর পিওএস সফটওয়্যার", "মার্কেটপ্লেস পিওএস সফটওয়্যার"]
+    subsegments: ["cloud", "on-premise", "mobile", "SME", "enterprise", "marketplace"]
+    priority_weight: 0.9
+    status: active
+    competitor_target: 12
+    policy_sensitivity: low

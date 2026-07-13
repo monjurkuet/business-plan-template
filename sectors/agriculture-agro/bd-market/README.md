@@ -2,8 +2,8 @@
 sector: agriculture-agro
 last_verified: 2026-07-13
 freshness: fresh
-confidence: 0.703
-evidence_ids: ['e2214f9f-046', 'fff2e5ae-2a1', '08ae9fd9-d96', 'ee8cac7f-069', 'e06c7a0c-e0d', '452e0770-ca6', 'ebcaad3d-e92', '3e4aa3ee-156', 'bd4c71df-10c', 'c79152d4-c6d', '94d3ab3f-a73', 'f99178a1-af6', '91e5c652-2b9', '92b02b3e-538', 'f4e1c74d-ae9', '6ec4ea59-44e', 'b4f62b95-4ac', '393a3cf9-ed6', '0a50f112-341', '5898fc6b-ce6']
+confidence: 0.702
+evidence_ids: ['cd56c15e-023', '4cc1ccff-eb1', '675932c9-84a', 'cf1bad02-7a6', 'fcc8bc42-d4a', 'f30159c6-dd9', 'f7fd91ac-a46', 'd1154eed-e27', '56c38d6e-930', '1e1c6a41-1dd', 'd0ab6f4f-d46', 'a2a66cd3-4f1', '9a039db2-5f4', 'c820c4c9-96f', 'c6410665-d8f', 'a9ec2413-1f6', '3c86274e-474', 'e61ca831-914', '5ba6e8d7-a95', '5cf312b4-cd3']
 ---
 
 # Agriculture & Agro-processing — Bangladesh Market
@@ -66,22 +66,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
+
 ## Auto-Updated Data (2026-07-13)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ['iFarmer', 'Nahar Agro'] | search | 0.90 |
-| fertilizer | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| ['Organic Nutrition Ltd.', 'Aftab Feed Products Limited'] | search | 0.90 |
-| organic_fertilizer | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| ACI Fertilizer | search | 1.00 |
-| fertilizer | search | 1.00 |
-| ['organic fertilizer', 'macro & micronutrient', 'foliar fertilizers'] | search | 0.95 |
-| Bangladesh | search | 1.00 |
-| agriculture-agro | search | 1.00 |
-| fertilizer_manufacturers | search | 0.95 |
-| ['NPK fertilizer', 'organic fertilizer'] | search | 0.90 |
-| suppliers | search | 0.85 |
-| agriculture-agro | search | 1.00 |
+| 1.7 | search | 0.95 |
+| 12 | search | 0.95 |
+| Morocco | search | 0.90 |
+| 483 | search | 0.90 |
+| 2021 | search | 0.95 |
+| Bangladesh Fertilizers & Agrochemicals Ltd. | search | 0.95 |
+| +88029883744, +88028 | search | 0.80 |
+| tremendously large | search | 0.85 |
+| Neptune's Harvest Fish & Seaweed Liquid Fertilizer | search | 0.95 |
+| FS136 | search | 0.95 |
+| 32 Oz | search | 0.95 |
+| 2-3-1 | search | 0.95 |
+| organic fertilizer | search | 0.95 |
+| Ubuy Bangladesh | search | 0.95 |
+| Bangladesh approves fertilizer, rice, and wheat imports to boost food security | search | 0.95 |

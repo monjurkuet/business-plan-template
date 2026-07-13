@@ -2,8 +2,8 @@
 sector: high-roi-niches
 last_verified: 2026-07-13
 freshness: fresh
-confidence: 0.715
-evidence_ids: ['b6523f58-9ed', '616f2146-918', 'd2c61b78-a83', 'd0595ad4-63f', 'b85bee20-0bf', 'c00ea00d-319', '1f7fa1d5-2f3', 'e7008e2c-7bf', '618974e5-34c', 'fada3f4c-a69', 'fd844f39-f77', 'b81bc755-ace', 'ce942675-49c', '0344aca8-c4b', '51c46207-cc2', 'dee63d22-ea9', 'bb346202-49a', '3b7cddfd-1cd', 'e92f37f1-6cb', '3c837e9a-f03']
+confidence: 0.699
+evidence_ids: ['362d5173-ad5', '05e6e56e-577', '0f1b1d8a-04f', '5191cfe4-2ff', '3a726da3-7e7', '9af45bf7-3a9', 'e2ef769f-e73', '3cb40700-106', 'fce40164-e78', '662fd0f1-49f', 'e447a1bf-f3c', 'bb33ca82-5b7', 'ece526a9-3bb', 'e76c4afa-590', '24582e9e-df7', 'a7b7dd04-63d', '1ff6947c-aaf', '9ac9dc1f-081', 'a1b978f7-53f', 'b79727d5-b1c']
 ---
 
 # High-ROI Niches — Bangladesh Market
@@ -154,22 +154,20 @@ This sector captures high-growth, high-margin niche opportunities in Bangladesh.
 
 
 
+
 ## Auto-Updated Data (2026-07-13)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| +880 181 477 00 00 | search | 0.95 |
-| Kalshi Flyover, Dhaka, Bangladesh | search | 0.90 |
-| NexGenPetCare | search | 0.95 |
-| veterinary_clinic | search | 0.90 |
-| HIT LIFE cat food | search | 0.80 |
-| grain-free cat food | search | 0.80 |
-| ['cat food price', 'pet care Bangladesh', 'cat adoption cost'] | search | 0.85 |
-| PetZone BD | search | 0.90 |
-| petzonebd.com | search | 0.95 |
-| Pampered Paws Bangladesh | search | 0.90 |
-| Covetrus Pet Care Bangladesh | search | 0.70 |
-| 2019-01-01/2019-07-31 | search | 0.90 |
-| Sylhet region, Bangladesh | search | 0.95 |
-| 96 | search | 0.95 |
-| Canine Parvovirus (CPV) in diarrhoeic pet dogs | search | 0.95 |
+| ['Paw Care', 'Pet Town BD', 'Pet Lover BD', 'Aquisan Bangladesh Pet Care', 'Pets | search | 0.95 |
+| online pet shop in Bangladesh showcasing a wide range of pet supplies | search | 0.90 |
+| doorstep delivery available | search | 0.90 |
+| best prices | search | 0.80 |
+| ['pet products', 'food', 'toys', 'accessories'] | search | 0.95 |
+| top-notch customer service | search | 0.90 |
+| PawCare | search | 0.95 |
+| top pet shop in BD | search | 0.90 |
+| ['pet products', 'food', 'toys', 'accessories'] | search | 0.95 |
+| top-notch customer service | search | 0.90 |
+| affordable prices | search | 0.85 |
+| fast delivery | search | 0.90 |
