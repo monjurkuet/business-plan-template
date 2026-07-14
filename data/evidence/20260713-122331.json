@@ -14,11 +14,30 @@
     "source_type": "unknown",
     "title": "10 Best Architectural Firms in Bangladesh: A 2026 Guide",
     "snippet": "Nov 29, 2025 ·Discover thebestarchitecturalfirmsinBangladeshredefining design. Explore practical and attractive projects for your next venture.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "sector",
+        "value": "architecture",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "entity_type",
+        "value": "firm",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "country",
+        "value": "Bangladesh",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "885f60bb-4ec",
@@ -1332,11 +1351,28 @@
     "source_type": "unknown",
     "title": "Electronics, clothes and coffee: What you're still set to pay more for under...",
     "snippet": "Economists say the tariffs launched this year are set to disproportionately affect the costs of appa...",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "price_trend",
+        "value": "increasing",
+        "unit": null,
+        "confidence": 0.9
+      },
+      {
+        "field": "affected_sectors",
+        "value": [
+          "electronics",
+          "clothes",
+          "coffee"
+        ],
+        "unit": null,
+        "confidence": 0.95
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.739
   },
   {
     "evidence_id": "1a54e6c0-7d7",
@@ -1353,11 +1389,24 @@
     "source_type": "unknown",
     "title": "5 Biggest Price Hikes Tied to Trump’s 2025 Tariffs",
     "snippet": "lOvE lOvE / Shutterstock.com Tariffs have been a major topic in 2025 as President Donald Trump has imposed them on several major U.S. trading partners to...",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "price_impact_cause",
+        "value": "tariffs",
+        "unit": null,
+        "confidence": 0.95
+      },
+      {
+        "field": "price_trend",
+        "value": "increasing",
+        "unit": null,
+        "confidence": 0.9
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.739
   },
   {
     "evidence_id": "2d32bd6d-4eb",
@@ -1472,11 +1521,45 @@
     "source_type": "unknown",
     "title": "Twelve Clothing | Top Bangladeshi Fashion Brand for Men ...",
     "snippet": "Discover Twelve Clothing– Bangladesh’s leading fashion brand offering premium clothing, trendy menswear, womenswear, kidswear, panjabi, kurti, gowns, t-shirts, polos and more.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "brand_name",
+        "value": "Twelve Clothing",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "sector",
+        "value": "fashion",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "product_categories",
+        "value": [
+          "menswear",
+          "womenswear",
+          "kidswear",
+          "panjabi",
+          "kurti",
+          "gowns",
+          "t-shirts",
+          "polos"
+        ],
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "market_position",
+        "value": "leading fashion brand",
+        "unit": null,
+        "confidence": 0.95
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.748
   },
   {
     "evidence_id": "81122a4a-d23",
@@ -2173,11 +2256,36 @@
     "source_type": "unknown",
     "title": "Pet Lover BD - Your Trusted Pet Shop in Dhaka, Bangladesh",
     "snippet": "Shop the best pet food, accessories, and care products at Pet Lover BD. We offer high-quality pet supplies for dogs, cats, birds, and small animals inBangladesh. Visit us for everything your pet needs to stay healthy and happy!",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "business_type",
+        "value": "pet shop",
+        "unit": null,
+        "confidence": 0.9
+      },
+      {
+        "field": "location",
+        "value": "Dhaka, Bangladesh",
+        "unit": null,
+        "confidence": 0.9
+      },
+      {
+        "field": "products_offered",
+        "value": "pet food, accessories, care products",
+        "unit": null,
+        "confidence": 0.95
+      },
+      {
+        "field": "target_pets",
+        "value": "dogs, cats, birds, small animals",
+        "unit": null,
+        "confidence": 0.95
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.739
   },
   {
     "evidence_id": "3a726da3-7e7",
@@ -2194,11 +2302,36 @@
     "source_type": "unknown",
     "title": "Aquisan Bangladesh Pet Care – Aquisan Bangladesh Largest ...",
     "snippet": "Follow Us It only takes a second to be the first to find out about our news and promotions... Banasree pet clinic and AquisanBangladeshPet Care both are same place After a long and challenging construction journey, The AquisanBangladeshPet Care is now welcoming feline patients and it’s been an incredible start.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "business_type",
+        "value": "pet care clinic",
+        "unit": null,
+        "confidence": 0.9
+      },
+      {
+        "field": "location",
+        "value": "Bangladesh",
+        "unit": null,
+        "confidence": 0.9
+      },
+      {
+        "field": "specialization",
+        "value": "feline patients",
+        "unit": null,
+        "confidence": 0.85
+      },
+      {
+        "field": "associated_clinic",
+        "value": "Banasree pet clinic",
+        "unit": null,
+        "confidence": 0.9
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.733
   },
   {
     "evidence_id": "9af45bf7-3a9",
@@ -2682,11 +2815,24 @@
     "source_type": "unknown",
     "title": "US Crypto Usage Grew 50% This Year, Report Claims",
     "snippet": "Andrew CuomoCryptoMayor. Photo by BeInCrypto A new report claims that US retail investors are showing increasing favorability tocrypto, with adoption...",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "crypto_adoption_growth",
+        "value": "50%",
+        "unit": null,
+        "confidence": 0.9
+      },
+      {
+        "field": "geo_scope",
+        "value": "US",
+        "unit": null,
+        "confidence": 0.95
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.739
   },
   {
     "evidence_id": "da8e98ed-fc0",
@@ -3015,11 +3161,24 @@
     "source_type": "unknown",
     "title": "PharmacyBangladesh",
     "snippet": "List ofPharmacyinBangladesh. Search forPharmacywith Phone numbers, Locations, Reviews, Photos.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "sector",
+        "value": "healthcare-pharma",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "entity_type",
+        "value": "pharmacy_directory",
+        "unit": null,
+        "confidence": 0.9
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.742
   },
   {
     "evidence_id": "1922d824-f3b",
@@ -3431,11 +3590,30 @@
     "source_type": "unknown",
     "title": "How Pioneer Denim Is Growing Smart, Not Fast",
     "snippet": "Stability may not be the first quality associated withBangladesh’s textile and garment industry, but Pioneer Denim Ltd.—a division of the Badsha Group—i...",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "sector",
+        "value": "textile-garment",
+        "unit": null,
+        "confidence": 0.9
+      },
+      {
+        "field": "company_name",
+        "value": "Pioneer Denim Ltd.",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "parent_company",
+        "value": "Badsha Group",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.745
   },
   {
     "evidence_id": "7bc76f4b-fec",
@@ -4534,11 +4712,18 @@
     "source_type": "unknown",
     "title": "Asia rolls out four-day weeks and work-from-home as emergency measures to solve...",
     "snippet": "Closed schools. Work-from-home demands.Pricecaps. Asia’s governments are scrambling to manage a fu...",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "price_control_measure",
+        "value": "price caps",
+        "unit": null,
+        "confidence": 0.8
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.72
   },
   {
     "evidence_id": "6d0fb065-bd0",
@@ -5677,11 +5862,36 @@
     "source_type": "unknown",
     "title": "ProgressCoachingCenter-BangladeshEducation Suggestion Board",
     "snippet": "Design embed now.. ProgressCoachingCenter-BangladeshEducation Suggestion Board.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "entity_name",
+        "value": "Progress Coaching Center",
+        "unit": null,
+        "confidence": 0.9
+      },
+      {
+        "field": "sector",
+        "value": "education-training",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "location",
+        "value": "Dhaka, Bangladesh",
+        "unit": null,
+        "confidence": 0.8
+      },
+      {
+        "field": "platform_presence",
+        "value": "yumpu.com",
+        "unit": null,
+        "confidence": 0.9
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.735
   },
   {
     "evidence_id": "a404b498-6df",
@@ -5698,11 +5908,36 @@
     "source_type": "unknown",
     "title": "BangladeshArmy Training 2023 | TikTok",
     "snippet": "Explore the latestBangladeshArmy training in 2023 at Ramu Cantonment. Join the journey of BD army recruits and their rigorous training sessions!",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "training_center_name",
+        "value": "Bangladesh Army Training",
+        "unit": null,
+        "confidence": 0.9
+      },
+      {
+        "field": "location",
+        "value": "Ramu Cantonment",
+        "unit": null,
+        "confidence": 0.9
+      },
+      {
+        "field": "year",
+        "value": "2023",
+        "unit": null,
+        "confidence": 0.95
+      },
+      {
+        "field": "entity_type",
+        "value": "military_training",
+        "unit": null,
+        "confidence": 0.9
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.737
   },
   {
     "evidence_id": "20fa4b7c-bd9",
@@ -6608,11 +6843,66 @@
     "source_type": "unknown",
     "title": "Studio M Architecture - FacebookSthapotik/Sharif Uddin Ahammed | Dhaka - FacebookSPACE | Dhaka - FacebookFrameWork | Dhaka - FacebookInstitute of Architects Bangladesh | Dhaka - FacebookIndigenous . | Dhaka - FacebookSHELLMARK LIMITED | Dhaka - Facebook",
     "snippet": "Jun 5, 2026 ·Studio M Architecture is at Jolshiri Abashon, Dhaka,Bangladesh. Crafted with intention, this apartment in JOLSHIRI blends energy-efficient design with elegant living. From floor-to-ceiling glazing that maximizes daylight to locally sourced materials and smart home automation — every detail speaks to both sustainability and sophistication.Jun 5, 2026 ·Sthapotik/SharifUddin Ahammed, Dhaka. 12,910 likes · 19 talking about this · 112 were here. Sthapotik is an architectural design studio. established in 2006 by Ar. Sharif Uddin Ahammed withJan 5, 2026 ·SPACE, Dhaka. 2,592 likes · 2 talking about this · 159 were here. Consultancy, Construction and DevelopmentInstitute of ArchitectsBangladesh(IAB) Centre. Edited by Prof. Adnan Z. Morshed, the book is the result of the collective dedication of architects, researchers, writers, photographers, contributors, and well-wishers who believed in the importance of preserving architectural knowledge. Framework extends its heartfelt gratitude to Prof.Institute of ArchitectsBangladesh, Dhaka. 39,378 likes · 1,953 talking about this · 9,135 were here. This is the officialFacebookPage of the Institute of ArchitectsBangladesh(IAB).Jun 30, 2026 ·Trendsetters ofBangladeshV — Asia Karim Deepa & Naim Ahmed Kibria, Partners at Indigenous, present “দৃষ্টিকোণ সৃষ্টিকোণ” — an exploration of architecture rooted in empathy, craft, and the rhythms of everyday life. Discover how place, culture, and humanity shape spaces that breathe, respond, and inspire.Jul 17, 2025 ·SHELLMARK LIMITED, Dhaka. 4,612 likes · 59 were here. ARCHITECTURALFIRMin Dhaka Architects II Engineers II Planners 200+ Projects Completed 13+ Years in Business",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "firm_name",
+        "value": "Studio M Architecture",
+        "unit": null,
+        "confidence": 0.9
+      },
+      {
+        "field": "location",
+        "value": "Jolshiri Abashon, Dhaka, Bangladesh",
+        "unit": null,
+        "confidence": 0.9
+      },
+      {
+        "field": "design_features",
+        "value": "energy-efficient design, floor-to-ceiling glazing, locally sourced materials, smart home automation",
+        "unit": null,
+        "confidence": 0.9
+      },
+      {
+        "field": "firm_name",
+        "value": "Sthapotik/Sharif Uddin Ahammed",
+        "unit": null,
+        "confidence": 0.95
+      },
+      {
+        "field": "location",
+        "value": "Dhaka, Bangladesh",
+        "unit": null,
+        "confidence": 0.95
+      },
+      {
+        "field": "facebook_likes",
+        "value": "12910",
+        "unit": "people",
+        "confidence": 0.95
+      },
+      {
+        "field": "facebook_talking_about",
+        "value": "19",
+        "unit": "people",
+        "confidence": 0.95
+      },
+      {
+        "field": "facebook_visits",
+        "value": "112",
+        "unit": "people",
+        "confidence": 0.95
+      },
+      {
+        "field": "entity_type",
+        "value": "architectural design studio",
+        "unit": null,
+        "confidence": 0.95
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.74
   },
   {
     "evidence_id": "711fbd4a-025",
@@ -6629,11 +6919,96 @@
     "source_type": "unknown",
     "title": "Sthapotik/Sharif Uddin Ahammed | Dhaka - FacebookSPACE | Dhaka - FacebookFrameWork | Dhaka - FacebookInstitute of Architects Bangladesh | Dhaka - FacebookIndigenous . | Dhaka - FacebookSHELLMARK LIMITED | Dhaka - Facebook",
     "snippet": "Jun 5, 2026 ·Sthapotik/SharifUddin Ahammed, Dhaka. 12,910 likes · 19 talking about this · 112 were here. Sthapotik is an architectural design studio. established in 2006 by Ar. Sharif Uddin Ahammed withJan 5, 2026 ·SPACE, Dhaka. 2,592 likes · 2 talking about this · 159 were here. Consultancy, Construction and DevelopmentInstitute of ArchitectsBangladesh(IAB) Centre. Edited by Prof. Adnan Z. Morshed, the book is the result of the collective dedication of architects, researchers, writers, photographers, contributors, and well-wishers who believed in the importance of preserving architectural knowledge. Framework extends its heartfelt gratitude to Prof.Institute of ArchitectsBangladesh, Dhaka. 39,378 likes · 1,953 talking about this · 9,135 were here. This is the officialFacebookPage of the Institute of ArchitectsBangladesh(IAB).Jun 30, 2026 ·Trendsetters ofBangladeshV — Asia Karim Deepa & Naim Ahmed Kibria, Partners at Indigenous, present “দৃষ্টিকোণ সৃষ্টিকোণ” — an exploration of architecture rooted in empathy, craft, and the rhythms of everyday life. Discover how place, culture, and humanity shape spaces that breathe, respond, and inspire.Jul 17, 2025 ·SHELLMARK LIMITED, Dhaka. 4,612 likes · 59 were here. ARCHITECTURALFIRMin Dhaka Architects II Engineers II Planners 200+ Projects Completed 13+ Years in Business",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "firm_name",
+        "value": "Sthapotik/Sharif Uddin Ahammed",
+        "unit": null,
+        "confidence": 0.95
+      },
+      {
+        "field": "location",
+        "value": "Dhaka, Bangladesh",
+        "unit": null,
+        "confidence": 0.95
+      },
+      {
+        "field": "facebook_likes",
+        "value": "12910",
+        "unit": "people",
+        "confidence": 0.95
+      },
+      {
+        "field": "facebook_talking_about",
+        "value": "19",
+        "unit": "people",
+        "confidence": 0.95
+      },
+      {
+        "field": "facebook_visits",
+        "value": "112",
+        "unit": "people",
+        "confidence": 0.95
+      },
+      {
+        "field": "entity_type",
+        "value": "architectural design studio",
+        "unit": null,
+        "confidence": 0.95
+      },
+      {
+        "field": "establishment_year",
+        "value": "2006",
+        "unit": null,
+        "confidence": 0.95
+      },
+      {
+        "field": "founder",
+        "value": "Ar. Sharif Uddin Ahammed",
+        "unit": null,
+        "confidence": 0.95
+      },
+      {
+        "field": "firm_name",
+        "value": "SPACE",
+        "unit": null,
+        "confidence": 0.95
+      },
+      {
+        "field": "location",
+        "value": "Dhaka, Bangladesh",
+        "unit": null,
+        "confidence": 0.95
+      },
+      {
+        "field": "facebook_likes",
+        "value": "2592",
+        "unit": "people",
+        "confidence": 0.95
+      },
+      {
+        "field": "facebook_talking_about",
+        "value": "2",
+        "unit": "people",
+        "confidence": 0.95
+      },
+      {
+        "field": "facebook_visits",
+        "value": "159",
+        "unit": "people",
+        "confidence": 0.95
+      },
+      {
+        "field": "services",
+        "value": "Consultancy, Construction and Development",
+        "unit": null,
+        "confidence": 0.95
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.742
   },
   {
     "evidence_id": "c56ec2f8-398",
@@ -6650,11 +7025,60 @@
     "source_type": "unknown",
     "title": "SPACE | Dhaka - FacebookFrameWork | Dhaka - FacebookInstitute of Architects Bangladesh | Dhaka - FacebookIndigenous . | Dhaka - FacebookSHELLMARK LIMITED | Dhaka - Facebook",
     "snippet": "Jan 5, 2026 ·SPACE, Dhaka. 2,592 likes · 2 talking about this · 159 were here. Consultancy, Construction and DevelopmentInstitute of ArchitectsBangladesh(IAB) Centre. Edited by Prof. Adnan Z. Morshed, the book is the result of the collective dedication of architects, researchers, writers, photographers, contributors, and well-wishers who believed in the importance of preserving architectural knowledge. Framework extends its heartfelt gratitude to Prof.Institute of ArchitectsBangladesh, Dhaka. 39,378 likes · 1,953 talking about this · 9,135 were here. This is the officialFacebookPage of the Institute of ArchitectsBangladesh(IAB).Jun 30, 2026 ·Trendsetters ofBangladeshV — Asia Karim Deepa & Naim Ahmed Kibria, Partners at Indigenous, present “দৃষ্টিকোণ সৃষ্টিকোণ” — an exploration of architecture rooted in empathy, craft, and the rhythms of everyday life. Discover how place, culture, and humanity shape spaces that breathe, respond, and inspire.Jul 17, 2025 ·SHELLMARK LIMITED, Dhaka. 4,612 likes · 59 were here. ARCHITECTURALFIRMin Dhaka Architects II Engineers II Planners 200+ Projects Completed 13+ Years in Business",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "firm_name",
+        "value": "SPACE",
+        "unit": null,
+        "confidence": 0.95
+      },
+      {
+        "field": "location",
+        "value": "Dhaka, Bangladesh",
+        "unit": null,
+        "confidence": 0.95
+      },
+      {
+        "field": "facebook_likes",
+        "value": "2592",
+        "unit": "people",
+        "confidence": 0.95
+      },
+      {
+        "field": "facebook_talking_about",
+        "value": "2",
+        "unit": "people",
+        "confidence": 0.95
+      },
+      {
+        "field": "facebook_visits",
+        "value": "159",
+        "unit": "people",
+        "confidence": 0.95
+      },
+      {
+        "field": "services",
+        "value": "Consultancy, Construction and Development",
+        "unit": null,
+        "confidence": 0.95
+      },
+      {
+        "field": "organization_name",
+        "value": "Institute of Architects Bangladesh (IAB)",
+        "unit": null,
+        "confidence": 0.95
+      },
+      {
+        "field": "book_title",
+        "value": "IAB Centre (edited by Prof. Adnan Z. Morshed)",
+        "unit": null,
+        "confidence": 0.9
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.742
   },
   {
     "evidence_id": "d371fdd1-d78",
@@ -6671,11 +7095,30 @@
     "source_type": "unknown",
     "title": "FrameWork | Dhaka - Facebook",
     "snippet": "Institute of ArchitectsBangladesh(IAB) Centre. Edited by Prof. Adnan Z. Morshed, the book is the result of the collective dedication of architects, researchers, writers, photographers, contributors, and well-wishers who believed in the importance of preserving architectural knowledge. Framework extends its heartfelt gratitude to Prof.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "organization_name",
+        "value": "Institute of Architects Bangladesh (IAB)",
+        "unit": null,
+        "confidence": 0.95
+      },
+      {
+        "field": "book_title",
+        "value": "IAB Centre (edited by Prof. Adnan Z. Morshed)",
+        "unit": null,
+        "confidence": 0.9
+      },
+      {
+        "field": "contributors",
+        "value": "architects, researchers, writers, photographers, contributors, and well-wishers",
+        "unit": null,
+        "confidence": 0.9
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.737
   },
   {
     "evidence_id": "dd4afa66-dcd",
@@ -6692,11 +7135,63 @@
     "source_type": "unknown",
     "title": "Institute of Architects Bangladesh | Dhaka - FacebookIndigenous . | Dhaka - FacebookSHELLMARK LIMITED | Dhaka - Facebook",
     "snippet": "Institute of ArchitectsBangladesh, Dhaka. 39,378 likes · 1,953 talking about this · 9,135 were here. This is the officialFacebookPage of the Institute of ArchitectsBangladesh(IAB).Jun 30, 2026 ·Trendsetters ofBangladeshV — Asia Karim Deepa & Naim Ahmed Kibria, Partners at Indigenous, present “দৃষ্টিকোণ সৃষ্টিকোণ” — an exploration of architecture rooted in empathy, craft, and the rhythms of everyday life. Discover how place, culture, and humanity shape spaces that breathe, respond, and inspire.Jul 17, 2025 ·SHELLMARK LIMITED, Dhaka. 4,612 likes · 59 were here. ARCHITECTURALFIRMin Dhaka Architects II Engineers II Planners 200+ Projects Completed 13+ Years in Business",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "facebook_page_name",
+        "value": "Institute of Architects Bangladesh",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "facebook_likes",
+        "value": "39378",
+        "unit": "people",
+        "confidence": 1.0
+      },
+      {
+        "field": "facebook_talking_about_count",
+        "value": "1953",
+        "unit": "people",
+        "confidence": 1.0
+      },
+      {
+        "field": "facebook_visitors",
+        "value": "9135",
+        "unit": "people",
+        "confidence": 1.0
+      },
+      {
+        "field": "entity_type",
+        "value": "architecture_firm_association",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "event_date",
+        "value": "2026-06-30",
+        "unit": null,
+        "confidence": 0.9
+      },
+      {
+        "field": "firm_name",
+        "value": "Indigenous",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "partners",
+        "value": [
+          "Asia Karim Deepa",
+          "Naim Ahmed Kibria"
+        ],
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.748
   },
   {
     "evidence_id": "e2ef769f-e73",
@@ -6818,11 +7313,42 @@
     "source_type": "unknown",
     "title": "RedXCourierServiceAll Branch List, Address, and Contact Number",
     "snippet": "RedXcourierserviceDhakamobile number is 09610007339. RedX provides a highly fatty delivery service throughoutBangladesh.1327, Tejgoan business area,Dhaka-1208,Bangladesh.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "company_name",
+        "value": "RedX",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "contact_number",
+        "value": "09610007339",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "service_area",
+        "value": "Bangladesh",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "address",
+        "value": "1327, Tejgoan business area, Dhaka-1208, Bangladesh",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "service_type",
+        "value": "delivery",
+        "unit": null,
+        "confidence": 0.9
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.747
   },
   {
     "evidence_id": "c2d7f0de-d1d",
@@ -6839,11 +7365,28 @@
     "source_type": "unknown",
     "title": "sa paribahan branch list andDhaka, Uttara, Gulshan, Coxs bazar",
     "snippet": "eCourierBangladesh. ContinentalCourierServiceDhaka.BangladeshParcel &CourierServiceLtd. Final Thoughts. The growth of courier companies inBangladeshhas made it easier than ever to send and receive packages, both locally and internationally.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "company_names_mentioned",
+        "value": [
+          "eCourier Bangladesh",
+          "Continental Courier Service Dhaka",
+          "Bangladesh Parcel & Courier Service Ltd"
+        ],
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "industry_trend",
+        "value": "The growth of courier companies in Bangladesh has made it easier than ever to send and receive packages, both locally and internationally.",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "0237caac-7c9",
@@ -6860,11 +7403,36 @@
     "source_type": "unknown",
     "title": "Fast Delivery inBangladesh| Get Same-Day... | Fastmovebd.com",
     "snippet": "\"At FastMoveCourierLtd., our mission is to provide unparalleled door-to-door deliveryserviceinBangladeshby prioritizing speed, reliability, and customer satisfaction.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "company_name",
+        "value": "FastMove Courier Ltd.",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "service_type",
+        "value": "door-to-door delivery",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "service_area",
+        "value": "Bangladesh",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "mission_statement",
+        "value": "To provide unparalleled door-to-door delivery service in Bangladesh by prioritizing speed, reliability, and customer satisfaction.",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "2108cab3-23b",
@@ -6881,11 +7449,51 @@
     "source_type": "unknown",
     "title": "Best Same DayCourierServiceInDhakaBangladesh4 Hours...",
     "snippet": "Courierservicefrom China toBangladesh. Contact Us.Same daycourierserviceupon request – call for availability & a courier quote. Book your motorcycle delivery between 7AM to 5PM Monday to Friday. Bicycle same day delivery,DhakaCity.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "company_name",
+        "value": "Fox Parcel",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "service_type",
+        "value": "same day courier service",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "service_area",
+        "value": "Dhaka, Bangladesh",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "operating_hours",
+        "value": "7AM to 5PM Monday to Friday",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "delivery_options",
+        "value": [
+          "motorcycle delivery",
+          "bicycle same day delivery"
+        ],
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "international_service",
+        "value": "Courier service from China to Bangladesh",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "514a8be9-e58",
@@ -6902,11 +7510,36 @@
     "source_type": "unknown",
     "title": "A.J.R Transport Agency Ltd |Bangladesh",
     "snippet": "AJR Transport Agency LTD is one of the most prominent and the best Transportation andCourierServiceprovider inDhaka,Bangladesh.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "company_name",
+        "value": "A.J.R Transport Agency Ltd",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "service_type",
+        "value": "Transportation and Courier Service",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "location",
+        "value": "Dhaka, Bangladesh",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "sector",
+        "value": "logistics-transport",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "0581ae53-9c2",
@@ -7028,11 +7661,39 @@
     "source_type": "unknown",
     "title": "ProfessionalC&FAgent& Customs Clearing Agent inBangladesh",
     "snippet": "Competitive pricing with transparent fees. About CNF Agent. Government approvesC&FagentinBangladesh. We are a government-approvedC&F(Customs and Freight) agent specializing in customs clearance services atDhakaAirport and Chittagong Port.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "service_type",
+        "value": "C&F (Customs and Freight) agent",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "legal_status",
+        "value": "government-approved",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "service_locations",
+        "value": [
+          "Dhaka Airport",
+          "Chittagong Port"
+        ],
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "pricing_model",
+        "value": "competitive pricing with transparent fees",
+        "unit": null,
+        "confidence": 0.9
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.746
   },
   {
     "evidence_id": "28a280ff-70a",
@@ -7049,11 +7710,30 @@
     "source_type": "unknown",
     "title": "clearing and forwardingagent",
     "snippet": "C&FAgentDhakaBangladesh. So when we needsc&fagentDhakaBangladesh, we search online. Its very difficult to find a goodc&fagentDhakaBangladesh.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "service_type",
+        "value": "C&F (Customs and Freight) agent",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "service_location",
+        "value": "Dhaka, Bangladesh",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "market_challenge",
+        "value": "difficult to find a good C&F agent in Dhaka",
+        "unit": null,
+        "confidence": 0.9
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.745
   },
   {
     "evidence_id": "0a1e38d2-6e5",
@@ -7070,11 +7750,42 @@
     "source_type": "unknown",
     "title": "BangladeshCargo Services (aC&Fcompany) | লিংকডইন",
     "snippet": "Clearing and Forwarding HandlingagentinBangladesh. :- Hotline +8801819228572 |BangladeshCargo Services (BCS) is a Prominent Customs Clearing and Freight Forwarding (C&F) Company based inBangladeshwith the motto \"Customer always comes first\" .",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "service_type",
+        "value": "Clearing and Forwarding Handling agent",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "company_name",
+        "value": "Bangladesh Cargo Services (BCS)",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "contact_number",
+        "value": "+8801819228572",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "motto",
+        "value": "Customer always comes first",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "company_type",
+        "value": "Customs Clearing and Freight Forwarding (C&F) Company",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "a9115133-070",
@@ -7091,11 +7802,36 @@
     "source_type": "unknown",
     "title": "M/S. TAHERA AND SONS (C&FAGENT) |Bangladesh",
     "snippet": "We are leading clearing agents inBangladesh.M/S. TAHERA AND SONS (C&FAGENT) Verified. 1150 Haque Bhaban (3rd Floor),Commerce College Road,Mogoltoli,Agrabad,Chattogram-4100.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "company_name",
+        "value": "M/S. TAHERA AND SONS (C&F AGENT)",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "service_type",
+        "value": "clearing agent",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "address",
+        "value": "1150 Haque Bhaban (3rd Floor), Commerce College Road, Mogoltoli, Agrabad, Chattogram-4100",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "verification_status",
+        "value": "verified",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "60d8a4e1-228",
@@ -7112,11 +7848,42 @@
     "source_type": "unknown",
     "title": "NBR seeks allC&Fagentdata within one month to prevent false...",
     "snippet": "The information of these agents will be entered into the NBR' Automated System for Customs Data (ASYCUDA) software. This will allow the customs authorities to easily identify anyC&Fagentof an importer.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "regulation_name",
+        "value": "Automated System for Customs Data (ASYCUDA)",
+        "unit": null,
+        "confidence": 0.95
+      },
+      {
+        "field": "regulatory_body",
+        "value": "National Board of Revenue (NBR)",
+        "unit": null,
+        "confidence": 0.95
+      },
+      {
+        "field": "sector_targeted",
+        "value": "C&F agents",
+        "unit": null,
+        "confidence": 0.9
+      },
+      {
+        "field": "action_required",
+        "value": "Data submission by C&F agents within one month",
+        "unit": null,
+        "confidence": 0.9
+      },
+      {
+        "field": "purpose",
+        "value": "Prevent false declarations by importers",
+        "unit": null,
+        "confidence": 0.85
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.736
   },
   {
     "evidence_id": "c820c4c9-96f",
@@ -7238,11 +8005,36 @@
     "source_type": "unknown",
     "title": "Free Bike &CarWashwith Kärcher Machines | IESLBangladesh",
     "snippet": "Experience the ultimate Kärcher Bike &CarWashBangladeshevent—live in Savar, Dhaka! This exclusive demo showcases Germany’s No.1 cleaning technology designed to transform howBangladeshcleans vehicles.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "event_name",
+        "value": "Kärcher Bike & Car Wash Bangladesh Event",
+        "unit": null,
+        "confidence": 0.9
+      },
+      {
+        "field": "event_location",
+        "value": "Savar, Dhaka, Bangladesh",
+        "unit": null,
+        "confidence": 0.9
+      },
+      {
+        "field": "technology_origin",
+        "value": "Germany",
+        "unit": null,
+        "confidence": 0.95
+      },
+      {
+        "field": "technology_ranking",
+        "value": "No. 1",
+        "unit": null,
+        "confidence": 0.9
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.737
   },
   {
     "evidence_id": "eb4ab323-e15",
@@ -7259,11 +8051,30 @@
     "source_type": "unknown",
     "title": "About Us -CarWashBangladesh",
     "snippet": "CarWashBD is a brand that is set to revolutionize the way people think about car care. It's a one-of-a-kind mechanized automobile cleaning concept in which vehicles…",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "business_model",
+        "value": "mechanized automobile cleaning concept",
+        "unit": null,
+        "confidence": 0.95
+      },
+      {
+        "field": "brand_name",
+        "value": "CarWashBD",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "unique_selling_point",
+        "value": "one-of-a-kind mechanized automobile cleaning concept",
+        "unit": null,
+        "confidence": 0.9
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.742
   },
   {
     "evidence_id": "7a93f0d9-d96",
@@ -7301,11 +8112,42 @@
     "source_type": "unknown",
     "title": "Rafi Alli - | CastroCarWashLinkedIn",
     "snippet": "· অভিজ্ঞতা: CastroCarWash· শিক্ষা:BangladeshUniversity · অবস্থান: Chattogram · 243 LinkedIn সংযোগ।",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "employee_name",
+        "value": "Rafi Alli",
+        "unit": null,
+        "confidence": 0.95
+      },
+      {
+        "field": "employer_name",
+        "value": "Castro Car Wash",
+        "unit": null,
+        "confidence": 0.95
+      },
+      {
+        "field": "employee_location",
+        "value": "Chattogram, Bangladesh",
+        "unit": null,
+        "confidence": 0.95
+      },
+      {
+        "field": "employee_education_institution",
+        "value": "Bangladesh University",
+        "unit": null,
+        "confidence": 0.9
+      },
+      {
+        "field": "linkedin_connections_count",
+        "value": "243",
+        "unit": "people",
+        "confidence": 0.95
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.741
   },
   {
     "evidence_id": "7f95f50e-5db",
@@ -7448,11 +8290,36 @@
     "source_type": "unknown",
     "title": "Air FryerPriceinBangladesh2026 |ElectronicsBangladesh",
     "snippet": "Air FryerPriceranges from BDT 4,290 to 24,900 inBangladesh. Buy Original Air Fryer at best deal, Express Delivery, and official warranty fromElectronicsBangladesh.Product availability andpricemay change, so always check the latestlistedpricebefore placing your order.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "product_name",
+        "value": "Air Fryer",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "price_bdt",
+        "value": "4290-24900",
+        "unit": "BDT",
+        "confidence": 1.0
+      },
+      {
+        "field": "delivery_service",
+        "value": "Express Delivery",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "warranty",
+        "value": "official warranty",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "8b0b9dbd-a40",
@@ -7469,11 +8336,36 @@
     "source_type": "unknown",
     "title": "Induction CookerPriceinBangladesh2026 |ElectronicsBangladesh",
     "snippet": "Induction Cookerpricesstart from BDT 2,990 to 8,990 inBangladesh. Buy Original Induction Cooker at the best deal, Express Delivery, and official warranty fromElectronicsBangladesh. Browse below and Order now!",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "product_name",
+        "value": "Induction Cooker",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "price_bdt",
+        "value": "2990-8990",
+        "unit": "BDT",
+        "confidence": 1.0
+      },
+      {
+        "field": "delivery_service",
+        "value": "Express Delivery",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "warranty",
+        "value": "official warranty",
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "db340687-474",
@@ -7490,11 +8382,30 @@
     "source_type": "unknown",
     "title": "BangladeshElectronics",
     "snippet": "BangladeshElectronics.Pricerange. 15.00.BRANDS MEGA LTD (Bangladesh) | Navana Tower (Level-18) 45 Gulshan Avenue, Gulshan-1 Dhaka -1212,Bangladesh. Phone.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "company_name",
+        "value": "BRANDS MEGA LTD",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "address",
+        "value": "Navana Tower (Level-18) 45 Gulshan Avenue, Gulshan-1 Dhaka -1212, Bangladesh",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "phone_contact",
+        "value": true,
+        "unit": null,
+        "confidence": 0.9
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.745
   },
   {
     "evidence_id": "93888079-e17",
@@ -7511,11 +8422,44 @@
     "source_type": "unknown",
     "title": "Air Conditioner Discounted OfferPriceinBangladesh| Top Brands...",
     "snippet": "Find the best air conditioner discounted offerpriceinBangladeshatElectronicsBangladesh. Explore a wide range of inverter, split, and portable air conditioners from top brands like Hisense, Daikin, and Gree. Shop now for the perfect cooling solution! About This Offer.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "product_category",
+        "value": "air conditioner",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "offer_type",
+        "value": "discounted offer",
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "brands_available",
+        "value": [
+          "Hisense",
+          "Daikin",
+          "Gree"
+        ],
+        "unit": null,
+        "confidence": 1.0
+      },
+      {
+        "field": "product_types",
+        "value": [
+          "inverter",
+          "split",
+          "portable"
+        ],
+        "unit": null,
+        "confidence": 1.0
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.75
   },
   {
     "evidence_id": "c9dc3d64-e31",
@@ -7532,11 +8476,36 @@
     "source_type": "unknown",
     "title": "Midea 1.5 Ton Inverter AC - BestPriceinBangladesh| Affordable...",
     "snippet": "Lg ACpriceinBangladesh- LG 1.5 Ton 18000 BTU HSNC1865NA4 Split Air Conditioner | Best air conditioners for home, How to install lg air conditioner, Lg air conditioner boxes.electronicsbangladeshshowroom,esquire electronics ltd. www.aircon.com.bd.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "product_name",
+        "value": "Midea 1.5 Ton Inverter AC",
+        "unit": null,
+        "confidence": 0.9
+      },
+      {
+        "field": "product_name",
+        "value": "LG 1.5 Ton 18000 BTU HSNC1865NA4 Split Air Conditioner",
+        "unit": null,
+        "confidence": 0.9
+      },
+      {
+        "field": "entity_name",
+        "value": "esquire electronics ltd",
+        "unit": null,
+        "confidence": 0.8
+      },
+      {
+        "field": "website",
+        "value": "www.aircon.com.bd",
+        "unit": null,
+        "confidence": 0.9
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.731
   },
   {
     "evidence_id": "fda10f9d-572",
@@ -7616,11 +8585,36 @@
     "source_type": "unknown",
     "title": "BangladeshApparels –BangladeshClothingManufacturer",
     "snippet": "BangladeshApparels is a leading GarmentClothingmanufacturer & suppliers inBangladeshfor all kinds Mens , women & kidsclothingat the most affordableprices.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "entity_name",
+        "value": "BangladeshApparels",
+        "unit": null,
+        "confidence": 0.9
+      },
+      {
+        "field": "entity_type",
+        "value": "Garment Clothing Manufacturer & Supplier",
+        "unit": null,
+        "confidence": 0.9
+      },
+      {
+        "field": "product_category",
+        "value": "Mens, women & kids clothing",
+        "unit": null,
+        "confidence": 0.9
+      },
+      {
+        "field": "pricing_description",
+        "value": "most affordable prices",
+        "unit": null,
+        "confidence": 0.8
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.731
   },
   {
     "evidence_id": "34a7154f-ea0",
@@ -7658,11 +8652,24 @@
     "source_type": "unknown",
     "title": "Old Money OutfitPriceinBangladesh| TikTok",
     "snippet": "Discover the latestpricesfor old money outfits inBangladesh, including shirts and more, for stylish choices in 2025.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "product_category",
+        "value": "old money outfits",
+        "unit": null,
+        "confidence": 0.9
+      },
+      {
+        "field": "market_trend_year",
+        "value": "2025",
+        "unit": null,
+        "confidence": 0.8
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.728
   },
   {
     "evidence_id": "be4feed0-111",
@@ -7679,11 +8686,30 @@
     "source_type": "unknown",
     "title": "DressClothingBangladesh| Korean Cosmetics & Bags BD",
     "snippet": "Shop dressclothinginBangladeshTrendy Korean cosmetics, cute bags & aesthetic accessories for girls.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "product_category",
+        "value": "dress clothing",
+        "unit": null,
+        "confidence": 0.9
+      },
+      {
+        "field": "product_origin",
+        "value": "Korean",
+        "unit": null,
+        "confidence": 0.9
+      },
+      {
+        "field": "target_demographic",
+        "value": "girls",
+        "unit": null,
+        "confidence": 0.8
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.73
   },
   {
     "evidence_id": "9590c4a2-0e2",
@@ -7700,11 +8726,40 @@
     "source_type": "unknown",
     "title": "JinishPotro – Business DirectoryBangladesh| BDPrices2026",
     "snippet": "Global demand for products fromBangladeshis growing every year. From garments and handicrafts to food items and small e-commerce products,Bangladeshisellers are now reaching customers in the USA, UK, Europe, Middle East, and beyond.",
-    "extracted_facts": [],
+    "extracted_facts": [
+      {
+        "field": "export_market",
+        "value": [
+          "USA",
+          "UK",
+          "Europe",
+          "Middle East"
+        ],
+        "unit": null,
+        "confidence": 0.9
+      },
+      {
+        "field": "export_product_category",
+        "value": [
+          "garments",
+          "handicrafts",
+          "food items",
+          "small e-commerce products"
+        ],
+        "unit": null,
+        "confidence": 0.9
+      },
+      {
+        "field": "market_trend_year",
+        "value": "2026",
+        "unit": null,
+        "confidence": 0.8
+      }
+    ],
     "source_quality_score": 0.35,
     "recency_score": 1.0,
-    "consistency_score": 0.5,
-    "confidence_score": 0.545
+    "consistency_score": 1.0,
+    "confidence_score": 0.73
   },
   {
     "evidence_id": "a983afd6-b44",

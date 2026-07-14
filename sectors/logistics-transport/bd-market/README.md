@@ -2,7 +2,7 @@
 sector: logistics-transport
 last_verified: 2026-07-14
 freshness: fresh
-confidence: 0.578
+confidence: 0.619
 evidence_ids: ['afe4b489-94c', '91fd5b51-716', 'ab457f07-72e', 'f7c2ce3b-5f3', '34d8348f-93d', 'd8ec4e81-de3', 'c2d7f0de-d1d', '0237caac-7c9', '2108cab3-23b', '514a8be9-e58', '43c6e92d-013', '7675f61a-8da', '5d2cb9a0-b6f', '8e8581fa-8bf', '8bf8f145-7bc', 'bb96f093-6ba', '3557d278-256', '8758761a-50d', '3d75a624-a9f', '80916f2f-a3d']
 ---
 
@@ -35,6 +35,7 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 - Risk register
 - Pricing guide
 - Financial model
+
 
 
 

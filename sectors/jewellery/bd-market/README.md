@@ -2,7 +2,7 @@
 sector: jewellery
 last_verified: 2026-07-14
 freshness: fresh
-confidence: 0.585
+confidence: 0.592
 evidence_ids: ['bc05f84c-c5b', '8069150d-374', '8702e5d0-b86', 'a864366d-c9a', 'ec3507c0-bb5', '2b281e82-3eb', '8e72479f-27b', '7bc76f4b-fec', '6ebe01f9-2b3', '4d4a233b-09e', 'd73e36e9-1ba', 'ae6c234c-28e', 'dce7ea49-afd', '074d14cd-0bc', 'b09ea36d-91b', '510b1848-67f', '6ae74e8e-959', '88979865-159', '541ed267-67f', 'ab8e6d1e-9ce']
 ---
 
@@ -154,6 +154,7 @@ evidence_ids: ['bc05f84c-c5b', '8069150d-374', '8702e5d0-b86', 'a864366d-c9a', '
 
 
 
+
 ## Auto-Updated Data (2026-07-14)
 
 | Fact | Source | Confidence |
@@ -172,3 +173,4 @@ evidence_ids: ['bc05f84c-c5b', '8069150d-374', '8702e5d0-b86', 'a864366d-c9a', '
 | affordable price | search | 0.80 |
 | price hikes loom | search | 0.70 |
 | Trump Tariffs impact on luxury goods pricing | search | 0.80 |
+| textile-garment | search | 0.90 |

@@ -2,7 +2,7 @@
 sector: clothing-fashion
 last_verified: 2026-07-14
 freshness: fresh
-confidence: 0.573
+confidence: 0.601
 evidence_ids: ['8cd0eb85-7a3', '91cd7a22-0cb', '81122a4a-d23', 'bd2a72a2-854', '52e1a14d-6ea', '99f42ac0-e7f', '5162cb99-fd2', '0b01f580-5be', '4961de31-bb6', '07a38eea-508', 'b6e910c3-833', '83031daf-2b2', 'bfa622d8-049', '311e3e86-a60', '34a7154f-ea0', '23104cbf-09a', 'be4feed0-111', '9590c4a2-0e2', 'a983afd6-b44', '72c35ae1-b24']
 ---
 
@@ -179,6 +179,7 @@ evidence_ids: ['8cd0eb85-7a3', '91cd7a22-0cb', '81122a4a-d23', 'bd2a72a2-854', '
 
 
 
+
 ## Auto-Updated Data (2026-07-14)
 
 | Fact | Source | Confidence |
@@ -188,13 +189,13 @@ evidence_ids: ['8cd0eb85-7a3', '91cd7a22-0cb', '81122a4a-d23', 'bd2a72a2-854', '
 | modern Bangladeshi clothing brand offering stylish, comfortable, and affordable  | search | 1.00 |
 | ['premium-quality outfits', 'perfect fits', 'fast delivery', 'reliable service'] | search | 0.90 |
 | Bangladesh | search | 1.00 |
+| Twelve Clothing | search | 1.00 |
+| fashion | search | 1.00 |
+| ['menswear', 'womenswear', 'kidswear', 'panjabi', 'kurti', 'gowns', 't-shirts',  | search | 1.00 |
+| leading fashion brand | search | 0.95 |
 | 1490 | search | 0.95 |
 | 2490 | search | 0.95 |
 | Womens Clothing | search | 1.00 |
 | Zaina Vol 19 Pakistani Suit | search | 0.95 |
 | 2026-07 | search | 0.90 |
 | Best prices in home delivery | search | 0.80 |
-| 88 | search | 0.95 |
-| decreased | search | 0.90 |
-| July | search | 0.95 |
-| oil and gas prices skyrocketing due to Strait of Hormuz closure affecting fast f | search | 0.90 |

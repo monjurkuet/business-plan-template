@@ -2,7 +2,7 @@
 sector: automotive-car-care
 last_verified: 2026-07-14
 freshness: fresh
-confidence: 0.589
+confidence: 0.616
 evidence_ids: ['14d3a8c5-b88', '7e82f18c-f56', 'daa719d9-44b', '1ae1dce7-157', 'eb014eb3-5c7', '06da9be2-3a5', '3535eb7a-d26', 'd064ebb2-cc9', '6d0fb065-bd0', '5a44aab6-eb0', '235749db-c69', '0cb38d1e-f4c', 'b82a1711-d86', '10042247-593', 'eb4ab323-e15', '7a93f0d9-d96', '88955546-a80', '7f95f50e-5db', '0dc5f0ea-d5c', 'b8d9359b-ae9']
 ---
 
@@ -97,6 +97,7 @@ evidence_ids: ['14d3a8c5-b88', '7e82f18c-f56', 'daa719d9-44b', '1ae1dce7-157', '
 - **Fuel 2026**: April 2026 prices unchanged 3rd consecutive month — govt absorbing import costs via subsidies
 - **Middle Class**: 44 consecutive months wage growth < inflation — purchasing power eroding (Oct 2025)
 - **Consumer Spending**: ৳24,083 Bn by end 2026 (Trading Economics forecast)
+
 
 
 

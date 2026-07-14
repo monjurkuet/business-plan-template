@@ -2,7 +2,7 @@
 sector: bim-global-outreach
 last_verified: 2026-07-14
 freshness: fresh
-confidence: 0.616
+confidence: 0.664
 evidence_ids: ['5f151c34-da3', '885f60bb-4ec', '1e93f541-0cc', '3aa1dd7c-a56', 'b9f6596b-7b4', 'a644c377-459', 'f214a6c4-890', 'da266fc7-cbc', '9228b983-dfd', 'deaa0d0c-8f7', 'ad87a844-46b', '711fbd4a-025', 'c56ec2f8-398', 'd371fdd1-d78', 'dd4afa66-dcd', 'ac271708-a13', 'b3aec48f-8ab', '243f953b-472', 'e0a49e8e-c92', '6372ca9e-ea5']
 ---
 
@@ -182,10 +182,14 @@ evidence_ids: ['5f151c34-da3', '885f60bb-4ec', '1e93f541-0cc', '3aa1dd7c-a56', '
 
 
 
+
 ## Auto-Updated Data (2026-07-14)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
+| architecture | search | 1.00 |
+| firm | search | 1.00 |
+| Bangladesh | search | 1.00 |
 | RAJUK-registered | search | 0.95 |
 | sustainable architecture | search | 0.90 |
 | Dhaka | search | 0.95 |
@@ -198,6 +202,3 @@ evidence_ids: ['5f151c34-da3', '885f60bb-4ec', '1e93f541-0cc', '3aa1dd7c-a56', '
 | Dhaka | search | 0.95 |
 | ['company reputation values', 'client reviews', 'google data analytics'] | search | 0.95 |
 | SPACE | Dhaka | search | 0.90 |
-| 2592 | search | 0.90 |
-| 2 | search | 0.90 |
-| 159 | search | 0.90 |

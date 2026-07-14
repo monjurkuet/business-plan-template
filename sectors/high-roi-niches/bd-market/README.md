@@ -2,7 +2,7 @@
 sector: high-roi-niches
 last_verified: 2026-07-14
 freshness: fresh
-confidence: 0.57
+confidence: 0.586
 evidence_ids: ['362d5173-ad5', '05e6e56e-577', '0f1b1d8a-04f', '5191cfe4-2ff', '3a726da3-7e7', '9af45bf7-3a9', 'e2ef769f-e73', '3cb40700-106', 'fce40164-e78', '662fd0f1-49f', 'e447a1bf-f3c', 'bb33ca82-5b7', 'ece526a9-3bb', 'e76c4afa-590', '24582e9e-df7', 'a7b7dd04-63d', '1ff6947c-aaf', '9ac9dc1f-081', 'a1b978f7-53f', 'b79727d5-b1c']
 ---
 
@@ -76,6 +76,7 @@ This sector captures high-growth, high-margin niche opportunities in Bangladesh.
 - **Influencer Market**: $35.23M by 2025, 8.44% CAGR (Statista)
 - **4Ir**: 4th Industrial Revolution convergence of AI, IoT, automation, blockchain impacting SME sector
 - **Digital Roadmap**: BNDA, NDX, 800+ govt services digitized 2025-2026
+
 
 
 

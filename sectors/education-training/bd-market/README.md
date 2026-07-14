@@ -2,7 +2,7 @@
 sector: education-training
 last_verified: 2026-07-14
 freshness: fresh
-confidence: 0.609
+confidence: 0.625
 evidence_ids: ['92479926-52a', '104fb973-11a', '5db7ead2-a04', 'b33aab33-603', '78d9489f-c8c', 'cb060337-8ce', '01cba4e9-1ab', '11c63b4d-2a2', 'f023f594-ec1', 'a404b498-6df', 'db2fa139-425', '03b5217b-5ea', 'f1706e22-fa8', '6fbb55ca-8b9', 'a1061581-a4f', 'f50dd85f-cf8', '1267d6f6-6f2', '9925ed53-a4a', '3f57037b-da6', '3e6c1399-78a']
 ---
 
@@ -35,6 +35,7 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 - Risk register
 - Pricing guide
 - Financial model
+
 
 
 

@@ -2,7 +2,7 @@
 sector: travel-tourism
 last_verified: 2026-07-14
 freshness: fresh
-confidence: 0.573
+confidence: 0.578
 evidence_ids: ['33d750cd-ae2', 'c99910b0-8be', '0852c21b-b78', '39416949-205', 'fdbb5cf4-87f', 'a3144bed-e3b', '3524fadb-c58', '65086bf5-f17', '2552db8a-24c', '69d73222-916', 'f50d438d-13b', '31ce72b6-526', 'a25f4118-15b', 'e0b22477-191', '44f94f87-947', '7249f36e-479', '73e7b311-7a9', '32271257-f0d', 'bb221ca6-c9a', 'b8e17df5-44b']
 ---
 
@@ -57,6 +57,7 @@ evidence_ids: ['33d750cd-ae2', 'c99910b0-8be', '0852c21b-b78', '39416949-205', '
 - Online travel booking: OTA market emerging with GoZayaan, ShareTrip, Flight Expert
 
 *Sources: Startup Bangladesh, Crunchbase, PitchBook, DDGS via search.datasolved.org*
+
 
 
 
