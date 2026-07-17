@@ -185,3 +185,46 @@ sectors:
     status: active
     competitor_target: 10
     policy_sensitivity: low
+
+  hotels-hospitality:
+    display_name: "Hotels & Hospitality"
+    product_name: "Hotel Management System"
+    target_business_types:
+      en:
+        - "hotel"
+        - "resort"
+        - "guest house"
+        - "luxury hotel"
+        - "boutique hotel"
+        - "budget hotel"
+        - "motel"
+        - "hotel & restaurant"
+        - "rest house"
+        - "boarding"
+        - "inn"
+        - "hostel"
+        - "hotel resort"
+      bn:
+        - "হোটেল"
+        - "রিসোর্ট"
+        - "গেস্ট হাউস"
+        - "আবাসিক হোটেল"
+        - "বোর্ডিং"
+        - "রেস্ট হাউস"
+        - "মোটেল"
+        - "হোস্টেল"
+        - "লাক্সারি হোটেল"
+        - "বাজেট হোটেল"
+        - "বুটিক হোটেল"
+    subsegments:
+      - "hotels"
+      - "resorts"
+      - "guest houses"
+      - "motels"
+      - "hostels"
+      - "luxury hotels"
+      - "boutique hotels"
+    priority_weight: 1.0
+    status: active
+    competitor_target: 20
+    policy_sensitivity: low

@@ -352,3 +352,57 @@ sectors:
                   "indenting agent", "buying house", "commission agent", "door-to-door sales",
                   "direct sales", "MLM network", "franchise distribution", "trade agent"]
     policy_sensitivity: medium
+
+  hospitality-hotels:
+    display_name: "Hotels & Hospitality"
+    status: active
+    priority_weight: 1.0
+    keywords:
+      en:
+        - "hotel Bangladesh"
+        - "resort Bangladesh"
+        - "guest house Bangladesh"
+        - "luxury hotel Dhaka"
+        - "boutique hotel Bangladesh"
+        - "budget hotel BD"
+        - "motel Bangladesh"
+        - "hotel & restaurant Bangladesh"
+        - "rest house Bangladesh"
+        - "boarding Bangladesh"
+        - "inn Bangladesh"
+        - "hostel Bangladesh"
+        - "hotel resort Bangladesh"
+        - "hotel in Dhaka"
+        - "hotel in Chattogram"
+        - "hotel in Cox's Bazar"
+        - "hotel in Sylhet"
+        - "resort in Cox's Bazar"
+        - "sea resort Bangladesh"
+        - "beach hotel Bangladesh"
+      bn:
+        - "হোটেল বাংলাদেশ"
+        - "রিসোর্ট বাংলাদেশ"
+        - "গেস্ট হাউস বাংলাদেশ"
+        - "আবাসিক হোটেল বাংলাদেশ"
+        - "বোর্ডিং বাংলাদেশ"
+        - "রেস্ট হাউস বাংলাদেশ"
+        - "মোটেল বাংলাদেশ"
+        - "হোস্টেল বাংলাদেশ"
+        - "লাক্সারি হোটেল ঢাকা"
+        - "বাজেট হোটেল বাংলাদেশ"
+        - "বুটিক হোটেল বাংলাদেশ"
+        - "সি রিসোর্ট বাংলাদেশ"
+        - "বিচ হোটেল বাংলাদেশ"
+    competitor_target: 20
+    subsegments:
+      - "hotels"
+      - "resorts"
+      - "guest houses"
+      - "motels"
+      - "hostels"
+      - "luxury hotels"
+      - "boutique hotels"
+      - "sea resorts"
+      - "beach hotels"
+      - "budget hotels"
+    policy_sensitivity: low
