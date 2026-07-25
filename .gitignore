@@ -17,6 +17,7 @@ Thumbs.db
 # Sensitive data — NEVER commit credentials
 .env
 .env.*
+_system/config/cron.env
 credentials/
 secrets/
 *.key

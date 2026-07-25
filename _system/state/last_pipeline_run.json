@@ -1,9 +1,4 @@
 {
-  "audit_repo.py": "ok",
-  "evaluate_freshness.py": "ok",
-  "validate_markdown.py": "ok",
-  "execute_searches.py": "ok",
-  "extract_facts.py": "ok",
   "score_confidence.py": "ok",
   "build_search_plan.py": "ok",
   "update_sector_docs.py": "ok",
@@ -11,6 +6,6 @@
   "generate_changelog.py": "ok",
   "generate_sidecars.py": "ok",
   "update_query_memory.py": "ok",
-  "elapsed_seconds": 202.1,
-  "timestamp": "2026-07-14T00:32:17.352877+00:00"
+  "elapsed_seconds": 45.1,
+  "timestamp": "2026-07-25T04:51:15.785371+00:00"
 }
