@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-25T04:40:32.597742+00:00",
+  "generated_at": "2026-07-25T18:08:56.713677+00:00",
   "summary": {
     "fresh": 51,
-    "stale": 41,
-    "critical": 54,
+    "stale": 39,
+    "critical": 56,
     "approaching_stale": 16
   },
   "queue": [
@@ -11,12 +11,12 @@
       "path": "sectors/agriculture-agro/bd-market/regulatory.md",
       "sector": "agriculture-agro",
       "category": "policy",
-      "age_days": 21,
+      "age_days": 22,
       "stale_type": "critical",
       "priority": "P0",
       "stale_after_days": 7,
       "critical_after_days": 21,
-      "reason": "File age 21d exceeds freshness threshold for policy"
+      "reason": "File age 22d exceeds freshness threshold for policy"
     },
     {
       "path": "sectors/agriculture-agro/bd-market/competitors/ (directory)",
@@ -33,111 +33,133 @@
       "path": "sectors/automotive-car-care/bd-market/strategy-canvas.md",
       "sector": "automotive-car-care",
       "category": "pricing",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "critical",
       "priority": "P0",
       "stale_after_days": 14,
       "critical_after_days": 30,
-      "reason": "File age 79d exceeds freshness threshold for pricing"
+      "reason": "File age 80d exceeds freshness threshold for pricing"
     },
     {
       "path": "sectors/automotive-car-care/bd-market/regulatory.md",
       "sector": "automotive-car-care",
       "category": "policy",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "critical",
       "priority": "P0",
       "stale_after_days": 7,
       "critical_after_days": 21,
-      "reason": "File age 79d exceeds freshness threshold for policy"
+      "reason": "File age 80d exceeds freshness threshold for policy"
     },
     {
       "path": "sectors/automotive-car-care/bd-market/pricing-guide.md",
       "sector": "automotive-car-care",
       "category": "pricing",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "critical",
       "priority": "P0",
       "stale_after_days": 14,
       "critical_after_days": 30,
-      "reason": "File age 79d exceeds freshness threshold for pricing"
+      "reason": "File age 80d exceeds freshness threshold for pricing"
     },
     {
       "path": "sectors/automotive-car-care/bd-market/sentiment-analysis.md",
       "sector": "automotive-car-care",
       "category": "sentiment",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "critical",
       "priority": "P0",
       "stale_after_days": 21,
       "critical_after_days": 42,
-      "reason": "File age 79d exceeds freshness threshold for sentiment"
+      "reason": "File age 80d exceeds freshness threshold for sentiment"
+    },
+    {
+      "path": "sectors/bim-global-outreach/bd-market/strategy-canvas.md",
+      "sector": "bim-global-outreach",
+      "category": "pricing",
+      "age_days": 30,
+      "stale_type": "critical",
+      "priority": "P0",
+      "stale_after_days": 14,
+      "critical_after_days": 30,
+      "reason": "File age 30d exceeds freshness threshold for pricing"
     },
     {
       "path": "sectors/bim-global-outreach/bd-market/regulatory.md",
       "sector": "bim-global-outreach",
       "category": "policy",
-      "age_days": 29,
+      "age_days": 30,
       "stale_type": "critical",
       "priority": "P0",
       "stale_after_days": 7,
       "critical_after_days": 21,
-      "reason": "File age 29d exceeds freshness threshold for policy"
+      "reason": "File age 30d exceeds freshness threshold for policy"
+    },
+    {
+      "path": "sectors/bim-global-outreach/bd-market/pricing-guide.md",
+      "sector": "bim-global-outreach",
+      "category": "pricing",
+      "age_days": 30,
+      "stale_type": "critical",
+      "priority": "P0",
+      "stale_after_days": 14,
+      "critical_after_days": 30,
+      "reason": "File age 30d exceeds freshness threshold for pricing"
     },
     {
       "path": "sectors/clothing-fashion/bd-market/strategy-canvas.md",
       "sector": "clothing-fashion",
       "category": "pricing",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "critical",
       "priority": "P0",
       "stale_after_days": 14,
       "critical_after_days": 30,
-      "reason": "File age 79d exceeds freshness threshold for pricing"
+      "reason": "File age 80d exceeds freshness threshold for pricing"
     },
     {
       "path": "sectors/clothing-fashion/bd-market/regulatory.md",
       "sector": "clothing-fashion",
       "category": "policy",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "critical",
       "priority": "P0",
       "stale_after_days": 7,
       "critical_after_days": 21,
-      "reason": "File age 79d exceeds freshness threshold for policy"
+      "reason": "File age 80d exceeds freshness threshold for policy"
     },
     {
       "path": "sectors/clothing-fashion/bd-market/pricing-guide.md",
       "sector": "clothing-fashion",
       "category": "pricing",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "critical",
       "priority": "P0",
       "stale_after_days": 14,
       "critical_after_days": 30,
-      "reason": "File age 79d exceeds freshness threshold for pricing"
+      "reason": "File age 80d exceeds freshness threshold for pricing"
     },
     {
       "path": "sectors/clothing-fashion/bd-market/sentiment-analysis.md",
       "sector": "clothing-fashion",
       "category": "sentiment",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "critical",
       "priority": "P0",
       "stale_after_days": 21,
       "critical_after_days": 42,
-      "reason": "File age 79d exceeds freshness threshold for sentiment"
+      "reason": "File age 80d exceeds freshness threshold for sentiment"
     },
     {
       "path": "sectors/construction-real-estate/bd-market/regulatory.md",
       "sector": "construction-real-estate",
       "category": "policy",
-      "age_days": 21,
+      "age_days": 22,
       "stale_type": "critical",
       "priority": "P0",
       "stale_after_days": 7,
       "critical_after_days": 21,
-      "reason": "File age 21d exceeds freshness threshold for policy"
+      "reason": "File age 22d exceeds freshness threshold for policy"
     },
     {
       "path": "sectors/construction-real-estate/bd-market/competitors/ (directory)",
@@ -154,7 +176,7 @@
       "path": "sectors/crypto-bitcoin/bd-market/README.md",
       "sector": "crypto-bitcoin",
       "category": "default",
-      "age_days": 11,
+      "age_days": 0,
       "stale_type": "stale_reference",
       "priority": "P0",
       "stale_after_days": 90,
@@ -165,56 +187,56 @@
       "path": "sectors/crypto-bitcoin/bd-market/strategy-canvas.md",
       "sector": "crypto-bitcoin",
       "category": "pricing",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "critical",
       "priority": "P0",
       "stale_after_days": 2,
       "critical_after_days": 7,
-      "reason": "File age 79d exceeds freshness threshold for pricing"
+      "reason": "File age 80d exceeds freshness threshold for pricing"
     },
     {
       "path": "sectors/crypto-bitcoin/bd-market/regulatory.md",
       "sector": "crypto-bitcoin",
       "category": "policy",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "critical",
       "priority": "P0",
       "stale_after_days": 3,
       "critical_after_days": 7,
-      "reason": "File age 79d exceeds freshness threshold for policy"
+      "reason": "File age 80d exceeds freshness threshold for policy"
     },
     {
       "path": "sectors/crypto-bitcoin/bd-market/pricing-guide.md",
       "sector": "crypto-bitcoin",
       "category": "pricing",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "critical",
       "priority": "P0",
       "stale_after_days": 2,
       "critical_after_days": 7,
-      "reason": "File age 79d exceeds freshness threshold for pricing"
+      "reason": "File age 80d exceeds freshness threshold for pricing"
     },
     {
       "path": "sectors/crypto-bitcoin/bd-market/sentiment-analysis.md",
       "sector": "crypto-bitcoin",
       "category": "sentiment",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "critical",
       "priority": "P0",
       "stale_after_days": 21,
       "critical_after_days": 42,
-      "reason": "File age 79d exceeds freshness threshold for sentiment"
+      "reason": "File age 80d exceeds freshness threshold for sentiment"
     },
     {
       "path": "sectors/education-training/bd-market/regulatory.md",
       "sector": "education-training",
       "category": "policy",
-      "age_days": 21,
+      "age_days": 22,
       "stale_type": "critical",
       "priority": "P0",
       "stale_after_days": 7,
       "critical_after_days": 21,
-      "reason": "File age 21d exceeds freshness threshold for policy"
+      "reason": "File age 22d exceeds freshness threshold for policy"
     },
     {
       "path": "sectors/education-training/bd-market/competitors/ (directory)",
@@ -231,56 +253,56 @@
       "path": "sectors/electronics-gadgets/bd-market/strategy-canvas.md",
       "sector": "electronics-gadgets",
       "category": "pricing",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "critical",
       "priority": "P0",
       "stale_after_days": 7,
       "critical_after_days": 14,
-      "reason": "File age 79d exceeds freshness threshold for pricing"
+      "reason": "File age 80d exceeds freshness threshold for pricing"
     },
     {
       "path": "sectors/electronics-gadgets/bd-market/regulatory.md",
       "sector": "electronics-gadgets",
       "category": "policy",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "critical",
       "priority": "P0",
       "stale_after_days": 7,
       "critical_after_days": 21,
-      "reason": "File age 79d exceeds freshness threshold for policy"
+      "reason": "File age 80d exceeds freshness threshold for policy"
     },
     {
       "path": "sectors/electronics-gadgets/bd-market/pricing-guide.md",
       "sector": "electronics-gadgets",
       "category": "pricing",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "critical",
       "priority": "P0",
       "stale_after_days": 7,
       "critical_after_days": 14,
-      "reason": "File age 79d exceeds freshness threshold for pricing"
+      "reason": "File age 80d exceeds freshness threshold for pricing"
     },
     {
       "path": "sectors/electronics-gadgets/bd-market/sentiment-analysis.md",
       "sector": "electronics-gadgets",
       "category": "sentiment",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "critical",
       "priority": "P0",
       "stale_after_days": 21,
       "critical_after_days": 42,
-      "reason": "File age 79d exceeds freshness threshold for sentiment"
+      "reason": "File age 80d exceeds freshness threshold for sentiment"
     },
     {
       "path": "sectors/food-beverage/bd-market/regulatory.md",
       "sector": "food-beverage",
       "category": "policy",
-      "age_days": 21,
+      "age_days": 22,
       "stale_type": "critical",
       "priority": "P0",
       "stale_after_days": 7,
       "critical_after_days": 21,
-      "reason": "File age 21d exceeds freshness threshold for policy"
+      "reason": "File age 22d exceeds freshness threshold for policy"
     },
     {
       "path": "sectors/food-beverage/bd-market/competitors/ (directory)",
@@ -297,12 +319,12 @@
       "path": "sectors/healthcare-pharma/bd-market/regulatory.md",
       "sector": "healthcare-pharma",
       "category": "policy",
-      "age_days": 21,
+      "age_days": 22,
       "stale_type": "critical",
       "priority": "P0",
       "stale_after_days": 7,
       "critical_after_days": 21,
-      "reason": "File age 21d exceeds freshness threshold for policy"
+      "reason": "File age 22d exceeds freshness threshold for policy"
     },
     {
       "path": "sectors/healthcare-pharma/bd-market/competitors/ (directory)",
@@ -319,100 +341,100 @@
       "path": "sectors/high-roi-niches/bd-market/strategy-canvas.md",
       "sector": "high-roi-niches",
       "category": "pricing",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "critical",
       "priority": "P0",
       "stale_after_days": 14,
       "critical_after_days": 30,
-      "reason": "File age 79d exceeds freshness threshold for pricing"
+      "reason": "File age 80d exceeds freshness threshold for pricing"
     },
     {
       "path": "sectors/high-roi-niches/bd-market/regulatory.md",
       "sector": "high-roi-niches",
       "category": "policy",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "critical",
       "priority": "P0",
       "stale_after_days": 7,
       "critical_after_days": 21,
-      "reason": "File age 79d exceeds freshness threshold for policy"
+      "reason": "File age 80d exceeds freshness threshold for policy"
     },
     {
       "path": "sectors/high-roi-niches/bd-market/pricing-guide.md",
       "sector": "high-roi-niches",
       "category": "pricing",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "critical",
       "priority": "P0",
       "stale_after_days": 14,
       "critical_after_days": 30,
-      "reason": "File age 79d exceeds freshness threshold for pricing"
+      "reason": "File age 80d exceeds freshness threshold for pricing"
     },
     {
       "path": "sectors/high-roi-niches/bd-market/sentiment-analysis.md",
       "sector": "high-roi-niches",
       "category": "sentiment",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "critical",
       "priority": "P0",
       "stale_after_days": 21,
       "critical_after_days": 42,
-      "reason": "File age 79d exceeds freshness threshold for sentiment"
+      "reason": "File age 80d exceeds freshness threshold for sentiment"
     },
     {
       "path": "sectors/jewellery/bd-market/strategy-canvas.md",
       "sector": "jewellery",
       "category": "pricing",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "critical",
       "priority": "P0",
       "stale_after_days": 14,
       "critical_after_days": 30,
-      "reason": "File age 79d exceeds freshness threshold for pricing"
+      "reason": "File age 80d exceeds freshness threshold for pricing"
     },
     {
       "path": "sectors/jewellery/bd-market/regulatory.md",
       "sector": "jewellery",
       "category": "policy",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "critical",
       "priority": "P0",
       "stale_after_days": 7,
       "critical_after_days": 21,
-      "reason": "File age 79d exceeds freshness threshold for policy"
+      "reason": "File age 80d exceeds freshness threshold for policy"
     },
     {
       "path": "sectors/jewellery/bd-market/pricing-guide.md",
       "sector": "jewellery",
       "category": "pricing",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "critical",
       "priority": "P0",
       "stale_after_days": 14,
       "critical_after_days": 30,
-      "reason": "File age 79d exceeds freshness threshold for pricing"
+      "reason": "File age 80d exceeds freshness threshold for pricing"
     },
     {
       "path": "sectors/jewellery/bd-market/sentiment-analysis.md",
       "sector": "jewellery",
       "category": "sentiment",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "critical",
       "priority": "P0",
       "stale_after_days": 21,
       "critical_after_days": 42,
-      "reason": "File age 79d exceeds freshness threshold for sentiment"
+      "reason": "File age 80d exceeds freshness threshold for sentiment"
     },
     {
       "path": "sectors/logistics-transport/bd-market/regulatory.md",
       "sector": "logistics-transport",
       "category": "policy",
-      "age_days": 21,
+      "age_days": 22,
       "stale_type": "critical",
       "priority": "P0",
       "stale_after_days": 7,
       "critical_after_days": 21,
-      "reason": "File age 21d exceeds freshness threshold for policy"
+      "reason": "File age 22d exceeds freshness threshold for policy"
     },
     {
       "path": "sectors/logistics-transport/bd-market/competitors/ (directory)",
@@ -429,45 +451,45 @@
       "path": "sectors/media-marketing-digital/bd-market/strategy-canvas.md",
       "sector": "media-marketing-digital",
       "category": "pricing",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "critical",
       "priority": "P0",
       "stale_after_days": 14,
       "critical_after_days": 30,
-      "reason": "File age 79d exceeds freshness threshold for pricing"
+      "reason": "File age 80d exceeds freshness threshold for pricing"
     },
     {
       "path": "sectors/media-marketing-digital/bd-market/regulatory.md",
       "sector": "media-marketing-digital",
       "category": "policy",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "critical",
       "priority": "P0",
       "stale_after_days": 7,
       "critical_after_days": 21,
-      "reason": "File age 79d exceeds freshness threshold for policy"
+      "reason": "File age 80d exceeds freshness threshold for policy"
     },
     {
       "path": "sectors/media-marketing-digital/bd-market/pricing-guide.md",
       "sector": "media-marketing-digital",
       "category": "pricing",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "critical",
       "priority": "P0",
       "stale_after_days": 14,
       "critical_after_days": 30,
-      "reason": "File age 79d exceeds freshness threshold for pricing"
+      "reason": "File age 80d exceeds freshness threshold for pricing"
     },
     {
       "path": "sectors/media-marketing-digital/bd-market/sentiment-analysis.md",
       "sector": "media-marketing-digital",
       "category": "sentiment",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "critical",
       "priority": "P0",
       "stale_after_days": 21,
       "critical_after_days": 42,
-      "reason": "File age 79d exceeds freshness threshold for sentiment"
+      "reason": "File age 80d exceeds freshness threshold for sentiment"
     },
     {
       "path": "sectors/service-agents-distribution/bd-market/go-to-market.md",
@@ -572,84 +594,84 @@
       "path": "sectors/travel-tourism/bd-market/strategy-canvas.md",
       "sector": "travel-tourism",
       "category": "pricing",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "critical",
       "priority": "P0",
       "stale_after_days": 14,
       "critical_after_days": 30,
-      "reason": "File age 79d exceeds freshness threshold for pricing"
+      "reason": "File age 80d exceeds freshness threshold for pricing"
     },
     {
       "path": "sectors/travel-tourism/bd-market/regulatory.md",
       "sector": "travel-tourism",
       "category": "policy",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "critical",
       "priority": "P0",
       "stale_after_days": 7,
       "critical_after_days": 21,
-      "reason": "File age 79d exceeds freshness threshold for policy"
+      "reason": "File age 80d exceeds freshness threshold for policy"
     },
     {
       "path": "sectors/travel-tourism/bd-market/pricing-guide.md",
       "sector": "travel-tourism",
       "category": "pricing",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "critical",
       "priority": "P0",
       "stale_after_days": 14,
       "critical_after_days": 30,
-      "reason": "File age 79d exceeds freshness threshold for pricing"
+      "reason": "File age 80d exceeds freshness threshold for pricing"
     },
     {
       "path": "sectors/travel-tourism/bd-market/sentiment-analysis.md",
       "sector": "travel-tourism",
       "category": "sentiment",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "critical",
       "priority": "P0",
       "stale_after_days": 21,
       "critical_after_days": 42,
-      "reason": "File age 79d exceeds freshness threshold for sentiment"
+      "reason": "File age 80d exceeds freshness threshold for sentiment"
     },
     {
       "path": "sectors/agriculture-agro/bd-market/strategy-canvas.md",
       "sector": "agriculture-agro",
       "category": "pricing",
-      "age_days": 21,
+      "age_days": 22,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 14,
       "critical_after_days": 30,
-      "reason": "File age 21d exceeds freshness threshold for pricing"
+      "reason": "File age 22d exceeds freshness threshold for pricing"
     },
     {
       "path": "sectors/agriculture-agro/bd-market/pricing-guide.md",
       "sector": "agriculture-agro",
       "category": "pricing",
-      "age_days": 21,
+      "age_days": 22,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 14,
       "critical_after_days": 30,
-      "reason": "File age 21d exceeds freshness threshold for pricing"
+      "reason": "File age 22d exceeds freshness threshold for pricing"
     },
     {
       "path": "sectors/agriculture-agro/bd-market/sentiment-analysis.md",
       "sector": "agriculture-agro",
       "category": "sentiment",
-      "age_days": 21,
+      "age_days": 22,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 21,
       "critical_after_days": 42,
-      "reason": "File age 21d exceeds freshness threshold for sentiment"
+      "reason": "File age 22d exceeds freshness threshold for sentiment"
     },
     {
       "path": "sectors/automotive-car-care/bd-market/README.md",
       "sector": "automotive-car-care",
       "category": "default",
-      "age_days": 11,
+      "age_days": 0,
       "stale_type": "stale_reference",
       "priority": "P1",
       "stale_after_days": 90,
@@ -660,18 +682,18 @@
       "path": "sectors/automotive-car-care/bd-market/research/2026-05-06-full-landscape-report.md",
       "sector": "automotive-car-care",
       "category": "competitor_core_profile",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 45,
       "critical_after_days": 90,
-      "reason": "File age 79d exceeds freshness threshold for competitor_core_profile"
+      "reason": "File age 80d exceeds freshness threshold for competitor_core_profile"
     },
     {
       "path": "sectors/bim-global-outreach/bd-market/README.md",
       "sector": "bim-global-outreach",
       "category": "default",
-      "age_days": 11,
+      "age_days": 0,
       "stale_type": "stale_reference",
       "priority": "P1",
       "stale_after_days": 90,
@@ -679,43 +701,21 @@
       "reason": "Contains stale year references: 2024, 2025"
     },
     {
-      "path": "sectors/bim-global-outreach/bd-market/strategy-canvas.md",
-      "sector": "bim-global-outreach",
-      "category": "pricing",
-      "age_days": 29,
-      "stale_type": "stale",
-      "priority": "P1",
-      "stale_after_days": 14,
-      "critical_after_days": 30,
-      "reason": "File age 29d exceeds freshness threshold for pricing"
-    },
-    {
-      "path": "sectors/bim-global-outreach/bd-market/pricing-guide.md",
-      "sector": "bim-global-outreach",
-      "category": "pricing",
-      "age_days": 29,
-      "stale_type": "stale",
-      "priority": "P1",
-      "stale_after_days": 14,
-      "critical_after_days": 30,
-      "reason": "File age 29d exceeds freshness threshold for pricing"
-    },
-    {
       "path": "sectors/bim-global-outreach/bd-market/sentiment-analysis.md",
       "sector": "bim-global-outreach",
       "category": "sentiment",
-      "age_days": 29,
+      "age_days": 30,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 21,
       "critical_after_days": 42,
-      "reason": "File age 29d exceeds freshness threshold for sentiment"
+      "reason": "File age 30d exceeds freshness threshold for sentiment"
     },
     {
       "path": "sectors/clothing-fashion/bd-market/README.md",
       "sector": "clothing-fashion",
       "category": "default",
-      "age_days": 11,
+      "age_days": 0,
       "stale_type": "stale_reference",
       "priority": "P1",
       "stale_after_days": 90,
@@ -726,95 +726,95 @@
       "path": "sectors/clothing-fashion/bd-market/research/2026-05-06-full-landscape-report.md",
       "sector": "clothing-fashion",
       "category": "competitor_core_profile",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 45,
       "critical_after_days": 90,
-      "reason": "File age 79d exceeds freshness threshold for competitor_core_profile"
+      "reason": "File age 80d exceeds freshness threshold for competitor_core_profile"
     },
     {
       "path": "sectors/construction-real-estate/bd-market/strategy-canvas.md",
       "sector": "construction-real-estate",
       "category": "pricing",
-      "age_days": 21,
+      "age_days": 22,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 14,
       "critical_after_days": 30,
-      "reason": "File age 21d exceeds freshness threshold for pricing"
+      "reason": "File age 22d exceeds freshness threshold for pricing"
     },
     {
       "path": "sectors/construction-real-estate/bd-market/pricing-guide.md",
       "sector": "construction-real-estate",
       "category": "pricing",
-      "age_days": 21,
+      "age_days": 22,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 14,
       "critical_after_days": 30,
-      "reason": "File age 21d exceeds freshness threshold for pricing"
+      "reason": "File age 22d exceeds freshness threshold for pricing"
     },
     {
       "path": "sectors/construction-real-estate/bd-market/sentiment-analysis.md",
       "sector": "construction-real-estate",
       "category": "sentiment",
-      "age_days": 21,
+      "age_days": 22,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 21,
       "critical_after_days": 42,
-      "reason": "File age 21d exceeds freshness threshold for sentiment"
+      "reason": "File age 22d exceeds freshness threshold for sentiment"
     },
     {
       "path": "sectors/crypto-bitcoin/bd-market/research/2026-05-06-full-landscape-report.md",
       "sector": "crypto-bitcoin",
       "category": "competitor_core_profile",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 45,
       "critical_after_days": 90,
-      "reason": "File age 79d exceeds freshness threshold for competitor_core_profile"
+      "reason": "File age 80d exceeds freshness threshold for competitor_core_profile"
     },
     {
       "path": "sectors/education-training/bd-market/strategy-canvas.md",
       "sector": "education-training",
       "category": "pricing",
-      "age_days": 21,
+      "age_days": 22,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 14,
       "critical_after_days": 30,
-      "reason": "File age 21d exceeds freshness threshold for pricing"
+      "reason": "File age 22d exceeds freshness threshold for pricing"
     },
     {
       "path": "sectors/education-training/bd-market/pricing-guide.md",
       "sector": "education-training",
       "category": "pricing",
-      "age_days": 21,
+      "age_days": 22,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 14,
       "critical_after_days": 30,
-      "reason": "File age 21d exceeds freshness threshold for pricing"
+      "reason": "File age 22d exceeds freshness threshold for pricing"
     },
     {
       "path": "sectors/education-training/bd-market/sentiment-analysis.md",
       "sector": "education-training",
       "category": "sentiment",
-      "age_days": 21,
+      "age_days": 22,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 21,
       "critical_after_days": 42,
-      "reason": "File age 21d exceeds freshness threshold for sentiment"
+      "reason": "File age 22d exceeds freshness threshold for sentiment"
     },
     {
       "path": "sectors/electronics-gadgets/bd-market/README.md",
       "sector": "electronics-gadgets",
       "category": "default",
-      "age_days": 11,
+      "age_days": 0,
       "stale_type": "stale_reference",
       "priority": "P1",
       "stale_after_days": 90,
@@ -825,18 +825,18 @@
       "path": "sectors/electronics-gadgets/bd-market/research/2026-05-06-full-landscape-report.md",
       "sector": "electronics-gadgets",
       "category": "competitor_core_profile",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 45,
       "critical_after_days": 90,
-      "reason": "File age 79d exceeds freshness threshold for competitor_core_profile"
+      "reason": "File age 80d exceeds freshness threshold for competitor_core_profile"
     },
     {
       "path": "sectors/food-beverage/bd-market/README.md",
       "sector": "food-beverage",
       "category": "default",
-      "age_days": 11,
+      "age_days": 0,
       "stale_type": "stale_reference",
       "priority": "P1",
       "stale_after_days": 90,
@@ -847,40 +847,40 @@
       "path": "sectors/food-beverage/bd-market/strategy-canvas.md",
       "sector": "food-beverage",
       "category": "pricing",
-      "age_days": 21,
+      "age_days": 22,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 14,
       "critical_after_days": 30,
-      "reason": "File age 21d exceeds freshness threshold for pricing"
+      "reason": "File age 22d exceeds freshness threshold for pricing"
     },
     {
       "path": "sectors/food-beverage/bd-market/pricing-guide.md",
       "sector": "food-beverage",
       "category": "pricing",
-      "age_days": 21,
+      "age_days": 22,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 14,
       "critical_after_days": 30,
-      "reason": "File age 21d exceeds freshness threshold for pricing"
+      "reason": "File age 22d exceeds freshness threshold for pricing"
     },
     {
       "path": "sectors/food-beverage/bd-market/sentiment-analysis.md",
       "sector": "food-beverage",
       "category": "sentiment",
-      "age_days": 21,
+      "age_days": 22,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 21,
       "critical_after_days": 42,
-      "reason": "File age 21d exceeds freshness threshold for sentiment"
+      "reason": "File age 22d exceeds freshness threshold for sentiment"
     },
     {
       "path": "sectors/healthcare-pharma/bd-market/README.md",
       "sector": "healthcare-pharma",
       "category": "default",
-      "age_days": 11,
+      "age_days": 0,
       "stale_type": "stale_reference",
       "priority": "P1",
       "stale_after_days": 90,
@@ -891,40 +891,40 @@
       "path": "sectors/healthcare-pharma/bd-market/strategy-canvas.md",
       "sector": "healthcare-pharma",
       "category": "pricing",
-      "age_days": 21,
+      "age_days": 22,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 14,
       "critical_after_days": 30,
-      "reason": "File age 21d exceeds freshness threshold for pricing"
+      "reason": "File age 22d exceeds freshness threshold for pricing"
     },
     {
       "path": "sectors/healthcare-pharma/bd-market/pricing-guide.md",
       "sector": "healthcare-pharma",
       "category": "pricing",
-      "age_days": 21,
+      "age_days": 22,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 14,
       "critical_after_days": 30,
-      "reason": "File age 21d exceeds freshness threshold for pricing"
+      "reason": "File age 22d exceeds freshness threshold for pricing"
     },
     {
       "path": "sectors/healthcare-pharma/bd-market/sentiment-analysis.md",
       "sector": "healthcare-pharma",
       "category": "sentiment",
-      "age_days": 21,
+      "age_days": 22,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 21,
       "critical_after_days": 42,
-      "reason": "File age 21d exceeds freshness threshold for sentiment"
+      "reason": "File age 22d exceeds freshness threshold for sentiment"
     },
     {
       "path": "sectors/high-roi-niches/bd-market/README.md",
       "sector": "high-roi-niches",
       "category": "default",
-      "age_days": 11,
+      "age_days": 0,
       "stale_type": "stale_reference",
       "priority": "P1",
       "stale_after_days": 90,
@@ -935,18 +935,18 @@
       "path": "sectors/high-roi-niches/bd-market/research/2026-05-06-full-landscape-report.md",
       "sector": "high-roi-niches",
       "category": "competitor_core_profile",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 45,
       "critical_after_days": 90,
-      "reason": "File age 79d exceeds freshness threshold for competitor_core_profile"
+      "reason": "File age 80d exceeds freshness threshold for competitor_core_profile"
     },
     {
       "path": "sectors/jewellery/bd-market/README.md",
       "sector": "jewellery",
       "category": "default",
-      "age_days": 11,
+      "age_days": 0,
       "stale_type": "stale_reference",
       "priority": "P1",
       "stale_after_days": 90,
@@ -957,18 +957,18 @@
       "path": "sectors/jewellery/bd-market/research/2026-05-06-full-landscape-report.md",
       "sector": "jewellery",
       "category": "competitor_core_profile",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 45,
       "critical_after_days": 90,
-      "reason": "File age 79d exceeds freshness threshold for competitor_core_profile"
+      "reason": "File age 80d exceeds freshness threshold for competitor_core_profile"
     },
     {
       "path": "sectors/logistics-transport/bd-market/README.md",
       "sector": "logistics-transport",
       "category": "default",
-      "age_days": 11,
+      "age_days": 0,
       "stale_type": "stale_reference",
       "priority": "P1",
       "stale_after_days": 90,
@@ -979,40 +979,40 @@
       "path": "sectors/logistics-transport/bd-market/strategy-canvas.md",
       "sector": "logistics-transport",
       "category": "pricing",
-      "age_days": 21,
+      "age_days": 22,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 14,
       "critical_after_days": 30,
-      "reason": "File age 21d exceeds freshness threshold for pricing"
+      "reason": "File age 22d exceeds freshness threshold for pricing"
     },
     {
       "path": "sectors/logistics-transport/bd-market/pricing-guide.md",
       "sector": "logistics-transport",
       "category": "pricing",
-      "age_days": 21,
+      "age_days": 22,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 14,
       "critical_after_days": 30,
-      "reason": "File age 21d exceeds freshness threshold for pricing"
+      "reason": "File age 22d exceeds freshness threshold for pricing"
     },
     {
       "path": "sectors/logistics-transport/bd-market/sentiment-analysis.md",
       "sector": "logistics-transport",
       "category": "sentiment",
-      "age_days": 21,
+      "age_days": 22,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 21,
       "critical_after_days": 42,
-      "reason": "File age 21d exceeds freshness threshold for sentiment"
+      "reason": "File age 22d exceeds freshness threshold for sentiment"
     },
     {
       "path": "sectors/media-marketing-digital/bd-market/README.md",
       "sector": "media-marketing-digital",
       "category": "default",
-      "age_days": 11,
+      "age_days": 0,
       "stale_type": "stale_reference",
       "priority": "P1",
       "stale_after_days": 90,
@@ -1023,18 +1023,18 @@
       "path": "sectors/media-marketing-digital/bd-market/research/2026-05-06-full-landscape-report.md",
       "sector": "media-marketing-digital",
       "category": "competitor_core_profile",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 45,
       "critical_after_days": 90,
-      "reason": "File age 79d exceeds freshness threshold for competitor_core_profile"
+      "reason": "File age 80d exceeds freshness threshold for competitor_core_profile"
     },
     {
       "path": "sectors/travel-tourism/bd-market/README.md",
       "sector": "travel-tourism",
       "category": "default",
-      "age_days": 11,
+      "age_days": 0,
       "stale_type": "stale_reference",
       "priority": "P1",
       "stale_after_days": 90,
@@ -1045,188 +1045,188 @@
       "path": "sectors/travel-tourism/bd-market/research/2026-05-06-full-landscape-report.md",
       "sector": "travel-tourism",
       "category": "competitor_core_profile",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "stale",
       "priority": "P1",
       "stale_after_days": 45,
       "critical_after_days": 90,
-      "reason": "File age 79d exceeds freshness threshold for competitor_core_profile"
+      "reason": "File age 80d exceeds freshness threshold for competitor_core_profile"
     },
     {
       "path": "sectors/automotive-car-care/bd-market/go-to-market.md",
       "sector": "automotive-car-care",
       "category": "default",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "approaching_stale",
       "priority": "P2",
       "stale_after_days": 90,
       "critical_after_days": 180,
-      "reason": "File age 79d exceeds freshness threshold for default"
+      "reason": "File age 80d exceeds freshness threshold for default"
     },
     {
       "path": "sectors/automotive-car-care/bd-market/risk-register.md",
       "sector": "automotive-car-care",
       "category": "default",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "approaching_stale",
       "priority": "P2",
       "stale_after_days": 90,
       "critical_after_days": 180,
-      "reason": "File age 79d exceeds freshness threshold for default"
+      "reason": "File age 80d exceeds freshness threshold for default"
     },
     {
       "path": "sectors/clothing-fashion/bd-market/go-to-market.md",
       "sector": "clothing-fashion",
       "category": "default",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "approaching_stale",
       "priority": "P2",
       "stale_after_days": 90,
       "critical_after_days": 180,
-      "reason": "File age 79d exceeds freshness threshold for default"
+      "reason": "File age 80d exceeds freshness threshold for default"
     },
     {
       "path": "sectors/clothing-fashion/bd-market/risk-register.md",
       "sector": "clothing-fashion",
       "category": "default",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "approaching_stale",
       "priority": "P2",
       "stale_after_days": 90,
       "critical_after_days": 180,
-      "reason": "File age 79d exceeds freshness threshold for default"
+      "reason": "File age 80d exceeds freshness threshold for default"
     },
     {
       "path": "sectors/crypto-bitcoin/bd-market/go-to-market.md",
       "sector": "crypto-bitcoin",
       "category": "default",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "approaching_stale",
       "priority": "P2",
       "stale_after_days": 90,
       "critical_after_days": 180,
-      "reason": "File age 79d exceeds freshness threshold for default"
+      "reason": "File age 80d exceeds freshness threshold for default"
     },
     {
       "path": "sectors/crypto-bitcoin/bd-market/risk-register.md",
       "sector": "crypto-bitcoin",
       "category": "default",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "approaching_stale",
       "priority": "P2",
       "stale_after_days": 90,
       "critical_after_days": 180,
-      "reason": "File age 79d exceeds freshness threshold for default"
+      "reason": "File age 80d exceeds freshness threshold for default"
     },
     {
       "path": "sectors/electronics-gadgets/bd-market/go-to-market.md",
       "sector": "electronics-gadgets",
       "category": "default",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "approaching_stale",
       "priority": "P2",
       "stale_after_days": 90,
       "critical_after_days": 180,
-      "reason": "File age 79d exceeds freshness threshold for default"
+      "reason": "File age 80d exceeds freshness threshold for default"
     },
     {
       "path": "sectors/electronics-gadgets/bd-market/risk-register.md",
       "sector": "electronics-gadgets",
       "category": "default",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "approaching_stale",
       "priority": "P2",
       "stale_after_days": 90,
       "critical_after_days": 180,
-      "reason": "File age 79d exceeds freshness threshold for default"
+      "reason": "File age 80d exceeds freshness threshold for default"
     },
     {
       "path": "sectors/high-roi-niches/bd-market/go-to-market.md",
       "sector": "high-roi-niches",
       "category": "default",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "approaching_stale",
       "priority": "P2",
       "stale_after_days": 90,
       "critical_after_days": 180,
-      "reason": "File age 79d exceeds freshness threshold for default"
+      "reason": "File age 80d exceeds freshness threshold for default"
     },
     {
       "path": "sectors/high-roi-niches/bd-market/risk-register.md",
       "sector": "high-roi-niches",
       "category": "default",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "approaching_stale",
       "priority": "P2",
       "stale_after_days": 90,
       "critical_after_days": 180,
-      "reason": "File age 79d exceeds freshness threshold for default"
+      "reason": "File age 80d exceeds freshness threshold for default"
     },
     {
       "path": "sectors/jewellery/bd-market/go-to-market.md",
       "sector": "jewellery",
       "category": "default",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "approaching_stale",
       "priority": "P2",
       "stale_after_days": 90,
       "critical_after_days": 180,
-      "reason": "File age 79d exceeds freshness threshold for default"
+      "reason": "File age 80d exceeds freshness threshold for default"
     },
     {
       "path": "sectors/jewellery/bd-market/risk-register.md",
       "sector": "jewellery",
       "category": "default",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "approaching_stale",
       "priority": "P2",
       "stale_after_days": 90,
       "critical_after_days": 180,
-      "reason": "File age 79d exceeds freshness threshold for default"
+      "reason": "File age 80d exceeds freshness threshold for default"
     },
     {
       "path": "sectors/media-marketing-digital/bd-market/go-to-market.md",
       "sector": "media-marketing-digital",
       "category": "default",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "approaching_stale",
       "priority": "P2",
       "stale_after_days": 90,
       "critical_after_days": 180,
-      "reason": "File age 79d exceeds freshness threshold for default"
+      "reason": "File age 80d exceeds freshness threshold for default"
     },
     {
       "path": "sectors/media-marketing-digital/bd-market/risk-register.md",
       "sector": "media-marketing-digital",
       "category": "default",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "approaching_stale",
       "priority": "P2",
       "stale_after_days": 90,
       "critical_after_days": 180,
-      "reason": "File age 79d exceeds freshness threshold for default"
+      "reason": "File age 80d exceeds freshness threshold for default"
     },
     {
       "path": "sectors/travel-tourism/bd-market/go-to-market.md",
       "sector": "travel-tourism",
       "category": "default",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "approaching_stale",
       "priority": "P2",
       "stale_after_days": 90,
       "critical_after_days": 180,
-      "reason": "File age 79d exceeds freshness threshold for default"
+      "reason": "File age 80d exceeds freshness threshold for default"
     },
     {
       "path": "sectors/travel-tourism/bd-market/risk-register.md",
       "sector": "travel-tourism",
       "category": "default",
-      "age_days": 79,
+      "age_days": 80,
       "stale_type": "approaching_stale",
       "priority": "P2",
       "stale_after_days": 90,
       "critical_after_days": 180,
-      "reason": "File age 79d exceeds freshness threshold for default"
+      "reason": "File age 80d exceeds freshness threshold for default"
     }
   ]
 }

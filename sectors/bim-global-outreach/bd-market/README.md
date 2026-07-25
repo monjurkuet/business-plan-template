@@ -1,9 +1,9 @@
 ---
 sector: bim-global-outreach
-last_verified: 2026-07-25
+last_verified: 2026-07-26
 freshness: fresh
-confidence: 0.639
-evidence_ids: ['2eba26ba-62d', '02bef6fb-0e4', '22896e4c-85a', 'ea81dee2-d96', '3a867d67-353', 'dd6a1017-9c5', '1bbd1d40-fa0', '07166738-87b', '40e86e19-4f4', 'c7bc8a3f-9a1', '2bc2c1ae-9ef', 'eedbfc8c-f50', 'a7b5f27c-ff9', '8ca591c7-1d7', '1e5873f4-bf0', 'baf6fac4-087', 'a596184b-665', '4feb023a-592', 'b5ae9a25-ff1', 'e27ff4fd-6a9']
+confidence: 0.657
+evidence_ids: ['9f0dc541-c24', 'c20f80c9-3d6', '823173e3-ccc', '1e4c323f-c10', '3b32f480-78d', 'f2a2de37-775', '60e92ad3-577', '6b114f0f-ed2', '31cd6733-8f3', '9a4bd04e-b49', '6d6b4f4a-cae', '88c0a8ef-bf4', '733018f3-ee7', '9d46d75e-ed5', 'f8ba8ffd-d34', '4fb438be-4cb', '54c87b7e-70b', '77596551-22e', 'db48b30b-46a', '1837d72a-975']
 ---
 
 # BIM Global Outreach — Global Market Sector
