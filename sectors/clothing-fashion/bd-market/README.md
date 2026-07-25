@@ -1,9 +1,9 @@
 ---
 sector: clothing-fashion
-last_verified: 2026-07-14
+last_verified: 2026-07-25
 freshness: fresh
-confidence: 0.601
-evidence_ids: ['8cd0eb85-7a3', '91cd7a22-0cb', '81122a4a-d23', 'bd2a72a2-854', '52e1a14d-6ea', '99f42ac0-e7f', '5162cb99-fd2', '0b01f580-5be', '4961de31-bb6', '07a38eea-508', 'b6e910c3-833', '83031daf-2b2', 'bfa622d8-049', '311e3e86-a60', '34a7154f-ea0', '23104cbf-09a', 'be4feed0-111', '9590c4a2-0e2', 'a983afd6-b44', '72c35ae1-b24']
+confidence: 0.715
+evidence_ids: ['2876f382-416', 'e6dfe4ce-a18', 'c1ae7ea8-4b8', 'd1f6aae1-848', '8b8cc5f5-8da', '442d9454-cb3', 'c3d8830b-c07', '678faa6a-24c', '9f9d3aaf-d4f', '9e32d6ff-580', '2f8effc5-c49', '06630be2-bdd', '98c4e11d-3f3', 'f18d5225-ce9', '8b8aafa2-d95', 'f98692bd-337', '371851de-9f7', '86850425-c5a', 'dcf0ac4a-9ba', 'adcc8242-5c1']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -180,22 +180,20 @@ evidence_ids: ['8cd0eb85-7a3', '91cd7a22-0cb', '81122a4a-d23', 'bd2a72a2-854', '
 
 
 
-## Auto-Updated Data (2026-07-14)
+
+## Auto-Updated Data (2026-07-25)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Tyzo | search | 1.00 |
-| clothing-fashion | search | 1.00 |
-| modern Bangladeshi clothing brand offering stylish, comfortable, and affordable  | search | 1.00 |
-| ['premium-quality outfits', 'perfect fits', 'fast delivery', 'reliable service'] | search | 0.90 |
-| Bangladesh | search | 1.00 |
-| Twelve Clothing | search | 1.00 |
-| fashion | search | 1.00 |
-| ['menswear', 'womenswear', 'kidswear', 'panjabi', 'kurti', 'gowns', 't-shirts',  | search | 1.00 |
-| leading fashion brand | search | 0.95 |
-| 1490 | search | 0.95 |
-| 2490 | search | 0.95 |
-| Womens Clothing | search | 1.00 |
-| Zaina Vol 19 Pakistani Suit | search | 0.95 |
-| 2026-07 | search | 0.90 |
-| Best prices in home delivery | search | 0.80 |
+| baggy pants | search | 0.95 |
+| boys, youth | search | 0.90 |
+| affordable | search | 0.85 |
+| all over Bangladesh | search | 0.95 |
+| ['free shipping', 'fast delivery', 'free return'] | search | 0.95 |
+| factory_price | search | 0.90 |
+| highest-quality custom apparel | search | 0.90 |
+| Islampur Three Piece Wholesale Market | search | 1.00 |
+| wholesale | search | 1.00 |
+| three piece | search | 0.90 |
+| 88 | search | 0.95 |
+| decreasing | search | 0.90 |

@@ -1,9 +1,9 @@
 ---
 sector: automotive-car-care
-last_verified: 2026-07-14
+last_verified: 2026-07-25
 freshness: fresh
-confidence: 0.616
-evidence_ids: ['14d3a8c5-b88', '7e82f18c-f56', 'daa719d9-44b', '1ae1dce7-157', 'eb014eb3-5c7', '06da9be2-3a5', '3535eb7a-d26', 'd064ebb2-cc9', '6d0fb065-bd0', '5a44aab6-eb0', '235749db-c69', '0cb38d1e-f4c', 'b82a1711-d86', '10042247-593', 'eb4ab323-e15', '7a93f0d9-d96', '88955546-a80', '7f95f50e-5db', '0dc5f0ea-d5c', 'b8d9359b-ae9']
+confidence: 0.693
+evidence_ids: ['b7ac09b9-c30', '0969269c-c58', '216d24c8-052', 'e70e322e-9ca', '82fc66de-faf', '6205771b-90d', '8e26a3d4-d48', 'fc02887d-9e5', 'dfe966fb-c39', '1a6204e0-24a', '9bbd386f-285', '1fe06ce1-d27', 'dd34c1a1-4c0', '63a81c1c-cba', 'a40ac0ce-34c', '20dea6cc-6ca', '1018354e-d36', 'a32215b3-278', '4f2233a9-5bc', '80b91cc9-3f8']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -191,22 +191,14 @@ evidence_ids: ['14d3a8c5-b88', '7e82f18c-f56', 'daa719d9-44b', '1ae1dce7-157', '
 
 
 
-## Auto-Updated Data (2026-07-14)
+
+## Auto-Updated Data (2026-07-25)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 900 | search | 0.95 |
-| 2500 | search | 0.95 |
-| Exterior wash | search | 0.95 |
-| Interior deep cleaning | search | 0.95 |
-| car wash and polish | search | 0.95 |
-| Dhaka, Bangladesh | search | 0.95 |
-| Biswas Automobiles | search | 0.95 |
-| car wash and auto cleaning | search | 0.95 |
-| CAR WASH BD | search | 0.95 |
-| network of reliable and competent vehicle repair and service providers | search | 0.90 |
-| Basic Car Wash | search | 0.95 |
-| Premium Car Wash | search | 0.95 |
-| Pressure Wash with Foam, Interior Dry Vacuum, General Wiping | search | 0.90 |
-| Car detailing services in Dhaka, Bangladesh, tailored for eco-conscious drivers  | search | 0.90 |
-| Affordable | search | 0.85 |
+| Free Bike & Car Wash | search | 1.00 |
+| Savar, Dhaka | search | 1.00 |
+| Kärcher | search | 1.00 |
+| Metroshine Express Ltd | search | 1.00 |
+| 01933328888 | search | 1.00 |
+| waterless car wash | search | 1.00 |
