@@ -1,9 +1,9 @@
 ---
 sector: travel-tourism
-last_verified: 2026-07-26
+last_verified: 2026-07-27
 freshness: fresh
-confidence: 0.678
-evidence_ids: ['ca4de478-1bc', 'c7e823f0-f19', 'e7a850be-a5a', '40f3ca69-3e2', 'c2b82be6-fd0', 'bd3013bb-5b3', '5e9ec10a-007', 'be1e5793-277', 'fc479570-5de', '537e5a79-929', '3d965a0b-3e3', 'f9efbdcd-ec6', '1582e1f5-964', '3d33dbe9-d10', '2ee95b97-fb2', 'e397fec4-a99', '3993673f-1ee', '26e65701-f5d', '366e9ce8-37d', 'fce31aee-1c4']
+confidence: 0.675
+evidence_ids: ['8fc1ee4b-d04', 'aee2fe92-88e', '8470dc5e-d1f', 'bb51261d-ad5', '205b9956-ebf', '030fec66-003', 'b71fa284-941', 'eeaaeaf0-7e8', 'a1481e5d-d85', 'e0aadbb3-8b8', '1b21b88c-b1a', '8982c816-624', 'c1d8a4be-4f8', '02297a25-fb2', '914c4252-91f', '71a3fb40-f26', 'e1a66fea-35a', 'c0849d26-085', 'db49a01d-cac', '0491dcf3-d71']
 ---
 
 # Travel & Tourism — Bangladesh Market

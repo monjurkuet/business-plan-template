@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T18:13:22.345969+00:00",
+  "generated_at": "2026-07-27T00:29:24.831588+00:00",
   "models_used": [
     "gemini-2.5-flash-lite",
     "deepseek-ai/deepseek-v4-pro",
@@ -32,7 +32,7 @@
       "sector": "agriculture-agro",
       "family": "policy_tracker",
       "priority": "P0",
-      "reason": "File age 22d exceeds freshness threshold for policy",
+      "reason": "File age 23d exceeds freshness threshold for policy",
       "source_model": "freshness_policy"
     },
     {
@@ -40,7 +40,7 @@
       "sector": "agriculture-agro",
       "family": "policy_tracker",
       "priority": "P0",
-      "reason": "File age 22d exceeds freshness threshold for policy",
+      "reason": "File age 23d exceeds freshness threshold for policy",
       "source_model": "freshness_policy"
     },
     {
@@ -64,7 +64,7 @@
       "sector": "automotive-car-care",
       "family": "pricing",
       "priority": "P0",
-      "reason": "File age 80d exceeds freshness threshold for pricing",
+      "reason": "File age 81d exceeds freshness threshold for pricing",
       "source_model": "freshness_policy"
     },
     {
@@ -72,7 +72,7 @@
       "sector": "automotive-car-care",
       "family": "pricing",
       "priority": "P0",
-      "reason": "File age 80d exceeds freshness threshold for pricing",
+      "reason": "File age 81d exceeds freshness threshold for pricing",
       "source_model": "freshness_policy"
     },
     {
@@ -80,7 +80,7 @@
       "sector": "automotive-car-care",
       "family": "policy_tracker",
       "priority": "P0",
-      "reason": "File age 80d exceeds freshness threshold for policy",
+      "reason": "File age 81d exceeds freshness threshold for policy",
       "source_model": "freshness_policy"
     },
     {
@@ -88,7 +88,7 @@
       "sector": "automotive-car-care",
       "family": "policy_tracker",
       "priority": "P0",
-      "reason": "File age 80d exceeds freshness threshold for policy",
+      "reason": "File age 81d exceeds freshness threshold for policy",
       "source_model": "freshness_policy"
     },
     {
@@ -96,7 +96,7 @@
       "sector": "automotive-car-care",
       "family": "sentiment",
       "priority": "P0",
-      "reason": "File age 80d exceeds freshness threshold for sentiment",
+      "reason": "File age 81d exceeds freshness threshold for sentiment",
       "source_model": "freshness_policy"
     },
     {
@@ -104,7 +104,7 @@
       "sector": "automotive-car-care",
       "family": "sentiment",
       "priority": "P0",
-      "reason": "File age 80d exceeds freshness threshold for sentiment",
+      "reason": "File age 81d exceeds freshness threshold for sentiment",
       "source_model": "freshness_policy"
     },
     {
@@ -112,7 +112,7 @@
       "sector": "bim-global-outreach",
       "family": "pricing",
       "priority": "P0",
-      "reason": "File age 30d exceeds freshness threshold for pricing",
+      "reason": "File age 31d exceeds freshness threshold for pricing",
       "source_model": "freshness_policy"
     },
     {
@@ -120,7 +120,7 @@
       "sector": "bim-global-outreach",
       "family": "pricing",
       "priority": "P0",
-      "reason": "File age 30d exceeds freshness threshold for pricing",
+      "reason": "File age 31d exceeds freshness threshold for pricing",
       "source_model": "freshness_policy"
     },
     {
@@ -128,7 +128,7 @@
       "sector": "bim-global-outreach",
       "family": "policy_tracker",
       "priority": "P0",
-      "reason": "File age 30d exceeds freshness threshold for policy",
+      "reason": "File age 31d exceeds freshness threshold for policy",
       "source_model": "freshness_policy"
     },
     {
@@ -136,7 +136,7 @@
       "sector": "bim-global-outreach",
       "family": "policy_tracker",
       "priority": "P0",
-      "reason": "File age 30d exceeds freshness threshold for policy",
+      "reason": "File age 31d exceeds freshness threshold for policy",
       "source_model": "freshness_policy"
     },
     {
@@ -144,7 +144,7 @@
       "sector": "clothing-fashion",
       "family": "pricing",
       "priority": "P0",
-      "reason": "File age 80d exceeds freshness threshold for pricing",
+      "reason": "File age 81d exceeds freshness threshold for pricing",
       "source_model": "freshness_policy"
     },
     {
@@ -152,7 +152,7 @@
       "sector": "clothing-fashion",
       "family": "pricing",
       "priority": "P0",
-      "reason": "File age 80d exceeds freshness threshold for pricing",
+      "reason": "File age 81d exceeds freshness threshold for pricing",
       "source_model": "freshness_policy"
     },
     {
@@ -160,7 +160,7 @@
       "sector": "clothing-fashion",
       "family": "policy_tracker",
       "priority": "P0",
-      "reason": "File age 80d exceeds freshness threshold for policy",
+      "reason": "File age 81d exceeds freshness threshold for policy",
       "source_model": "freshness_policy"
     },
     {
@@ -168,7 +168,7 @@
       "sector": "clothing-fashion",
       "family": "policy_tracker",
       "priority": "P0",
-      "reason": "File age 80d exceeds freshness threshold for policy",
+      "reason": "File age 81d exceeds freshness threshold for policy",
       "source_model": "freshness_policy"
     },
     {
@@ -176,7 +176,7 @@
       "sector": "clothing-fashion",
       "family": "sentiment",
       "priority": "P0",
-      "reason": "File age 80d exceeds freshness threshold for sentiment",
+      "reason": "File age 81d exceeds freshness threshold for sentiment",
       "source_model": "freshness_policy"
     },
     {
@@ -184,7 +184,7 @@
       "sector": "clothing-fashion",
       "family": "sentiment",
       "priority": "P0",
-      "reason": "File age 80d exceeds freshness threshold for sentiment",
+      "reason": "File age 81d exceeds freshness threshold for sentiment",
       "source_model": "freshness_policy"
     },
     {
@@ -192,7 +192,7 @@
       "sector": "construction-real-estate",
       "family": "policy_tracker",
       "priority": "P0",
-      "reason": "File age 22d exceeds freshness threshold for policy",
+      "reason": "File age 23d exceeds freshness threshold for policy",
       "source_model": "freshness_policy"
     },
     {
@@ -200,7 +200,7 @@
       "sector": "construction-real-estate",
       "family": "policy_tracker",
       "priority": "P0",
-      "reason": "File age 22d exceeds freshness threshold for policy",
+      "reason": "File age 23d exceeds freshness threshold for policy",
       "source_model": "freshness_policy"
     },
     {
@@ -232,7 +232,7 @@
       "sector": "agriculture-agro",
       "family": "pricing",
       "priority": "P1",
-      "reason": "File age 22d exceeds freshness threshold for pricing",
+      "reason": "File age 23d exceeds freshness threshold for pricing",
       "source_model": "freshness_policy"
     },
     {
@@ -240,7 +240,7 @@
       "sector": "agriculture-agro",
       "family": "pricing",
       "priority": "P1",
-      "reason": "File age 22d exceeds freshness threshold for pricing",
+      "reason": "File age 23d exceeds freshness threshold for pricing",
       "source_model": "freshness_policy"
     },
     {
@@ -248,7 +248,7 @@
       "sector": "agriculture-agro",
       "family": "sentiment",
       "priority": "P1",
-      "reason": "File age 22d exceeds freshness threshold for sentiment",
+      "reason": "File age 23d exceeds freshness threshold for sentiment",
       "source_model": "freshness_policy"
     },
     {
@@ -256,7 +256,7 @@
       "sector": "agriculture-agro",
       "family": "sentiment",
       "priority": "P1",
-      "reason": "File age 22d exceeds freshness threshold for sentiment",
+      "reason": "File age 23d exceeds freshness threshold for sentiment",
       "source_model": "freshness_policy"
     },
     {
@@ -280,7 +280,7 @@
       "sector": "automotive-car-care",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "File age 80d exceeds freshness threshold for competitor_core_profile",
+      "reason": "File age 81d exceeds freshness threshold for competitor_core_profile",
       "source_model": "freshness_policy"
     },
     {
@@ -288,7 +288,7 @@
       "sector": "automotive-car-care",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "File age 80d exceeds freshness threshold for competitor_core_profile",
+      "reason": "File age 81d exceeds freshness threshold for competitor_core_profile",
       "source_model": "freshness_policy"
     },
     {
@@ -312,7 +312,7 @@
       "sector": "bim-global-outreach",
       "family": "sentiment",
       "priority": "P1",
-      "reason": "File age 30d exceeds freshness threshold for sentiment",
+      "reason": "File age 31d exceeds freshness threshold for sentiment",
       "source_model": "freshness_policy"
     },
     {
@@ -320,7 +320,7 @@
       "sector": "bim-global-outreach",
       "family": "sentiment",
       "priority": "P1",
-      "reason": "File age 30d exceeds freshness threshold for sentiment",
+      "reason": "File age 31d exceeds freshness threshold for sentiment",
       "source_model": "freshness_policy"
     },
     {
@@ -344,7 +344,7 @@
       "sector": "clothing-fashion",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "File age 80d exceeds freshness threshold for competitor_core_profile",
+      "reason": "File age 81d exceeds freshness threshold for competitor_core_profile",
       "source_model": "freshness_policy"
     },
     {
@@ -352,7 +352,7 @@
       "sector": "clothing-fashion",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "File age 80d exceeds freshness threshold for competitor_core_profile",
+      "reason": "File age 81d exceeds freshness threshold for competitor_core_profile",
       "source_model": "freshness_policy"
     },
     {
@@ -360,7 +360,7 @@
       "sector": "construction-real-estate",
       "family": "pricing",
       "priority": "P1",
-      "reason": "File age 22d exceeds freshness threshold for pricing",
+      "reason": "File age 23d exceeds freshness threshold for pricing",
       "source_model": "freshness_policy"
     },
     {
@@ -368,7 +368,7 @@
       "sector": "construction-real-estate",
       "family": "pricing",
       "priority": "P1",
-      "reason": "File age 22d exceeds freshness threshold for pricing",
+      "reason": "File age 23d exceeds freshness threshold for pricing",
       "source_model": "freshness_policy"
     },
     {
@@ -376,7 +376,7 @@
       "sector": "construction-real-estate",
       "family": "sentiment",
       "priority": "P1",
-      "reason": "File age 22d exceeds freshness threshold for sentiment",
+      "reason": "File age 23d exceeds freshness threshold for sentiment",
       "source_model": "freshness_policy"
     },
     {
@@ -384,7 +384,7 @@
       "sector": "construction-real-estate",
       "family": "sentiment",
       "priority": "P1",
-      "reason": "File age 22d exceeds freshness threshold for sentiment",
+      "reason": "File age 23d exceeds freshness threshold for sentiment",
       "source_model": "freshness_policy"
     },
     {
@@ -392,7 +392,7 @@
       "sector": "crypto-bitcoin",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "File age 80d exceeds freshness threshold for competitor_core_profile",
+      "reason": "File age 81d exceeds freshness threshold for competitor_core_profile",
       "source_model": "freshness_policy"
     },
     {
@@ -400,7 +400,7 @@
       "sector": "crypto-bitcoin",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "File age 80d exceeds freshness threshold for competitor_core_profile",
+      "reason": "File age 81d exceeds freshness threshold for competitor_core_profile",
       "source_model": "freshness_policy"
     },
     {
@@ -408,7 +408,7 @@
       "sector": "education-training",
       "family": "pricing",
       "priority": "P1",
-      "reason": "File age 22d exceeds freshness threshold for pricing",
+      "reason": "File age 23d exceeds freshness threshold for pricing",
       "source_model": "freshness_policy"
     },
     {
@@ -416,7 +416,7 @@
       "sector": "education-training",
       "family": "pricing",
       "priority": "P1",
-      "reason": "File age 22d exceeds freshness threshold for pricing",
+      "reason": "File age 23d exceeds freshness threshold for pricing",
       "source_model": "freshness_policy"
     },
     {
@@ -424,7 +424,7 @@
       "sector": "education-training",
       "family": "sentiment",
       "priority": "P1",
-      "reason": "File age 22d exceeds freshness threshold for sentiment",
+      "reason": "File age 23d exceeds freshness threshold for sentiment",
       "source_model": "freshness_policy"
     }
   ]

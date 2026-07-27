@@ -1,6 +1,6 @@
 ---
 sector: bim-global-outreach
-last_verified: 2026-07-25
+last_verified: 2026-07-27
 freshness: fresh
 ---
 
@@ -91,8 +91,7 @@ freshness: fresh
 
 
 
-## Recent Findings (2026-07-25)
 
-- **en.wikipedia.org** (conf: 0.55): Practical, technical, and academic requirements for becoming an architect vary by jurisdiction though the formal study ofarchitecturein academic institutions has played a pivotal role in the developme
+## Recent Findings (2026-07-27)
 
 - **en.wikipedia.org** (conf: 0.55): Practical, technical, and academic requirements for becoming an architect vary by jurisdiction though the formal study ofarchitecturein academic institutions has played a pivotal role in the developme

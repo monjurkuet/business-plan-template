@@ -1,9 +1,9 @@
 ---
 sector: media-marketing-digital
-last_verified: 2026-07-26
+last_verified: 2026-07-27
 freshness: fresh
-confidence: 0.681
-evidence_ids: ['9f052370-a9f', '260748f5-3aa', '32c9577c-596', 'd5df5e04-bf3', 'a038d043-c0a', 'f4c0c91b-94b', '8b4c42bb-09c', '87bec0e6-6c7', '46fa6bc1-695', '92bbe48d-a0f', 'd544fba5-617', '65eb4493-989', '2acf8e04-320', '2a02da8a-bea', 'eda5b0de-f12', '69fab56e-440', '6895de0f-684', '5439d2a6-734', 'e9755f3a-30e', '39ea893e-bbf']
+confidence: 0.67
+evidence_ids: ['e90ab9b3-b1a', 'a716de67-7be', 'cbda5b24-a66', '5237aa41-d65', '91c81437-b57', '96cbba69-cbf', 'e3bed53e-7e6', '036a54f0-8bf', '41f6cad6-552', '0a3d06aa-564', 'e8dd221c-266', '10a8b3fa-389', '58c65877-f51', '1da1ad1d-8fc', '0f0c71a9-ba6', '29b9b041-b75', '50bbe9e9-0f7', '6580e39f-76a', 'd4c434e4-78b', '1abde1d6-a52']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market

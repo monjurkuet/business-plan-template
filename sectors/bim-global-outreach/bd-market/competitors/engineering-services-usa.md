@@ -1,6 +1,6 @@
 ---
 sector: bim-global-outreach
-last_verified: 2026-07-25
+last_verified: 2026-07-27
 freshness: fresh
 ---
 
@@ -147,6 +147,7 @@ freshness: fresh
 
 
 
-## Recent Findings (2026-07-25)
 
-- **remotive.com** (conf: 0.69): YDay - SI Solutions is hiring a remoteEngineeringConsultant. Salary: $96,880 - $135,000 Location: USA. Role Description. Structural Integrity Associates, Inc. (SIA) is seeking anEngineeringConsultantt
+## Recent Findings (2026-07-27)
+
+- **www.littlepeng.com** (conf: 0.69): Little P.Eng. forEngineeringServices in Piping design & stress Analysis; Located in Houston, Texas & serving our clients across Canada, USA. We serve oil & gas and commercial projects in mechanical an
