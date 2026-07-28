@@ -1,9 +1,9 @@
 ---
 sector: healthcare-pharma
-last_verified: 2026-07-27
+last_verified: 2026-07-29
 freshness: fresh
-confidence: 0.623
-evidence_ids: ['e42361f7-718', 'df1ddf6b-008', '097c0c9b-501', '4d9525a3-a3c', 'afff2be3-2ef', '1a3139f9-ee9', 'e7ad6477-f91', '47564b83-afb', 'd573d5e9-acc', '75e98ba8-35a', '80f61a90-d11', 'cdeae20f-cbf', '9b640b4c-6ee', 'a5a262f1-e2d', '6bd2c383-08c', 'ed5df91c-4eb', 'a9921b69-fa5', 'd9c3a6e2-6a7', 'ba21e967-45f', '8cc85fb0-5f2']
+confidence: 0.624
+evidence_ids: ['5aabd225-b76', '2820cb58-46f', 'e1904b59-640', '1a65d681-146', '452e5f67-a14', 'aae8f2a3-c4e', '0c8ca6fb-4ea', 'b0c2883a-318', '0f1c3b62-f84', 'c3af6912-010', '0da838fa-074', '4eb1cc5a-a0b', '2f45f6c5-ccd', '6657dad8-5e5', '8f539b5e-004', '21c486ea-7ce', 'c4ce418f-3b3', '45be3ed3-fa6', '902679dd-67c', '862986d0-378']
 ---
 
 # Healthcare & Pharma — Bangladesh Market
