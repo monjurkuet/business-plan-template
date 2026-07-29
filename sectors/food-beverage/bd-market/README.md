@@ -2,8 +2,8 @@
 sector: food-beverage
 last_verified: 2026-07-29
 freshness: fresh
-confidence: 0.677
-evidence_ids: ['a2982bc5-dcb', '82f25f51-74f', '489414d1-a11', '4ca91f64-4cd', '01b8bde6-4e6', '3b6ddf5a-a6e', '3c999732-c57', '3097a210-e6c', '3e5dbb89-2a8', 'a8e73f73-a79', '642f5d1b-ecb', '2fdcff9e-625', 'e7ef7d4b-588', '01003789-327', 'd32f0b96-4a5', '8cd2b54a-ddd', '516bee2f-657', 'c8f61914-1d8', '921205ee-203', 'ed944246-445']
+confidence: 0.666
+evidence_ids: ['531cbe92-29b', '991cfe86-321', '2aaaa33f-2ae', '47a0111c-36e', 'd3c840bf-11f', '09121a5d-318', 'd478a576-1d9', '66a4aaaa-865', '18903c5c-ef7', '7b5a40af-994', '61b8a7fc-9d0', '0226e7f8-637', '22c4a291-b8d', '6ae5b36b-4b4', '7ecc3325-6ef', '2e83f1cd-dc1', '84d25aad-805', '6c92b282-a74', 'd4cf67a3-c56', '8b7ae22f-74a']
 ---
 
 # Food & Beverage — Bangladesh Market

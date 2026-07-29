@@ -1,6 +1,6 @@
 ---
 sector: bim-global-outreach
-last_verified: 2026-07-27
+last_verified: 2026-07-29
 freshness: fresh
 ---
 
@@ -93,6 +93,7 @@ freshness: fresh
 
 
 
-## Recent Findings (2026-07-27)
 
-- **www.fortworth.com** (conf: 0.69): Oct 28, 2019 ·Thearchitectureand granite used for the facade bears similarities to theTexasCapitol Building in Austin. Many people will recognize the building from its appearances in “Walker,TexasRang
+## Recent Findings (2026-07-29)
+
+- **en.wikipedia.org** (conf: 0.55): Practical, technical, and academic requirements for becoming an architect vary by jurisdiction though the formal study ofarchitecturein academic institutions has played a pivotal role in the developme

@@ -2,8 +2,8 @@
 sector: electronics-gadgets
 last_verified: 2026-07-29
 freshness: fresh
-confidence: 0.671
-evidence_ids: ['bb345366-643', '4151ed77-cc1', 'a37a11d1-9f0', 'dd489ce3-023', 'eaba1833-e68', '3df235f3-1ba', 'df297c94-596', 'c8b74783-5ce', '01339134-e90', '4f397af5-b45', 'dbdaa2fd-185', '7db1c8d5-966', '948d3f34-5f5', '16f996aa-185', '0353d9e2-632', '8af584d1-932', 'e7528e8d-bdd', '5e9252c6-5ad', 'bb9fcf7a-4bd', '4c59e829-cd8']
+confidence: 0.669
+evidence_ids: ['c79a3093-36e', '938d5ce8-a29', '19484027-ee7', '379d52a0-499', '5130d23c-ec7', '62a00932-c80', '097cd6de-a7b', 'afb11927-eb1', '5b4ad989-b69', '3437e6ae-788', '644df80a-4cb', 'fa83c436-a58', 'c0a8ff30-d60', 'd786c538-fec', '037e3f4b-e37', 'bc1ff5e7-7c3', 'b0ec5ae1-f84', '892072f6-517', 'e6222b64-78d', 'c1925b62-ee0']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
