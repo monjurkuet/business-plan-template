@@ -2,8 +2,8 @@
 sector: education-training
 last_verified: 2026-07-29
 freshness: fresh
-confidence: 0.639
-evidence_ids: ['8edbcd1d-202', 'fe3d9a30-ecc', '1339e434-3e8', '7217f521-8a8', '363efeea-48a', '6949de83-f79', 'd1e6ae7c-f7a', '75d09854-519', '8a5406d8-882', 'dcb28a8a-5e1', '2501e0f1-c81', 'a42ae6b5-724', 'cc29e1ed-6ae', '12e76a21-dd1', '9786493e-750', 'b5c52943-88e', '53fc877f-874', '00c7f8ba-f63', 'f60eb46b-e3f', '4b128e5c-ab4']
+confidence: 0.658
+evidence_ids: ['b62da3d8-fda', '78ec8a45-bdf', 'c2445ac9-81f', '446a01cc-257', 'e3e09ba8-ee5', '07b9dc01-27d', '34a8d5b9-146', '25a72e1e-740', '4b73682a-475', '07166682-7d2', '6880a248-d3e', 'fac3d705-59c', 'caa3424d-cd5', '3cc7a067-c71', 'df238ade-499', 'f62c4f15-53a', '7545e9a1-ea4', '2386a528-7c5', '0e68ce80-1fa', 'bdc0ef46-762']
 ---
 
 # Education & Training — Bangladesh Market

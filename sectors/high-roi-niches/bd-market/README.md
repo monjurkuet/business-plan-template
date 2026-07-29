@@ -2,8 +2,8 @@
 sector: high-roi-niches
 last_verified: 2026-07-29
 freshness: fresh
-confidence: 0.663
-evidence_ids: ['4edb1341-5e8', '5dc21de1-00a', '60ddf964-429', '3b94f4b5-138', '9214a0a8-3d7', 'b6499844-ff0', '8e04af18-889', '62510991-d3f', '6e52dee6-a2c', '9f4be031-9ac', '161d4cd3-0e9', '032af114-518', '875d19a1-ec3', 'ced1c4c9-47c', 'e3827be3-b50', 'f0bbc3a9-ff6', '476d2537-29c', '4eed9e5c-0ca', '6a3fe791-484', '0f1a1149-1ff']
+confidence: 0.666
+evidence_ids: ['917211a2-1f1', '0217e437-d70', 'eabc7cef-b00', '2e1c38e6-1d3', 'c33a7d0e-15c', 'c928f7d5-6fd', '88294dbf-ef1', 'a56c291d-e53', '3f60a629-f4a', '31d592c0-fd7', '9deb3041-ef4', 'bbe8bd9d-063', 'edc7db5d-7c5', '45aef357-35f', '006aed1e-a9a', '72f9d8df-b34', 'd79dc95d-7a4', '75f335a0-7ce', 'f55cf497-3bd', '1a190482-c50']
 ---
 
 # High-ROI Niches — Bangladesh Market
