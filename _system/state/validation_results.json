@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-29T12:37:14.323033+00:00",
+  "generated_at": "2026-07-31T18:49:48.000530+00:00",
   "summary": {
     "files_checked": 215,
-    "violations": 8,
+    "violations": 9,
     "warnings": 0
   },
   "violations": [
@@ -28,6 +28,11 @@
     },
     {
       "file": "sectors/bim-global-outreach/bd-market/competitors/xs-cad.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/clothing-fashion/bd-market/competitors/2026-05-06-aarong.md",
       "type": "missing_field",
       "detail": "Missing required field: confidence"
     },
