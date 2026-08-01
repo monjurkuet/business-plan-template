@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-01T08:43:54.505091+00:00",
+  "generated_at": "2026-08-01T19:11:53.424360+00:00",
   "summary": {
     "files_checked": 215,
-    "violations": 9,
+    "violations": 12,
     "warnings": 0
   },
   "violations": [
@@ -48,6 +48,21 @@
     },
     {
       "file": "sectors/electronics-gadgets/bd-market/competitors/2026-05-06-pickaboo.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/travel-tourism/bd-market/competitors/2026-05-06-gozayaan.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/travel-tourism/bd-market/competitors/2026-05-06-obokash.md",
+      "type": "missing_field",
+      "detail": "Missing required field: confidence"
+    },
+    {
+      "file": "sectors/travel-tourism/bd-market/competitors/2026-05-06-sharetrip.md",
       "type": "missing_field",
       "detail": "Missing required field: confidence"
     }

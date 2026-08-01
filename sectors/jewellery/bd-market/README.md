@@ -1,9 +1,9 @@
 ---
 sector: jewellery
-last_verified: 2026-08-01
+last_verified: 2026-08-02
 freshness: fresh
-confidence: 0.652
-evidence_ids: ['587acda8-739', '49f300b7-9ec', 'd4542810-548', 'a0ef9d54-804', '2e0e5f60-1fe', 'f925eaa4-1fb', '8d41b3d3-785', 'dc49b4fc-d74', '040acd66-893', 'c7a70a61-880', '61692145-33b', '99f7f391-1c1', '0c48858f-42d', 'af45b61a-a9b', 'ef7378ec-14b', '983beaa5-add', 'd5a01787-9f4', '4ff2ba67-d4e', '0b65ec91-e4a', '906e1c25-d79']
+confidence: 0.738
+evidence_ids: ['95db276c-5a0', '3c6acede-6ba', '7d5a95f7-5f1', '1572719f-b01', '86a9b8bf-3f0', '069498ab-859', 'b245b93a-72c', '694bd666-792', '2e49cd62-032', 'daca9665-961', 'fea30c47-ff5', '305c5b24-462', '1ffce54d-651', 'db033ba1-54a', 'ddfcd965-fd1']
 ---
 
 # Jewellery — Bangladesh Market
@@ -155,22 +155,23 @@ evidence_ids: ['587acda8-739', '49f300b7-9ec', 'd4542810-548', 'a0ef9d54-804', '
 
 
 
-## Auto-Updated Data (2026-07-14)
+
+## Auto-Updated Data (2026-08-02)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Above price changes are impacted on all gold jewellers in Bangladesh | search | 0.90 |
-| churi, chain, gold bracelet | search | 0.95 |
-| 200 to 3000 | search | 0.95 |
-| daily and festive wear | search | 0.90 |
-| gold and diamond shop | search | 0.95 |
-| most trusted gold and diamond shop in Bangladesh | search | 0.90 |
-| affordable price | search | 0.85 |
-| best price when buying gold from customers | search | 0.90 |
-| pioneer in online Jewellery Shop in Bangladesh | search | 0.95 |
-| any kind of jewelry item | search | 0.90 |
-| Jotey is the most trusted jewellery shop in Bangladesh. It is the best online je | search | 0.90 |
-| affordable price | search | 0.80 |
-| price hikes loom | search | 0.70 |
-| Trump Tariffs impact on luxury goods pricing | search | 0.80 |
-| textile-garment | search | 0.90 |
+| Amin Jewellers Ltd. | search | 1.00 |
+| 1966 | search | 1.00 |
+| jewellery | search | 1.00 |
+| multiple showrooms in principal shopping places | search | 0.90 |
+| Paikari Jewellery Market | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| TikTok video | search | 1.00 |
+| Anik Enterprise | search | 0.90 |
+| 2026-03-02 | search | 0.80 |
+| Taj Mahal Gemstone Shop | search | 1.00 |
+| Dhaka, Bangladesh | search | 1.00 |
+| gemstones, jewelry, diamonds | search | 0.90 |
+| largest brand of gemstones in Bangladesh | search | 0.80 |
+| online jewellery shop | search | 0.90 |
+| gold jewellery | search | 0.90 |

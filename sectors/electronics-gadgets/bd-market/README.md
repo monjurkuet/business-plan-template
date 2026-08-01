@@ -1,9 +1,9 @@
 ---
 sector: electronics-gadgets
-last_verified: 2026-08-01
+last_verified: 2026-08-02
 freshness: fresh
-confidence: 0.676
-evidence_ids: ['f84ffeb9-ec5', '1bbb0e10-0f1', '2392b567-fb5', '6ef563f6-3fe', 'c805daaf-a73', 'd6e8f7da-c8a', '116782e7-ea9', 'c82ac06a-421', '18a80eea-7fe', '2b847ac6-b09', 'bcc420dc-5b9', '4e01e96a-f51', '453fdccf-e0d', '5c94d0b1-4da', 'c9a3b040-57d', 'd98f3fbe-b7d', '1030fcd1-744', 'afcd44d1-a66', '4d983a48-69d', 'a32c21fd-1fb']
+confidence: 0.752
+evidence_ids: ['cf139fb6-543', 'ee54e67c-c84', '04708e9f-a8c', '997d095c-381', '43ff4c77-7ca', '18306bda-ce5', 'ace64735-80a', '3a9e2c46-222', 'd9b2cae6-496', '6a5d2c2e-7f5', '9758f187-f33', '4809595e-c9c', '375ca3c7-9ed', '1d67add1-1d3', 'd0f3c410-7c6']
 ---
 
 # Electronics & Gadgets — Bangladesh Market
@@ -168,22 +168,19 @@ evidence_ids: ['f84ffeb9-ec5', '1bbb0e10-0f1', '2392b567-fb5', '6ef563f6-3fe', '
 
 
 
-## Auto-Updated Data (2026-07-14)
+
+## Auto-Updated Data (2026-08-02)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Geyser | search | 1.00 |
-| 9,749 - 21,900 | search | 1.00 |
-| Express Delivery | search | 1.00 |
-| official warranty | search | 1.00 |
-| Gadgets & Premium Accessories | search | 0.90 |
-| Free Shipping | search | 0.90 |
-| 15.00 | search | 0.80 |
-| BRANDS MEGA LTD | search | 0.90 |
-| Navana Tower (Level-18) 45 Gulshan Avenue, Gulshan-1 Dhaka -1212, Bangladesh | search | 0.90 |
-| Redmi Note 13 Pro Plus | search | 0.90 |
-| Jamuna Future Park, Dhaka | search | 0.90 |
-| iTONIC store | search | 0.80 |
-| exchange mobile deals | search | 0.80 |
-| Mokter Electronics | search | 0.90 |
-| Bangladesh | search | 0.90 |
+| Dhaka, Bangladesh | search | 1.00 |
+| 1500 | search | 1.00 |
+| 8 | search | 0.90 |
+| awards, scientific accolades | search | 0.90 |
+| TRAD/DNCC/016096/2024 | search | 1.00 |
+| home appliances, cutting-edge electronics | search | 1.00 |
+| production, assembly, distribution of consumer electronics, home appliances, mob | search | 1.00 |
+| home appliances, modern electronics, energy-efficient air conditioners, smart te | search | 1.00 |
+| 25 | search | 0.90 |
+| BDFlower.com | search | 0.80 |
+| Paikpara, Mirpur-1, 1216, Dhaka, Bangladesh | search | 0.80 |

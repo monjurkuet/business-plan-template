@@ -1,9 +1,9 @@
 ---
 sector: logistics-transport
-last_verified: 2026-08-01
+last_verified: 2026-08-02
 freshness: fresh
-confidence: 0.679
-evidence_ids: ['a09e618b-586', '5d518e81-ef9', 'fd73fdcc-974', '34067553-5ac', '52986dc8-971', 'b4e4c9b7-24e', 'da84b832-2d6', 'c0d67491-5a2', '676f98e3-b64', 'e1d291cf-fb6', '0a9ec1af-23a', 'bf10d751-a62', '5ece743c-90a', 'cdc3cb7c-aca', '40690296-1fb', 'f60ced32-6ad', '3af1ae70-ebe', '0254bcd7-0af', '86d61924-3d7', '6a817b31-712']
+confidence: 0.706
+evidence_ids: ['e1d6603b-ee8', '8096e3ba-dc7', '7db1b6a0-fb4', 'a2ca8a68-981', '148c364e-d88', 'f6f9d1fb-e6c', 'e68d1d70-3d6', '49875498-4fd', '1bd4b717-e7d', 'a9533592-f30', '1009c396-8a8', '648c7ff9-635', '5bdd75a9-895', '5ddd5990-2da', '18a15278-642', 'c7da08f5-916']
 ---
 
 # Logistics & Transport — Bangladesh Market
@@ -50,22 +50,13 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
-## Auto-Updated Data (2026-07-14)
+
+## Auto-Updated Data (2026-08-02)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 2024-12-03 | search | 1.00 |
-| Best 7 Courier Services in Bangladesh | search | 1.00 |
-| ['Sundarban Courier', 'DHL', 'FedEx', 'UPS'] | search | 1.00 |
-| international delivery | search | 1.00 |
-| Sundarban Courier Service | search | 1.00 |
-| 1983 | search | 1.00 |
-| ['general service', 'special service', 'express service', 'super express service | search | 1.00 |
-| Sundarban Courier Service Ltd. | search | 1.00 |
-| 1983 | search | 1.00 |
-| 2000000 | search | 0.90 |
-| 600 | search | 0.90 |
-| RedX | search | 1.00 |
-| ShopUp | search | 1.00 |
-| tech-based logistics company | search | 1.00 |
-| eCourier.com.bd | search | 1.00 |
+| Mesquite, TX | search | 1.00 |
+| same day delivery, rush courier service | search | 0.90 |
+| complete line of vehicles for any package size | search | 0.80 |
+| Mesquite, TX | search | 1.00 |
+| couriers & delivery services | search | 1.00 |

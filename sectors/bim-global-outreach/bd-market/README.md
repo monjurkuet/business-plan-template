@@ -1,9 +1,9 @@
 ---
 sector: bim-global-outreach
-last_verified: 2026-08-01
+last_verified: 2026-08-02
 freshness: fresh
-confidence: 0.686
-evidence_ids: ['ed366bec-1f3', 'e3917700-eca', '120c14a1-263', '589c42c8-15d', '20071b89-708', '98c9b07a-83e', '019054a4-3bf', '48e83873-3f0', '04eba8f2-7ce', '5975ea20-65e', 'cbcd857d-a09', '1e217d4a-5e4', 'cb63195f-81d', 'f75f2f34-c5b', '6ec554c2-e9d', '32a11ae2-22a', '9e98ead9-7ec', '4ffb987f-606', 'bc2faced-166', 'bb8f41a1-2a1']
+confidence: 0.749
+evidence_ids: ['4ae6a0dd-35b', 'e5d60c25-632', 'e85fa994-d3e', 'cdebfb93-dda', 'f2395587-3de', '891ca6fa-1d9', '115cbb87-962', '074366fd-adf', '0f42379a-21b', '7391598a-1d0', 'c4cc5c50-506', '01197531-53b', 'c4fe62a7-9c8', 'dd901bfd-ddb']
 ---
 
 # BIM Global Outreach — Global Market Sector
@@ -183,22 +183,23 @@ evidence_ids: ['ed366bec-1f3', 'e3917700-eca', '120c14a1-263', '589c42c8-15d', '
 
 
 
-## Auto-Updated Data (2026-07-14)
+
+## Auto-Updated Data (2026-08-02)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| architecture | search | 1.00 |
-| firm | search | 1.00 |
-| Bangladesh | search | 1.00 |
-| RAJUK-registered | search | 0.95 |
-| sustainable architecture | search | 0.90 |
-| Dhaka | search | 0.95 |
-| growing faster than ever | search | 0.90 |
-| ['Dhaka', 'Khulna', 'Chattogram'] | search | 0.95 |
-| BNBC-2020 | search | 0.95 |
-| ['design creativity', 'BNBC-2020 compliance', 'transparent pricing', 'reliable p | search | 0.90 |
-| sustainability | search | 0.90 |
-| reshaping the nation | search | 0.85 |
-| Dhaka | search | 0.95 |
-| ['company reputation values', 'client reviews', 'google data analytics'] | search | 0.95 |
-| SPACE | Dhaka | search | 0.90 |
+| LIMRS Construction and Interior | search | 1.00 |
+| architecture, creative construction | search | 1.00 |
+| Artificersarc | search | 1.00 |
+| growing fast | search | 1.00 |
+| residential work | search | 1.00 |
+| Evangel Architects | search | 1.00 |
+| complete design-build solutions | search | 1.00 |
+| 2025-10-13 | search | 1.00 |
+| SAL | search | 1.00 |
+| leader in architecture and engineering | search | 1.00 |
+| DAP compliance | search | 1.00 |
+| 2012 | search | 1.00 |
+| 2014 | search | 1.00 |
+| Shellmark Limited | search | 1.00 |
+| safe, budget-friendly designs | search | 1.00 |

@@ -1,48 +1,18 @@
 {
-  "generated_at": "2026-08-01T08:43:54.336643+00:00",
+  "generated_at": "2026-08-01T19:11:53.247866+00:00",
   "models_used": [
-    "gemini-2.5-flash-lite",
-    "deepseek-ai/deepseek-v4-pro",
     "mistral/mistral-large-latest"
   ],
   "reviews": [
     {
-      "model": "gemini-2.5-flash-lite",
-      "error": "HTTP Error 401: Unauthorized",
-      "gaps": [],
-      "recommendations": []
-    },
-    {
-      "model": "deepseek-ai/deepseek-v4-pro",
-      "error": "HTTP Error 401: Unauthorized",
-      "gaps": [],
-      "recommendations": []
-    },
-    {
       "model": "mistral/mistral-large-latest",
-      "error": "HTTP Error 401: Unauthorized",
+      "error": "HTTP Error 429: Too Many Requests",
       "gaps": [],
       "recommendations": []
     }
   ],
   "total_queries": 50,
   "queries": [
-    {
-      "query": "\"fertilizer Bangladesh\" regulation Bangladesh 2026",
-      "sector": "agriculture-agro",
-      "family": "policy_tracker",
-      "priority": "P0",
-      "reason": "File age 28d exceeds freshness threshold for policy",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"fertilizer Bangladesh\" policy Bangladesh 2026",
-      "sector": "agriculture-agro",
-      "family": "policy_tracker",
-      "priority": "P0",
-      "reason": "File age 28d exceeds freshness threshold for policy",
-      "source_model": "freshness_policy"
-    },
     {
       "query": "\"fertilizer Bangladesh\" Bangladesh top companies",
       "sector": "agriculture-agro",
@@ -60,147 +30,19 @@
       "source_model": "freshness_policy"
     },
     {
-      "query": "\"car wash Bangladesh\" price Bangladesh",
-      "sector": "automotive-car-care",
-      "family": "pricing",
-      "priority": "P0",
-      "reason": "File age 87d exceeds freshness threshold for pricing",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "site:facebook.com \"car wash Bangladesh\" offer price",
-      "sector": "automotive-car-care",
-      "family": "pricing",
-      "priority": "P0",
-      "reason": "File age 87d exceeds freshness threshold for pricing",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"car wash Bangladesh\" regulation Bangladesh 2026",
-      "sector": "automotive-car-care",
-      "family": "policy_tracker",
-      "priority": "P0",
-      "reason": "File age 87d exceeds freshness threshold for policy",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"car wash Bangladesh\" policy Bangladesh 2026",
-      "sector": "automotive-car-care",
-      "family": "policy_tracker",
-      "priority": "P0",
-      "reason": "File age 87d exceeds freshness threshold for policy",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"car wash Bangladesh\" review Bangladesh",
-      "sector": "automotive-car-care",
-      "family": "sentiment",
-      "priority": "P0",
-      "reason": "File age 87d exceeds freshness threshold for sentiment",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "site:facebook.com \"car wash Bangladesh\" reviews",
-      "sector": "automotive-car-care",
-      "family": "sentiment",
-      "priority": "P0",
-      "reason": "File age 87d exceeds freshness threshold for sentiment",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"architecture firm\" price Bangladesh",
+      "query": "\"architecture firm\" Bangladesh top companies",
       "sector": "bim-global-outreach",
-      "family": "pricing",
+      "family": "competitor_discovery",
       "priority": "P0",
-      "reason": "File age 36d exceeds freshness threshold for pricing",
+      "reason": "Required file is missing",
       "source_model": "freshness_policy"
     },
     {
-      "query": "site:facebook.com \"architecture firm\" offer price",
+      "query": "\"architecture firm\" Dhaka Facebook",
       "sector": "bim-global-outreach",
-      "family": "pricing",
+      "family": "competitor_discovery",
       "priority": "P0",
-      "reason": "File age 36d exceeds freshness threshold for pricing",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"architecture firm\" regulation Bangladesh 2026",
-      "sector": "bim-global-outreach",
-      "family": "policy_tracker",
-      "priority": "P0",
-      "reason": "File age 36d exceeds freshness threshold for policy",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"architecture firm\" policy Bangladesh 2026",
-      "sector": "bim-global-outreach",
-      "family": "policy_tracker",
-      "priority": "P0",
-      "reason": "File age 36d exceeds freshness threshold for policy",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"clothing Bangladesh\" price Bangladesh",
-      "sector": "clothing-fashion",
-      "family": "pricing",
-      "priority": "P0",
-      "reason": "File age 87d exceeds freshness threshold for pricing",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "site:facebook.com \"clothing Bangladesh\" offer price",
-      "sector": "clothing-fashion",
-      "family": "pricing",
-      "priority": "P0",
-      "reason": "File age 87d exceeds freshness threshold for pricing",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"clothing Bangladesh\" regulation Bangladesh 2026",
-      "sector": "clothing-fashion",
-      "family": "policy_tracker",
-      "priority": "P0",
-      "reason": "File age 87d exceeds freshness threshold for policy",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"clothing Bangladesh\" policy Bangladesh 2026",
-      "sector": "clothing-fashion",
-      "family": "policy_tracker",
-      "priority": "P0",
-      "reason": "File age 87d exceeds freshness threshold for policy",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"clothing Bangladesh\" review Bangladesh",
-      "sector": "clothing-fashion",
-      "family": "sentiment",
-      "priority": "P0",
-      "reason": "File age 87d exceeds freshness threshold for sentiment",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "site:facebook.com \"clothing Bangladesh\" reviews",
-      "sector": "clothing-fashion",
-      "family": "sentiment",
-      "priority": "P0",
-      "reason": "File age 87d exceeds freshness threshold for sentiment",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"building material Bangladesh\" regulation Bangladesh 2026",
-      "sector": "construction-real-estate",
-      "family": "policy_tracker",
-      "priority": "P0",
-      "reason": "File age 28d exceeds freshness threshold for policy",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"building material Bangladesh\" policy Bangladesh 2026",
-      "sector": "construction-real-estate",
-      "family": "policy_tracker",
-      "priority": "P0",
-      "reason": "File age 28d exceeds freshness threshold for policy",
+      "reason": "Required file is missing",
       "source_model": "freshness_policy"
     },
     {
@@ -228,35 +70,171 @@
       "source_model": "freshness_policy"
     },
     {
-      "query": "\"fertilizer Bangladesh\" price Bangladesh",
-      "sector": "agriculture-agro",
+      "query": "\"crypto Bangladesh\" Dhaka Facebook",
+      "sector": "crypto-bitcoin",
+      "family": "competitor_discovery",
+      "priority": "P0",
+      "reason": "Contains stale year references: 2023, 2024, 2025",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"coaching center Bangladesh\" Bangladesh top companies",
+      "sector": "education-training",
+      "family": "competitor_discovery",
+      "priority": "P0",
+      "reason": "Required file is missing",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"coaching center Bangladesh\" Dhaka Facebook",
+      "sector": "education-training",
+      "family": "competitor_discovery",
+      "priority": "P0",
+      "reason": "Required file is missing",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"restaurant Bangladesh\" Bangladesh top companies",
+      "sector": "food-beverage",
+      "family": "competitor_discovery",
+      "priority": "P0",
+      "reason": "Required file is missing",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"restaurant Bangladesh\" Dhaka Facebook",
+      "sector": "food-beverage",
+      "family": "competitor_discovery",
+      "priority": "P0",
+      "reason": "Required file is missing",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"pharmacy Bangladesh\" Bangladesh top companies",
+      "sector": "healthcare-pharma",
+      "family": "competitor_discovery",
+      "priority": "P0",
+      "reason": "Required file is missing",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"pharmacy Bangladesh\" Dhaka Facebook",
+      "sector": "healthcare-pharma",
+      "family": "competitor_discovery",
+      "priority": "P0",
+      "reason": "Required file is missing",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"courier service Bangladesh\" Bangladesh top companies",
+      "sector": "logistics-transport",
+      "family": "competitor_discovery",
+      "priority": "P0",
+      "reason": "Required file is missing",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"courier service Bangladesh\" Dhaka Facebook",
+      "sector": "logistics-transport",
+      "family": "competitor_discovery",
+      "priority": "P0",
+      "reason": "Required file is missing",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"C&F agent Bangladesh\" Bangladesh top companies",
+      "sector": "service-agents-distribution",
+      "family": "competitor_discovery",
+      "priority": "P0",
+      "reason": "Required file is missing",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"C&F agent Bangladesh\" Dhaka Facebook",
+      "sector": "service-agents-distribution",
+      "family": "competitor_discovery",
+      "priority": "P0",
+      "reason": "Required file is missing",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"C&F agent Bangladesh\" price Bangladesh",
+      "sector": "service-agents-distribution",
       "family": "pricing",
-      "priority": "P1",
-      "reason": "File age 28d exceeds freshness threshold for pricing",
+      "priority": "P0",
+      "reason": "Required file is missing",
       "source_model": "freshness_policy"
     },
     {
-      "query": "site:facebook.com \"fertilizer Bangladesh\" offer price",
-      "sector": "agriculture-agro",
+      "query": "site:facebook.com \"C&F agent Bangladesh\" offer price",
+      "sector": "service-agents-distribution",
       "family": "pricing",
-      "priority": "P1",
-      "reason": "File age 28d exceeds freshness threshold for pricing",
+      "priority": "P0",
+      "reason": "Required file is missing",
       "source_model": "freshness_policy"
     },
     {
-      "query": "\"fertilizer Bangladesh\" review Bangladesh",
-      "sector": "agriculture-agro",
-      "family": "sentiment",
-      "priority": "P1",
-      "reason": "File age 28d exceeds freshness threshold for sentiment",
+      "query": "\"C&F agent Bangladesh\" regulation Bangladesh 2026",
+      "sector": "service-agents-distribution",
+      "family": "policy_tracker",
+      "priority": "P0",
+      "reason": "Required file is missing",
       "source_model": "freshness_policy"
     },
     {
-      "query": "site:facebook.com \"fertilizer Bangladesh\" reviews",
-      "sector": "agriculture-agro",
+      "query": "\"C&F agent Bangladesh\" policy Bangladesh 2026",
+      "sector": "service-agents-distribution",
+      "family": "policy_tracker",
+      "priority": "P0",
+      "reason": "Required file is missing",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"C&F agent Bangladesh\" review Bangladesh",
+      "sector": "service-agents-distribution",
       "family": "sentiment",
-      "priority": "P1",
-      "reason": "File age 28d exceeds freshness threshold for sentiment",
+      "priority": "P0",
+      "reason": "Required file is missing",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "site:facebook.com \"C&F agent Bangladesh\" reviews",
+      "sector": "service-agents-distribution",
+      "family": "sentiment",
+      "priority": "P0",
+      "reason": "Required file is missing",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"C&F agent Bangladesh\" Eid sales Bangladesh",
+      "sector": "service-agents-distribution",
+      "family": "seasonality",
+      "priority": "P0",
+      "reason": "Required file is missing",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"C&F agent Bangladesh\" seasonal demand Bangladesh",
+      "sector": "service-agents-distribution",
+      "family": "seasonality",
+      "priority": "P0",
+      "reason": "Required file is missing",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"C&F agent Bangladesh\" Bangladesh top companies",
+      "sector": "service-agents-distribution",
+      "family": "competitor_discovery",
+      "priority": "P0",
+      "reason": "Required file is missing",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"C&F agent Bangladesh\" Dhaka Facebook",
+      "sector": "service-agents-distribution",
+      "family": "competitor_discovery",
+      "priority": "P0",
+      "reason": "Required file is missing",
       "source_model": "freshness_policy"
     },
     {
@@ -273,22 +251,6 @@
       "family": "competitor_discovery",
       "priority": "P1",
       "reason": "Contains stale year references: 2023, 2024, 2025",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"car wash Bangladesh\" Bangladesh top companies",
-      "sector": "automotive-car-care",
-      "family": "competitor_discovery",
-      "priority": "P1",
-      "reason": "File age 86d exceeds freshness threshold for competitor_core_profile",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"car wash Bangladesh\" Dhaka Facebook",
-      "sector": "automotive-car-care",
-      "family": "competitor_discovery",
-      "priority": "P1",
-      "reason": "File age 86d exceeds freshness threshold for competitor_core_profile",
       "source_model": "freshness_policy"
     },
     {
@@ -308,22 +270,6 @@
       "source_model": "freshness_policy"
     },
     {
-      "query": "\"architecture firm\" review Bangladesh",
-      "sector": "bim-global-outreach",
-      "family": "sentiment",
-      "priority": "P1",
-      "reason": "File age 36d exceeds freshness threshold for sentiment",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "site:facebook.com \"architecture firm\" reviews",
-      "sector": "bim-global-outreach",
-      "family": "sentiment",
-      "priority": "P1",
-      "reason": "File age 36d exceeds freshness threshold for sentiment",
-      "source_model": "freshness_policy"
-    },
-    {
       "query": "\"clothing Bangladesh\" Bangladesh top companies",
       "sector": "clothing-fashion",
       "family": "competitor_discovery",
@@ -340,91 +286,131 @@
       "source_model": "freshness_policy"
     },
     {
-      "query": "\"clothing Bangladesh\" Bangladesh top companies",
-      "sector": "clothing-fashion",
+      "query": "\"electronics Bangladesh\" Bangladesh top companies",
+      "sector": "electronics-gadgets",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "File age 86d exceeds freshness threshold for competitor_core_profile",
+      "reason": "Contains stale year references: 2023, 2024, 2025",
       "source_model": "freshness_policy"
     },
     {
-      "query": "\"clothing Bangladesh\" Dhaka Facebook",
-      "sector": "clothing-fashion",
+      "query": "\"electronics Bangladesh\" Dhaka Facebook",
+      "sector": "electronics-gadgets",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "File age 86d exceeds freshness threshold for competitor_core_profile",
+      "reason": "Contains stale year references: 2023, 2024, 2025",
       "source_model": "freshness_policy"
     },
     {
-      "query": "\"building material Bangladesh\" price Bangladesh",
-      "sector": "construction-real-estate",
-      "family": "pricing",
-      "priority": "P1",
-      "reason": "File age 28d exceeds freshness threshold for pricing",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "site:facebook.com \"building material Bangladesh\" offer price",
-      "sector": "construction-real-estate",
-      "family": "pricing",
-      "priority": "P1",
-      "reason": "File age 28d exceeds freshness threshold for pricing",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"building material Bangladesh\" review Bangladesh",
-      "sector": "construction-real-estate",
-      "family": "sentiment",
-      "priority": "P1",
-      "reason": "File age 28d exceeds freshness threshold for sentiment",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "site:facebook.com \"building material Bangladesh\" reviews",
-      "sector": "construction-real-estate",
-      "family": "sentiment",
-      "priority": "P1",
-      "reason": "File age 28d exceeds freshness threshold for sentiment",
-      "source_model": "freshness_policy"
-    },
-    {
-      "query": "\"crypto Bangladesh\" Bangladesh top companies",
-      "sector": "crypto-bitcoin",
+      "query": "\"restaurant Bangladesh\" Bangladesh top companies",
+      "sector": "food-beverage",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "File age 86d exceeds freshness threshold for competitor_core_profile",
+      "reason": "Contains stale year references: 2025",
       "source_model": "freshness_policy"
     },
     {
-      "query": "\"crypto Bangladesh\" Dhaka Facebook",
-      "sector": "crypto-bitcoin",
+      "query": "\"restaurant Bangladesh\" Dhaka Facebook",
+      "sector": "food-beverage",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "File age 86d exceeds freshness threshold for competitor_core_profile",
+      "reason": "Contains stale year references: 2025",
       "source_model": "freshness_policy"
     },
     {
-      "query": "\"coaching center Bangladesh\" price Bangladesh",
-      "sector": "education-training",
-      "family": "pricing",
+      "query": "\"pharmacy Bangladesh\" Bangladesh top companies",
+      "sector": "healthcare-pharma",
+      "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "File age 28d exceeds freshness threshold for pricing",
+      "reason": "Contains stale year references: 2025",
       "source_model": "freshness_policy"
     },
     {
-      "query": "site:facebook.com \"coaching center Bangladesh\" offer price",
-      "sector": "education-training",
-      "family": "pricing",
+      "query": "\"pharmacy Bangladesh\" Dhaka Facebook",
+      "sector": "healthcare-pharma",
+      "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "File age 28d exceeds freshness threshold for pricing",
+      "reason": "Contains stale year references: 2025",
       "source_model": "freshness_policy"
     },
     {
-      "query": "\"coaching center Bangladesh\" review Bangladesh",
-      "sector": "education-training",
-      "family": "sentiment",
+      "query": "\"pet care Bangladesh\" Bangladesh top companies",
+      "sector": "high-roi-niches",
+      "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "File age 28d exceeds freshness threshold for sentiment",
+      "reason": "Contains stale year references: 2023, 2024, 2025",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"pet care Bangladesh\" Dhaka Facebook",
+      "sector": "high-roi-niches",
+      "family": "competitor_discovery",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024, 2025",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"jewellery Bangladesh\" Bangladesh top companies",
+      "sector": "jewellery",
+      "family": "competitor_discovery",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024, 2025",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"jewellery Bangladesh\" Dhaka Facebook",
+      "sector": "jewellery",
+      "family": "competitor_discovery",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024, 2025",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"courier service Bangladesh\" Bangladesh top companies",
+      "sector": "logistics-transport",
+      "family": "competitor_discovery",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2024, 2025",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"courier service Bangladesh\" Dhaka Facebook",
+      "sector": "logistics-transport",
+      "family": "competitor_discovery",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2024, 2025",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"digital marketing Bangladesh\" Bangladesh top companies",
+      "sector": "media-marketing-digital",
+      "family": "competitor_discovery",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024, 2025",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"digital marketing Bangladesh\" Dhaka Facebook",
+      "sector": "media-marketing-digital",
+      "family": "competitor_discovery",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024, 2025",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"travel agency Bangladesh\" Bangladesh top companies",
+      "sector": "travel-tourism",
+      "family": "competitor_discovery",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024, 2025",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"travel agency Bangladesh\" Dhaka Facebook",
+      "sector": "travel-tourism",
+      "family": "competitor_discovery",
+      "priority": "P1",
+      "reason": "Contains stale year references: 2023, 2024, 2025",
       "source_model": "freshness_policy"
     }
   ]

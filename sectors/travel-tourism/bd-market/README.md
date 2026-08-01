@@ -1,9 +1,9 @@
 ---
 sector: travel-tourism
-last_verified: 2026-08-01
+last_verified: 2026-08-02
 freshness: fresh
-confidence: 0.665
-evidence_ids: ['3f73ca4f-2a0', 'de99d3c2-618', '2d00d711-094', '9cfd9c03-474', 'da033ffc-d4b', '4e06c8d1-54e', '0402e7a8-f15', '8fe69f2b-a03', '3c21c386-6e2', 'ee8d5106-6f2', '9e5ae837-dff', 'd39a2be4-71c', '1a3115e8-84b', '8b16145e-f23', 'cc3ccdf9-94a', '8c15da43-cd6', '87c7c2ed-229', 'eb448198-676', '3b7b2c35-db4', 'e5e09b5c-9b6']
+confidence: 0.757
+evidence_ids: ['58caa9ec-d86', '33b447ba-e16', 'd23bfdc1-7e6', '383d45d8-145', 'ea1c942e-db7', '0cae353c-39d', '0e5e8eb1-34f', 'a3a7875f-60f', '988a40b7-7c1', '58018397-138', '492107a0-423', 'f4de68bd-ede', 'b24e809c-f77', 'ac595720-991']
 ---
 
 # Travel & Tourism — Bangladesh Market
@@ -140,22 +140,22 @@ evidence_ids: ['3f73ca4f-2a0', 'de99d3c2-618', '2d00d711-094', '9cfd9c03-474', '
 
 
 
-## Auto-Updated Data (2026-07-14)
+
+## Auto-Updated Data (2026-08-02)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
 | Eammu Holidays | search | 1.00 |
-| #1 travel agency in Bangladesh | search | 1.00 |
-| ['tourist visas', 'student visas', 'work visas', 'Umrah packages 2026', 'interna | search | 1.00 |
-| ['Dubai', 'Georgia', 'Armenia', 'Europe'] | search | 1.00 |
 | travel-tourism | search | 1.00 |
-| tour packages, air tickets, visa support | search | 0.90 |
-| affordable | search | 0.80 |
-| affordable | search | 0.80 |
-| tour and travel packages | search | 0.90 |
-| online travel agency | search | 0.90 |
-| Dhaka District, Dhaka | search | 0.90 |
-| 2026-06-13 | search | 0.90 |
-| ['Dream International', "Cox's Bazar Travels", 'Holiday International', 'Bengal  | search | 0.90 |
-| air ticketing, visa processing, customized tour packages | search | 0.90 |
-| 2026-06 | search | 0.90 |
+| #1 travel agency Bangladesh | search | 0.95 |
+| ['tourist visa', 'student visa', 'work visa', 'Umrah packages 2026', 'internatio | search | 1.00 |
+| ['Dubai', 'Georgia', 'Armenia', 'Europe'] | search | 1.00 |
+| tour packages, air tickets, visa support | search | 0.95 |
+| Bangladesh | search | 1.00 |
+| study abroad, visa services, air tickets | search | 0.95 |
+| UK, Canada, Russia, USA | search | 0.95 |
+| Bangladesh, UAE | search | 0.90 |
+| Chittagong, Noakhali | search | 0.90 |
+| Sharjah, Dubai, Ajman | search | 0.90 |
+| Bangladesh Tourism Board (BTB) Registration | search | 1.00 |
+| BTB license required for travel/tour operator legitimacy and supplier partnershi | search | 0.95 |

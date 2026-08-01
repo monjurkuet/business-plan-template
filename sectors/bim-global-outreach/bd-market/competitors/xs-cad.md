@@ -1,6 +1,6 @@
 ---
 sector: bim-global-outreach
-last_verified: 2026-08-01
+last_verified: 2026-08-02
 freshness: fresh
 ---
 
@@ -98,8 +98,7 @@ freshness: fresh
 
 
 
-## Recent Findings (2026-08-01)
 
-- **en.wikipedia.org** (conf: 0.55): Practical, technical, and academic requirements for becoming an architect vary by jurisdiction though the formal study ofarchitecturein academic institutions has played a pivotal role in the developme
+## Recent Findings (2026-08-02)
 
-- **en.wikipedia.org** (conf: 0.55): Practical, technical, and academic requirements for becoming an architect vary by jurisdiction though the formal study ofarchitecturein academic institutions has played a pivotal role in the developme
+- **sfsarch.com** (conf: 0.69): SFSArchitectureis a full-servicearchitecture, interior design and planning firm founded inKansas City,Missouriin 1973. For over 50 years we’ve stimulated community growth through renovation, expansion

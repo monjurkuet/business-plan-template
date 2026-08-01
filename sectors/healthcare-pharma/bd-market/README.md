@@ -1,9 +1,9 @@
 ---
 sector: healthcare-pharma
-last_verified: 2026-08-01
+last_verified: 2026-08-02
 freshness: fresh
-confidence: 0.635
-evidence_ids: ['f23c4560-519', '4c218e6e-eb8', '61dfb998-78d', 'd74e81f8-d27', 'f91961bd-f33', 'd63a9cf3-ebf', '67d3308b-05e', '547ab424-9ae', 'f3dbbe8f-19d', '045afd3d-09b', '7adacd7b-7f5', 'aeac01b2-939', '241a71f8-236', '86e5bede-36a', '0770bd70-344', 'aa916eee-9d7', '383b79ce-957', '3bacb6ee-cd4', 'bbc13efc-193', '69750058-711']
+confidence: 0.717
+evidence_ids: ['4517c016-6bf', 'b7ba7ff1-9ac', '53b55cac-ba7', '078cfa57-f33', 'e239ebde-aff', 'b7dc676b-5c4', '1cf0e8ba-38f', '2770dcaf-97f', 'caba2aa0-415', 'ed23e35e-bcb', '89610b04-080', '6955dd52-2b5', '5257922d-da8', '8216c2fc-d48', '4ae6f9b1-e65']
 ---
 
 # Healthcare & Pharma — Bangladesh Market
@@ -67,22 +67,18 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
-## Auto-Updated Data (2026-07-14)
+
+## Auto-Updated Data (2026-08-02)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Medisafe Pharmacy | search | 0.90 |
-| ['Medical device', 'Natural medicine', 'Allopathic medicine'] | search | 0.95 |
-| supplier_company | search | 0.90 |
+| Medisafe Pharmacy | search | 1.00 |
 | healthcare-pharma | search | 1.00 |
-| pharmacy_directory | search | 0.90 |
-| Wellbeing Pharmacy | search | 0.95 |
-| community-based | search | 0.90 |
-| ['Compounding', 'Consulting', 'Prescription checking', 'Delivery'] | search | 0.95 |
-| individuals in the immediate local area | search | 0.90 |
-| Al-Amin Pharmacy | search | 0.95 |
-| Khulna | search | 0.95 |
-| 9000 | search | 0.95 |
-| Heraj Market, Khulna, 9000, Bangladesh | search | 0.90 |
-| 22.845641, 89.54032789999997 | search | 0.95 |
-| Pharmacies | search | 0.95 |
+| ['Medical device', 'Natural medicine', 'Allopathic medicine'] | search | 1.00 |
+| Bangladesh | search | 1.00 |
+| community-based pharmacy | search | 0.90 |
+| ['compounding', 'consulting', 'prescription checking', 'medication delivery'] | search | 0.90 |
+| Wellbeing Pharmacy | search | 1.00 |
+| Tani Pharmacy | search | 1.00 |
+| Mymensingh | search | 1.00 |
+| ['personalized services', 'local delivery'] | search | 0.90 |

@@ -1,9 +1,9 @@
 ---
 sector: automotive-car-care
-last_verified: 2026-08-01
+last_verified: 2026-08-02
 freshness: fresh
-confidence: 0.656
-evidence_ids: ['7df43001-89b', 'a45ec686-675', '96ffa018-2af', 'a4a1134a-de1', 'c6816745-c2c', '7d3c6b5e-a93', '9367f566-60e', '01292be5-d18', '4579b146-89e', '56ead3ce-08e', 'cc441a11-ad3', '381c2ad4-e31', '9b654c93-2a5', 'e4c78170-f60', '35208009-222', '628c663e-2fa', '916c0728-363', '0019c0e3-9f0', 'b6a786de-e2c', 'edae6790-560']
+confidence: 0.708
+evidence_ids: ['5c064692-acb', '212144c4-5d8', '4907e64a-b61', '8d00fad2-0f4', 'b5bada8d-65c', 'ac3409ce-bad', 'f38ebb72-dc7', '8e1bc368-e55', '68518539-2c7', 'c5e2c4e4-e1b', 'd2e44b16-f0e', '1a631034-edc', '662135b3-dae', 'bc71b8a1-d86', 'fe399e32-0de']
 ---
 
 # Automotive & Car Care — Bangladesh Market
@@ -192,13 +192,16 @@ evidence_ids: ['7df43001-89b', 'a45ec686-675', '96ffa018-2af', 'a4a1134a-de1', '
 
 
 
-## Auto-Updated Data (2026-07-25)
+
+## Auto-Updated Data (2026-08-02)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Free Bike & Car Wash | search | 1.00 |
-| Savar, Dhaka | search | 1.00 |
-| Kärcher | search | 1.00 |
 | Metroshine Express Ltd | search | 1.00 |
 | 01933328888 | search | 1.00 |
 | waterless car wash | search | 1.00 |
+| CARWASHBD | search | 1.00 |
+| car wash, auto cleaning, vehicle repair | search | 1.00 |
+| network of providers | search | 0.90 |
+| ['Dhaka', 'Sylhet', 'Chattogram', 'Bogura'] | search | 1.00 |
+| car wash | search | 1.00 |

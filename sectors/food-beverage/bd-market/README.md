@@ -1,9 +1,9 @@
 ---
 sector: food-beverage
-last_verified: 2026-08-01
+last_verified: 2026-08-02
 freshness: fresh
-confidence: 0.677
-evidence_ids: ['a1358886-db6', 'f50d545b-253', 'e180adeb-49e', '6cdd5cc7-ae9', '0a849445-b7a', '562e5cc9-bda', '8730e8f2-845', '8f2dce19-850', '035d83dc-785', '0e17be24-886', 'b6485bb0-e05', '2bd0bb66-5fa', 'e7366a08-e89', '0120c5fd-637', 'b3637153-aec', '18400265-10c', 'ca3bfeb6-da2', '628adef2-32c', 'e61ce716-303', 'f6005efb-770']
+confidence: 0.703
+evidence_ids: ['8b572d19-aeb', '618fa80f-b5a', '05e8b32a-d80', '2d919103-190', '9e979dc9-558', '0fc3c4f0-f09', '21afbc1b-ccc', '09687ae7-b86', '05b8cabb-a16', '7d5b52ad-550', '24501511-9e6', '5afc7bee-78d', 'a57cca50-e4a', '0033d6c9-368', '4bd81e2e-af1', 'd0ca8d46-9d3', 'b2b2dfaa-70d', '2a71c99e-f79']
 ---
 
 # Food & Beverage — Bangladesh Market
@@ -68,22 +68,13 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
-## Auto-Updated Data (2026-07-14)
+
+## Auto-Updated Data (2026-08-02)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 20 minutes from downtown Montreal | search | 0.90 |
-| rooftop | search | 0.95 |
-| stunning views and delicious cuisine | search | 0.90 |
+| Moharani Coffee House | search | 0.90 |
+| Bangladeshi-inspired | search | 0.95 |
+| Houston | search | 0.95 |
 | Bangladeshi | search | 0.95 |
-| 16 | search | 0.90 |
-| Top Bangladeshi food you must try on your visit | search | 0.90 |
-| Bangladesh Tandoori Restaurant | search | 1.00 |
-| Campbeltown | search | 1.00 |
-| 4.1 | search | 0.95 |
-| 10 | search | 0.95 |
-| ['Indian', 'Asian', 'Bangladeshi'] | search | 0.95 |
-| food photography | search | 0.95 |
-| Boss Man Digital Marketing Agency | search | 0.95 |
-| Dhaka | search | 0.90 |
-| restaurant attack | search | 0.95 |
+| new | search | 0.90 |

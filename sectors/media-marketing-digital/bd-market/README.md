@@ -1,9 +1,9 @@
 ---
 sector: media-marketing-digital
-last_verified: 2026-08-01
+last_verified: 2026-08-02
 freshness: fresh
-confidence: 0.645
-evidence_ids: ['413f6f96-3d7', '58c770b3-e3b', '1b686580-fc1', 'd6b0e473-f0f', 'f5f16cda-015', '685f7529-ce3', '7be1e321-6f8', 'd909ce67-d19', 'ca0158ea-44a', 'b89ea190-9f8', 'd22ad828-ffa', '33296674-a43', '84c47d4b-db9', '974c04d5-b67', '9c9d37ce-d0c', '6c83db3c-429', '1fe2482c-497', '043a9997-611', '9b6d0d53-7c9', '1bf7d072-486']
+confidence: 0.751
+evidence_ids: ['92bab060-7be', '085ac950-225', '9fcfeb14-88c', '6d0a64ee-e45', '0c2c70e3-623', 'fb21e87f-a50', 'aa15d74d-2f6', '12f4ca3c-6f8', '37229c3b-f76', '21f85a4d-89e', '5240e9c6-131', '8726e3d2-963', '1ec510a3-127', '0cd2f819-a5c', '6997a10a-a7e']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market
@@ -161,17 +161,23 @@ evidence_ids: ['413f6f96-3d7', '58c770b3-e3b', '1b686580-fc1', 'd6b0e473-f0f', '
 
 
 
-## Auto-Updated Data (2026-07-14)
+
+## Auto-Updated Data (2026-08-02)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| Digital marketing cost in Bangladesh 2026 - real BDT pricing for SEO, Facebook A | search | 0.90 |
-| BDT | search | 0.90 |
-| bKash | search | 0.90 |
-| best price in digital marketing Bangladesh | search | 0.80 |
-| ['Bulk SMS', 'Email Marketing', 'Voice Marketing'] | search | 0.95 |
-| BDT | search | 0.90 |
-| ['SEO', 'PPC', 'Social Media Marketing', 'Email Marketing', 'Influencer Marketin | search | 0.95 |
-| 2025 | search | 0.95 |
-| ['GEEKY SOCIAL LTD.', 'OneLittleWeb', 'BrandViser', 'MonsterClaw LLC', 'Ecomclip | search | 0.95 |
-| crossing critical milestones | search | 0.80 |
+| digital marketing agencies | search | 1.00 |
+| Goodfirms | search | 1.00 |
+| verified reviews, hourly rates, portfolios | search | 0.90 |
+| digital marketing agencies | search | 1.00 |
+| TechBehemoths | search | 1.00 |
+| IT services | search | 0.90 |
+| digital marketing agencies | search | 1.00 |
+| The Manifest | search | 1.00 |
+| changed customer attraction and revenue generation | search | 0.90 |
+| digital marketing agencies | search | 1.00 |
+| Sortlist | search | 1.00 |
+| verified client reviews | search | 0.90 |
+| digital marketing, strategic planning | search | 0.90 |
+| structured, measurable outcomes, comprehensive reporting | search | 0.90 |
+| businesses seeking professional, accountable marketing partnerships | search | 0.80 |

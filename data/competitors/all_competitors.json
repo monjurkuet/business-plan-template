@@ -953,7 +953,7 @@
       "sector": "bim-global-outreach",
       "frontmatter": {
         "sector": "bim-global-outreach",
-        "last_verified": "2026-08-01",
+        "last_verified": "2026-08-02",
         "freshness": "fresh"
       },
       "profile_category": "",
@@ -1091,7 +1091,7 @@
       "sector": "bim-global-outreach",
       "frontmatter": {
         "sector": "bim-global-outreach",
-        "last_verified": "2026-07-25",
+        "last_verified": "2026-08-02",
         "freshness": "fresh"
       },
       "profile_category": "",
@@ -1136,7 +1136,7 @@
       "sector": "bim-global-outreach",
       "frontmatter": {
         "sector": "bim-global-outreach",
-        "last_verified": "2026-08-01",
+        "last_verified": "2026-08-02",
         "freshness": "fresh"
       },
       "profile_category": "",
@@ -1181,7 +1181,7 @@
       "sector": "clothing-fashion",
       "frontmatter": {
         "sector": "clothing-fashion",
-        "last_verified": "2026-08-01",
+        "last_verified": "2026-08-02",
         "freshness": "fresh"
       },
       "profile_category": "",
@@ -3695,19 +3695,15 @@
       "name": "gozayaan",
       "sector": "travel-tourism",
       "frontmatter": {
-        "entity_type": "competitor",
         "sector": "travel-tourism",
-        "entity_slug": "2026-05-06-gozayaan",
-        "last_verified_at": "2026-06-25T12:00:00Z",
-        "freshness_status": "fresh",
-        "confidence_score": "0.50",
-        "primary_sources": "- []"
+        "last_verified": "2026-08-02",
+        "freshness": "fresh"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-gozayaan",
-      "last_verified_at": "2026-06-25T12:00:00Z",
-      "freshness_status": "fresh",
-      "confidence_score": 0.5,
+      "last_verified_at": "",
+      "freshness_status": "unknown",
+      "confidence_score": 0.0,
       "strengths": [
         "1. Modern UI/UX.",
         "2. Strong flight search engine.",
@@ -3747,19 +3743,15 @@
       "name": "obokash",
       "sector": "travel-tourism",
       "frontmatter": {
-        "entity_type": "competitor",
         "sector": "travel-tourism",
-        "entity_slug": "2026-05-06-obokash",
-        "last_verified_at": "2026-06-25T12:00:00Z",
-        "freshness_status": "fresh",
-        "confidence_score": "0.50",
-        "primary_sources": "- []"
+        "last_verified": "2026-08-02",
+        "freshness": "fresh"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-obokash",
-      "last_verified_at": "2026-06-25T12:00:00Z",
-      "freshness_status": "fresh",
-      "confidence_score": 0.5,
+      "last_verified_at": "",
+      "freshness_status": "unknown",
+      "confidence_score": 0.0,
       "strengths": [
         "1. Hajj/Umrah specialist with government licensing.",
         "2. Strong trust brand built over years.",
@@ -3799,9 +3791,8 @@
       "sector": "travel-tourism",
       "frontmatter": {
         "sector": "travel-tourism",
-        "last_verified": "2026-07-02",
-        "freshness": "fresh",
-        "confidence": "0.50"
+        "last_verified": "2026-08-02",
+        "freshness": "fresh"
       },
       "profile_category": "",
       "entity_slug": "2026-05-06-sharetrip",

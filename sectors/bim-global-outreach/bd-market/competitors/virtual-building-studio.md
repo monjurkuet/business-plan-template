@@ -1,6 +1,6 @@
 ---
 sector: bim-global-outreach
-last_verified: 2026-07-25
+last_verified: 2026-08-02
 freshness: fresh
 ---
 
@@ -123,6 +123,7 @@ freshness: fresh
 
 
 
-## Recent Findings (2026-07-25)
 
-- **architecturema.com** (conf: 0.69): MAArchitectureis a planning, interior design, andarchitecturestudio that creates meaningful environments inspired by people and places. Our work, influenced by our midwestern roots, balances beauty an
+## Recent Findings (2026-08-02)
+
+- **aavisstudio.com** (conf: 0.89): May 13, 2026 -Yes.Aavis Studiois headquartered in Khulna but actively delivers projects in Dhaka, Chittagong, and across Bangladesh. We have the team and project management infrastructure to handle na

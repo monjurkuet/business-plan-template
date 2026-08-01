@@ -1,9 +1,9 @@
 ---
 sector: high-roi-niches
-last_verified: 2026-08-01
+last_verified: 2026-08-02
 freshness: fresh
-confidence: 0.668
-evidence_ids: ['54b52986-028', 'e429010c-90d', 'ac26b46a-99f', '7bd2bd51-082', 'e263ab80-288', '5eb0aa76-997', '6ca8117a-b9d', '07ee3acb-832', '75a064f2-cf9', 'e7897230-266', '44a15d91-a89', 'db3475b8-d36', 'edcad955-564', 'ca7cecd0-1be', '82b78bc0-cc8', '6323a80b-600', '0ed4da2b-d64', '06f521b9-570', '29007a7a-54e', '976aa4f5-c9d']
+confidence: 0.696
+evidence_ids: ['90655ef5-3c7', 'dc451461-24b', '4830e347-dca', '46e533f6-cde', '18605ccf-c7f', 'af037f07-834', '065ea37a-a2f', 'f82af124-5bc', '15615a0d-4e5', '192e130f-529']
 ---
 
 # High-ROI Niches — Bangladesh Market
@@ -157,22 +157,11 @@ This sector captures high-growth, high-margin niche opportunities in Bangladesh.
 
 
 
-## Auto-Updated Data (2026-07-14)
+
+## Auto-Updated Data (2026-08-02)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| ['Paw Care', 'Pet Town BD', 'Pet Lover BD', 'Aquisan Bangladesh Pet Care', 'Pets | search | 0.95 |
-| online pet shop in Bangladesh showcasing a wide range of pet supplies | search | 0.90 |
-| doorstep delivery available | search | 0.90 |
-| best prices | search | 0.80 |
-| ['pet products', 'food', 'toys', 'accessories'] | search | 0.95 |
-| top-notch customer service | search | 0.90 |
-| PawCare | search | 0.95 |
-| top pet shop in BD | search | 0.90 |
-| ['pet products', 'food', 'toys', 'accessories'] | search | 0.95 |
-| top-notch customer service | search | 0.90 |
-| affordable prices | search | 0.85 |
-| fast delivery | search | 0.90 |
-| cat food, toys, grooming products, accessories | search | 0.90 |
-| top-rated customer service | search | 0.80 |
-| pet care essentials | search | 0.95 |
+| Syrian Hamster | search | 1.00 |
+| tips and insights on keeping Syrian hamsters happy | search | 0.90 |
+| #hamster #pet #cute #bangladesh | search | 1.00 |

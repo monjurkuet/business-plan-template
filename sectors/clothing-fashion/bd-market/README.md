@@ -1,9 +1,9 @@
 ---
 sector: clothing-fashion
-last_verified: 2026-08-01
+last_verified: 2026-08-02
 freshness: fresh
-confidence: 0.681
-evidence_ids: ['037bc5fa-535', '4b3a1859-c80', '427e2ed4-308', '1173b9eb-dd9', 'e0bc796c-245', '269e25ce-a4b', 'bc908c6c-f92', 'dfc46cf3-f8f', '936c041e-464', '2e01a047-4d9', '12a08276-666', 'd03e1d9a-01e', 'c05fca1e-c48', '1a61643c-237', 'fa11594d-391', 'f1e164f4-1e4', '541a024e-777', '349e340f-db5', '902e6f24-91b', '97701774-dad']
+confidence: 0.74
+evidence_ids: ['58575f01-75c', '7e595a4c-7b1', 'f4436f60-349', 'a1588f61-86d', '4d786322-eb9', '855ae949-5ce', '0dc534e8-734', '900a3132-0d6', '4ee3fbac-08f', '3f3c0bce-908', 'b72b6009-438', '8b4d1060-be3', '30c05a85-093', '99296cd2-da9', '567b17a5-ea6']
 ---
 
 # Clothing & Fashion — Bangladesh Market
@@ -181,19 +181,23 @@ evidence_ids: ['037bc5fa-535', '4b3a1859-c80', '427e2ed4-308', '1173b9eb-dd9', '
 
 
 
-## Auto-Updated Data (2026-07-25)
+
+## Auto-Updated Data (2026-08-02)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| baggy pants | search | 0.95 |
-| boys, youth | search | 0.90 |
-| affordable | search | 0.85 |
-| all over Bangladesh | search | 0.95 |
-| ['free shipping', 'fast delivery', 'free return'] | search | 0.95 |
-| factory_price | search | 0.90 |
-| highest-quality custom apparel | search | 0.90 |
-| Islampur Three Piece Wholesale Market | search | 1.00 |
-| wholesale | search | 1.00 |
-| three piece | search | 0.90 |
-| 88 | search | 0.95 |
-| decreasing | search | 0.90 |
+| BangladeshApparels | search | 1.00 |
+| Dhaka, Bangladesh | search | 1.00 |
+| men's clothes, knitted | search | 1.00 |
+| manufacturer, supplier, exporter, wholesale company | search | 1.00 |
+| advanced, latest | search | 0.90 |
+| affordable | search | 0.90 |
+| t-shirts, baby wears | search | 1.00 |
+| affordable | search | 0.90 |
+| secure | search | 0.90 |
+| APTEX Sourcing | search | 1.00 |
+| Tube Top | search | 1.00 |
+| manufacturer, supplier, exporter, vendor, wholesaler, factory | search | 1.00 |
+| top 10 Tube Top Suppliers in Bangladesh | search | 1.00 |
+| Aarong | search | 1.00 |
+| BRAC | search | 1.00 |

@@ -1,9 +1,9 @@
 ---
 sector: agriculture-agro
-last_verified: 2026-08-01
+last_verified: 2026-08-02
 freshness: fresh
-confidence: 0.653
-evidence_ids: ['f0d41f59-231', 'a5364808-c54', '6f622677-41d', '93df9b42-4a6', '08c2d293-1cb', 'bef6fa6b-7a9', '48e0b377-5bc', 'f168e712-d82', '13d85c92-c0c', '7b30951c-b3e', '94e068f0-f26', '7d6c4481-a4e', '245016cf-16b', '17da2602-e82', '805ebbf4-6b5', 'cf074112-5fe', '3bea1e38-868', 'caea4353-9fc', 'c8ad78ba-19f', 'eb1472c0-e75']
+confidence: 0.753
+evidence_ids: ['e2725381-b3b', 'bd00bbc1-65c', 'd68c96ec-def', '63fdae94-413', '3ce3e8af-410', 'de329f0f-4c6', 'e374ad65-c0d', '390a19fa-be5', '4c94c9d1-4cc', 'fedb5599-ef7', 'db7c28f1-4c4', '26dbacf7-066', 'cc381b07-077', 'f0b9a447-dc2', '1a2ad29c-58a', '4f2dfb15-115']
 ---
 
 # Agriculture & Agro-processing — Bangladesh Market
@@ -69,22 +69,23 @@ This sector is active in the GMaps lead pipeline but research documentation has 
 
 
 
-## Auto-Updated Data (2026-07-14)
+
+## Auto-Updated Data (2026-08-02)
 
 | Fact | Source | Confidence |
 |------|--------|------------|
-| 1.7 | search | 0.95 |
-| 12 | search | 0.95 |
-| Morocco | search | 0.90 |
-| 483 | search | 0.90 |
-| 2021 | search | 0.95 |
-| Bangladesh Fertilizers & Agrochemicals Ltd. | search | 0.95 |
-| +88029883744, +88028 | search | 0.80 |
-| tremendously large | search | 0.85 |
-| Neptune's Harvest Fish & Seaweed Liquid Fertilizer | search | 0.95 |
-| FS136 | search | 0.95 |
-| 32 Oz | search | 0.95 |
-| 2-3-1 | search | 0.95 |
-| organic fertilizer | search | 0.95 |
-| Ubuy Bangladesh | search | 0.95 |
-| Bangladesh approves fertilizer, rice, and wheat imports to boost food security | search | 0.95 |
+| Bangladesh Fertilizer Association | search | 1.00 |
+| 1994 | search | 1.00 |
+| non-profit, non-political | search | 1.00 |
+| 7000 | search | 1.00 |
+| member subscription | search | 1.00 |
+| Neptune's Harvest Fish & Seaweed Liquid Fertilizer | search | 1.00 |
+| FS136 | search | 1.00 |
+| 32 Oz | search | 1.00 |
+| 2-3-1 | search | 1.00 |
+| organic fertilizer | search | 1.00 |
+| Ubuy Bangladesh | search | 1.00 |
+| Syngenta Bangladesh Limited | search | 1.00 |
+| সিনজেন্টা বাংলাদেশ লিমিটেড | search | 1.00 |
+| Supreme Seeds Company Limited | search | 1.00 |
+| সুপ্রিম সীড কোম্পানি লি. | search | 1.00 |
