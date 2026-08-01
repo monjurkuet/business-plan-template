@@ -2,8 +2,8 @@
 sector: agriculture-agro
 last_verified: 2026-08-01
 freshness: fresh
-confidence: 0.668
-evidence_ids: ['b569d712-b1d', 'f25b449a-22a', 'f2cd7c0f-ece', 'f6aab9ec-f68', 'c25aa96c-aed', 'f69210dc-b63', '2b758308-e95', '050eba1a-33f', 'ef40c9d8-f70', '5c2cd07d-c11', '2af6b7ff-4ca', 'c1ac4616-b48', '17b39cce-eca', 'e1643ab7-d57', 'e770ce9a-faa', '4f13c0cc-e68', 'bad71eff-f26', 'bcb3cf1d-cd1', '7991e2b3-584', '09bf6ead-b66']
+confidence: 0.653
+evidence_ids: ['f0d41f59-231', 'a5364808-c54', '6f622677-41d', '93df9b42-4a6', '08c2d293-1cb', 'bef6fa6b-7a9', '48e0b377-5bc', 'f168e712-d82', '13d85c92-c0c', '7b30951c-b3e', '94e068f0-f26', '7d6c4481-a4e', '245016cf-16b', '17da2602-e82', '805ebbf4-6b5', 'cf074112-5fe', '3bea1e38-868', 'caea4353-9fc', 'c8ad78ba-19f', 'eb1472c0-e75']
 ---
 
 # Agriculture & Agro-processing — Bangladesh Market

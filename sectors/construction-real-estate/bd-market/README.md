@@ -2,8 +2,8 @@
 sector: construction-real-estate
 last_verified: 2026-08-01
 freshness: fresh
-confidence: 0.639
-evidence_ids: ['daf45bd3-880', 'cd069749-382', '5fecfb83-dc7', '3cb4fdfe-6d5', '7828a258-b12', '8731ba9a-7c7', 'fb88735c-d18', '3d45802f-3b5', '49433cfa-5a2', '06ddd108-af1', 'd22aa055-7f0', 'c5f072df-5f9', '41a7432c-4b8', 'e2116496-962', '16e14a83-e7e', 'e47c9e8d-477', '7fa1b46e-d3f', '64bcef72-db8', '235be4c0-cc7', '7f531449-875']
+confidence: 0.629
+evidence_ids: ['da33f680-2b2', 'c2d44217-5e1', 'd020b588-29a', 'fddd53a9-630', 'e3335b68-90d', 'a7d7a3c7-057', 'c387e14d-362', '83643797-367', '5c7178eb-d2f', '2ac34e81-379', '0c2d558f-756', '83921e00-c3c', 'fefd399f-dc1', 'd397c391-d82', 'ea9e7b5e-292', 'a3cc633d-536', '3878c783-0c7', '756de676-a46', '9df02788-3e9', '42aa21e3-d3d']
 ---
 
 # Construction & Real Estate — Bangladesh Market
