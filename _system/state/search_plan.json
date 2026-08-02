@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T01:36:58.926399+00:00",
+  "generated_at": "2026-08-02T07:49:48.601808+00:00",
   "models_used": [
     "gemini-2.5-flash-lite",
     "deepseek-ai/deepseek-v4-pro",
@@ -25,7 +25,7 @@
       "recommendations": []
     }
   ],
-  "total_queries": 50,
+  "total_queries": 60,
   "queries": [
     {
       "query": "\"fertilizer Bangladesh\" Bangladesh top companies",
@@ -425,6 +425,86 @@
       "family": "competitor_discovery",
       "priority": "P1",
       "reason": "Contains stale year references: 2023, 2024, 2025",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"hotel Bangladesh\" price Bangladesh",
+      "sector": "hospitality-hotels",
+      "family": "pricing",
+      "priority": "P1",
+      "reason": "Zero evidence collected for sector — initial data collection needed (pricing)",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "site:facebook.com \"hotel Bangladesh\" offer price",
+      "sector": "hospitality-hotels",
+      "family": "pricing",
+      "priority": "P1",
+      "reason": "Zero evidence collected for sector — initial data collection needed (pricing)",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"hotel Bangladesh\" regulation Bangladesh 2026",
+      "sector": "hospitality-hotels",
+      "family": "policy_tracker",
+      "priority": "P1",
+      "reason": "Zero evidence collected for sector — initial data collection needed (policy)",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"hotel Bangladesh\" policy Bangladesh 2026",
+      "sector": "hospitality-hotels",
+      "family": "policy_tracker",
+      "priority": "P1",
+      "reason": "Zero evidence collected for sector — initial data collection needed (policy)",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"hotel Bangladesh\" Bangladesh top companies",
+      "sector": "hospitality-hotels",
+      "family": "competitor_discovery",
+      "priority": "P1",
+      "reason": "Zero evidence collected for sector — initial data collection needed (competitor_core_profile)",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"hotel Bangladesh\" Dhaka Facebook",
+      "sector": "hospitality-hotels",
+      "family": "competitor_discovery",
+      "priority": "P1",
+      "reason": "Zero evidence collected for sector — initial data collection needed (competitor_core_profile)",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"hotel Bangladesh\" review Bangladesh",
+      "sector": "hospitality-hotels",
+      "family": "sentiment",
+      "priority": "P1",
+      "reason": "Zero evidence collected for sector — initial data collection needed (sentiment)",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "site:facebook.com \"hotel Bangladesh\" reviews",
+      "sector": "hospitality-hotels",
+      "family": "sentiment",
+      "priority": "P1",
+      "reason": "Zero evidence collected for sector — initial data collection needed (sentiment)",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"hotel Bangladesh\" Eid sales Bangladesh",
+      "sector": "hospitality-hotels",
+      "family": "seasonality",
+      "priority": "P1",
+      "reason": "Zero evidence collected for sector — initial data collection needed (seasonality)",
+      "source_model": "freshness_policy"
+    },
+    {
+      "query": "\"hotel Bangladesh\" seasonal demand Bangladesh",
+      "sector": "hospitality-hotels",
+      "family": "seasonality",
+      "priority": "P1",
+      "reason": "Zero evidence collected for sector — initial data collection needed (seasonality)",
       "source_model": "freshness_policy"
     }
   ]

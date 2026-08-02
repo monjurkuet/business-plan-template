@@ -3,7 +3,7 @@ sector: clothing-fashion
 last_verified: 2026-08-02
 freshness: fresh
 confidence: 0.686
-evidence_ids: ['f6cbd24b-732', 'cd8cf684-520', 'c61bbbf4-118', '565953b4-e9a', 'a695ade2-20c', '6da597ec-271', '457ebcdb-5fe', 'e6e87eb6-355', 'b279af72-315', '76346de3-ebc', '340599f0-2f2', 'bc579cdc-341', '63322cbf-421', 'a9ce0b9f-f85', '4ab2b40e-054']
+evidence_ids: ['b707a084-837', '9f0cd692-fb1', '4bac1a34-a92', '4fdf2f62-4ef', '43ec067c-87e', '1a925b19-9f0', '422b5d9e-36b', 'e270179f-b90', '9cd9855a-707', '837727b1-604', '93675035-1d2', 'ad248fbb-64d', 'b4195866-bb8', 'e1c51a66-42b', '0b9ac19d-869']
 ---
 
 # Clothing & Fashion — Bangladesh Market

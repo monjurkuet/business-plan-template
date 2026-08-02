@@ -3,7 +3,7 @@ sector: media-marketing-digital
 last_verified: 2026-08-02
 freshness: fresh
 confidence: 0.686
-evidence_ids: ['ec481e79-3fd', 'cb40c3df-7e5', '9e4ec6fb-acd', '502f02d6-4de', '0ef5d842-b4f', '9f85d834-3ec', '13087fc9-c9d', '78d899f1-072', 'df4a2f3f-721', '41497299-c7a', 'c9da97d7-fa0']
+evidence_ids: ['e1f15200-a1b', '5acaefec-11d', '179a73b2-ac4', 'e04e229f-f9a', '61e8b122-366', '0a7ac3b9-e99']
 ---
 
 # Media, Marketing & Digital — Bangladesh Market

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-02T01:34:44.197313+00:00",
+  "generated_at": "2026-08-02T07:47:22.054478+00:00",
   "summary": {
     "fresh": 135,
     "stale": 12,
-    "critical": 16,
+    "critical": 21,
     "approaching_stale": 0
   },
   "queue": [
@@ -314,6 +314,61 @@
       "stale_after_days": 90,
       "critical_after_days": 180,
       "reason": "Contains stale year references: 2023, 2024, 2025"
+    },
+    {
+      "path": "sectors/hospitality-hotels/bd-market/data_collection:pricing",
+      "sector": "hospitality-hotels",
+      "category": "pricing",
+      "age_days": 9999,
+      "stale_type": "missing",
+      "priority": "P1",
+      "stale_after_days": 0,
+      "critical_after_days": 0,
+      "reason": "Zero evidence collected for sector \u2014 initial data collection needed (pricing)"
+    },
+    {
+      "path": "sectors/hospitality-hotels/bd-market/data_collection:policy",
+      "sector": "hospitality-hotels",
+      "category": "policy",
+      "age_days": 9999,
+      "stale_type": "missing",
+      "priority": "P1",
+      "stale_after_days": 0,
+      "critical_after_days": 0,
+      "reason": "Zero evidence collected for sector \u2014 initial data collection needed (policy)"
+    },
+    {
+      "path": "sectors/hospitality-hotels/bd-market/data_collection:competitor_core_profile",
+      "sector": "hospitality-hotels",
+      "category": "competitor_core_profile",
+      "age_days": 9999,
+      "stale_type": "missing",
+      "priority": "P1",
+      "stale_after_days": 0,
+      "critical_after_days": 0,
+      "reason": "Zero evidence collected for sector \u2014 initial data collection needed (competitor_core_profile)"
+    },
+    {
+      "path": "sectors/hospitality-hotels/bd-market/data_collection:sentiment",
+      "sector": "hospitality-hotels",
+      "category": "sentiment",
+      "age_days": 9999,
+      "stale_type": "missing",
+      "priority": "P1",
+      "stale_after_days": 0,
+      "critical_after_days": 0,
+      "reason": "Zero evidence collected for sector \u2014 initial data collection needed (sentiment)"
+    },
+    {
+      "path": "sectors/hospitality-hotels/bd-market/data_collection:seasonality",
+      "sector": "hospitality-hotels",
+      "category": "seasonality",
+      "age_days": 9999,
+      "stale_type": "missing",
+      "priority": "P1",
+      "stale_after_days": 0,
+      "critical_after_days": 0,
+      "reason": "Zero evidence collected for sector \u2014 initial data collection needed (seasonality)"
     }
   ]
 }
