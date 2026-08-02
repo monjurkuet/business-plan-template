@@ -113,6 +113,7 @@ Full-stack OTA: flights + hotels + buses. Volume play with discount-driven acqui
 
 
 
+
 ## Recent Findings (2026-08-02)
 
 - **goroli.com** (conf: 0.69): TravelAgencyBangladeshInformation. GoZayaan. ShareTrip. Flight Expert. Obokash.travelagencydhaka. Travelzoo Bangladesh Ltd.

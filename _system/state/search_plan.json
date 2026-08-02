@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-08-01T19:11:53.247866+00:00",
+  "generated_at": "2026-08-02T01:36:58.926399+00:00",
   "models_used": [
+    "gemini-2.5-flash-lite",
+    "deepseek-ai/deepseek-v4-pro",
     "mistral/mistral-large-latest"
   ],
   "reviews": [
     {
+      "model": "gemini-2.5-flash-lite",
+      "error": "<urlopen error [Errno -2] Name or service not known>",
+      "gaps": [],
+      "recommendations": []
+    },
+    {
+      "model": "deepseek-ai/deepseek-v4-pro",
+      "error": "<urlopen error [Errno -2] Name or service not known>",
+      "gaps": [],
+      "recommendations": []
+    },
+    {
       "model": "mistral/mistral-large-latest",
-      "error": "HTTP Error 429: Too Many Requests",
+      "error": "<urlopen error [Errno -2] Name or service not known>",
       "gaps": [],
       "recommendations": []
     }
@@ -370,7 +384,7 @@
       "sector": "logistics-transport",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "Contains stale year references: 2024, 2025",
+      "reason": "Contains stale year references: 2025",
       "source_model": "freshness_policy"
     },
     {
@@ -378,7 +392,7 @@
       "sector": "logistics-transport",
       "family": "competitor_discovery",
       "priority": "P1",
-      "reason": "Contains stale year references: 2024, 2025",
+      "reason": "Contains stale year references: 2025",
       "source_model": "freshness_policy"
     },
     {

@@ -124,6 +124,9 @@ freshness: fresh
 
 
 
+
 ## Recent Findings (2026-08-02)
 
-- **aavisstudio.com** (conf: 0.89): May 13, 2026 -Yes.Aavis Studiois headquartered in Khulna but actively delivers projects in Dhaka, Chittagong, and across Bangladesh. We have the team and project management infrastructure to handle na
+- **aavisstudio.com** (conf: 0.69): May 13, 2026 -Yes.Aavis Studiois headquartered in Khulna but actively delivers projects in Dhaka, Chittagong, and across Bangladesh. We have the team and project management infrastructure to handle na
+
+- **www.archilovers.com** (conf: 0.69): Founded in 2005, Marina Tabassum Architects (MTA) is an internationally recognisedarchitectureand studio-based practice located inDhaka, Bangladesh.
